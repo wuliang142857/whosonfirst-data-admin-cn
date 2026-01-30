@@ -2,75 +2,83 @@
   "id": 1343757517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.21085,36.96301,115.21085,36.96301",
-    "geom:latitude":36.96301,
-    "geom:longitude":115.21085,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Nanxin",
-    "gn:country_code":"CN",
-    "gn:dem":35,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9115616,
-    "gn:latitude":36.96301,
-    "gn:longitude":115.21085,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Nanxin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.19085,36.94301,115.23085,36.98301",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u8f9b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.21085,36.96301,115.21085,36.96301",
+    "geom:latitude": 36.96301,
+    "geom:longitude": 115.21085,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Nanxin",
+    "gn:country_code": "CN",
+    "gn:dem": 35,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9115616,
+    "gn:latitude": 36.96301,
+    "gn:longitude": 115.21085,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Nanxin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.19085,36.94301,115.23085,36.98301",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南辛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513015
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513015,
+      1127130531
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9115616
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9115616
     },
-    "wof:country":"CN",
-    "wof:geomhash":"566cd6c869c7db7ad0ccdd071cdff646",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513015,
-            "empire_id":136253041,
-            "locality_id":1343757517,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "566cd6c869c7db7ad0ccdd071cdff646",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513015,
+        "empire_id": 136253041,
+        "locality_id": 1343757517,
+        "region_id": 85669797,
+        "localadmin_id": 1127130531
+      }
     ],
-    "wof:id":1343757517,
-    "wof:lastmodified":1566664330,
-    "wof:name":"Nanxin",
-    "wof:parent_id":890513015,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343757517,
+    "wof:lastmodified": 1768669463,
+    "wof:name": "Nanxin",
+    "wof:parent_id": 1127130531,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.21085,
     36.96301,
     115.21085,
     36.96301
-],
-  "geometry": {"coordinates":[115.21084999999999,36.96301],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.21085,
+      36.96301
+    ],
+    "type": "Point"
+  }
 }

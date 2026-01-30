@@ -2,84 +2,92 @@
   "id": 1309713737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.72406,27.65207,113.72406,27.65207",
-    "geom:latitude":27.65207,
-    "geom:longitude":113.72406,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Xiangdong",
-    "gn:country_code":"CN",
-    "gn:dem":80,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1790590,
-    "gn:latitude":27.65207,
-    "gn:longitude":113.72406,
-    "gn:modification_date":"2013-09-06",
-    "gn:name":"Xiangdong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.70406,27.63207,113.74406,27.67207",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Siangtung",
-        "Hsiang-tung",
-        "Xiangdong",
-        "Xiangdong Qu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.72406,27.65207,113.72406,27.65207",
+    "geom:latitude": 27.65207,
+    "geom:longitude": 113.72406,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Xiangdong",
+    "gn:country_code": "CN",
+    "gn:dem": 80,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1790590,
+    "gn:latitude": 27.65207,
+    "gn:longitude": 113.72406,
+    "gn:modification_date": "2013-09-06",
+    "gn:name": "Xiangdong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.70406,27.63207,113.74406,27.67207",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Siangtung",
+      "Hsiang-tung",
+      "Xiangdong",
+      "Xiangdong Qu"
     ],
-    "name:zho_x_preferred":[
-        "\u6e58\u4e1c"
+    "name:zho_x_preferred": [
+      "湘东"
     ],
-    "name:zho_x_variant":[
-        "\u6e58\u4e1c\u533a"
+    "name:zho_x_variant": [
+      "湘东区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514465,
+      1127360313
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1790590
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1790590
     },
-    "wof:country":"CN",
-    "wof:geomhash":"04d004cadbf31d894d2b83ec17adc699",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514465,
-            "empire_id":136253041,
-            "locality_id":1309713737,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "04d004cadbf31d894d2b83ec17adc699",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514465,
+        "empire_id": 136253041,
+        "locality_id": 1309713737,
+        "region_id": 85669823,
+        "localadmin_id": 1127360313
+      }
     ],
-    "wof:id":1309713737,
-    "wof:lastmodified":1566692827,
-    "wof:name":"Xiangdong",
-    "wof:parent_id":890514465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309713737,
+    "wof:lastmodified": 1768670199,
+    "wof:name": "Xiangdong",
+    "wof:parent_id": 1127360313,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.72406,
     27.65207,
     113.72406,
     27.65207
-],
-  "geometry": {"coordinates":[113.72405999999999,27.65207],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.72406,
+      27.65207
+    ],
+    "type": "Point"
+  }
 }

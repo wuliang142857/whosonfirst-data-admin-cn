@@ -2,75 +2,83 @@
   "id": 1259729795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.87176,21.94581,112.87176,21.94581",
-    "geom:latitude":21.94581,
-    "geom:longitude":112.87176,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Licun",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8065960,
-    "gn:latitude":21.94581,
-    "gn:longitude":112.87176,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Licun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.85176,21.92581,112.89176,21.96581",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.87176,21.94581,112.87176,21.94581",
+    "geom:latitude": 21.94581,
+    "geom:longitude": 112.87176,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Licun",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8065960,
+    "gn:latitude": 21.94581,
+    "gn:longitude": 112.87176,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Licun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.85176,21.92581,112.89176,21.96581",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514609,
+      1125296495
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8065960
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8065960
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8c2253cf277a0bd61c34e9fca6122da1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1259729795,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8c2253cf277a0bd61c34e9fca6122da1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1259729795,
+        "region_id": 85669743,
+        "localadmin_id": 1125296495
+      }
     ],
-    "wof:id":1259729795,
-    "wof:lastmodified":1566700629,
-    "wof:name":"Licun",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259729795,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Licun",
+    "wof:parent_id": 1125296495,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.87176,
     21.94581,
     112.87176,
     21.94581
-],
-  "geometry": {"coordinates":[112.87175999999999,21.94581],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.87176,
+      21.94581
+    ],
+    "type": "Point"
+  }
 }

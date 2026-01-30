@@ -2,84 +2,92 @@
   "id": 1293178855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.88417,26.95389,109.88417,26.95389",
-    "geom:latitude":26.95389,
-    "geom:longitude":109.88417,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Banshan",
-    "gn:country_code":"CN",
-    "gn:dem":548,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1981300,
-    "gn:latitude":26.95389,
-    "gn:longitude":109.88417,
-    "gn:modification_date":"2004-05-21",
-    "gn:name":"Banshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.86417,26.93389,109.90417,26.97389",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Banshan-Machang-Kultur"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.88417,26.95389,109.88417,26.95389",
+    "geom:latitude": 26.95389,
+    "geom:longitude": 109.88417,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Banshan",
+    "gn:country_code": "CN",
+    "gn:dem": 548,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1981300,
+    "gn:latitude": 26.95389,
+    "gn:longitude": 109.88417,
+    "gn:modification_date": "2004-05-21",
+    "gn:name": "Banshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.86417,26.93389,109.90417,26.97389",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Banshan-Machang-Kultur"
     ],
-    "name:swe_x_preferred":[
-        "Banshankulturen"
+    "name:swe_x_preferred": [
+      "Banshankulturen"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0430\u043d\u044c\u0448\u0430\u043d\u044c"
+    "name:ukr_x_preferred": [
+      "Баньшань"
     ],
-    "name:zho_x_preferred":[
-        "\u534a\u5c71\u907a\u5740"
+    "name:zho_x_preferred": [
+      "半山遺址"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514349
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514349,
+      1127431225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1981300
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1981300
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2cbf99592f05b36468a0434be5aa5d6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514349,
-            "empire_id":136253041,
-            "locality_id":1293178855,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2cbf99592f05b36468a0434be5aa5d6b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514349,
+        "empire_id": 136253041,
+        "locality_id": 1293178855,
+        "region_id": 85669781,
+        "localadmin_id": 1127431225
+      }
     ],
-    "wof:id":1293178855,
-    "wof:lastmodified":1566671518,
-    "wof:name":"Banshan",
-    "wof:parent_id":890514349,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293178855,
+    "wof:lastmodified": 1768670357,
+    "wof:name": "Banshan",
+    "wof:parent_id": 1127431225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.88417,
     26.95389,
     109.88417,
     26.95389
-],
-  "geometry": {"coordinates":[109.88417,26.95389],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.88417,
+      26.95389
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1327380521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.65264,22.29326,112.65264,22.29326",
-    "geom:latitude":22.29326,
-    "geom:longitude":112.65264,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Wangdi",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6854393,
-    "gn:latitude":22.29326,
-    "gn:longitude":112.65264,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Wangdi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.63264,22.27326,112.67264,22.31326",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Wangdi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.65264,22.29326,112.65264,22.29326",
+    "geom:latitude": 22.29326,
+    "geom:longitude": 112.65264,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Wangdi",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6854393,
+    "gn:latitude": 22.29326,
+    "gn:longitude": 112.65264,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Wangdi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.63264,22.27326,112.67264,22.31326",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Wangdi"
     ],
-    "name:rus_x_preferred":[
-        "\u0412\u0430\u043d\u0433\u0434\u0438"
+    "name:rus_x_preferred": [
+      "Вангди"
     ],
-    "name:zho_x_preferred":[
-        "\u7f51\u5730"
+    "name:zho_x_preferred": [
+      "网地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514609,
+      1125296495
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6854393
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6854393
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c376994ff91bfc0caa3f8f9b2f300230",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1327380521,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c376994ff91bfc0caa3f8f9b2f300230",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1327380521,
+        "region_id": 85669743,
+        "localadmin_id": 1125296495
+      }
     ],
-    "wof:id":1327380521,
-    "wof:lastmodified":1566647355,
-    "wof:name":"Wangdi",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327380521,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Wangdi",
+    "wof:parent_id": 1125296495,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.65264,
     22.29326,
     112.65264,
     22.29326
-],
-  "geometry": {"coordinates":[112.65264000000001,22.29326],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.65264,
+      22.29326
+    ],
+    "type": "Point"
+  }
 }

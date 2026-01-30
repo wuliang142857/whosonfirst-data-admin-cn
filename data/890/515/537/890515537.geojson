@@ -2,78 +2,86 @@
   "id": 890515537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.666418,38.835696,105.666418,38.835696",
-    "geom:latitude":38.835696,
-    "geom:longitude":105.666418,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"105.646418,38.815696,105.686418,38.855696",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Alxa Left Banner"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.666418,38.835696,105.666418,38.835696",
+    "geom:latitude": 38.835696,
+    "geom:longitude": 105.666418,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "105.646418,38.815696,105.686418,38.855696",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Alxa Left Banner"
     ],
-    "name:zho_x_preferred":[
-        "\u963f\u62c9\u5584\u5de6\u65d7"
+    "name:zho_x_preferred": [
+      "阿拉善左旗"
     ],
-    "qs:name":"\u963f\u62c9\u5584\u5de6\u65d7",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
-    "qs:photos":55,
-    "qs:photos_1k":11,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":55,
-    "qs:photos_sr":2,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        1108732533,
-        136253041,
-        85669847
+    "qs:name": "阿拉善左旗",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "内蒙古自治区",
+    "qs:photos": 55,
+    "qs:photos_1k": 11,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 55,
+    "qs:photos_sr": 2,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890516011,
+      1108732533
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2149779,
-        "qs_pg:id":1129822
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2149779,
+      "qs_pg:id": 1129822
     },
-    "wof:country":"CN",
-    "wof:created":1469055910,
-    "wof:geomhash":"4b48c3282acfccad8603e563996b638b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732533,
-            "empire_id":136253041,
-            "locality_id":890515537,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055910,
+    "wof:geomhash": "4b48c3282acfccad8603e563996b638b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732533,
+        "empire_id": 136253041,
+        "locality_id": 890515537,
+        "region_id": 85669847,
+        "localadmin_id": 890516011
+      }
     ],
-    "wof:id":890515537,
-    "wof:lastmodified":1601422975,
-    "wof:name":"Alxa Left Banner",
-    "wof:parent_id":1108732533,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515537,
+    "wof:lastmodified": 1768667007,
+    "wof:name": "Alxa Left Banner",
+    "wof:parent_id": 890516011,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.666418,
     38.835696,
     105.666418,
     38.835696
-],
-  "geometry": {"coordinates":[105.66641799999999,38.835696],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.666418,
+      38.835696
+    ],
+    "type": "Point"
+  }
 }

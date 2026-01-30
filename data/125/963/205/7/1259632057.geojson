@@ -2,90 +2,98 @@
   "id": 1259632057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.54196,29.43833,107.54196,29.43833",
-    "geom:latitude":29.43833,
-    "geom:longitude":107.54196,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Hetao",
-    "gn:country_code":"CN",
-    "gn:dem":443,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416050,
-    "gn:latitude":29.43833,
-    "gn:longitude":107.54196,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Hetao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.52196,29.41833,107.56196,29.45833",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Hetao-Ebene"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.54196,29.43833,107.54196,29.43833",
+    "geom:latitude": 29.43833,
+    "geom:longitude": 107.54196,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Hetao",
+    "gn:country_code": "CN",
+    "gn:dem": 443,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416050,
+    "gn:latitude": 29.43833,
+    "gn:longitude": 107.54196,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Hetao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.52196,29.41833,107.56196,29.45833",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Hetao-Ebene"
     ],
-    "name:fra_x_preferred":[
-        "Hetao"
+    "name:fra_x_preferred": [
+      "Hetao"
     ],
-    "name:kor_x_preferred":[
-        "\ud5c8\ud0c0\uc624"
+    "name:kor_x_preferred": [
+      "허타오"
     ],
-    "name:pol_x_preferred":[
-        "Hetao"
+    "name:pol_x_preferred": [
+      "Hetao"
     ],
-    "name:rus_x_preferred":[
-        "\u0425\u044d\u0442\u0430\u043e"
+    "name:rus_x_preferred": [
+      "Хэтао"
     ],
-    "name:zho_x_preferred":[
-        "\u6838\u6843"
+    "name:zho_x_preferred": [
+      "核桃"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416050
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416050
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2202c103fec2d97b231159ce620f79fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1259632057,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2202c103fec2d97b231159ce620f79fa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1259632057,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1259632057,
-    "wof:lastmodified":1566698404,
-    "wof:name":"Hetao",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259632057,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Hetao",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.54196,
     29.43833,
     107.54196,
     29.43833
-],
-  "geometry": {"coordinates":[107.54196,29.43833],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.54196,
+      29.43833
+    ],
+    "type": "Point"
+  }
 }

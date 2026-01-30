@@ -2,83 +2,91 @@
   "id": 1226209813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.46251,37.07484,120.46251,37.07484",
-    "geom:latitude":37.07484,
-    "geom:longitude":120.46251,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Malianzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":104,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1801355,
-    "gn:latitude":37.07484,
-    "gn:longitude":120.46251,
-    "gn:modification_date":"2013-07-05",
-    "gn:name":"Malianzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.44251,37.05484,120.48251,37.09484",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ma-lien-chuang",
-        "Malianzhuang",
-        "Malianzhuang Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.46251,37.07484,120.46251,37.07484",
+    "geom:latitude": 37.07484,
+    "geom:longitude": 120.46251,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Malianzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 104,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1801355,
+    "gn:latitude": 37.07484,
+    "gn:longitude": 120.46251,
+    "gn:modification_date": "2013-07-05",
+    "gn:name": "Malianzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.44251,37.05484,120.48251,37.09484",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ma-lien-chuang",
+      "Malianzhuang",
+      "Malianzhuang Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u9a6c\u8fde\u5e84"
+    "name:zho_x_preferred": [
+      "马连庄"
     ],
-    "name:zho_x_variant":[
-        "\u9a6c\u8fde\u5e84\u9547"
+    "name:zho_x_variant": [
+      "马连庄镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514775
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514775,
+      1127370285
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1801355
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1801355
     },
-    "wof:country":"CN",
-    "wof:geomhash":"029788372fd9488f01b05d3a80853150",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514775,
-            "empire_id":136253041,
-            "locality_id":1226209813,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "029788372fd9488f01b05d3a80853150",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514775,
+        "empire_id": 136253041,
+        "locality_id": 1226209813,
+        "region_id": 85669813,
+        "localadmin_id": 1127370285
+      }
     ],
-    "wof:id":1226209813,
-    "wof:lastmodified":1566701732,
-    "wof:name":"Malianzhuang",
-    "wof:parent_id":890514775,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226209813,
+    "wof:lastmodified": 1768668016,
+    "wof:name": "Malianzhuang",
+    "wof:parent_id": 1127370285,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.46251,
     37.07484,
     120.46251,
     37.07484
-],
-  "geometry": {"coordinates":[120.46250999999999,37.07484],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.46251,
+      37.07484
+    ],
+    "type": "Point"
+  }
 }

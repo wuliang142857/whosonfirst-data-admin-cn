@@ -2,75 +2,83 @@
   "id": 1226823811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.826,39.9866,122.826,39.9866",
-    "geom:latitude":39.9866,
-    "geom:longitude":122.826,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Tangxigou",
-    "gn:country_code":"CN",
-    "gn:dem":121,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11479221,
-    "gn:latitude":39.9866,
-    "gn:longitude":122.826,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Tangxigou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.806,39.9666,122.846,40.0066",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5510\u897f\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.826,39.9866,122.826,39.9866",
+    "geom:latitude": 39.9866,
+    "geom:longitude": 122.826,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Tangxigou",
+    "gn:country_code": "CN",
+    "gn:dem": 121,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11479221,
+    "gn:latitude": 39.9866,
+    "gn:longitude": 122.826,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Tangxigou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.806,39.9666,122.846,40.0066",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "唐西沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11479221
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11479221
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0991847366c53d3091d4cce491d0d021",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1226823811,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0991847366c53d3091d4cce491d0d021",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1226823811,
+        "region_id": 85669807,
+        "localadmin_id": 1127210283
+      }
     ],
-    "wof:id":1226823811,
-    "wof:lastmodified":1566704045,
-    "wof:name":"Tangxigou",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226823811,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Tangxigou",
+    "wof:parent_id": 1127210283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.826,
     39.9866,
     122.826,
     39.9866
-],
-  "geometry": {"coordinates":[122.82599999999999,39.9866],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.826,
+      39.9866
+    ],
+    "type": "Point"
+  }
 }

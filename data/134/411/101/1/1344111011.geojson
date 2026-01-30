@@ -2,75 +2,83 @@
   "id": 1344111011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.18965,29.68516,107.18965,29.68516",
-    "geom:latitude":29.68516,
-    "geom:longitude":107.18965,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Zhusha",
-    "gn:country_code":"CN",
-    "gn:dem":251,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416409,
-    "gn:latitude":29.68516,
-    "gn:longitude":107.18965,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Zhusha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.16965,29.66516,107.20965,29.70516",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6731\u7802"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.18965,29.68516,107.18965,29.68516",
+    "geom:latitude": 29.68516,
+    "geom:longitude": 107.18965,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Zhusha",
+    "gn:country_code": "CN",
+    "gn:dem": 251,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416409,
+    "gn:latitude": 29.68516,
+    "gn:longitude": 107.18965,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Zhusha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.16965,29.66516,107.20965,29.70516",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "朱砂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416409
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416409
     },
-    "wof:country":"CN",
-    "wof:geomhash":"785961a0a2b9eb7e78face70c5ceda63",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1344111011,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "785961a0a2b9eb7e78face70c5ceda63",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1344111011,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1344111011,
-    "wof:lastmodified":1566662775,
-    "wof:name":"Zhusha",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344111011,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Zhusha",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.18965,
     29.68516,
     107.18965,
     29.68516
-],
-  "geometry": {"coordinates":[107.18965,29.68516],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.18965,
+      29.68516
+    ],
+    "type": "Point"
+  }
 }

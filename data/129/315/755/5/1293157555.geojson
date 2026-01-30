@@ -2,78 +2,86 @@
   "id": 1293157555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.34556,32.38472,109.34556,32.38472",
-    "geom:latitude":32.38472,
-    "geom:longitude":109.34556,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Pingli",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":488,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1798763,
-    "gn:latitude":32.38472,
-    "gn:longitude":109.34556,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Pingli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.32556,32.36472,109.36556,32.40472",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pin\u2019li",
-        "P\u2019ing-li-hsien",
-        "Pingli"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.34556,32.38472,109.34556,32.38472",
+    "geom:latitude": 32.38472,
+    "geom:longitude": 109.34556,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Pingli",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 488,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1798763,
+    "gn:latitude": 32.38472,
+    "gn:longitude": 109.34556,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Pingli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.32556,32.36472,109.36556,32.40472",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pin’li",
+      "P’ing-li-hsien",
+      "Pingli"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1798763
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1798763
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2a0abf8bd0035bbee36b2609db5d04bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1293157555,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2a0abf8bd0035bbee36b2609db5d04bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1293157555,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1293157555,
-    "wof:lastmodified":1566667911,
-    "wof:name":"Pingli",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293157555,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Pingli",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.34556,
     32.38472,
     109.34556,
     32.38472
-],
-  "geometry": {"coordinates":[109.34556000000001,32.38472],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.34556,
+      32.38472
+    ],
+    "type": "Point"
+  }
 }

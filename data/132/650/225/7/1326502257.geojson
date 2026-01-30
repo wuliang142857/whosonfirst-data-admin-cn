@@ -2,75 +2,83 @@
   "id": 1326502257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.349,21.7371,109.349,21.7371",
-    "geom:latitude":21.7371,
-    "geom:longitude":109.349,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Guowu",
-    "gn:country_code":"CN",
-    "gn:dem":34,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9902436,
-    "gn:latitude":21.7371,
-    "gn:longitude":109.349,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Guowu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.329,21.7171,109.369,21.7571",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90ed\u5c4b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.349,21.7371,109.349,21.7371",
+    "geom:latitude": 21.7371,
+    "geom:longitude": 109.349,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Guowu",
+    "gn:country_code": "CN",
+    "gn:dem": 34,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9902436,
+    "gn:latitude": 21.7371,
+    "gn:longitude": 109.349,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Guowu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.329,21.7171,109.369,21.7571",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "郭屋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516487
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516487,
+      1127450521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9902436
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9902436
     },
-    "wof:country":"CN",
-    "wof:geomhash":"96dbf595e4932a6b9039b26c3820e47c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516487,
-            "empire_id":136253041,
-            "locality_id":1326502257,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "96dbf595e4932a6b9039b26c3820e47c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516487,
+        "empire_id": 136253041,
+        "locality_id": 1326502257,
+        "region_id": 85669717,
+        "localadmin_id": 1127450521
+      }
     ],
-    "wof:id":1326502257,
-    "wof:lastmodified":1566649881,
-    "wof:name":"Guowu",
-    "wof:parent_id":890516487,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326502257,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Guowu",
+    "wof:parent_id": 1127450521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.349,
     21.7371,
     109.349,
     21.7371
-],
-  "geometry": {"coordinates":[109.349,21.7371],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.349,
+      21.7371
+    ],
+    "type": "Point"
+  }
 }

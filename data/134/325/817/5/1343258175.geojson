@@ -2,78 +2,86 @@
   "id": 1343258175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.7199,32.43955,114.7199,32.43955",
-    "geom:latitude":32.43955,
-    "geom:longitude":114.7199,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Helou",
-    "gn:country_code":"CN",
-    "gn:dem":52,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10423105,
-    "gn:latitude":32.43955,
-    "gn:longitude":114.7199,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Helou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.6999,32.41955,114.7399,32.45955",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:rus_x_preferred":[
-        "\u042d\u043b\u0443"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.7199,32.43955,114.7199,32.43955",
+    "geom:latitude": 32.43955,
+    "geom:longitude": 114.7199,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Helou",
+    "gn:country_code": "CN",
+    "gn:dem": 52,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10423105,
+    "gn:latitude": 32.43955,
+    "gn:longitude": 114.7199,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Helou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.6999,32.41955,114.7399,32.45955",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:rus_x_preferred": [
+      "Элу"
     ],
-    "name:zho_x_preferred":[
-        "\u4f55\u697c"
+    "name:zho_x_preferred": [
+      "何楼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890512239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890512239,
+      1127411528
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10423105
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10423105
     },
-    "wof:country":"CN",
-    "wof:geomhash":"69dda3a922807dcb8c580ac1ce17e2a8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512239,
-            "empire_id":136253041,
-            "locality_id":1343258175,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "69dda3a922807dcb8c580ac1ce17e2a8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512239,
+        "empire_id": 136253041,
+        "locality_id": 1343258175,
+        "region_id": 85669801,
+        "localadmin_id": 1127411528
+      }
     ],
-    "wof:id":1343258175,
-    "wof:lastmodified":1566660540,
-    "wof:name":"Helou",
-    "wof:parent_id":890512239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343258175,
+    "wof:lastmodified": 1768669286,
+    "wof:name": "Helou",
+    "wof:parent_id": 1127411528,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.7199,
     32.43955,
     114.7199,
     32.43955
-],
-  "geometry": {"coordinates":[114.7199,32.43955],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.7199,
+      32.43955
+    ],
+    "type": "Point"
+  }
 }

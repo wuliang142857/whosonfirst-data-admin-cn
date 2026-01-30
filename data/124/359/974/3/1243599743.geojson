@@ -2,84 +2,92 @@
   "id": 1243599743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.172,28.7704,105.172,28.7704",
-    "geom:latitude":28.7704,
-    "geom:longitude":105.172,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Xinmin",
-    "gn:country_code":"CN",
-    "gn:dem":290,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183766,
-    "gn:latitude":28.7704,
-    "gn:longitude":105.172,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Xinmin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.152,28.7504,105.192,28.7904",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Xinmin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.172,28.7704,105.172,28.7704",
+    "geom:latitude": 28.7704,
+    "geom:longitude": 105.172,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Xinmin",
+    "gn:country_code": "CN",
+    "gn:dem": 290,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183766,
+    "gn:latitude": 28.7704,
+    "gn:longitude": 105.172,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Xinmin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.152,28.7504,105.192,28.7904",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Xinmin"
     ],
-    "name:deu_x_preferred":[
-        "Xinmin"
+    "name:deu_x_preferred": [
+      "Xinmin"
     ],
-    "name:mlg_x_preferred":[
-        "Xinmin"
+    "name:mlg_x_preferred": [
+      "Xinmin"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u6c11"
+    "name:zho_x_preferred": [
+      "新民"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516537,
+      1127511523
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183766
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183766
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d87c31b7241761faf4a968649206d14f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1243599743,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d87c31b7241761faf4a968649206d14f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1243599743,
+        "region_id": 85669787,
+        "localadmin_id": 1127511523
+      }
     ],
-    "wof:id":1243599743,
-    "wof:lastmodified":1566695868,
-    "wof:name":"Xinmin",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243599743,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Xinmin",
+    "wof:parent_id": 1127511523,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.172,
     28.7704,
     105.172,
     28.7704
-],
-  "geometry": {"coordinates":[105.172,28.7704],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.172,
+      28.7704
+    ],
+    "type": "Point"
+  }
 }

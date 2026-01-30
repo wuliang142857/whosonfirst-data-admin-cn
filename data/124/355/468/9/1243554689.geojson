@@ -2,87 +2,95 @@
   "id": 1243554689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.87568,32.3082,119.87568,32.3082",
-    "geom:latitude":32.3082,
-    "geom:longitude":119.87568,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Kou'an",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1804720,
-    "gn:latitude":32.3082,
-    "gn:longitude":119.87568,
-    "gn:modification_date":"2012-05-05",
-    "gn:name":"Kou\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.85568,32.2882,119.89568,32.3282",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "An-k\u2019ou",
-        "Kowan",
-        "K\u2019ou-an-chen",
-        "Kou\u2019an",
-        "Gaogang Qu",
-        "Kou\u2019an Jiedao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.87568,32.3082,119.87568,32.3082",
+    "geom:latitude": 32.3082,
+    "geom:longitude": 119.87568,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Kou'an",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1804720,
+    "gn:latitude": 32.3082,
+    "gn:longitude": 119.87568,
+    "gn:modification_date": "2012-05-05",
+    "gn:name": "Kou’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.85568,32.2882,119.89568,32.3282",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "An-k’ou",
+      "Kowan",
+      "K’ou-an-chen",
+      "Kou’an",
+      "Gaogang Qu",
+      "Kou’an Jiedao"
     ],
-    "name:zho_x_preferred":[
-        "\u53e3\u5cb8"
+    "name:zho_x_preferred": [
+      "口岸"
     ],
-    "name:zho_x_variant":[
-        "\u9ad8\u6e2f\u533a",
-        "\u53e3\u5cb8\u8857\u9053"
+    "name:zho_x_variant": [
+      "高港区",
+      "口岸街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516237,
+      1127321203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1804720
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1804720
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8aa7bf931b68c2a8e7f3420173b8489a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1243554689,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8aa7bf931b68c2a8e7f3420173b8489a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1243554689,
+        "region_id": 85669827,
+        "localadmin_id": 1127321203
+      }
     ],
-    "wof:id":1243554689,
-    "wof:lastmodified":1566694334,
-    "wof:name":"Kou'an",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243554689,
+    "wof:lastmodified": 1768670650,
+    "wof:name": "Kou'an",
+    "wof:parent_id": 1127321203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.87568,
     32.3082,
     119.87568,
     32.3082
-],
-  "geometry": {"coordinates":[119.87568,32.3082],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.87568,
+      32.3082
+    ],
+    "type": "Point"
+  }
 }

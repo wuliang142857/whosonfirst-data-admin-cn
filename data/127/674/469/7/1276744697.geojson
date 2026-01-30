@@ -2,75 +2,83 @@
   "id": 1276744697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.865,23.6861,106.865,23.6861",
-    "geom:latitude":23.6861,
-    "geom:longitude":106.865,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Chaoma",
-    "gn:country_code":"CN",
-    "gn:dem":170,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9929030,
-    "gn:latitude":23.6861,
-    "gn:longitude":106.865,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Chaoma",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.845,23.6661,106.885,23.7061",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u671d\u9a6c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.865,23.6861,106.865,23.6861",
+    "geom:latitude": 23.6861,
+    "geom:longitude": 106.865,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Chaoma",
+    "gn:country_code": "CN",
+    "gn:dem": 170,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9929030,
+    "gn:latitude": 23.6861,
+    "gn:longitude": 106.865,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Chaoma",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.845,23.6661,106.885,23.7061",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "朝马"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513903,
+      890516485
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9929030
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9929030
     },
-    "wof:country":"CN",
-    "wof:geomhash":"69953c5b8f3aa862317a2b9819eb36df",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1276744697,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "69953c5b8f3aa862317a2b9819eb36df",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1276744697,
+        "region_id": 85669717,
+        "localadmin_id": 890513903
+      }
     ],
-    "wof:id":1276744697,
-    "wof:lastmodified":1566673472,
-    "wof:name":"Chaoma",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276744697,
+    "wof:lastmodified": 1768665072,
+    "wof:name": "Chaoma",
+    "wof:parent_id": 890513903,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.865,
     23.6861,
     106.865,
     23.6861
-],
-  "geometry": {"coordinates":[106.86499999999999,23.6861],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.865,
+      23.6861
+    ],
+    "type": "Point"
+  }
 }

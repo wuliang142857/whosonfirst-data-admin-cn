@@ -2,78 +2,86 @@
   "id": 1327204811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"86.7531,28.8153,86.7531,28.8153",
-    "geom:latitude":28.8153,
-    "geom:longitude":86.7531,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Ciri",
-    "gn:country_code":"CN",
-    "gn:dem":4549,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9088748,
-    "gn:latitude":28.8153,
-    "gn:longitude":86.7531,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Ciri",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"86.7331,28.7953,86.7731,28.8353",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Ciri"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "86.7531,28.8153,86.7531,28.8153",
+    "geom:latitude": 28.8153,
+    "geom:longitude": 86.7531,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Ciri",
+    "gn:country_code": "CN",
+    "gn:dem": 4549,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9088748,
+    "gn:latitude": 28.8153,
+    "gn:longitude": 86.7531,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Ciri",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "86.7331,28.7953,86.7731,28.8353",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Ciri"
     ],
-    "name:zho_x_preferred":[
-        "\u6b21\u65e5"
+    "name:zho_x_preferred": [
+      "次日"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890515293,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9088748
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9088748
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ec60ee50a2e9a0c17ff542a0eb60f20c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1327204811,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ec60ee50a2e9a0c17ff542a0eb60f20c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1327204811,
+        "region_id": 85669747,
+        "localadmin_id": 890515293
+      }
     ],
-    "wof:id":1327204811,
-    "wof:lastmodified":1566655382,
-    "wof:name":"Ciri",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327204811,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Ciri",
+    "wof:parent_id": 890515293,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     86.7531,
     28.8153,
     86.7531,
     28.8153
-],
-  "geometry": {"coordinates":[86.7531,28.8153],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      86.7531,
+      28.8153
+    ],
+    "type": "Point"
+  }
 }

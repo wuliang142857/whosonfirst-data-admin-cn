@@ -2,75 +2,83 @@
   "id": 1292985105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.15867,33.65552,115.15867,33.65552",
-    "geom:latitude":33.65552,
-    "geom:longitude":115.15867,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Kongqiao",
-    "gn:country_code":"CN",
-    "gn:dem":45,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10634230,
-    "gn:latitude":33.65552,
-    "gn:longitude":115.15867,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Kongqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.13867,33.63552,115.17867,33.67552",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b54\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.15867,33.65552,115.15867,33.65552",
+    "geom:latitude": 33.65552,
+    "geom:longitude": 115.15867,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Kongqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 45,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10634230,
+    "gn:latitude": 33.65552,
+    "gn:longitude": 115.15867,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Kongqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.13867,33.63552,115.17867,33.67552",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "孔桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890513843
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513843,
+      1127411625
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10634230
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10634230
     },
-    "wof:country":"CN",
-    "wof:geomhash":"042918fbd4f9518260c1c21e8b459081",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513843,
-            "empire_id":136253041,
-            "locality_id":1292985105,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "042918fbd4f9518260c1c21e8b459081",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513843,
+        "empire_id": 136253041,
+        "locality_id": 1292985105,
+        "region_id": 85669801,
+        "localadmin_id": 1127411625
+      }
     ],
-    "wof:id":1292985105,
-    "wof:lastmodified":1566669974,
-    "wof:name":"Kongqiao",
-    "wof:parent_id":890513843,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292985105,
+    "wof:lastmodified": 1768669420,
+    "wof:name": "Kongqiao",
+    "wof:parent_id": 1127411625,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.15867,
     33.65552,
     115.15867,
     33.65552
-],
-  "geometry": {"coordinates":[115.15867,33.65552],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.15867,
+      33.65552
+    ],
+    "type": "Point"
+  }
 }

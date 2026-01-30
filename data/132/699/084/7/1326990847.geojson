@@ -2,79 +2,87 @@
   "id": 1326990847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.98271,27.35572,102.98271,27.35572",
-    "geom:latitude":27.35572,
-    "geom:longitude":102.98271,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Jiecun",
-    "gn:country_code":"CN",
-    "gn:dem":1329,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":9015387,
-    "gn:latitude":27.35572,
-    "gn:longitude":102.98271,
-    "gn:modification_date":"2014-05-02",
-    "gn:name":"Jiecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.96271,27.33572,103.00271,27.37572",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u8857\u6751",
-        "Maozu",
-        "Maozu Xiang",
-        "\u8302\u79df",
-        "\u8302\u79df\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.98271,27.35572,102.98271,27.35572",
+    "geom:latitude": 27.35572,
+    "geom:longitude": 102.98271,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Jiecun",
+    "gn:country_code": "CN",
+    "gn:dem": 1329,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 9015387,
+    "gn:latitude": 27.35572,
+    "gn:longitude": 102.98271,
+    "gn:modification_date": "2014-05-02",
+    "gn:name": "Jiecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.96271,27.33572,103.00271,27.37572",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "街村",
+      "Maozu",
+      "Maozu Xiang",
+      "茂租",
+      "茂租乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514257,
+      1127530622
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9015387
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9015387
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5f71d297689f6a22f7edc822ee5daa27",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1326990847,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5f71d297689f6a22f7edc822ee5daa27",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1326990847,
+        "region_id": 85669791,
+        "localadmin_id": 1127530622
+      }
     ],
-    "wof:id":1326990847,
-    "wof:lastmodified":1566652925,
-    "wof:name":"Jiecun",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326990847,
+    "wof:lastmodified": 1768668497,
+    "wof:name": "Jiecun",
+    "wof:parent_id": 1127530622,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.98271,
     27.35572,
     102.98271,
     27.35572
-],
-  "geometry": {"coordinates":[102.98271,27.35572],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.98271,
+      27.35572
+    ],
+    "type": "Point"
+  }
 }

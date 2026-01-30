@@ -2,75 +2,83 @@
   "id": 1293444643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.99162,33.25379,105.99162,33.25379",
-    "geom:latitude":33.25379,
-    "geom:longitude":105.99162,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Yangjiakan",
-    "gn:country_code":"CN",
-    "gn:dem":1140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7373903,
-    "gn:latitude":33.25379,
-    "gn:longitude":105.99162,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yangjiakan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.97162,33.23379,106.01162,33.27379",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6768\u5bb6\u574e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.99162,33.25379,105.99162,33.25379",
+    "geom:latitude": 33.25379,
+    "geom:longitude": 105.99162,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Yangjiakan",
+    "gn:country_code": "CN",
+    "gn:dem": 1140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7373903,
+    "gn:latitude": 33.25379,
+    "gn:longitude": 105.99162,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yangjiakan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.97162,33.23379,106.01162,33.27379",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "杨家坎"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515085,
+      890515099
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7373903
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7373903
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4e32da6249efff1bfb552d03cf45c5bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1293444643,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4e32da6249efff1bfb552d03cf45c5bd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1293444643,
+        "region_id": 85669769,
+        "localadmin_id": 890515085
+      }
     ],
-    "wof:id":1293444643,
-    "wof:lastmodified":1566672041,
-    "wof:name":"Yangjiakan",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293444643,
+    "wof:lastmodified": 1768667987,
+    "wof:name": "Yangjiakan",
+    "wof:parent_id": 890515085,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.99162,
     33.25379,
     105.99162,
     33.25379
-],
-  "geometry": {"coordinates":[105.99162,33.25379],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.99162,
+      33.25379
+    ],
+    "type": "Point"
+  }
 }

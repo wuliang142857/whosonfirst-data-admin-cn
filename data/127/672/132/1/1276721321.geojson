@@ -2,75 +2,83 @@
   "id": 1276721321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.534,31.1234,106.534,31.1234",
-    "geom:latitude":31.1234,
-    "geom:longitude":106.534,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shentang",
-    "gn:country_code":"CN",
-    "gn:dem":359,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10159698,
-    "gn:latitude":31.1234,
-    "gn:longitude":106.534,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shentang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.514,31.1034,106.554,31.1434",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6df1\u5802"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.534,31.1234,106.534,31.1234",
+    "geom:latitude": 31.1234,
+    "geom:longitude": 106.534,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shentang",
+    "gn:country_code": "CN",
+    "gn:dem": 359,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10159698,
+    "gn:latitude": 31.1234,
+    "gn:longitude": 106.534,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shentang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.514,31.1034,106.554,31.1434",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "深堂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      1127511322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10159698
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10159698
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6adf832d64b2027808c74b2b7ecf44eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1276721321,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6adf832d64b2027808c74b2b7ecf44eb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1276721321,
+        "region_id": 85669787,
+        "localadmin_id": 1127511322
+      }
     ],
-    "wof:id":1276721321,
-    "wof:lastmodified":1566672479,
-    "wof:name":"Shentang",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276721321,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Shentang",
+    "wof:parent_id": 1127511322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.534,
     31.1234,
     106.534,
     31.1234
-],
-  "geometry": {"coordinates":[106.53400000000001,31.1234],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.534,
+      31.1234
+    ],
+    "type": "Point"
+  }
 }

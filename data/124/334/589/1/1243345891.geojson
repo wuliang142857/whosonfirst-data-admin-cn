@@ -2,75 +2,83 @@
   "id": 1243345891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.36886,33.93223,105.36886,33.93223",
-    "geom:latitude":33.93223,
-    "geom:longitude":105.36886,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Houchuan",
-    "gn:country_code":"CN",
-    "gn:dem":1833,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7373579,
-    "gn:latitude":33.93223,
-    "gn:longitude":105.36886,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Houchuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.34886,33.91223,105.38886,33.95223",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u540e\u5ddd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.36886,33.93223,105.36886,33.93223",
+    "geom:latitude": 33.93223,
+    "geom:longitude": 105.36886,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Houchuan",
+    "gn:country_code": "CN",
+    "gn:dem": 1833,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7373579,
+    "gn:latitude": 33.93223,
+    "gn:longitude": 105.36886,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Houchuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.34886,33.91223,105.38886,33.95223",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "后川"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890514797,
+      890516335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7373579
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7373579
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e56f966a1221c56231993603f85ee58",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1243345891,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e56f966a1221c56231993603f85ee58",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1243345891,
+        "region_id": 85669711,
+        "localadmin_id": 890514797
+      }
     ],
-    "wof:id":1243345891,
-    "wof:lastmodified":1566696331,
-    "wof:name":"Houchuan",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243345891,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Houchuan",
+    "wof:parent_id": 890514797,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.36886,
     33.93223,
     105.36886,
     33.93223
-],
-  "geometry": {"coordinates":[105.36886,33.93223],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.36886,
+      33.93223
+    ],
+    "type": "Point"
+  }
 }

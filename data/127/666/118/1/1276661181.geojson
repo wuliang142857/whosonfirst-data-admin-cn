@@ -2,78 +2,86 @@
   "id": 1276661181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.25768,30.722,118.25768,30.722",
-    "geom:latitude":30.722,
-    "geom:longitude":118.25768,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Lushan",
-    "gn:country_code":"CN",
-    "gn:dem":78,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7638096,
-    "gn:latitude":30.722,
-    "gn:longitude":118.25768,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"L\u00fcshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.23768,30.702,118.27768,30.742",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "L\u00fcshan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.25768,30.722,118.25768,30.722",
+    "geom:latitude": 30.722,
+    "geom:longitude": 118.25768,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Lushan",
+    "gn:country_code": "CN",
+    "gn:dem": 78,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7638096,
+    "gn:latitude": 30.722,
+    "gn:longitude": 118.25768,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Lüshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.23768,30.702,118.27768,30.742",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Lüshan"
     ],
-    "name:zho_x_variant":[
-        "\u5415\u5c71"
+    "name:zho_x_variant": [
+      "吕山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513093
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513093,
+      1127340223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7638096
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7638096
     },
-    "wof:country":"CN",
-    "wof:geomhash":"48a5d06cc4128199d5bdd959297b733f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513093,
-            "empire_id":136253041,
-            "locality_id":1276661181,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "48a5d06cc4128199d5bdd959297b733f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513093,
+        "empire_id": 136253041,
+        "locality_id": 1276661181,
+        "region_id": 85669739,
+        "localadmin_id": 1127340223
+      }
     ],
-    "wof:id":1276661181,
-    "wof:lastmodified":1566674835,
-    "wof:name":"Lushan",
-    "wof:parent_id":890513093,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276661181,
+    "wof:lastmodified": 1768669816,
+    "wof:name": "Lushan",
+    "wof:parent_id": 1127340223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.25768,
     30.722,
     118.25768,
     30.722
-],
-  "geometry": {"coordinates":[118.25767999999999,30.722],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.25768,
+      30.722
+    ],
+    "type": "Point"
+  }
 }

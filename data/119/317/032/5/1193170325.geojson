@@ -2,84 +2,92 @@
   "id": 1193170325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.57952,18.2405,109.57952,18.2405",
-    "geom:latitude":18.2405,
-    "geom:longitude":109.57952,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Luoyu",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7632531,
-    "gn:latitude":18.2405,
-    "gn:longitude":109.57952,
-    "gn:modification_date":"2011-05-09",
-    "gn:name":"Luoyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.55952,18.2205,109.59952,18.2605",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u7f57\u90c1",
-        "Luoyushangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.57952,18.2405,109.57952,18.2405",
+    "geom:latitude": 18.2405,
+    "geom:longitude": 109.57952,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Luoyu",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7632531,
+    "gn:latitude": 18.2405,
+    "gn:longitude": 109.57952,
+    "gn:modification_date": "2011-05-09",
+    "gn:name": "Luoyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.55952,18.2205,109.59952,18.2605",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "罗郁",
+      "Luoyushangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u7f57\u90c1"
+    "name:zho_x_preferred": [
+      "罗郁"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      1108732333,
+      1127460203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7632531
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7632531
     },
-    "wof:concordances_alt":{
-        "gn:id":[
-            1887499
-        ]
+    "wof:concordances_alt": {
+      "gn:id": [
+        1887499
+      ]
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b8cecd4f63111d93bb95be80355541fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732333,
-            "locality_id":1193170325,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b8cecd4f63111d93bb95be80355541fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732333,
+        "locality_id": 1193170325,
+        "region_id": 85669759,
+        "localadmin_id": 1127460203
+      }
     ],
-    "wof:id":1193170325,
-    "wof:lastmodified":1706239400,
-    "wof:name":"Luoyu",
-    "wof:parent_id":1108732333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1343299263
+    "wof:id": 1193170325,
+    "wof:lastmodified": 1768671239,
+    "wof:name": "Luoyu",
+    "wof:parent_id": 1127460203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1343299263
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     109.57952,
     18.2405,
     109.57952,
     18.2405
-],
-  "geometry": {"coordinates":[109.57952,18.2405],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.57952,
+      18.2405
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1326911821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.559,22.5119,108.559,22.5119",
-    "geom:latitude":22.5119,
-    "geom:longitude":108.559,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tingna",
-    "gn:country_code":"CN",
-    "gn:dem":125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9898236,
-    "gn:latitude":22.5119,
-    "gn:longitude":108.559,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Tingna",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.539,22.4919,108.579,22.5319",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u505c\u90a3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.559,22.5119,108.559,22.5119",
+    "geom:latitude": 22.5119,
+    "geom:longitude": 108.559,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tingna",
+    "gn:country_code": "CN",
+    "gn:dem": 125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9898236,
+    "gn:latitude": 22.5119,
+    "gn:longitude": 108.559,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Tingna",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.539,22.4919,108.579,22.5319",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "停那"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513205,
+      890515419
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9898236
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9898236
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0ec0c3f5d17cc799b23f3232248b8285",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1326911821,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0ec0c3f5d17cc799b23f3232248b8285",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1326911821,
+        "region_id": 85669717,
+        "localadmin_id": 890513205
+      }
     ],
-    "wof:id":1326911821,
-    "wof:lastmodified":1566653701,
-    "wof:name":"Tingna",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326911821,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Tingna",
+    "wof:parent_id": 890513205,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.559,
     22.5119,
     108.559,
     22.5119
-],
-  "geometry": {"coordinates":[108.559,22.5119],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.559,
+      22.5119
+    ],
+    "type": "Point"
+  }
 }

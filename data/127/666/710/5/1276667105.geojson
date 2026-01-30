@@ -2,83 +2,91 @@
   "id": 1276667105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.84668,33.57013,115.84668,33.57013",
-    "geom:latitude":33.57013,
-    "geom:longitude":115.84668,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Licuncun",
-    "gn:country_code":"CN",
-    "gn:dem":36,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1558161,
-    "gn:latitude":33.57013,
-    "gn:longitude":115.84668,
-    "gn:modification_date":"2017-02-03",
-    "gn:name":"Licuncun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.82668,33.55013,115.86668,33.59013",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Li-ts\u2019un-ssu",
-        "Licun",
-        "Licuncun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.84668,33.57013,115.84668,33.57013",
+    "geom:latitude": 33.57013,
+    "geom:longitude": 115.84668,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Licuncun",
+    "gn:country_code": "CN",
+    "gn:dem": 36,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1558161,
+    "gn:latitude": 33.57013,
+    "gn:longitude": 115.84668,
+    "gn:modification_date": "2017-02-03",
+    "gn:name": "Licuncun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.82668,33.55013,115.86668,33.59013",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Li-ts’un-ssu",
+      "Licun",
+      "Licuncun"
     ],
-    "name:zho_x_preferred":[
-        "\u674e\u6751\u6751"
+    "name:zho_x_preferred": [
+      "李村村"
     ],
-    "name:zho_x_variant":[
-        "\u674e\u6751"
+    "name:zho_x_variant": [
+      "李村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515239,
+      1127341602
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1558161
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1558161
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1581b66ca7db805fa1cee5f900abd899",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1276667105,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1581b66ca7db805fa1cee5f900abd899",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1276667105,
+        "region_id": 85669739,
+        "localadmin_id": 1127341602
+      }
     ],
-    "wof:id":1276667105,
-    "wof:lastmodified":1566674867,
-    "wof:name":"Licuncun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276667105,
+    "wof:lastmodified": 1768669757,
+    "wof:name": "Licuncun",
+    "wof:parent_id": 1127341602,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.84668,
     33.57013,
     115.84668,
     33.57013
-],
-  "geometry": {"coordinates":[115.84668000000001,33.57013],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.84668,
+      33.57013
+    ],
+    "type": "Point"
+  }
 }

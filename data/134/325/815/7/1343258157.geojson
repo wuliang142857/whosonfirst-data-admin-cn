@@ -2,75 +2,83 @@
   "id": 1343258157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.149,34.1996,116.149,34.1996",
-    "geom:latitude":34.1996,
-    "geom:longitude":116.149,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Libanlou",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9130566,
-    "gn:latitude":34.1996,
-    "gn:longitude":116.149,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Libanlou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.129,34.1796,116.169,34.2196",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u534a\u697c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.149,34.1996,116.149,34.1996",
+    "geom:latitude": 34.1996,
+    "geom:longitude": 116.149,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Libanlou",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9130566,
+    "gn:latitude": 34.1996,
+    "gn:longitude": 116.149,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Libanlou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.129,34.1796,116.169,34.2196",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李半楼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514845,
+      1127411426
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9130566
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9130566
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f880ee052ec19e0c42d424a3686447bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514845,
-            "empire_id":136253041,
-            "locality_id":1343258157,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f880ee052ec19e0c42d424a3686447bd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514845,
+        "empire_id": 136253041,
+        "locality_id": 1343258157,
+        "region_id": 85669801,
+        "localadmin_id": 1127411426
+      }
     ],
-    "wof:id":1343258157,
-    "wof:lastmodified":1566660575,
-    "wof:name":"Libanlou",
-    "wof:parent_id":890514845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343258157,
+    "wof:lastmodified": 1768669080,
+    "wof:name": "Libanlou",
+    "wof:parent_id": 1127411426,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.149,
     34.1996,
     116.149,
     34.1996
-],
-  "geometry": {"coordinates":[116.149,34.1996],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.149,
+      34.1996
+    ],
+    "type": "Point"
+  }
 }

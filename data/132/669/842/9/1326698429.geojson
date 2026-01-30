@@ -2,78 +2,86 @@
   "id": 1326698429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.02805,31.1144,121.02805,31.1144",
-    "geom:latitude":31.1144,
-    "geom:longitude":121.02805,
-    "gn:admin1_code":"23.0",
-    "gn:asciiname":"Heshangduan",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7843415,
-    "gn:latitude":31.1144,
-    "gn:longitude":121.02805,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Heshangduan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.00805,31.0944,121.04805,31.1344",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Heshangduan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.02805,31.1144,121.02805,31.1144",
+    "geom:latitude": 31.1144,
+    "geom:longitude": 121.02805,
+    "gn:admin1_code": "23.0",
+    "gn:asciiname": "Heshangduan",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7843415,
+    "gn:latitude": 31.1144,
+    "gn:longitude": 121.02805,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Heshangduan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.00805,31.0944,121.04805,31.1344",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Heshangduan"
     ],
-    "name:zho_x_variant":[
-        "\u548c\u5c1a\u6bb5"
+    "name:zho_x_variant": [
+      "和尚段"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514601,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7843415
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7843415
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4c085afb88d7183e6ac5407b607e21f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1326698429,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4c085afb88d7183e6ac5407b607e21f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1326698429,
+        "region_id": 85669831,
+        "localadmin_id": 890514601
+      }
     ],
-    "wof:id":1326698429,
-    "wof:lastmodified":1566648612,
-    "wof:name":"Heshangduan",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326698429,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Heshangduan",
+    "wof:parent_id": 890514601,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.02805,
     31.1144,
     121.02805,
     31.1144
-],
-  "geometry": {"coordinates":[121.02804999999999,31.1144],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.02805,
+      31.1144
+    ],
+    "type": "Point"
+  }
 }

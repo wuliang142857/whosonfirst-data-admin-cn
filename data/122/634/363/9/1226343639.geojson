@@ -2,75 +2,83 @@
   "id": 1226343639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.25187,29.19731,115.25187,29.19731",
-    "geom:latitude":29.19731,
-    "geom:longitude":115.25187,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Dahuyan",
-    "gn:country_code":"CN",
-    "gn:dem":189,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7753278,
-    "gn:latitude":29.19731,
-    "gn:longitude":115.25187,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Dahuyan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.23187,29.17731,115.27187,29.21731",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5927\u6e56\u5830"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.25187,29.19731,115.25187,29.19731",
+    "geom:latitude": 29.19731,
+    "geom:longitude": 115.25187,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Dahuyan",
+    "gn:country_code": "CN",
+    "gn:dem": 189,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7753278,
+    "gn:latitude": 29.19731,
+    "gn:longitude": 115.25187,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Dahuyan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.23187,29.17731,115.27187,29.21731",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "大湖堰"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7753278
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7753278
     },
-    "wof:country":"CN",
-    "wof:geomhash":"33b6b89277c835425d2a60da51150d8b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1226343639,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "33b6b89277c835425d2a60da51150d8b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1226343639,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1226343639,
-    "wof:lastmodified":1566701913,
-    "wof:name":"Dahuyan",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226343639,
+    "wof:lastmodified": 1768669674,
+    "wof:name": "Dahuyan",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.25187,
     29.19731,
     115.25187,
     29.19731
-],
-  "geometry": {"coordinates":[115.25187,29.19731],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.25187,
+      29.19731
+    ],
+    "type": "Point"
+  }
 }

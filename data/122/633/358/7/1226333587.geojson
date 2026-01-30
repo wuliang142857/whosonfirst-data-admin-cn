@@ -2,84 +2,92 @@
   "id": 1226333587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.48444,25.05694,118.48444,25.05694",
-    "geom:latitude":25.05694,
-    "geom:longitude":118.48444,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Tulu",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2006313,
-    "gn:latitude":25.05694,
-    "gn:longitude":118.48444,
-    "gn:modification_date":"2005-12-20",
-    "gn:name":"Tulu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.46444,25.03694,118.50444,25.07694",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Tulu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.48444,25.05694,118.48444,25.05694",
+    "geom:latitude": 25.05694,
+    "geom:longitude": 118.48444,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Tulu",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2006313,
+    "gn:latitude": 25.05694,
+    "gn:longitude": 118.48444,
+    "gn:modification_date": "2005-12-20",
+    "gn:name": "Tulu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.46444,25.03694,118.50444,25.07694",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Tulu"
     ],
-    "name:deu_x_preferred":[
-        "Tulu"
+    "name:deu_x_preferred": [
+      "Tulu"
     ],
-    "name:rus_x_preferred":[
-        "\u0422\u0443\u043b\u0443"
+    "name:rus_x_preferred": [
+      "Тулу"
     ],
-    "name:swe_x_preferred":[
-        "Tulu"
+    "name:swe_x_preferred": [
+      "Tulu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512829,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2006313
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2006313
     },
-    "wof:country":"CN",
-    "wof:geomhash":"58ca8a52f5548112c68e3ddcf0bd2fe3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1226333587,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "58ca8a52f5548112c68e3ddcf0bd2fe3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1226333587,
+        "region_id": 85669735,
+        "localadmin_id": 890512829
+      }
     ],
-    "wof:id":1226333587,
-    "wof:lastmodified":1566701888,
-    "wof:name":"Tulu",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226333587,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Tulu",
+    "wof:parent_id": 890512829,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.48444,
     25.05694,
     118.48444,
     25.05694
-],
-  "geometry": {"coordinates":[118.48444000000001,25.05694],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.48444,
+      25.05694
+    ],
+    "type": "Point"
+  }
 }

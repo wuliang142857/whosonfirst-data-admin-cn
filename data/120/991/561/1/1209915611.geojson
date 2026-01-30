@@ -2,75 +2,83 @@
   "id": 1209915611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.95749,28.11828,116.95749,28.11828",
-    "geom:latitude":28.11828,
-    "geom:longitude":116.95749,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Yutangcun",
-    "gn:country_code":"CN",
-    "gn:dem":57,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7327708,
-    "gn:latitude":28.11828,
-    "gn:longitude":116.95749,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yutangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.93749,28.09828,116.97749,28.13828",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9c7c\u5858\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.95749,28.11828,116.95749,28.11828",
+    "geom:latitude": 28.11828,
+    "geom:longitude": 116.95749,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Yutangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 57,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7327708,
+    "gn:latitude": 28.11828,
+    "gn:longitude": 116.95749,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yutangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.93749,28.09828,116.97749,28.13828",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "鱼塘村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514939
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514939,
+      1127360681
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7327708
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7327708
     },
-    "wof:country":"CN",
-    "wof:geomhash":"413297615bd9ce66bf44bace284447f1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514939,
-            "empire_id":136253041,
-            "locality_id":1209915611,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "413297615bd9ce66bf44bace284447f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514939,
+        "empire_id": 136253041,
+        "locality_id": 1209915611,
+        "region_id": 85669823,
+        "localadmin_id": 1127360681
+      }
     ],
-    "wof:id":1209915611,
-    "wof:lastmodified":1566679111,
-    "wof:name":"Yutangcun",
-    "wof:parent_id":890514939,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209915611,
+    "wof:lastmodified": 1768670191,
+    "wof:name": "Yutangcun",
+    "wof:parent_id": 1127360681,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.95749,
     28.11828,
     116.95749,
     28.11828
-],
-  "geometry": {"coordinates":[116.95749000000001,28.11828],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.95749,
+      28.11828
+    ],
+    "type": "Point"
+  }
 }

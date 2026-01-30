@@ -2,75 +2,83 @@
   "id": 1327382715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.01853,30.92014,109.01853,30.92014",
-    "geom:latitude":30.92014,
-    "geom:longitude":109.01853,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Taoping",
-    "gn:country_code":"CN",
-    "gn:dem":446,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8399711,
-    "gn:latitude":30.92014,
-    "gn:longitude":109.01853,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Taoping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.99853,30.90014,109.03853,30.94014",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6843\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.01853,30.92014,109.01853,30.92014",
+    "geom:latitude": 30.92014,
+    "geom:longitude": 109.01853,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Taoping",
+    "gn:country_code": "CN",
+    "gn:dem": 446,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8399711,
+    "gn:latitude": 30.92014,
+    "gn:longitude": 109.01853,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Taoping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.99853,30.90014,109.03853,30.94014",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "桃坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513063,
+      890513245
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8399711
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8399711
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8427b065d255e432557f4b46e57b0eec",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1327382715,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8427b065d255e432557f4b46e57b0eec",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1327382715,
+        "region_id": 85669725,
+        "localadmin_id": 890513245
+      }
     ],
-    "wof:id":1327382715,
-    "wof:lastmodified":1566647403,
-    "wof:name":"Taoping",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327382715,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Taoping",
+    "wof:parent_id": 890513245,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.01853,
     30.92014,
     109.01853,
     30.92014
-],
-  "geometry": {"coordinates":[109.01853,30.92014],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.01853,
+      30.92014
+    ],
+    "type": "Point"
+  }
 }

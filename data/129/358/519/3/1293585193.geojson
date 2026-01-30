@@ -2,84 +2,92 @@
   "id": 1293585193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.56431,25.4961,118.56431,25.4961",
-    "geom:latitude":25.4961,
-    "geom:longitude":118.56431,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Xiyuan",
-    "gn:country_code":"CN",
-    "gn:dem":652,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1921043,
-    "gn:latitude":25.4961,
-    "gn:longitude":118.56431,
-    "gn:modification_date":"2013-07-07",
-    "gn:name":"Xiyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.54431,25.4761,118.58431,25.5161",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Xiyuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.56431,25.4961,118.56431,25.4961",
+    "geom:latitude": 25.4961,
+    "geom:longitude": 118.56431,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Xiyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 652,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1921043,
+    "gn:latitude": 25.4961,
+    "gn:longitude": 118.56431,
+    "gn:modification_date": "2013-07-07",
+    "gn:name": "Xiyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.54431,25.4761,118.58431,25.5161",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Xiyuan"
     ],
-    "name:und_x_variant":[
-        "Xiyuan Xiang"
+    "name:und_x_variant": [
+      "Xiyuan Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u82d1"
+    "name:zho_x_preferred": [
+      "西苑"
     ],
-    "name:zho_x_variant":[
-        "\u897f\u82d1\u4e61"
+    "name:zho_x_variant": [
+      "西苑乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516865
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513173,
+      890516865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1921043
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1921043
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d8f452e25815874bb98cc9aa9ae4ea87",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516865,
-            "empire_id":136253041,
-            "locality_id":1293585193,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d8f452e25815874bb98cc9aa9ae4ea87",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516865,
+        "empire_id": 136253041,
+        "locality_id": 1293585193,
+        "region_id": 85669735,
+        "localadmin_id": 890513173
+      }
     ],
-    "wof:id":1293585193,
-    "wof:lastmodified":1566669404,
-    "wof:name":"Xiyuan",
-    "wof:parent_id":890516865,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293585193,
+    "wof:lastmodified": 1768669538,
+    "wof:name": "Xiyuan",
+    "wof:parent_id": 890513173,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.56431,
     25.4961,
     118.56431,
     25.4961
-],
-  "geometry": {"coordinates":[118.56431000000001,25.4961],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.56431,
+      25.4961
+    ],
+    "type": "Point"
+  }
 }

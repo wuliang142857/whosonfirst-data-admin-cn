@@ -2,75 +2,83 @@
   "id": 1243350165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.09471,30.33612,109.09471,30.33612",
-    "geom:latitude":30.33612,
-    "geom:longitude":109.09471,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhushatun",
-    "gn:country_code":"CN",
-    "gn:dem":1014,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8516950,
-    "gn:latitude":30.33612,
-    "gn:longitude":109.09471,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Zhushatun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.07471,30.31612,109.11471,30.35612",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6731\u7802\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.09471,30.33612,109.09471,30.33612",
+    "geom:latitude": 30.33612,
+    "geom:longitude": 109.09471,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhushatun",
+    "gn:country_code": "CN",
+    "gn:dem": 1014,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8516950,
+    "gn:latitude": 30.33612,
+    "gn:longitude": 109.09471,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Zhushatun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.07471,30.31612,109.11471,30.35612",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "朱砂屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512637,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8516950
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8516950
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b5cfab6eb200539cc073655b800d0f38",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1243350165,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b5cfab6eb200539cc073655b800d0f38",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1243350165,
+        "region_id": 85669777,
+        "localadmin_id": 890512637
+      }
     ],
-    "wof:id":1243350165,
-    "wof:lastmodified":1566696141,
-    "wof:name":"Zhushatun",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243350165,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Zhushatun",
+    "wof:parent_id": 890512637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.09471,
     30.33612,
     109.09471,
     30.33612
-],
-  "geometry": {"coordinates":[109.09471000000001,30.33612],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.09471,
+      30.33612
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1310501527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.65459,31.9661,118.65459,31.9661",
-    "geom:latitude":31.9661,
-    "geom:longitude":118.65459,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Houzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8375669,
-    "gn:latitude":31.9661,
-    "gn:longitude":118.65459,
-    "gn:modification_date":"2016-04-08",
-    "gn:name":"Houzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.63459,31.9461,118.67459,31.9861",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_historical":[
-        "Towkwan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.65459,31.9661,118.65459,31.9661",
+    "geom:latitude": 31.9661,
+    "geom:longitude": 118.65459,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Houzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8375669,
+    "gn:latitude": 31.9661,
+    "gn:longitude": 118.65459,
+    "gn:modification_date": "2016-04-08",
+    "gn:name": "Houzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.63459,31.9461,118.67459,31.9861",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_historical": [
+      "Towkwan"
     ],
-    "name:eng_x_preferred":[
-        "Towkwan"
+    "name:eng_x_preferred": [
+      "Towkwan"
     ],
-    "name:zho_x_preferred":[
-        "\u539a\u5e84"
+    "name:zho_x_preferred": [
+      "厚庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516425
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516425,
+      1127320114
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8375669
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8375669
     },
-    "wof:country":"CN",
-    "wof:geomhash":"04f631d46e54594b641a3e88fd673d84",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516425,
-            "empire_id":136253041,
-            "locality_id":1310501527,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "04f631d46e54594b641a3e88fd673d84",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516425,
+        "empire_id": 136253041,
+        "locality_id": 1310501527,
+        "region_id": 85669827,
+        "localadmin_id": 1127320114
+      }
     ],
-    "wof:id":1310501527,
-    "wof:lastmodified":1566690547,
-    "wof:name":"Houzhuang",
-    "wof:parent_id":890516425,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310501527,
+    "wof:lastmodified": 1768670270,
+    "wof:name": "Houzhuang",
+    "wof:parent_id": 1127320114,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.65458999999998,
     31.9661,
     118.65458999999998,
     31.9661
-],
-  "geometry": {"coordinates":[118.65458999999998,31.9661],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.65458999999998,
+      31.9661
+    ],
+    "type": "Point"
+  }
 }

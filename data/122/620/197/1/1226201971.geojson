@@ -2,80 +2,88 @@
   "id": 1226201971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.16023,31.15515,107.16023,31.15515",
-    "geom:latitude":31.15515,
-    "geom:longitude":107.16023,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Wenchong",
-    "gn:country_code":"CN",
-    "gn:dem":278,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1791533,
-    "gn:latitude":31.15515,
-    "gn:longitude":107.16023,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Wenchong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.14023,31.13515,107.18023,31.17515",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wen-chung-ch\u2019ang",
-        "Wen-chung",
-        "Wenchong"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.16023,31.15515,107.16023,31.15515",
+    "geom:latitude": 31.15515,
+    "geom:longitude": 107.16023,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Wenchong",
+    "gn:country_code": "CN",
+    "gn:dem": 278,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1791533,
+    "gn:latitude": 31.15515,
+    "gn:longitude": 107.16023,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Wenchong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.14023,31.13515,107.18023,31.17515",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wen-chung-ch’ang",
+      "Wen-chung",
+      "Wenchong"
     ],
-    "name:zho_x_preferred":[
-        "\u6587\u5d07"
+    "name:zho_x_preferred": [
+      "文崇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513987
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513987,
+      1127511725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791533
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791533
     },
-    "wof:country":"CN",
-    "wof:geomhash":"95f3ebc914df16992b1ba89e9c31c9d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513987,
-            "empire_id":136253041,
-            "locality_id":1226201971,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "95f3ebc914df16992b1ba89e9c31c9d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513987,
+        "empire_id": 136253041,
+        "locality_id": 1226201971,
+        "region_id": 85669787,
+        "localadmin_id": 1127511725
+      }
     ],
-    "wof:id":1226201971,
-    "wof:lastmodified":1566701705,
-    "wof:name":"Wenchong",
-    "wof:parent_id":890513987,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226201971,
+    "wof:lastmodified": 1768668150,
+    "wof:name": "Wenchong",
+    "wof:parent_id": 1127511725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.16023,
     31.15515,
     107.16023,
     31.15515
-],
-  "geometry": {"coordinates":[107.16023,31.15515],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.16023,
+      31.15515
+    ],
+    "type": "Point"
+  }
 }

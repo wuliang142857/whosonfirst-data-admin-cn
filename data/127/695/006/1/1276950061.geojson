@@ -2,75 +2,83 @@
   "id": 1276950061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.588,25.7504,109.588,25.7504",
-    "geom:latitude":25.7504,
-    "geom:longitude":109.588,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Longji",
-    "gn:country_code":"CN",
-    "gn:dem":198,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1992939,
-    "gn:latitude":25.7504,
-    "gn:longitude":109.588,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Longji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.568,25.7304,109.608,25.7704",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9f99\u5409"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.588,25.7504,109.588,25.7504",
+    "geom:latitude": 25.7504,
+    "geom:longitude": 109.588,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Longji",
+    "gn:country_code": "CN",
+    "gn:dem": 198,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1992939,
+    "gn:latitude": 25.7504,
+    "gn:longitude": 109.588,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Longji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.568,25.7304,109.608,25.7704",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "龙吉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513513,
+      890515127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1992939
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1992939
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3c076b58d7ffd3a745a49f934631f2d7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1276950061,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3c076b58d7ffd3a745a49f934631f2d7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1276950061,
+        "region_id": 85669717,
+        "localadmin_id": 890513513
+      }
     ],
-    "wof:id":1276950061,
-    "wof:lastmodified":1566675002,
-    "wof:name":"Longji",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276950061,
+    "wof:lastmodified": 1768665482,
+    "wof:name": "Longji",
+    "wof:parent_id": 890513513,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.588,
     25.7504,
     109.588,
     25.7504
-],
-  "geometry": {"coordinates":[109.58799999999999,25.7504],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.588,
+      25.7504
+    ],
+    "type": "Point"
+  }
 }

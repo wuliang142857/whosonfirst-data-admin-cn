@@ -2,75 +2,83 @@
   "id": 1327301859,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.85765,35.60598,110.85765,35.60598",
-    "geom:latitude":35.60598,
-    "geom:longitude":110.85765,
-    "gn:admin1_code":"24.0",
-    "gn:asciiname":"Nanweicun",
-    "gn:country_code":"CN",
-    "gn:dem":455,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11425524,
-    "gn:latitude":35.60598,
-    "gn:longitude":110.85765,
-    "gn:modification_date":"2017-01-07",
-    "gn:name":"Nanweicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.83765,35.58598,110.87765,35.62598",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u4f4d\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.85765,35.60598,110.85765,35.60598",
+    "geom:latitude": 35.60598,
+    "geom:longitude": 110.85765,
+    "gn:admin1_code": "24.0",
+    "gn:asciiname": "Nanweicun",
+    "gn:country_code": "CN",
+    "gn:dem": 455,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11425524,
+    "gn:latitude": 35.60598,
+    "gn:longitude": 110.85765,
+    "gn:modification_date": "2017-01-07",
+    "gn:name": "Nanweicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.83765,35.58598,110.87765,35.62598",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南位村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890514745
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890514745,
+      1127140824
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11425524
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11425524
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f93c260fa53faeae126a3a3116b87f5d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514745,
-            "empire_id":136253041,
-            "locality_id":1327301859,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f93c260fa53faeae126a3a3116b87f5d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514745,
+        "empire_id": 136253041,
+        "locality_id": 1327301859,
+        "region_id": 85669773,
+        "localadmin_id": 1127140824
+      }
     ],
-    "wof:id":1327301859,
-    "wof:lastmodified":1566646899,
-    "wof:name":"Nanweicun",
-    "wof:parent_id":890514745,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327301859,
+    "wof:lastmodified": 1768666417,
+    "wof:name": "Nanweicun",
+    "wof:parent_id": 1127140824,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.85765,
     35.60597999999999,
     110.85765,
     35.60597999999999
-],
-  "geometry": {"coordinates":[110.85765000000001,35.60597999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.85765,
+      35.60597999999999
+    ],
+    "type": "Point"
+  }
 }

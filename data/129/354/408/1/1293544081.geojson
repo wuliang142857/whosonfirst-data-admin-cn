@@ -2,75 +2,83 @@
   "id": 1293544081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.56758,34.06256,110.56758,34.06256",
-    "geom:latitude":34.06256,
-    "geom:longitude":110.56758,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Houcao",
-    "gn:country_code":"CN",
-    "gn:dem":887,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11316239,
-    "gn:latitude":34.06256,
-    "gn:longitude":110.56758,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Houcao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.54758,34.04256,110.58758,34.08256",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u69fd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.56758,34.06256,110.56758,34.06256",
+    "geom:latitude": 34.06256,
+    "geom:longitude": 110.56758,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Houcao",
+    "gn:country_code": "CN",
+    "gn:dem": 887,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11316239,
+    "gn:latitude": 34.06256,
+    "gn:longitude": 110.56758,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Houcao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.54758,34.04256,110.58758,34.08256",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后槽"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11316239
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11316239
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5c0e71657ea3986b30d879da90d58fc6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1293544081,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5c0e71657ea3986b30d879da90d58fc6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1293544081,
+        "region_id": 85669769,
+        "localadmin_id": 1127611021
+      }
     ],
-    "wof:id":1293544081,
-    "wof:lastmodified":1566665850,
-    "wof:name":"Houcao",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293544081,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Houcao",
+    "wof:parent_id": 1127611021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.56758,
     34.06256,
     110.56758,
     34.06256
-],
-  "geometry": {"coordinates":[110.56758000000001,34.06256],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.56758,
+      34.06256
+    ],
+    "type": "Point"
+  }
 }

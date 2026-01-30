@@ -2,75 +2,83 @@
   "id": 1209821863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.18829,27.91573,115.18829,27.91573",
-    "geom:latitude":27.91573,
-    "geom:longitude":115.18829,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Yanjia",
-    "gn:country_code":"CN",
-    "gn:dem":38,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7684837,
-    "gn:latitude":27.91573,
-    "gn:longitude":115.18829,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yanjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.16829,27.89573,115.20829,27.93573",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e25\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.18829,27.91573,115.18829,27.91573",
+    "geom:latitude": 27.91573,
+    "geom:longitude": 115.18829,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Yanjia",
+    "gn:country_code": "CN",
+    "gn:dem": 38,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7684837,
+    "gn:latitude": 27.91573,
+    "gn:longitude": 115.18829,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yanjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.16829,27.89573,115.20829,27.93573",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "严家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890513499,
+      890514553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7684837
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7684837
     },
-    "wof:country":"CN",
-    "wof:geomhash":"171edb5cf8c0553c17c616691bb8132c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1209821863,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "171edb5cf8c0553c17c616691bb8132c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1209821863,
+        "region_id": 85669823,
+        "localadmin_id": 890513499
+      }
     ],
-    "wof:id":1209821863,
-    "wof:lastmodified":1566681262,
-    "wof:name":"Yanjia",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209821863,
+    "wof:lastmodified": 1768669928,
+    "wof:name": "Yanjia",
+    "wof:parent_id": 890513499,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.18829,
     27.91573,
     115.18829,
     27.91573
-],
-  "geometry": {"coordinates":[115.18828999999999,27.91573],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.18829,
+      27.91573
+    ],
+    "type": "Point"
+  }
 }

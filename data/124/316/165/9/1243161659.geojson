@@ -2,81 +2,89 @@
   "id": 1243161659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.98167,34.29,113.98167,34.29",
-    "geom:latitude":34.29,
-    "geom:longitude":113.98167,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Weichuan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":82,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1791691,
-    "gn:latitude":34.29,
-    "gn:longitude":113.98167,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Weichuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.96167,34.27,114.00167,34.31",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Veychuan",
-        "Wei-ch\u2019uan-hsien",
-        "Chiu-wei-ch\u2019uan",
-        "Wei-ch\u2019uan-chen",
-        "Weichwanhsien",
-        "Weichuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.98167,34.29,113.98167,34.29",
+    "geom:latitude": 34.29,
+    "geom:longitude": 113.98167,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Weichuan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 82,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1791691,
+    "gn:latitude": 34.29,
+    "gn:longitude": 113.98167,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Weichuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.96167,34.27,114.00167,34.31",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Veychuan",
+      "Wei-ch’uan-hsien",
+      "Chiu-wei-ch’uan",
+      "Wei-ch’uan-chen",
+      "Weichwanhsien",
+      "Weichuan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890515157,
+      1127410223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791691
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791691
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e3728c93657b64dbe01e059e03919823",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515157,
-            "empire_id":136253041,
-            "locality_id":1243161659,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e3728c93657b64dbe01e059e03919823",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515157,
+        "empire_id": 136253041,
+        "locality_id": 1243161659,
+        "region_id": 85669801,
+        "localadmin_id": 1127410223
+      }
     ],
-    "wof:id":1243161659,
-    "wof:lastmodified":1566697425,
-    "wof:name":"Weichuan",
-    "wof:parent_id":890515157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243161659,
+    "wof:lastmodified": 1768669359,
+    "wof:name": "Weichuan",
+    "wof:parent_id": 1127410223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.98167,
     34.29,
     113.98167,
     34.29
-],
-  "geometry": {"coordinates":[113.98166999999999,34.29],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.98167,
+      34.29
+    ],
+    "type": "Point"
+  }
 }

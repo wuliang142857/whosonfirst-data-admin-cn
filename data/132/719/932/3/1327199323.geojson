@@ -2,77 +2,85 @@
   "id": 1327199323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.72861,40.98222,123.72861,40.98222",
-    "geom:latitude":40.98222,
-    "geom:longitude":123.72861,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Lianshanguan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":291,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2036130,
-    "gn:latitude":40.98222,
-    "gn:longitude":123.72861,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Lianshanguan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.70861,40.96222,123.74861,41.00222",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lien-shan-kuan",
-        "Lianshanguan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.72861,40.98222,123.72861,40.98222",
+    "geom:latitude": 40.98222,
+    "geom:longitude": 123.72861,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Lianshanguan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 291,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2036130,
+    "gn:latitude": 40.98222,
+    "gn:longitude": 123.72861,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Lianshanguan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.70861,40.96222,123.74861,41.00222",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lien-shan-kuan",
+      "Lianshanguan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513783
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513783,
+      1127210521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2036130
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2036130
     },
-    "wof:country":"CN",
-    "wof:geomhash":"814a13a0efea7c7f5a3f2e27db27fa24",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513783,
-            "empire_id":136253041,
-            "locality_id":1327199323,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "814a13a0efea7c7f5a3f2e27db27fa24",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513783,
+        "empire_id": 136253041,
+        "locality_id": 1327199323,
+        "region_id": 85669807,
+        "localadmin_id": 1127210521
+      }
     ],
-    "wof:id":1327199323,
-    "wof:lastmodified":1566654241,
-    "wof:name":"Lianshanguan",
-    "wof:parent_id":890513783,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327199323,
+    "wof:lastmodified": 1768666805,
+    "wof:name": "Lianshanguan",
+    "wof:parent_id": 1127210521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.72861,
     40.98222,
     123.72861,
     40.98222
-],
-  "geometry": {"coordinates":[123.72861,40.98222],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.72861,
+      40.98222
+    ],
+    "type": "Point"
+  }
 }

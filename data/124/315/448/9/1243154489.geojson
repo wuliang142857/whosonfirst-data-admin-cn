@@ -2,75 +2,83 @@
   "id": 1243154489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.844,37.0222,104.844,37.0222",
-    "geom:latitude":37.0222,
-    "geom:longitude":104.844,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Shangchencha",
-    "gn:country_code":"CN",
-    "gn:dem":1700,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10679849,
-    "gn:latitude":37.0222,
-    "gn:longitude":104.844,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Shangchencha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.824,37.0022,104.864,37.0422",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u9648\u5c94"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.844,37.0222,104.844,37.0222",
+    "geom:latitude": 37.0222,
+    "geom:longitude": 104.844,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Shangchencha",
+    "gn:country_code": "CN",
+    "gn:dem": 1700,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10679849,
+    "gn:latitude": 37.0222,
+    "gn:longitude": 104.844,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Shangchencha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.824,37.0022,104.864,37.0422",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上陈岔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516465,
+      1127620421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10679849
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10679849
     },
-    "wof:country":"CN",
-    "wof:geomhash":"19f875fd8724a07064821ccf950b2d8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516465,
-            "empire_id":136253041,
-            "locality_id":1243154489,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "19f875fd8724a07064821ccf950b2d8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516465,
+        "empire_id": 136253041,
+        "locality_id": 1243154489,
+        "region_id": 85669711,
+        "localadmin_id": 1127620421
+      }
     ],
-    "wof:id":1243154489,
-    "wof:lastmodified":1566695449,
-    "wof:name":"Shangchencha",
-    "wof:parent_id":890516465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243154489,
+    "wof:lastmodified": 1768666457,
+    "wof:name": "Shangchencha",
+    "wof:parent_id": 1127620421,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.844,
     37.0222,
     104.844,
     37.0222
-],
-  "geometry": {"coordinates":[104.84399999999999,37.0222],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.844,
+      37.0222
+    ],
+    "type": "Point"
+  }
 }

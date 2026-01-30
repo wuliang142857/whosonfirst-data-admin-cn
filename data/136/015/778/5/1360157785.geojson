@@ -2,75 +2,83 @@
   "id": 1360157785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.055,38.5211,101.055,38.5211",
-    "geom:latitude":38.5211,
-    "geom:longitude":101.055,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhongshigouhe",
-    "gn:country_code":"CN",
-    "gn:dem":2179,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10644770,
-    "gn:latitude":38.5211,
-    "gn:longitude":101.055,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Zhongshigouhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.035,38.5011,101.075,38.5411",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u77f3\u6c9f\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.055,38.5211,101.055,38.5211",
+    "geom:latitude": 38.5211,
+    "geom:longitude": 101.055,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhongshigouhe",
+    "gn:country_code": "CN",
+    "gn:dem": 2179,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10644770,
+    "gn:latitude": 38.5211,
+    "gn:longitude": 101.055,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Zhongshigouhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.035,38.5011,101.075,38.5411",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中石沟河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890515163
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515163,
+      1127620725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10644770
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10644770
     },
-    "wof:country":"CN",
-    "wof:geomhash":"86575652a818f82c3edddebd3c486eb3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515163,
-            "empire_id":136253041,
-            "locality_id":1360157785,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "86575652a818f82c3edddebd3c486eb3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515163,
+        "empire_id": 136253041,
+        "locality_id": 1360157785,
+        "region_id": 85669711,
+        "localadmin_id": 1127620725
+      }
     ],
-    "wof:id":1360157785,
-    "wof:lastmodified":1566691208,
-    "wof:name":"Zhongshigouhe",
-    "wof:parent_id":890515163,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360157785,
+    "wof:lastmodified": 1768666543,
+    "wof:name": "Zhongshigouhe",
+    "wof:parent_id": 1127620725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.055,
     38.5211,
     101.055,
     38.5211
-],
-  "geometry": {"coordinates":[101.05500000000001,38.5211],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.055,
+      38.5211
+    ],
+    "type": "Point"
+  }
 }

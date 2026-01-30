@@ -2,78 +2,86 @@
   "id": 1242922145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.86884,30.65895,108.86884,30.65895",
-    "geom:latitude":30.65895,
-    "geom:longitude":108.86884,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Heyang",
-    "gn:country_code":"CN",
-    "gn:dem":411,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8404159,
-    "gn:latitude":30.65895,
-    "gn:longitude":108.86884,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Heyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.84884,30.63895,108.88884,30.67895",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Heyang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.86884,30.65895,108.86884,30.65895",
+    "geom:latitude": 30.65895,
+    "geom:longitude": 108.86884,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Heyang",
+    "gn:country_code": "CN",
+    "gn:dem": 411,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8404159,
+    "gn:latitude": 30.65895,
+    "gn:longitude": 108.86884,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Heyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.84884,30.63895,108.88884,30.67895",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Heyang"
     ],
-    "name:zho_x_preferred":[
-        "\u5408\u9633"
+    "name:zho_x_preferred": [
+      "合阳"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8404159
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8404159
     },
-    "wof:country":"CN",
-    "wof:geomhash":"37974d28afed4672e3931ad26ccb2876",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1242922145,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "37974d28afed4672e3931ad26ccb2876",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1242922145,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1242922145,
-    "wof:lastmodified":1566694829,
-    "wof:name":"Heyang",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242922145,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Heyang",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.86884,
     30.65895,
     108.86884,
     30.65895
-],
-  "geometry": {"coordinates":[108.86884000000001,30.65895],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.86884,
+      30.65895
+    ],
+    "type": "Point"
+  }
 }

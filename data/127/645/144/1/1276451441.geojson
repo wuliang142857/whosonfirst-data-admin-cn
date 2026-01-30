@@ -2,75 +2,83 @@
   "id": 1276451441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.54752,29.76912,119.54752,29.76912",
-    "geom:latitude":29.76912,
-    "geom:longitude":119.54752,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Qingnanshan",
-    "gn:country_code":"CN",
-    "gn:dem":184,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8369052,
-    "gn:latitude":29.76912,
-    "gn:longitude":119.54752,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Qingnanshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.52752,29.74912,119.56752,29.78912",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9752\u5357\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.54752,29.76912,119.54752,29.76912",
+    "geom:latitude": 29.76912,
+    "geom:longitude": 119.54752,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Qingnanshan",
+    "gn:country_code": "CN",
+    "gn:dem": 184,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8369052,
+    "gn:latitude": 29.76912,
+    "gn:longitude": 119.54752,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Qingnanshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.52752,29.74912,119.56752,29.78912",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "青南山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515271,
+      890516555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8369052
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8369052
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3bc1744a7f09299c4480206db24682fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1276451441,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3bc1744a7f09299c4480206db24682fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1276451441,
+        "region_id": 85669835,
+        "localadmin_id": 890515271
+      }
     ],
-    "wof:id":1276451441,
-    "wof:lastmodified":1566673251,
-    "wof:name":"Qingnanshan",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276451441,
+    "wof:lastmodified": 1768663108,
+    "wof:name": "Qingnanshan",
+    "wof:parent_id": 890515271,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.54752,
     29.76912,
     119.54752,
     29.76912
-],
-  "geometry": {"coordinates":[119.54752000000001,29.76912],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.54752,
+      29.76912
+    ],
+    "type": "Point"
+  }
 }

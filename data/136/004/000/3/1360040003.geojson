@@ -2,81 +2,89 @@
   "id": 1360040003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.26566,33.87692,108.26566,33.87692",
-    "geom:latitude":33.87692,
-    "geom:longitude":108.26566,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Nangou",
-    "gn:country_code":"CN",
-    "gn:dem":1665,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1800058,
-    "gn:latitude":33.87692,
-    "gn:longitude":108.26566,
-    "gn:modification_date":"2016-11-22",
-    "gn:name":"Nangou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.24566,33.85692,108.28566,33.89692",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lan-han-k\u2019ou",
-        "Nan-kou-k\u2019ou",
-        "Nangoukou",
-        "Nangou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.26566,33.87692,108.26566,33.87692",
+    "geom:latitude": 33.87692,
+    "geom:longitude": 108.26566,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Nangou",
+    "gn:country_code": "CN",
+    "gn:dem": 1665,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1800058,
+    "gn:latitude": 33.87692,
+    "gn:longitude": 108.26566,
+    "gn:modification_date": "2016-11-22",
+    "gn:name": "Nangou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.24566,33.85692,108.28566,33.89692",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lan-han-k’ou",
+      "Nan-kou-k’ou",
+      "Nangoukou",
+      "Nangou"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u6c9f"
+    "name:zho_x_preferred": [
+      "南沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800058
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800058
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5f100e63d91528d5fd0bda96a895bf57",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1360040003,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5f100e63d91528d5fd0bda96a895bf57",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1360040003,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1360040003,
-    "wof:lastmodified":1566692126,
-    "wof:name":"Nangou",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360040003,
+    "wof:lastmodified": 1768668692,
+    "wof:name": "Nangou",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.26566,
     33.87692,
     108.26566,
     33.87692
-],
-  "geometry": {"coordinates":[108.26566,33.87692],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.26566,
+      33.87692
+    ],
+    "type": "Point"
+  }
 }

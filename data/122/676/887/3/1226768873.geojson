@@ -2,78 +2,86 @@
   "id": 1226768873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.53232,45.61966,124.53232,45.61966",
-    "geom:latitude":45.61966,
-    "geom:longitude":124.53232,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Bo'erdai",
-    "gn:country_code":"CN",
-    "gn:dem":131,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11581628,
-    "gn:latitude":45.61966,
-    "gn:longitude":124.53232,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Bo\u2019erdai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.51232,45.59966,124.55232,45.63966",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Bo\u2019erdai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.53232,45.61966,124.53232,45.61966",
+    "geom:latitude": 45.61966,
+    "geom:longitude": 124.53232,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Bo'erdai",
+    "gn:country_code": "CN",
+    "gn:dem": 131,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11581628,
+    "gn:latitude": 45.61966,
+    "gn:longitude": 124.53232,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Bo’erdai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.51232,45.59966,124.55232,45.63966",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Bo’erdai"
     ],
-    "name:zho_x_preferred":[
-        "\u535a\u5c14\u5cb1"
+    "name:zho_x_preferred": [
+      "博尔岱"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890513007
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890512579,
+      890513007
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11581628
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11581628
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0371b3c65409afce8e2573dc55842063",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513007,
-            "empire_id":136253041,
-            "locality_id":1226768873,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0371b3c65409afce8e2573dc55842063",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513007,
+        "empire_id": 136253041,
+        "locality_id": 1226768873,
+        "region_id": 85669849,
+        "localadmin_id": 890512579
+      }
     ],
-    "wof:id":1226768873,
-    "wof:lastmodified":1566703924,
-    "wof:name":"Bo'erdai",
-    "wof:parent_id":890513007,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226768873,
+    "wof:lastmodified": 1768669535,
+    "wof:name": "Bo'erdai",
+    "wof:parent_id": 890512579,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.53232,
     45.61966,
     124.53232,
     45.61966
-],
-  "geometry": {"coordinates":[124.53232,45.61966],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.53232,
+      45.61966
+    ],
+    "type": "Point"
+  }
 }

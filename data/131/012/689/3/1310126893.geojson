@@ -2,75 +2,83 @@
   "id": 1310126893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.25142,25.3845,118.25142,25.3845",
-    "geom:latitude":25.3845,
-    "geom:longitude":118.25142,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Zaoling",
-    "gn:country_code":"CN",
-    "gn:dem":252,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8574211,
-    "gn:latitude":25.3845,
-    "gn:longitude":118.25142,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Zaoling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.23142,25.3645,118.27142,25.4045",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u67a3\u5cad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.25142,25.3845,118.25142,25.3845",
+    "geom:latitude": 25.3845,
+    "geom:longitude": 118.25142,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Zaoling",
+    "gn:country_code": "CN",
+    "gn:dem": 252,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8574211,
+    "gn:latitude": 25.3845,
+    "gn:longitude": 118.25142,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Zaoling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.23142,25.3645,118.27142,25.4045",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "枣岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512849,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8574211
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8574211
     },
-    "wof:country":"CN",
-    "wof:geomhash":"23c5baa5917c9d4226933ead2228f179",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1310126893,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "23c5baa5917c9d4226933ead2228f179",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1310126893,
+        "region_id": 85669735,
+        "localadmin_id": 890512849
+      }
     ],
-    "wof:id":1310126893,
-    "wof:lastmodified":1566688095,
-    "wof:name":"Zaoling",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310126893,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Zaoling",
+    "wof:parent_id": 890512849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.25142,
     25.3845,
     118.25142,
     25.3845
-],
-  "geometry": {"coordinates":[118.25142,25.3845],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.25142,
+      25.3845
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1226077963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.245,33.311,120.245,33.311",
-    "geom:latitude":33.311,
-    "geom:longitude":120.245,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Youyi Bazu",
-    "gn:country_code":"CN",
-    "gn:dem":0,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":11119976,
-    "gn:latitude":33.311,
-    "gn:longitude":120.245,
-    "gn:modification_date":"2016-04-12",
-    "gn:name":"Youyi Bazu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.225,33.291,120.265,33.331",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53cb\u8c0a\u516b\u7ec4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.245,33.311,120.245,33.311",
+    "geom:latitude": 33.311,
+    "geom:longitude": 120.245,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Youyi Bazu",
+    "gn:country_code": "CN",
+    "gn:dem": 0,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 11119976,
+    "gn:latitude": 33.311,
+    "gn:longitude": 120.245,
+    "gn:modification_date": "2016-04-12",
+    "gn:name": "Youyi Bazu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.225,33.291,120.265,33.331",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "友谊八组"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320902
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11119976
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11119976
     },
-    "wof:country":"CN",
-    "wof:geomhash":"980589a1354aaa5f71382b997c3ab833",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1226077963,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "980589a1354aaa5f71382b997c3ab833",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1226077963,
+        "region_id": 85669827,
+        "localadmin_id": 1127320902
+      }
     ],
-    "wof:id":1226077963,
-    "wof:lastmodified":1566705546,
-    "wof:name":"Youyi Bazu",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226077963,
+    "wof:lastmodified": 1768670805,
+    "wof:name": "Youyi Bazu",
+    "wof:parent_id": 1127320902,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.245,
     33.311,
     120.245,
     33.311
-],
-  "geometry": {"coordinates":[120.245,33.311],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.245,
+      33.311
+    ],
+    "type": "Point"
+  }
 }

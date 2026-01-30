@@ -2,75 +2,83 @@
   "id": 1243528189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"89.2862,28.8351,89.2862,28.8351",
-    "geom:latitude":28.8351,
-    "geom:longitude":89.2862,
-    "gn:admin1_code":"14",
-    "gn:asciiname":"Jiucun",
-    "gn:country_code":"CN",
-    "gn:dem":4254,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9102473,
-    "gn:latitude":28.8351,
-    "gn:longitude":89.2862,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Jiucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"89.2662,28.8151,89.3062,28.8551",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e45\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "89.2862,28.8351,89.2862,28.8351",
+    "geom:latitude": 28.8351,
+    "geom:longitude": 89.2862,
+    "gn:admin1_code": "14",
+    "gn:asciiname": "Jiucun",
+    "gn:country_code": "CN",
+    "gn:dem": 4254,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9102473,
+    "gn:latitude": 28.8351,
+    "gn:longitude": 89.2862,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Jiucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "89.2662,28.8151,89.3062,28.8551",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "久村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890514539,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9102473
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9102473
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f12ccdf194ed176945f3a8f3fffeb0d6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1243528189,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f12ccdf194ed176945f3a8f3fffeb0d6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1243528189,
+        "region_id": 85669747,
+        "localadmin_id": 890514539
+      }
     ],
-    "wof:id":1243528189,
-    "wof:lastmodified":1566694237,
-    "wof:name":"Jiucun",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243528189,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Jiucun",
+    "wof:parent_id": 890514539,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     89.2862,
     28.8351,
     89.2862,
     28.8351
-],
-  "geometry": {"coordinates":[89.28619999999999,28.8351],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      89.2862,
+      28.8351
+    ],
+    "type": "Point"
+  }
 }

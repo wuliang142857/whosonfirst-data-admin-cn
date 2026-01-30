@@ -2,84 +2,92 @@
   "id": 890515531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.972644,43.663835,111.972644,43.663835",
-    "geom:latitude":43.663835,
-    "geom:longitude":111.972644,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"111.952644,43.643835,111.992644,43.683835",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Erenhot"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.972644,43.663835,111.972644,43.663835",
+    "geom:latitude": 43.663835,
+    "geom:longitude": 111.972644,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "111.952644,43.643835,111.992644,43.683835",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Erenhot"
     ],
-    "name:heb_x_preferred":[
-        "\u05d0\u05e8\u05e0\u05d4\u05d5\u05d8"
+    "name:heb_x_preferred": [
+      "ארנהוט"
     ],
-    "name:hun_x_preferred":[
-        "Erenhot"
+    "name:hun_x_preferred": [
+      "Erenhot"
     ],
-    "name:zho_x_preferred":[
-        "\u4e8c\u8fde\u6d69\u7279"
+    "name:zho_x_preferred": [
+      "二连浩特"
     ],
-    "qs:name":"\u4e8c\u8fde\u6d69\u7279",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5185\u8499\u53e4\u81ea\u6cbb\u533a",
-    "qs:photos":154,
-    "qs:photos_1k":31,
-    "qs:photos_9k":1,
-    "qs:photos_9r":4,
-    "qs:photos_all":154,
-    "qs:photos_sr":4,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        1108732519
+    "qs:name": "二连浩特",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "内蒙古自治区",
+    "qs:photos": 154,
+    "qs:photos_1k": 31,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 4,
+    "qs:photos_all": 154,
+    "qs:photos_sr": 4,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890515885,
+      1108732519
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2149787,
-        "qs_pg:id":1129816
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2149787,
+      "qs_pg:id": 1129816
     },
-    "wof:country":"CN",
-    "wof:created":1469055910,
-    "wof:geomhash":"69d5cb9be1a168fe7e47551c284646b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732519,
-            "empire_id":136253041,
-            "locality_id":890515531,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055910,
+    "wof:geomhash": "69d5cb9be1a168fe7e47551c284646b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732519,
+        "empire_id": 136253041,
+        "locality_id": 890515531,
+        "region_id": 85669847,
+        "localadmin_id": 890515885
+      }
     ],
-    "wof:id":890515531,
-    "wof:lastmodified":1636504340,
-    "wof:name":"Erenhot",
-    "wof:parent_id":1108732519,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515531,
+    "wof:lastmodified": 1768667611,
+    "wof:name": "Erenhot",
+    "wof:parent_id": 890515885,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.972644,
     43.663835,
     111.972644,
     43.663835
-],
-  "geometry": {"coordinates":[111.972644,43.663835],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.972644,
+      43.663835
+    ],
+    "type": "Point"
+  }
 }

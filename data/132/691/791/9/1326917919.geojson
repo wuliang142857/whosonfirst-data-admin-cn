@@ -2,75 +2,83 @@
   "id": 1326917919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.97123,27.46847,111.97123,27.46847",
-    "geom:latitude":27.46847,
-    "geom:longitude":111.97123,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Saitian",
-    "gn:country_code":"CN",
-    "gn:dem":135,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10333859,
-    "gn:latitude":27.46847,
-    "gn:longitude":111.97123,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Saitian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.95123,27.44847,111.99123,27.48847",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d5b\u7530"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.97123,27.46847,111.97123,27.46847",
+    "geom:latitude": 27.46847,
+    "geom:longitude": 111.97123,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Saitian",
+    "gn:country_code": "CN",
+    "gn:dem": 135,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10333859,
+    "gn:latitude": 27.46847,
+    "gn:longitude": 111.97123,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Saitian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.95123,27.44847,111.99123,27.48847",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赛田"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516409
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514107,
+      890516409
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10333859
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10333859
     },
-    "wof:country":"CN",
-    "wof:geomhash":"10136b0b6637e9f6cb71082a8593863e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516409,
-            "empire_id":136253041,
-            "locality_id":1326917919,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "10136b0b6637e9f6cb71082a8593863e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516409,
+        "empire_id": 136253041,
+        "locality_id": 1326917919,
+        "region_id": 85669781,
+        "localadmin_id": 890514107
+      }
     ],
-    "wof:id":1326917919,
-    "wof:lastmodified":1566653590,
-    "wof:name":"Saitian",
-    "wof:parent_id":890516409,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326917919,
+    "wof:lastmodified": 1768670307,
+    "wof:name": "Saitian",
+    "wof:parent_id": 890514107,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.97123,
     27.46847,
     111.97123,
     27.46847
-],
-  "geometry": {"coordinates":[111.97123000000001,27.46847],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.97123,
+      27.46847
+    ],
+    "type": "Point"
+  }
 }

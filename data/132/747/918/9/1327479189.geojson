@@ -2,75 +2,83 @@
   "id": 1327479189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.8035,28.9734,99.8035,28.9734",
-    "geom:latitude":28.9734,
-    "geom:longitude":99.8035,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Donggong",
-    "gn:country_code":"CN",
-    "gn:dem":2927,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10211839,
-    "gn:latitude":28.9734,
-    "gn:longitude":99.8035,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Donggong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"99.7835,28.9534,99.8235,28.9934",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u5bab"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.8035,28.9734,99.8035,28.9734",
+    "geom:latitude": 28.9734,
+    "geom:longitude": 99.8035,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Donggong",
+    "gn:country_code": "CN",
+    "gn:dem": 2927,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10211839,
+    "gn:latitude": 28.9734,
+    "gn:longitude": 99.8035,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Donggong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "99.7835,28.9534,99.8235,28.9934",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东宫"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513336
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10211839
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10211839
     },
-    "wof:country":"CN",
-    "wof:geomhash":"445fc2521df0230c27982132511636db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1327479189,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "445fc2521df0230c27982132511636db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1327479189,
+        "region_id": 85669787,
+        "localadmin_id": 1127513336
+      }
     ],
-    "wof:id":1327479189,
-    "wof:lastmodified":1566650389,
-    "wof:name":"Donggong",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327479189,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Donggong",
+    "wof:parent_id": 1127513336,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.8035,
     28.9734,
     99.8035,
     28.9734
-],
-  "geometry": {"coordinates":[99.8035,28.9734],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.8035,
+      28.9734
+    ],
+    "type": "Point"
+  }
 }

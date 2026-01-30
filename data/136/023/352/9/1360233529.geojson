@@ -2,90 +2,98 @@
   "id": 1360233529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.41667,29.8,107.41667,29.8",
-    "geom:latitude":29.8,
-    "geom:longitude":107.41667,
-    "gn:admin1_code":"33",
-    "gn:asciiname":"Sanyuan",
-    "gn:country_code":"CN",
-    "gn:dem":373,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1796529,
-    "gn:latitude":29.8,
-    "gn:longitude":107.41667,
-    "gn:modification_date":"1999-07-28",
-    "gn:name":"Sanyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.39667,29.78,107.43667,29.82",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Sanyuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.41667,29.8,107.41667,29.8",
+    "geom:latitude": 29.8,
+    "geom:longitude": 107.41667,
+    "gn:admin1_code": "33",
+    "gn:asciiname": "Sanyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 373,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1796529,
+    "gn:latitude": 29.8,
+    "gn:longitude": 107.41667,
+    "gn:modification_date": "1999-07-28",
+    "gn:name": "Sanyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.39667,29.78,107.43667,29.82",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Sanyuan"
     ],
-    "name:deu_x_preferred":[
-        "Sanyuan"
+    "name:deu_x_preferred": [
+      "Sanyuan"
     ],
-    "name:fra_x_preferred":[
-        "Sanyuan"
+    "name:fra_x_preferred": [
+      "Sanyuan"
     ],
-    "name:nor_x_preferred":[
-        "Sanyuan"
+    "name:nor_x_preferred": [
+      "Sanyuan"
     ],
-    "name:rus_x_preferred":[
-        "\u0421\u0430\u043d\u044c\u044e\u0430\u043d\u044c"
+    "name:rus_x_preferred": [
+      "Саньюань"
     ],
-    "name:swe_x_preferred":[
-        "Sanyuan"
+    "name:swe_x_preferred": [
+      "Sanyuan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1796529
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1796529
     },
-    "wof:country":"CN",
-    "wof:geomhash":"96bfa7daf231e5dc01b13f66934836f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1360233529,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "96bfa7daf231e5dc01b13f66934836f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1360233529,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1360233529,
-    "wof:lastmodified":1566691128,
-    "wof:name":"Sanyuan",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360233529,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Sanyuan",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.41667,
     29.8,
     107.41667,
     29.8
-],
-  "geometry": {"coordinates":[107.41667,29.8],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.41667,
+      29.8
+    ],
+    "type": "Point"
+  }
 }

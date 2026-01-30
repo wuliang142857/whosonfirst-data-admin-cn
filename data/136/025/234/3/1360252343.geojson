@@ -2,75 +2,83 @@
   "id": 1360252343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.511,35.8024,117.511,35.8024",
-    "geom:latitude":35.8024,
-    "geom:longitude":117.511,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Xinianziyu",
-    "gn:country_code":"CN",
-    "gn:dem":185,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9123251,
-    "gn:latitude":35.8024,
-    "gn:longitude":117.511,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Xinianziyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.491,35.7824,117.531,35.8224",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u78be\u5b50\u5cea"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.511,35.8024,117.511,35.8024",
+    "geom:latitude": 35.8024,
+    "geom:longitude": 117.511,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Xinianziyu",
+    "gn:country_code": "CN",
+    "gn:dem": 185,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9123251,
+    "gn:latitude": 35.8024,
+    "gn:longitude": 117.511,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Xinianziyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.491,35.7824,117.531,35.8224",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西碾子峪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514275,
+      890515833
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9123251
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9123251
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dfcc6d838dc76ef34730f1605b43a6f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515833,
-            "empire_id":136253041,
-            "locality_id":1360252343,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dfcc6d838dc76ef34730f1605b43a6f3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515833,
+        "empire_id": 136253041,
+        "locality_id": 1360252343,
+        "region_id": 85669813,
+        "localadmin_id": 890514275
+      }
     ],
-    "wof:id":1360252343,
-    "wof:lastmodified":1566691399,
-    "wof:name":"Xinianziyu",
-    "wof:parent_id":890515833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360252343,
+    "wof:lastmodified": 1768668331,
+    "wof:name": "Xinianziyu",
+    "wof:parent_id": 890514275,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.511,
     35.8024,
     117.511,
     35.8024
-],
-  "geometry": {"coordinates":[117.511,35.8024],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.511,
+      35.8024
+    ],
+    "type": "Point"
+  }
 }

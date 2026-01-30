@@ -2,75 +2,83 @@
   "id": 1259403589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.83301,25.55686,119.83301,25.55686",
-    "geom:latitude":25.55686,
-    "geom:longitude":119.83301,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Gangdong",
-    "gn:country_code":"CN",
-    "gn:dem":20,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8574591,
-    "gn:latitude":25.55686,
-    "gn:longitude":119.83301,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Gangdong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.81301,25.53686,119.85301,25.57686",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e2f\u4e1c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.83301,25.55686,119.83301,25.55686",
+    "geom:latitude": 25.55686,
+    "geom:longitude": 119.83301,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Gangdong",
+    "gn:country_code": "CN",
+    "gn:dem": 20,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8574591,
+    "gn:latitude": 25.55686,
+    "gn:longitude": 119.83301,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Gangdong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.81301,25.53686,119.85301,25.57686",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "港东"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512665,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8574591
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8574591
     },
-    "wof:country":"CN",
-    "wof:geomhash":"25e398ce5e92297420be35887485a147",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1259403589,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "25e398ce5e92297420be35887485a147",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1259403589,
+        "region_id": 85669735,
+        "localadmin_id": 890512665
+      }
     ],
-    "wof:id":1259403589,
-    "wof:lastmodified":1566699012,
-    "wof:name":"Gangdong",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259403589,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Gangdong",
+    "wof:parent_id": 890512665,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.83301000000002,
     25.55686,
     119.83301000000002,
     25.55686
-],
-  "geometry": {"coordinates":[119.83301000000002,25.55686],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.83301000000002,
+      25.55686
+    ],
+    "type": "Point"
+  }
 }

@@ -2,82 +2,90 @@
   "id": 1226507133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.71667,49.6,119.71667,49.6",
-    "geom:latitude":49.6,
-    "geom:longitude":119.71667,
-    "gn:admin1_code":"20",
-    "gn:asciiname":"Hadat",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":650,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2037092,
-    "gn:latitude":49.6,
-    "gn:longitude":119.71667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Hadat",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.69667,49.58,119.73667,49.62",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Hadat"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.71667,49.6,119.71667,49.6",
+    "geom:latitude": 49.6,
+    "geom:longitude": 119.71667,
+    "gn:admin1_code": "20",
+    "gn:asciiname": "Hadat",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 650,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2037092,
+    "gn:latitude": 49.6,
+    "gn:longitude": 119.71667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Hadat",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.69667,49.58,119.73667,49.62",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Hadat"
     ],
-    "name:rus_x_preferred":[
-        "\u0425\u0430\u0434\u0430\u0442\u0443"
+    "name:rus_x_preferred": [
+      "Хадату"
     ],
-    "name:und_x_variant":[
-        "Ha-ta-t\u2019u"
+    "name:und_x_variant": [
+      "Ha-ta-t’u"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        1108732385
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890514227,
+      1108732385
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2037092
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2037092
     },
-    "wof:country":"CN",
-    "wof:geomhash":"69adc110afc7775e71d94daeb2504de0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732385,
-            "empire_id":136253041,
-            "locality_id":1226507133,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "69adc110afc7775e71d94daeb2504de0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732385,
+        "empire_id": 136253041,
+        "locality_id": 1226507133,
+        "region_id": 85669847,
+        "localadmin_id": 890514227
+      }
     ],
-    "wof:id":1226507133,
-    "wof:lastmodified":1566702620,
-    "wof:name":"Hadat",
-    "wof:parent_id":1108732385,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226507133,
+    "wof:lastmodified": 1768666531,
+    "wof:name": "Hadat",
+    "wof:parent_id": 890514227,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.71667,
     49.6,
     119.71667,
     49.6
-],
-  "geometry": {"coordinates":[119.71666999999999,49.6],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.71667,
+      49.6
+    ],
+    "type": "Point"
+  }
 }

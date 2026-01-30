@@ -2,79 +2,87 @@
   "id": 1344070857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.55444,31.12556,117.55444,31.12556",
-    "geom:latitude":31.12556,
-    "geom:longitude":117.55444,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Hemaohe",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1808529,
-    "gn:latitude":31.12556,
-    "gn:longitude":117.55444,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Hemaohe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.53444,31.10556,117.57444,31.14556",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019\u00fceh-mao-ho",
-        "Hao-mao-ho",
-        "Ho-mao-ho",
-        "Hemaohe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.55444,31.12556,117.55444,31.12556",
+    "geom:latitude": 31.12556,
+    "geom:longitude": 117.55444,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Hemaohe",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1808529,
+    "gn:latitude": 31.12556,
+    "gn:longitude": 117.55444,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Hemaohe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.53444,31.10556,117.57444,31.14556",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’üeh-mao-ho",
+      "Hao-mao-ho",
+      "Ho-mao-ho",
+      "Hemaohe"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513093
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513093,
+      1127340281
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1808529
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1808529
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a1be1cdbf30307fee962145b3287ec32",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513093,
-            "empire_id":136253041,
-            "locality_id":1344070857,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a1be1cdbf30307fee962145b3287ec32",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513093,
+        "empire_id": 136253041,
+        "locality_id": 1344070857,
+        "region_id": 85669739,
+        "localadmin_id": 1127340281
+      }
     ],
-    "wof:id":1344070857,
-    "wof:lastmodified":1566658829,
-    "wof:name":"Hemaohe",
-    "wof:parent_id":890513093,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344070857,
+    "wof:lastmodified": 1768669816,
+    "wof:name": "Hemaohe",
+    "wof:parent_id": 1127340281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.55444,
     31.12556,
     117.55444,
     31.12556
-],
-  "geometry": {"coordinates":[117.55444,31.12556],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.55444,
+      31.12556
+    ],
+    "type": "Point"
+  }
 }

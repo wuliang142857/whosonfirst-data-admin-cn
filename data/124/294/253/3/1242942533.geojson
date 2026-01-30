@@ -2,78 +2,86 @@
   "id": 1242942533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.119,24.1532,107.119,24.1532",
-    "geom:latitude":24.1532,
-    "geom:longitude":107.119,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Longjia",
-    "gn:country_code":"CN",
-    "gn:dem":603,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9926843,
-    "gn:latitude":24.1532,
-    "gn:longitude":107.119,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Longjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.099,24.1332,107.139,24.1732",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Longjia"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.119,24.1532,107.119,24.1532",
+    "geom:latitude": 24.1532,
+    "geom:longitude": 107.119,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Longjia",
+    "gn:country_code": "CN",
+    "gn:dem": 603,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9926843,
+    "gn:latitude": 24.1532,
+    "gn:longitude": 107.119,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Longjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.099,24.1332,107.139,24.1732",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Longjia"
     ],
-    "name:zho_x_preferred":[
-        "\u9f99\u7532"
+    "name:zho_x_preferred": [
+      "龙甲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514011,
+      1108732453
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9926843
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9926843
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ed8edd0a5b71710637bd8c822bb57d16",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1242942533,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ed8edd0a5b71710637bd8c822bb57d16",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1242942533,
+        "region_id": 85669717,
+        "localadmin_id": 890514011
+      }
     ],
-    "wof:id":1242942533,
-    "wof:lastmodified":1566695002,
-    "wof:name":"Longjia",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242942533,
+    "wof:lastmodified": 1768665536,
+    "wof:name": "Longjia",
+    "wof:parent_id": 890514011,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.119,
     24.1532,
     107.119,
     24.1532
-],
-  "geometry": {"coordinates":[107.119,24.1532],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.119,
+      24.1532
+    ],
+    "type": "Point"
+  }
 }

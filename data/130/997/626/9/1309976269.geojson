@@ -2,75 +2,83 @@
   "id": 1309976269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.055,38.9831,104.055,38.9831",
-    "geom:latitude":38.9831,
-    "geom:longitude":104.055,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Malujing",
-    "gn:country_code":"CN",
-    "gn:dem":1305,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10646769,
-    "gn:latitude":38.9831,
-    "gn:longitude":104.055,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Malujing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.035,38.9631,104.075,39.0031",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u8def\u4e95"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.055,38.9831,104.055,38.9831",
+    "geom:latitude": 38.9831,
+    "geom:longitude": 104.055,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Malujing",
+    "gn:country_code": "CN",
+    "gn:dem": 1305,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10646769,
+    "gn:latitude": 38.9831,
+    "gn:longitude": 104.055,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Malujing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.035,38.9631,104.075,39.0031",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马路井"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516467,
+      1127620621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10646769
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10646769
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1452e783278b78080f505dcfde504363",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1309976269,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1452e783278b78080f505dcfde504363",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1309976269,
+        "region_id": 85669711,
+        "localadmin_id": 1127620621
+      }
     ],
-    "wof:id":1309976269,
-    "wof:lastmodified":1566692427,
-    "wof:name":"Malujing",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309976269,
+    "wof:lastmodified": 1768665872,
+    "wof:name": "Malujing",
+    "wof:parent_id": 1127620621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.055,
     38.9831,
     104.055,
     38.9831
-],
-  "geometry": {"coordinates":[104.05500000000001,38.9831],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.055,
+      38.9831
+    ],
+    "type": "Point"
+  }
 }

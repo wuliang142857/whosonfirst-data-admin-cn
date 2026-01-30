@@ -2,79 +2,87 @@
   "id": 1326686575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.11535,34.02085,109.11535,34.02085",
-    "geom:latitude":34.02085,
-    "geom:longitude":109.11535,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Dayukou",
-    "gn:country_code":"CN",
-    "gn:dem":706,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1813155,
-    "gn:latitude":34.02085,
-    "gn:longitude":109.11535,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Dayukou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.09535,34.00085,109.13535,34.04085",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ta-y\u00fc-k\u2019ou",
-        "Ta-y\u00fc",
-        "\u5927\u5cea\u53e3",
-        "Dayu",
-        "Dayukou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.11535,34.02085,109.11535,34.02085",
+    "geom:latitude": 34.02085,
+    "geom:longitude": 109.11535,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Dayukou",
+    "gn:country_code": "CN",
+    "gn:dem": 706,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1813155,
+    "gn:latitude": 34.02085,
+    "gn:longitude": 109.11535,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Dayukou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.09535,34.00085,109.13535,34.04085",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ta-yü-k’ou",
+      "Ta-yü",
+      "大峪口",
+      "Dayu",
+      "Dayukou"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513413,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1813155
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1813155
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5d31ade947250b21551a548214623186",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1326686575,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5d31ade947250b21551a548214623186",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1326686575,
+        "region_id": 85669769,
+        "localadmin_id": 890513413
+      }
     ],
-    "wof:id":1326686575,
-    "wof:lastmodified":1566649617,
-    "wof:name":"Dayukou",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326686575,
+    "wof:lastmodified": 1768668691,
+    "wof:name": "Dayukou",
+    "wof:parent_id": 890513413,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.11535,
     34.02085,
     109.11535,
     34.02085
-],
-  "geometry": {"coordinates":[109.11535000000001,34.02085],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.11535,
+      34.02085
+    ],
+    "type": "Point"
+  }
 }

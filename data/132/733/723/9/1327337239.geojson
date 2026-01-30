@@ -2,80 +2,88 @@
   "id": 1327337239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.65802,31.41423,118.65802,31.41423",
-    "geom:latitude":31.41423,
-    "geom:longitude":118.65802,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Tangnan",
-    "gn:country_code":"CN",
-    "gn:dem":10,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7040439,
-    "gn:latitude":31.41423,
-    "gn:longitude":118.65802,
-    "gn:modification_date":"2012-10-07",
-    "gn:name":"Tangnan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.63802,31.39423,118.67802,31.43423",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tangnan Zhen",
-        "\u5858\u5357\u9547",
-        "Tangnan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.65802,31.41423,118.65802,31.41423",
+    "geom:latitude": 31.41423,
+    "geom:longitude": 118.65802,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Tangnan",
+    "gn:country_code": "CN",
+    "gn:dem": 10,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7040439,
+    "gn:latitude": 31.41423,
+    "gn:longitude": 118.65802,
+    "gn:modification_date": "2012-10-07",
+    "gn:name": "Tangnan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.63802,31.39423,118.67802,31.43423",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tangnan Zhen",
+      "塘南镇",
+      "Tangnan"
     ],
-    "name:zho_x_preferred":[
-        "\u5858\u5357"
+    "name:zho_x_preferred": [
+      "塘南"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732543
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515255,
+      1108732543
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7040439
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7040439
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c8f13ef74f11df1c25c18effd736da95",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732543,
-            "empire_id":136253041,
-            "locality_id":1327337239,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c8f13ef74f11df1c25c18effd736da95",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732543,
+        "empire_id": 136253041,
+        "locality_id": 1327337239,
+        "region_id": 85669739,
+        "localadmin_id": 890515255
+      }
     ],
-    "wof:id":1327337239,
-    "wof:lastmodified":1566651305,
-    "wof:name":"Tangnan",
-    "wof:parent_id":1108732543,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327337239,
+    "wof:lastmodified": 1768669727,
+    "wof:name": "Tangnan",
+    "wof:parent_id": 890515255,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.65802,
     31.41423,
     118.65802,
     31.41423
-],
-  "geometry": {"coordinates":[118.65801999999999,31.41423],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.65802,
+      31.41423
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1310085571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.83157,29.99623,115.83157,29.99623",
-    "geom:latitude":29.99623,
-    "geom:longitude":115.83157,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Chashan",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7644310,
-    "gn:latitude":29.99623,
-    "gn:longitude":115.83157,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Chashan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.81157,29.97623,115.85157,30.01623",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u0686\u0627\u0634\u0627\u0646"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.83157,29.99623,115.83157,29.99623",
+    "geom:latitude": 29.99623,
+    "geom:longitude": 115.83157,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Chashan",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7644310,
+    "gn:latitude": 29.99623,
+    "gn:longitude": 115.83157,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Chashan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.81157,29.97623,115.85157,30.01623",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "چاشان"
     ],
-    "name:mlg_x_preferred":[
-        "Chashan"
+    "name:mlg_x_preferred": [
+      "Chashan"
     ],
-    "name:zho_x_preferred":[
-        "\u8336\u5c71"
+    "name:zho_x_preferred": [
+      "茶山"
     ],
-    "name:zho_x_variant":[
-        "\u8336\u5c71\u9547"
+    "name:zho_x_variant": [
+      "茶山镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514791
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514699,
+      890514791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7644310
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7644310
     },
-    "wof:country":"CN",
-    "wof:geomhash":"85aa1745ee8d3e80326045c862b93229",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514791,
-            "empire_id":136253041,
-            "locality_id":1310085571,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "85aa1745ee8d3e80326045c862b93229",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514791,
+        "empire_id": 136253041,
+        "locality_id": 1310085571,
+        "region_id": 85669777,
+        "localadmin_id": 890514699
+      }
     ],
-    "wof:id":1310085571,
-    "wof:lastmodified":1566689289,
-    "wof:name":"Chashan",
-    "wof:parent_id":890514791,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310085571,
+    "wof:lastmodified": 1768667060,
+    "wof:name": "Chashan",
+    "wof:parent_id": 890514699,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.83157,
     29.99623,
     115.83157,
     29.99623
-],
-  "geometry": {"coordinates":[115.83157,29.99623],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.83157,
+      29.99623
+    ],
+    "type": "Point"
+  }
 }

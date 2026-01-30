@@ -2,75 +2,83 @@
   "id": 1310676419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.848,27.705,106.848,27.705",
-    "geom:latitude":27.705,
-    "geom:longitude":106.848,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Huaishuwan",
-    "gn:country_code":"CN",
-    "gn:dem":975,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10028056,
-    "gn:latitude":27.705,
-    "gn:longitude":106.848,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Huaishuwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.828,27.685,106.868,27.725",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u69d0\u6811\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.848,27.705,106.848,27.705",
+    "geom:latitude": 27.705,
+    "geom:longitude": 106.848,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Huaishuwan",
+    "gn:country_code": "CN",
+    "gn:dem": 975,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10028056,
+    "gn:latitude": 27.705,
+    "gn:longitude": 106.848,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Huaishuwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.828,27.685,106.868,27.725",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "槐树湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516473
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890516473,
+      1127520302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10028056
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10028056
     },
-    "wof:country":"CN",
-    "wof:geomhash":"92ac428426ea531e9e7c1da5bc943ed3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516473,
-            "empire_id":136253041,
-            "locality_id":1310676419,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "92ac428426ea531e9e7c1da5bc943ed3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516473,
+        "empire_id": 136253041,
+        "locality_id": 1310676419,
+        "region_id": 85669721,
+        "localadmin_id": 1127520302
+      }
     ],
-    "wof:id":1310676419,
-    "wof:lastmodified":1566690934,
-    "wof:name":"Huaishuwan",
-    "wof:parent_id":890516473,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310676419,
+    "wof:lastmodified": 1768664928,
+    "wof:name": "Huaishuwan",
+    "wof:parent_id": 1127520302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.848,
     27.705,
     106.848,
     27.705
-],
-  "geometry": {"coordinates":[106.848,27.705],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.848,
+      27.705
+    ],
+    "type": "Point"
+  }
 }

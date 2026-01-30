@@ -2,81 +2,89 @@
   "id": 1226422487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.61735,30.07984,114.61735,30.07984",
-    "geom:latitude":30.07984,
-    "geom:longitude":114.61735,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhonglu",
-    "gn:country_code":"CN",
-    "gn:dem":30,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9821554,
-    "gn:latitude":30.07984,
-    "gn:longitude":114.61735,
-    "gn:modification_date":"2014-11-07",
-    "gn:name":"Zhonglu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.59735,30.05984,114.63735,30.09984",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u0698\u0648\u0646\u06af\u0644\u0648"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.61735,30.07984,114.61735,30.07984",
+    "geom:latitude": 30.07984,
+    "geom:longitude": 114.61735,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhonglu",
+    "gn:country_code": "CN",
+    "gn:dem": 30,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9821554,
+    "gn:latitude": 30.07984,
+    "gn:longitude": 114.61735,
+    "gn:modification_date": "2014-11-07",
+    "gn:name": "Zhonglu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.59735,30.05984,114.63735,30.09984",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "ژونگلو"
     ],
-    "name:zho_x_preferred":[
-        "\u4e2d\u9c81"
+    "name:zho_x_preferred": [
+      "中鲁"
     ],
-    "name:zho_x_variant":[
-        "\u5fe0\u8def\u9547"
+    "name:zho_x_variant": [
+      "忠路镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514515
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514515,
+      1127420702
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9821554
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9821554
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6f0b5169f98318971380b4304f9a87fe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514515,
-            "empire_id":136253041,
-            "locality_id":1226422487,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6f0b5169f98318971380b4304f9a87fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514515,
+        "empire_id": 136253041,
+        "locality_id": 1226422487,
+        "region_id": 85669777,
+        "localadmin_id": 1127420702
+      }
     ],
-    "wof:id":1226422487,
-    "wof:lastmodified":1566701463,
-    "wof:name":"Zhonglu",
-    "wof:parent_id":890514515,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226422487,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Zhonglu",
+    "wof:parent_id": 1127420702,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.61735,
     30.07984,
     114.61735,
     30.07984
-],
-  "geometry": {"coordinates":[114.61735,30.07984],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.61735,
+      30.07984
+    ],
+    "type": "Point"
+  }
 }

@@ -2,83 +2,91 @@
   "id": 1243360907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"95.73326,32.51994,95.73326,32.51994",
-    "geom:latitude":32.51994,
-    "geom:longitude":95.73326,
-    "gn:admin1_code":"6.0",
-    "gn:asciiname":"Zhexiao",
-    "gn:country_code":"CN",
-    "gn:dem":3995,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8453531,
-    "gn:latitude":32.51994,
-    "gn:longitude":95.73326,
-    "gn:modification_date":"2013-02-10",
-    "gn:name":"Zhexiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"95.71326,32.49994,95.75326,32.53994",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhexiao Xiang",
-        "Quguo Chawu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "95.73326,32.51994,95.73326,32.51994",
+    "geom:latitude": 32.51994,
+    "geom:longitude": 95.73326,
+    "gn:admin1_code": "6.0",
+    "gn:asciiname": "Zhexiao",
+    "gn:country_code": "CN",
+    "gn:dem": 3995,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8453531,
+    "gn:latitude": 32.51994,
+    "gn:longitude": 95.73326,
+    "gn:modification_date": "2013-02-10",
+    "gn:name": "Zhexiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "95.71326,32.49994,95.75326,32.53994",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhexiao Xiang",
+      "Quguo Chawu"
     ],
-    "name:zho_x_preferred":[
-        "\u7740\u6653"
+    "name:zho_x_preferred": [
+      "着晓"
     ],
-    "name:zho_x_variant":[
-        "\u7740\u6653\u4e61",
-        "\u66f2\u679c\u5c94\u543e"
+    "name:zho_x_variant": [
+      "着晓乡",
+      "曲果岔吾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669715,
-        102191569,
-        85632695,
-        136253041,
-        890513781
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669715,
+      102191569,
+      136253041,
+      890513781,
+      1127632725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8453531
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8453531
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4e093cea344e7bc4403b727288f7ebcd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513781,
-            "empire_id":136253041,
-            "locality_id":1243360907,
-            "region_id":85669715
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4e093cea344e7bc4403b727288f7ebcd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513781,
+        "empire_id": 136253041,
+        "locality_id": 1243360907,
+        "region_id": 85669715,
+        "localadmin_id": 1127632725
+      }
     ],
-    "wof:id":1243360907,
-    "wof:lastmodified":1566693889,
-    "wof:name":"Zhexiao",
-    "wof:parent_id":890513781,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243360907,
+    "wof:lastmodified": 1768669580,
+    "wof:name": "Zhexiao",
+    "wof:parent_id": 1127632725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     95.73326,
     32.51994000000001,
     95.73326,
     32.51994000000001
-],
-  "geometry": {"coordinates":[95.73326,32.51994000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      95.73326,
+      32.51994000000001
+    ],
+    "type": "Point"
+  }
 }

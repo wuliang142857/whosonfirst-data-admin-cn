@@ -2,75 +2,83 @@
   "id": 1225814351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.66231,35.98495,105.66231,35.98495",
-    "geom:latitude":35.98495,
-    "geom:longitude":105.66231,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Yuanhe",
-    "gn:country_code":"CN",
-    "gn:dem":1958,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7349725,
-    "gn:latitude":35.98495,
-    "gn:longitude":105.66231,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yuanhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.64231,35.96495,105.68231,36.00495",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8881\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.66231,35.98495,105.66231,35.98495",
+    "geom:latitude": 35.98495,
+    "geom:longitude": 105.66231,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Yuanhe",
+    "gn:country_code": "CN",
+    "gn:dem": 1958,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7349725,
+    "gn:latitude": 35.98495,
+    "gn:longitude": 105.66231,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yuanhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.64231,35.96495,105.68231,36.00495",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "袁河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890515165
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515165,
+      1127640422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7349725
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7349725
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f95067fb0b00daab70bb2a3eec32bb44",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515165,
-            "empire_id":136253041,
-            "locality_id":1225814351,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f95067fb0b00daab70bb2a3eec32bb44",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515165,
+        "empire_id": 136253041,
+        "locality_id": 1225814351,
+        "region_id": 85669763,
+        "localadmin_id": 1127640422
+      }
     ],
-    "wof:id":1225814351,
-    "wof:lastmodified":1566702773,
-    "wof:name":"Yuanhe",
-    "wof:parent_id":890515165,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225814351,
+    "wof:lastmodified": 1768667192,
+    "wof:name": "Yuanhe",
+    "wof:parent_id": 1127640422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.66231,
     35.98495,
     105.66231,
     35.98495
-],
-  "geometry": {"coordinates":[105.66231000000001,35.98495],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.66231,
+      35.98495
+    ],
+    "type": "Point"
+  }
 }

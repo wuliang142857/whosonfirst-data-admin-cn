@@ -2,75 +2,83 @@
   "id": 1344012749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.10485,32.44165,108.10485,32.44165",
-    "geom:latitude":32.44165,
-    "geom:longitude":108.10485,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Zhongliang",
-    "gn:country_code":"CN",
-    "gn:dem":1275,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11332665,
-    "gn:latitude":32.44165,
-    "gn:longitude":108.10485,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Zhongliang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.08485,32.42165,108.12485,32.46165",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u6881"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.10485,32.44165,108.10485,32.44165",
+    "geom:latitude": 32.44165,
+    "geom:longitude": 108.10485,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Zhongliang",
+    "gn:country_code": "CN",
+    "gn:dem": 1275,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11332665,
+    "gn:latitude": 32.44165,
+    "gn:longitude": 108.10485,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Zhongliang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.08485,32.42165,108.12485,32.46165",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中梁"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515099,
+      1127610728
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11332665
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11332665
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6c6dcc0bfaa74e1df6862019e5519069",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1344012749,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6c6dcc0bfaa74e1df6862019e5519069",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1344012749,
+        "region_id": 85669769,
+        "localadmin_id": 1127610728
+      }
     ],
-    "wof:id":1344012749,
-    "wof:lastmodified":1566658605,
-    "wof:name":"Zhongliang",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344012749,
+    "wof:lastmodified": 1768667985,
+    "wof:name": "Zhongliang",
+    "wof:parent_id": 1127610728,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.10485,
     32.44165,
     108.10485,
     32.44165
-],
-  "geometry": {"coordinates":[108.10485,32.44165],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.10485,
+      32.44165
+    ],
+    "type": "Point"
+  }
 }

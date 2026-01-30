@@ -2,75 +2,83 @@
   "id": 1309929477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.59552,33.6153,119.59552,33.6153",
-    "geom:latitude":33.6153,
-    "geom:longitude":119.59552,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Dayucun",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11575833,
-    "gn:latitude":33.6153,
-    "gn:longitude":119.59552,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Dayucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.57552,33.5953,119.61552,33.6353",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u4f59\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.59552,33.6153,119.59552,33.6153",
+    "geom:latitude": 33.6153,
+    "geom:longitude": 119.59552,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Dayucun",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11575833,
+    "gn:latitude": 33.6153,
+    "gn:longitude": 119.59552,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Dayucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.57552,33.5953,119.61552,33.6353",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大余村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11575833
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11575833
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4f793f42ad7eca0ff7cec5e9c2c12913",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1309929477,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4f793f42ad7eca0ff7cec5e9c2c12913",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1309929477,
+        "region_id": 85669827,
+        "localadmin_id": 1127320923
+      }
     ],
-    "wof:id":1309929477,
-    "wof:lastmodified":1566693076,
-    "wof:name":"Dayucun",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309929477,
+    "wof:lastmodified": 1768670804,
+    "wof:name": "Dayucun",
+    "wof:parent_id": 1127320923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.59552,
     33.6153,
     119.59552,
     33.6153
-],
-  "geometry": {"coordinates":[119.59551999999999,33.6153],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.59552,
+      33.6153
+    ],
+    "type": "Point"
+  }
 }

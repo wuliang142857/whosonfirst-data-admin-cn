@@ -2,75 +2,83 @@
   "id": 1310269159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.898,37.7865,105.898,37.7865",
-    "geom:latitude":37.7865,
-    "geom:longitude":105.898,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Santangdun Erdui",
-    "gn:country_code":"CN",
-    "gn:dem":1173,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":10188046,
-    "gn:latitude":37.7865,
-    "gn:longitude":105.898,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Santangdun Erdui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.878,37.7665,105.918,37.8065",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u8d9f\u58a9\u4e8c\u961f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.898,37.7865,105.898,37.7865",
+    "geom:latitude": 37.7865,
+    "geom:longitude": 105.898,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Santangdun Erdui",
+    "gn:country_code": "CN",
+    "gn:dem": 1173,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 10188046,
+    "gn:latitude": 37.7865,
+    "gn:longitude": 105.898,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Santangdun Erdui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.878,37.7665,105.918,37.8065",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三趟墩二队"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        1108732381
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515661,
+      1108732381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10188046
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10188046
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b0da47e39240a6b9c6ea5b3902904cf4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732381,
-            "empire_id":136253041,
-            "locality_id":1310269159,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b0da47e39240a6b9c6ea5b3902904cf4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732381,
+        "empire_id": 136253041,
+        "locality_id": 1310269159,
+        "region_id": 85669763,
+        "localadmin_id": 890515661
+      }
     ],
-    "wof:id":1310269159,
-    "wof:lastmodified":1566690211,
-    "wof:name":"Santangdun Erdui",
-    "wof:parent_id":1108732381,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310269159,
+    "wof:lastmodified": 1768667273,
+    "wof:name": "Santangdun Erdui",
+    "wof:parent_id": 890515661,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.898,
     37.7865,
     105.898,
     37.7865
-],
-  "geometry": {"coordinates":[105.898,37.7865],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.898,
+      37.7865
+    ],
+    "type": "Point"
+  }
 }

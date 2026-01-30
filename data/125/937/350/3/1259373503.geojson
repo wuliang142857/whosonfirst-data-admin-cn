@@ -2,75 +2,83 @@
   "id": 1259373503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.36516,48.09723,124.36516,48.09723",
-    "geom:latitude":48.09723,
-    "geom:longitude":124.36516,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Yanjiang",
-    "gn:country_code":"CN",
-    "gn:dem":173,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8475536,
-    "gn:latitude":48.09723,
-    "gn:longitude":124.36516,
-    "gn:modification_date":"2013-03-06",
-    "gn:name":"Yanjiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.34516,48.07723,124.38516,48.11723",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6cbf\u6c5f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.36516,48.09723,124.36516,48.09723",
+    "geom:latitude": 48.09723,
+    "geom:longitude": 124.36516,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Yanjiang",
+    "gn:country_code": "CN",
+    "gn:dem": 173,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8475536,
+    "gn:latitude": 48.09723,
+    "gn:longitude": 124.36516,
+    "gn:modification_date": "2013-03-06",
+    "gn:name": "Yanjiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.34516,48.07723,124.38516,48.11723",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沿江"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8475536
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8475536
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b8ae4e58dd745846fbb0dcc51f55a81b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1259373503,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b8ae4e58dd745846fbb0dcc51f55a81b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1259373503,
+        "region_id": 85669849,
+        "localadmin_id": 1127230225
+      }
     ],
-    "wof:id":1259373503,
-    "wof:lastmodified":1566698360,
-    "wof:name":"Yanjiang",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259373503,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Yanjiang",
+    "wof:parent_id": 1127230225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.36516,
     48.09723,
     124.36516,
     48.09723
-],
-  "geometry": {"coordinates":[124.36516,48.09723],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.36516,
+      48.09723
+    ],
+    "type": "Point"
+  }
 }

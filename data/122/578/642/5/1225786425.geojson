@@ -2,75 +2,83 @@
   "id": 1225786425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.45453,29.85825,107.45453,29.85825",
-    "geom:latitude":29.85825,
-    "geom:longitude":107.45453,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Pingxi",
-    "gn:country_code":"CN",
-    "gn:dem":181,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416472,
-    "gn:latitude":29.85825,
-    "gn:longitude":107.45453,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Pingxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.43453,29.83825,107.47453,29.87825",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u576a\u897f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.45453,29.85825,107.45453,29.85825",
+    "geom:latitude": 29.85825,
+    "geom:longitude": 107.45453,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Pingxi",
+    "gn:country_code": "CN",
+    "gn:dem": 181,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416472,
+    "gn:latitude": 29.85825,
+    "gn:longitude": 107.45453,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Pingxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.43453,29.83825,107.47453,29.87825",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坪西"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416472
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416472
     },
-    "wof:country":"CN",
-    "wof:geomhash":"37e809c32450a0856d9ff4fd0251f3a4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1225786425,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "37e809c32450a0856d9ff4fd0251f3a4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1225786425,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1225786425,
-    "wof:lastmodified":1566705862,
-    "wof:name":"Pingxi",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225786425,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Pingxi",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.45453,
     29.85825,
     107.45453,
     29.85825
-],
-  "geometry": {"coordinates":[107.45453000000001,29.85825],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.45453,
+      29.85825
+    ],
+    "type": "Point"
+  }
 }

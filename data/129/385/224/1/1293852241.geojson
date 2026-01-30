@@ -2,72 +2,80 @@
   "id": 1293852241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.80111,30.89,121.80111,30.89",
-    "geom:latitude":30.89,
-    "geom:longitude":121.80111,
-    "gn:admin1_code":"23",
-    "gn:asciiname":"Peng'er",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1895854,
-    "gn:latitude":30.89,
-    "gn:longitude":121.80111,
-    "gn:modification_date":"1996-03-12",
-    "gn:name":"Peng\u2019er",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.78111,30.87,121.82111,30.91",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.80111,30.89,121.80111,30.89",
+    "geom:latitude": 30.89,
+    "geom:longitude": 121.80111,
+    "gn:admin1_code": "23",
+    "gn:asciiname": "Peng'er",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1895854,
+    "gn:latitude": 30.89,
+    "gn:longitude": 121.80111,
+    "gn:modification_date": "1996-03-12",
+    "gn:name": "Peng’er",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.78111,30.87,121.82111,30.91",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514195,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1895854
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1895854
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0fd5bede406e670a35983e0ffee68279",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1293852241,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0fd5bede406e670a35983e0ffee68279",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1293852241,
+        "region_id": 85669831,
+        "localadmin_id": 890514195
+      }
     ],
-    "wof:id":1293852241,
-    "wof:lastmodified":1566668066,
-    "wof:name":"Peng'er",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293852241,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Peng'er",
+    "wof:parent_id": 890514195,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.80111,
     30.89,
     121.80111,
     30.89
-],
-  "geometry": {"coordinates":[121.80110999999999,30.89],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.80111,
+      30.89
+    ],
+    "type": "Point"
+  }
 }

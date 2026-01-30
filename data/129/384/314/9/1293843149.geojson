@@ -2,75 +2,83 @@
   "id": 1293843149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.967,27.6669,102.967,27.6669",
-    "geom:latitude":27.6669,
-    "geom:longitude":102.967,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shaheluo",
-    "gn:country_code":"CN",
-    "gn:dem":2744,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10215826,
-    "gn:latitude":27.6669,
-    "gn:longitude":102.967,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shaheluo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.947,27.6469,102.987,27.6869",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c99\u5408\u6d1b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.967,27.6669,102.967,27.6669",
+    "geom:latitude": 27.6669,
+    "geom:longitude": 102.967,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shaheluo",
+    "gn:country_code": "CN",
+    "gn:dem": 2744,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10215826,
+    "gn:latitude": 27.6669,
+    "gn:longitude": 102.967,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shaheluo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.947,27.6469,102.987,27.6869",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沙合洛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794061
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514969,
+      1108794061
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10215826
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10215826
     },
-    "wof:country":"CN",
-    "wof:geomhash":"434245ca1c76a466d714a64a9f4fb9e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794061,
-            "empire_id":136253041,
-            "locality_id":1293843149,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "434245ca1c76a466d714a64a9f4fb9e4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794061,
+        "empire_id": 136253041,
+        "locality_id": 1293843149,
+        "region_id": 85669787,
+        "localadmin_id": 890514969
+      }
     ],
-    "wof:id":1293843149,
-    "wof:lastmodified":1566667736,
-    "wof:name":"Shaheluo",
-    "wof:parent_id":1108794061,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293843149,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Shaheluo",
+    "wof:parent_id": 890514969,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.967,
     27.6669,
     102.967,
     27.6669
-],
-  "geometry": {"coordinates":[102.967,27.6669],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.967,
+      27.6669
+    ],
+    "type": "Point"
+  }
 }

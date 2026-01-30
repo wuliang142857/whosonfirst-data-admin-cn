@@ -2,84 +2,92 @@
   "id": 1343959459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.95498,28.98599,114.95498,28.98599",
-    "geom:latitude":28.98599,
-    "geom:longitude":114.95498,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Shiqiao",
-    "gn:country_code":"CN",
-    "gn:dem":805,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7689148,
-    "gn:latitude":28.98599,
-    "gn:longitude":114.95498,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Shiqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.93498,28.96599,114.97498,29.00599",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Shiqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.95498,28.98599,114.95498,28.98599",
+    "geom:latitude": 28.98599,
+    "geom:longitude": 114.95498,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Shiqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 805,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7689148,
+    "gn:latitude": 28.98599,
+    "gn:longitude": 114.95498,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Shiqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.93498,28.96599,114.97498,29.00599",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Shiqiao"
     ],
-    "name:deu_x_preferred":[
-        "Shiqiao"
+    "name:deu_x_preferred": [
+      "Shiqiao"
     ],
-    "name:swe_x_preferred":[
-        "Shiqiao"
+    "name:swe_x_preferred": [
+      "Shiqiao"
     ],
-    "name:und_x_variant":[
-        "\u77f3\u6865"
+    "name:und_x_variant": [
+      "石桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7689148
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7689148
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cc0b5840d635709c60bfd998d5905517",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1343959459,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cc0b5840d635709c60bfd998d5905517",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1343959459,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1343959459,
-    "wof:lastmodified":1566660788,
-    "wof:name":"Shiqiao",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343959459,
+    "wof:lastmodified": 1768669673,
+    "wof:name": "Shiqiao",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.95498,
     28.98599,
     114.95498,
     28.98599
-],
-  "geometry": {"coordinates":[114.95498000000001,28.98599],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.95498,
+      28.98599
+    ],
+    "type": "Point"
+  }
 }

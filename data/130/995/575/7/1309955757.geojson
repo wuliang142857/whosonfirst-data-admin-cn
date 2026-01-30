@@ -2,75 +2,83 @@
   "id": 1309955757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.99543,23.68209,116.99543,23.68209",
-    "geom:latitude":23.68209,
-    "geom:longitude":116.99543,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Shanglin",
-    "gn:country_code":"CN",
-    "gn:dem":15,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11038420,
-    "gn:latitude":23.68209,
-    "gn:longitude":116.99543,
-    "gn:modification_date":"2016-01-09",
-    "gn:name":"Shanglin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.97543,23.66209,117.01543,23.70209",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u6797"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.99543,23.68209,116.99543,23.68209",
+    "geom:latitude": 23.68209,
+    "geom:longitude": 116.99543,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Shanglin",
+    "gn:country_code": "CN",
+    "gn:dem": 15,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11038420,
+    "gn:latitude": 23.68209,
+    "gn:longitude": 116.99543,
+    "gn:modification_date": "2016-01-09",
+    "gn:name": "Shanglin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.97543,23.66209,117.01543,23.70209",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513033
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513033,
+      1127445122
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11038420
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11038420
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dd5438272bcc1e1cdb0ce750473cabb3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513033,
-            "empire_id":136253041,
-            "locality_id":1309955757,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dd5438272bcc1e1cdb0ce750473cabb3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513033,
+        "empire_id": 136253041,
+        "locality_id": 1309955757,
+        "region_id": 85669743,
+        "localadmin_id": 1127445122
+      }
     ],
-    "wof:id":1309955757,
-    "wof:lastmodified":1566693042,
-    "wof:name":"Shanglin",
-    "wof:parent_id":890513033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309955757,
+    "wof:lastmodified": 1768667785,
+    "wof:name": "Shanglin",
+    "wof:parent_id": 1127445122,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.99543,
     23.68209,
     116.99543,
     23.68209
-],
-  "geometry": {"coordinates":[116.99543,23.68209],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.99543,
+      23.68209
+    ],
+    "type": "Point"
+  }
 }

@@ -2,85 +2,93 @@
   "id": 1276528967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.55146,25.49603,111.55146,25.49603",
-    "geom:latitude":25.49603,
-    "geom:longitude":111.55146,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Daojiang",
-    "gn:country_code":"CN",
-    "gn:dem":182,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1813777,
-    "gn:latitude":25.49603,
-    "gn:longitude":111.55146,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Daojiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.53146,25.47603,111.57146,25.51603",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tao-chou",
-        "Daoxian",
-        "Tao-chiang-chen",
-        "Tao",
-        "Tao-hsien",
-        "Tao-chiang",
-        "Daojiangzhen",
-        "Daojiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.55146,25.49603,111.55146,25.49603",
+    "geom:latitude": 25.49603,
+    "geom:longitude": 111.55146,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Daojiang",
+    "gn:country_code": "CN",
+    "gn:dem": 182,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1813777,
+    "gn:latitude": 25.49603,
+    "gn:longitude": 111.55146,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Daojiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.53146,25.47603,111.57146,25.51603",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tao-chou",
+      "Daoxian",
+      "Tao-chiang-chen",
+      "Tao",
+      "Tao-hsien",
+      "Tao-chiang",
+      "Daojiangzhen",
+      "Daojiang"
     ],
-    "name:zho_x_preferred":[
-        "\u9053\u6c5f"
+    "name:zho_x_preferred": [
+      "道江"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515001
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515001,
+      1127431124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1813777
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1813777
     },
-    "wof:country":"CN",
-    "wof:geomhash":"86c59edb45c3928b537bc732aeab798f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515001,
-            "empire_id":136253041,
-            "locality_id":1276528967,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "86c59edb45c3928b537bc732aeab798f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515001,
+        "empire_id": 136253041,
+        "locality_id": 1276528967,
+        "region_id": 85669781,
+        "localadmin_id": 1127431124
+      }
     ],
-    "wof:id":1276528967,
-    "wof:lastmodified":1566677362,
-    "wof:name":"Daojiang",
-    "wof:parent_id":890515001,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276528967,
+    "wof:lastmodified": 1768670294,
+    "wof:name": "Daojiang",
+    "wof:parent_id": 1127431124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.55146,
     25.49603,
     111.55146,
     25.49603
-],
-  "geometry": {"coordinates":[111.55146000000001,25.49603],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.55146,
+      25.49603
+    ],
+    "type": "Point"
+  }
 }

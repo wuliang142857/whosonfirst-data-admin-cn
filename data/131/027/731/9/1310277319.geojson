@@ -2,78 +2,86 @@
   "id": 1310277319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.378,24.4777,109.378,24.4777",
-    "geom:latitude":24.4777,
-    "geom:longitude":109.378,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Wangtang",
-    "gn:country_code":"CN",
-    "gn:dem":115,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9944721,
-    "gn:latitude":24.4777,
-    "gn:longitude":109.378,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Wangtang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.358,24.4577,109.398,24.4977",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nld_x_preferred":[
-        "Wangtang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.378,24.4777,109.378,24.4777",
+    "geom:latitude": 24.4777,
+    "geom:longitude": 109.378,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Wangtang",
+    "gn:country_code": "CN",
+    "gn:dem": 115,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9944721,
+    "gn:latitude": 24.4777,
+    "gn:longitude": 109.378,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Wangtang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.358,24.4577,109.398,24.4977",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nld_x_preferred": [
+      "Wangtang"
     ],
-    "name:zho_x_preferred":[
-        "\u65fa\u5858"
+    "name:zho_x_preferred": [
+      "旺塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450205
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9944721
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9944721
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7f6c3f31a567cf18b623d263f7c8df91",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1310277319,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7f6c3f31a567cf18b623d263f7c8df91",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1310277319,
+        "region_id": 85669717,
+        "localadmin_id": 1127450205
+      }
     ],
-    "wof:id":1310277319,
-    "wof:lastmodified":1566689715,
-    "wof:name":"Wangtang",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310277319,
+    "wof:lastmodified": 1768665481,
+    "wof:name": "Wangtang",
+    "wof:parent_id": 1127450205,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.378,
     24.4777,
     109.378,
     24.4777
-],
-  "geometry": {"coordinates":[109.378,24.4777],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.378,
+      24.4777
+    ],
+    "type": "Point"
+  }
 }

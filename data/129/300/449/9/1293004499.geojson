@@ -2,75 +2,83 @@
   "id": 1293004499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.2735,33.01611,116.2735,33.01611",
-    "geom:latitude":33.01611,
-    "geom:longitude":116.2735,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Zhangwancun",
-    "gn:country_code":"CN",
-    "gn:dem":26,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11481673,
-    "gn:latitude":33.01611,
-    "gn:longitude":116.2735,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Zhangwancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.2535,32.99611,116.2935,33.03611",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u6e7e\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.2735,33.01611,116.2735,33.01611",
+    "geom:latitude": 33.01611,
+    "geom:longitude": 116.2735,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Zhangwancun",
+    "gn:country_code": "CN",
+    "gn:dem": 26,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11481673,
+    "gn:latitude": 33.01611,
+    "gn:longitude": 116.2735,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Zhangwancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.2535,32.99611,116.2935,33.03611",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张湾村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11481673
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11481673
     },
-    "wof:country":"CN",
-    "wof:geomhash":"93db6fcd21191df7064aa6867d79e8c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1293004499,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "93db6fcd21191df7064aa6867d79e8c0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1293004499,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1293004499,
-    "wof:lastmodified":1566665343,
-    "wof:name":"Zhangwancun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293004499,
+    "wof:lastmodified": 1768669757,
+    "wof:name": "Zhangwancun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.2735,
     33.01611,
     116.2735,
     33.01611
-],
-  "geometry": {"coordinates":[116.2735,33.01611],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.2735,
+      33.01611
+    ],
+    "type": "Point"
+  }
 }

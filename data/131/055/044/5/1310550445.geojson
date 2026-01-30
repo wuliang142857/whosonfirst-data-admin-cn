@@ -2,78 +2,86 @@
   "id": 1310550445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.456,32.4005,103.456,32.4005",
-    "geom:latitude":32.4005,
-    "geom:longitude":103.456,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Wo'ai",
-    "gn:country_code":"CN",
-    "gn:dem":2848,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10148978,
-    "gn:latitude":32.4005,
-    "gn:longitude":103.456,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Wo\u2019ai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.436,32.3805,103.476,32.4205",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wo\u2019ai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.456,32.4005,103.456,32.4005",
+    "geom:latitude": 32.4005,
+    "geom:longitude": 103.456,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Wo'ai",
+    "gn:country_code": "CN",
+    "gn:dem": 2848,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10148978,
+    "gn:latitude": 32.4005,
+    "gn:longitude": 103.456,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Wo’ai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.436,32.3805,103.476,32.4205",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wo’ai"
     ],
-    "name:zho_x_preferred":[
-        "\u6c83\u57c3"
+    "name:zho_x_preferred": [
+      "沃埃"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794065
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516353,
+      1108794065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10148978
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10148978
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1d111110b13b547990d4e04b578af915",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794065,
-            "empire_id":136253041,
-            "locality_id":1310550445,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1d111110b13b547990d4e04b578af915",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794065,
+        "empire_id": 136253041,
+        "locality_id": 1310550445,
+        "region_id": 85669787,
+        "localadmin_id": 890516353
+      }
     ],
-    "wof:id":1310550445,
-    "wof:lastmodified":1566689166,
-    "wof:name":"Wo'ai",
-    "wof:parent_id":1108794065,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310550445,
+    "wof:lastmodified": 1768668872,
+    "wof:name": "Wo'ai",
+    "wof:parent_id": 890516353,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.456,
     32.4005,
     103.456,
     32.4005
-],
-  "geometry": {"coordinates":[103.456,32.4005],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.456,
+      32.4005
+    ],
+    "type": "Point"
+  }
 }

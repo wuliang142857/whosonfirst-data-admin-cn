@@ -2,78 +2,86 @@
   "id": 1260297291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.54111,29.85389,119.54111,29.85389",
-    "geom:latitude":29.85389,
-    "geom:longitude":119.54111,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Dakeng",
-    "gn:country_code":"CN",
-    "gn:dem":283,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1916829,
-    "gn:latitude":29.85389,
-    "gn:longitude":119.54111,
-    "gn:modification_date":"2001-03-27",
-    "gn:name":"Dakeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.52111,29.83389,119.56111,29.87389",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Dakeng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.54111,29.85389,119.54111,29.85389",
+    "geom:latitude": 29.85389,
+    "geom:longitude": 119.54111,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Dakeng",
+    "gn:country_code": "CN",
+    "gn:dem": 283,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1916829,
+    "gn:latitude": 29.85389,
+    "gn:longitude": 119.54111,
+    "gn:modification_date": "2001-03-27",
+    "gn:name": "Dakeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.52111,29.83389,119.56111,29.87389",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Dakeng"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5751\u98a8\u666f\u5340"
+    "name:zho_x_preferred": [
+      "大坑風景區"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515271,
+      890516555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1916829
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1916829
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d4cd5c84c2df9bf76611681be0c3c1dd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1260297291,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d4cd5c84c2df9bf76611681be0c3c1dd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1260297291,
+        "region_id": 85669835,
+        "localadmin_id": 890515271
+      }
     ],
-    "wof:id":1260297291,
-    "wof:lastmodified":1566687281,
-    "wof:name":"Dakeng",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260297291,
+    "wof:lastmodified": 1768663107,
+    "wof:name": "Dakeng",
+    "wof:parent_id": 890515271,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.54111,
     29.85389,
     119.54111,
     29.85389
-],
-  "geometry": {"coordinates":[119.54111,29.85389],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.54111,
+      29.85389
+    ],
+    "type": "Point"
+  }
 }

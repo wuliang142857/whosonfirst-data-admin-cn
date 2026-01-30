@@ -2,75 +2,83 @@
   "id": 1243318205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.84167,34.65,108.84167,34.65",
-    "geom:latitude":34.65,
-    "geom:longitude":108.84167,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Leijia",
-    "gn:country_code":"CN",
-    "gn:dem":438,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1999721,
-    "gn:latitude":34.65,
-    "gn:longitude":108.84167,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Leijia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.82167,34.63,108.86167,34.67",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u96f7\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.84167,34.65,108.84167,34.65",
+    "geom:latitude": 34.65,
+    "geom:longitude": 108.84167,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Leijia",
+    "gn:country_code": "CN",
+    "gn:dem": 438,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1999721,
+    "gn:latitude": 34.65,
+    "gn:longitude": 108.84167,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Leijia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.82167,34.63,108.86167,34.67",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "雷家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513225,
+      890515689
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1999721
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1999721
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fbdf80606dcccad372307a539c704183",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1243318205,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fbdf80606dcccad372307a539c704183",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1243318205,
+        "region_id": 85669769,
+        "localadmin_id": 890513225
+      }
     ],
-    "wof:id":1243318205,
-    "wof:lastmodified":1566693933,
-    "wof:name":"Leijia",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243318205,
+    "wof:lastmodified": 1768667723,
+    "wof:name": "Leijia",
+    "wof:parent_id": 890513225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.84167,
     34.65,
     108.84167,
     34.65
-],
-  "geometry": {"coordinates":[108.84166999999999,34.65],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.84167,
+      34.65
+    ],
+    "type": "Point"
+  }
 }

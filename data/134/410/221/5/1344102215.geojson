@@ -2,75 +2,83 @@
   "id": 1344102215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.255,30.115,105.255,30.115",
-    "geom:latitude":30.115,
-    "geom:longitude":105.255,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Chuanba",
-    "gn:country_code":"CN",
-    "gn:dem":323,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10184401,
-    "gn:latitude":30.115,
-    "gn:longitude":105.255,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Chuanba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.235,30.095,105.275,30.135",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8239\u575d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.255,30.115,105.255,30.115",
+    "geom:latitude": 30.115,
+    "geom:longitude": 105.255,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Chuanba",
+    "gn:country_code": "CN",
+    "gn:dem": 323,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10184401,
+    "gn:latitude": 30.115,
+    "gn:longitude": 105.255,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Chuanba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.235,30.095,105.275,30.135",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "船坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10184401
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10184401
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3d24a6e678b676835c533c272bd31fd9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1344102215,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3d24a6e678b676835c533c272bd31fd9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1344102215,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1344102215,
-    "wof:lastmodified":1566662604,
-    "wof:name":"Chuanba",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344102215,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Chuanba",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.255,
     30.115,
     105.255,
     30.115
-],
-  "geometry": {"coordinates":[105.255,30.115],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.255,
+      30.115
+    ],
+    "type": "Point"
+  }
 }

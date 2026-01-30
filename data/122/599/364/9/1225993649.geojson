@@ -2,78 +2,86 @@
   "id": 1225993649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.46,31.556,107.46,31.556",
-    "geom:latitude":31.556,
-    "geom:longitude":107.46,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yanping",
-    "gn:country_code":"CN",
-    "gn:dem":605,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10155390,
-    "gn:latitude":31.556,
-    "gn:longitude":107.46,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Yanping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.44,31.536,107.48,31.576",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Yanping"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.46,31.556,107.46,31.556",
+    "geom:latitude": 31.556,
+    "geom:longitude": 107.46,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yanping",
+    "gn:country_code": "CN",
+    "gn:dem": 605,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10155390,
+    "gn:latitude": 31.556,
+    "gn:longitude": 107.46,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Yanping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.44,31.536,107.48,31.576",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Yanping"
     ],
-    "name:zho_x_preferred":[
-        "\u4e25\u576a"
+    "name:zho_x_preferred": [
+      "严坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513987
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513987,
+      890515061
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10155390
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10155390
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fc0fbf2f9e073093db0a5d19c6416fe9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513987,
-            "empire_id":136253041,
-            "locality_id":1225993649,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fc0fbf2f9e073093db0a5d19c6416fe9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513987,
+        "empire_id": 136253041,
+        "locality_id": 1225993649,
+        "region_id": 85669787,
+        "localadmin_id": 890515061
+      }
     ],
-    "wof:id":1225993649,
-    "wof:lastmodified":1566703099,
-    "wof:name":"Yanping",
-    "wof:parent_id":890513987,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225993649,
+    "wof:lastmodified": 1768668150,
+    "wof:name": "Yanping",
+    "wof:parent_id": 890515061,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.46,
     31.556,
     107.46,
     31.556
-],
-  "geometry": {"coordinates":[107.45999999999999,31.556],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.46,
+      31.556
+    ],
+    "type": "Point"
+  }
 }

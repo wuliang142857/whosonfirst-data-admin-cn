@@ -2,75 +2,83 @@
   "id": 1209965425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.69598,29.53026,105.69598,29.53026",
-    "geom:latitude":29.53026,
-    "geom:longitude":105.69598,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Chaoshui",
-    "gn:country_code":"CN",
-    "gn:dem":372,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8418742,
-    "gn:latitude":29.53026,
-    "gn:longitude":105.69598,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Chaoshui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.67598,29.51026,105.71598,29.55026",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6f6e\u6c34"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.69598,29.53026,105.69598,29.53026",
+    "geom:latitude": 29.53026,
+    "geom:longitude": 105.69598,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Chaoshui",
+    "gn:country_code": "CN",
+    "gn:dem": 372,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8418742,
+    "gn:latitude": 29.53026,
+    "gn:longitude": 105.69598,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Chaoshui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.67598,29.51026,105.71598,29.55026",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "潮水"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513063,
+      890513401
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8418742
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8418742
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bc41c33435d684c90b2effa720c2cde3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1209965425,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bc41c33435d684c90b2effa720c2cde3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1209965425,
+        "region_id": 85669725,
+        "localadmin_id": 890513401
+      }
     ],
-    "wof:id":1209965425,
-    "wof:lastmodified":1566679211,
-    "wof:name":"Chaoshui",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209965425,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Chaoshui",
+    "wof:parent_id": 890513401,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.69598,
     29.53026,
     105.69598,
     29.53026
-],
-  "geometry": {"coordinates":[105.69598000000001,29.53026],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.69598,
+      29.53026
+    ],
+    "type": "Point"
+  }
 }

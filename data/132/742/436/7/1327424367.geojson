@@ -2,78 +2,86 @@
   "id": 1327424367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.23819,46.59076,123.23819,46.59076",
-    "geom:latitude":46.59076,
-    "geom:longitude":123.23819,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Xujiadian",
-    "gn:country_code":"CN",
-    "gn:dem":149,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11581146,
-    "gn:latitude":46.59076,
-    "gn:longitude":123.23819,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Xujiadian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.21819,46.57076,123.25819,46.61076",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8bb8\u5bb6\u5e97"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.23819,46.59076,123.23819,46.59076",
+    "geom:latitude": 46.59076,
+    "geom:longitude": 123.23819,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Xujiadian",
+    "gn:country_code": "CN",
+    "gn:dem": 149,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11581146,
+    "gn:latitude": 46.59076,
+    "gn:longitude": 123.23819,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Xujiadian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.21819,46.57076,123.25819,46.61076",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "许家店"
     ],
-    "name:zho_x_variant":[
-        "\u5f90\u5bb6\u5e97\u9547"
+    "name:zho_x_variant": [
+      "徐家店镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890513429,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11581146
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11581146
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0534c197a90a0a3ff133d2267c1be8de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1327424367,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0534c197a90a0a3ff133d2267c1be8de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1327424367,
+        "region_id": 85669849,
+        "localadmin_id": 890513429
+      }
     ],
-    "wof:id":1327424367,
-    "wof:lastmodified":1566654751,
-    "wof:name":"Xujiadian",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327424367,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Xujiadian",
+    "wof:parent_id": 890513429,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.23819,
     46.59076,
     123.23819,
     46.59076
-],
-  "geometry": {"coordinates":[123.23819,46.59076],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.23819,
+      46.59076
+    ],
+    "type": "Point"
+  }
 }

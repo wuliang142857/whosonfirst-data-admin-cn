@@ -2,75 +2,83 @@
   "id": 1226223865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.359,23.9539,106.359,23.9539",
-    "geom:latitude":23.9539,
-    "geom:longitude":106.359,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Faliucun",
-    "gn:country_code":"CN",
-    "gn:dem":165,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9927795,
-    "gn:latitude":23.9539,
-    "gn:longitude":106.359,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Faliucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.339,23.9339,106.379,23.9739",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6cd5\u516d\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.359,23.9539,106.359,23.9539",
+    "geom:latitude": 23.9539,
+    "geom:longitude": 106.359,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Faliucun",
+    "gn:country_code": "CN",
+    "gn:dem": 165,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9927795,
+    "gn:latitude": 23.9539,
+    "gn:longitude": 106.359,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Faliucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.339,23.9339,106.379,23.9739",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "法六村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514007,
+      890516485
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9927795
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9927795
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4b59f05d7e4c770776402c0fc785d99b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226223865,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4b59f05d7e4c770776402c0fc785d99b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226223865,
+        "region_id": 85669717,
+        "localadmin_id": 890514007
+      }
     ],
-    "wof:id":1226223865,
-    "wof:lastmodified":1566703909,
-    "wof:name":"Faliucun",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226223865,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Faliucun",
+    "wof:parent_id": 890514007,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.359,
     23.9539,
     106.359,
     23.9539
-],
-  "geometry": {"coordinates":[106.35899999999999,23.9539],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.359,
+      23.9539
+    ],
+    "type": "Point"
+  }
 }

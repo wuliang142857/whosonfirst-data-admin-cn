@@ -2,75 +2,83 @@
   "id": 1242828303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.09075,30.56471,108.09075,30.56471",
-    "geom:latitude":30.56471,
-    "geom:longitude":108.09075,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Tongxi",
-    "gn:country_code":"CN",
-    "gn:dem":483,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8405482,
-    "gn:latitude":30.56471,
-    "gn:longitude":108.09075,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Tongxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.07075,30.54471,108.11075,30.58471",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6850\u6eaa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.09075,30.56471,108.09075,30.56471",
+    "geom:latitude": 30.56471,
+    "geom:longitude": 108.09075,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Tongxi",
+    "gn:country_code": "CN",
+    "gn:dem": 483,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8405482,
+    "gn:latitude": 30.56471,
+    "gn:longitude": 108.09075,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Tongxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.07075,30.54471,108.11075,30.58471",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "桐溪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513063,
+      890513239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8405482
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8405482
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9470f45b04a4fdf85ee892888ac0f402",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1242828303,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9470f45b04a4fdf85ee892888ac0f402",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1242828303,
+        "region_id": 85669725,
+        "localadmin_id": 890513239
+      }
     ],
-    "wof:id":1242828303,
-    "wof:lastmodified":1566696842,
-    "wof:name":"Tongxi",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242828303,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Tongxi",
+    "wof:parent_id": 890513239,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.09075,
     30.56471,
     108.09075,
     30.56471
-],
-  "geometry": {"coordinates":[108.09075,30.56471],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.09075,
+      30.56471
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310264723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.13393,25.12788,114.13393,25.12788",
-    "geom:latitude":25.12788,
-    "geom:longitude":114.13393,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Wenlu",
-    "gn:country_code":"CN",
-    "gn:dem":686,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8235852,
-    "gn:latitude":25.12788,
-    "gn:longitude":114.13393,
-    "gn:modification_date":"2012-04-06",
-    "gn:name":"Wenlu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.11393,25.10788,114.15393,25.14788",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6587\u8def"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.13393,25.12788,114.13393,25.12788",
+    "geom:latitude": 25.12788,
+    "geom:longitude": 114.13393,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Wenlu",
+    "gn:country_code": "CN",
+    "gn:dem": 686,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8235852,
+    "gn:latitude": 25.12788,
+    "gn:longitude": 114.13393,
+    "gn:modification_date": "2012-04-06",
+    "gn:name": "Wenlu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.11393,25.10788,114.15393,25.14788",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "文路"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516559,
+      1127440222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8235852
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8235852
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7407682f67de2804ed4cd6260561bb0c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516559,
-            "empire_id":136253041,
-            "locality_id":1310264723,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7407682f67de2804ed4cd6260561bb0c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516559,
+        "empire_id": 136253041,
+        "locality_id": 1310264723,
+        "region_id": 85669743,
+        "localadmin_id": 1127440222
+      }
     ],
-    "wof:id":1310264723,
-    "wof:lastmodified":1566690230,
-    "wof:name":"Wenlu",
-    "wof:parent_id":890516559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310264723,
+    "wof:lastmodified": 1768667808,
+    "wof:name": "Wenlu",
+    "wof:parent_id": 1127440222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.13393,
     25.12788,
     114.13393,
     25.12788
-],
-  "geometry": {"coordinates":[114.13393000000001,25.12788],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.13393,
+      25.12788
+    ],
+    "type": "Point"
+  }
 }

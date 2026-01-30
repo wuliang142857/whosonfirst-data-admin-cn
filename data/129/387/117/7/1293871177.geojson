@@ -2,75 +2,83 @@
   "id": 1293871177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.03306,27.53867,110.03306,27.53867",
-    "geom:latitude":27.53867,
-    "geom:longitude":110.03306,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Qiaotoujiang",
-    "gn:country_code":"CN",
-    "gn:dem":269,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10368310,
-    "gn:latitude":27.53867,
-    "gn:longitude":110.03306,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Qiaotoujiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.01306,27.51867,110.05306,27.55867",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6865\u5934\u6c5f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.03306,27.53867,110.03306,27.53867",
+    "geom:latitude": 27.53867,
+    "geom:longitude": 110.03306,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Qiaotoujiang",
+    "gn:country_code": "CN",
+    "gn:dem": 269,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10368310,
+    "gn:latitude": 27.53867,
+    "gn:longitude": 110.03306,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Qiaotoujiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.01306,27.51867,110.05306,27.55867",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "桥头江"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514349
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514349,
+      1127431202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10368310
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10368310
     },
-    "wof:country":"CN",
-    "wof:geomhash":"36e91d4ee970fc8f5c7b91eca62c4637",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514349,
-            "empire_id":136253041,
-            "locality_id":1293871177,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "36e91d4ee970fc8f5c7b91eca62c4637",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514349,
+        "empire_id": 136253041,
+        "locality_id": 1293871177,
+        "region_id": 85669781,
+        "localadmin_id": 1127431202
+      }
     ],
-    "wof:id":1293871177,
-    "wof:lastmodified":1566671213,
-    "wof:name":"Qiaotoujiang",
-    "wof:parent_id":890514349,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293871177,
+    "wof:lastmodified": 1768670357,
+    "wof:name": "Qiaotoujiang",
+    "wof:parent_id": 1127431202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.03306,
     27.53867,
     110.03306,
     27.53867
-],
-  "geometry": {"coordinates":[110.03306000000001,27.53867],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.03306,
+      27.53867
+    ],
+    "type": "Point"
+  }
 }

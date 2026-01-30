@@ -2,75 +2,83 @@
   "id": 1242833713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.002,30.724,106.002,30.724",
-    "geom:latitude":30.724,
-    "geom:longitude":106.002,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Lidonggou",
-    "gn:country_code":"CN",
-    "gn:dem":366,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163447,
-    "gn:latitude":30.724,
-    "gn:longitude":106.002,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Lidonggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.982,30.704,106.022,30.744",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u6d1e\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.002,30.724,106.002,30.724",
+    "geom:latitude": 30.724,
+    "geom:longitude": 106.002,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Lidonggou",
+    "gn:country_code": "CN",
+    "gn:dem": 366,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163447,
+    "gn:latitude": 30.724,
+    "gn:longitude": 106.002,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Lidonggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.982,30.704,106.022,30.744",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李洞沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      1127511304
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163447
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163447
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b26fc2c656cbd2b6dd2b60ce267f6411",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1242833713,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b26fc2c656cbd2b6dd2b60ce267f6411",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1242833713,
+        "region_id": 85669787,
+        "localadmin_id": 1127511304
+      }
     ],
-    "wof:id":1242833713,
-    "wof:lastmodified":1566696622,
-    "wof:name":"Lidonggou",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242833713,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Lidonggou",
+    "wof:parent_id": 1127511304,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.002,
     30.724,
     106.002,
     30.724
-],
-  "geometry": {"coordinates":[106.002,30.724],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.002,
+      30.724
+    ],
+    "type": "Point"
+  }
 }

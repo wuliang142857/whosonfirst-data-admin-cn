@@ -2,87 +2,95 @@
   "id": 1243018415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.46152,22.51093,112.46152,22.51093",
-    "geom:latitude":22.51093,
-    "geom:longitude":112.46152,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Dabu",
-    "gn:country_code":"CN",
-    "gn:dem":17,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6858948,
-    "gn:latitude":22.51093,
-    "gn:longitude":112.46152,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Dabu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.44152,22.49093,112.48152,22.53093",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Dabu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.46152,22.51093,112.46152,22.51093",
+    "geom:latitude": 22.51093,
+    "geom:longitude": 112.46152,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Dabu",
+    "gn:country_code": "CN",
+    "gn:dem": 17,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6858948,
+    "gn:latitude": 22.51093,
+    "gn:longitude": 112.46152,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Dabu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.44152,22.49093,112.48152,22.53093",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Dabu"
     ],
-    "name:deu_x_preferred":[
-        "Dabu"
+    "name:deu_x_preferred": [
+      "Dabu"
     ],
-    "name:fra_x_preferred":[
-        "Dabu"
+    "name:fra_x_preferred": [
+      "Dabu"
     ],
-    "name:ita_x_preferred":[
-        "Dabu"
+    "name:ita_x_preferred": [
+      "Dabu"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5e03"
+    "name:zho_x_preferred": [
+      "大布"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514541,
+      890514609
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6858948
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6858948
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c632733d25742bc409946a510f5e3cf8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1243018415,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c632733d25742bc409946a510f5e3cf8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1243018415,
+        "region_id": 85669743,
+        "localadmin_id": 890514541
+      }
     ],
-    "wof:id":1243018415,
-    "wof:lastmodified":1566694172,
-    "wof:name":"Dabu",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243018415,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Dabu",
+    "wof:parent_id": 890514541,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.46152,
     22.51093,
     112.46152,
     22.51093
-],
-  "geometry": {"coordinates":[112.46151999999999,22.51093],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.46152,
+      22.51093
+    ],
+    "type": "Point"
+  }
 }

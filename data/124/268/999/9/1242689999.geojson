@@ -2,83 +2,91 @@
   "id": 1242689999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.27631,28.75427,120.27631,28.75427",
-    "geom:latitude":28.75427,
-    "geom:longitude":120.27631,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Shuikoucun",
-    "gn:country_code":"CN",
-    "gn:dem":354,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1883008,
-    "gn:latitude":28.75427,
-    "gn:longitude":120.27631,
-    "gn:modification_date":"2018-03-07",
-    "gn:name":"Shuikoucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.25631,28.73427,120.29631,28.77427",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shui-k\u2019ou-ts\u2019un",
-        "Shuikou",
-        "Shuikoucun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.27631,28.75427,120.27631,28.75427",
+    "geom:latitude": 28.75427,
+    "geom:longitude": 120.27631,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Shuikoucun",
+    "gn:country_code": "CN",
+    "gn:dem": 354,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1883008,
+    "gn:latitude": 28.75427,
+    "gn:longitude": 120.27631,
+    "gn:modification_date": "2018-03-07",
+    "gn:name": "Shuikoucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.25631,28.73427,120.29631,28.77427",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shui-k’ou-ts’un",
+      "Shuikou",
+      "Shuikoucun"
     ],
-    "name:zho_x_preferred":[
-        "\u6c34\u53e3"
+    "name:zho_x_preferred": [
+      "水口"
     ],
-    "name:zho_x_variant":[
-        "\u6c34\u53e3\u6751"
+    "name:zho_x_variant": [
+      "水口村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515483,
+      890516399
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1883008
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1883008
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dc7ed4475b00b65c9cac6741d2ac7315",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516399,
-            "empire_id":136253041,
-            "locality_id":1242689999,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dc7ed4475b00b65c9cac6741d2ac7315",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516399,
+        "empire_id": 136253041,
+        "locality_id": 1242689999,
+        "region_id": 85669835,
+        "localadmin_id": 890515483
+      }
     ],
-    "wof:id":1242689999,
-    "wof:lastmodified":1566694754,
-    "wof:name":"Shuikoucun",
-    "wof:parent_id":890516399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242689999,
+    "wof:lastmodified": 1768669967,
+    "wof:name": "Shuikoucun",
+    "wof:parent_id": 890515483,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.27631,
     28.75427,
     120.27631,
     28.75427
-],
-  "geometry": {"coordinates":[120.27631,28.75427],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.27631,
+      28.75427
+    ],
+    "type": "Point"
+  }
 }

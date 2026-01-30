@@ -2,75 +2,83 @@
   "id": 1293273025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.20785,29.66939,111.20785,29.66939",
-    "geom:latitude":29.66939,
-    "geom:longitude":111.20785,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Shuijingshang",
-    "gn:country_code":"CN",
-    "gn:dem":603,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8135715,
-    "gn:latitude":29.66939,
-    "gn:longitude":111.20785,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Shuijingshang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.18785,29.64939,111.22785,29.68939",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6c34\u4e95\u57eb"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.20785,29.66939,111.20785,29.66939",
+    "geom:latitude": 29.66939,
+    "geom:longitude": 111.20785,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Shuijingshang",
+    "gn:country_code": "CN",
+    "gn:dem": 603,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8135715,
+    "gn:latitude": 29.66939,
+    "gn:longitude": 111.20785,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Shuijingshang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.18785,29.64939,111.22785,29.68939",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "水井埫"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515867,
+      1125356975
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8135715
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8135715
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7a2a848bf4d0196de1623d61575c6185",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1293273025,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7a2a848bf4d0196de1623d61575c6185",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1293273025,
+        "region_id": 85669781,
+        "localadmin_id": 1125356975
+      }
     ],
-    "wof:id":1293273025,
-    "wof:lastmodified":1566670645,
-    "wof:name":"Shuijingshang",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293273025,
+    "wof:lastmodified": 1768670429,
+    "wof:name": "Shuijingshang",
+    "wof:parent_id": 1125356975,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.20785,
     29.66939,
     111.20785,
     29.66939
-],
-  "geometry": {"coordinates":[111.20784999999999,29.66939],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.20785,
+      29.66939
+    ],
+    "type": "Point"
+  }
 }

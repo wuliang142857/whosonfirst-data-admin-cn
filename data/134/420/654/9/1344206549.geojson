@@ -2,75 +2,83 @@
   "id": 1344206549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.161,30.7499,104.161,30.7499",
-    "geom:latitude":30.7499,
-    "geom:longitude":104.161,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Magumiao",
-    "gn:country_code":"CN",
-    "gn:dem":500,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10196878,
-    "gn:latitude":30.7499,
-    "gn:longitude":104.161,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Magumiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.141,30.7299,104.181,30.7699",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ebb\u59d1\u5e99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.161,30.7499,104.161,30.7499",
+    "geom:latitude": 30.7499,
+    "geom:longitude": 104.161,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Magumiao",
+    "gn:country_code": "CN",
+    "gn:dem": 500,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10196878,
+    "gn:latitude": 30.7499,
+    "gn:longitude": 104.161,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Magumiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.141,30.7299,104.181,30.7699",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "麻姑庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516567
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513831,
+      890516567
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10196878
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10196878
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0454cc560ff5e78be1258b935d805f6d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516567,
-            "empire_id":136253041,
-            "locality_id":1344206549,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0454cc560ff5e78be1258b935d805f6d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516567,
+        "empire_id": 136253041,
+        "locality_id": 1344206549,
+        "region_id": 85669787,
+        "localadmin_id": 890513831
+      }
     ],
-    "wof:id":1344206549,
-    "wof:lastmodified":1566662962,
-    "wof:name":"Magumiao",
-    "wof:parent_id":890516567,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344206549,
+    "wof:lastmodified": 1768668424,
+    "wof:name": "Magumiao",
+    "wof:parent_id": 890513831,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.161,
     30.7499,
     104.161,
     30.7499
-],
-  "geometry": {"coordinates":[104.161,30.7499],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.161,
+      30.7499
+    ],
+    "type": "Point"
+  }
 }

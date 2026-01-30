@@ -2,78 +2,86 @@
   "id": 1344250545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.09966,37.62715,116.09966,37.62715",
-    "geom:latitude":37.62715,
-    "geom:longitude":116.09966,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Gaocun",
-    "gn:country_code":"CN",
-    "gn:dem":22,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9290110,
-    "gn:latitude":37.62715,
-    "gn:longitude":116.09966,
-    "gn:modification_date":"2014-08-08",
-    "gn:name":"Gaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.07966,37.60715,116.11966,37.64715",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.09966,37.62715,116.09966,37.62715",
+    "geom:latitude": 37.62715,
+    "geom:longitude": 116.09966,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Gaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 22,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9290110,
+    "gn:latitude": 37.62715,
+    "gn:longitude": 116.09966,
+    "gn:modification_date": "2014-08-08",
+    "gn:name": "Gaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.07966,37.60715,116.11966,37.64715",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高村"
     ],
-    "name:zho_x_variant":[
-        "\u9ad8\u6751\u9547"
+    "name:zho_x_variant": [
+      "高村镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516595
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516595,
+      1127131127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9290110
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9290110
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f84d61fa76b031160eb71b5c9af024ab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516595,
-            "empire_id":136253041,
-            "locality_id":1344250545,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f84d61fa76b031160eb71b5c9af024ab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516595,
+        "empire_id": 136253041,
+        "locality_id": 1344250545,
+        "region_id": 85669797,
+        "localadmin_id": 1127131127
+      }
     ],
-    "wof:id":1344250545,
-    "wof:lastmodified":1566657867,
-    "wof:name":"Gaocun",
-    "wof:parent_id":890516595,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344250545,
+    "wof:lastmodified": 1768669429,
+    "wof:name": "Gaocun",
+    "wof:parent_id": 1127131127,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.09966,
     37.62715,
     116.09966,
     37.62715
-],
-  "geometry": {"coordinates":[116.09966,37.62715],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.09966,
+      37.62715
+    ],
+    "type": "Point"
+  }
 }

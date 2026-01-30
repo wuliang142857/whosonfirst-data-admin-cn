@@ -2,77 +2,85 @@
   "id": 1343561155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.97678,32.41152,120.97678,32.41152",
-    "geom:latitude":32.41152,
-    "geom:longitude":120.97678,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Sangjiazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1887906,
-    "gn:latitude":32.41152,
-    "gn:longitude":120.97678,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Sangjiazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.95678,32.39152,120.99678,32.43152",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sang-chia-chuang",
-        "Sangjiazhuang",
-        "\u6851\u5bb6\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.97678,32.41152,120.97678,32.41152",
+    "geom:latitude": 32.41152,
+    "geom:longitude": 120.97678,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Sangjiazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1887906,
+    "gn:latitude": 32.41152,
+    "gn:longitude": 120.97678,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Sangjiazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.95678,32.39152,120.99678,32.43152",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sang-chia-chuang",
+      "Sangjiazhuang",
+      "桑家庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513501,
+      890515155
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1887906
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1887906
     },
-    "wof:country":"CN",
-    "wof:geomhash":"99d52e959259bf3a0852b89e54012c3b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515155,
-            "empire_id":136253041,
-            "locality_id":1343561155,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "99d52e959259bf3a0852b89e54012c3b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515155,
+        "empire_id": 136253041,
+        "locality_id": 1343561155,
+        "region_id": 85669827,
+        "localadmin_id": 890513501
+      }
     ],
-    "wof:id":1343561155,
-    "wof:lastmodified":1566661503,
-    "wof:name":"Sangjiazhuang",
-    "wof:parent_id":890515155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343561155,
+    "wof:lastmodified": 1768670803,
+    "wof:name": "Sangjiazhuang",
+    "wof:parent_id": 890513501,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.97678,
     32.41152,
     120.97678,
     32.41152
-],
-  "geometry": {"coordinates":[120.97678000000001,32.41152],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.97678,
+      32.41152
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1276637159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.873,24.635,111.873,24.635",
-    "geom:latitude":24.635,
-    "geom:longitude":111.873,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Songmulong",
-    "gn:country_code":"CN",
-    "gn:dem":219,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9916651,
-    "gn:latitude":24.635,
-    "gn:longitude":111.873,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Songmulong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.853,24.615,111.893,24.655",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u677e\u6728\u9f99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.873,24.635,111.873,24.635",
+    "geom:latitude": 24.635,
+    "geom:longitude": 111.873,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Songmulong",
+    "gn:country_code": "CN",
+    "gn:dem": 219,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9916651,
+    "gn:latitude": 24.635,
+    "gn:longitude": 111.873,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Songmulong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.853,24.615,111.893,24.655",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "松木龙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515189
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515189,
+      1127451102
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9916651
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9916651
     },
-    "wof:country":"CN",
-    "wof:geomhash":"28f32992f302485a3b87e463b7feb0ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515189,
-            "empire_id":136253041,
-            "locality_id":1276637159,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "28f32992f302485a3b87e463b7feb0ae",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515189,
+        "empire_id": 136253041,
+        "locality_id": 1276637159,
+        "region_id": 85669717,
+        "localadmin_id": 1127451102
+      }
     ],
-    "wof:id":1276637159,
-    "wof:lastmodified":1566677559,
-    "wof:name":"Songmulong",
-    "wof:parent_id":890515189,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276637159,
+    "wof:lastmodified": 1768665753,
+    "wof:name": "Songmulong",
+    "wof:parent_id": 1127451102,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.873,
     24.635,
     111.873,
     24.635
-],
-  "geometry": {"coordinates":[111.873,24.635],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.873,
+      24.635
+    ],
+    "type": "Point"
+  }
 }

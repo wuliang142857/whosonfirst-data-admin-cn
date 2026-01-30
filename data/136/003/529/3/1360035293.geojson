@@ -2,82 +2,90 @@
   "id": 1360035293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.18841,24.74386,113.18841,24.74386",
-    "geom:latitude":24.74386,
-    "geom:longitude":113.18841,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Dongping",
-    "gn:country_code":"CN",
-    "gn:dem":483,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1917370,
-    "gn:latitude":24.74386,
-    "gn:longitude":113.18841,
-    "gn:modification_date":"2012-06-06",
-    "gn:name":"Dongping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.16841,24.72386,113.20841,24.76386",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Dongping Zhen",
-        "\u4e1c\u576a\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.18841,24.74386,113.18841,24.74386",
+    "geom:latitude": 24.74386,
+    "geom:longitude": 113.18841,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Dongping",
+    "gn:country_code": "CN",
+    "gn:dem": 483,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1917370,
+    "gn:latitude": 24.74386,
+    "gn:longitude": 113.18841,
+    "gn:modification_date": "2012-06-06",
+    "gn:name": "Dongping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.16841,24.72386,113.20841,24.76386",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Dongping Zhen",
+      "东坪镇"
     ],
-    "name:zho_x_preferred":[
-        "Dongping"
+    "name:zho_x_preferred": [
+      "Dongping"
     ],
-    "name:zho_x_variant":[
-        "\u4e1c\u576a"
+    "name:zho_x_variant": [
+      "东坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516559,
+      890516663
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917370
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917370
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e1894af2bd85c9c3dd9a0023f676e74c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516559,
-            "empire_id":136253041,
-            "locality_id":1360035293,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e1894af2bd85c9c3dd9a0023f676e74c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516559,
+        "empire_id": 136253041,
+        "locality_id": 1360035293,
+        "region_id": 85669743,
+        "localadmin_id": 890516663
+      }
     ],
-    "wof:id":1360035293,
-    "wof:lastmodified":1566692078,
-    "wof:name":"Dongping",
-    "wof:parent_id":890516559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360035293,
+    "wof:lastmodified": 1768667809,
+    "wof:name": "Dongping",
+    "wof:parent_id": 890516663,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.18841,
     24.74386,
     113.18841,
     24.74386
-],
-  "geometry": {"coordinates":[113.18841,24.74386],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.18841,
+      24.74386
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1242644153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.55378,37.5232,109.55378,37.5232",
-    "geom:latitude":37.5232,
-    "geom:longitude":109.55378,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Liuhegou",
-    "gn:country_code":"CN",
-    "gn:dem":1112,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11116814,
-    "gn:latitude":37.5232,
-    "gn:longitude":109.55378,
-    "gn:modification_date":"2016-12-06",
-    "gn:name":"Liuhegou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.53378,37.5032,109.57378,37.5432",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5218\u6cb3\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.55378,37.5232,109.55378,37.5232",
+    "geom:latitude": 37.5232,
+    "geom:longitude": 109.55378,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Liuhegou",
+    "gn:country_code": "CN",
+    "gn:dem": 1112,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11116814,
+    "gn:latitude": 37.5232,
+    "gn:longitude": 109.55378,
+    "gn:modification_date": "2016-12-06",
+    "gn:name": "Liuhegou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.53378,37.5032,109.57378,37.5432",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "刘河沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515097
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515097,
+      1127610803
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11116814
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11116814
     },
-    "wof:country":"CN",
-    "wof:geomhash":"99d6788b49af34191a4d7577c5497a50",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515097,
-            "empire_id":136253041,
-            "locality_id":1242644153,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "99d6788b49af34191a4d7577c5497a50",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515097,
+        "empire_id": 136253041,
+        "locality_id": 1242644153,
+        "region_id": 85669769,
+        "localadmin_id": 1127610803
+      }
     ],
-    "wof:id":1242644153,
-    "wof:lastmodified":1566697100,
-    "wof:name":"Liuhegou",
-    "wof:parent_id":890515097,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242644153,
+    "wof:lastmodified": 1768667149,
+    "wof:name": "Liuhegou",
+    "wof:parent_id": 1127610803,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.55378,
     37.5232,
     109.55378,
     37.5232
-],
-  "geometry": {"coordinates":[109.55378,37.5232],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.55378,
+      37.5232
+    ],
+    "type": "Point"
+  }
 }

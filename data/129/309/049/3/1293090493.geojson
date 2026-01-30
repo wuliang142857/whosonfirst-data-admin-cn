@@ -2,81 +2,89 @@
   "id": 1293090493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.10121,33.67114,114.10121,33.67114",
-    "geom:latitude":33.67114,
-    "geom:longitude":114.10121,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Poyang",
-    "gn:country_code":"CN",
-    "gn:dem":59,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10634211,
-    "gn:latitude":33.67114,
-    "gn:longitude":114.10121,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Poyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.08121,33.65114,114.12121,33.69114",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Poyang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.10121,33.67114,114.10121,33.67114",
+    "geom:latitude": 33.67114,
+    "geom:longitude": 114.10121,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Poyang",
+    "gn:country_code": "CN",
+    "gn:dem": 59,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10634211,
+    "gn:latitude": 33.67114,
+    "gn:longitude": 114.10121,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Poyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.08121,33.65114,114.12121,33.69114",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Poyang"
     ],
-    "name:deu_x_preferred":[
-        "Poyang"
+    "name:deu_x_preferred": [
+      "Poyang"
     ],
-    "name:zho_x_preferred":[
-        "\u5761\u6768"
+    "name:zho_x_preferred": [
+      "坡杨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890516247
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890516247,
+      1127411103
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10634211
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10634211
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4981a0942dacb7af1f08e1081779c934",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516247,
-            "empire_id":136253041,
-            "locality_id":1293090493,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4981a0942dacb7af1f08e1081779c934",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516247,
+        "empire_id": 136253041,
+        "locality_id": 1293090493,
+        "region_id": 85669801,
+        "localadmin_id": 1127411103
+      }
     ],
-    "wof:id":1293090493,
-    "wof:lastmodified":1566665579,
-    "wof:name":"Poyang",
-    "wof:parent_id":890516247,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293090493,
+    "wof:lastmodified": 1768669606,
+    "wof:name": "Poyang",
+    "wof:parent_id": 1127411103,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.10121,
     33.67114,
     114.10121,
     33.67114
-],
-  "geometry": {"coordinates":[114.10120999999999,33.67114],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.10121,
+      33.67114
+    ],
+    "type": "Point"
+  }
 }

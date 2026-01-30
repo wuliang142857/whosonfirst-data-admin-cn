@@ -2,75 +2,83 @@
   "id": 1344126323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.066,22.8268,111.066,22.8268",
-    "geom:latitude":22.8268,
-    "geom:longitude":111.066,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Ouchou",
-    "gn:country_code":"CN",
-    "gn:dem":446,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9920137,
-    "gn:latitude":22.8268,
-    "gn:longitude":111.066,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Ouchou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.046,22.8068,111.086,22.8468",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6b27\u4e11"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.066,22.8268,111.066,22.8268",
+    "geom:latitude": 22.8268,
+    "geom:longitude": 111.066,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Ouchou",
+    "gn:country_code": "CN",
+    "gn:dem": 446,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9920137,
+    "gn:latitude": 22.8268,
+    "gn:longitude": 111.066,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Ouchou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.046,22.8068,111.086,22.8468",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "欧丑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9920137
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9920137
     },
-    "wof:country":"CN",
-    "wof:geomhash":"81cc5f9a0f543b153b07a2484ab7b651",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1344126323,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "81cc5f9a0f543b153b07a2484ab7b651",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1344126323,
+        "region_id": 85669717,
+        "localadmin_id": 1127450481
+      }
     ],
-    "wof:id":1344126323,
-    "wof:lastmodified":1566658289,
-    "wof:name":"Ouchou",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344126323,
+    "wof:lastmodified": 1768665954,
+    "wof:name": "Ouchou",
+    "wof:parent_id": 1127450481,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.066,
     22.8268,
     111.066,
     22.8268
-],
-  "geometry": {"coordinates":[111.066,22.8268],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.066,
+      22.8268
+    ],
+    "type": "Point"
+  }
 }

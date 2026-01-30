@@ -2,78 +2,86 @@
   "id": 1259781613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.59404,43.50818,123.59404,43.50818",
-    "geom:latitude":43.50818,
-    "geom:longitude":123.59404,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Bao'antun",
-    "gn:country_code":"CN",
-    "gn:dem":135,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10905744,
-    "gn:latitude":43.50818,
-    "gn:longitude":123.59404,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Bao\u2019antun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.57404,43.48818,123.61404,43.52818",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Bao\u2019antun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.59404,43.50818,123.59404,43.50818",
+    "geom:latitude": 43.50818,
+    "geom:longitude": 123.59404,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Bao'antun",
+    "gn:country_code": "CN",
+    "gn:dem": 135,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10905744,
+    "gn:latitude": 43.50818,
+    "gn:longitude": 123.59404,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Bao’antun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.57404,43.48818,123.61404,43.52818",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Bao’antun"
     ],
-    "name:zho_x_preferred":[
-        "\u4fdd\u5b89\u5c6f"
+    "name:zho_x_preferred": [
+      "保安屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890514217
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514217,
+      1127220382
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10905744
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10905744
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7b45f78a2ef1e55b606c4ad3efdca9ec",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514217,
-            "empire_id":136253041,
-            "locality_id":1259781613,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7b45f78a2ef1e55b606c4ad3efdca9ec",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514217,
+        "empire_id": 136253041,
+        "locality_id": 1259781613,
+        "region_id": 85669843,
+        "localadmin_id": 1127220382
+      }
     ],
-    "wof:id":1259781613,
-    "wof:lastmodified":1566699016,
-    "wof:name":"Bao'antun",
-    "wof:parent_id":890514217,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259781613,
+    "wof:lastmodified": 1768671068,
+    "wof:name": "Bao'antun",
+    "wof:parent_id": 1127220382,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.59404,
     43.50818,
     123.59404,
     43.50818
-],
-  "geometry": {"coordinates":[123.59404000000001,43.50818],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.59404,
+      43.50818
+    ],
+    "type": "Point"
+  }
 }

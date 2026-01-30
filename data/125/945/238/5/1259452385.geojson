@@ -2,78 +2,86 @@
   "id": 1259452385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.84,22.7298,109.84,22.7298",
-    "geom:latitude":22.7298,
-    "geom:longitude":109.84,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Kui'an",
-    "gn:country_code":"CN",
-    "gn:dem":121,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9896987,
-    "gn:latitude":22.7298,
-    "gn:longitude":109.84,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Kui\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.82,22.7098,109.86,22.7498",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Kui\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.84,22.7298,109.84,22.7298",
+    "geom:latitude": 22.7298,
+    "geom:longitude": 109.84,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Kui'an",
+    "gn:country_code": "CN",
+    "gn:dem": 121,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9896987,
+    "gn:latitude": 22.7298,
+    "gn:longitude": 109.84,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Kui’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.82,22.7098,109.86,22.7498",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Kui’an"
     ],
-    "name:zho_x_preferred":[
-        "\u8475\u5b89"
+    "name:zho_x_preferred": [
+      "葵安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9896987
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9896987
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d575b7af3a8fd260dd3504c7bdf3ff31",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1259452385,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d575b7af3a8fd260dd3504c7bdf3ff31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1259452385,
+        "region_id": 85669717,
+        "localadmin_id": 1127450924
+      }
     ],
-    "wof:id":1259452385,
-    "wof:lastmodified":1566700362,
-    "wof:name":"Kui'an",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259452385,
+    "wof:lastmodified": 1768665517,
+    "wof:name": "Kui'an",
+    "wof:parent_id": 1127450924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.84,
     22.7298,
     109.84,
     22.7298
-],
-  "geometry": {"coordinates":[109.84,22.7298],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.84,
+      22.7298
+    ],
+    "type": "Point"
+  }
 }

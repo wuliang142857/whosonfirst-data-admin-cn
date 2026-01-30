@@ -2,75 +2,83 @@
   "id": 1260076123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.59768,25.87913,119.59768,25.87913",
-    "geom:latitude":25.87913,
-    "geom:longitude":119.59768,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Qizhan",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8575049,
-    "gn:latitude":25.87913,
-    "gn:longitude":119.59768,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Qizhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.57768,25.85913,119.61768,25.89913",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e03\u7ad9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.59768,25.87913,119.59768,25.87913",
+    "geom:latitude": 25.87913,
+    "geom:longitude": 119.59768,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Qizhan",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8575049,
+    "gn:latitude": 25.87913,
+    "gn:longitude": 119.59768,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Qizhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.57768,25.85913,119.61768,25.89913",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "七站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513115,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8575049
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8575049
     },
-    "wof:country":"CN",
-    "wof:geomhash":"39e491d101d21ce8c02e410f278fc304",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1260076123,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "39e491d101d21ce8c02e410f278fc304",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1260076123,
+        "region_id": 85669735,
+        "localadmin_id": 890513115
+      }
     ],
-    "wof:id":1260076123,
-    "wof:lastmodified":1566686681,
-    "wof:name":"Qizhan",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260076123,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Qizhan",
+    "wof:parent_id": 890513115,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.59768,
     25.87913,
     119.59768,
     25.87913
-],
-  "geometry": {"coordinates":[119.59768,25.87913],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.59768,
+      25.87913
+    ],
+    "type": "Point"
+  }
 }

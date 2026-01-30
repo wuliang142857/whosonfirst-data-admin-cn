@@ -2,90 +2,98 @@
   "id": 1259460753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.45462,26.65352,110.45462,26.65352",
-    "geom:latitude":26.65352,
-    "geom:longitude":110.45462,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Datang",
-    "gn:country_code":"CN",
-    "gn:dem":432,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10365529,
-    "gn:latitude":26.65352,
-    "gn:longitude":110.45462,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Datang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.43462,26.63352,110.47462,26.67352",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Datang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.45462,26.65352,110.45462,26.65352",
+    "geom:latitude": 26.65352,
+    "geom:longitude": 110.45462,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Datang",
+    "gn:country_code": "CN",
+    "gn:dem": 432,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10365529,
+    "gn:latitude": 26.65352,
+    "gn:longitude": 110.45462,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Datang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.43462,26.63352,110.47462,26.67352",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Datang"
     ],
-    "name:ces_x_preferred":[
-        "Ta-tchang"
+    "name:ces_x_preferred": [
+      "Ta-tchang"
     ],
-    "name:deu_x_preferred":[
-        "Datang"
+    "name:deu_x_preferred": [
+      "Datang"
     ],
-    "name:nor_x_preferred":[
-        "Datang"
+    "name:nor_x_preferred": [
+      "Datang"
     ],
-    "name:swe_x_preferred":[
-        "Datang"
+    "name:swe_x_preferred": [
+      "Datang"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5858"
+    "name:zho_x_preferred": [
+      "大塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514309
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514309,
+      1127430529
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10365529
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10365529
     },
-    "wof:country":"CN",
-    "wof:geomhash":"adad6c0a301a67a8db8d7499a21a1c4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514309,
-            "empire_id":136253041,
-            "locality_id":1259460753,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "adad6c0a301a67a8db8d7499a21a1c4f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514309,
+        "empire_id": 136253041,
+        "locality_id": 1259460753,
+        "region_id": 85669781,
+        "localadmin_id": 1127430529
+      }
     ],
-    "wof:id":1259460753,
-    "wof:lastmodified":1566698978,
-    "wof:name":"Datang",
-    "wof:parent_id":890514309,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259460753,
+    "wof:lastmodified": 1768670389,
+    "wof:name": "Datang",
+    "wof:parent_id": 1127430529,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.45462,
     26.65352,
     110.45462,
     26.65352
-],
-  "geometry": {"coordinates":[110.45462000000001,26.65352],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.45462,
+      26.65352
+    ],
+    "type": "Point"
+  }
 }

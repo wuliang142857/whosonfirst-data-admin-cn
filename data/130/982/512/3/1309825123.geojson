@@ -2,81 +2,89 @@
   "id": 1309825123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"130.00327,48.98509,130.00327,48.98509",
-    "geom:latitude":48.98509,
-    "geom:longitude":130.00327,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Shuanghezhencun",
-    "gn:country_code":"CN",
-    "gn:dem":91,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11597654,
-    "gn:latitude":48.98509,
-    "gn:longitude":130.00327,
-    "gn:modification_date":"2017-07-06",
-    "gn:name":"Shuanghezhencun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"129.98327,48.96509,130.02327,49.00509",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shuanghezhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "130.00327,48.98509,130.00327,48.98509",
+    "geom:latitude": 48.98509,
+    "geom:longitude": 130.00327,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Shuanghezhencun",
+    "gn:country_code": "CN",
+    "gn:dem": 91,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11597654,
+    "gn:latitude": 48.98509,
+    "gn:longitude": 130.00327,
+    "gn:modification_date": "2017-07-06",
+    "gn:name": "Shuanghezhencun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "129.98327,48.96509,130.02327,49.00509",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shuanghezhen"
     ],
-    "name:zho_x_preferred":[
-        "\u53cc\u6cb3\u9547\u6751"
+    "name:zho_x_preferred": [
+      "双河镇村"
     ],
-    "name:zho_x_variant":[
-        "\u53cc\u6cb3\u9547"
+    "name:zho_x_variant": [
+      "双河镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890515199
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890515199,
+      1127230722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11597654
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11597654
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9826b24de689794120692c528d085bbe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515199,
-            "empire_id":136253041,
-            "locality_id":1309825123,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9826b24de689794120692c528d085bbe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515199,
+        "empire_id": 136253041,
+        "locality_id": 1309825123,
+        "region_id": 85669849,
+        "localadmin_id": 1127230722
+      }
     ],
-    "wof:id":1309825123,
-    "wof:lastmodified":1566692894,
-    "wof:name":"Shuanghezhencun",
-    "wof:parent_id":890515199,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309825123,
+    "wof:lastmodified": 1768669571,
+    "wof:name": "Shuanghezhencun",
+    "wof:parent_id": 1127230722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     130.00327,
     48.98509,
     130.00327,
     48.98509
-],
-  "geometry": {"coordinates":[130.00326999999999,48.98509],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      130.00327,
+      48.98509
+    ],
+    "type": "Point"
+  }
 }

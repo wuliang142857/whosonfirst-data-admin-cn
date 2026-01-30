@@ -2,75 +2,83 @@
   "id": 1293649963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.707,26.0101,102.707,26.0101",
-    "geom:latitude":26.0101,
-    "geom:longitude":102.707,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Shuibuke",
-    "gn:country_code":"CN",
-    "gn:dem":2208,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10158789,
-    "gn:latitude":26.0101,
-    "gn:longitude":102.707,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shuibuke",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.687,25.9901,102.727,26.0301",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c34\u4e0d\u79d1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.707,26.0101,102.707,26.0101",
+    "geom:latitude": 26.0101,
+    "geom:longitude": 102.707,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Shuibuke",
+    "gn:country_code": "CN",
+    "gn:dem": 2208,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10158789,
+    "gn:latitude": 26.0101,
+    "gn:longitude": 102.707,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shuibuke",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.687,25.9901,102.727,26.0301",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "水不科"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530128
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10158789
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10158789
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f64e80b1926b6d137c821e9f2ccd2822",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1293649963,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f64e80b1926b6d137c821e9f2ccd2822",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1293649963,
+        "region_id": 85669791,
+        "localadmin_id": 1127530128
+      }
     ],
-    "wof:id":1293649963,
-    "wof:lastmodified":1566666871,
-    "wof:name":"Shuibuke",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293649963,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Shuibuke",
+    "wof:parent_id": 1127530128,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.707,
     26.0101,
     102.707,
     26.0101
-],
-  "geometry": {"coordinates":[102.70699999999999,26.0101],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.707,
+      26.0101
+    ],
+    "type": "Point"
+  }
 }

@@ -2,90 +2,98 @@
   "id": 1343452327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.43583,24.99583,118.43583,24.99583",
-    "geom:latitude":24.99583,
-    "geom:longitude":118.43583,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Wushan",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2006636,
-    "gn:latitude":24.99583,
-    "gn:longitude":118.43583,
-    "gn:modification_date":"2005-12-20",
-    "gn:name":"Wushan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.41583,24.97583,118.45583,25.01583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Wushan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.43583,24.99583,118.43583,24.99583",
+    "geom:latitude": 24.99583,
+    "geom:longitude": 118.43583,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Wushan",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2006636,
+    "gn:latitude": 24.99583,
+    "gn:longitude": 118.43583,
+    "gn:modification_date": "2005-12-20",
+    "gn:name": "Wushan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.41583,24.97583,118.45583,25.01583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Wushan"
     ],
-    "name:deu_x_preferred":[
-        "Wushan"
+    "name:deu_x_preferred": [
+      "Wushan"
     ],
-    "name:fra_x_preferred":[
-        "Wushan"
+    "name:fra_x_preferred": [
+      "Wushan"
     ],
-    "name:kor_x_preferred":[
-        "\uc6b0\uc0b0\ud604"
+    "name:kor_x_preferred": [
+      "우산현"
     ],
-    "name:nor_x_preferred":[
-        "Wushan"
+    "name:nor_x_preferred": [
+      "Wushan"
     ],
-    "name:swe_x_preferred":[
-        "Wushan"
+    "name:swe_x_preferred": [
+      "Wushan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512829,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2006636
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2006636
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6f2397be9074a6dcfe65c6879e0af776",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1343452327,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6f2397be9074a6dcfe65c6879e0af776",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1343452327,
+        "region_id": 85669735,
+        "localadmin_id": 890512829
+      }
     ],
-    "wof:id":1343452327,
-    "wof:lastmodified":1566663675,
-    "wof:name":"Wushan",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343452327,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Wushan",
+    "wof:parent_id": 890512829,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.43583,
     24.99583,
     118.43583,
     24.99583
-],
-  "geometry": {"coordinates":[118.43583,24.99583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.43583,
+      24.99583
+    ],
+    "type": "Point"
+  }
 }

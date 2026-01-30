@@ -2,75 +2,83 @@
   "id": 1327254689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.65326,26.7421,116.65326,26.7421",
-    "geom:latitude":26.7421,
-    "geom:longitude":116.65326,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Huangbu",
-    "gn:country_code":"CN",
-    "gn:dem":421,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1922471,
-    "gn:latitude":26.7421,
-    "gn:longitude":116.65326,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Huangbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.63326,26.7221,116.67326,26.7621",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9ec4\u57e0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.65326,26.7421,116.65326,26.7421",
+    "geom:latitude": 26.7421,
+    "geom:longitude": 116.65326,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Huangbu",
+    "gn:country_code": "CN",
+    "gn:dem": 421,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1922471,
+    "gn:latitude": 26.7421,
+    "gn:longitude": 116.65326,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Huangbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.63326,26.7221,116.67326,26.7621",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "黄埠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516573
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516573,
+      1127350430
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1922471
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1922471
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dddf4cbc884a3576916e055cbbc3cc41",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516573,
-            "empire_id":136253041,
-            "locality_id":1327254689,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dddf4cbc884a3576916e055cbbc3cc41",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516573,
+        "empire_id": 136253041,
+        "locality_id": 1327254689,
+        "region_id": 85669735,
+        "localadmin_id": 1127350430
+      }
     ],
-    "wof:id":1327254689,
-    "wof:lastmodified":1566650039,
-    "wof:name":"Huangbu",
-    "wof:parent_id":890516573,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327254689,
+    "wof:lastmodified": 1768669088,
+    "wof:name": "Huangbu",
+    "wof:parent_id": 1127350430,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.65326,
     26.7421,
     116.65326,
     26.7421
-],
-  "geometry": {"coordinates":[116.65326,26.7421],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.65326,
+      26.7421
+    ],
+    "type": "Point"
+  }
 }

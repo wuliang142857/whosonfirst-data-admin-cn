@@ -2,75 +2,83 @@
   "id": 1209898653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.64,37.2698,103.64,37.2698",
-    "geom:latitude":37.2698,
-    "geom:longitude":103.64,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Quanwanzhang",
-    "gn:country_code":"CN",
-    "gn:dem":2184,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10648305,
-    "gn:latitude":37.2698,
-    "gn:longitude":103.64,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Quanwanzhang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.62,37.2498,103.66,37.2898",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5708\u6e7e\u638c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.64,37.2698,103.64,37.2698",
+    "geom:latitude": 37.2698,
+    "geom:longitude": 103.64,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Quanwanzhang",
+    "gn:country_code": "CN",
+    "gn:dem": 2184,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10648305,
+    "gn:latitude": 37.2698,
+    "gn:longitude": 103.64,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Quanwanzhang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.62,37.2498,103.66,37.2898",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "圈湾掌"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515301,
+      890516467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10648305
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10648305
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fa7f3d610c6ab3b5fe4ff6a7afc9d996",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1209898653,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fa7f3d610c6ab3b5fe4ff6a7afc9d996",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1209898653,
+        "region_id": 85669711,
+        "localadmin_id": 890515301
+      }
     ],
-    "wof:id":1209898653,
-    "wof:lastmodified":1566683628,
-    "wof:name":"Quanwanzhang",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209898653,
+    "wof:lastmodified": 1768665872,
+    "wof:name": "Quanwanzhang",
+    "wof:parent_id": 890515301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.64,
     37.2698,
     103.64,
     37.2698
-],
-  "geometry": {"coordinates":[103.64,37.2698],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.64,
+      37.2698
+    ],
+    "type": "Point"
+  }
 }

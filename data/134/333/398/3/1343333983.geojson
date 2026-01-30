@@ -2,75 +2,83 @@
   "id": 1343333983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.666,23.5453,109.666,23.5453",
-    "geom:latitude":23.5453,
-    "geom:longitude":109.666,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Guanlu",
-    "gn:country_code":"CN",
-    "gn:dem":71,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9935220,
-    "gn:latitude":23.5453,
-    "gn:longitude":109.666,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Guanlu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.646,23.5253,109.686,23.5653",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b98\u7984"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.666,23.5453,109.666,23.5453",
+    "geom:latitude": 23.5453,
+    "geom:longitude": 109.666,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Guanlu",
+    "gn:country_code": "CN",
+    "gn:dem": 71,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9935220,
+    "gn:latitude": 23.5453,
+    "gn:longitude": 109.666,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Guanlu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.646,23.5253,109.686,23.5653",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "官禄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732439
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732439,
+      1127451323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9935220
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9935220
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9a9040512bec2d98cabeedb8cf1d1edc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732439,
-            "empire_id":136253041,
-            "locality_id":1343333983,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9a9040512bec2d98cabeedb8cf1d1edc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732439,
+        "empire_id": 136253041,
+        "locality_id": 1343333983,
+        "region_id": 85669717,
+        "localadmin_id": 1127451323
+      }
     ],
-    "wof:id":1343333983,
-    "wof:lastmodified":1566662171,
-    "wof:name":"Guanlu",
-    "wof:parent_id":1108732439,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343333983,
+    "wof:lastmodified": 1768665493,
+    "wof:name": "Guanlu",
+    "wof:parent_id": 1127451323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.666,
     23.5453,
     109.666,
     23.5453
-],
-  "geometry": {"coordinates":[109.666,23.5453],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.666,
+      23.5453
+    ],
+    "type": "Point"
+  }
 }

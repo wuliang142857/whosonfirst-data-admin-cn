@@ -2,75 +2,83 @@
   "id": 1360081451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.201,34.1136,116.201,34.1136",
-    "geom:latitude":34.1136,
-    "geom:longitude":116.201,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Caizhuang",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9132130,
-    "gn:latitude":34.1136,
-    "gn:longitude":116.201,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Caizhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.181,34.0936,116.221,34.1336",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8521\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.201,34.1136,116.201,34.1136",
+    "geom:latitude": 34.1136,
+    "geom:longitude": 116.201,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Caizhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9132130,
+    "gn:latitude": 34.1136,
+    "gn:longitude": 116.201,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Caizhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.181,34.0936,116.221,34.1336",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "蔡庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514845,
+      1127411426
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9132130
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9132130
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d0ccf035e0dec485b9a8ede1a14436db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514845,
-            "empire_id":136253041,
-            "locality_id":1360081451,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d0ccf035e0dec485b9a8ede1a14436db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514845,
+        "empire_id": 136253041,
+        "locality_id": 1360081451,
+        "region_id": 85669801,
+        "localadmin_id": 1127411426
+      }
     ],
-    "wof:id":1360081451,
-    "wof:lastmodified":1566691567,
-    "wof:name":"Caizhuang",
-    "wof:parent_id":890514845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360081451,
+    "wof:lastmodified": 1768669081,
+    "wof:name": "Caizhuang",
+    "wof:parent_id": 1127411426,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.201,
     34.1136,
     116.201,
     34.1136
-],
-  "geometry": {"coordinates":[116.20099999999999,34.1136],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.201,
+      34.1136
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1309880589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.269,40.0013,124.269,40.0013",
-    "geom:latitude":40.0013,
-    "geom:longitude":124.269,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Shibanzi",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11505707,
-    "gn:latitude":40.0013,
-    "gn:longitude":124.269,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Shibanzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.249,39.9813,124.289,40.0213",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u677f\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.269,40.0013,124.269,40.0013",
+    "geom:latitude": 40.0013,
+    "geom:longitude": 124.269,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Shibanzi",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11505707,
+    "gn:latitude": 40.0013,
+    "gn:longitude": 124.269,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Shibanzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.249,39.9813,124.289,40.0213",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石板子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514725
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514725,
+      1127210603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11505707
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11505707
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bb49e9d04ae5886b4780e3d6db1966d5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514725,
-            "empire_id":136253041,
-            "locality_id":1309880589,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bb49e9d04ae5886b4780e3d6db1966d5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514725,
+        "empire_id": 136253041,
+        "locality_id": 1309880589,
+        "region_id": 85669807,
+        "localadmin_id": 1127210603
+      }
     ],
-    "wof:id":1309880589,
-    "wof:lastmodified":1566693414,
-    "wof:name":"Shibanzi",
-    "wof:parent_id":890514725,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309880589,
+    "wof:lastmodified": 1768666775,
+    "wof:name": "Shibanzi",
+    "wof:parent_id": 1127210603,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.269,
     40.0013,
     124.269,
     40.0013
-],
-  "geometry": {"coordinates":[124.26900000000001,40.0013],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.269,
+      40.0013
+    ],
+    "type": "Point"
+  }
 }

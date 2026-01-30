@@ -2,80 +2,88 @@
   "id": 1226137791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.67556,40.35528,115.67556,40.35528",
-    "geom:latitude":40.35528,
-    "geom:longitude":115.67556,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Langshan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":515,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2036243,
-    "gn:latitude":40.35528,
-    "gn:longitude":115.67556,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Langshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.65556,40.33528,115.69556,40.37528",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ces_x_preferred":[
-        "Lang-\u0161an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.67556,40.35528,115.67556,40.35528",
+    "geom:latitude": 40.35528,
+    "geom:longitude": 115.67556,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Langshan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 515,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2036243,
+    "gn:latitude": 40.35528,
+    "gn:longitude": 115.67556,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Langshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.65556,40.33528,115.69556,40.37528",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ces_x_preferred": [
+      "Lang-šan"
     ],
-    "name:und_x_variant":[
-        "Lang-shan-pao",
-        "Langshan"
+    "name:und_x_variant": [
+      "Lang-shan-pao",
+      "Langshan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516481
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890514049,
+      890516481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2036243
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2036243
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d7af61c6e9fe9d65d9a99fe4a2d09a70",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516481,
-            "empire_id":136253041,
-            "locality_id":1226137791,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d7af61c6e9fe9d65d9a99fe4a2d09a70",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516481,
+        "empire_id": 136253041,
+        "locality_id": 1226137791,
+        "region_id": 85669797,
+        "localadmin_id": 890514049
+      }
     ],
-    "wof:id":1226137791,
-    "wof:lastmodified":1566703691,
-    "wof:name":"Langshan",
-    "wof:parent_id":890516481,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226137791,
+    "wof:lastmodified": 1768669000,
+    "wof:name": "Langshan",
+    "wof:parent_id": 890514049,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.67556,
     40.35528,
     115.67556,
     40.35528
-],
-  "geometry": {"coordinates":[115.67556,40.35528],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.67556,
+      40.35528
+    ],
+    "type": "Point"
+  }
 }

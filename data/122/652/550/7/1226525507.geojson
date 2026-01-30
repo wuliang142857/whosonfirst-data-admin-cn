@@ -2,83 +2,91 @@
   "id": 1226525507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"92.3,28.4,92.3,28.4",
-    "geom:latitude":28.4,
-    "geom:longitude":92.3,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Gyalog",
-    "gn:country_code":"CN",
-    "gn:dem":4142,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8026527,
-    "gn:latitude":28.4,
-    "gn:longitude":92.3,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Gyalog",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"92.28,28.38,92.32,28.42",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Gyalog"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "92.3,28.4,92.3,28.4",
+    "geom:latitude": 28.4,
+    "geom:longitude": 92.3,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Gyalog",
+    "gn:country_code": "CN",
+    "gn:dem": 4142,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8026527,
+    "gn:latitude": 28.4,
+    "gn:longitude": 92.3,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Gyalog",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "92.28,28.38,92.32,28.42",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Gyalog"
     ],
-    "name:zho_x_preferred":[
-        "Jialuo"
+    "name:zho_x_preferred": [
+      "Jialuo"
     ],
-    "name:zho_x_variant":[
-        "\u52a0\u6d1b",
-        "Zhaxikangsha",
-        "\u624e\u897f\u5eb7\u6c99"
+    "name:zho_x_variant": [
+      "加洛",
+      "Zhaxikangsha",
+      "扎西康沙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        1108794057
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890516849,
+      1108794057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8026527
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8026527
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7e88c7be96201b8d570bf7bb756148cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794057,
-            "empire_id":136253041,
-            "locality_id":1226525507,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7e88c7be96201b8d570bf7bb756148cc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794057,
+        "empire_id": 136253041,
+        "locality_id": 1226525507,
+        "region_id": 85669747,
+        "localadmin_id": 890516849
+      }
     ],
-    "wof:id":1226525507,
-    "wof:lastmodified":1566704810,
-    "wof:name":"Gyalog",
-    "wof:parent_id":1108794057,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226525507,
+    "wof:lastmodified": 1768666543,
+    "wof:name": "Gyalog",
+    "wof:parent_id": 890516849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     92.3,
     28.4,
     92.3,
     28.4
-],
-  "geometry": {"coordinates":[92.3,28.4],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      92.3,
+      28.4
+    ],
+    "type": "Point"
+  }
 }

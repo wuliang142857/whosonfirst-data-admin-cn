@@ -2,75 +2,83 @@
   "id": 1310686549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.35975,47.05409,126.35975,47.05409",
-    "geom:latitude":47.05409,
-    "geom:longitude":126.35975,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Shanwancun",
-    "gn:country_code":"CN",
-    "gn:dem":161,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11572691,
-    "gn:latitude":47.05409,
-    "gn:longitude":126.35975,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Shanwancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.33975,47.03409,126.37975,47.07409",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c71\u6e7e\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.35975,47.05409,126.35975,47.05409",
+    "geom:latitude": 47.05409,
+    "geom:longitude": 126.35975,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Shanwancun",
+    "gn:country_code": "CN",
+    "gn:dem": 161,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11572691,
+    "gn:latitude": 47.05409,
+    "gn:longitude": 126.35975,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Shanwancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.33975,47.03409,126.37975,47.07409",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "山湾村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11572691
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11572691
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bdcd6f1b8e03ed54e669e2d34c5a04ca",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1310686549,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bdcd6f1b8e03ed54e669e2d34c5a04ca",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1310686549,
+        "region_id": 85669849,
+        "localadmin_id": 1127231283
+      }
     ],
-    "wof:id":1310686549,
-    "wof:lastmodified":1566690678,
-    "wof:name":"Shanwancun",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310686549,
+    "wof:lastmodified": 1768668894,
+    "wof:name": "Shanwancun",
+    "wof:parent_id": 1127231283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.35975,
     47.05409,
     126.35975,
     47.05409
-],
-  "geometry": {"coordinates":[126.35975000000001,47.05409],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.35975,
+      47.05409
+    ],
+    "type": "Point"
+  }
 }

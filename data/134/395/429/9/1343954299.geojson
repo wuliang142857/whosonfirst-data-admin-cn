@@ -2,75 +2,83 @@
   "id": 1343954299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.48937,34.23914,112.48937,34.23914",
-    "geom:latitude":34.23914,
-    "geom:longitude":112.48937,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Wuzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":386,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10405951,
-    "gn:latitude":34.23914,
-    "gn:longitude":112.48937,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Wuzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.46937,34.21914,112.50937,34.25914",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90ac\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.48937,34.23914,112.48937,34.23914",
+    "geom:latitude": 34.23914,
+    "geom:longitude": 112.48937,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Wuzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 386,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10405951,
+    "gn:latitude": 34.23914,
+    "gn:longitude": 112.48937,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Wuzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.46937,34.21914,112.50937,34.25914",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "邬庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515631
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514479,
+      890515631
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10405951
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10405951
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e992cb7272454c115e2243b1f43c816c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515631,
-            "empire_id":136253041,
-            "locality_id":1343954299,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e992cb7272454c115e2243b1f43c816c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515631,
+        "empire_id": 136253041,
+        "locality_id": 1343954299,
+        "region_id": 85669801,
+        "localadmin_id": 890514479
+      }
     ],
-    "wof:id":1343954299,
-    "wof:lastmodified":1566660772,
-    "wof:name":"Wuzhuang",
-    "wof:parent_id":890515631,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343954299,
+    "wof:lastmodified": 1768669407,
+    "wof:name": "Wuzhuang",
+    "wof:parent_id": 890514479,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.48937,
     34.23914,
     112.48937,
     34.23914
-],
-  "geometry": {"coordinates":[112.48936999999999,34.23914],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.48937,
+      34.23914
+    ],
+    "type": "Point"
+  }
 }

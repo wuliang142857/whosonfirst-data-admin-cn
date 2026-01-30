@@ -2,88 +2,96 @@
   "id": 1310557855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.09032,40.27483,116.09032,40.27483",
-    "geom:latitude":40.27483,
-    "geom:longitude":116.09032,
-    "gn:admin1_code":"22",
-    "gn:asciiname":"Dongyuan",
-    "gn:country_code":"CN",
-    "gn:dem":204,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2037564,
-    "gn:latitude":40.27483,
-    "gn:longitude":116.09032,
-    "gn:modification_date":"2012-09-06",
-    "gn:name":"Dongyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.07032,40.25483,116.11032,40.29483",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Dongyuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.09032,40.27483,116.09032,40.27483",
+    "geom:latitude": 40.27483,
+    "geom:longitude": 116.09032,
+    "gn:admin1_code": "22",
+    "gn:asciiname": "Dongyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 204,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2037564,
+    "gn:latitude": 40.27483,
+    "gn:longitude": 116.09032,
+    "gn:modification_date": "2012-09-06",
+    "gn:name": "Dongyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.07032,40.25483,116.11032,40.29483",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Dongyuan"
     ],
-    "name:deu_x_preferred":[
-        "Dongyuan"
+    "name:deu_x_preferred": [
+      "Dongyuan"
     ],
-    "name:nor_x_preferred":[
-        "Dongyuan"
+    "name:nor_x_preferred": [
+      "Dongyuan"
     ],
-    "name:und_x_variant":[
-        "Tung-y\u00fcan",
-        "Tung-y\u00fcan-ts\u2019un"
+    "name:und_x_variant": [
+      "Tung-yüan",
+      "Tung-yüan-ts’un"
     ],
-    "name:zho_x_preferred":[
-        "\u4e1c\u56ed"
+    "name:zho_x_preferred": [
+      "东园"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890515303,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2037564
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2037564
     },
-    "wof:country":"CN",
-    "wof:geomhash":"989168d7955623acaaa6f7215f6e87b6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1310557855,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "989168d7955623acaaa6f7215f6e87b6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1310557855,
+        "region_id": 85669727,
+        "localadmin_id": 890515303
+      }
     ],
-    "wof:id":1310557855,
-    "wof:lastmodified":1566689150,
-    "wof:name":"Dongyuan",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310557855,
+    "wof:lastmodified": 1768667324,
+    "wof:name": "Dongyuan",
+    "wof:parent_id": 890515303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.09032,
     40.27483,
     116.09032,
     40.27483
-],
-  "geometry": {"coordinates":[116.09032000000001,40.27483],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.09032,
+      40.27483
+    ],
+    "type": "Point"
+  }
 }

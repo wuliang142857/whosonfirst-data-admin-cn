@@ -2,75 +2,83 @@
   "id": 1343480143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.91558,48.43935,125.91558,48.43935",
-    "geom:latitude":48.43935,
-    "geom:longitude":125.91558,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Hepingdahuangdi",
-    "gn:country_code":"CN",
-    "gn:dem":265,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11576395,
-    "gn:latitude":48.43935,
-    "gn:longitude":125.91558,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Hepingdahuangdi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.89558,48.41935,125.93558,48.45935",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u548c\u5e73\u5927\u8352\u5730"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.91558,48.43935,125.91558,48.43935",
+    "geom:latitude": 48.43935,
+    "geom:longitude": 125.91558,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Hepingdahuangdi",
+    "gn:country_code": "CN",
+    "gn:dem": 265,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11576395,
+    "gn:latitude": 48.43935,
+    "gn:longitude": 125.91558,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Hepingdahuangdi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.89558,48.41935,125.93558,48.45935",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "和平大荒地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        1108732555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514395,
+      1108732555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11576395
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11576395
     },
-    "wof:country":"CN",
-    "wof:geomhash":"74dad5c2d980976c7491400f68de4c3d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732555,
-            "empire_id":136253041,
-            "locality_id":1343480143,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "74dad5c2d980976c7491400f68de4c3d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732555,
+        "empire_id": 136253041,
+        "locality_id": 1343480143,
+        "region_id": 85669849,
+        "localadmin_id": 890514395
+      }
     ],
-    "wof:id":1343480143,
-    "wof:lastmodified":1566659425,
-    "wof:name":"Hepingdahuangdi",
-    "wof:parent_id":1108732555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343480143,
+    "wof:lastmodified": 1768668887,
+    "wof:name": "Hepingdahuangdi",
+    "wof:parent_id": 890514395,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.91558,
     48.43935,
     125.91558,
     48.43935
-],
-  "geometry": {"coordinates":[125.91558000000001,48.43935],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.91558,
+      48.43935
+    ],
+    "type": "Point"
+  }
 }

@@ -2,77 +2,85 @@
   "id": 1293188493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.00873,29.11189,112.00873,29.11189",
-    "geom:latitude":29.11189,
-    "geom:longitude":112.00873,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Heishanzui",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1927478,
-    "gn:latitude":29.11189,
-    "gn:longitude":112.00873,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Heishanzui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.98873,29.09189,112.02873,29.13189",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9ed1\u5c71\u5634",
-        "Heishanzui Xiang",
-        "\u9ed1\u5c71\u5634\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.00873,29.11189,112.00873,29.11189",
+    "geom:latitude": 29.11189,
+    "geom:longitude": 112.00873,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Heishanzui",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1927478,
+    "gn:latitude": 29.11189,
+    "gn:longitude": 112.00873,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Heishanzui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.98873,29.09189,112.02873,29.13189",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "黑山嘴",
+      "Heishanzui Xiang",
+      "黑山嘴乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515867,
+      1127430703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1927478
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1927478
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d7c993bfe71c8b5a79aaec7a17e73290",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1293188493,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d7c993bfe71c8b5a79aaec7a17e73290",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1293188493,
+        "region_id": 85669781,
+        "localadmin_id": 1127430703
+      }
     ],
-    "wof:id":1293188493,
-    "wof:lastmodified":1566670556,
-    "wof:name":"Heishanzui",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293188493,
+    "wof:lastmodified": 1768670429,
+    "wof:name": "Heishanzui",
+    "wof:parent_id": 1127430703,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.00873,
     29.11189,
     112.00873,
     29.11189
-],
-  "geometry": {"coordinates":[112.00873,29.11189],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.00873,
+      29.11189
+    ],
+    "type": "Point"
+  }
 }

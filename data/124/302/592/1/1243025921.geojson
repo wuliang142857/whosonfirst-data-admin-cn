@@ -2,80 +2,88 @@
   "id": 1243025921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.90584,39.57526,112.90584,39.57526",
-    "geom:latitude":39.57526,
-    "geom:longitude":112.90584,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Heshengbao",
-    "gn:country_code":"CN",
-    "gn:dem":1009,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1808301,
-    "gn:latitude":39.57526,
-    "gn:longitude":112.90584,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Heshengbao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.88584,39.55526,112.92584,39.59526",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ho-sheng-pao",
-        "Heshengbu",
-        "Heshengbao",
-        "\u5408\u76db\u5821",
-        "Heshengbao Xiang",
-        "\u5408\u76db\u5821\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.90584,39.57526,112.90584,39.57526",
+    "geom:latitude": 39.57526,
+    "geom:longitude": 112.90584,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Heshengbao",
+    "gn:country_code": "CN",
+    "gn:dem": 1009,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1808301,
+    "gn:latitude": 39.57526,
+    "gn:longitude": 112.90584,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Heshengbao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.88584,39.55526,112.92584,39.59526",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ho-sheng-pao",
+      "Heshengbu",
+      "Heshengbao",
+      "合盛堡",
+      "Heshengbao Xiang",
+      "合盛堡乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513491
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513491,
+      1127140621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1808301
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1808301
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cfe8610bc3a3ddf64998e28342e87118",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513491,
-            "empire_id":136253041,
-            "locality_id":1243025921,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cfe8610bc3a3ddf64998e28342e87118",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513491,
+        "empire_id": 136253041,
+        "locality_id": 1243025921,
+        "region_id": 85669773,
+        "localadmin_id": 1127140621
+      }
     ],
-    "wof:id":1243025921,
-    "wof:lastmodified":1566696471,
-    "wof:name":"Heshengbao",
-    "wof:parent_id":890513491,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243025921,
+    "wof:lastmodified": 1768666425,
+    "wof:name": "Heshengbao",
+    "wof:parent_id": 1127140621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.90584,
     39.57526,
     112.90584,
     39.57526
-],
-  "geometry": {"coordinates":[112.90584,39.57526],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.90584,
+      39.57526
+    ],
+    "type": "Point"
+  }
 }

@@ -2,82 +2,90 @@
   "id": 1343318807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.76817,34.04407,108.76817,34.04407",
-    "geom:latitude":34.04407,
-    "geom:longitude":108.76817,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Dongda",
-    "gn:country_code":"CN",
-    "gn:dem":425,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1998321,
-    "gn:latitude":34.04407,
-    "gn:longitude":108.76817,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Dongda",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.74817,34.02407,108.78817,34.06407",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Dongda Jieban",
-        "Dongda"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.76817,34.04407,108.76817,34.04407",
+    "geom:latitude": 34.04407,
+    "geom:longitude": 108.76817,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Dongda",
+    "gn:country_code": "CN",
+    "gn:dem": 425,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1998321,
+    "gn:latitude": 34.04407,
+    "gn:longitude": 108.76817,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Dongda",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.74817,34.02407,108.78817,34.06407",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Dongda Jieban",
+      "Dongda"
     ],
-    "name:zho_x_preferred":[
-        "\u4e1c\u5927"
+    "name:zho_x_preferred": [
+      "东大"
     ],
-    "name:zho_x_variant":[
-        "\u4e1c\u5927\u8857\u529e"
+    "name:zho_x_variant": [
+      "东大街办"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513413,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1998321
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1998321
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a9a0f73f165d4bdfc39c8ed754d53aa0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1343318807,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a9a0f73f165d4bdfc39c8ed754d53aa0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1343318807,
+        "region_id": 85669769,
+        "localadmin_id": 890513413
+      }
     ],
-    "wof:id":1343318807,
-    "wof:lastmodified":1566655934,
-    "wof:name":"Dongda",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343318807,
+    "wof:lastmodified": 1768668691,
+    "wof:name": "Dongda",
+    "wof:parent_id": 890513413,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.76817,
     34.04407,
     108.76817,
     34.04407
-],
-  "geometry": {"coordinates":[108.76817,34.04407],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.76817,
+      34.04407
+    ],
+    "type": "Point"
+  }
 }

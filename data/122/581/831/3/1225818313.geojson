@@ -2,75 +2,83 @@
   "id": 1225818313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.83513,33.1545,105.83513,33.1545",
-    "geom:latitude":33.1545,
-    "geom:longitude":105.83513,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhuyuan",
-    "gn:country_code":"CN",
-    "gn:dem":972,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7372573,
-    "gn:latitude":33.1545,
-    "gn:longitude":105.83513,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhuyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.81513,33.1345,105.85513,33.1745",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u7af9\u56ed"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.83513,33.1545,105.83513,33.1545",
+    "geom:latitude": 33.1545,
+    "geom:longitude": 105.83513,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhuyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 972,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7372573,
+    "gn:latitude": 33.1545,
+    "gn:longitude": 105.83513,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhuyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.81513,33.1345,105.85513,33.1745",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "竹园"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621224
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7372573
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7372573
     },
-    "wof:country":"CN",
-    "wof:geomhash":"54802921b83820c05c53bc85a2004641",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1225818313,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "54802921b83820c05c53bc85a2004641",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1225818313,
+        "region_id": 85669711,
+        "localadmin_id": 1127621224
+      }
     ],
-    "wof:id":1225818313,
-    "wof:lastmodified":1566702753,
-    "wof:name":"Zhuyuan",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225818313,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Zhuyuan",
+    "wof:parent_id": 1127621224,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.83513,
     33.1545,
     105.83513,
     33.1545
-],
-  "geometry": {"coordinates":[105.83513000000001,33.1545],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.83513,
+      33.1545
+    ],
+    "type": "Point"
+  }
 }

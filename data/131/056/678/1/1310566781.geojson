@@ -2,75 +2,83 @@
   "id": 1310566781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.14896,39.69503,123.14896,39.69503",
-    "geom:latitude":39.69503,
-    "geom:longitude":123.14896,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Baijiatun",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7397296,
-    "gn:latitude":39.69503,
-    "gn:longitude":123.14896,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Baijiatun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.12896,39.67503,123.16896,39.71503",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u767d\u5bb6\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.14896,39.69503,123.14896,39.69503",
+    "geom:latitude": 39.69503,
+    "geom:longitude": 123.14896,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Baijiatun",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7397296,
+    "gn:latitude": 39.69503,
+    "gn:longitude": 123.14896,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Baijiatun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.12896,39.67503,123.16896,39.71503",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "白家屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7397296
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7397296
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5ee9481fb6e3e0b251e77cdbb900c479",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1310566781,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5ee9481fb6e3e0b251e77cdbb900c479",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1310566781,
+        "region_id": 85669807,
+        "localadmin_id": 1127210283
+      }
     ],
-    "wof:id":1310566781,
-    "wof:lastmodified":1566690810,
-    "wof:name":"Baijiatun",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310566781,
+    "wof:lastmodified": 1768665991,
+    "wof:name": "Baijiatun",
+    "wof:parent_id": 1127210283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.14896,
     39.69503,
     123.14896,
     39.69503
-],
-  "geometry": {"coordinates":[123.14896,39.69503],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.14896,
+      39.69503
+    ],
+    "type": "Point"
+  }
 }

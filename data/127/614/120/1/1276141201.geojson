@@ -2,75 +2,83 @@
   "id": 1276141201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.87735,45.92498,125.87735,45.92498",
-    "geom:latitude":45.92498,
-    "geom:longitude":125.87735,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Wanbaocun",
-    "gn:country_code":"CN",
-    "gn:dem":159,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11579526,
-    "gn:latitude":45.92498,
-    "gn:longitude":125.87735,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Wanbaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.85735,45.90498,125.89735,45.94498",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e07\u5b9d\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.87735,45.92498,125.87735,45.92498",
+    "geom:latitude": 45.92498,
+    "geom:longitude": 125.87735,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Wanbaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 159,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11579526,
+    "gn:latitude": 45.92498,
+    "gn:longitude": 125.87735,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Wanbaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.85735,45.90498,125.89735,45.94498",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "万宝村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514025,
+      890514509
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11579526
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11579526
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1701d55358cd276c1e2e4d8765547feb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1276141201,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1701d55358cd276c1e2e4d8765547feb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1276141201,
+        "region_id": 85669849,
+        "localadmin_id": 890514025
+      }
     ],
-    "wof:id":1276141201,
-    "wof:lastmodified":1566675953,
-    "wof:name":"Wanbaocun",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276141201,
+    "wof:lastmodified": 1768668895,
+    "wof:name": "Wanbaocun",
+    "wof:parent_id": 890514025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.87735,
     45.92498,
     125.87735,
     45.92498
-],
-  "geometry": {"coordinates":[125.87735000000001,45.92498],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.87735,
+      45.92498
+    ],
+    "type": "Point"
+  }
 }

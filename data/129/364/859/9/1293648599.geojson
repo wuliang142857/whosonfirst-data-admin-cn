@@ -2,84 +2,92 @@
   "id": 1293648599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.202,32.0645,105.202,32.0645",
-    "geom:latitude":32.0645,
-    "geom:longitude":105.202,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shimen",
-    "gn:country_code":"CN",
-    "gn:dem":697,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10147589,
-    "gn:latitude":32.0645,
-    "gn:longitude":105.202,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shimen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.182,32.0445,105.222,32.0845",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Shimen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.202,32.0645,105.202,32.0645",
+    "geom:latitude": 32.0645,
+    "geom:longitude": 105.202,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shimen",
+    "gn:country_code": "CN",
+    "gn:dem": 697,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10147589,
+    "gn:latitude": 32.0645,
+    "gn:longitude": 105.202,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shimen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.182,32.0445,105.222,32.0845",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Shimen"
     ],
-    "name:deu_x_preferred":[
-        "Shimen"
+    "name:deu_x_preferred": [
+      "Shimen"
     ],
-    "name:nor_x_preferred":[
-        "Shimen"
+    "name:nor_x_preferred": [
+      "Shimen"
     ],
-    "name:zho_x_preferred":[
-        "\u77f3\u95e8"
+    "name:zho_x_preferred": [
+      "石门"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      890514341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10147589
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10147589
     },
-    "wof:country":"CN",
-    "wof:geomhash":"23f78953b2cacb138cfa2b71b424b3e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1293648599,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "23f78953b2cacb138cfa2b71b424b3e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1293648599,
+        "region_id": 85669787,
+        "localadmin_id": 890514341
+      }
     ],
-    "wof:id":1293648599,
-    "wof:lastmodified":1566666892,
-    "wof:name":"Shimen",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293648599,
+    "wof:lastmodified": 1768668243,
+    "wof:name": "Shimen",
+    "wof:parent_id": 890514341,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.202,
     32.0645,
     105.202,
     32.0645
-],
-  "geometry": {"coordinates":[105.202,32.0645],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.202,
+      32.0645
+    ],
+    "type": "Point"
+  }
 }

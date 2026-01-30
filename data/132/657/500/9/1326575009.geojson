@@ -2,75 +2,83 @@
   "id": 1326575009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.62618,30.37863,103.62618,30.37863",
-    "geom:latitude":30.37863,
-    "geom:longitude":103.62618,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Liangkua",
-    "gn:country_code":"CN",
-    "gn:dem":478,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6997727,
-    "gn:latitude":30.37863,
-    "gn:longitude":103.62618,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Liangkua",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.60618,30.35863,103.64618,30.39863",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6881\u57ae"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.62618,30.37863,103.62618,30.37863",
+    "geom:latitude": 30.37863,
+    "geom:longitude": 103.62618,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Liangkua",
+    "gn:country_code": "CN",
+    "gn:dem": 478,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6997727,
+    "gn:latitude": 30.37863,
+    "gn:longitude": 103.62618,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Liangkua",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.60618,30.35863,103.64618,30.39863",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "梁垮"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516567
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511949,
+      890516567
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6997727
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6997727
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0d1dfb2f084d706cc0c2f5922a0ce01c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516567,
-            "empire_id":136253041,
-            "locality_id":1326575009,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0d1dfb2f084d706cc0c2f5922a0ce01c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516567,
+        "empire_id": 136253041,
+        "locality_id": 1326575009,
+        "region_id": 85669787,
+        "localadmin_id": 890511949
+      }
     ],
-    "wof:id":1326575009,
-    "wof:lastmodified":1566649760,
-    "wof:name":"Liangkua",
-    "wof:parent_id":890516567,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326575009,
+    "wof:lastmodified": 1768668425,
+    "wof:name": "Liangkua",
+    "wof:parent_id": 890511949,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.62618,
     30.37863,
     103.62618,
     30.37863
-],
-  "geometry": {"coordinates":[103.62618000000001,30.37863],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.62618,
+      30.37863
+    ],
+    "type": "Point"
+  }
 }

@@ -2,89 +2,97 @@
   "id": 1226001561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.71454,39.06375,110.71454,39.06375",
-    "geom:latitude":39.06375,
-    "geom:longitude":110.71454,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Xinmin",
-    "gn:country_code":"CN",
-    "gn:dem":1262,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1788711,
-    "gn:latitude":39.06375,
-    "gn:longitude":110.71454,
-    "gn:modification_date":"2016-12-03",
-    "gn:name":"Xinmin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.69454,39.04375,110.73454,39.08375",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Xinmin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.71454,39.06375,110.71454,39.06375",
+    "geom:latitude": 39.06375,
+    "geom:longitude": 110.71454,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Xinmin",
+    "gn:country_code": "CN",
+    "gn:dem": 1262,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1788711,
+    "gn:latitude": 39.06375,
+    "gn:longitude": 110.71454,
+    "gn:modification_date": "2016-12-03",
+    "gn:name": "Xinmin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.69454,39.04375,110.73454,39.08375",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Xinmin"
     ],
-    "name:deu_x_preferred":[
-        "Xinmin"
+    "name:deu_x_preferred": [
+      "Xinmin"
     ],
-    "name:mlg_x_preferred":[
-        "Xinmin"
+    "name:mlg_x_preferred": [
+      "Xinmin"
     ],
-    "name:und_x_variant":[
-        "Hsin-min-chen",
-        "Hsin-min",
-        "Xinminzhen"
+    "name:und_x_variant": [
+      "Hsin-min-chen",
+      "Hsin-min",
+      "Xinminzhen"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u6c11"
+    "name:zho_x_preferred": [
+      "新民"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515097
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515097,
+      1127610822
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1788711
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1788711
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2327213e5e45923cffcf4dde996fea2f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515097,
-            "empire_id":136253041,
-            "locality_id":1226001561,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2327213e5e45923cffcf4dde996fea2f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515097,
+        "empire_id": 136253041,
+        "locality_id": 1226001561,
+        "region_id": 85669769,
+        "localadmin_id": 1127610822
+      }
     ],
-    "wof:id":1226001561,
-    "wof:lastmodified":1566705483,
-    "wof:name":"Xinmin",
-    "wof:parent_id":890515097,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226001561,
+    "wof:lastmodified": 1768667150,
+    "wof:name": "Xinmin",
+    "wof:parent_id": 1127610822,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.71454,
     39.06375,
     110.71454,
     39.06375
-],
-  "geometry": {"coordinates":[110.71454,39.06375],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.71454,
+      39.06375
+    ],
+    "type": "Point"
+  }
 }

@@ -2,87 +2,95 @@
   "id": 1310366321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.778,24.5984,103.778,24.5984",
-    "geom:latitude":24.5984,
-    "geom:longitude":103.778,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Shandao",
-    "gn:country_code":"CN",
-    "gn:dem":1785,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10040338,
-    "gn:latitude":24.5984,
-    "gn:longitude":103.778,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Shandao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.758,24.5784,103.798,24.6184",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Shandao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.778,24.5984,103.778,24.5984",
+    "geom:latitude": 24.5984,
+    "geom:longitude": 103.778,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Shandao",
+    "gn:country_code": "CN",
+    "gn:dem": 1785,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10040338,
+    "gn:latitude": 24.5984,
+    "gn:longitude": 103.778,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Shandao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.758,24.5784,103.798,24.6184",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Shandao"
     ],
-    "name:pol_x_preferred":[
-        "Shandao"
+    "name:pol_x_preferred": [
+      "Shandao"
     ],
-    "name:rus_x_preferred":[
-        "\u0428\u0430\u043d\u044c\u0434\u0430\u043e"
+    "name:rus_x_preferred": [
+      "Шаньдао"
     ],
-    "name:swe_x_preferred":[
-        "Shan-tao"
+    "name:swe_x_preferred": [
+      "Shan-tao"
     ],
-    "name:zho_x_preferred":[
-        "\u5584\u5bfc"
+    "name:zho_x_preferred": [
+      "善导"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890511855,
+      1108794063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10040338
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10040338
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ce7cf3243fe0488894a4dfed1b50e4a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1310366321,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ce7cf3243fe0488894a4dfed1b50e4a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1310366321,
+        "region_id": 85669791,
+        "localadmin_id": 890511855
+      }
     ],
-    "wof:id":1310366321,
-    "wof:lastmodified":1566689001,
-    "wof:name":"Shandao",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310366321,
+    "wof:lastmodified": 1768668217,
+    "wof:name": "Shandao",
+    "wof:parent_id": 890511855,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.778,
     24.5984,
     103.778,
     24.5984
-],
-  "geometry": {"coordinates":[103.77800000000001,24.5984],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.778,
+      24.5984
+    ],
+    "type": "Point"
+  }
 }

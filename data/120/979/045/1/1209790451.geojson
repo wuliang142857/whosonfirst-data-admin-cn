@@ -2,75 +2,83 @@
   "id": 1209790451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.46166,39.75125,123.46166,39.75125",
-    "geom:latitude":39.75125,
-    "geom:longitude":123.46166,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Daquan",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7397258,
-    "gn:latitude":39.75125,
-    "gn:longitude":123.46166,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Daquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.44166,39.73125,123.48166,39.77125",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5708"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.46166,39.75125,123.46166,39.75125",
+    "geom:latitude": 39.75125,
+    "geom:longitude": 123.46166,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Daquan",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7397258,
+    "gn:latitude": 39.75125,
+    "gn:longitude": 123.46166,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Daquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.44166,39.73125,123.48166,39.77125",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大圈"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7397258
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7397258
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d4d26b9fbd137a6f10f07bb0be0fa1f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1209790451,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d4d26b9fbd137a6f10f07bb0be0fa1f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1209790451,
+        "region_id": 85669807,
+        "localadmin_id": 1127210283
+      }
     ],
-    "wof:id":1209790451,
-    "wof:lastmodified":1566680554,
-    "wof:name":"Daquan",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209790451,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Daquan",
+    "wof:parent_id": 1127210283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.46166,
     39.75125,
     123.46166,
     39.75125
-],
-  "geometry": {"coordinates":[123.46165999999999,39.75125],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.46166,
+      39.75125
+    ],
+    "type": "Point"
+  }
 }

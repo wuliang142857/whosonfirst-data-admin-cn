@@ -2,73 +2,81 @@
   "id": 1276160583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.7203,19.24825,108.7203,19.24825",
-    "geom:latitude":19.24825,
-    "geom:longitude":108.7203,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Juhou",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7632812,
-    "gn:latitude":19.24825,
-    "gn:longitude":108.7203,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Juhou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.7003,19.22825,108.7403,19.26825",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c45\u5019"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.7203,19.24825,108.7203,19.24825",
+    "geom:latitude": 19.24825,
+    "geom:longitude": 108.7203,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Juhou",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7632812,
+    "gn:latitude": 19.24825,
+    "gn:longitude": 108.7203,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Juhou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.7003,19.22825,108.7403,19.26825",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "居候"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7632812
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7632812
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e9b69853ef68438b06de228fcab344aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1276160583,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e9b69853ef68438b06de228fcab344aa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1276160583,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1276160583,
-    "wof:lastmodified":1566674026,
-    "wof:name":"Juhou",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276160583,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Juhou",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.7203,
     19.24825,
     108.7203,
     19.24825
-],
-  "geometry": {"coordinates":[108.72029999999999,19.24825],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.7203,
+      19.24825
+    ],
+    "type": "Point"
+  }
 }

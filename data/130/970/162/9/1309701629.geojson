@@ -2,81 +2,89 @@
   "id": 1309701629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.35,34.3,114.35,34.3",
-    "geom:latitude":34.3,
-    "geom:longitude":114.35,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Yongxing",
-    "gn:country_code":"CN",
-    "gn:dem":62,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1786231,
-    "gn:latitude":34.3,
-    "gn:longitude":114.35,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Yongxing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.33,34.28,114.37,34.32",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Yongxing"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.35,34.3,114.35,34.3",
+    "geom:latitude": 34.3,
+    "geom:longitude": 114.35,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Yongxing",
+    "gn:country_code": "CN",
+    "gn:dem": 62,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1786231,
+    "gn:latitude": 34.3,
+    "gn:longitude": 114.35,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Yongxing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.33,34.28,114.37,34.32",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Yongxing"
     ],
-    "name:deu_x_preferred":[
-        "Yongxing"
+    "name:deu_x_preferred": [
+      "Yongxing"
     ],
-    "name:gan_x_preferred":[
-        "\u6c38\u8208"
+    "name:gan_x_preferred": [
+      "永興"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890515157,
+      1127410223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1786231
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1786231
     },
-    "wof:country":"CN",
-    "wof:geomhash":"22ae9f18c6606ac98f067404dc2b6b30",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515157,
-            "empire_id":136253041,
-            "locality_id":1309701629,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "22ae9f18c6606ac98f067404dc2b6b30",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515157,
+        "empire_id": 136253041,
+        "locality_id": 1309701629,
+        "region_id": 85669801,
+        "localadmin_id": 1127410223
+      }
     ],
-    "wof:id":1309701629,
-    "wof:lastmodified":1566692661,
-    "wof:name":"Yongxing",
-    "wof:parent_id":890515157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309701629,
+    "wof:lastmodified": 1768669359,
+    "wof:name": "Yongxing",
+    "wof:parent_id": 1127410223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.35,
     34.3,
     114.35,
     34.3
-],
-  "geometry": {"coordinates":[114.34999999999999,34.3],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.35,
+      34.3
+    ],
+    "type": "Point"
+  }
 }

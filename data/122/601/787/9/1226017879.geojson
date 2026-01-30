@@ -2,84 +2,92 @@
   "id": 1226017879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.363,35.5887,107.363,35.5887",
-    "geom:latitude":35.5887,
-    "geom:longitude":107.363,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Mabu",
-    "gn:country_code":"CN",
-    "gn:dem":1361,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10738864,
-    "gn:latitude":35.5887,
-    "gn:longitude":107.363,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Mabu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.343,35.5687,107.383,35.6087",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Mabu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.363,35.5887,107.363,35.5887",
+    "geom:latitude": 35.5887,
+    "geom:longitude": 107.363,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Mabu",
+    "gn:country_code": "CN",
+    "gn:dem": 1361,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10738864,
+    "gn:latitude": 35.5887,
+    "gn:longitude": 107.363,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Mabu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.343,35.5687,107.383,35.6087",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Mabu"
     ],
-    "name:rus_x_preferred":[
-        "\u041c\u0430\u0431\u0443"
+    "name:rus_x_preferred": [
+      "Мабу"
     ],
-    "name:swe_x_preferred":[
-        "Mabu"
+    "name:swe_x_preferred": [
+      "Mabu"
     ],
-    "name:zho_x_preferred":[
-        "\u9a6c\u5821"
+    "name:zho_x_preferred": [
+      "马堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621027
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10738864
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10738864
     },
-    "wof:country":"CN",
-    "wof:geomhash":"187fce70dcaa7dbda022df674fa3048e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1226017879,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "187fce70dcaa7dbda022df674fa3048e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1226017879,
+        "region_id": 85669711,
+        "localadmin_id": 1127621027
+      }
     ],
-    "wof:id":1226017879,
-    "wof:lastmodified":1566705258,
-    "wof:name":"Mabu",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226017879,
+    "wof:lastmodified": 1768666481,
+    "wof:name": "Mabu",
+    "wof:parent_id": 1127621027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.363,
     35.5887,
     107.363,
     35.5887
-],
-  "geometry": {"coordinates":[107.363,35.5887],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.363,
+      35.5887
+    ],
+    "type": "Point"
+  }
 }

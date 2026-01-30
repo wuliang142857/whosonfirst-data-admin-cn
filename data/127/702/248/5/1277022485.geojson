@@ -2,75 +2,83 @@
   "id": 1277022485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.40965,30.76705,108.40965,30.76705",
-    "geom:latitude":30.76705,
-    "geom:longitude":108.40965,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Yanshang",
-    "gn:country_code":"CN",
-    "gn:dem":251,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8404181,
-    "gn:latitude":30.76705,
-    "gn:longitude":108.40965,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Yanshang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.38965,30.74705,108.42965,30.78705",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5ca9\u4e0a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.40965,30.76705,108.40965,30.76705",
+    "geom:latitude": 30.76705,
+    "geom:longitude": 108.40965,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Yanshang",
+    "gn:country_code": "CN",
+    "gn:dem": 251,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8404181,
+    "gn:latitude": 30.76705,
+    "gn:longitude": 108.40965,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Yanshang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.38965,30.74705,108.42965,30.78705",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "岩上"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8404181
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8404181
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cc2b92527236d9bd993e331c5299d0c3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1277022485,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cc2b92527236d9bd993e331c5299d0c3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1277022485,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1277022485,
-    "wof:lastmodified":1566675743,
-    "wof:name":"Yanshang",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277022485,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Yanshang",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.40965,
     30.76705,
     108.40965,
     30.76705
-],
-  "geometry": {"coordinates":[108.40965,30.76705],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.40965,
+      30.76705
+    ],
+    "type": "Point"
+  }
 }

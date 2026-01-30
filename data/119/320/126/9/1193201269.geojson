@@ -2,75 +2,83 @@
   "id": 1193201269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.533,33.0031,101.533,33.0031",
-    "geom:latitude":33.0031,
-    "geom:longitude":101.533,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Jiadi",
-    "gn:country_code":"CN",
-    "gn:dem":3505,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10202412,
-    "gn:latitude":33.0031,
-    "gn:longitude":101.533,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Jiadi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.513,32.9831,101.553,33.0231",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7532\u5e95"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.533,33.0031,101.533,33.0031",
+    "geom:latitude": 33.0031,
+    "geom:longitude": 101.533,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Jiadi",
+    "gn:country_code": "CN",
+    "gn:dem": 3505,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10202412,
+    "gn:latitude": 33.0031,
+    "gn:longitude": 101.533,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Jiadi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.513,32.9831,101.553,33.0231",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "甲底"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794065
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512575,
+      1108794065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10202412
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10202412
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2e956f526c24b57cdfc2dd320d990143",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794065,
-            "empire_id":136253041,
-            "locality_id":1193201269,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2e956f526c24b57cdfc2dd320d990143",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794065,
+        "empire_id": 136253041,
+        "locality_id": 1193201269,
+        "region_id": 85669787,
+        "localadmin_id": 890512575
+      }
     ],
-    "wof:id":1193201269,
-    "wof:lastmodified":1566685792,
-    "wof:name":"Jiadi",
-    "wof:parent_id":1108794065,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193201269,
+    "wof:lastmodified": 1768668872,
+    "wof:name": "Jiadi",
+    "wof:parent_id": 890512575,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.533,
     33.0031,
     101.533,
     33.0031
-],
-  "geometry": {"coordinates":[101.533,33.0031],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.533,
+      33.0031
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1293548929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.649,31.3314,105.649,31.3314",
-    "geom:latitude":31.3314,
-    "geom:longitude":105.649,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Hejiazui",
-    "gn:country_code":"CN",
-    "gn:dem":446,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10164080,
-    "gn:latitude":31.3314,
-    "gn:longitude":105.649,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Hejiazui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.629,31.3114,105.669,31.3514",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4f55\u5bb6\u5480"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.649,31.3314,105.649,31.3314",
+    "geom:latitude": 31.3314,
+    "geom:longitude": 105.649,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Hejiazui",
+    "gn:country_code": "CN",
+    "gn:dem": 446,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10164080,
+    "gn:latitude": 31.3314,
+    "gn:longitude": 105.649,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Hejiazui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.629,31.3114,105.669,31.3514",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "何家咀"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      890512827
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10164080
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10164080
     },
-    "wof:country":"CN",
-    "wof:geomhash":"89471668f7473b1d24c38e41666044c4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1293548929,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "89471668f7473b1d24c38e41666044c4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1293548929,
+        "region_id": 85669787,
+        "localadmin_id": 890512827
+      }
     ],
-    "wof:id":1293548929,
-    "wof:lastmodified":1566665845,
-    "wof:name":"Hejiazui",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293548929,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Hejiazui",
+    "wof:parent_id": 890512827,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.649,
     31.3314,
     105.649,
     31.3314
-],
-  "geometry": {"coordinates":[105.649,31.3314],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.649,
+      31.3314
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243435945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.75,22.9498,108.75,22.9498",
-    "geom:latitude":22.9498,
-    "geom:longitude":108.75,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tuojiu",
-    "gn:country_code":"CN",
-    "gn:dem":126,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9895766,
-    "gn:latitude":22.9498,
-    "gn:longitude":108.75,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Tuojiu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.73,22.9298,108.77,22.9698",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6e\u65e7"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.75,22.9498,108.75,22.9498",
+    "geom:latitude": 22.9498,
+    "geom:longitude": 108.75,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tuojiu",
+    "gn:country_code": "CN",
+    "gn:dem": 126,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9895766,
+    "gn:latitude": 22.9498,
+    "gn:longitude": 108.75,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Tuojiu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.73,22.9298,108.77,22.9698",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "驮旧"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450103
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9895766
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9895766
     },
-    "wof:country":"CN",
-    "wof:geomhash":"39a75047ec5156f809224109450e1dd1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1243435945,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "39a75047ec5156f809224109450e1dd1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1243435945,
+        "region_id": 85669717,
+        "localadmin_id": 1127450103
+      }
     ],
-    "wof:id":1243435945,
-    "wof:lastmodified":1566697820,
-    "wof:name":"Tuojiu",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243435945,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Tuojiu",
+    "wof:parent_id": 1127450103,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.75,
     22.9498,
     108.75,
     22.9498
-],
-  "geometry": {"coordinates":[108.75,22.9498],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.75,
+      22.9498
+    ],
+    "type": "Point"
+  }
 }

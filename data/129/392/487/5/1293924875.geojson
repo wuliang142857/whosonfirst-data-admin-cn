@@ -2,75 +2,83 @@
   "id": 1293924875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.16267,29.11576,106.16267,29.11576",
-    "geom:latitude":29.11576,
-    "geom:longitude":106.16267,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Jinchai",
-    "gn:country_code":"CN",
-    "gn:dem":269,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8422087,
-    "gn:latitude":29.11576,
-    "gn:longitude":106.16267,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Jinchai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.14267,29.09576,106.18267,29.13576",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u91d1\u9497"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.16267,29.11576,106.16267,29.11576",
+    "geom:latitude": 29.11576,
+    "geom:longitude": 106.16267,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Jinchai",
+    "gn:country_code": "CN",
+    "gn:dem": 269,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8422087,
+    "gn:latitude": 29.11576,
+    "gn:longitude": 106.16267,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Jinchai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.14267,29.09576,106.18267,29.13576",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "金钗"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890512859,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8422087
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8422087
     },
-    "wof:country":"CN",
-    "wof:geomhash":"80aa2b0104568b0a88be15574c32ee13",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1293924875,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "80aa2b0104568b0a88be15574c32ee13",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1293924875,
+        "region_id": 85669725,
+        "localadmin_id": 890512859
+      }
     ],
-    "wof:id":1293924875,
-    "wof:lastmodified":1566668775,
-    "wof:name":"Jinchai",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293924875,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Jinchai",
+    "wof:parent_id": 890512859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.16267,
     29.11576,
     106.16267,
     29.11576
-],
-  "geometry": {"coordinates":[106.16267000000001,29.11576],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.16267,
+      29.11576
+    ],
+    "type": "Point"
+  }
 }

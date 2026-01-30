@@ -2,82 +2,90 @@
   "id": 1276132655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.17256,31.76165,118.17256,31.76165",
-    "geom:latitude":31.76165,
-    "geom:longitude":118.17256,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Qimenzhan",
-    "gn:country_code":"CN",
-    "gn:dem":26,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1797968,
-    "gn:latitude":31.76165,
-    "gn:longitude":118.17256,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Qimenzhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.15256,31.74165,118.19256,31.78165",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ho-men-chan",
-        "Qimen",
-        "Ch\u2019i-men",
-        "Ch\u2019i-men-chan",
-        "Qimenzhan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.17256,31.76165,118.17256,31.76165",
+    "geom:latitude": 31.76165,
+    "geom:longitude": 118.17256,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Qimenzhan",
+    "gn:country_code": "CN",
+    "gn:dem": 26,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1797968,
+    "gn:latitude": 31.76165,
+    "gn:longitude": 118.17256,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Qimenzhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.15256,31.74165,118.19256,31.78165",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ho-men-chan",
+      "Qimen",
+      "Ch’i-men",
+      "Ch’i-men-chan",
+      "Qimenzhan"
     ],
-    "name:zho_x_preferred":[
-        "\u7941\u95e8\u7ad9"
+    "name:zho_x_preferred": [
+      "祁门站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732543
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      1108732543,
+      1127340522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1797968
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1797968
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2c8521e1643918b66f1f0dfe4e868ab6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732543,
-            "empire_id":136253041,
-            "locality_id":1276132655,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2c8521e1643918b66f1f0dfe4e868ab6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732543,
+        "empire_id": 136253041,
+        "locality_id": 1276132655,
+        "region_id": 85669739,
+        "localadmin_id": 1127340522
+      }
     ],
-    "wof:id":1276132655,
-    "wof:lastmodified":1566675991,
-    "wof:name":"Qimenzhan",
-    "wof:parent_id":1108732543,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276132655,
+    "wof:lastmodified": 1768669727,
+    "wof:name": "Qimenzhan",
+    "wof:parent_id": 1127340522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.17256,
     31.76165,
     118.17256,
     31.76165
-],
-  "geometry": {"coordinates":[118.17256,31.76165],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.17256,
+      31.76165
+    ],
+    "type": "Point"
+  }
 }

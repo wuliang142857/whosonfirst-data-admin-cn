@@ -2,75 +2,83 @@
   "id": 1259490661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.84041,29.38017,114.84041,29.38017",
-    "geom:latitude":29.38017,
-    "geom:longitude":114.84041,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Shuikou",
-    "gn:country_code":"CN",
-    "gn:dem":571,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7744870,
-    "gn:latitude":29.38017,
-    "gn:longitude":114.84041,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Shuikou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.82041,29.36017,114.86041,29.40017",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6c34\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.84041,29.38017,114.84041,29.38017",
+    "geom:latitude": 29.38017,
+    "geom:longitude": 114.84041,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Shuikou",
+    "gn:country_code": "CN",
+    "gn:dem": 571,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7744870,
+    "gn:latitude": 29.38017,
+    "gn:longitude": 114.84041,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Shuikou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.82041,29.36017,114.86041,29.40017",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "水口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7744870
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7744870
     },
-    "wof:country":"CN",
-    "wof:geomhash":"201aedca9f26eb5e2177ed37645370e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1259490661,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "201aedca9f26eb5e2177ed37645370e7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1259490661,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1259490661,
-    "wof:lastmodified":1566699188,
-    "wof:name":"Shuikou",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259490661,
+    "wof:lastmodified": 1768669673,
+    "wof:name": "Shuikou",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.84041,
     29.38017,
     114.84041,
     29.38017
-],
-  "geometry": {"coordinates":[114.84041000000001,29.38017],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.84041,
+      29.38017
+    ],
+    "type": "Point"
+  }
 }

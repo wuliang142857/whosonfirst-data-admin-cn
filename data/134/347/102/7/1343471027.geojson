@@ -2,75 +2,83 @@
   "id": 1343471027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.09933,27.49796,119.09933,27.49796",
-    "geom:latitude":27.49796,
-    "geom:longitude":119.09933,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Matian",
-    "gn:country_code":"CN",
-    "gn:dem":1041,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11182237,
-    "gn:latitude":27.49796,
-    "gn:longitude":119.09933,
-    "gn:modification_date":"2016-06-06",
-    "gn:name":"Matian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.07933,27.47796,119.11933,27.51796",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u7530"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.09933,27.49796,119.09933,27.49796",
+    "geom:latitude": 27.49796,
+    "geom:longitude": 119.09933,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Matian",
+    "gn:country_code": "CN",
+    "gn:dem": 1041,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11182237,
+    "gn:latitude": 27.49796,
+    "gn:longitude": 119.09933,
+    "gn:modification_date": "2016-06-06",
+    "gn:name": "Matian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.07933,27.47796,119.11933,27.51796",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马田"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516399,
+      1127331126
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11182237
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11182237
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e0fef833114929aeeec17b3dcbdd2fa5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516399,
-            "empire_id":136253041,
-            "locality_id":1343471027,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e0fef833114929aeeec17b3dcbdd2fa5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516399,
+        "empire_id": 136253041,
+        "locality_id": 1343471027,
+        "region_id": 85669835,
+        "localadmin_id": 1127331126
+      }
     ],
-    "wof:id":1343471027,
-    "wof:lastmodified":1566660381,
-    "wof:name":"Matian",
-    "wof:parent_id":890516399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343471027,
+    "wof:lastmodified": 1768669967,
+    "wof:name": "Matian",
+    "wof:parent_id": 1127331126,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.09933,
     27.49796,
     119.09933,
     27.49796
-],
-  "geometry": {"coordinates":[119.09932999999999,27.49796],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.09933,
+      27.49796
+    ],
+    "type": "Point"
+  }
 }

@@ -2,82 +2,90 @@
   "id": 1259677225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.557,38.6032,117.557,38.6032",
-    "geom:latitude":38.6032,
-    "geom:longitude":117.557,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Qikou",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1798020,
-    "gn:latitude":38.6032,
-    "gn:longitude":117.557,
-    "gn:modification_date":"2014-10-01",
-    "gn:name":"Qikou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.537,38.5832,117.577,38.6232",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chi-kau",
-        "Chikow",
-        "Chihshankou",
-        "Ch\u2019i-k\u2019ou",
-        "Qikou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.557,38.6032,117.557,38.6032",
+    "geom:latitude": 38.6032,
+    "geom:longitude": 117.557,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Qikou",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1798020,
+    "gn:latitude": 38.6032,
+    "gn:longitude": 117.557,
+    "gn:modification_date": "2014-10-01",
+    "gn:name": "Qikou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.537,38.5832,117.577,38.6232",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chi-kau",
+      "Chikow",
+      "Chihshankou",
+      "Ch’i-k’ou",
+      "Qikou"
     ],
-    "name:zho_x_preferred":[
-        "\u6b67\u53e3"
+    "name:zho_x_preferred": [
+      "歧口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130983
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1798020
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1798020
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e89940d114c9b0a98ac43ca27560218",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1259677225,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e89940d114c9b0a98ac43ca27560218",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1259677225,
+        "region_id": 85669797,
+        "localadmin_id": 1127130983
+      }
     ],
-    "wof:id":1259677225,
-    "wof:lastmodified":1566699765,
-    "wof:name":"Qikou",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259677225,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Qikou",
+    "wof:parent_id": 1127130983,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.557,
     38.6032,
     117.557,
     38.6032
-],
-  "geometry": {"coordinates":[117.557,38.6032],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.557,
+      38.6032
+    ],
+    "type": "Point"
+  }
 }

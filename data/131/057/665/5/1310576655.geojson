@@ -2,75 +2,83 @@
   "id": 1310576655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.889,28.1973,108.889,28.1973",
-    "geom:latitude":28.1973,
-    "geom:longitude":108.889,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Xiegou",
-    "gn:country_code":"CN",
-    "gn:dem":716,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1550462,
-    "gn:latitude":28.1973,
-    "gn:longitude":108.889,
-    "gn:modification_date":"2015-02-05",
-    "gn:name":"Xiegou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.869,28.1773,108.909,28.2173",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8c22\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.889,28.1973,108.889,28.1973",
+    "geom:latitude": 28.1973,
+    "geom:longitude": 108.889,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Xiegou",
+    "gn:country_code": "CN",
+    "gn:dem": 716,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1550462,
+    "gn:latitude": 28.1973,
+    "gn:longitude": 108.889,
+    "gn:modification_date": "2015-02-05",
+    "gn:name": "Xiegou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.869,28.1773,108.909,28.2173",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "谢沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732513
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890515311,
+      1108732513
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1550462
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1550462
     },
-    "wof:country":"CN",
-    "wof:geomhash":"846020d6dccc23c831666b94c9f918c3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732513,
-            "empire_id":136253041,
-            "locality_id":1310576655,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "846020d6dccc23c831666b94c9f918c3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732513,
+        "empire_id": 136253041,
+        "locality_id": 1310576655,
+        "region_id": 85669721,
+        "localadmin_id": 890515311
+      }
     ],
-    "wof:id":1310576655,
-    "wof:lastmodified":1566690619,
-    "wof:name":"Xiegou",
-    "wof:parent_id":1108732513,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310576655,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Xiegou",
+    "wof:parent_id": 890515311,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.889,
     28.1973,
     108.889,
     28.1973
-],
-  "geometry": {"coordinates":[108.889,28.1973],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.889,
+      28.1973
+    ],
+    "type": "Point"
+  }
 }

@@ -2,74 +2,82 @@
   "id": 1293137877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.75258,19.92518,109.75258,19.92518",
-    "geom:latitude":19.92518,
-    "geom:longitude":109.75258,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Wenshuang",
-    "gn:country_code":"CN",
-    "gn:dem":48,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1915024,
-    "gn:latitude":19.92518,
-    "gn:longitude":109.75258,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Wenshuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.73258,19.90518,109.77258,19.94518",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6587\u53cc",
-        "Wenjie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.75258,19.92518,109.75258,19.92518",
+    "geom:latitude": 19.92518,
+    "geom:longitude": 109.75258,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Wenshuang",
+    "gn:country_code": "CN",
+    "gn:dem": 48,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1915024,
+    "gn:latitude": 19.92518,
+    "gn:longitude": 109.75258,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Wenshuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.73258,19.90518,109.77258,19.94518",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "文双",
+      "Wenjie"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732341
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516733,
+      1108732341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1915024
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1915024
     },
-    "wof:country":"CN",
-    "wof:geomhash":"47b5c01f672ab62a43f8b9849dd29c01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732341,
-            "locality_id":1293137877,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "47b5c01f672ab62a43f8b9849dd29c01",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732341,
+        "locality_id": 1293137877,
+        "region_id": 85669759,
+        "localadmin_id": 890516733
+      }
     ],
-    "wof:id":1293137877,
-    "wof:lastmodified":1566668483,
-    "wof:name":"Wenshuang",
-    "wof:parent_id":1108732341,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293137877,
+    "wof:lastmodified": 1768671261,
+    "wof:name": "Wenshuang",
+    "wof:parent_id": 890516733,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.75258,
     19.92518,
     109.75258,
     19.92518
-],
-  "geometry": {"coordinates":[109.75257999999999,19.92518],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.75258,
+      19.92518
+    ],
+    "type": "Point"
+  }
 }

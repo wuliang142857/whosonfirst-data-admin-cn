@@ -2,75 +2,83 @@
   "id": 1309961107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.682,37.4925,120.682,37.4925",
-    "geom:latitude":37.4925,
-    "geom:longitude":120.682,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Zaolin",
-    "gn:country_code":"CN",
-    "gn:dem":125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9498232,
-    "gn:latitude":37.4925,
-    "gn:longitude":120.682,
-    "gn:modification_date":"2014-09-07",
-    "gn:name":"Zaolin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.662,37.4725,120.702,37.5125",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u67a3\u6797"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.682,37.4925,120.682,37.4925",
+    "geom:latitude": 37.4925,
+    "geom:longitude": 120.682,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Zaolin",
+    "gn:country_code": "CN",
+    "gn:dem": 125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9498232,
+    "gn:latitude": 37.4925,
+    "gn:longitude": 120.682,
+    "gn:modification_date": "2014-09-07",
+    "gn:name": "Zaolin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.662,37.4725,120.702,37.5125",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "枣林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890515663,
+      890516301
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9498232
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9498232
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c52716f7cb1a4a6f9af6aae61955ff98",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1309961107,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c52716f7cb1a4a6f9af6aae61955ff98",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1309961107,
+        "region_id": 85669813,
+        "localadmin_id": 890515663
+      }
     ],
-    "wof:id":1309961107,
-    "wof:lastmodified":1566692376,
-    "wof:name":"Zaolin",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309961107,
+    "wof:lastmodified": 1768668014,
+    "wof:name": "Zaolin",
+    "wof:parent_id": 890515663,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.682,
     37.4925,
     120.682,
     37.4925
-],
-  "geometry": {"coordinates":[120.682,37.4925],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.682,
+      37.4925
+    ],
+    "type": "Point"
+  }
 }

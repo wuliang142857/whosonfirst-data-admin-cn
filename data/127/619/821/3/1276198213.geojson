@@ -2,75 +2,83 @@
   "id": 1276198213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.367,23.3315,108.367,23.3315",
-    "geom:latitude":23.3315,
-    "geom:longitude":108.367,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Liyin",
-    "gn:country_code":"CN",
-    "gn:dem":166,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9930219,
-    "gn:latitude":23.3315,
-    "gn:longitude":108.367,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Liyin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.347,23.3115,108.387,23.3515",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u9634"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.367,23.3315,108.367,23.3315",
+    "geom:latitude": 23.3315,
+    "geom:longitude": 108.367,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Liyin",
+    "gn:country_code": "CN",
+    "gn:dem": 166,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9930219,
+    "gn:latitude": 23.3315,
+    "gn:longitude": 108.367,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Liyin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.347,23.3115,108.387,23.3515",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李阴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450110
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9930219
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9930219
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c18057cf5bab31a040b5eeea3fb972c4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1276198213,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c18057cf5bab31a040b5eeea3fb972c4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1276198213,
+        "region_id": 85669717,
+        "localadmin_id": 1127450110
+      }
     ],
-    "wof:id":1276198213,
-    "wof:lastmodified":1566673148,
-    "wof:name":"Liyin",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276198213,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Liyin",
+    "wof:parent_id": 1127450110,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.367,
     23.3315,
     108.367,
     23.3315
-],
-  "geometry": {"coordinates":[108.367,23.3315],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.367,
+      23.3315
+    ],
+    "type": "Point"
+  }
 }

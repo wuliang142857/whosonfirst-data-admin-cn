@@ -2,75 +2,83 @@
   "id": 1293854055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.236,35.5586,107.236,35.5586",
-    "geom:latitude":35.5586,
-    "geom:longitude":107.236,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Guogou",
-    "gn:country_code":"CN",
-    "gn:dem":1185,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10738965,
-    "gn:latitude":35.5586,
-    "gn:longitude":107.236,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Guogou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.216,35.5386,107.256,35.5786",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90ed\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.236,35.5586,107.236,35.5586",
+    "geom:latitude": 35.5586,
+    "geom:longitude": 107.236,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Guogou",
+    "gn:country_code": "CN",
+    "gn:dem": 1185,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10738965,
+    "gn:latitude": 35.5586,
+    "gn:longitude": 107.236,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Guogou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.216,35.5386,107.256,35.5786",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "郭沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621027
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10738965
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10738965
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7f9295ecde99c8cd3a163e3d657f17ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1293854055,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7f9295ecde99c8cd3a163e3d657f17ac",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1293854055,
+        "region_id": 85669711,
+        "localadmin_id": 1127621027
+      }
     ],
-    "wof:id":1293854055,
-    "wof:lastmodified":1566668074,
-    "wof:name":"Guogou",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293854055,
+    "wof:lastmodified": 1768666481,
+    "wof:name": "Guogou",
+    "wof:parent_id": 1127621027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.236,
     35.5586,
     107.236,
     35.5586
-],
-  "geometry": {"coordinates":[107.236,35.5586],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.236,
+      35.5586
+    ],
+    "type": "Point"
+  }
 }

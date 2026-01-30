@@ -2,75 +2,83 @@
   "id": 1326475977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.305,29.8352,104.305,29.8352",
-    "geom:latitude":29.8352,
-    "geom:longitude":104.305,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shaojiawan",
-    "gn:country_code":"CN",
-    "gn:dem":400,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10187174,
-    "gn:latitude":29.8352,
-    "gn:longitude":104.305,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shaojiawan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.285,29.8152,104.325,29.8552",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90b5\u5bb6\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.305,29.8352,104.305,29.8352",
+    "geom:latitude": 29.8352,
+    "geom:longitude": 104.305,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shaojiawan",
+    "gn:country_code": "CN",
+    "gn:dem": 400,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10187174,
+    "gn:latitude": 29.8352,
+    "gn:longitude": 104.305,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shaojiawan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.285,29.8152,104.325,29.8552",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "邵家湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890515003
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514121,
+      890515003
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10187174
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10187174
     },
-    "wof:country":"CN",
-    "wof:geomhash":"535645bd8942e7c490e585abeac7ff4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515003,
-            "empire_id":136253041,
-            "locality_id":1326475977,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "535645bd8942e7c490e585abeac7ff4f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515003,
+        "empire_id": 136253041,
+        "locality_id": 1326475977,
+        "region_id": 85669787,
+        "localadmin_id": 890514121
+      }
     ],
-    "wof:id":1326475977,
-    "wof:lastmodified":1566652037,
-    "wof:name":"Shaojiawan",
-    "wof:parent_id":890515003,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326475977,
+    "wof:lastmodified": 1768668729,
+    "wof:name": "Shaojiawan",
+    "wof:parent_id": 890514121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.305,
     29.8352,
     104.305,
     29.8352
-],
-  "geometry": {"coordinates":[104.30500000000001,29.8352],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.305,
+      29.8352
+    ],
+    "type": "Point"
+  }
 }

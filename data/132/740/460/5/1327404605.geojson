@@ -2,83 +2,91 @@
   "id": 1327404605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"90.101,29.201,90.101,29.201",
-    "geom:latitude":29.201,
-    "geom:longitude":90.101,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Qanggoinba",
-    "gn:country_code":"CN",
-    "gn:dem":4657,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8048368,
-    "gn:latitude":29.201,
-    "gn:longitude":90.101,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Qanggoinba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"90.081,29.181,90.121,29.221",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Qanggoinba"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "90.101,29.201,90.101,29.201",
+    "geom:latitude": 29.201,
+    "geom:longitude": 90.101,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Qanggoinba",
+    "gn:country_code": "CN",
+    "gn:dem": 4657,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8048368,
+    "gn:latitude": 29.201,
+    "gn:longitude": 90.101,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Qanggoinba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "90.081,29.181,90.121,29.221",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Qanggoinba"
     ],
-    "name:zho_x_preferred":[
-        "Qianggongba"
+    "name:zho_x_preferred": [
+      "Qianggongba"
     ],
-    "name:zho_x_variant":[
-        "\u5f3a\u8d21\u5df4",
-        "Yade Qu",
-        "\u4e9a\u5fb7\u533a"
+    "name:zho_x_variant": [
+      "强贡巴",
+      "Yade Qu",
+      "亚德区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890516395,
+      1127540229
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8048368
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8048368
     },
-    "wof:country":"CN",
-    "wof:geomhash":"08f741a0fbc5d9d34322c9a25777b95c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1327404605,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "08f741a0fbc5d9d34322c9a25777b95c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1327404605,
+        "region_id": 85669747,
+        "localadmin_id": 1127540229
+      }
     ],
-    "wof:id":1327404605,
-    "wof:lastmodified":1566650328,
-    "wof:name":"Qanggoinba",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327404605,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Qanggoinba",
+    "wof:parent_id": 1127540229,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     90.101,
     29.201,
     90.101,
     29.201
-],
-  "geometry": {"coordinates":[90.101,29.201],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      90.101,
+      29.201
+    ],
+    "type": "Point"
+  }
 }

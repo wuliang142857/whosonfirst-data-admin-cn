@@ -2,80 +2,88 @@
   "id": 1193086073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.71992,32.32313,103.71992,32.32313",
-    "geom:latitude":32.32313,
-    "geom:longitude":103.71992,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhenjiangguan",
-    "gn:country_code":"CN",
-    "gn:dem":2480,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1784641,
-    "gn:latitude":32.32313,
-    "gn:longitude":103.71992,
-    "gn:modification_date":"2009-01-02",
-    "gn:name":"Zhenjiangguan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.69992,32.30313,103.73992,32.34313",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chenkiangkwan",
-        "Chzhen\u2019tszyanguan\u2019",
-        "Chen-chiang-kuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.71992,32.32313,103.71992,32.32313",
+    "geom:latitude": 32.32313,
+    "geom:longitude": 103.71992,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhenjiangguan",
+    "gn:country_code": "CN",
+    "gn:dem": 2480,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1784641,
+    "gn:latitude": 32.32313,
+    "gn:longitude": 103.71992,
+    "gn:modification_date": "2009-01-02",
+    "gn:name": "Zhenjiangguan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.69992,32.30313,103.73992,32.34313",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chenkiangkwan",
+      "Chzhen’tszyanguan’",
+      "Chen-chiang-kuan"
     ],
-    "name:zho_x_preferred":[
-        "\u9547\u6c5f\u5173"
+    "name:zho_x_preferred": [
+      "镇江关"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794065
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516353,
+      1108794065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784641
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784641
     },
-    "wof:country":"CN",
-    "wof:geomhash":"971308869acc8c2d97fc716cb3cd7be8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794065,
-            "empire_id":136253041,
-            "locality_id":1193086073,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "971308869acc8c2d97fc716cb3cd7be8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794065,
+        "empire_id": 136253041,
+        "locality_id": 1193086073,
+        "region_id": 85669787,
+        "localadmin_id": 890516353
+      }
     ],
-    "wof:id":1193086073,
-    "wof:lastmodified":1566684851,
-    "wof:name":"Zhenjiangguan",
-    "wof:parent_id":1108794065,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193086073,
+    "wof:lastmodified": 1768668872,
+    "wof:name": "Zhenjiangguan",
+    "wof:parent_id": 890516353,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.71992,
     32.32313,
     103.71992,
     32.32313
-],
-  "geometry": {"coordinates":[103.71992,32.32313],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.71992,
+      32.32313
+    ],
+    "type": "Point"
+  }
 }

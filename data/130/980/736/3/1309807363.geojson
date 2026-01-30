@@ -2,75 +2,83 @@
   "id": 1309807363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.0957,33.3327,116.0957,33.3327",
-    "geom:latitude":33.3327,
-    "geom:longitude":116.0957,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Jiwangchangcun",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11440499,
-    "gn:latitude":33.3327,
-    "gn:longitude":116.0957,
-    "gn:modification_date":"2017-02-05",
-    "gn:name":"Jiwangchangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.0757,33.3127,116.1157,33.3527",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7eaa\u738b\u573a\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.0957,33.3327,116.0957,33.3327",
+    "geom:latitude": 33.3327,
+    "geom:longitude": 116.0957,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Jiwangchangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11440499,
+    "gn:latitude": 33.3327,
+    "gn:longitude": 116.0957,
+    "gn:modification_date": "2017-02-05",
+    "gn:name": "Jiwangchangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.0757,33.3127,116.1157,33.3527",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "纪王场村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11440499
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11440499
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6c093079d3706244dc2d5a419882929d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1309807363,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6c093079d3706244dc2d5a419882929d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1309807363,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1309807363,
-    "wof:lastmodified":1566693288,
-    "wof:name":"Jiwangchangcun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309807363,
+    "wof:lastmodified": 1768669756,
+    "wof:name": "Jiwangchangcun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.0957,
     33.3327,
     116.0957,
     33.3327
-],
-  "geometry": {"coordinates":[116.09569999999999,33.3327],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.0957,
+      33.3327
+    ],
+    "type": "Point"
+  }
 }

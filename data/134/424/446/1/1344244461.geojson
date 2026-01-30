@@ -2,75 +2,83 @@
   "id": 1344244461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.23208,28.41268,112.23208,28.41268",
-    "geom:latitude":28.41268,
-    "geom:longitude":112.23208,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Nanba",
-    "gn:country_code":"CN",
-    "gn:dem":99,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1927634,
-    "gn:latitude":28.41268,
-    "gn:longitude":112.23208,
-    "gn:modification_date":"2015-06-08",
-    "gn:name":"Nanba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.21208,28.39268,112.25208,28.43268",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u575d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.23208,28.41268,112.23208,28.41268",
+    "geom:latitude": 28.41268,
+    "geom:longitude": 112.23208,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Nanba",
+    "gn:country_code": "CN",
+    "gn:dem": 99,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1927634,
+    "gn:latitude": 28.41268,
+    "gn:longitude": 112.23208,
+    "gn:modification_date": "2015-06-08",
+    "gn:name": "Nanba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.21208,28.39268,112.25208,28.43268",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516477
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516477,
+      1127430903
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1927634
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1927634
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ffc3413e4cc71e5422ab83fbcc9f5c2f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516477,
-            "empire_id":136253041,
-            "locality_id":1344244461,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ffc3413e4cc71e5422ab83fbcc9f5c2f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516477,
+        "empire_id": 136253041,
+        "locality_id": 1344244461,
+        "region_id": 85669781,
+        "localadmin_id": 1127430903
+      }
     ],
-    "wof:id":1344244461,
-    "wof:lastmodified":1566658393,
-    "wof:name":"Nanba",
-    "wof:parent_id":890516477,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344244461,
+    "wof:lastmodified": 1768670585,
+    "wof:name": "Nanba",
+    "wof:parent_id": 1127430903,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.23208,
     28.41268,
     112.23208,
     28.41268
-],
-  "geometry": {"coordinates":[112.23208,28.41268],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.23208,
+      28.41268
+    ],
+    "type": "Point"
+  }
 }

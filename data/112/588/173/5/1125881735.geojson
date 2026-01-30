@@ -2,82 +2,90 @@
   "id": 1125881735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.45139,30.72361,122.45139,30.72361",
-    "geom:latitude":30.72361,
-    "geom:longitude":122.45139,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"122.43139,30.70361,122.47139,30.74361",
-    "lbl:latitude":30.72361,
-    "lbl:longitude":122.45139,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:und_x_variant":[
-        "Sheng-szu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.45139,30.72361,122.45139,30.72361",
+    "geom:latitude": 30.72361,
+    "geom:longitude": 122.45139,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "122.43139,30.70361,122.47139,30.74361",
+    "lbl:latitude": 30.72361,
+    "lbl:longitude": 122.45139,
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant": [
+      "Sheng-szu"
     ],
-    "qs_pg:aaroncc":"CN",
-    "qs_pg:gn_country":"CN",
-    "qs_pg:gn_fcode":"PPLA3",
-    "qs_pg:gn_id":1816119,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"Caiyuan",
-    "qs_pg:photos_9r":0,
-    "qs_pg:photos_sr":0,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":372326,
-    "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513083
+    "qs_pg:aaroncc": "CN",
+    "qs_pg:gn_country": "CN",
+    "qs_pg:gn_fcode": "PPLA3",
+    "qs_pg:gn_id": 1816119,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "Caiyuan",
+    "qs_pg:photos_9r": 0,
+    "qs_pg:photos_sr": 0,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 372326,
+    "qs_pg:qs_pg_placetype": "locality",
+    "src:geom": "qs_pg",
+    "src:lbl_centroid": "qs_pg",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513083,
+      890514305
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1816119,
-        "qs_pg:id":372326
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1816119,
+      "qs_pg:id": 372326
     },
-    "wof:country":"CN",
-    "wof:created":1497294849,
-    "wof:geomhash":"3beaf1d5139068657d4298c3727c0e41",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513083,
-            "empire_id":136253041,
-            "locality_id":1125881735,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:created": 1497294849,
+    "wof:geomhash": "3beaf1d5139068657d4298c3727c0e41",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513083,
+        "empire_id": 136253041,
+        "locality_id": 1125881735,
+        "region_id": 85669835,
+        "localadmin_id": 890514305
+      }
     ],
-    "wof:id":1125881735,
-    "wof:lastmodified":1566693802,
-    "wof:name":"Caiyuan",
-    "wof:parent_id":890513083,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125881735,
+    "wof:lastmodified": 1768669966,
+    "wof:name": "Caiyuan",
+    "wof:parent_id": 890514305,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.45139,
     30.72361,
     122.45139,
     30.72361
-],
-  "geometry": {"coordinates":[122.45139,30.72361],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.45139,
+      30.72361
+    ],
+    "type": "Point"
+  }
 }

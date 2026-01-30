@@ -2,75 +2,83 @@
   "id": 1276529585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.359,23.5864,111.359,23.5864",
-    "geom:latitude":23.5864,
-    "geom:longitude":111.359,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Powei",
-    "gn:country_code":"CN",
-    "gn:dem":34,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9919131,
-    "gn:latitude":23.5864,
-    "gn:longitude":111.359,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Powei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.339,23.5664,111.379,23.6064",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5761\u5c3e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.359,23.5864,111.359,23.5864",
+    "geom:latitude": 23.5864,
+    "geom:longitude": 111.359,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Powei",
+    "gn:country_code": "CN",
+    "gn:dem": 34,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9919131,
+    "gn:latitude": 23.5864,
+    "gn:longitude": 111.359,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Powei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.339,23.5664,111.379,23.6064",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坡尾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9919131
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9919131
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f3e1b3b12e09e5b6c52e47c457217831",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1276529585,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f3e1b3b12e09e5b6c52e47c457217831",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1276529585,
+        "region_id": 85669717,
+        "localadmin_id": 1127450421
+      }
     ],
-    "wof:id":1276529585,
-    "wof:lastmodified":1566677345,
-    "wof:name":"Powei",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276529585,
+    "wof:lastmodified": 1768665955,
+    "wof:name": "Powei",
+    "wof:parent_id": 1127450421,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.359,
     23.5864,
     111.359,
     23.5864
-],
-  "geometry": {"coordinates":[111.35899999999999,23.5864],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.359,
+      23.5864
+    ],
+    "type": "Point"
+  }
 }

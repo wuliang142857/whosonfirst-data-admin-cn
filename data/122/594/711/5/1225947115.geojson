@@ -2,84 +2,92 @@
   "id": 1225947115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.97955,27.51514,119.97955,27.51514",
-    "geom:latitude":27.51514,
-    "geom:longitude":119.97955,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Fengyang",
-    "gn:country_code":"CN",
-    "gn:dem":657,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1918632,
-    "gn:latitude":27.51514,
-    "gn:longitude":119.97955,
-    "gn:modification_date":"2012-08-05",
-    "gn:name":"Fengyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.95955,27.49514,119.99955,27.53514",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pangyang",
-        "Fengyang",
-        "\u51e4\u579f",
-        "Fengyang Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.97955,27.51514,119.97955,27.51514",
+    "geom:latitude": 27.51514,
+    "geom:longitude": 119.97955,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Fengyang",
+    "gn:country_code": "CN",
+    "gn:dem": 657,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1918632,
+    "gn:latitude": 27.51514,
+    "gn:longitude": 119.97955,
+    "gn:modification_date": "2012-08-05",
+    "gn:name": "Fengyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.95955,27.49514,119.99955,27.53514",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pangyang",
+      "Fengyang",
+      "凤垟",
+      "Fengyang Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u65c1\u579f"
+    "name:zho_x_preferred": [
+      "旁垟"
     ],
-    "name:zho_x_variant":[
-        "\u51e4\u579f\u4e61"
+    "name:zho_x_variant": [
+      "凤垟乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1918632
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1918632
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a0a6a8b8e1ca9c97bed6e268c6ba4d11",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1225947115,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a0a6a8b8e1ca9c97bed6e268c6ba4d11",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1225947115,
+        "region_id": 85669835,
+        "localadmin_id": 1127330329
+      }
     ],
-    "wof:id":1225947115,
-    "wof:lastmodified":1566700747,
-    "wof:name":"Fengyang",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225947115,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Fengyang",
+    "wof:parent_id": 1127330329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.97955,
     27.51514,
     119.97955,
     27.51514
-],
-  "geometry": {"coordinates":[119.97955,27.51514],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.97955,
+      27.51514
+    ],
+    "type": "Point"
+  }
 }

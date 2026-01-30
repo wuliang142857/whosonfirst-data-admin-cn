@@ -2,75 +2,83 @@
   "id": 1360159499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.832,43.0946,123.832,43.0946",
-    "geom:latitude":43.0946,
-    "geom:longitude":123.832,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Nijiawazi",
-    "gn:country_code":"CN",
-    "gn:dem":106,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7005470,
-    "gn:latitude":43.0946,
-    "gn:longitude":123.832,
-    "gn:modification_date":"2017-03-05",
-    "gn:name":"Nijiawazi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.812,43.0746,123.852,43.1146",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u502a\u5bb6\u6d3c\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.832,43.0946,123.832,43.0946",
+    "geom:latitude": 43.0946,
+    "geom:longitude": 123.832,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Nijiawazi",
+    "gn:country_code": "CN",
+    "gn:dem": 106,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7005470,
+    "gn:latitude": 43.0946,
+    "gn:longitude": 123.832,
+    "gn:modification_date": "2017-03-05",
+    "gn:name": "Nijiawazi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.812,43.0746,123.852,43.1146",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "倪家洼子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890512563,
+      890514741
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7005470
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7005470
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6a46a0e037e248c2e8cb788ab6d406ff",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1360159499,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6a46a0e037e248c2e8cb788ab6d406ff",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1360159499,
+        "region_id": 85669807,
+        "localadmin_id": 890512563
+      }
     ],
-    "wof:id":1360159499,
-    "wof:lastmodified":1566691211,
-    "wof:name":"Nijiawazi",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360159499,
+    "wof:lastmodified": 1768666118,
+    "wof:name": "Nijiawazi",
+    "wof:parent_id": 890512563,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.832,
     43.0946,
     123.832,
     43.0946
-],
-  "geometry": {"coordinates":[123.83199999999999,43.0946],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.832,
+      43.0946
+    ],
+    "type": "Point"
+  }
 }

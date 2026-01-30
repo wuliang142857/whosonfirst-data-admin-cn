@@ -2,81 +2,89 @@
   "id": 1243459741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.76138,32.87559,119.76138,32.87559",
-    "geom:latitude":32.87559,
-    "geom:longitude":119.76138,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Ganduo",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8539232,
-    "gn:latitude":32.87559,
-    "gn:longitude":119.76138,
-    "gn:modification_date":"2013-06-05",
-    "gn:name":"Ganduo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.74138,32.85559,119.78138,32.89559",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ganduo Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.76138,32.87559,119.76138,32.87559",
+    "geom:latitude": 32.87559,
+    "geom:longitude": 119.76138,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Ganduo",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8539232,
+    "gn:latitude": 32.87559,
+    "gn:longitude": 119.76138,
+    "gn:modification_date": "2013-06-05",
+    "gn:name": "Ganduo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.74138,32.85559,119.78138,32.89559",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ganduo Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u7518\u579b"
+    "name:zho_x_preferred": [
+      "甘垛"
     ],
-    "name:zho_x_variant":[
-        "\u7518\u579b\u9547"
+    "name:zho_x_variant": [
+      "甘垛镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516397
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516397,
+      1125377915
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8539232
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8539232
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9f22d1c777baa00921498cb7cc56acba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516397,
-            "empire_id":136253041,
-            "locality_id":1243459741,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9f22d1c777baa00921498cb7cc56acba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516397,
+        "empire_id": 136253041,
+        "locality_id": 1243459741,
+        "region_id": 85669827,
+        "localadmin_id": 1125377915
+      }
     ],
-    "wof:id":1243459741,
-    "wof:lastmodified":1566697562,
-    "wof:name":"Ganduo",
-    "wof:parent_id":890516397,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243459741,
+    "wof:lastmodified": 1768670914,
+    "wof:name": "Ganduo",
+    "wof:parent_id": 1125377915,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.76138,
     32.87559,
     119.76138,
     32.87559
-],
-  "geometry": {"coordinates":[119.76138,32.87559],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.76138,
+      32.87559
+    ],
+    "type": "Point"
+  }
 }

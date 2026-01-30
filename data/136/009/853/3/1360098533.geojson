@@ -2,81 +2,89 @@
   "id": 1360098533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.96667,33.03333,116.96667,33.03333",
-    "geom:latitude":33.03333,
-    "geom:longitude":116.96667,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Heliuji",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":25,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1808537,
-    "gn:latitude":33.03333,
-    "gn:longitude":116.96667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Heliuji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.94667,33.01333,116.98667,33.05333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Khelyu",
-        "Liu-ho",
-        "Ho-liu-chi",
-        "Ho-liu-chen",
-        "Ho-liu",
-        "Heliuji"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.96667,33.03333,116.96667,33.03333",
+    "geom:latitude": 33.03333,
+    "geom:longitude": 116.96667,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Heliuji",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 25,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1808537,
+    "gn:latitude": 33.03333,
+    "gn:longitude": 116.96667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Heliuji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.94667,33.01333,116.98667,33.05333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Khelyu",
+      "Liu-ho",
+      "Ho-liu-chi",
+      "Ho-liu-chen",
+      "Ho-liu",
+      "Heliuji"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515831
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515831,
+      1127340321
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1808537
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1808537
     },
-    "wof:country":"CN",
-    "wof:geomhash":"66d6fb7e38cb332f1b8706816dc7ff18",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515831,
-            "empire_id":136253041,
-            "locality_id":1360098533,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "66d6fb7e38cb332f1b8706816dc7ff18",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515831,
+        "empire_id": 136253041,
+        "locality_id": 1360098533,
+        "region_id": 85669739,
+        "localadmin_id": 1127340321
+      }
     ],
-    "wof:id":1360098533,
-    "wof:lastmodified":1566691530,
-    "wof:name":"Heliuji",
-    "wof:parent_id":890515831,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360098533,
+    "wof:lastmodified": 1768669792,
+    "wof:name": "Heliuji",
+    "wof:parent_id": 1127340321,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.96667,
     33.03333,
     116.96667,
     33.03333
-],
-  "geometry": {"coordinates":[116.96666999999999,33.03333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.96667,
+      33.03333
+    ],
+    "type": "Point"
+  }
 }

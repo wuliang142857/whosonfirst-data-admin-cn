@@ -2,80 +2,88 @@
   "id": 1310118097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.11207,28.21412,121.11207,28.21412",
-    "geom:latitude":28.21412,
-    "geom:longitude":121.11207,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Houtangcun",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1892662,
-    "gn:latitude":28.21412,
-    "gn:longitude":121.11207,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Houtangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.09207,28.19412,121.13207,28.23412",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hou-t\u2019ang-ts\u2019un",
-        "Houtang",
-        "Houtangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.11207,28.21412,121.11207,28.21412",
+    "geom:latitude": 28.21412,
+    "geom:longitude": 121.11207,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Houtangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1892662,
+    "gn:latitude": 28.21412,
+    "gn:longitude": 121.11207,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Houtangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.09207,28.19412,121.13207,28.23412",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hou-t’ang-ts’un",
+      "Houtang",
+      "Houtangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u540e\u5858\u6751"
+    "name:zho_x_preferred": [
+      "后塘村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890511847,
+      890514289
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1892662
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1892662
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aa2129ffbe58e095ce39d09d942dad64",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1310118097,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aa2129ffbe58e095ce39d09d942dad64",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1310118097,
+        "region_id": 85669835,
+        "localadmin_id": 890511847
+      }
     ],
-    "wof:id":1310118097,
-    "wof:lastmodified":1566689867,
-    "wof:name":"Houtangcun",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310118097,
+    "wof:lastmodified": 1768669612,
+    "wof:name": "Houtangcun",
+    "wof:parent_id": 890511847,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.11207,
     28.21412,
     121.11207,
     28.21412
-],
-  "geometry": {"coordinates":[121.11207,28.21412],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.11207,
+      28.21412
+    ],
+    "type": "Point"
+  }
 }

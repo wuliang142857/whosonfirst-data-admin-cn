@@ -2,74 +2,82 @@
   "id": 1243589353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.27222,19.05252,109.27222,19.05252",
-    "geom:latitude":19.05252,
-    "geom:longitude":109.27222,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Pogao",
-    "gn:country_code":"CN",
-    "gn:dem":594,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1881707,
-    "gn:latitude":19.05252,
-    "gn:longitude":109.27222,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Pogao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.25222,19.03252,109.29222,19.07252",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5761\u544a",
-        "Fan-mang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.27222,19.05252,109.27222,19.05252",
+    "geom:latitude": 19.05252,
+    "geom:longitude": 109.27222,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Pogao",
+    "gn:country_code": "CN",
+    "gn:dem": 594,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1881707,
+    "gn:latitude": 19.05252,
+    "gn:longitude": 109.27222,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Pogao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.25222,19.03252,109.29222,19.07252",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "坡告",
+      "Fan-mang"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732435
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      1108732435,
+      1125309637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1881707
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1881707
     },
-    "wof:country":"CN",
-    "wof:geomhash":"af079b44a08a0e70fcf1b9b17a8a6434",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732435,
-            "locality_id":1243589353,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "af079b44a08a0e70fcf1b9b17a8a6434",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732435,
+        "locality_id": 1243589353,
+        "region_id": 85669759,
+        "localadmin_id": 1125309637
+      }
     ],
-    "wof:id":1243589353,
-    "wof:lastmodified":1566696252,
-    "wof:name":"Pogao",
-    "wof:parent_id":1108732435,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243589353,
+    "wof:lastmodified": 1768671257,
+    "wof:name": "Pogao",
+    "wof:parent_id": 1125309637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.27222,
     19.05252,
     109.27222,
     19.05252
-],
-  "geometry": {"coordinates":[109.27222,19.05252],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.27222,
+      19.05252
+    ],
+    "type": "Point"
+  }
 }

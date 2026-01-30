@@ -2,75 +2,83 @@
   "id": 1309694005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.856,23.8185,108.856,23.8185",
-    "geom:latitude":23.8185,
-    "geom:longitude":108.856,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Gufan",
-    "gn:country_code":"CN",
-    "gn:dem":117,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9934182,
-    "gn:latitude":23.8185,
-    "gn:longitude":108.856,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Gufan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.836,23.7985,108.876,23.8385",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53e4\u70e6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.856,23.8185,108.856,23.8185",
+    "geom:latitude": 23.8185,
+    "geom:longitude": 108.856,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Gufan",
+    "gn:country_code": "CN",
+    "gn:dem": 117,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9934182,
+    "gn:latitude": 23.8185,
+    "gn:longitude": 108.856,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Gufan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.836,23.7985,108.876,23.8385",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "古烦"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732439
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732439,
+      1127451302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9934182
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9934182
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b3bc7a478936fa4bb087a82c35284575",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732439,
-            "empire_id":136253041,
-            "locality_id":1309694005,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b3bc7a478936fa4bb087a82c35284575",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732439,
+        "empire_id": 136253041,
+        "locality_id": 1309694005,
+        "region_id": 85669717,
+        "localadmin_id": 1127451302
+      }
     ],
-    "wof:id":1309694005,
-    "wof:lastmodified":1566693165,
-    "wof:name":"Gufan",
-    "wof:parent_id":1108732439,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309694005,
+    "wof:lastmodified": 1768665492,
+    "wof:name": "Gufan",
+    "wof:parent_id": 1127451302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.856,
     23.8185,
     108.856,
     23.8185
-],
-  "geometry": {"coordinates":[108.85599999999999,23.8185],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.856,
+      23.8185
+    ],
+    "type": "Point"
+  }
 }

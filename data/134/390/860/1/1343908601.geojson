@@ -2,75 +2,83 @@
   "id": 1343908601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.173,27.683,104.173,27.683",
-    "geom:latitude":27.683,
-    "geom:longitude":104.173,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Shangsanguanzhai",
-    "gn:country_code":"CN",
-    "gn:dem":1769,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10143916,
-    "gn:latitude":27.683,
-    "gn:longitude":104.173,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shangsanguanzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.153,27.663,104.193,27.703",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u4e09\u5b98\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.173,27.683,104.173,27.683",
+    "geom:latitude": 27.683,
+    "geom:longitude": 104.173,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Shangsanguanzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 1769,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10143916,
+    "gn:latitude": 27.683,
+    "gn:longitude": 104.173,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shangsanguanzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.153,27.663,104.193,27.703",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上三官寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513863,
+      890514257
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10143916
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10143916
     },
-    "wof:country":"CN",
-    "wof:geomhash":"406286aa4ad7e0e2202f6e0513600b01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1343908601,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "406286aa4ad7e0e2202f6e0513600b01",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1343908601,
+        "region_id": 85669791,
+        "localadmin_id": 890513863
+      }
     ],
-    "wof:id":1343908601,
-    "wof:lastmodified":1566657653,
-    "wof:name":"Shangsanguanzhai",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343908601,
+    "wof:lastmodified": 1768668497,
+    "wof:name": "Shangsanguanzhai",
+    "wof:parent_id": 890513863,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.173,
     27.683,
     104.173,
     27.683
-],
-  "geometry": {"coordinates":[104.173,27.683],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.173,
+      27.683
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1344112213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.515,36.9486,117.515,36.9486",
-    "geom:latitude":36.9486,
-    "geom:longitude":117.515,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Liukou",
-    "gn:country_code":"CN",
-    "gn:dem":22,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9126909,
-    "gn:latitude":36.9486,
-    "gn:longitude":117.515,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Liukou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.495,36.9286,117.535,36.9686",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u67f3\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.515,36.9486,117.515,36.9486",
+    "geom:latitude": 36.9486,
+    "geom:longitude": 117.515,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Liukou",
+    "gn:country_code": "CN",
+    "gn:dem": 22,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9126909,
+    "gn:latitude": 36.9486,
+    "gn:longitude": 117.515,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Liukou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.495,36.9286,117.535,36.9686",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "柳口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516325
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512813,
+      890516325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9126909
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9126909
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e8aaa5a00b5b487e1f0747a9093e3dfe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516325,
-            "empire_id":136253041,
-            "locality_id":1344112213,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e8aaa5a00b5b487e1f0747a9093e3dfe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516325,
+        "empire_id": 136253041,
+        "locality_id": 1344112213,
+        "region_id": 85669813,
+        "localadmin_id": 890512813
+      }
     ],
-    "wof:id":1344112213,
-    "wof:lastmodified":1566662725,
-    "wof:name":"Liukou",
-    "wof:parent_id":890516325,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344112213,
+    "wof:lastmodified": 1768668739,
+    "wof:name": "Liukou",
+    "wof:parent_id": 890512813,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.515,
     36.9486,
     117.515,
     36.9486
-],
-  "geometry": {"coordinates":[117.515,36.9486],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.515,
+      36.9486
+    ],
+    "type": "Point"
+  }
 }

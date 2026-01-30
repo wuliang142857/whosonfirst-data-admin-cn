@@ -2,83 +2,91 @@
   "id": 1293074555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"92.701,28.201,92.701,28.201",
-    "geom:latitude":28.201,
-    "geom:longitude":92.701,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Qaloin",
-    "gn:country_code":"CN",
-    "gn:dem":5689,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8026526,
-    "gn:latitude":28.201,
-    "gn:longitude":92.701,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Qaloin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"92.681,28.181,92.721,28.221",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Qaloin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "92.701,28.201,92.701,28.201",
+    "geom:latitude": 28.201,
+    "geom:longitude": 92.701,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Qaloin",
+    "gn:country_code": "CN",
+    "gn:dem": 5689,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8026526,
+    "gn:latitude": 28.201,
+    "gn:longitude": 92.701,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Qaloin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "92.681,28.181,92.721,28.221",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Qaloin"
     ],
-    "name:zho_x_preferred":[
-        "Jialun"
+    "name:zho_x_preferred": [
+      "Jialun"
     ],
-    "name:zho_x_variant":[
-        "\u52a0\u4f26",
-        "Daka",
-        "\u8fbe\u5361"
+    "name:zho_x_variant": [
+      "加伦",
+      "Daka",
+      "达卡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        1108794057
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890516849,
+      1108794057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8026526
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8026526
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a2615f1fad9c1630830a09fefc0b9f50",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794057,
-            "empire_id":136253041,
-            "locality_id":1293074555,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a2615f1fad9c1630830a09fefc0b9f50",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794057,
+        "empire_id": 136253041,
+        "locality_id": 1293074555,
+        "region_id": 85669747,
+        "localadmin_id": 890516849
+      }
     ],
-    "wof:id":1293074555,
-    "wof:lastmodified":1566665141,
-    "wof:name":"Qaloin",
-    "wof:parent_id":1108794057,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293074555,
+    "wof:lastmodified": 1768666543,
+    "wof:name": "Qaloin",
+    "wof:parent_id": 890516849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     92.701,
     28.201,
     92.701,
     28.201
-],
-  "geometry": {"coordinates":[92.70099999999999,28.201],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      92.701,
+      28.201
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1242874037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.96448,34.42871,117.96448,34.42871",
-    "geom:latitude":34.42871,
-    "geom:longitude":117.96448,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Lianyuancun",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11530013,
-    "gn:latitude":34.42871,
-    "gn:longitude":117.96448,
-    "gn:modification_date":"2017-05-09",
-    "gn:name":"Lianyuancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.94448,34.40871,117.98448,34.44871",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8fde\u6e0a\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.96448,34.42871,117.96448,34.42871",
+    "geom:latitude": 34.42871,
+    "geom:longitude": 117.96448,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Lianyuancun",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11530013,
+    "gn:latitude": 34.42871,
+    "gn:longitude": 117.96448,
+    "gn:modification_date": "2017-05-09",
+    "gn:name": "Lianyuancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.94448,34.40871,117.98448,34.44871",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "连渊村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890512647,
+      890516333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11530013
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11530013
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bd61d0cfcadff2c564294476778c39f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1242874037,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bd61d0cfcadff2c564294476778c39f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1242874037,
+        "region_id": 85669827,
+        "localadmin_id": 890512647
+      }
     ],
-    "wof:id":1242874037,
-    "wof:lastmodified":1566694500,
-    "wof:name":"Lianyuancun",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242874037,
+    "wof:lastmodified": 1768670915,
+    "wof:name": "Lianyuancun",
+    "wof:parent_id": 890512647,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.96448,
     34.42871,
     117.96448,
     34.42871
-],
-  "geometry": {"coordinates":[117.96447999999999,34.42871],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.96448,
+      34.42871
+    ],
+    "type": "Point"
+  }
 }

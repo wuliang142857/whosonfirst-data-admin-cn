@@ -2,75 +2,83 @@
   "id": 1293579827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.95148,47.5651,124.95148,47.5651",
-    "geom:latitude":47.5651,
-    "geom:longitude":124.95148,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Shaowen",
-    "gn:country_code":"CN",
-    "gn:dem":163,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8542016,
-    "gn:latitude":47.5651,
-    "gn:longitude":124.95148,
-    "gn:modification_date":"2013-06-06",
-    "gn:name":"Shaowen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.93148,47.5451,124.97148,47.5851",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7ecd\u6587"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.95148,47.5651,124.95148,47.5651",
+    "geom:latitude": 47.5651,
+    "geom:longitude": 124.95148,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Shaowen",
+    "gn:country_code": "CN",
+    "gn:dem": 163,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8542016,
+    "gn:latitude": 47.5651,
+    "gn:longitude": 124.95148,
+    "gn:modification_date": "2013-06-06",
+    "gn:name": "Shaowen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.93148,47.5451,124.97148,47.5851",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "绍文"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890512583,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8542016
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8542016
     },
-    "wof:country":"CN",
-    "wof:geomhash":"63455319e5ec8b760c1cba3a1779959a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1293579827,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "63455319e5ec8b760c1cba3a1779959a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1293579827,
+        "region_id": 85669849,
+        "localadmin_id": 890512583
+      }
     ],
-    "wof:id":1293579827,
-    "wof:lastmodified":1566669017,
-    "wof:name":"Shaowen",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293579827,
+    "wof:lastmodified": 1768669391,
+    "wof:name": "Shaowen",
+    "wof:parent_id": 890512583,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.95148,
     47.5651,
     124.95148,
     47.5651
-],
-  "geometry": {"coordinates":[124.95148,47.5651],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.95148,
+      47.5651
+    ],
+    "type": "Point"
+  }
 }

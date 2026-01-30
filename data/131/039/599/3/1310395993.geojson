@@ -2,81 +2,89 @@
   "id": 1310395993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.02531,47.10904,127.02531,47.10904",
-    "geom:latitude":47.10904,
-    "geom:longitude":127.02531,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Sanjing",
-    "gn:country_code":"CN",
-    "gn:dem":188,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8512155,
-    "gn:latitude":47.10904,
-    "gn:longitude":127.02531,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Sanjing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"127.00531,47.08904,127.04531,47.12904",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sanjing Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "127.02531,47.10904,127.02531,47.10904",
+    "geom:latitude": 47.10904,
+    "geom:longitude": 127.02531,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Sanjing",
+    "gn:country_code": "CN",
+    "gn:dem": 188,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8512155,
+    "gn:latitude": 47.10904,
+    "gn:longitude": 127.02531,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Sanjing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "127.00531,47.08904,127.04531,47.12904",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sanjing Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u4e95"
+    "name:zho_x_preferred": [
+      "三井"
     ],
-    "name:zho_x_variant":[
-        "\u4e09\u4e95\u4e61"
+    "name:zho_x_variant": [
+      "三井乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8512155
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8512155
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cf3f2d5f6c94bb7bf408eb6478bc5133",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1310395993,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cf3f2d5f6c94bb7bf408eb6478bc5133",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1310395993,
+        "region_id": 85669849,
+        "localadmin_id": 1127231202
+      }
     ],
-    "wof:id":1310395993,
-    "wof:lastmodified":1566689495,
-    "wof:name":"Sanjing",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310395993,
+    "wof:lastmodified": 1768668894,
+    "wof:name": "Sanjing",
+    "wof:parent_id": 1127231202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     127.02531,
     47.10904,
     127.02531,
     47.10904
-],
-  "geometry": {"coordinates":[127.02531,47.10904],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      127.02531,
+      47.10904
+    ],
+    "type": "Point"
+  }
 }

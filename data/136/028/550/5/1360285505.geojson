@@ -2,75 +2,83 @@
   "id": 1360285505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.236,33.5787,120.236,33.5787",
-    "geom:latitude":33.5787,
-    "geom:longitude":120.236,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Wogang",
-    "gn:country_code":"CN",
-    "gn:dem":0,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11119814,
-    "gn:latitude":33.5787,
-    "gn:longitude":120.236,
-    "gn:modification_date":"2016-04-12",
-    "gn:name":"Wogang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.216,33.5587,120.256,33.5987",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c83\u6e2f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.236,33.5787,120.236,33.5787",
+    "geom:latitude": 33.5787,
+    "geom:longitude": 120.236,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Wogang",
+    "gn:country_code": "CN",
+    "gn:dem": 0,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11119814,
+    "gn:latitude": 33.5787,
+    "gn:longitude": 120.236,
+    "gn:modification_date": "2016-04-12",
+    "gn:name": "Wogang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.216,33.5587,120.256,33.5987",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沃港"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11119814
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11119814
     },
-    "wof:country":"CN",
-    "wof:geomhash":"73353a351d71f3f35df042ed04bbc4b6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1360285505,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "73353a351d71f3f35df042ed04bbc4b6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1360285505,
+        "region_id": 85669827,
+        "localadmin_id": 1127320924
+      }
     ],
-    "wof:id":1360285505,
-    "wof:lastmodified":1566691908,
-    "wof:name":"Wogang",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360285505,
+    "wof:lastmodified": 1768670806,
+    "wof:name": "Wogang",
+    "wof:parent_id": 1127320924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.236,
     33.5787,
     120.236,
     33.5787
-],
-  "geometry": {"coordinates":[120.236,33.5787],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.236,
+      33.5787
+    ],
+    "type": "Point"
+  }
 }

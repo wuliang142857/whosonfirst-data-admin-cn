@@ -2,79 +2,87 @@
   "id": 1344055073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.72907,42.82603,127.72907,42.82603",
-    "geom:latitude":42.82603,
-    "geom:longitude":127.72907,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Dongjingou",
-    "gn:country_code":"CN",
-    "gn:dem":590,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2046549,
-    "gn:latitude":42.82603,
-    "gn:longitude":127.72907,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Dongjingou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"127.70907,42.80603,127.74907,42.84603",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chin-yin-pieh",
-        "Jinyinbie",
-        "Dongjingou",
-        "\u4e1c\u91d1\u6c9f",
-        "\u91d1\u94f6\u522b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "127.72907,42.82603,127.72907,42.82603",
+    "geom:latitude": 42.82603,
+    "geom:longitude": 127.72907,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Dongjingou",
+    "gn:country_code": "CN",
+    "gn:dem": 590,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2046549,
+    "gn:latitude": 42.82603,
+    "gn:longitude": 127.72907,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Dongjingou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "127.70907,42.80603,127.74907,42.84603",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chin-yin-pieh",
+      "Jinyinbie",
+      "Dongjingou",
+      "东金沟",
+      "金银别"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890516735,
+      1127220282
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2046549
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2046549
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6dd18bef7208270d921f40ea6c05c415",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516735,
-            "empire_id":136253041,
-            "locality_id":1344055073,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6dd18bef7208270d921f40ea6c05c415",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516735,
+        "empire_id": 136253041,
+        "locality_id": 1344055073,
+        "region_id": 85669843,
+        "localadmin_id": 1127220282
+      }
     ],
-    "wof:id":1344055073,
-    "wof:lastmodified":1566663059,
-    "wof:name":"Dongjingou",
-    "wof:parent_id":890516735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344055073,
+    "wof:lastmodified": 1768670775,
+    "wof:name": "Dongjingou",
+    "wof:parent_id": 1127220282,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     127.72907,
     42.82603,
     127.72907,
     42.82603
-],
-  "geometry": {"coordinates":[127.72906999999999,42.82603],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      127.72907,
+      42.82603
+    ],
+    "type": "Point"
+  }
 }

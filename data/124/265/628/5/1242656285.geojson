@@ -2,75 +2,83 @@
   "id": 1242656285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.05441,40.99481,116.05441,40.99481",
-    "geom:latitude":40.99481,
-    "geom:longitude":116.05441,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Xiwankou",
-    "gn:country_code":"CN",
-    "gn:dem":844,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10000256,
-    "gn:latitude":40.99481,
-    "gn:longitude":116.05441,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Xiwankou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.03441,40.97481,116.07441,41.01481",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u4e07\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.05441,40.99481,116.05441,40.99481",
+    "geom:latitude": 40.99481,
+    "geom:longitude": 116.05441,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Xiwankou",
+    "gn:country_code": "CN",
+    "gn:dem": 844,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10000256,
+    "gn:latitude": 40.99481,
+    "gn:longitude": 116.05441,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Xiwankou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.03441,40.97481,116.07441,41.01481",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西万口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516481
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516481,
+      1127130732
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10000256
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10000256
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d490731d8ffccf34671658a052c2788f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516481,
-            "empire_id":136253041,
-            "locality_id":1242656285,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d490731d8ffccf34671658a052c2788f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516481,
+        "empire_id": 136253041,
+        "locality_id": 1242656285,
+        "region_id": 85669797,
+        "localadmin_id": 1127130732
+      }
     ],
-    "wof:id":1242656285,
-    "wof:lastmodified":1566697043,
-    "wof:name":"Xiwankou",
-    "wof:parent_id":890516481,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242656285,
+    "wof:lastmodified": 1768669000,
+    "wof:name": "Xiwankou",
+    "wof:parent_id": 1127130732,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.05441,
     40.99481,
     116.05441,
     40.99481
-],
-  "geometry": {"coordinates":[116.05441,40.99481],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.05441,
+      40.99481
+    ],
+    "type": "Point"
+  }
 }

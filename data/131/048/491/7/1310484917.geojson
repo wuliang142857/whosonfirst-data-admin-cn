@@ -2,85 +2,93 @@
   "id": 1310484917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"93.10853,28.71317,93.10853,28.71317",
-    "geom:latitude":28.71317,
-    "geom:longitude":93.10853,
-    "gn:admin1_code":"14",
-    "gn:asciiname":"Qoisam",
-    "gn:country_code":"CN",
-    "gn:dem":4111,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6559405,
-    "gn:latitude":28.71317,
-    "gn:longitude":93.10853,
-    "gn:modification_date":"2007-07-19",
-    "gn:name":"Qoisam",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"93.08853,28.69317,93.12853,28.73317",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "\u0f46\u0f7c\u0f66\u0f0b\u0f5f\u0f58"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "93.10853,28.71317,93.10853,28.71317",
+    "geom:latitude": 28.71317,
+    "geom:longitude": 93.10853,
+    "gn:admin1_code": "14",
+    "gn:asciiname": "Qoisam",
+    "gn:country_code": "CN",
+    "gn:dem": 4111,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6559405,
+    "gn:latitude": 28.71317,
+    "gn:longitude": 93.10853,
+    "gn:modification_date": "2007-07-19",
+    "gn:name": "Qoisam",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "93.08853,28.69317,93.12853,28.73317",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "ཆོས་ཟམ"
     ],
-    "name:und_x_variant":[
-        "Qusang",
-        "Qusong"
+    "name:und_x_variant": [
+      "Qusang",
+      "Qusong"
     ],
-    "name:zho_x_preferred":[
-        "\u66f2\u6851"
+    "name:zho_x_preferred": [
+      "曲桑"
     ],
-    "name:zho_x_variant":[
-        "\u66f2\u677e"
+    "name:zho_x_variant": [
+      "曲松"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        1108794057
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890516849,
+      1108794057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6559405
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6559405
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c535297651e7851b59679c2f1ec7bb0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794057,
-            "empire_id":136253041,
-            "locality_id":1310484917,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c535297651e7851b59679c2f1ec7bb0a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794057,
+        "empire_id": 136253041,
+        "locality_id": 1310484917,
+        "region_id": 85669747,
+        "localadmin_id": 890516849
+      }
     ],
-    "wof:id":1310484917,
-    "wof:lastmodified":1566688270,
-    "wof:name":"Qoisam",
-    "wof:parent_id":1108794057,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310484917,
+    "wof:lastmodified": 1768666542,
+    "wof:name": "Qoisam",
+    "wof:parent_id": 890516849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     93.10853,
     28.71317,
     93.10853,
     28.71317
-],
-  "geometry": {"coordinates":[93.10853,28.71317],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      93.10853,
+      28.71317
+    ],
+    "type": "Point"
+  }
 }

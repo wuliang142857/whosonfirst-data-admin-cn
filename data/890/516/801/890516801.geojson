@@ -2,80 +2,88 @@
   "id": 890516801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.47361,26.61639,110.47361,26.61639",
-    "geom:latitude":26.61639,
-    "geom:longitude":110.47361,
-    "gn:country":"CN",
-    "gn:fcode":"PPL",
-    "gn:population":3060,
-    "iso:country":"CN",
-    "lbl:bbox":"110.45361,26.59639,110.49361,26.63639",
-    "lbl:max_zoom":15.0,
-    "lbl:min_zoom":11.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "name:ceb_x_preferred":[
-        "Xiyan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.47361,26.61639,110.47361,26.61639",
+    "geom:latitude": 26.61639,
+    "geom:longitude": 110.47361,
+    "gn:country": "CN",
+    "gn:fcode": "PPL",
+    "gn:population": 3060,
+    "iso:country": "CN",
+    "lbl:bbox": "110.45361,26.59639,110.49361,26.63639",
+    "lbl:max_zoom": 15.0,
+    "lbl:min_zoom": 11.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 11.0,
+    "name:ceb_x_preferred": [
+      "Xiyan"
     ],
-    "name:swe_x_preferred":[
-        "Xiyan"
+    "name:swe_x_preferred": [
+      "Xiyan"
     ],
-    "name:und_x_variant":[
-        "Hsi-yen-shih"
+    "name:und_x_variant": [
+      "Hsi-yen-shih"
     ],
-    "qs:name":"Xiyan",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"4",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514309
+    "qs:name": "Xiyan",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "4",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514309,
+      1127430529
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1788156,
-        "gp:id":2143035,
-        "qs_pg:id":136316
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1788156,
+      "gp:id": 2143035,
+      "qs_pg:id": 136316
     },
-    "wof:country":"CN",
-    "wof:created":1469055975,
-    "wof:geomhash":"59388b2d4f02447c0f007e7ddcfb0f15",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514309,
-            "empire_id":136253041,
-            "locality_id":890516801,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055975,
+    "wof:geomhash": "59388b2d4f02447c0f007e7ddcfb0f15",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514309,
+        "empire_id": 136253041,
+        "locality_id": 890516801,
+        "region_id": 85669781,
+        "localadmin_id": 1127430529
+      }
     ],
-    "wof:id":890516801,
-    "wof:lastmodified":1566693636,
-    "wof:name":"Xiyan",
-    "wof:parent_id":890514309,
-    "wof:placetype":"locality",
-    "wof:population":3060,
-    "wof:population_rank":4,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516801,
+    "wof:lastmodified": 1768670389,
+    "wof:name": "Xiyan",
+    "wof:parent_id": 1127430529,
+    "wof:placetype": "locality",
+    "wof:population": 3060,
+    "wof:population_rank": 4,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.47361,
     26.61639,
     110.47361,
     26.61639
-],
-  "geometry": {"coordinates":[110.47360999999999,26.61639],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.47361,
+      26.61639
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1259869137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.7723,34.46706,112.7723,34.46706",
-    "geom:latitude":34.46706,
-    "geom:longitude":112.7723,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Yanggou",
-    "gn:country_code":"CN",
-    "gn:dem":565,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10407024,
-    "gn:latitude":34.46706,
-    "gn:longitude":112.7723,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Yanggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.7523,34.44706,112.7923,34.48706",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.7723,34.46706,112.7723,34.46706",
+    "geom:latitude": 34.46706,
+    "geom:longitude": 112.7723,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Yanggou",
+    "gn:country_code": "CN",
+    "gn:dem": 565,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10407024,
+    "gn:latitude": 34.46706,
+    "gn:longitude": 112.7723,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Yanggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.7523,34.44706,112.7923,34.48706",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515627
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890515277,
+      890515627
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10407024
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10407024
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3f15586903b040e3bed8098ef46b8ce9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515627,
-            "empire_id":136253041,
-            "locality_id":1259869137,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3f15586903b040e3bed8098ef46b8ce9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515627,
+        "empire_id": 136253041,
+        "locality_id": 1259869137,
+        "region_id": 85669801,
+        "localadmin_id": 890515277
+      }
     ],
-    "wof:id":1259869137,
-    "wof:lastmodified":1566700667,
-    "wof:name":"Yanggou",
-    "wof:parent_id":890515627,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259869137,
+    "wof:lastmodified": 1768669309,
+    "wof:name": "Yanggou",
+    "wof:parent_id": 890515277,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.7723,
     34.46706,
     112.7723,
     34.46706
-],
-  "geometry": {"coordinates":[112.7723,34.46706],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.7723,
+      34.46706
+    ],
+    "type": "Point"
+  }
 }

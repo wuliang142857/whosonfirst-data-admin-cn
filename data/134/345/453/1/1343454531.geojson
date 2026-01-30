@@ -2,75 +2,83 @@
   "id": 1343454531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.93035,25.04041,116.93035,25.04041",
-    "geom:latitude":25.04041,
-    "geom:longitude":116.93035,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Chikeng",
-    "gn:country_code":"CN",
-    "gn:dem":869,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7640298,
-    "gn:latitude":25.04041,
-    "gn:longitude":116.93035,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Chikeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.91035,25.02041,116.95035,25.06041",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d64\u5751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.93035,25.04041,116.93035,25.04041",
+    "geom:latitude": 25.04041,
+    "geom:longitude": 116.93035,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Chikeng",
+    "gn:country_code": "CN",
+    "gn:dem": 869,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7640298,
+    "gn:latitude": 25.04041,
+    "gn:longitude": 116.93035,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Chikeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.91035,25.02041,116.95035,25.06041",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赤坑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516203
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516203,
+      1127350802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7640298
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7640298
     },
-    "wof:country":"CN",
-    "wof:geomhash":"799f4f2256ed1ee6e8110103c1296bab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516203,
-            "empire_id":136253041,
-            "locality_id":1343454531,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "799f4f2256ed1ee6e8110103c1296bab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516203,
+        "empire_id": 136253041,
+        "locality_id": 1343454531,
+        "region_id": 85669735,
+        "localadmin_id": 1127350802
+      }
     ],
-    "wof:id":1343454531,
-    "wof:lastmodified":1566663682,
-    "wof:name":"Chikeng",
-    "wof:parent_id":890516203,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343454531,
+    "wof:lastmodified": 1768669418,
+    "wof:name": "Chikeng",
+    "wof:parent_id": 1127350802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.93035,
     25.04041,
     116.93035,
     25.04041
-],
-  "geometry": {"coordinates":[116.93035,25.04041],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.93035,
+      25.04041
+    ],
+    "type": "Point"
+  }
 }

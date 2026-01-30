@@ -2,75 +2,83 @@
   "id": 1293267603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.841,25.2528,104.841,25.2528",
-    "geom:latitude":25.2528,
-    "geom:longitude":104.841,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Nixi",
-    "gn:country_code":"CN",
-    "gn:dem":1088,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1551041,
-    "gn:latitude":25.2528,
-    "gn:longitude":104.841,
-    "gn:modification_date":"2015-02-05",
-    "gn:name":"Nixi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.821,25.2328,104.861,25.2728",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6ce5\u6eaa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.841,25.2528,104.841,25.2528",
+    "geom:latitude": 25.2528,
+    "geom:longitude": 104.841,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Nixi",
+    "gn:country_code": "CN",
+    "gn:dem": 1088,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1551041,
+    "gn:latitude": 25.2528,
+    "gn:longitude": 104.841,
+    "gn:modification_date": "2015-02-05",
+    "gn:name": "Nixi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.821,25.2328,104.861,25.2728",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "泥溪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890514281,
+      1108732559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1551041
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1551041
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d95e51cb4deeb7109fc2bc8d0a669ac4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732559,
-            "empire_id":136253041,
-            "locality_id":1293267603,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d95e51cb4deeb7109fc2bc8d0a669ac4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732559,
+        "empire_id": 136253041,
+        "locality_id": 1293267603,
+        "region_id": 85669721,
+        "localadmin_id": 890514281
+      }
     ],
-    "wof:id":1293267603,
-    "wof:lastmodified":1566671734,
-    "wof:name":"Nixi",
-    "wof:parent_id":1108732559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293267603,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Nixi",
+    "wof:parent_id": 890514281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.841,
     25.2528,
     104.841,
     25.2528
-],
-  "geometry": {"coordinates":[104.84099999999999,25.2528],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.841,
+      25.2528
+    ],
+    "type": "Point"
+  }
 }

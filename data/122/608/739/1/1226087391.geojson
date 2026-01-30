@@ -2,75 +2,83 @@
   "id": 1226087391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.851,28.7887,104.851,28.7887",
-    "geom:latitude":28.7887,
-    "geom:longitude":104.851,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Longjin",
-    "gn:country_code":"CN",
-    "gn:dem":353,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10187340,
-    "gn:latitude":28.7887,
-    "gn:longitude":104.851,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Longjin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.831,28.7687,104.871,28.8087",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9f99\u91d1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.851,28.7887,104.851,28.7887",
+    "geom:latitude": 28.7887,
+    "geom:longitude": 104.851,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Longjin",
+    "gn:country_code": "CN",
+    "gn:dem": 353,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10187340,
+    "gn:latitude": 28.7887,
+    "gn:longitude": 104.851,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Longjin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.831,28.7687,104.871,28.8087",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "龙金"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516537,
+      1127511502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10187340
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10187340
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a786e59cac55bca0f48d08ea487c2026",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1226087391,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a786e59cac55bca0f48d08ea487c2026",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1226087391,
+        "region_id": 85669787,
+        "localadmin_id": 1127511502
+      }
     ],
-    "wof:id":1226087391,
-    "wof:lastmodified":1566704990,
-    "wof:name":"Longjin",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226087391,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Longjin",
+    "wof:parent_id": 1127511502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.851,
     28.7887,
     104.851,
     28.7887
-],
-  "geometry": {"coordinates":[104.851,28.7887],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.851,
+      28.7887
+    ],
+    "type": "Point"
+  }
 }

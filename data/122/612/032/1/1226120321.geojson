@@ -2,75 +2,83 @@
   "id": 1226120321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.22655,26.50971,113.22655,26.50971",
-    "geom:latitude":26.50971,
-    "geom:longitude":113.22655,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Chengu",
-    "gn:country_code":"CN",
-    "gn:dem":155,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9798221,
-    "gn:latitude":26.50971,
-    "gn:longitude":113.22655,
-    "gn:modification_date":"2014-11-07",
-    "gn:name":"Chengu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.20655,26.48971,113.24655,26.52971",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u53e4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.22655,26.50971,113.22655,26.50971",
+    "geom:latitude": 26.50971,
+    "geom:longitude": 113.22655,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Chengu",
+    "gn:country_code": "CN",
+    "gn:dem": 155,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9798221,
+    "gn:latitude": 26.50971,
+    "gn:longitude": 113.22655,
+    "gn:modification_date": "2014-11-07",
+    "gn:name": "Chengu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.20655,26.48971,113.24655,26.52971",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈古"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516905
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516905,
+      1127431028
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9798221
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9798221
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4fa74222f58be1838ccc0524d43efe24",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516905,
-            "empire_id":136253041,
-            "locality_id":1226120321,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4fa74222f58be1838ccc0524d43efe24",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516905,
+        "empire_id": 136253041,
+        "locality_id": 1226120321,
+        "region_id": 85669781,
+        "localadmin_id": 1127431028
+      }
     ],
-    "wof:id":1226120321,
-    "wof:lastmodified":1566704431,
-    "wof:name":"Chengu",
-    "wof:parent_id":890516905,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226120321,
+    "wof:lastmodified": 1768670470,
+    "wof:name": "Chengu",
+    "wof:parent_id": 1127431028,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.22655,
     26.50971,
     113.22655,
     26.50971
-],
-  "geometry": {"coordinates":[113.22655,26.50971],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.22655,
+      26.50971
+    ],
+    "type": "Point"
+  }
 }

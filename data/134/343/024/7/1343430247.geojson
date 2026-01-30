@@ -2,75 +2,83 @@
   "id": 1343430247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.61,23.4117,108.61,23.4117",
-    "geom:latitude":23.4117,
-    "geom:longitude":108.61,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tangma",
-    "gn:country_code":"CN",
-    "gn:dem":150,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9929993,
-    "gn:latitude":23.4117,
-    "gn:longitude":108.61,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Tangma",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.59,23.3917,108.63,23.4317",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5858\u9a6c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.61,23.4117,108.61,23.4117",
+    "geom:latitude": 23.4117,
+    "geom:longitude": 108.61,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tangma",
+    "gn:country_code": "CN",
+    "gn:dem": 150,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9929993,
+    "gn:latitude": 23.4117,
+    "gn:longitude": 108.61,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Tangma",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.59,23.3917,108.63,23.4317",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "塘马"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9929993
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9929993
     },
-    "wof:country":"CN",
-    "wof:geomhash":"43df44eab08d1d9f65e5cac525a6236d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1343430247,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "43df44eab08d1d9f65e5cac525a6236d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1343430247,
+        "region_id": 85669717,
+        "localadmin_id": 1127450125
+      }
     ],
-    "wof:id":1343430247,
-    "wof:lastmodified":1566664871,
-    "wof:name":"Tangma",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343430247,
+    "wof:lastmodified": 1768666366,
+    "wof:name": "Tangma",
+    "wof:parent_id": 1127450125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.61,
     23.4117,
     108.61,
     23.4117
-],
-  "geometry": {"coordinates":[108.61,23.4117],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.61,
+      23.4117
+    ],
+    "type": "Point"
+  }
 }

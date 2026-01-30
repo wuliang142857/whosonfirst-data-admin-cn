@@ -2,75 +2,83 @@
   "id": 1226414683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.651,22.9834,110.651,22.9834",
-    "geom:latitude":22.9834,
-    "geom:longitude":110.651,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Zhichongding",
-    "gn:country_code":"CN",
-    "gn:dem":193,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9895587,
-    "gn:latitude":22.9834,
-    "gn:longitude":110.651,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Zhichongding",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.631,22.9634,110.671,23.0034",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u76f4\u51b2\u9876"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.651,22.9834,110.651,22.9834",
+    "geom:latitude": 22.9834,
+    "geom:longitude": 110.651,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Zhichongding",
+    "gn:country_code": "CN",
+    "gn:dem": 193,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9895587,
+    "gn:latitude": 22.9834,
+    "gn:longitude": 110.651,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Zhichongding",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.631,22.9634,110.671,23.0034",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "直冲顶"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9895587
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9895587
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a905d9f05ec751a4659a10061c31e326",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1226414683,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a905d9f05ec751a4659a10061c31e326",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1226414683,
+        "region_id": 85669717,
+        "localadmin_id": 1127450921
+      }
     ],
-    "wof:id":1226414683,
-    "wof:lastmodified":1566704541,
-    "wof:name":"Zhichongding",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226414683,
+    "wof:lastmodified": 1768665518,
+    "wof:name": "Zhichongding",
+    "wof:parent_id": 1127450921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.651,
     22.9834,
     110.651,
     22.9834
-],
-  "geometry": {"coordinates":[110.651,22.9834],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.651,
+      22.9834
+    ],
+    "type": "Point"
+  }
 }

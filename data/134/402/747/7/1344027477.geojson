@@ -2,75 +2,83 @@
   "id": 1344027477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.167,22.9781,107.167,22.9781",
-    "geom:latitude":22.9781,
-    "geom:longitude":107.167,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Zhengtun",
-    "gn:country_code":"CN",
-    "gn:dem":426,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9906493,
-    "gn:latitude":22.9781,
-    "gn:longitude":107.167,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Zhengtun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.147,22.9581,107.187,22.9981",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u653f\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.167,22.9781,107.167,22.9781",
+    "geom:latitude": 22.9781,
+    "geom:longitude": 107.167,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Zhengtun",
+    "gn:country_code": "CN",
+    "gn:dem": 426,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9906493,
+    "gn:latitude": 22.9781,
+    "gn:longitude": 107.167,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Zhengtun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.147,22.9581,107.187,22.9981",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "政屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890513103
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513103,
+      1127451424
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9906493
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9906493
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e790a50a0a4bd31d2bcb4fbf6b77b9c8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513103,
-            "empire_id":136253041,
-            "locality_id":1344027477,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e790a50a0a4bd31d2bcb4fbf6b77b9c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513103,
+        "empire_id": 136253041,
+        "locality_id": 1344027477,
+        "region_id": 85669717,
+        "localadmin_id": 1127451424
+      }
     ],
-    "wof:id":1344027477,
-    "wof:lastmodified":1566663148,
-    "wof:name":"Zhengtun",
-    "wof:parent_id":890513103,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344027477,
+    "wof:lastmodified": 1768665574,
+    "wof:name": "Zhengtun",
+    "wof:parent_id": 1127451424,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.167,
     22.9781,
     107.167,
     22.9781
-],
-  "geometry": {"coordinates":[107.167,22.9781],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.167,
+      22.9781
+    ],
+    "type": "Point"
+  }
 }

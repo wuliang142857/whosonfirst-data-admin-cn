@@ -2,75 +2,83 @@
   "id": 1259658455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.782,40.3462,119.782,40.3462",
-    "geom:latitude":40.3462,
-    "geom:longitude":119.782,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wutun",
-    "gn:country_code":"CN",
-    "gn:dem":214,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7003243,
-    "gn:latitude":40.3462,
-    "gn:longitude":119.782,
-    "gn:modification_date":"2017-04-07",
-    "gn:name":"Wutun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.762,40.3262,119.802,40.3662",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5434\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.782,40.3462,119.782,40.3462",
+    "geom:latitude": 40.3462,
+    "geom:longitude": 119.782,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wutun",
+    "gn:country_code": "CN",
+    "gn:dem": 214,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7003243,
+    "gn:latitude": 40.3462,
+    "gn:longitude": 119.782,
+    "gn:modification_date": "2017-04-07",
+    "gn:name": "Wutun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.762,40.3262,119.802,40.3662",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "吴屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514399,
+      1127211421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7003243
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7003243
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7db2997f3692fdbc6f2ade775a084a5e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514399,
-            "empire_id":136253041,
-            "locality_id":1259658455,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7db2997f3692fdbc6f2ade775a084a5e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514399,
+        "empire_id": 136253041,
+        "locality_id": 1259658455,
+        "region_id": 85669807,
+        "localadmin_id": 1127211421
+      }
     ],
-    "wof:id":1259658455,
-    "wof:lastmodified":1566698177,
-    "wof:name":"Wutun",
-    "wof:parent_id":890514399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259658455,
+    "wof:lastmodified": 1768666814,
+    "wof:name": "Wutun",
+    "wof:parent_id": 1127211421,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.782,
     40.3462,
     119.782,
     40.3462
-],
-  "geometry": {"coordinates":[119.782,40.3462],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.782,
+      40.3462
+    ],
+    "type": "Point"
+  }
 }

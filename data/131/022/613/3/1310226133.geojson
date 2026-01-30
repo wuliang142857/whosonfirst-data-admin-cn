@@ -2,79 +2,87 @@
   "id": 1310226133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.58577,25.93408,119.58577,25.93408",
-    "geom:latitude":25.93408,
-    "geom:longitude":119.58577,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Baimei",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1907371,
-    "gn:latitude":25.93408,
-    "gn:longitude":119.58577,
-    "gn:modification_date":"2013-07-07",
-    "gn:name":"Baimei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.56577,25.91408,119.60577,25.95408",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pai-mei-ts\u2019un",
-        "Baimei"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.58577,25.93408,119.58577,25.93408",
+    "geom:latitude": 25.93408,
+    "geom:longitude": 119.58577,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Baimei",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1907371,
+    "gn:latitude": 25.93408,
+    "gn:longitude": 119.58577,
+    "gn:modification_date": "2013-07-07",
+    "gn:name": "Baimei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.56577,25.91408,119.60577,25.95408",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pai-mei-ts’un",
+      "Baimei"
     ],
-    "name:zho_x_preferred":[
-        "\u767d\u7709"
+    "name:zho_x_preferred": [
+      "白眉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513115,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1907371
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1907371
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a64a65dcb956d9526fb2ce3945945afd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1310226133,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a64a65dcb956d9526fb2ce3945945afd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1310226133,
+        "region_id": 85669735,
+        "localadmin_id": 890513115
+      }
     ],
-    "wof:id":1310226133,
-    "wof:lastmodified":1566688392,
-    "wof:name":"Baimei",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310226133,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Baimei",
+    "wof:parent_id": 890513115,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.58577,
     25.93408,
     119.58577,
     25.93408
-],
-  "geometry": {"coordinates":[119.58577,25.93408],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.58577,
+      25.93408
+    ],
+    "type": "Point"
+  }
 }

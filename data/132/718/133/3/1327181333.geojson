@@ -2,75 +2,83 @@
   "id": 1327181333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.041,25.5551,103.041,25.5551",
-    "geom:latitude":25.5551,
-    "geom:longitude":103.041,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Majia",
-    "gn:country_code":"CN",
-    "gn:dem":2529,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10157909,
-    "gn:latitude":25.5551,
-    "gn:longitude":103.041,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Majia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.021,25.5351,103.061,25.5751",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u621b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.041,25.5551,103.041,25.5551",
+    "geom:latitude": 25.5551,
+    "geom:longitude": 103.041,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Majia",
+    "gn:country_code": "CN",
+    "gn:dem": 2529,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10157909,
+    "gn:latitude": 25.5551,
+    "gn:longitude": 103.041,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Majia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.021,25.5351,103.061,25.5751",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马戛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513129,
+      890513777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10157909
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10157909
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c81cf56f147dd058e2718e8a15a980b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1327181333,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c81cf56f147dd058e2718e8a15a980b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1327181333,
+        "region_id": 85669791,
+        "localadmin_id": 890513129
+      }
     ],
-    "wof:id":1327181333,
-    "wof:lastmodified":1566655478,
-    "wof:name":"Majia",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327181333,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Majia",
+    "wof:parent_id": 890513129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.041,
     25.5551,
     103.041,
     25.5551
-],
-  "geometry": {"coordinates":[103.041,25.5551],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.041,
+      25.5551
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1276449061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.942,28.4996,114.942,28.4996",
-    "geom:latitude":28.4996,
-    "geom:longitude":114.942,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Chiyuan",
-    "gn:country_code":"CN",
-    "gn:dem":132,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9876766,
-    "gn:latitude":28.4996,
-    "gn:longitude":114.942,
-    "gn:modification_date":"2014-12-05",
-    "gn:name":"Chiyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.922,28.4796,114.962,28.5196",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c60\u6e90"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.942,28.4996,114.942,28.4996",
+    "geom:latitude": 28.4996,
+    "geom:longitude": 114.942,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Chiyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 132,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9876766,
+    "gn:latitude": 28.4996,
+    "gn:longitude": 114.942,
+    "gn:modification_date": "2014-12-05",
+    "gn:name": "Chiyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.922,28.4796,114.962,28.5196",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "池源"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514553,
+      1127360924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9876766
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9876766
     },
-    "wof:country":"CN",
-    "wof:geomhash":"90ad7336d4287ec5ea3133ae3068e925",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1276449061,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "90ad7336d4287ec5ea3133ae3068e925",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1276449061,
+        "region_id": 85669823,
+        "localadmin_id": 1127360924
+      }
     ],
-    "wof:id":1276449061,
-    "wof:lastmodified":1566672827,
-    "wof:name":"Chiyuan",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276449061,
+    "wof:lastmodified": 1768669929,
+    "wof:name": "Chiyuan",
+    "wof:parent_id": 1127360924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.942,
     28.4996,
     114.942,
     28.4996
-],
-  "geometry": {"coordinates":[114.94199999999999,28.4996],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.942,
+      28.4996
+    ],
+    "type": "Point"
+  }
 }

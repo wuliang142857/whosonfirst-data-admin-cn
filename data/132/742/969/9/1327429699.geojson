@@ -2,78 +2,86 @@
   "id": 1327429699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.34506,44.04756,123.34506,44.04756",
-    "geom:latitude":44.04756,
-    "geom:longitude":123.34506,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Sanlincun",
-    "gn:country_code":"CN",
-    "gn:dem":141,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2035116,
-    "gn:latitude":44.04756,
-    "gn:longitude":123.34506,
-    "gn:modification_date":"2015-11-08",
-    "gn:name":"Sanlincun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.32506,44.02756,123.36506,44.06756",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sanlin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.34506,44.04756,123.34506,44.04756",
+    "geom:latitude": 44.04756,
+    "geom:longitude": 123.34506,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Sanlincun",
+    "gn:country_code": "CN",
+    "gn:dem": 141,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2035116,
+    "gn:latitude": 44.04756,
+    "gn:longitude": 123.34506,
+    "gn:modification_date": "2015-11-08",
+    "gn:name": "Sanlincun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.32506,44.02756,123.36506,44.06756",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sanlin"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u6797\u6751"
+    "name:zho_x_preferred": [
+      "三林村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890514217
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514217,
+      1127220382
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2035116
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2035116
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8da3f2cb6b4258b4a61383eb5b8c3f61",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514217,
-            "empire_id":136253041,
-            "locality_id":1327429699,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8da3f2cb6b4258b4a61383eb5b8c3f61",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514217,
+        "empire_id": 136253041,
+        "locality_id": 1327429699,
+        "region_id": 85669843,
+        "localadmin_id": 1127220382
+      }
     ],
-    "wof:id":1327429699,
-    "wof:lastmodified":1566654793,
-    "wof:name":"Sanlincun",
-    "wof:parent_id":890514217,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327429699,
+    "wof:lastmodified": 1768671068,
+    "wof:name": "Sanlincun",
+    "wof:parent_id": 1127220382,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.34506,
     44.04756,
     123.34506,
     44.04756
-],
-  "geometry": {"coordinates":[123.34506,44.04756],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.34506,
+      44.04756
+    ],
+    "type": "Point"
+  }
 }

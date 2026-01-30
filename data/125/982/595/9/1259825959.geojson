@@ -2,82 +2,90 @@
   "id": 1259825959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.15023,22.707,111.15023,22.707",
-    "geom:latitude":22.707,
-    "geom:longitude":111.15023,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Jiayi",
-    "gn:country_code":"CN",
-    "gn:dem":340,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1913707,
-    "gn:latitude":22.707,
-    "gn:longitude":111.15023,
-    "gn:modification_date":"2012-06-06",
-    "gn:name":"Jiayi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.13023,22.687,111.17023,22.727",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Jiayi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.15023,22.707,111.15023,22.707",
+    "geom:latitude": 22.707,
+    "geom:longitude": 111.15023,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Jiayi",
+    "gn:country_code": "CN",
+    "gn:dem": 340,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1913707,
+    "gn:latitude": 22.707,
+    "gn:longitude": 111.15023,
+    "gn:modification_date": "2012-06-06",
+    "gn:name": "Jiayi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.13023,22.687,111.17023,22.727",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Jiayi"
     ],
-    "name:und_x_variant":[
-        "Jiayi Zhen",
-        "\u52a0\u76ca\u9547"
+    "name:und_x_variant": [
+      "Jiayi Zhen",
+      "加益镇"
     ],
-    "name:zho_x_preferred":[
-        "\u52a0\u76ca"
+    "name:zho_x_preferred": [
+      "加益"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890512761
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890512761,
+      1127445381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1913707
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1913707
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1366c0daaec6a23e7bf8c69fe9e93f46",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512761,
-            "empire_id":136253041,
-            "locality_id":1259825959,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1366c0daaec6a23e7bf8c69fe9e93f46",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512761,
+        "empire_id": 136253041,
+        "locality_id": 1259825959,
+        "region_id": 85669743,
+        "localadmin_id": 1127445381
+      }
     ],
-    "wof:id":1259825959,
-    "wof:lastmodified":1566699198,
-    "wof:name":"Jiayi",
-    "wof:parent_id":890512761,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259825959,
+    "wof:lastmodified": 1768668816,
+    "wof:name": "Jiayi",
+    "wof:parent_id": 1127445381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.15023,
     22.707,
     111.15023,
     22.707
-],
-  "geometry": {"coordinates":[111.15022999999999,22.707],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.15023,
+      22.707
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1360060149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.244,42.042,124.244,42.042",
-    "geom:latitude":42.042,
-    "geom:longitude":124.244,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Yaogoucun",
-    "gn:country_code":"CN",
-    "gn:dem":181,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11505510,
-    "gn:latitude":42.042,
-    "gn:longitude":124.244,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Yaogoucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.224,42.022,124.264,42.062",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7a91\u6c9f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.244,42.042,124.244,42.042",
+    "geom:latitude": 42.042,
+    "geom:longitude": 124.244,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Yaogoucun",
+    "gn:country_code": "CN",
+    "gn:dem": 181,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11505510,
+    "gn:latitude": 42.042,
+    "gn:longitude": 124.244,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Yaogoucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.224,42.022,124.264,42.062",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "窑沟村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513011
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513011,
+      1127210403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11505510
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11505510
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6afed47b43fc19e42fd8f8f3c9945beb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513011,
-            "empire_id":136253041,
-            "locality_id":1360060149,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6afed47b43fc19e42fd8f8f3c9945beb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513011,
+        "empire_id": 136253041,
+        "locality_id": 1360060149,
+        "region_id": 85669807,
+        "localadmin_id": 1127210403
+      }
     ],
-    "wof:id":1360060149,
-    "wof:lastmodified":1566691607,
-    "wof:name":"Yaogoucun",
-    "wof:parent_id":890513011,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360060149,
+    "wof:lastmodified": 1768666788,
+    "wof:name": "Yaogoucun",
+    "wof:parent_id": 1127210403,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.244,
     42.042,
     124.244,
     42.042
-],
-  "geometry": {"coordinates":[124.244,42.042],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.244,
+      42.042
+    ],
+    "type": "Point"
+  }
 }

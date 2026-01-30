@@ -2,75 +2,83 @@
   "id": 1243058359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.19712,45.90342,126.19712,45.90342",
-    "geom:latitude":45.90342,
-    "geom:longitude":126.19712,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Yongjiucun",
-    "gn:country_code":"CN",
-    "gn:dem":144,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11580227,
-    "gn:latitude":45.90342,
-    "gn:longitude":126.19712,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Yongjiucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.17712,45.88342,126.21712,45.92342",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c38\u4e45\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.19712,45.90342,126.19712,45.90342",
+    "geom:latitude": 45.90342,
+    "geom:longitude": 126.19712,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Yongjiucun",
+    "gn:country_code": "CN",
+    "gn:dem": 144,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11580227,
+    "gn:latitude": 45.90342,
+    "gn:longitude": 126.19712,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Yongjiucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.17712,45.88342,126.21712,45.92342",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "永久村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514025,
+      890514509
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11580227
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11580227
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4cdc2ff4503ccc8aa7e6c16214373744",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1243058359,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4cdc2ff4503ccc8aa7e6c16214373744",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1243058359,
+        "region_id": 85669849,
+        "localadmin_id": 890514025
+      }
     ],
-    "wof:id":1243058359,
-    "wof:lastmodified":1566696432,
-    "wof:name":"Yongjiucun",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243058359,
+    "wof:lastmodified": 1768668895,
+    "wof:name": "Yongjiucun",
+    "wof:parent_id": 890514025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.19712,
     45.90342,
     126.19712,
     45.90342
-],
-  "geometry": {"coordinates":[126.19712,45.90342],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.19712,
+      45.90342
+    ],
+    "type": "Point"
+  }
 }

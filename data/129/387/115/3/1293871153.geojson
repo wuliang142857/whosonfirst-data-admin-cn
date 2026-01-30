@@ -2,75 +2,83 @@
   "id": 1293871153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.63026,25.50748,112.63026,25.50748",
-    "geom:latitude":25.50748,
-    "geom:longitude":112.63026,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Handong",
-    "gn:country_code":"CN",
-    "gn:dem":808,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9800906,
-    "gn:latitude":25.50748,
-    "gn:longitude":112.63026,
-    "gn:modification_date":"2014-11-07",
-    "gn:name":"Handong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.61026,25.48748,112.65026,25.52748",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65f1\u6d1e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.63026,25.50748,112.63026,25.50748",
+    "geom:latitude": 25.50748,
+    "geom:longitude": 112.63026,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Handong",
+    "gn:country_code": "CN",
+    "gn:dem": 808,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9800906,
+    "gn:latitude": 25.50748,
+    "gn:longitude": 112.63026,
+    "gn:modification_date": "2014-11-07",
+    "gn:name": "Handong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.61026,25.48748,112.65026,25.52748",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "旱洞"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516905
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516905,
+      1127431025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9800906
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9800906
     },
-    "wof:country":"CN",
-    "wof:geomhash":"606d6e22f127bfcbae75cbd6514923a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516905,
-            "empire_id":136253041,
-            "locality_id":1293871153,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "606d6e22f127bfcbae75cbd6514923a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516905,
+        "empire_id": 136253041,
+        "locality_id": 1293871153,
+        "region_id": 85669781,
+        "localadmin_id": 1127431025
+      }
     ],
-    "wof:id":1293871153,
-    "wof:lastmodified":1566671242,
-    "wof:name":"Handong",
-    "wof:parent_id":890516905,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293871153,
+    "wof:lastmodified": 1768670470,
+    "wof:name": "Handong",
+    "wof:parent_id": 1127431025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.63026,
     25.50748,
     112.63026,
     25.50748
-],
-  "geometry": {"coordinates":[112.63026000000001,25.50748],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.63026,
+      25.50748
+    ],
+    "type": "Point"
+  }
 }

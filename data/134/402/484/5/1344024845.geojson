@@ -2,75 +2,83 @@
   "id": 1344024845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.79,34.57972,108.79,34.57972",
-    "geom:latitude":34.57972,
-    "geom:longitude":108.79,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Banyao",
-    "gn:country_code":"CN",
-    "gn:dem":432,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1999717,
-    "gn:latitude":34.57972,
-    "gn:longitude":108.79,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Banyao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.77,34.55972,108.81,34.59972",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u677f\u7a91"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.79,34.57972,108.79,34.57972",
+    "geom:latitude": 34.57972,
+    "geom:longitude": 108.79,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Banyao",
+    "gn:country_code": "CN",
+    "gn:dem": 432,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1999717,
+    "gn:latitude": 34.57972,
+    "gn:longitude": 108.79,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Banyao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.77,34.55972,108.81,34.59972",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "板窑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513225,
+      890515689
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1999717
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1999717
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b44ea3e33fb841f9acf809135c529fb4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1344024845,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b44ea3e33fb841f9acf809135c529fb4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1344024845,
+        "region_id": 85669769,
+        "localadmin_id": 890513225
+      }
     ],
-    "wof:id":1344024845,
-    "wof:lastmodified":1566663120,
-    "wof:name":"Banyao",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344024845,
+    "wof:lastmodified": 1768667722,
+    "wof:name": "Banyao",
+    "wof:parent_id": 890513225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.79,
     34.57972,
     108.79,
     34.57972
-],
-  "geometry": {"coordinates":[108.79000000000001,34.57972],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.79,
+      34.57972
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1260135169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.50746,35.67645,119.50746,35.67645",
-    "geom:latitude":35.67645,
-    "geom:longitude":119.50746,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Xicaijiacun",
-    "gn:country_code":"CN",
-    "gn:dem":46,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11250342,
-    "gn:latitude":35.67645,
-    "gn:longitude":119.50746,
-    "gn:modification_date":"2016-09-10",
-    "gn:name":"Xicaijiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.48746,35.65645,119.52746,35.69645",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u8521\u5bb6\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.50746,35.67645,119.50746,35.67645",
+    "geom:latitude": 35.67645,
+    "geom:longitude": 119.50746,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Xicaijiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 46,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11250342,
+    "gn:latitude": 35.67645,
+    "gn:longitude": 119.50746,
+    "gn:modification_date": "2016-09-10",
+    "gn:name": "Xicaijiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.48746,35.65645,119.52746,35.69645",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西蔡家村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514757
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512685,
+      890514757
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11250342
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11250342
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cd90354fcca039bd93fb56c82bcb341e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514757,
-            "empire_id":136253041,
-            "locality_id":1260135169,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cd90354fcca039bd93fb56c82bcb341e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514757,
+        "empire_id": 136253041,
+        "locality_id": 1260135169,
+        "region_id": 85669813,
+        "localadmin_id": 890512685
+      }
     ],
-    "wof:id":1260135169,
-    "wof:lastmodified":1566686394,
-    "wof:name":"Xicaijiacun",
-    "wof:parent_id":890514757,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260135169,
+    "wof:lastmodified": 1768668352,
+    "wof:name": "Xicaijiacun",
+    "wof:parent_id": 890512685,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.50746,
     35.67645,
     119.50746,
     35.67645
-],
-  "geometry": {"coordinates":[119.50745999999999,35.67645],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.50746,
+      35.67645
+    ],
+    "type": "Point"
+  }
 }

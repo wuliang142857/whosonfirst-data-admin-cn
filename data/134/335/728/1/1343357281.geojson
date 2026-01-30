@@ -2,80 +2,88 @@
   "id": 1343357281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.78257,42.51899,127.78257,42.51899",
-    "geom:latitude":42.51899,
-    "geom:longitude":127.78257,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Lushuihe",
-    "gn:country_code":"CN",
-    "gn:dem":744,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":2035899,
-    "gn:latitude":42.51899,
-    "gn:longitude":127.78257,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Lushuihe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"127.76257,42.49899,127.80257,42.53899",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsi-nan-ch\u2019a",
-        "Lu-shui-ho",
-        "Lushuihe",
-        "\u9732\u6c34\u6cb3",
-        "Lushuihe Zhen",
-        "\u9732\u6c34\u6cb3\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "127.78257,42.51899,127.78257,42.51899",
+    "geom:latitude": 42.51899,
+    "geom:longitude": 127.78257,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Lushuihe",
+    "gn:country_code": "CN",
+    "gn:dem": 744,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 2035899,
+    "gn:latitude": 42.51899,
+    "gn:longitude": 127.78257,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Lushuihe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "127.76257,42.49899,127.80257,42.53899",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsi-nan-ch’a",
+      "Lu-shui-ho",
+      "Lushuihe",
+      "露水河",
+      "Lushuihe Zhen",
+      "露水河镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516621
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890516155,
+      890516621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2035899
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2035899
     },
-    "wof:country":"CN",
-    "wof:geomhash":"03bcb4aeb6876191e710099ca098471b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516621,
-            "empire_id":136253041,
-            "locality_id":1343357281,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "03bcb4aeb6876191e710099ca098471b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516621,
+        "empire_id": 136253041,
+        "locality_id": 1343357281,
+        "region_id": 85669843,
+        "localadmin_id": 890516155
+      }
     ],
-    "wof:id":1343357281,
-    "wof:lastmodified":1566661390,
-    "wof:name":"Lushuihe",
-    "wof:parent_id":890516621,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343357281,
+    "wof:lastmodified": 1768670749,
+    "wof:name": "Lushuihe",
+    "wof:parent_id": 890516155,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     127.78257,
     42.51899,
     127.78257,
     42.51899
-],
-  "geometry": {"coordinates":[127.78257000000001,42.51899],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      127.78257,
+      42.51899
+    ],
+    "type": "Point"
+  }
 }

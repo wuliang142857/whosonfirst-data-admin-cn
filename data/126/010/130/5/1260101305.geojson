@@ -2,75 +2,83 @@
   "id": 1260101305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.89302,25.91127,116.89302,25.91127",
-    "geom:latitude":25.91127,
-    "geom:longitude":116.89302,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Zhaixiatang",
-    "gn:country_code":"CN",
-    "gn:dem":348,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7452509,
-    "gn:latitude":25.91127,
-    "gn:longitude":116.89302,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhaixiatang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.87302,25.89127,116.91302,25.93127",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5be8\u4e0b\u5858"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.89302,25.91127,116.89302,25.91127",
+    "geom:latitude": 25.91127,
+    "geom:longitude": 116.89302,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Zhaixiatang",
+    "gn:country_code": "CN",
+    "gn:dem": 348,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7452509,
+    "gn:latitude": 25.91127,
+    "gn:longitude": 116.89302,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhaixiatang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.87302,25.89127,116.91302,25.93127",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "寨下塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516573
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513913,
+      890516573
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7452509
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7452509
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bc2013a9ba592105212014e18e679265",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516573,
-            "empire_id":136253041,
-            "locality_id":1260101305,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bc2013a9ba592105212014e18e679265",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516573,
+        "empire_id": 136253041,
+        "locality_id": 1260101305,
+        "region_id": 85669735,
+        "localadmin_id": 890513913
+      }
     ],
-    "wof:id":1260101305,
-    "wof:lastmodified":1566687392,
-    "wof:name":"Zhaixiatang",
-    "wof:parent_id":890516573,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260101305,
+    "wof:lastmodified": 1768669088,
+    "wof:name": "Zhaixiatang",
+    "wof:parent_id": 890513913,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.89302,
     25.91127,
     116.89302,
     25.91127
-],
-  "geometry": {"coordinates":[116.89302000000001,25.91127],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.89302,
+      25.91127
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1277077289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.56556,30.48167,119.56556,30.48167",
-    "geom:latitude":30.48167,
-    "geom:longitude":119.56556,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Longwangdian",
-    "gn:country_code":"CN",
-    "gn:dem":275,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1919214,
-    "gn:latitude":30.48167,
-    "gn:longitude":119.56556,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Longwangdian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.54556,30.46167,119.58556,30.50167",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9f99\u738b\u6bbf"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.56556,30.48167,119.56556,30.48167",
+    "geom:latitude": 30.48167,
+    "geom:longitude": 119.56556,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Longwangdian",
+    "gn:country_code": "CN",
+    "gn:dem": 275,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1919214,
+    "gn:latitude": 30.48167,
+    "gn:longitude": 119.56556,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Longwangdian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.54556,30.46167,119.58556,30.50167",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "龙王殿"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515259,
+      890516975
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1919214
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1919214
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e9624a840a8e5794df1b4b404651fc27",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1277077289,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e9624a840a8e5794df1b4b404651fc27",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1277077289,
+        "region_id": 85669835,
+        "localadmin_id": 890515259
+      }
     ],
-    "wof:id":1277077289,
-    "wof:lastmodified":1566672401,
-    "wof:name":"Longwangdian",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277077289,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Longwangdian",
+    "wof:parent_id": 890515259,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.56556,
     30.48167,
     119.56556,
     30.48167
-],
-  "geometry": {"coordinates":[119.56556,30.48167],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.56556,
+      30.48167
+    ],
+    "type": "Point"
+  }
 }

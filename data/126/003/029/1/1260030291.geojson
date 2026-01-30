@@ -2,78 +2,86 @@
   "id": 1260030291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.442,24.7433,103.442,24.7433",
-    "geom:latitude":24.7433,
-    "geom:longitude":103.442,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Zumo",
-    "gn:country_code":"CN",
-    "gn:dem":1961,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6825236,
-    "gn:latitude":24.7433,
-    "gn:longitude":103.442,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Zumo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.422,24.7233,103.462,24.7633",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Zumo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.442,24.7433,103.442,24.7433",
+    "geom:latitude": 24.7433,
+    "geom:longitude": 103.442,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Zumo",
+    "gn:country_code": "CN",
+    "gn:dem": 1961,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6825236,
+    "gn:latitude": 24.7433,
+    "gn:longitude": 103.442,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Zumo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.422,24.7233,103.462,24.7633",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Zumo"
     ],
-    "name:zho_x_preferred":[
-        "\u7956\u83ab"
+    "name:zho_x_preferred": [
+      "祖莫"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530126
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6825236
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6825236
     },
-    "wof:country":"CN",
-    "wof:geomhash":"89584f82c30a49e00c84f59446871c53",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1260030291,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "89584f82c30a49e00c84f59446871c53",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1260030291,
+        "region_id": 85669791,
+        "localadmin_id": 1127530126
+      }
     ],
-    "wof:id":1260030291,
-    "wof:lastmodified":1566687543,
-    "wof:name":"Zumo",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260030291,
+    "wof:lastmodified": 1768668379,
+    "wof:name": "Zumo",
+    "wof:parent_id": 1127530126,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.442,
     24.7433,
     103.442,
     24.7433
-],
-  "geometry": {"coordinates":[103.44199999999999,24.7433],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.442,
+      24.7433
+    ],
+    "type": "Point"
+  }
 }

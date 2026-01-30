@@ -2,80 +2,88 @@
   "id": 1309984927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.613,38.766,116.613,38.766",
-    "geom:latitude":38.766,
-    "geom:longitude":116.613,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Guodi",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1809349,
-    "gn:latitude":38.766,
-    "gn:longitude":116.613,
-    "gn:modification_date":"2014-10-01",
-    "gn:name":"Guodi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.593,38.746,116.633,38.786",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Kou-ti",
-        "Kuo-ti",
-        "Guodi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.613,38.766,116.613,38.766",
+    "geom:latitude": 38.766,
+    "geom:longitude": 116.613,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Guodi",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1809349,
+    "gn:latitude": 38.766,
+    "gn:longitude": 116.613,
+    "gn:modification_date": "2014-10-01",
+    "gn:name": "Guodi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.593,38.746,116.633,38.786",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Kou-ti",
+      "Kuo-ti",
+      "Guodi"
     ],
-    "name:zho_x_preferred":[
-        "\u90ed\u5e95"
+    "name:zho_x_preferred": [
+      "郭底"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516977
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516977,
+      1127131025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1809349
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1809349
     },
-    "wof:country":"CN",
-    "wof:geomhash":"964269e3225f821278e877da19452bd0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516977,
-            "empire_id":136253041,
-            "locality_id":1309984927,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "964269e3225f821278e877da19452bd0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516977,
+        "empire_id": 136253041,
+        "locality_id": 1309984927,
+        "region_id": 85669797,
+        "localadmin_id": 1127131025
+      }
     ],
-    "wof:id":1309984927,
-    "wof:lastmodified":1566692295,
-    "wof:name":"Guodi",
-    "wof:parent_id":890516977,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309984927,
+    "wof:lastmodified": 1768669016,
+    "wof:name": "Guodi",
+    "wof:parent_id": 1127131025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.613,
     38.766,
     116.613,
     38.766
-],
-  "geometry": {"coordinates":[116.613,38.766],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.613,
+      38.766
+    ],
+    "type": "Point"
+  }
 }

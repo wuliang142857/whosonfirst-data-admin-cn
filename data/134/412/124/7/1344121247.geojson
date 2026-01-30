@@ -2,84 +2,92 @@
   "id": 1344121247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.54128,38.90377,106.54128,38.90377",
-    "geom:latitude":38.90377,
-    "geom:longitude":106.54128,
-    "gn:admin1_code":"21",
-    "gn:asciiname":"Pingluo Chengguanzhen",
-    "gn:country_code":"CN",
-    "gn:dem":1102,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1798744,
-    "gn:latitude":38.90377,
-    "gn:longitude":106.54128,
-    "gn:modification_date":"2013-08-05",
-    "gn:name":"Pingluo Chengguanzhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.52128,38.88377,106.56128,38.92377",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "P\u2019ing-lo",
-        "Pingluo",
-        "Pingluo Chengguanzhen",
-        "Pingluo Xian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.54128,38.90377,106.54128,38.90377",
+    "geom:latitude": 38.90377,
+    "geom:longitude": 106.54128,
+    "gn:admin1_code": "21",
+    "gn:asciiname": "Pingluo Chengguanzhen",
+    "gn:country_code": "CN",
+    "gn:dem": 1102,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1798744,
+    "gn:latitude": 38.90377,
+    "gn:longitude": 106.54128,
+    "gn:modification_date": "2013-08-05",
+    "gn:name": "Pingluo Chengguanzhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.52128,38.88377,106.56128,38.92377",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "P’ing-lo",
+      "Pingluo",
+      "Pingluo Chengguanzhen",
+      "Pingluo Xian"
     ],
-    "name:zho_x_preferred":[
-        "\u5e73\u7f57\u57ce\u5173\u9547"
+    "name:zho_x_preferred": [
+      "平罗城关镇"
     ],
-    "name:zho_x_variant":[
-        "\u5e73\u7f57\u53bf"
+    "name:zho_x_variant": [
+      "平罗县"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890514111
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890514111,
+      1127640221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1798744
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1798744
     },
-    "wof:country":"CN",
-    "wof:geomhash":"052cafbd11188f0998fd21dce4a26710",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514111,
-            "empire_id":136253041,
-            "locality_id":1344121247,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "052cafbd11188f0998fd21dce4a26710",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514111,
+        "empire_id": 136253041,
+        "locality_id": 1344121247,
+        "region_id": 85669763,
+        "localadmin_id": 1127640221
+      }
     ],
-    "wof:id":1344121247,
-    "wof:lastmodified":1566658358,
-    "wof:name":"Pingluo Chengguanzhen",
-    "wof:parent_id":890514111,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344121247,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Pingluo Chengguanzhen",
+    "wof:parent_id": 1127640221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.54128,
     38.90377,
     106.54128,
     38.90377
-],
-  "geometry": {"coordinates":[106.54128,38.90377],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.54128,
+      38.90377
+    ],
+    "type": "Point"
+  }
 }

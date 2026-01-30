@@ -2,75 +2,83 @@
   "id": 1277136447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.219,32.978,104.219,32.978",
-    "geom:latitude":32.978,
-    "geom:longitude":104.219,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Punancun",
-    "gn:country_code":"CN",
-    "gn:dem":2135,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10140669,
-    "gn:latitude":32.978,
-    "gn:longitude":104.219,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Punancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.199,32.958,104.239,32.998",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u84b2\u5357\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.219,32.978,104.219,32.978",
+    "geom:latitude": 32.978,
+    "geom:longitude": 104.219,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Punancun",
+    "gn:country_code": "CN",
+    "gn:dem": 2135,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10140669,
+    "gn:latitude": 32.978,
+    "gn:longitude": 104.219,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Punancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.199,32.958,104.239,32.998",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "蒲南村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794065
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514143,
+      1108794065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10140669
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10140669
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fb11ecad2b5ca5305412e8733ef70159",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794065,
-            "empire_id":136253041,
-            "locality_id":1277136447,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fb11ecad2b5ca5305412e8733ef70159",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794065,
+        "empire_id": 136253041,
+        "locality_id": 1277136447,
+        "region_id": 85669787,
+        "localadmin_id": 890514143
+      }
     ],
-    "wof:id":1277136447,
-    "wof:lastmodified":1566675223,
-    "wof:name":"Punancun",
-    "wof:parent_id":1108794065,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277136447,
+    "wof:lastmodified": 1768668872,
+    "wof:name": "Punancun",
+    "wof:parent_id": 890514143,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.219,
     32.978,
     104.219,
     32.978
-],
-  "geometry": {"coordinates":[104.21899999999999,32.978],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.219,
+      32.978
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1259543047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.421,29.6224,104.421,29.6224",
-    "geom:latitude":29.6224,
-    "geom:longitude":104.421,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shamoshi",
-    "gn:country_code":"CN",
-    "gn:dem":743,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186662,
-    "gn:latitude":29.6224,
-    "gn:longitude":104.421,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shamoshi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.401,29.6024,104.441,29.6424",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c99\u78e8\u77f3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.421,29.6224,104.421,29.6224",
+    "geom:latitude": 29.6224,
+    "geom:longitude": 104.421,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shamoshi",
+    "gn:country_code": "CN",
+    "gn:dem": 743,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186662,
+    "gn:latitude": 29.6224,
+    "gn:longitude": 104.421,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shamoshi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.401,29.6024,104.441,29.6424",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沙磨石"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512843,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186662
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186662
     },
-    "wof:country":"CN",
-    "wof:geomhash":"35ce3701c9e2da7b62072a81b1e5553c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1259543047,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "35ce3701c9e2da7b62072a81b1e5553c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1259543047,
+        "region_id": 85669787,
+        "localadmin_id": 890512843
+      }
     ],
-    "wof:id":1259543047,
-    "wof:lastmodified":1566698035,
-    "wof:name":"Shamoshi",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259543047,
+    "wof:lastmodified": 1768668255,
+    "wof:name": "Shamoshi",
+    "wof:parent_id": 890512843,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.421,
     29.6224,
     104.421,
     29.6224
-],
-  "geometry": {"coordinates":[104.42100000000001,29.6224],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.421,
+      29.6224
+    ],
+    "type": "Point"
+  }
 }

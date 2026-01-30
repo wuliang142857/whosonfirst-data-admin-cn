@@ -2,75 +2,83 @@
   "id": 1360283523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.58277,45.26765,125.58277,45.26765",
-    "geom:latitude":45.26765,
-    "geom:longitude":125.58277,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Taipingshan",
-    "gn:country_code":"CN",
-    "gn:dem":159,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10916232,
-    "gn:latitude":45.26765,
-    "gn:longitude":125.58277,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Taipingshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.56277,45.24765,125.60277,45.28765",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u592a\u5e73\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.58277,45.26765,125.58277,45.26765",
+    "geom:latitude": 45.26765,
+    "geom:longitude": 125.58277,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Taipingshan",
+    "gn:country_code": "CN",
+    "gn:dem": 159,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10916232,
+    "gn:latitude": 45.26765,
+    "gn:longitude": 125.58277,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Taipingshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.56277,45.24765,125.60277,45.28765",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "太平山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890512763
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890512763,
+      1127220781
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10916232
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10916232
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2649e597ca0d49dee10e790dae957daf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512763,
-            "empire_id":136253041,
-            "locality_id":1360283523,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2649e597ca0d49dee10e790dae957daf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512763,
+        "empire_id": 136253041,
+        "locality_id": 1360283523,
+        "region_id": 85669843,
+        "localadmin_id": 1127220781
+      }
     ],
-    "wof:id":1360283523,
-    "wof:lastmodified":1566691908,
-    "wof:name":"Taipingshan",
-    "wof:parent_id":890512763,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360283523,
+    "wof:lastmodified": 1768671034,
+    "wof:name": "Taipingshan",
+    "wof:parent_id": 1127220781,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.58277,
     45.26765,
     125.58277,
     45.26765
-],
-  "geometry": {"coordinates":[125.58277,45.26765],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.58277,
+      45.26765
+    ],
+    "type": "Point"
+  }
 }

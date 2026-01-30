@@ -2,75 +2,83 @@
   "id": 1209829307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.85413,33.66829,116.85413,33.66829",
-    "geom:latitude":33.66829,
-    "geom:longitude":116.85413,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Xinjiancun",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10360071,
-    "gn:latitude":33.66829,
-    "gn:longitude":116.85413,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Xinjiancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.83413,33.64829,116.87413,33.68829",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65b0\u5efa\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.85413,33.66829,116.85413,33.66829",
+    "geom:latitude": 33.66829,
+    "geom:longitude": 116.85413,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Xinjiancun",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10360071,
+    "gn:latitude": 33.66829,
+    "gn:longitude": 116.85413,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Xinjiancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.83413,33.64829,116.87413,33.68829",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "新建村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732463
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890516351,
+      1108732463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10360071
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10360071
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6dfe922fcb6bd67d64668960e8b2d4bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732463,
-            "empire_id":136253041,
-            "locality_id":1209829307,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6dfe922fcb6bd67d64668960e8b2d4bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732463,
+        "empire_id": 136253041,
+        "locality_id": 1209829307,
+        "region_id": 85669739,
+        "localadmin_id": 890516351
+      }
     ],
-    "wof:id":1209829307,
-    "wof:lastmodified":1566681236,
-    "wof:name":"Xinjiancun",
-    "wof:parent_id":1108732463,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209829307,
+    "wof:lastmodified": 1768670021,
+    "wof:name": "Xinjiancun",
+    "wof:parent_id": 890516351,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.85413,
     33.66829,
     116.85413,
     33.66829
-],
-  "geometry": {"coordinates":[116.85413,33.66829],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.85413,
+      33.66829
+    ],
+    "type": "Point"
+  }
 }

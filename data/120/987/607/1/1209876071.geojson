@@ -2,81 +2,89 @@
   "id": 1209876071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.15606,22.8074,113.15606,22.8074",
-    "geom:latitude":22.8074,
-    "geom:longitude":113.15606,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Sangma",
-    "gn:country_code":"CN",
-    "gn:dem":1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6922203,
-    "gn:latitude":22.8074,
-    "gn:longitude":113.15606,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Sangma",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.13606,22.7874,113.17606,22.8274",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Sangma"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.15606,22.8074,113.15606,22.8074",
+    "geom:latitude": 22.8074,
+    "geom:longitude": 113.15606,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Sangma",
+    "gn:country_code": "CN",
+    "gn:dem": 1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6922203,
+    "gn:latitude": 22.8074,
+    "gn:longitude": 113.15606,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Sangma",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.13606,22.7874,113.17606,22.8274",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Sangma"
     ],
-    "name:hin_x_preferred":[
-        "\u0938\u0902\u0917\u092e\u093e"
+    "name:hin_x_preferred": [
+      "संगमा"
     ],
-    "name:zho_x_preferred":[
-        "\u6851\u9ebb"
+    "name:zho_x_preferred": [
+      "桑麻"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513089
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513089,
+      1125350173
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6922203
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6922203
     },
-    "wof:country":"CN",
-    "wof:geomhash":"236478fe98b7b5311fefb1a8125f7881",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513089,
-            "empire_id":136253041,
-            "locality_id":1209876071,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "236478fe98b7b5311fefb1a8125f7881",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513089,
+        "empire_id": 136253041,
+        "locality_id": 1209876071,
+        "region_id": 85669743,
+        "localadmin_id": 1125350173
+      }
     ],
-    "wof:id":1209876071,
-    "wof:lastmodified":1566683478,
-    "wof:name":"Sangma",
-    "wof:parent_id":890513089,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209876071,
+    "wof:lastmodified": 1768668382,
+    "wof:name": "Sangma",
+    "wof:parent_id": 1125350173,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.15606,
     22.8074,
     113.15606,
     22.8074
-],
-  "geometry": {"coordinates":[113.15606,22.8074],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.15606,
+      22.8074
+    ],
+    "type": "Point"
+  }
 }

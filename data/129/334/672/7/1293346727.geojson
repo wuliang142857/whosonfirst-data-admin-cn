@@ -2,75 +2,83 @@
   "id": 1293346727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.12381,39.99681,116.12381,39.99681",
-    "geom:latitude":39.99681,
-    "geom:longitude":116.12381,
-    "gn:admin1_code":"22.0",
-    "gn:asciiname":"Xiangyucun",
-    "gn:country_code":"CN",
-    "gn:dem":241,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10313031,
-    "gn:latitude":39.99681,
-    "gn:longitude":116.12381,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Xiangyucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.10381,39.97681,116.14381,40.01681",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9999\u5cea\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.12381,39.99681,116.12381,39.99681",
+    "geom:latitude": 39.99681,
+    "geom:longitude": 116.12381,
+    "gn:admin1_code": "22.0",
+    "gn:asciiname": "Xiangyucun",
+    "gn:country_code": "CN",
+    "gn:dem": 241,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10313031,
+    "gn:latitude": 39.99681,
+    "gn:longitude": 116.12381,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Xiangyucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.10381,39.97681,116.14381,40.01681",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "香峪村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890514147,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10313031
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10313031
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ee2e51db6637a0bef9674d4439d994af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1293346727,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ee2e51db6637a0bef9674d4439d994af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1293346727,
+        "region_id": 85669727,
+        "localadmin_id": 890514147
+      }
     ],
-    "wof:id":1293346727,
-    "wof:lastmodified":1566669676,
-    "wof:name":"Xiangyucun",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293346727,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Xiangyucun",
+    "wof:parent_id": 890514147,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.12381,
     39.99681,
     116.12381,
     39.99681
-],
-  "geometry": {"coordinates":[116.12381000000001,39.99681],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.12381,
+      39.99681
+    ],
+    "type": "Point"
+  }
 }

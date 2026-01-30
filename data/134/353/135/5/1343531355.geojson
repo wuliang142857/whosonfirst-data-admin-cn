@@ -2,75 +2,83 @@
   "id": 1343531355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.572,38.5518,100.572,38.5518",
-    "geom:latitude":38.5518,
-    "geom:longitude":100.572,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xintianbu",
-    "gn:country_code":"CN",
-    "gn:dem":2129,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10644490,
-    "gn:latitude":38.5518,
-    "gn:longitude":100.572,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Xintianbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.552,38.5318,100.592,38.5718",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65b0\u5929\u5821"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.572,38.5518,100.572,38.5518",
+    "geom:latitude": 38.5518,
+    "geom:longitude": 100.572,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xintianbu",
+    "gn:country_code": "CN",
+    "gn:dem": 2129,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10644490,
+    "gn:latitude": 38.5518,
+    "gn:longitude": 100.572,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Xintianbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.552,38.5318,100.592,38.5718",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "新天堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890515163
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515163,
+      1127620722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10644490
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10644490
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e70cec43a624c09dd5f7d41d4228a975",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515163,
-            "empire_id":136253041,
-            "locality_id":1343531355,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e70cec43a624c09dd5f7d41d4228a975",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515163,
+        "empire_id": 136253041,
+        "locality_id": 1343531355,
+        "region_id": 85669711,
+        "localadmin_id": 1127620722
+      }
     ],
-    "wof:id":1343531355,
-    "wof:lastmodified":1566656777,
-    "wof:name":"Xintianbu",
-    "wof:parent_id":890515163,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343531355,
+    "wof:lastmodified": 1768666543,
+    "wof:name": "Xintianbu",
+    "wof:parent_id": 1127620722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.572,
     38.5518,
     100.572,
     38.5518
-],
-  "geometry": {"coordinates":[100.572,38.5518],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.572,
+      38.5518
+    ],
+    "type": "Point"
+  }
 }

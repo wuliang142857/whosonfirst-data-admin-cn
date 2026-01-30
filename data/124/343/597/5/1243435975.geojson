@@ -2,75 +2,83 @@
   "id": 1243435975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.557,23.6941,108.557,23.6941",
-    "geom:latitude":23.6941,
-    "geom:longitude":108.557,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Haideshang",
-    "gn:country_code":"CN",
-    "gn:dem":340,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9934617,
-    "gn:latitude":23.6941,
-    "gn:longitude":108.557,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Haideshang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.537,23.6741,108.577,23.7141",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6d77\u5fb7\u4e0a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.557,23.6941,108.557,23.6941",
+    "geom:latitude": 23.6941,
+    "geom:longitude": 108.557,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Haideshang",
+    "gn:country_code": "CN",
+    "gn:dem": 340,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9934617,
+    "gn:latitude": 23.6941,
+    "gn:longitude": 108.557,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Haideshang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.537,23.6741,108.577,23.7141",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "海德上"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9934617
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9934617
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e70e7f6c7a884b175c3999edcd613b12",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1243435975,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e70e7f6c7a884b175c3999edcd613b12",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1243435975,
+        "region_id": 85669717,
+        "localadmin_id": 1127450125
+      }
     ],
-    "wof:id":1243435975,
-    "wof:lastmodified":1566697852,
-    "wof:name":"Haideshang",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243435975,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Haideshang",
+    "wof:parent_id": 1127450125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.557,
     23.6941,
     108.557,
     23.6941
-],
-  "geometry": {"coordinates":[108.557,23.6941],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.557,
+      23.6941
+    ],
+    "type": "Point"
+  }
 }

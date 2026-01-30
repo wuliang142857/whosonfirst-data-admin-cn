@@ -2,75 +2,83 @@
   "id": 1243225967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.731,42.7392,123.731,42.7392",
-    "geom:latitude":42.7392,
-    "geom:longitude":123.731,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Zhangzigou",
-    "gn:country_code":"CN",
-    "gn:dem":127,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11486288,
-    "gn:latitude":42.7392,
-    "gn:longitude":123.731,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Zhangzigou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.711,42.7192,123.751,42.7592",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e10\u5b50\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.731,42.7392,123.731,42.7392",
+    "geom:latitude": 42.7392,
+    "geom:longitude": 123.731,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Zhangzigou",
+    "gn:country_code": "CN",
+    "gn:dem": 127,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11486288,
+    "gn:latitude": 42.7392,
+    "gn:longitude": 123.731,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Zhangzigou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.711,42.7192,123.751,42.7592",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "帐子沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890512563,
+      890514741
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11486288
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11486288
     },
-    "wof:country":"CN",
-    "wof:geomhash":"02d313aa29ae9962f05f989ad788d6a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1243225967,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "02d313aa29ae9962f05f989ad788d6a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1243225967,
+        "region_id": 85669807,
+        "localadmin_id": 890512563
+      }
     ],
-    "wof:id":1243225967,
-    "wof:lastmodified":1566695780,
-    "wof:name":"Zhangzigou",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243225967,
+    "wof:lastmodified": 1768666118,
+    "wof:name": "Zhangzigou",
+    "wof:parent_id": 890512563,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.731,
     42.7392,
     123.731,
     42.7392
-],
-  "geometry": {"coordinates":[123.73099999999999,42.7392],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.731,
+      42.7392
+    ],
+    "type": "Point"
+  }
 }

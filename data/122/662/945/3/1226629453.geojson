@@ -2,83 +2,91 @@
   "id": 1226629453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"87.0,28.7,87.0,28.7",
-    "geom:latitude":28.7,
-    "geom:longitude":87.0,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Kongsar",
-    "gn:country_code":"CN",
-    "gn:dem":4379,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7931212,
-    "gn:latitude":28.7,
-    "gn:longitude":87.0,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Kongsar",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"86.98,28.68,87.02,28.72",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Kongsar"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "87.0,28.7,87.0,28.7",
+    "geom:latitude": 28.7,
+    "geom:longitude": 87.0,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Kongsar",
+    "gn:country_code": "CN",
+    "gn:dem": 4379,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7931212,
+    "gn:latitude": 28.7,
+    "gn:longitude": 87.0,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Kongsar",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "86.98,28.68,87.02,28.72",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Kongsar"
     ],
-    "name:zho_x_preferred":[
-        "Gongsha"
+    "name:zho_x_preferred": [
+      "Gongsha"
     ],
-    "name:zho_x_variant":[
-        "\u5171\u6c99",
-        "Jieluo Gongshe",
-        "\u89e3\u6d1b\u516c\u793e"
+    "name:zho_x_variant": [
+      "共沙",
+      "Jieluo Gongshe",
+      "解洛公社"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890515293,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7931212
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7931212
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d8c8629ca007ac265e6153107ab66d80",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1226629453,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d8c8629ca007ac265e6153107ab66d80",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1226629453,
+        "region_id": 85669747,
+        "localadmin_id": 890515293
+      }
     ],
-    "wof:id":1226629453,
-    "wof:lastmodified":1566705325,
-    "wof:name":"Kongsar",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226629453,
+    "wof:lastmodified": 1768665596,
+    "wof:name": "Kongsar",
+    "wof:parent_id": 890515293,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     87.0,
     28.7,
     87.0,
     28.7
-],
-  "geometry": {"coordinates":[87.0,28.7],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      87.0,
+      28.7
+    ],
+    "type": "Point"
+  }
 }

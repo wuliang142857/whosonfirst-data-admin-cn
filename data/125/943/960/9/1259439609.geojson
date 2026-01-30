@@ -2,75 +2,83 @@
   "id": 1259439609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.38198,34.38304,107.38198,34.38304",
-    "geom:latitude":34.38304,
-    "geom:longitude":107.38198,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Zhangxiecun",
-    "gn:country_code":"CN",
-    "gn:dem":668,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11417233,
-    "gn:latitude":34.38304,
-    "gn:longitude":107.38198,
-    "gn:modification_date":"2017-01-07",
-    "gn:name":"Zhangxiecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.36198,34.36304,107.40198,34.40304",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u8c22\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.38198,34.38304,107.38198,34.38304",
+    "geom:latitude": 34.38304,
+    "geom:longitude": 107.38198,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Zhangxiecun",
+    "gn:country_code": "CN",
+    "gn:dem": 668,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11417233,
+    "gn:latitude": 34.38304,
+    "gn:longitude": 107.38198,
+    "gn:modification_date": "2017-01-07",
+    "gn:name": "Zhangxiecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.36198,34.36304,107.40198,34.40304",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张谢村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516525
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516525,
+      1127610304
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11417233
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11417233
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ea02d9b429c5150d19b6986cf523d94e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516525,
-            "empire_id":136253041,
-            "locality_id":1259439609,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ea02d9b429c5150d19b6986cf523d94e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516525,
+        "empire_id": 136253041,
+        "locality_id": 1259439609,
+        "region_id": 85669769,
+        "localadmin_id": 1127610304
+      }
     ],
-    "wof:id":1259439609,
-    "wof:lastmodified":1566700531,
-    "wof:name":"Zhangxiecun",
-    "wof:parent_id":890516525,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259439609,
+    "wof:lastmodified": 1768667752,
+    "wof:name": "Zhangxiecun",
+    "wof:parent_id": 1127610304,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.38198,
     34.38304,
     107.38198,
     34.38304
-],
-  "geometry": {"coordinates":[107.38198,34.38304],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.38198,
+      34.38304
+    ],
+    "type": "Point"
+  }
 }

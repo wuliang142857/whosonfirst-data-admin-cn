@@ -2,75 +2,83 @@
   "id": 1225926393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.872,36.4913,102.872,36.4913",
-    "geom:latitude":36.4913,
-    "geom:longitude":102.872,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Majun",
-    "gn:country_code":"CN",
-    "gn:dem":1849,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10649114,
-    "gn:latitude":36.4913,
-    "gn:longitude":102.872,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Majun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.852,36.4713,102.892,36.5113",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u519b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.872,36.4913,102.872,36.4913",
+    "geom:latitude": 36.4913,
+    "geom:longitude": 102.872,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Majun",
+    "gn:country_code": "CN",
+    "gn:dem": 1849,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10649114,
+    "gn:latitude": 36.4913,
+    "gn:longitude": 102.872,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Majun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.852,36.4713,102.892,36.5113",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马军"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890513013
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890513013,
+      890513203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10649114
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10649114
     },
-    "wof:country":"CN",
-    "wof:geomhash":"92bc38208920638b8c0f7119fd9c80eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513013,
-            "empire_id":136253041,
-            "locality_id":1225926393,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "92bc38208920638b8c0f7119fd9c80eb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513013,
+        "empire_id": 136253041,
+        "locality_id": 1225926393,
+        "region_id": 85669711,
+        "localadmin_id": 890513203
+      }
     ],
-    "wof:id":1225926393,
-    "wof:lastmodified":1566700843,
-    "wof:name":"Majun",
-    "wof:parent_id":890513013,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225926393,
+    "wof:lastmodified": 1768667404,
+    "wof:name": "Majun",
+    "wof:parent_id": 890513203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.872,
     36.4913,
     102.872,
     36.4913
-],
-  "geometry": {"coordinates":[102.872,36.4913],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.872,
+      36.4913
+    ],
+    "type": "Point"
+  }
 }

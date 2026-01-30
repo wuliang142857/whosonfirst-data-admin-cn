@@ -2,81 +2,89 @@
   "id": 1343965169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.41191,27.97072,116.41191,27.97072",
-    "geom:latitude":27.97072,
-    "geom:longitude":116.41191,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Zhuxi",
-    "gn:country_code":"CN",
-    "gn:dem":41,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7738770,
-    "gn:latitude":27.97072,
-    "gn:longitude":116.41191,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhuxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.39191,27.95072,116.43191,27.99072",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Zhuxi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.41191,27.97072,116.41191,27.97072",
+    "geom:latitude": 27.97072,
+    "geom:longitude": 116.41191,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Zhuxi",
+    "gn:country_code": "CN",
+    "gn:dem": 41,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7738770,
+    "gn:latitude": 27.97072,
+    "gn:longitude": 116.41191,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhuxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.39191,27.95072,116.43191,27.99072",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Zhuxi"
     ],
-    "name:nor_x_preferred":[
-        "Zhuxi"
+    "name:nor_x_preferred": [
+      "Zhuxi"
     ],
-    "name:und_x_variant":[
-        "\u7af9\u6eaa"
+    "name:und_x_variant": [
+      "竹溪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516617
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516617,
+      1127361002
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7738770
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7738770
     },
-    "wof:country":"CN",
-    "wof:geomhash":"01da48164e0c350c4ca63ca05d605cd8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516617,
-            "empire_id":136253041,
-            "locality_id":1343965169,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "01da48164e0c350c4ca63ca05d605cd8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516617,
+        "empire_id": 136253041,
+        "locality_id": 1343965169,
+        "region_id": 85669823,
+        "localadmin_id": 1127361002
+      }
     ],
-    "wof:id":1343965169,
-    "wof:lastmodified":1566656574,
-    "wof:name":"Zhuxi",
-    "wof:parent_id":890516617,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343965169,
+    "wof:lastmodified": 1768669902,
+    "wof:name": "Zhuxi",
+    "wof:parent_id": 1127361002,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.41191,
     27.97072,
     116.41191,
     27.97072
-],
-  "geometry": {"coordinates":[116.41191000000001,27.97072],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.41191,
+      27.97072
+    ],
+    "type": "Point"
+  }
 }

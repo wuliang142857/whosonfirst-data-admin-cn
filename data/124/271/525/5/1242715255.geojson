@@ -2,73 +2,81 @@
   "id": 1242715255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.67207,19.15876,108.67207,19.15876",
-    "geom:latitude":19.15876,
-    "geom:longitude":108.67207,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Duntou",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1811837,
-    "gn:latitude":19.15876,
-    "gn:longitude":108.67207,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Duntou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.65207,19.13876,108.69207,19.17876",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u58a9\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.67207,19.15876,108.67207,19.15876",
+    "geom:latitude": 19.15876,
+    "geom:longitude": 108.67207,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Duntou",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1811837,
+    "gn:latitude": 19.15876,
+    "gn:longitude": 108.67207,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Duntou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.65207,19.13876,108.69207,19.17876",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "墩头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811837
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811837
     },
-    "wof:country":"CN",
-    "wof:geomhash":"061db3c2c3094e7f910bf94d83050e70",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1242715255,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "061db3c2c3094e7f910bf94d83050e70",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1242715255,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1242715255,
-    "wof:lastmodified":1566696912,
-    "wof:name":"Duntou",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242715255,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Duntou",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.67207,
     19.15876,
     108.67207,
     19.15876
-],
-  "geometry": {"coordinates":[108.67207000000001,19.15876],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.67207,
+      19.15876
+    ],
+    "type": "Point"
+  }
 }

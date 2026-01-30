@@ -2,75 +2,83 @@
   "id": 1259469619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.58786,30.0194,108.58786,30.0194",
-    "geom:latitude":30.0194,
-    "geom:longitude":108.58786,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Ganxi",
-    "gn:country_code":"CN",
-    "gn:dem":1260,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8516462,
-    "gn:latitude":30.0194,
-    "gn:longitude":108.58786,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Ganxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.56786,29.9994,108.60786,30.0394",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e72\u6eaa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.58786,30.0194,108.58786,30.0194",
+    "geom:latitude": 30.0194,
+    "geom:longitude": 108.58786,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Ganxi",
+    "gn:country_code": "CN",
+    "gn:dem": 1260,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8516462,
+    "gn:latitude": 30.0194,
+    "gn:longitude": 108.58786,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Ganxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.56786,29.9994,108.60786,30.0394",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "干溪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512637,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8516462
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8516462
     },
-    "wof:country":"CN",
-    "wof:geomhash":"76f0cf0f36592788b0735ac9e6b120ff",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1259469619,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "76f0cf0f36592788b0735ac9e6b120ff",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1259469619,
+        "region_id": 85669777,
+        "localadmin_id": 890512637
+      }
     ],
-    "wof:id":1259469619,
-    "wof:lastmodified":1566698967,
-    "wof:name":"Ganxi",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259469619,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Ganxi",
+    "wof:parent_id": 890512637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.58786,
     30.0194,
     108.58786,
     30.0194
-],
-  "geometry": {"coordinates":[108.58786000000001,30.0194],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.58786,
+      30.0194
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1277083797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.91968,33.33612,115.91968,33.33612",
-    "geom:latitude":33.33612,
-    "geom:longitude":115.91968,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Gaolaojiacun",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11440504,
-    "gn:latitude":33.33612,
-    "gn:longitude":115.91968,
-    "gn:modification_date":"2017-02-05",
-    "gn:name":"Gaolaojiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.89968,33.31612,115.93968,33.35612",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u8001\u5bb6\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.91968,33.33612,115.91968,33.33612",
+    "geom:latitude": 33.33612,
+    "geom:longitude": 115.91968,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Gaolaojiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11440504,
+    "gn:latitude": 33.33612,
+    "gn:longitude": 115.91968,
+    "gn:modification_date": "2017-02-05",
+    "gn:name": "Gaolaojiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.89968,33.31612,115.93968,33.35612",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高老家村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11440504
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11440504
     },
-    "wof:country":"CN",
-    "wof:geomhash":"62907664219b57e5cc5f1ab2c546477b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1277083797,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "62907664219b57e5cc5f1ab2c546477b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1277083797,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1277083797,
-    "wof:lastmodified":1566672285,
-    "wof:name":"Gaolaojiacun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277083797,
+    "wof:lastmodified": 1768669757,
+    "wof:name": "Gaolaojiacun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.91968,
     33.33612,
     115.91968,
     33.33612
-],
-  "geometry": {"coordinates":[115.91968,33.33612],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.91968,
+      33.33612
+    ],
+    "type": "Point"
+  }
 }

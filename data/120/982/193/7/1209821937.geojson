@@ -2,81 +2,89 @@
   "id": 1209821937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.67184,28.60264,117.67184,28.60264",
-    "geom:latitude":28.60264,
-    "geom:longitude":117.67184,
-    "gn:admin1_code":"03",
-    "gn:asciiname":"Geyuan",
-    "gn:country_code":"CN",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1810176,
-    "gn:latitude":28.60264,
-    "gn:longitude":117.67184,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Geyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.65184,28.58264,117.69184,28.62264",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ko-y\u00fcan",
-        "Geyuan Zhen",
-        "\u845b\u6e90\u9547",
-        "Geyuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.67184,28.60264,117.67184,28.60264",
+    "geom:latitude": 28.60264,
+    "geom:longitude": 117.67184,
+    "gn:admin1_code": "03",
+    "gn:asciiname": "Geyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1810176,
+    "gn:latitude": 28.60264,
+    "gn:longitude": 117.67184,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Geyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.65184,28.58264,117.69184,28.62264",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ko-yüan",
+      "Geyuan Zhen",
+      "葛源镇",
+      "Geyuan"
     ],
-    "name:zho_x_preferred":[
-        "\u845b\u6e90"
+    "name:zho_x_preferred": [
+      "葛源"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890515869
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890515869,
+      1127361125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810176
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810176
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dda49f16c3b7d7477dd50be190442302",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515869,
-            "empire_id":136253041,
-            "locality_id":1209821937,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dda49f16c3b7d7477dd50be190442302",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515869,
+        "empire_id": 136253041,
+        "locality_id": 1209821937,
+        "region_id": 85669823,
+        "localadmin_id": 1127361125
+      }
     ],
-    "wof:id":1209821937,
-    "wof:lastmodified":1566681237,
-    "wof:name":"Geyuan",
-    "wof:parent_id":890515869,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209821937,
+    "wof:lastmodified": 1768670032,
+    "wof:name": "Geyuan",
+    "wof:parent_id": 1127361125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.67184,
     28.60264,
     117.67184,
     28.60264
-],
-  "geometry": {"coordinates":[117.67184,28.60264],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.67184,
+      28.60264
+    ],
+    "type": "Point"
+  }
 }

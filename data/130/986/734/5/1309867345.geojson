@@ -2,75 +2,83 @@
   "id": 1309867345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.86629,40.09282,111.86629,40.09282",
-    "geom:latitude":40.09282,
-    "geom:longitude":111.86629,
-    "gn:admin1_code":"20.0",
-    "gn:asciiname":"Kangbu",
-    "gn:country_code":"CN",
-    "gn:dem":1196,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8419214,
-    "gn:latitude":40.09282,
-    "gn:longitude":111.86629,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Kangbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.84629,40.07282,111.88629,40.11282",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5eb7\u5821"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.86629,40.09282,111.86629,40.09282",
+    "geom:latitude": 40.09282,
+    "geom:longitude": 111.86629,
+    "gn:admin1_code": "20.0",
+    "gn:asciiname": "Kangbu",
+    "gn:country_code": "CN",
+    "gn:dem": 1196,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8419214,
+    "gn:latitude": 40.09282,
+    "gn:longitude": 111.86629,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Kangbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.84629,40.07282,111.88629,40.11282",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "康堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        890513779
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890513779,
+      1127150124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8419214
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8419214
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dd993a6cb88a25b430a023e0f9c41966",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513779,
-            "empire_id":136253041,
-            "locality_id":1309867345,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dd993a6cb88a25b430a023e0f9c41966",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513779,
+        "empire_id": 136253041,
+        "locality_id": 1309867345,
+        "region_id": 85669847,
+        "localadmin_id": 1127150124
+      }
     ],
-    "wof:id":1309867345,
-    "wof:lastmodified":1566693557,
-    "wof:name":"Kangbu",
-    "wof:parent_id":890513779,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309867345,
+    "wof:lastmodified": 1768667026,
+    "wof:name": "Kangbu",
+    "wof:parent_id": 1127150124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.86629,
     40.09282,
     111.86629,
     40.09282
-],
-  "geometry": {"coordinates":[111.86629000000001,40.09282],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.86629,
+      40.09282
+    ],
+    "type": "Point"
+  }
 }

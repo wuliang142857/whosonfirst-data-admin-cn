@@ -2,75 +2,83 @@
   "id": 1243599725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.246,30.1624,105.246,30.1624",
-    "geom:latitude":30.1624,
-    "geom:longitude":105.246,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Jielong",
-    "gn:country_code":"CN",
-    "gn:dem":406,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10185525,
-    "gn:latitude":30.1624,
-    "gn:longitude":105.246,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Jielong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.226,30.1424,105.266,30.1824",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7ed3\u9f99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.246,30.1624,105.246,30.1624",
+    "geom:latitude": 30.1624,
+    "geom:longitude": 105.246,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Jielong",
+    "gn:country_code": "CN",
+    "gn:dem": 406,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10185525,
+    "gn:latitude": 30.1624,
+    "gn:longitude": 105.246,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Jielong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.226,30.1424,105.266,30.1824",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "结龙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10185525
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10185525
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aff6019fb73d419e407349fe9f112fcc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1243599725,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aff6019fb73d419e407349fe9f112fcc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1243599725,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1243599725,
-    "wof:lastmodified":1566695869,
-    "wof:name":"Jielong",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243599725,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Jielong",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.246,
     30.1624,
     105.246,
     30.1624
-],
-  "geometry": {"coordinates":[105.246,30.1624],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.246,
+      30.1624
+    ],
+    "type": "Point"
+  }
 }

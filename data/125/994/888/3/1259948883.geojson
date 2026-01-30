@@ -2,75 +2,83 @@
   "id": 1259948883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.673,37.4733,105.673,37.4733",
-    "geom:latitude":37.4733,
-    "geom:longitude":105.673,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Xiaozha",
-    "gn:country_code":"CN",
-    "gn:dem":1192,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10188395,
-    "gn:latitude":37.4733,
-    "gn:longitude":105.673,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Xiaozha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.653,37.4533,105.693,37.4933",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8096\u95f8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.673,37.4733,105.673,37.4733",
+    "geom:latitude": 37.4733,
+    "geom:longitude": 105.673,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Xiaozha",
+    "gn:country_code": "CN",
+    "gn:dem": 1192,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10188395,
+    "gn:latitude": 37.4733,
+    "gn:longitude": 105.673,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Xiaozha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.653,37.4533,105.693,37.4933",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "肖闸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890512733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890512733,
+      1127640521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10188395
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10188395
     },
-    "wof:country":"CN",
-    "wof:geomhash":"60dc14487f0e54666e6a962dd26d8587",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512733,
-            "empire_id":136253041,
-            "locality_id":1259948883,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "60dc14487f0e54666e6a962dd26d8587",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512733,
+        "empire_id": 136253041,
+        "locality_id": 1259948883,
+        "region_id": 85669763,
+        "localadmin_id": 1127640521
+      }
     ],
-    "wof:id":1259948883,
-    "wof:lastmodified":1566699889,
-    "wof:name":"Xiaozha",
-    "wof:parent_id":890512733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259948883,
+    "wof:lastmodified": 1768667214,
+    "wof:name": "Xiaozha",
+    "wof:parent_id": 1127640521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.673,
     37.4733,
     105.673,
     37.4733
-],
-  "geometry": {"coordinates":[105.673,37.4733],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.673,
+      37.4733
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1243323409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.94352,22.9725,112.94352,22.9725",
-    "geom:latitude":22.9725,
-    "geom:longitude":112.94352,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Rulin",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8366811,
-    "gn:latitude":22.9725,
-    "gn:longitude":112.94352,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Rulin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.92352,22.9525,112.96352,22.9925",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5112\u6797"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.94352,22.9725,112.94352,22.9725",
+    "geom:latitude": 22.9725,
+    "geom:longitude": 112.94352,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Rulin",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8366811,
+    "gn:latitude": 22.9725,
+    "gn:longitude": 112.94352,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Rulin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.92352,22.9525,112.96352,22.9925",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "儒林"
     ],
-    "name:zho_x_variant":[
-        "\u5112\u6797\u9547"
+    "name:zho_x_variant": [
+      "儒林镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513089
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513089,
+      890516753
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8366811
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8366811
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0ef6b1f72c92adeecd915bb749c056a3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513089,
-            "empire_id":136253041,
-            "locality_id":1243323409,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0ef6b1f72c92adeecd915bb749c056a3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513089,
+        "empire_id": 136253041,
+        "locality_id": 1243323409,
+        "region_id": 85669743,
+        "localadmin_id": 890516753
+      }
     ],
-    "wof:id":1243323409,
-    "wof:lastmodified":1566696077,
-    "wof:name":"Rulin",
-    "wof:parent_id":890513089,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243323409,
+    "wof:lastmodified": 1768668382,
+    "wof:name": "Rulin",
+    "wof:parent_id": 890516753,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.94352,
     22.9725,
     112.94352,
     22.9725
-],
-  "geometry": {"coordinates":[112.94352000000001,22.9725],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.94352,
+      22.9725
+    ],
+    "type": "Point"
+  }
 }

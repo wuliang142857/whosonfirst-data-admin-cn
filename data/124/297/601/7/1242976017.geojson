@@ -2,80 +2,88 @@
   "id": 1242976017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.41661,32.05806,121.41661,32.05806",
-    "geom:latitude":32.05806,
-    "geom:longitude":121.41661,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Baochang",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1816981,
-    "gn:latitude":32.05806,
-    "gn:longitude":121.41661,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Baochang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.39661,32.03806,121.43661,32.07806",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pao-ch\u2019ang",
-        "Pao-ch\u2019ang-chen",
-        "Baochang",
-        "\u5305\u573a",
-        "Baochang Zhen",
-        "\u5305\u573a\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.41661,32.05806,121.41661,32.05806",
+    "geom:latitude": 32.05806,
+    "geom:longitude": 121.41661,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Baochang",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1816981,
+    "gn:latitude": 32.05806,
+    "gn:longitude": 121.41661,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Baochang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.39661,32.03806,121.43661,32.07806",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pao-ch’ang",
+      "Pao-ch’ang-chen",
+      "Baochang",
+      "包场",
+      "Baochang Zhen",
+      "包场镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515155,
+      1125293133
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1816981
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1816981
     },
-    "wof:country":"CN",
-    "wof:geomhash":"462797232987a88b5d940e09ae0d1ec7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515155,
-            "empire_id":136253041,
-            "locality_id":1242976017,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "462797232987a88b5d940e09ae0d1ec7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515155,
+        "empire_id": 136253041,
+        "locality_id": 1242976017,
+        "region_id": 85669827,
+        "localadmin_id": 1125293133
+      }
     ],
-    "wof:id":1242976017,
-    "wof:lastmodified":1566697187,
-    "wof:name":"Baochang",
-    "wof:parent_id":890515155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242976017,
+    "wof:lastmodified": 1768670803,
+    "wof:name": "Baochang",
+    "wof:parent_id": 1125293133,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.41661,
     32.05806,
     121.41661,
     32.05806
-],
-  "geometry": {"coordinates":[121.41661000000001,32.05806],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.41661,
+      32.05806
+    ],
+    "type": "Point"
+  }
 }

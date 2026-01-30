@@ -2,79 +2,87 @@
   "id": 1293657167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.30501,40.10129,112.30501,40.10129",
-    "geom:latitude":40.10129,
-    "geom:longitude":112.30501,
-    "gn:admin1_code":"24.0",
-    "gn:asciiname":"Yangqianhe",
-    "gn:country_code":"CN",
-    "gn:dem":1347,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7516251,
-    "gn:latitude":40.10129,
-    "gn:longitude":112.30501,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yangqianhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.28501,40.08129,112.32501,40.12129",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yangqianhe Xiang",
-        "\u6768\u5343\u6cb3\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.30501,40.10129,112.30501,40.10129",
+    "geom:latitude": 40.10129,
+    "geom:longitude": 112.30501,
+    "gn:admin1_code": "24.0",
+    "gn:asciiname": "Yangqianhe",
+    "gn:country_code": "CN",
+    "gn:dem": 1347,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7516251,
+    "gn:latitude": 40.10129,
+    "gn:longitude": 112.30501,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yangqianhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.28501,40.08129,112.32501,40.12129",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yangqianhe Xiang",
+      "杨千河乡"
     ],
-    "name:zho_x_preferred":[
-        "\u6768\u5343\u6cb3"
+    "name:zho_x_preferred": [
+      "杨千河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513491
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513491,
+      1127140623
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7516251
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7516251
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b7d9d3311a4d2325f38712dae4c5b56b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513491,
-            "empire_id":136253041,
-            "locality_id":1293657167,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b7d9d3311a4d2325f38712dae4c5b56b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513491,
+        "empire_id": 136253041,
+        "locality_id": 1293657167,
+        "region_id": 85669773,
+        "localadmin_id": 1127140623
+      }
     ],
-    "wof:id":1293657167,
-    "wof:lastmodified":1566665807,
-    "wof:name":"Yangqianhe",
-    "wof:parent_id":890513491,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293657167,
+    "wof:lastmodified": 1768666425,
+    "wof:name": "Yangqianhe",
+    "wof:parent_id": 1127140623,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.30501,
     40.10129000000001,
     112.30501,
     40.10129000000001
-],
-  "geometry": {"coordinates":[112.30501,40.10129000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.30501,
+      40.10129000000001
+    ],
+    "type": "Point"
+  }
 }

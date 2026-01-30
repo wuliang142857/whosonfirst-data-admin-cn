@@ -2,75 +2,83 @@
   "id": 1293183407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.602,35.8525,103.602,35.8525",
-    "geom:latitude":35.8525,
-    "geom:longitude":103.602,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Majiaquan",
-    "gn:country_code":"CN",
-    "gn:dem":2019,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10681374,
-    "gn:latitude":35.8525,
-    "gn:longitude":103.602,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Majiaquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.582,35.8325,103.622,35.8725",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u5bb6\u5708"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.602,35.8525,103.602,35.8525",
+    "geom:latitude": 35.8525,
+    "geom:longitude": 103.602,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Majiaquan",
+    "gn:country_code": "CN",
+    "gn:dem": 2019,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10681374,
+    "gn:latitude": 35.8525,
+    "gn:longitude": 103.602,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Majiaquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.582,35.8325,103.622,35.8725",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马家圈"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10681374
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10681374
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7cd93340743cc9be56d56d325ea6d510",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1293183407,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7cd93340743cc9be56d56d325ea6d510",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1293183407,
+        "region_id": 85669711,
+        "localadmin_id": 1127621124
+      }
     ],
-    "wof:id":1293183407,
-    "wof:lastmodified":1566670535,
-    "wof:name":"Majiaquan",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293183407,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Majiaquan",
+    "wof:parent_id": 1127621124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.602,
     35.8525,
     103.602,
     35.8525
-],
-  "geometry": {"coordinates":[103.602,35.8525],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.602,
+      35.8525
+    ],
+    "type": "Point"
+  }
 }

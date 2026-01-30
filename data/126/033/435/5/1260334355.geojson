@@ -2,75 +2,83 @@
   "id": 1260334355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.73874,22.89668,112.73874,22.89668",
-    "geom:latitude":22.89668,
-    "geom:longitude":112.73874,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Chongbu",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8366719,
-    "gn:latitude":22.89668,
-    "gn:longitude":112.73874,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Chongbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.71874,22.87668,112.75874,22.91668",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5d07\u6b65"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.73874,22.89668,112.73874,22.89668",
+    "geom:latitude": 22.89668,
+    "geom:longitude": 112.73874,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Chongbu",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8366719,
+    "gn:latitude": 22.89668,
+    "gn:longitude": 112.73874,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Chongbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.71874,22.87668,112.75874,22.91668",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "崇步"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513089
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513089,
+      1127440608
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8366719
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8366719
     },
-    "wof:country":"CN",
-    "wof:geomhash":"16dd82619607a989e898f1ca4f2410a4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513089,
-            "empire_id":136253041,
-            "locality_id":1260334355,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "16dd82619607a989e898f1ca4f2410a4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513089,
+        "empire_id": 136253041,
+        "locality_id": 1260334355,
+        "region_id": 85669743,
+        "localadmin_id": 1127440608
+      }
     ],
-    "wof:id":1260334355,
-    "wof:lastmodified":1566687847,
-    "wof:name":"Chongbu",
-    "wof:parent_id":890513089,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260334355,
+    "wof:lastmodified": 1768668382,
+    "wof:name": "Chongbu",
+    "wof:parent_id": 1127440608,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.73874,
     22.89668,
     112.73874,
     22.89668
-],
-  "geometry": {"coordinates":[112.73874000000001,22.89668],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.73874,
+      22.89668
+    ],
+    "type": "Point"
+  }
 }

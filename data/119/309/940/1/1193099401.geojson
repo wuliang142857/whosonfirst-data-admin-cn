@@ -2,75 +2,83 @@
   "id": 1193099401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.44016,40.77286,123.44016,40.77286",
-    "geom:latitude":40.77286,
-    "geom:longitude":123.44016,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Huashancun",
-    "gn:country_code":"CN",
-    "gn:dem":307,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11566010,
-    "gn:latitude":40.77286,
-    "gn:longitude":123.44016,
-    "gn:modification_date":"2018-05-12",
-    "gn:name":"Huashancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.42016,40.75286,123.46016,40.79286",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u534e\u5c71\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.44016,40.77286,123.44016,40.77286",
+    "geom:latitude": 40.77286,
+    "geom:longitude": 123.44016,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Huashancun",
+    "gn:country_code": "CN",
+    "gn:dem": 307,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11566010,
+    "gn:latitude": 40.77286,
+    "gn:longitude": 123.44016,
+    "gn:modification_date": "2018-05-12",
+    "gn:name": "Huashancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.42016,40.75286,123.46016,40.79286",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "华山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514231
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514231,
+      1127210323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11566010
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11566010
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1846148296baae048ce5ef774028406c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514231,
-            "empire_id":136253041,
-            "locality_id":1193099401,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1846148296baae048ce5ef774028406c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514231,
+        "empire_id": 136253041,
+        "locality_id": 1193099401,
+        "region_id": 85669807,
+        "localadmin_id": 1127210323
+      }
     ],
-    "wof:id":1193099401,
-    "wof:lastmodified":1566684763,
-    "wof:name":"Huashancun",
-    "wof:parent_id":890514231,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193099401,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Huashancun",
+    "wof:parent_id": 1127210323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.44016,
     40.77286,
     123.44016,
     40.77286
-],
-  "geometry": {"coordinates":[123.44016000000001,40.77286],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.44016,
+      40.77286
+    ],
+    "type": "Point"
+  }
 }

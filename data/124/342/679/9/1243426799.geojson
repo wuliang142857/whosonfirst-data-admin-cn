@@ -2,78 +2,86 @@
   "id": 1243426799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.045,24.638,109.045,24.638",
-    "geom:latitude":24.638,
-    "geom:longitude":109.045,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Xiazhai",
-    "gn:country_code":"CN",
-    "gn:dem":242,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9943895,
-    "gn:latitude":24.638,
-    "gn:longitude":109.045,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Xiazhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.025,24.618,109.065,24.658",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Xiazhai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.045,24.638,109.045,24.638",
+    "geom:latitude": 24.638,
+    "geom:longitude": 109.045,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Xiazhai",
+    "gn:country_code": "CN",
+    "gn:dem": 242,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9943895,
+    "gn:latitude": 24.638,
+    "gn:longitude": 109.045,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Xiazhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.025,24.618,109.065,24.658",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Xiazhai"
     ],
-    "name:zho_x_preferred":[
-        "\u4e0b\u5be8"
+    "name:zho_x_preferred": [
+      "下寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9943895
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9943895
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4406a7ebdb6b580fde0abb8af9b31386",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1243426799,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4406a7ebdb6b580fde0abb8af9b31386",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1243426799,
+        "region_id": 85669717,
+        "localadmin_id": 1127450222
+      }
     ],
-    "wof:id":1243426799,
-    "wof:lastmodified":1566697496,
-    "wof:name":"Xiazhai",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243426799,
+    "wof:lastmodified": 1768665482,
+    "wof:name": "Xiazhai",
+    "wof:parent_id": 1127450222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.045,
     24.638,
     109.045,
     24.638
-],
-  "geometry": {"coordinates":[109.045,24.638],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.045,
+      24.638
+    ],
+    "type": "Point"
+  }
 }

@@ -2,85 +2,93 @@
   "id": 1226109059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.22288,33.0552,108.22288,33.0552",
-    "geom:latitude":33.0552,
-    "geom:longitude":108.22288,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Zhongba",
-    "gn:country_code":"CN",
-    "gn:dem":412,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1784464,
-    "gn:latitude":33.0552,
-    "gn:longitude":108.22288,
-    "gn:modification_date":"2016-11-22",
-    "gn:name":"Zhongba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.20288,33.0352,108.24288,33.0752",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Zhongba"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.22288,33.0552,108.22288,33.0552",
+    "geom:latitude": 33.0552,
+    "geom:longitude": 108.22288,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Zhongba",
+    "gn:country_code": "CN",
+    "gn:dem": 412,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1784464,
+    "gn:latitude": 33.0552,
+    "gn:longitude": 108.22288,
+    "gn:modification_date": "2016-11-22",
+    "gn:name": "Zhongba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.20288,33.0352,108.24288,33.0752",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Zhongba"
     ],
-    "name:deu_x_preferred":[
-        "Zhongba"
+    "name:deu_x_preferred": [
+      "Zhongba"
     ],
-    "name:und_x_variant":[
-        "Chung-pa-ho",
-        "Chung-pa"
+    "name:und_x_variant": [
+      "Chung-pa-ho",
+      "Chung-pa"
     ],
-    "name:zho_x_preferred":[
-        "\u4e2d\u575d"
+    "name:zho_x_preferred": [
+      "中坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515101,
+      1127610922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784464
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784464
     },
-    "wof:country":"CN",
-    "wof:geomhash":"14a0f36b919626208b63062ac5574bbf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1226109059,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "14a0f36b919626208b63062ac5574bbf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1226109059,
+        "region_id": 85669769,
+        "localadmin_id": 1127610922
+      }
     ],
-    "wof:id":1226109059,
-    "wof:lastmodified":1566701203,
-    "wof:name":"Zhongba",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226109059,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Zhongba",
+    "wof:parent_id": 1127610922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.22288,
     33.0552,
     108.22288,
     33.0552
-],
-  "geometry": {"coordinates":[108.22288,33.0552],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.22288,
+      33.0552
+    ],
+    "type": "Point"
+  }
 }

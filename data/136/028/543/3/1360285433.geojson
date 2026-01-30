@@ -2,81 +2,89 @@
   "id": 1360285433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.05969,32.11593,120.05969,32.11593",
-    "geom:latitude":32.11593,
-    "geom:longitude":120.05969,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Zhangqiao",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1785177,
-    "gn:latitude":32.11593,
-    "gn:longitude":120.05969,
-    "gn:modification_date":"2012-08-04",
-    "gn:name":"Zhangqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.03969,32.09593,120.07969,32.13593",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chang-chia-ch\u2019iao",
-        "Zhangjiaqiao",
-        "\u5f20\u5bb6\u6865",
-        "Zhangqiao",
-        "\u5f20\u6865\u9547",
-        "Zhangqiao Zhen",
-        "\u5f20\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.05969,32.11593,120.05969,32.11593",
+    "geom:latitude": 32.11593,
+    "geom:longitude": 120.05969,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Zhangqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1785177,
+    "gn:latitude": 32.11593,
+    "gn:longitude": 120.05969,
+    "gn:modification_date": "2012-08-04",
+    "gn:name": "Zhangqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.03969,32.09593,120.07969,32.13593",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chang-chia-ch’iao",
+      "Zhangjiaqiao",
+      "张家桥",
+      "Zhangqiao",
+      "张桥镇",
+      "Zhangqiao Zhen",
+      "张桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516237,
+      890516991
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1785177
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1785177
     },
-    "wof:country":"CN",
-    "wof:geomhash":"86ceeb8157402ef5c6242ca5ebdbdc8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1360285433,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "86ceeb8157402ef5c6242ca5ebdbdc8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1360285433,
+        "region_id": 85669827,
+        "localadmin_id": 890516991
+      }
     ],
-    "wof:id":1360285433,
-    "wof:lastmodified":1566691921,
-    "wof:name":"Zhangqiao",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360285433,
+    "wof:lastmodified": 1768670651,
+    "wof:name": "Zhangqiao",
+    "wof:parent_id": 890516991,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.05969,
     32.11593,
     120.05969,
     32.11593
-],
-  "geometry": {"coordinates":[120.05969,32.11593],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.05969,
+      32.11593
+    ],
+    "type": "Point"
+  }
 }

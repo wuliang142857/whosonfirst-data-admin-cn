@@ -2,78 +2,86 @@
   "id": 1243352355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.512,37.5952,115.512,37.5952",
-    "geom:latitude":37.5952,
-    "geom:longitude":115.512,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Nan'anyangcheng",
-    "gn:country_code":"CN",
-    "gn:dem":23,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9527184,
-    "gn:latitude":37.5952,
-    "gn:longitude":115.512,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Nan\u2019anyangcheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.492,37.5752,115.532,37.6152",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Nan\u2019anyangcheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.512,37.5952,115.512,37.5952",
+    "geom:latitude": 37.5952,
+    "geom:longitude": 115.512,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Nan'anyangcheng",
+    "gn:country_code": "CN",
+    "gn:dem": 23,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9527184,
+    "gn:latitude": 37.5952,
+    "gn:longitude": 115.512,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Nan’anyangcheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.492,37.5752,115.532,37.6152",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Nan’anyangcheng"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u5b89\u9633\u57ce"
+    "name:zho_x_preferred": [
+      "南安阳城"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516595
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516595,
+      1127131103
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9527184
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9527184
     },
-    "wof:country":"CN",
-    "wof:geomhash":"50c3c69b6b8aedfcc5c41240929ede3b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516595,
-            "empire_id":136253041,
-            "locality_id":1243352355,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "50c3c69b6b8aedfcc5c41240929ede3b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516595,
+        "empire_id": 136253041,
+        "locality_id": 1243352355,
+        "region_id": 85669797,
+        "localadmin_id": 1127131103
+      }
     ],
-    "wof:id":1243352355,
-    "wof:lastmodified":1566696124,
-    "wof:name":"Nan'anyangcheng",
-    "wof:parent_id":890516595,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243352355,
+    "wof:lastmodified": 1768669433,
+    "wof:name": "Nan'anyangcheng",
+    "wof:parent_id": 1127131103,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.512,
     37.5952,
     115.512,
     37.5952
-],
-  "geometry": {"coordinates":[115.512,37.5952],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.512,
+      37.5952
+    ],
+    "type": "Point"
+  }
 }

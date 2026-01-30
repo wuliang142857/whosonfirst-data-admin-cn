@@ -2,75 +2,83 @@
   "id": 1259950125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.445,34.4298,105.445,34.4298",
-    "geom:latitude":34.4298,
-    "geom:longitude":105.445,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xiepo",
-    "gn:country_code":"CN",
-    "gn:dem":1730,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429415,
-    "gn:latitude":34.4298,
-    "gn:longitude":105.445,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Xiepo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.425,34.4098,105.465,34.4498",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u659c\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.445,34.4298,105.445,34.4298",
+    "geom:latitude": 34.4298,
+    "geom:longitude": 105.445,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xiepo",
+    "gn:country_code": "CN",
+    "gn:dem": 1730,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429415,
+    "gn:latitude": 34.4298,
+    "gn:longitude": 105.445,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Xiepo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.425,34.4098,105.465,34.4498",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "斜坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429415
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429415
     },
-    "wof:country":"CN",
-    "wof:geomhash":"00db26132b00f70bfa67243f248a9909",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1259950125,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "00db26132b00f70bfa67243f248a9909",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1259950125,
+        "region_id": 85669711,
+        "localadmin_id": 1127620502
+      }
     ],
-    "wof:id":1259950125,
-    "wof:lastmodified":1566699423,
-    "wof:name":"Xiepo",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259950125,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Xiepo",
+    "wof:parent_id": 1127620502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.445,
     34.4298,
     105.445,
     34.4298
-],
-  "geometry": {"coordinates":[105.44499999999999,34.4298],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.445,
+      34.4298
+    ],
+    "type": "Point"
+  }
 }

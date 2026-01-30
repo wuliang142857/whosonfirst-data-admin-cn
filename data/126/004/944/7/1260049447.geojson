@@ -2,75 +2,83 @@
   "id": 1260049447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.504,24.5508,105.504,24.5508",
-    "geom:latitude":24.5508,
-    "geom:longitude":105.504,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Lunyang",
-    "gn:country_code":"CN",
-    "gn:dem":1122,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9912112,
-    "gn:latitude":24.5508,
-    "gn:longitude":105.504,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Lunyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.484,24.5308,105.524,24.5708",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8bba\u7f8a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.504,24.5508,105.504,24.5508",
+    "geom:latitude": 24.5508,
+    "geom:longitude": 105.504,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Lunyang",
+    "gn:country_code": "CN",
+    "gn:dem": 1122,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9912112,
+    "gn:latitude": 24.5508,
+    "gn:longitude": 105.504,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Lunyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.484,24.5308,105.524,24.5708",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "论羊"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9912112
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9912112
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d32ff168d1cf45cd95413d7a8a6d38ba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1260049447,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d32ff168d1cf45cd95413d7a8a6d38ba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1260049447,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1260049447,
-    "wof:lastmodified":1566687645,
-    "wof:name":"Lunyang",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260049447,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Lunyang",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.504,
     24.5508,
     105.504,
     24.5508
-],
-  "geometry": {"coordinates":[105.504,24.5508],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.504,
+      24.5508
+    ],
+    "type": "Point"
+  }
 }

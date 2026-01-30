@@ -2,75 +2,83 @@
   "id": 1327479071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.326,30.8865,106.326,30.8865",
-    "geom:latitude":30.8865,
-    "geom:longitude":106.326,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yongjiaba",
-    "gn:country_code":"CN",
-    "gn:dem":334,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10159452,
-    "gn:latitude":30.8865,
-    "gn:longitude":106.326,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Yongjiaba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.306,30.8665,106.346,30.9065",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u96cd\u5bb6\u575d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.326,30.8865,106.326,30.8865",
+    "geom:latitude": 30.8865,
+    "geom:longitude": 106.326,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yongjiaba",
+    "gn:country_code": "CN",
+    "gn:dem": 334,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10159452,
+    "gn:latitude": 30.8865,
+    "gn:longitude": 106.326,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Yongjiaba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.306,30.8665,106.346,30.9065",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "雍家坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      1127511323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10159452
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10159452
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c16137511083834c01b9813fa3dc79d7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1327479071,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c16137511083834c01b9813fa3dc79d7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1327479071,
+        "region_id": 85669787,
+        "localadmin_id": 1127511323
+      }
     ],
-    "wof:id":1327479071,
-    "wof:lastmodified":1566650369,
-    "wof:name":"Yongjiaba",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327479071,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Yongjiaba",
+    "wof:parent_id": 1127511323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.326,
     30.8865,
     106.326,
     30.8865
-],
-  "geometry": {"coordinates":[106.32599999999999,30.8865],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.326,
+      30.8865
+    ],
+    "type": "Point"
+  }
 }

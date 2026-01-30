@@ -2,81 +2,89 @@
   "id": 1226263647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.87361,25.13444,117.87361,25.13444",
-    "geom:latitude":25.13444,
-    "geom:longitude":117.87361,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Lantian",
-    "gn:country_code":"CN",
-    "gn:dem":617,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1920801,
-    "gn:latitude":25.13444,
-    "gn:longitude":117.87361,
-    "gn:modification_date":"2012-06-06",
-    "gn:name":"Lantian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.85361,25.11444,117.89361,25.15444",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lantian Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.87361,25.13444,117.87361,25.13444",
+    "geom:latitude": 25.13444,
+    "geom:longitude": 117.87361,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Lantian",
+    "gn:country_code": "CN",
+    "gn:dem": 617,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1920801,
+    "gn:latitude": 25.13444,
+    "gn:longitude": 117.87361,
+    "gn:modification_date": "2012-06-06",
+    "gn:name": "Lantian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.85361,25.11444,117.89361,25.15444",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lantian Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u84dd\u7530"
+    "name:zho_x_preferred": [
+      "蓝田"
     ],
-    "name:zho_x_variant":[
-        "\u84dd\u7530\u4e61"
+    "name:zho_x_variant": [
+      "蓝田乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514127,
+      1127350524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1920801
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1920801
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e9b8e6d116e8632bdcd303effd09e55b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1226263647,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e9b8e6d116e8632bdcd303effd09e55b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1226263647,
+        "region_id": 85669735,
+        "localadmin_id": 1127350524
+      }
     ],
-    "wof:id":1226263647,
-    "wof:lastmodified":1566701381,
-    "wof:name":"Lantian",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226263647,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Lantian",
+    "wof:parent_id": 1127350524,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.87361,
     25.13444,
     117.87361,
     25.13444
-],
-  "geometry": {"coordinates":[117.87361,25.13444],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.87361,
+      25.13444
+    ],
+    "type": "Point"
+  }
 }

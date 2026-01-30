@@ -2,75 +2,83 @@
   "id": 1243401091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.8177,22.562,99.8177,22.562",
-    "geom:latitude":22.562,
-    "geom:longitude":99.8177,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Baduo",
-    "gn:country_code":"CN",
-    "gn:dem":1452,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9914820,
-    "gn:latitude":22.562,
-    "gn:longitude":99.8177,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Baduo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"99.7977,22.542,99.8377,22.582",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u516b\u593a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.8177,22.562,99.8177,22.562",
+    "geom:latitude": 22.562,
+    "geom:longitude": 99.8177,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Baduo",
+    "gn:country_code": "CN",
+    "gn:dem": 1452,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9914820,
+    "gn:latitude": 22.562,
+    "gn:longitude": 99.8177,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Baduo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "99.7977,22.542,99.8377,22.582",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "八夺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514995
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514995,
+      1127530828
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9914820
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9914820
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3db7eaa48a512eb2aef2aaecdeca24f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514995,
-            "empire_id":136253041,
-            "locality_id":1243401091,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3db7eaa48a512eb2aef2aaecdeca24f5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514995,
+        "empire_id": 136253041,
+        "locality_id": 1243401091,
+        "region_id": 85669791,
+        "localadmin_id": 1127530828
+      }
     ],
-    "wof:id":1243401091,
-    "wof:lastmodified":1566695584,
-    "wof:name":"Baduo",
-    "wof:parent_id":890514995,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243401091,
+    "wof:lastmodified": 1768668367,
+    "wof:name": "Baduo",
+    "wof:parent_id": 1127530828,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.8177,
     22.562,
     99.8177,
     22.562
-],
-  "geometry": {"coordinates":[99.8177,22.562],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.8177,
+      22.562
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243329059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.93,41.7773,119.93,41.7773",
-    "geom:latitude":41.7773,
-    "geom:longitude":119.93,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Beigou",
-    "gn:country_code":"CN",
-    "gn:dem":622,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11490763,
-    "gn:latitude":41.7773,
-    "gn:longitude":119.93,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Beigou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.91,41.7573,119.95,41.7973",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.93,41.7773,119.93,41.7773",
+    "geom:latitude": 41.7773,
+    "geom:longitude": 119.93,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Beigou",
+    "gn:country_code": "CN",
+    "gn:dem": 622,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11490763,
+    "gn:latitude": 41.7773,
+    "gn:longitude": 119.93,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Beigou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.91,41.7573,119.95,41.7973",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515907,
+      1127211322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11490763
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11490763
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ac9390a5455e2ae993f5ea0228c418f1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515907,
-            "empire_id":136253041,
-            "locality_id":1243329059,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ac9390a5455e2ae993f5ea0228c418f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515907,
+        "empire_id": 136253041,
+        "locality_id": 1243329059,
+        "region_id": 85669807,
+        "localadmin_id": 1127211322
+      }
     ],
-    "wof:id":1243329059,
-    "wof:lastmodified":1566696084,
-    "wof:name":"Beigou",
-    "wof:parent_id":890515907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243329059,
+    "wof:lastmodified": 1768667054,
+    "wof:name": "Beigou",
+    "wof:parent_id": 1127211322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.93,
     41.7773,
     119.93,
     41.7773
-],
-  "geometry": {"coordinates":[119.93000000000001,41.7773],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.93,
+      41.7773
+    ],
+    "type": "Point"
+  }
 }

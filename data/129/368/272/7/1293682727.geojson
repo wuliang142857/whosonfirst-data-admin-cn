@@ -2,77 +2,85 @@
   "id": 1293682727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.72861,24.96056,117.72861,24.96056",
-    "geom:latitude":24.96056,
-    "geom:longitude":117.72861,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Longjuan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":630,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1802564,
-    "gn:latitude":24.96056,
-    "gn:longitude":117.72861,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Longjuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.70861,24.94056,117.74861,24.98056",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lung-ch\u00fcan",
-        "Longjuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.72861,24.96056,117.72861,24.96056",
+    "geom:latitude": 24.96056,
+    "geom:longitude": 117.72861,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Longjuan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 630,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1802564,
+    "gn:latitude": 24.96056,
+    "gn:longitude": 117.72861,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Longjuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.70861,24.94056,117.74861,24.98056",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lung-chüan",
+      "Longjuan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514127,
+      1127350524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1802564
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1802564
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6da6a6c16cc434164b285350f7a64476",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1293682727,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6da6a6c16cc434164b285350f7a64476",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1293682727,
+        "region_id": 85669735,
+        "localadmin_id": 1127350524
+      }
     ],
-    "wof:id":1293682727,
-    "wof:lastmodified":1566668934,
-    "wof:name":"Longjuan",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293682727,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Longjuan",
+    "wof:parent_id": 1127350524,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.72861,
     24.96056,
     117.72861,
     24.96056
-],
-  "geometry": {"coordinates":[117.72861,24.96056],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.72861,
+      24.96056
+    ],
+    "type": "Point"
+  }
 }

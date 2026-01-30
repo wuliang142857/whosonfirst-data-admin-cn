@@ -2,75 +2,83 @@
   "id": 1209798059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.826,34.3558,105.826,34.3558",
-    "geom:latitude":34.3558,
-    "geom:longitude":105.826,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Heigou",
-    "gn:country_code":"CN",
-    "gn:dem":1706,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429543,
-    "gn:latitude":34.3558,
-    "gn:longitude":105.826,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Heigou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.806,34.3358,105.846,34.3758",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ed1\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.826,34.3558,105.826,34.3558",
+    "geom:latitude": 34.3558,
+    "geom:longitude": 105.826,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Heigou",
+    "gn:country_code": "CN",
+    "gn:dem": 1706,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429543,
+    "gn:latitude": 34.3558,
+    "gn:longitude": 105.826,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Heigou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.806,34.3358,105.846,34.3758",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黑沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429543
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429543
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e1ec1cd86e129a85a7117ee30828918c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1209798059,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e1ec1cd86e129a85a7117ee30828918c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1209798059,
+        "region_id": 85669711,
+        "localadmin_id": 1127620502
+      }
     ],
-    "wof:id":1209798059,
-    "wof:lastmodified":1566680526,
-    "wof:name":"Heigou",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209798059,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Heigou",
+    "wof:parent_id": 1127620502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.826,
     34.3558,
     105.826,
     34.3558
-],
-  "geometry": {"coordinates":[105.82599999999999,34.3558],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.826,
+      34.3558
+    ],
+    "type": "Point"
+  }
 }

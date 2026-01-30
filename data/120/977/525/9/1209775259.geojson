@@ -2,75 +2,83 @@
   "id": 1209775259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.785,28.9752,105.785,28.9752",
-    "geom:latitude":28.9752,
-    "geom:longitude":105.785,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shengtan",
-    "gn:country_code":"CN",
-    "gn:dem":354,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10187660,
-    "gn:latitude":28.9752,
-    "gn:longitude":105.785,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shengtan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.765,28.9552,105.805,28.9952",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5723\u575b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.785,28.9752,105.785,28.9752",
+    "geom:latitude": 28.9752,
+    "geom:longitude": 105.785,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shengtan",
+    "gn:country_code": "CN",
+    "gn:dem": 354,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10187660,
+    "gn:latitude": 28.9752,
+    "gn:longitude": 105.785,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shengtan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.765,28.9552,105.805,28.9952",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "圣坛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10187660
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10187660
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c6c151808099e708814cb57ea4fe329c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1209775259,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c6c151808099e708814cb57ea4fe329c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1209775259,
+        "region_id": 85669787,
+        "localadmin_id": 1127510522
+      }
     ],
-    "wof:id":1209775259,
-    "wof:lastmodified":1566680373,
-    "wof:name":"Shengtan",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209775259,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Shengtan",
+    "wof:parent_id": 1127510522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.785,
     28.9752,
     105.785,
     28.9752
-],
-  "geometry": {"coordinates":[105.785,28.9752],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.785,
+      28.9752
+    ],
+    "type": "Point"
+  }
 }

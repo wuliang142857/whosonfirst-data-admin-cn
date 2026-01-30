@@ -2,86 +2,94 @@
   "id": 1243070553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.65313,28.04687,120.65313,28.04687",
-    "geom:latitude":28.04687,
-    "geom:longitude":120.65313,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Oubei",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1884579,
-    "gn:latitude":28.04687,
-    "gn:longitude":120.65313,
-    "gn:modification_date":"2012-11-09",
-    "gn:name":"Oubei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.63313,28.02687,120.67313,28.06687",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Qingshuibu",
-        "Qingshuibuzhen",
-        "Oubei",
-        "Oubei Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.65313,28.04687,120.65313,28.04687",
+    "geom:latitude": 28.04687,
+    "geom:longitude": 120.65313,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Oubei",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1884579,
+    "gn:latitude": 28.04687,
+    "gn:longitude": 120.65313,
+    "gn:modification_date": "2012-11-09",
+    "gn:name": "Oubei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.63313,28.02687,120.67313,28.06687",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Qingshuibu",
+      "Qingshuibuzhen",
+      "Oubei",
+      "Oubei Zhen"
     ],
-    "name:zho_x_preferred":[
-        "Ch\u2019ing-shui-fou"
+    "name:zho_x_preferred": [
+      "Ch’ing-shui-fou"
     ],
-    "name:zho_x_variant":[
-        "\u74ef\u5317",
-        "\u74ef\u5317\u9547",
-        "\u6e05\u6c34\u57e0"
+    "name:zho_x_variant": [
+      "瓯北",
+      "瓯北镇",
+      "清水埠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330324
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1884579
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1884579
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f9dc43bce9c35737bfc61cc6d87f35cf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1243070553,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f9dc43bce9c35737bfc61cc6d87f35cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1243070553,
+        "region_id": 85669835,
+        "localadmin_id": 1127330324
+      }
     ],
-    "wof:id":1243070553,
-    "wof:lastmodified":1566693826,
-    "wof:name":"Oubei",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243070553,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Oubei",
+    "wof:parent_id": 1127330324,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.65313,
     28.04687,
     120.65313,
     28.04687
-],
-  "geometry": {"coordinates":[120.65313,28.04687],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.65313,
+      28.04687
+    ],
+    "type": "Point"
+  }
 }

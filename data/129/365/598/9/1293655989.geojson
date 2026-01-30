@@ -2,75 +2,83 @@
   "id": 1293655989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.00316,32.40781,109.00316,32.40781",
-    "geom:latitude":32.40781,
-    "geom:longitude":109.00316,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Beishigou",
-    "gn:country_code":"CN",
-    "gn:dem":905,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11332764,
-    "gn:latitude":32.40781,
-    "gn:longitude":109.00316,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Beishigou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.98316,32.38781,109.02316,32.42781",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7891\u77f3\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.00316,32.40781,109.00316,32.40781",
+    "geom:latitude": 32.40781,
+    "geom:longitude": 109.00316,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Beishigou",
+    "gn:country_code": "CN",
+    "gn:dem": 905,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11332764,
+    "gn:latitude": 32.40781,
+    "gn:longitude": 109.00316,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Beishigou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.98316,32.38781,109.02316,32.42781",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "碑石沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11332764
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11332764
     },
-    "wof:country":"CN",
-    "wof:geomhash":"76b6189d5239286f44aa1e7444dc4fbf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1293655989,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "76b6189d5239286f44aa1e7444dc4fbf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1293655989,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1293655989,
-    "wof:lastmodified":1566665756,
-    "wof:name":"Beishigou",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293655989,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Beishigou",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.00316,
     32.40781,
     109.00316,
     32.40781
-],
-  "geometry": {"coordinates":[109.00315999999999,32.40781],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.00316,
+      32.40781
+    ],
+    "type": "Point"
+  }
 }

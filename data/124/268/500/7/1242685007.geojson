@@ -2,75 +2,83 @@
   "id": 1242685007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.19455,28.25414,116.19455,28.25414",
-    "geom:latitude":28.25414,
-    "geom:longitude":116.19455,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Gaoshan",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7330434,
-    "gn:latitude":28.25414,
-    "gn:longitude":116.19455,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Gaoshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.17455,28.23414,116.21455,28.27414",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9ad8\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.19455,28.25414,116.19455,28.25414",
+    "geom:latitude": 28.25414,
+    "geom:longitude": 116.19455,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Gaoshan",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7330434,
+    "gn:latitude": 28.25414,
+    "gn:longitude": 116.19455,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Gaoshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.17455,28.23414,116.21455,28.27414",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "高山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516469
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516469,
+      1127360124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7330434
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7330434
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3477c40b8896727a0986582930e3fab8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516469,
-            "empire_id":136253041,
-            "locality_id":1242685007,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3477c40b8896727a0986582930e3fab8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516469,
+        "empire_id": 136253041,
+        "locality_id": 1242685007,
+        "region_id": 85669823,
+        "localadmin_id": 1127360124
+      }
     ],
-    "wof:id":1242685007,
-    "wof:lastmodified":1566694774,
-    "wof:name":"Gaoshan",
-    "wof:parent_id":890516469,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242685007,
+    "wof:lastmodified": 1768670158,
+    "wof:name": "Gaoshan",
+    "wof:parent_id": 1127360124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.19455,
     28.25414,
     116.19455,
     28.25414
-],
-  "geometry": {"coordinates":[116.19455000000001,28.25414],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.19455,
+      28.25414
+    ],
+    "type": "Point"
+  }
 }

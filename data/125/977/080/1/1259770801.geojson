@@ -2,75 +2,83 @@
   "id": 1259770801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.46667,28.9,112.46667,28.9",
-    "geom:latitude":28.9,
-    "geom:longitude":112.46667,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Gonghua",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1810129,
-    "gn:latitude":28.9,
-    "gn:longitude":112.46667,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Gonghua",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.44667,28.88,112.48667,28.92",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5171\u534e\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.46667,28.9,112.46667,28.9",
+    "geom:latitude": 28.9,
+    "geom:longitude": 112.46667,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Gonghua",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1810129,
+    "gn:latitude": 28.9,
+    "gn:longitude": 112.46667,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Gonghua",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.44667,28.88,112.48667,28.92",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "共华镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516477
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516477,
+      1127430981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810129
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810129
     },
-    "wof:country":"CN",
-    "wof:geomhash":"15cc703d826d92667b9bc9412c54e4f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516477,
-            "empire_id":136253041,
-            "locality_id":1259770801,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "15cc703d826d92667b9bc9412c54e4f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516477,
+        "empire_id": 136253041,
+        "locality_id": 1259770801,
+        "region_id": 85669781,
+        "localadmin_id": 1127430981
+      }
     ],
-    "wof:id":1259770801,
-    "wof:lastmodified":1566698746,
-    "wof:name":"Gonghua",
-    "wof:parent_id":890516477,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259770801,
+    "wof:lastmodified": 1768670585,
+    "wof:name": "Gonghua",
+    "wof:parent_id": 1127430981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.46667,
     28.9,
     112.46667,
     28.9
-],
-  "geometry": {"coordinates":[112.46666999999999,28.9],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.46667,
+      28.9
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243519951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.116,41.7675,121.116,41.7675",
-    "geom:latitude":41.7675,
-    "geom:longitude":121.116,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Lishugou",
-    "gn:country_code":"CN",
-    "gn:dem":270,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11508841,
-    "gn:latitude":41.7675,
-    "gn:longitude":121.116,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Lishugou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.096,41.7475,121.136,41.7875",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u68a8\u6811\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.116,41.7675,121.116,41.7675",
+    "geom:latitude": 41.7675,
+    "geom:longitude": 121.116,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Lishugou",
+    "gn:country_code": "CN",
+    "gn:dem": 270,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11508841,
+    "gn:latitude": 41.7675,
+    "gn:longitude": 121.116,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Lishugou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.096,41.7475,121.136,41.7875",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "梨树沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515907,
+      1127211381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11508841
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11508841
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9a31125f226d50ba50af07c389b1466f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515907,
-            "empire_id":136253041,
-            "locality_id":1243519951,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9a31125f226d50ba50af07c389b1466f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515907,
+        "empire_id": 136253041,
+        "locality_id": 1243519951,
+        "region_id": 85669807,
+        "localadmin_id": 1127211381
+      }
     ],
-    "wof:id":1243519951,
-    "wof:lastmodified":1566696220,
-    "wof:name":"Lishugou",
-    "wof:parent_id":890515907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243519951,
+    "wof:lastmodified": 1768667054,
+    "wof:name": "Lishugou",
+    "wof:parent_id": 1127211381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.116,
     41.7675,
     121.116,
     41.7675
-],
-  "geometry": {"coordinates":[121.116,41.7675],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.116,
+      41.7675
+    ],
+    "type": "Point"
+  }
 }

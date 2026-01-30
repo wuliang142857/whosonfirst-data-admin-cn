@@ -2,99 +2,390 @@
   "id": 1125350173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.29208,22.80087,113.29208,22.80087",
-    "geom:latitude":22.80087,
-    "geom:longitude":113.29208,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"113.19208,22.70087,113.39208,22.90087",
-    "lbl:latitude":22.80087,
-    "lbl:longitude":113.29208,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:und_x_variant":[
-        "Shunde"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.001013742567,
+    "geom:area_square_m": 1013742567.34,
+    "geom:bbox": "113.003817,22.676127,113.385619,23.010181",
+    "geom:latitude": 22.843154,
+    "geom:longitude": 113.194718,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "113.09472,22.74315,113.29472,22.94315",
+    "lbl:latitude": 22.80087,
+    "lbl:longitude": 113.29208,
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:und_x_variant": [
+      "Shunde"
     ],
-    "name:zho_x_preferred":[
-        "\u987a\u5fb7"
+    "name:zho_x_preferred": [
+      "顺德"
     ],
-    "qs_pg:aaroncc":"CN",
-    "qs_pg:gn_country":"CN",
-    "qs_pg:gn_fcode":"PPLA3",
-    "qs_pg:gn_id":6922213,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"\u987a\u5fb7\u533a",
-    "qs_pg:name_adm0":"\u4e2d\u570b",
-    "qs_pg:name_adm1":"\u5e7f\u4e1c\u7701",
-    "qs_pg:photos":538,
-    "qs_pg:photos_1k":109,
-    "qs_pg:photos_9k":10,
-    "qs_pg:photos_9r":9,
-    "qs_pg:photos_all":2233,
-    "qs_pg:photos_sr":7,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":906531,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
-    "qs_pg:woe_adm0":23424781,
-    "qs_pg:woe_id":12687659,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424781,
-    "woe:name_adm0":"\u4e2d\u570b",
-    "woe:name_adm1":"\u5e7f\u4e1c\u7701",
-    "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513089
+    "qs_pg:aaroncc": "CN",
+    "qs_pg:gn_country": "CN",
+    "qs_pg:gn_fcode": "PPLA3",
+    "qs_pg:gn_id": 6922213,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "顺德区",
+    "qs_pg:name_adm0": "中國",
+    "qs_pg:name_adm1": "广东省",
+    "qs_pg:photos": 538,
+    "qs_pg:photos_1k": 109,
+    "qs_pg:photos_9k": 10,
+    "qs_pg:photos_9r": 9,
+    "qs_pg:photos_all": 2233,
+    "qs_pg:photos_sr": 7,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 906531,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "qs_pg:qs_pg_placetype_gp": "LocalAdmin",
+    "qs_pg:woe_adm0": 23424781,
+    "qs_pg:woe_id": 12687659,
+    "src:geom": "qs_pg",
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424781,
+    "woe:name_adm0": "中國",
+    "woe:name_adm1": "广东省",
+    "woe:placetype": "LocalAdmin",
+    "wof:belongsto": [
+      85669743,
+      102191569,
+      85632695,
+      136253041,
+      890513089
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6922213,
-        "gp:id":12687659,
-        "qs_pg:id":906531
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6922213,
+      "gp:id": 12687659,
+      "qs_pg:id": 906531,
+      "gb:id": "156440606"
     },
-    "wof:country":"CN",
-    "wof:created":1497046156,
-    "wof:geomhash":"ae135db89b35847267047ef575905e06",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513089,
-            "empire_id":136253041,
-            "localadmin_id":1125350173,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:created": 1497046156,
+    "wof:geomhash": "ae135db89b35847267047ef575905e06",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513089,
+        "empire_id": 136253041,
+        "localadmin_id": 1125350173,
+        "region_id": 85669743
+      }
     ],
-    "wof:id":1125350173,
-    "wof:lastmodified":1566693800,
-    "wof:name":"\u987a\u5fb7\u533a",
-    "wof:parent_id":890513089,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125350173,
+    "wof:lastmodified": 1768664150,
+    "wof:name": "顺德区",
+    "wof:parent_id": 890513089,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    113.29208,
-    22.80087,
-    113.29208,
-    22.80087
-],
-  "geometry": {"coordinates":[113.29208,22.80087],"type":"Point"}
+    113.003817,
+    22.676127,
+    113.385619,
+    23.010181
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            113.244459,
+            22.980726
+          ],
+          [
+            113.251301,
+            22.96898
+          ],
+          [
+            113.282448,
+            22.953345
+          ],
+          [
+            113.289842,
+            22.944573
+          ],
+          [
+            113.292639,
+            22.936976
+          ],
+          [
+            113.277045,
+            22.930301
+          ],
+          [
+            113.279066,
+            22.911038
+          ],
+          [
+            113.271753,
+            22.895671
+          ],
+          [
+            113.295113,
+            22.879709
+          ],
+          [
+            113.291545,
+            22.862948
+          ],
+          [
+            113.304086,
+            22.854082
+          ],
+          [
+            113.308818,
+            22.831127
+          ],
+          [
+            113.329761,
+            22.821863
+          ],
+          [
+            113.368308,
+            22.82541
+          ],
+          [
+            113.385619,
+            22.813335
+          ],
+          [
+            113.375935,
+            22.800882
+          ],
+          [
+            113.350865,
+            22.795499
+          ],
+          [
+            113.359075,
+            22.776213
+          ],
+          [
+            113.325497,
+            22.753744
+          ],
+          [
+            113.324666,
+            22.744703
+          ],
+          [
+            113.302164,
+            22.739444
+          ],
+          [
+            113.279919,
+            22.741602
+          ],
+          [
+            113.262915,
+            22.727998
+          ],
+          [
+            113.248155,
+            22.745037
+          ],
+          [
+            113.235802,
+            22.74729
+          ],
+          [
+            113.224759,
+            22.725871
+          ],
+          [
+            113.195013,
+            22.687666
+          ],
+          [
+            113.194526,
+            22.680186
+          ],
+          [
+            113.183943,
+            22.676722
+          ],
+          [
+            113.168657,
+            22.683655
+          ],
+          [
+            113.156749,
+            22.676127
+          ],
+          [
+            113.108364,
+            22.704111
+          ],
+          [
+            113.09424,
+            22.702025
+          ],
+          [
+            113.085257,
+            22.712862
+          ],
+          [
+            113.075122,
+            22.747923
+          ],
+          [
+            113.072662,
+            22.774216
+          ],
+          [
+            113.05665,
+            22.800871
+          ],
+          [
+            113.061999,
+            22.817021
+          ],
+          [
+            113.05939,
+            22.822958
+          ],
+          [
+            113.048797,
+            22.82581
+          ],
+          [
+            113.042692,
+            22.833993
+          ],
+          [
+            113.021932,
+            22.844166
+          ],
+          [
+            113.003817,
+            22.87292
+          ],
+          [
+            113.010676,
+            22.885195
+          ],
+          [
+            113.038724,
+            22.885771
+          ],
+          [
+            113.041708,
+            22.900308
+          ],
+          [
+            113.051771,
+            22.910164
+          ],
+          [
+            113.049661,
+            22.92112
+          ],
+          [
+            113.038688,
+            22.924893
+          ],
+          [
+            113.043646,
+            22.935033
+          ],
+          [
+            113.052331,
+            22.934039
+          ],
+          [
+            113.063214,
+            22.939564
+          ],
+          [
+            113.058415,
+            22.953095
+          ],
+          [
+            113.046612,
+            22.964887
+          ],
+          [
+            113.04633,
+            22.978243
+          ],
+          [
+            113.070507,
+            22.9835
+          ],
+          [
+            113.105187,
+            22.974965
+          ],
+          [
+            113.126648,
+            22.977599
+          ],
+          [
+            113.141442,
+            22.989123
+          ],
+          [
+            113.156326,
+            22.985757
+          ],
+          [
+            113.163055,
+            22.997868
+          ],
+          [
+            113.169188,
+            22.992352
+          ],
+          [
+            113.177347,
+            22.997147
+          ],
+          [
+            113.179452,
+            23.005206
+          ],
+          [
+            113.194398,
+            23.010181
+          ],
+          [
+            113.210782,
+            23.009182
+          ],
+          [
+            113.217558,
+            23.005769
+          ],
+          [
+            113.217796,
+            22.996114
+          ],
+          [
+            113.226489,
+            22.983903
+          ],
+          [
+            113.244459,
+            22.980726
+          ]
+        ]
+      ]
+    ]
+  }
 }

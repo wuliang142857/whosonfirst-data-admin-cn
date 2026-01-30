@@ -2,79 +2,87 @@
   "id": 1242767045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.10639,33.95333,116.10639,33.95333",
-    "geom:latitude":33.95333,
-    "geom:longitude":116.10639,
-    "gn:admin1_code":"09",
-    "gn:asciiname":"Cuocheng",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1814658,
-    "gn:latitude":33.95333,
-    "gn:longitude":116.10639,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Cuocheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.08639,33.93333,116.12639,33.97333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zancheng",
-        "Ts\u2019o-hsien-ch\u2019eng",
-        "Tsan-ch\u2019eng",
-        "Cuocheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.10639,33.95333,116.10639,33.95333",
+    "geom:latitude": 33.95333,
+    "geom:longitude": 116.10639,
+    "gn:admin1_code": "09",
+    "gn:asciiname": "Cuocheng",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1814658,
+    "gn:latitude": 33.95333,
+    "gn:longitude": 116.10639,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Cuocheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.08639,33.93333,116.12639,33.97333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zancheng",
+      "Ts’o-hsien-ch’eng",
+      "Tsan-ch’eng",
+      "Cuocheng"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513859,
+      890514845
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1814658
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1814658
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8388f5fc182391c54c85ee962fb49651",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514845,
-            "empire_id":136253041,
-            "locality_id":1242767045,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8388f5fc182391c54c85ee962fb49651",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514845,
+        "empire_id": 136253041,
+        "locality_id": 1242767045,
+        "region_id": 85669801,
+        "localadmin_id": 890513859
+      }
     ],
-    "wof:id":1242767045,
-    "wof:lastmodified":1566696783,
-    "wof:name":"Cuocheng",
-    "wof:parent_id":890514845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242767045,
+    "wof:lastmodified": 1768669080,
+    "wof:name": "Cuocheng",
+    "wof:parent_id": 890513859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.10639,
     33.95333,
     116.10639,
     33.95333
-],
-  "geometry": {"coordinates":[116.10639,33.95333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.10639,
+      33.95333
+    ],
+    "type": "Point"
+  }
 }

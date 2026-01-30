@@ -2,75 +2,83 @@
   "id": 1242636655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.204,28.3257,105.204,28.3257",
-    "geom:latitude":28.3257,
-    "geom:longitude":105.204,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Dataizi",
-    "gn:country_code":"CN",
-    "gn:dem":379,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186601,
-    "gn:latitude":28.3257,
-    "gn:longitude":105.204,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Dataizi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.184,28.3057,105.224,28.3457",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u53f0\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.204,28.3257,105.204,28.3257",
+    "geom:latitude": 28.3257,
+    "geom:longitude": 105.204,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Dataizi",
+    "gn:country_code": "CN",
+    "gn:dem": 379,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186601,
+    "gn:latitude": 28.3257,
+    "gn:longitude": 105.204,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Dataizi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.184,28.3057,105.224,28.3457",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大台子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516537,
+      1127511528
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186601
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186601
     },
-    "wof:country":"CN",
-    "wof:geomhash":"641baca552b6356941614c42389b3369",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1242636655,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "641baca552b6356941614c42389b3369",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1242636655,
+        "region_id": 85669787,
+        "localadmin_id": 1127511528
+      }
     ],
-    "wof:id":1242636655,
-    "wof:lastmodified":1566697252,
-    "wof:name":"Dataizi",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242636655,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Dataizi",
+    "wof:parent_id": 1127511528,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.204,
     28.3257,
     105.204,
     28.3257
-],
-  "geometry": {"coordinates":[105.20399999999999,28.3257],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.204,
+      28.3257
+    ],
+    "type": "Point"
+  }
 }

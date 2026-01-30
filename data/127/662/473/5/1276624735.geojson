@@ -2,75 +2,83 @@
   "id": 1276624735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.311,37.3622,103.311,37.3622",
-    "geom:latitude":37.3622,
-    "geom:longitude":103.311,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhujiadun",
-    "gn:country_code":"CN",
-    "gn:dem":2252,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10648152,
-    "gn:latitude":37.3622,
-    "gn:longitude":103.311,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Zhujiadun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.291,37.3422,103.331,37.3822",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6731\u5bb6\u58a9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.311,37.3622,103.311,37.3622",
+    "geom:latitude": 37.3622,
+    "geom:longitude": 103.311,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhujiadun",
+    "gn:country_code": "CN",
+    "gn:dem": 2252,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10648152,
+    "gn:latitude": 37.3622,
+    "gn:longitude": 103.311,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Zhujiadun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.291,37.3422,103.331,37.3822",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "朱家墩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515301,
+      890516467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10648152
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10648152
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4ea0670e8b19c88d2ef6676a25237535",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1276624735,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4ea0670e8b19c88d2ef6676a25237535",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1276624735,
+        "region_id": 85669711,
+        "localadmin_id": 890515301
+      }
     ],
-    "wof:id":1276624735,
-    "wof:lastmodified":1566677868,
-    "wof:name":"Zhujiadun",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276624735,
+    "wof:lastmodified": 1768665873,
+    "wof:name": "Zhujiadun",
+    "wof:parent_id": 890515301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.311,
     37.3622,
     103.311,
     37.3622
-],
-  "geometry": {"coordinates":[103.31100000000001,37.3622],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.311,
+      37.3622
+    ],
+    "type": "Point"
+  }
 }

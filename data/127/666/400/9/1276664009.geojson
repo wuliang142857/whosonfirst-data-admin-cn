@@ -2,75 +2,83 @@
   "id": 1276664009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.99206,29.36613,114.99206,29.36613",
-    "geom:latitude":29.36613,
-    "geom:longitude":114.99206,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Tangjia",
-    "gn:country_code":"CN",
-    "gn:dem":583,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7746755,
-    "gn:latitude":29.36613,
-    "gn:longitude":114.99206,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Tangjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.97206,29.34613,115.01206,29.38613",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6c64\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.99206,29.36613,114.99206,29.36613",
+    "geom:latitude": 29.36613,
+    "geom:longitude": 114.99206,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Tangjia",
+    "gn:country_code": "CN",
+    "gn:dem": 583,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7746755,
+    "gn:latitude": 29.36613,
+    "gn:longitude": 114.99206,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Tangjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.97206,29.34613,115.01206,29.38613",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "汤家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7746755
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7746755
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a837b177ecd3e2a2617defe20da7ea64",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1276664009,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a837b177ecd3e2a2617defe20da7ea64",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1276664009,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1276664009,
-    "wof:lastmodified":1566674831,
-    "wof:name":"Tangjia",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276664009,
+    "wof:lastmodified": 1768669674,
+    "wof:name": "Tangjia",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.99206,
     29.36613,
     114.99206,
     29.36613
-],
-  "geometry": {"coordinates":[114.99206,29.36613],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.99206,
+      29.36613
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1226746283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.53333,44.8,124.53333,44.8",
-    "geom:latitude":44.8,
-    "geom:longitude":124.53333,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Shenjingzi",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":171,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2034941,
-    "gn:latitude":44.8,
-    "gn:longitude":124.53333,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Shenjingzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.51333,44.78,124.55333,44.82",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shen-ching-tzu",
-        "Shen\u2019tszintszy",
-        "Shenjingzi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.53333,44.8,124.53333,44.8",
+    "geom:latitude": 44.8,
+    "geom:longitude": 124.53333,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Shenjingzi",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 171,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2034941,
+    "gn:latitude": 44.8,
+    "gn:longitude": 124.53333,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Shenjingzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.51333,44.78,124.55333,44.82",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shen-ching-tzu",
+      "Shen’tszintszy",
+      "Shenjingzi"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890512763
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890512763,
+      1127220721
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2034941
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2034941
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ca841aab8a0db28dcab63493a8350c0d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512763,
-            "empire_id":136253041,
-            "locality_id":1226746283,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ca841aab8a0db28dcab63493a8350c0d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512763,
+        "empire_id": 136253041,
+        "locality_id": 1226746283,
+        "region_id": 85669843,
+        "localadmin_id": 1127220721
+      }
     ],
-    "wof:id":1226746283,
-    "wof:lastmodified":1566701548,
-    "wof:name":"Shenjingzi",
-    "wof:parent_id":890512763,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226746283,
+    "wof:lastmodified": 1768671034,
+    "wof:name": "Shenjingzi",
+    "wof:parent_id": 1127220721,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.53333,
     44.8,
     124.53333,
     44.8
-],
-  "geometry": {"coordinates":[124.53333000000001,44.8],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.53333,
+      44.8
+    ],
+    "type": "Point"
+  }
 }

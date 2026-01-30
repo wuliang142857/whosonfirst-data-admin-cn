@@ -2,75 +2,83 @@
   "id": 1293721001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.66437,43.8028,123.66437,43.8028",
-    "geom:latitude":43.8028,
-    "geom:longitude":123.66437,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Niuzu",
-    "gn:country_code":"CN",
-    "gn:dem":145,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10905959,
-    "gn:latitude":43.8028,
-    "gn:longitude":123.66437,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Niuzu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.64437,43.7828,123.68437,43.8228",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u725b\u7ec4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.66437,43.8028,123.66437,43.8028",
+    "geom:latitude": 43.8028,
+    "geom:longitude": 123.66437,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Niuzu",
+    "gn:country_code": "CN",
+    "gn:dem": 145,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10905959,
+    "gn:latitude": 43.8028,
+    "gn:longitude": 123.66437,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Niuzu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.64437,43.7828,123.68437,43.8228",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "牛组"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890514217
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514217,
+      1127220382
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10905959
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10905959
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bb2ab64fb3d924835e0fcdfffc54127f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514217,
-            "empire_id":136253041,
-            "locality_id":1293721001,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bb2ab64fb3d924835e0fcdfffc54127f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514217,
+        "empire_id": 136253041,
+        "locality_id": 1293721001,
+        "region_id": 85669843,
+        "localadmin_id": 1127220382
+      }
     ],
-    "wof:id":1293721001,
-    "wof:lastmodified":1566672011,
-    "wof:name":"Niuzu",
-    "wof:parent_id":890514217,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293721001,
+    "wof:lastmodified": 1768671068,
+    "wof:name": "Niuzu",
+    "wof:parent_id": 1127220382,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.66437,
     43.8028,
     123.66437,
     43.8028
-],
-  "geometry": {"coordinates":[123.66437000000001,43.8028],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.66437,
+      43.8028
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1225924007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.81019,30.17556,111.81019,30.17556",
-    "geom:latitude":30.17556,
-    "geom:longitude":111.81019,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Tiejiang'an",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7695023,
-    "gn:latitude":30.17556,
-    "gn:longitude":111.81019,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Tiejiang\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.79019,30.15556,111.83019,30.19556",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Tiejiang\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.81019,30.17556,111.81019,30.17556",
+    "geom:latitude": 30.17556,
+    "geom:longitude": 111.81019,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Tiejiang'an",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7695023,
+    "gn:latitude": 30.17556,
+    "gn:longitude": 111.81019,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Tiejiang’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.79019,30.15556,111.83019,30.19556",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Tiejiang’an"
     ],
-    "name:zho_x_variant":[
-        "\u94c1\u5320\u5cb8"
+    "name:zho_x_variant": [
+      "铁匠岸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732489
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514303,
+      1108732489
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7695023
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7695023
     },
-    "wof:country":"CN",
-    "wof:geomhash":"feaaefa6428397796962afad3c0fcdbd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732489,
-            "empire_id":136253041,
-            "locality_id":1225924007,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "feaaefa6428397796962afad3c0fcdbd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732489,
+        "empire_id": 136253041,
+        "locality_id": 1225924007,
+        "region_id": 85669777,
+        "localadmin_id": 890514303
+      }
     ],
-    "wof:id":1225924007,
-    "wof:lastmodified":1566700815,
-    "wof:name":"Tiejiang'an",
-    "wof:parent_id":1108732489,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225924007,
+    "wof:lastmodified": 1768665666,
+    "wof:name": "Tiejiang'an",
+    "wof:parent_id": 890514303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.81019,
     30.17556,
     111.81019,
     30.17556
-],
-  "geometry": {"coordinates":[111.81019000000001,30.17556],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.81019,
+      30.17556
+    ],
+    "type": "Point"
+  }
 }

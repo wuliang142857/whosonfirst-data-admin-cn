@@ -2,73 +2,81 @@
   "id": 1293626237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.85062,18.51724,109.85062,18.51724",
-    "geom:latitude":18.51724,
-    "geom:longitude":109.85062,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Musong",
-    "gn:country_code":"CN",
-    "gn:dem":65,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1917721,
-    "gn:latitude":18.51724,
-    "gn:longitude":109.85062,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Musong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.83062,18.49724,109.87062,18.53724",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6bcd\u9001"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.85062,18.51724,109.85062,18.51724",
+    "geom:latitude": 18.51724,
+    "geom:longitude": 109.85062,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Musong",
+    "gn:country_code": "CN",
+    "gn:dem": 65,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1917721,
+    "gn:latitude": 18.51724,
+    "gn:longitude": 109.85062,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Musong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.83062,18.49724,109.87062,18.53724",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "母送"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732539
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515213,
+      1108732539
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917721
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917721
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fd47b26293eaf1f54ccc924b6ea8463a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732539,
-            "locality_id":1293626237,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fd47b26293eaf1f54ccc924b6ea8463a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732539,
+        "locality_id": 1293626237,
+        "region_id": 85669759,
+        "localadmin_id": 890515213
+      }
     ],
-    "wof:id":1293626237,
-    "wof:lastmodified":1566665816,
-    "wof:name":"Musong",
-    "wof:parent_id":1108732539,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293626237,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Musong",
+    "wof:parent_id": 890515213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.85062,
     18.51724,
     109.85062,
     18.51724
-],
-  "geometry": {"coordinates":[109.85062000000001,18.51724],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.85062,
+      18.51724
+    ],
+    "type": "Point"
+  }
 }

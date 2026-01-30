@@ -2,75 +2,83 @@
   "id": 1310485981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.14153,32.69546,113.14153,32.69546",
-    "geom:latitude":32.69546,
-    "geom:longitude":113.14153,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Guogang",
-    "gn:country_code":"CN",
-    "gn:dem":141,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10424244,
-    "gn:latitude":32.69546,
-    "gn:longitude":113.14153,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Guogang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.12153,32.67546,113.16153,32.71546",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90ed\u5c97"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.14153,32.69546,113.14153,32.69546",
+    "geom:latitude": 32.69546,
+    "geom:longitude": 113.14153,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Guogang",
+    "gn:country_code": "CN",
+    "gn:dem": 141,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10424244,
+    "gn:latitude": 32.69546,
+    "gn:longitude": 113.14153,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Guogang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.12153,32.67546,113.16153,32.71546",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "郭岗"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890516339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890516339,
+      1127411328
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10424244
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10424244
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3fc21dfc571153d90e2ef629beb07f62",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516339,
-            "empire_id":136253041,
-            "locality_id":1310485981,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3fc21dfc571153d90e2ef629beb07f62",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516339,
+        "empire_id": 136253041,
+        "locality_id": 1310485981,
+        "region_id": 85669801,
+        "localadmin_id": 1127411328
+      }
     ],
-    "wof:id":1310485981,
-    "wof:lastmodified":1566688282,
-    "wof:name":"Guogang",
-    "wof:parent_id":890516339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310485981,
+    "wof:lastmodified": 1768669371,
+    "wof:name": "Guogang",
+    "wof:parent_id": 1127411328,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.14153,
     32.69546,
     113.14153,
     32.69546
-],
-  "geometry": {"coordinates":[113.14153,32.69546],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.14153,
+      32.69546
+    ],
+    "type": "Point"
+  }
 }

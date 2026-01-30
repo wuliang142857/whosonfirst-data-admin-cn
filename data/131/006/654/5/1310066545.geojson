@@ -2,75 +2,83 @@
   "id": 1310066545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.183,25.77,103.183,25.77",
-    "geom:latitude":25.77,
-    "geom:longitude":103.183,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Yaozidong",
-    "gn:country_code":"CN",
-    "gn:dem":2666,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10158388,
-    "gn:latitude":25.77,
-    "gn:longitude":103.183,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Yaozidong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.163,25.75,103.203,25.79",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8170\u5b50\u6d1e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.183,25.77,103.183,25.77",
+    "geom:latitude": 25.77,
+    "geom:longitude": 103.183,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Yaozidong",
+    "gn:country_code": "CN",
+    "gn:dem": 2666,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10158388,
+    "gn:latitude": 25.77,
+    "gn:longitude": 103.183,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Yaozidong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.163,25.75,103.203,25.79",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "腰子洞"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513129,
+      890513777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10158388
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10158388
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3cbce81e02556ecc7f33c86f1135cc65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1310066545,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3cbce81e02556ecc7f33c86f1135cc65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1310066545,
+        "region_id": 85669791,
+        "localadmin_id": 890513129
+      }
     ],
-    "wof:id":1310066545,
-    "wof:lastmodified":1566689588,
-    "wof:name":"Yaozidong",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310066545,
+    "wof:lastmodified": 1768668379,
+    "wof:name": "Yaozidong",
+    "wof:parent_id": 890513129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.183,
     25.77,
     103.183,
     25.77
-],
-  "geometry": {"coordinates":[103.18300000000001,25.77],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.183,
+      25.77
+    ],
+    "type": "Point"
+  }
 }

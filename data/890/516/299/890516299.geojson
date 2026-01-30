@@ -2,192 +2,571 @@
   "id": 890516299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.87348,34.3605,107.87348,34.3605",
-    "geom:latitude":34.3605,
-    "geom:longitude":107.87348,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":0,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"107.77348,34.2605,107.97348,34.4605",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ara_x_preferred":[
-        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0641\u0648\u0641\u0646\u063a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000881373019,
+    "geom:area_square_m": 881373018.75,
+    "geom:bbox": "107.750814,34.214994,108.047845,34.632077",
+    "geom:latitude": 34.423535,
+    "geom:longitude": 107.899329,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 0,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "107.79933,34.32353,107.99933,34.52354",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ara_x_preferred": [
+      "مقاطعة فوفنغ"
     ],
-    "name:ben_x_preferred":[
-        "\u09ab\u09c1\u09ab\u09c7\u0982 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
+    "name:ben_x_preferred": [
+      "ফুফেং কাউন্টি"
     ],
-    "name:ceb_x_preferred":[
-        "Fufeng Xian"
+    "name:ceb_x_preferred": [
+      "Fufeng Xian"
     ],
-    "name:dan_x_preferred":[
-        "Fufeng County"
+    "name:dan_x_preferred": [
+      "Fufeng County"
     ],
-    "name:deu_x_preferred":[
-        "Fufeng"
+    "name:deu_x_preferred": [
+      "Fufeng"
     ],
-    "name:ell_x_preferred":[
-        "\u03a6\u03bf\u03c5\u03c6\u03ad\u03bd\u03b3\u03ba"
+    "name:ell_x_preferred": [
+      "Φουφένγκ"
     ],
-    "name:eng_x_preferred":[
-        "Fufeng County"
+    "name:eng_x_preferred": [
+      "Fufeng County"
     ],
-    "name:fas_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0641\u0648\u0641\u0646\u06af"
+    "name:fas_x_preferred": [
+      "شهرستان فوفنگ"
     ],
-    "name:fin_x_preferred":[
-        "Fufengin kunta"
+    "name:fin_x_preferred": [
+      "Fufengin kunta"
     ],
-    "name:gan_x_preferred":[
-        "\u6276\u98ce\u53bf"
+    "name:gan_x_preferred": [
+      "扶风县"
     ],
-    "name:guj_x_preferred":[
-        "\u0aab\u0ac1\u0aab\u0ac7\u0a82\u0a97 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    "name:guj_x_preferred": [
+      "ફુફેંગ કાઉન્ટી"
     ],
-    "name:hin_x_preferred":[
-        "\u092b\u094d\u092f\u0942\u092b\u0947\u0902\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
+    "name:hin_x_preferred": [
+      "फ्यूफेंग काउंटी"
     ],
-    "name:hye_x_preferred":[
-        "\u0556\u0578\u0582\u0586\u0565\u0576"
+    "name:hye_x_preferred": [
+      "Ֆուֆեն"
     ],
-    "name:ind_x_preferred":[
-        "Fufeng County"
+    "name:ind_x_preferred": [
+      "Fufeng County"
     ],
-    "name:jpn_x_preferred":[
-        "\u6276\u98a8\u770c"
+    "name:jpn_x_preferred": [
+      "扶風県"
     ],
-    "name:kan_x_preferred":[
-        "\u0cab\u0cc1\u0cab\u0cc6\u0c82\u0c97\u0ccd \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    "name:kan_x_preferred": [
+      "ಫುಫೆಂಗ್ ಕೌಂಟಿ"
     ],
-    "name:kor_x_preferred":[
-        "\ud478\ud391\ud604"
+    "name:kor_x_preferred": [
+      "푸펑현"
     ],
-    "name:lav_x_preferred":[
-        "Fufenga"
+    "name:lav_x_preferred": [
+      "Fufenga"
     ],
-    "name:lit_x_preferred":[
-        "Fufengas"
+    "name:lit_x_preferred": [
+      "Fufengas"
     ],
-    "name:mar_x_preferred":[
-        "\u092b\u0942\u092b\u0947\u0902\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
+    "name:mar_x_preferred": [
+      "फूफेंग काउंटी"
     ],
-    "name:msa_x_preferred":[
-        "Fufeng County"
+    "name:msa_x_preferred": [
+      "Fufeng County"
     ],
-    "name:nan_x_preferred":[
-        "H\u00fb-hong-ko\u0101n"
+    "name:nan_x_preferred": [
+      "Hû-hong-koān"
     ],
-    "name:nld_x_preferred":[
-        "Fufeng"
+    "name:nld_x_preferred": [
+      "Fufeng"
     ],
-    "name:nob_x_preferred":[
-        "Fufeng"
+    "name:nob_x_preferred": [
+      "Fufeng"
     ],
-    "name:pol_x_preferred":[
-        "Powiat Fufeng"
+    "name:pol_x_preferred": [
+      "Powiat Fufeng"
     ],
-    "name:rus_x_preferred":[
-        "\u0424\u0443\u0444\u044d\u043d"
+    "name:rus_x_preferred": [
+      "Фуфэн"
     ],
-    "name:swe_x_preferred":[
-        "Fufeng"
+    "name:swe_x_preferred": [
+      "Fufeng"
     ],
-    "name:tel_x_preferred":[
-        "\u0c2b\u0c4d\u0c2f\u0c42\u0c2b\u0c46\u0c02\u0c17\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    "name:tel_x_preferred": [
+      "ఫ్యూఫెంగ్ కౌంటీ"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1d\u0e39\u0e40\u0e1f\u0e34\u0e07 \u0e04\u0e31\u0e19\u0e17\u0e23\u0e35\u0e48"
+    "name:tha_x_preferred": [
+      "ฝูเฟิง คันทรี่"
     ],
-    "name:tur_x_preferred":[
-        "Fufengy Country"
+    "name:tur_x_preferred": [
+      "Fufengy Country"
     ],
-    "name:ukr_x_preferred":[
-        "\u0424\u0443\u0444\u0435\u043d"
+    "name:ukr_x_preferred": [
+      "Фуфен"
     ],
-    "name:und_x_variant":[
-        "Fufyn"
+    "name:und_x_variant": [
+      "Fufyn"
     ],
-    "name:urd_x_preferred":[
-        "\u0641\u0648\u0641\u06cc\u0646\u062c \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    "name:urd_x_preferred": [
+      "فوفینج کاؤنٹی"
     ],
-    "name:vie_x_preferred":[
-        "Ph\u00f9 Phong"
+    "name:vie_x_preferred": [
+      "Phù Phong"
     ],
-    "name:wuu_x_preferred":[
-        "\u6276\u98ce\u53bf"
+    "name:wuu_x_preferred": [
+      "扶风县"
     ],
-    "name:yue_x_preferred":[
-        "\u6276\u98a8"
+    "name:yue_x_preferred": [
+      "扶風"
     ],
-    "name:zho_x_preferred":[
-        "\u6276\u98ce\u53bf"
+    "name:zho_x_preferred": [
+      "扶风县"
     ],
-    "qs:name":"\u6276\u98ce\u53bf",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u965d\u897f\u7701",
-    "qs:photos":29,
-    "qs:photos_1k":6,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":29,
-    "qs:photos_sr":2,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"5",
-    "src:population":"geonames",
-    "wd:wordcount":96,
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516525
+    "qs:name": "扶风县",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "陝西省",
+    "qs:photos": 29,
+    "qs:photos_1k": 6,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 29,
+    "qs:photos_sr": 2,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "5",
+    "src:population": "geonames",
+    "wd:wordcount": 96,
+    "wof:belongsto": [
+      85669769,
+      102191569,
+      85632695,
+      136253041,
+      890516525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811044,
-        "gp:id":12687176,
-        "qs_pg:id":191125,
-        "wd:id":"Q1339481",
-        "wk:page":"Fufeng County"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811044,
+      "gp:id": 12687176,
+      "qs_pg:id": 191125,
+      "wd:id": "Q1339481",
+      "wk:page": "Fufeng County",
+      "gb:id": "156610324"
     },
-    "wof:country":"CN",
-    "wof:created":1469055951,
-    "wof:geomhash":"370ad3bf42dc53cd9c21f04e237eed33",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516525,
-            "empire_id":136253041,
-            "localadmin_id":890516299,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055951,
+    "wof:geomhash": "370ad3bf42dc53cd9c21f04e237eed33",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516525,
+        "empire_id": 136253041,
+        "localadmin_id": 890516299,
+        "region_id": 85669769
+      }
     ],
-    "wof:id":890516299,
-    "wof:lastmodified":1566693636,
-    "wof:name":"\u6276\u98ce\u53bf",
-    "wof:parent_id":890516525,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516299,
+    "wof:lastmodified": 1768664152,
+    "wof:name": "扶风县",
+    "wof:parent_id": 890516525,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    107.87348,
-    34.3605,
-    107.87348,
-    34.3605
-],
-  "geometry": {"coordinates":[107.87348,34.3605],"type":"Point"}
+    107.750814,
+    34.214994,
+    108.047845,
+    34.632077
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            107.992027,
+            34.614297
+          ],
+          [
+            107.991712,
+            34.605641
+          ],
+          [
+            107.983195,
+            34.599821
+          ],
+          [
+            107.975875,
+            34.575377
+          ],
+          [
+            107.979058,
+            34.569245
+          ],
+          [
+            107.988593,
+            34.564959
+          ],
+          [
+            108.005174,
+            34.535301
+          ],
+          [
+            107.999309,
+            34.529327
+          ],
+          [
+            108.000393,
+            34.504943
+          ],
+          [
+            107.991726,
+            34.502064
+          ],
+          [
+            107.991509,
+            34.49189
+          ],
+          [
+            107.99721,
+            34.486516
+          ],
+          [
+            108.013181,
+            34.487206
+          ],
+          [
+            108.016321,
+            34.490085
+          ],
+          [
+            108.023655,
+            34.48292
+          ],
+          [
+            108.010174,
+            34.475589
+          ],
+          [
+            108.012151,
+            34.445262
+          ],
+          [
+            108.004198,
+            34.440355
+          ],
+          [
+            108.013059,
+            34.431488
+          ],
+          [
+            108.018496,
+            34.429511
+          ],
+          [
+            108.030103,
+            34.410796
+          ],
+          [
+            108.023951,
+            34.400774
+          ],
+          [
+            108.024679,
+            34.373849
+          ],
+          [
+            108.036068,
+            34.351179
+          ],
+          [
+            108.046101,
+            34.344156
+          ],
+          [
+            108.047845,
+            34.325004
+          ],
+          [
+            108.026832,
+            34.316337
+          ],
+          [
+            108.018004,
+            34.322678
+          ],
+          [
+            107.998706,
+            34.324264
+          ],
+          [
+            107.99392,
+            34.335285
+          ],
+          [
+            107.989296,
+            34.332186
+          ],
+          [
+            107.990728,
+            34.320761
+          ],
+          [
+            107.982928,
+            34.315474
+          ],
+          [
+            107.961552,
+            34.32366
+          ],
+          [
+            107.949194,
+            34.32344
+          ],
+          [
+            107.941429,
+            34.306307
+          ],
+          [
+            107.949076,
+            34.289361
+          ],
+          [
+            107.969049,
+            34.281567
+          ],
+          [
+            107.968265,
+            34.270181
+          ],
+          [
+            107.991237,
+            34.267994
+          ],
+          [
+            107.993508,
+            34.263527
+          ],
+          [
+            107.985524,
+            34.257496
+          ],
+          [
+            107.984024,
+            34.224272
+          ],
+          [
+            107.949641,
+            34.223019
+          ],
+          [
+            107.914283,
+            34.214994
+          ],
+          [
+            107.89368,
+            34.218073
+          ],
+          [
+            107.878957,
+            34.228278
+          ],
+          [
+            107.847984,
+            34.233767
+          ],
+          [
+            107.855598,
+            34.258575
+          ],
+          [
+            107.846472,
+            34.268235
+          ],
+          [
+            107.844211,
+            34.294396
+          ],
+          [
+            107.805617,
+            34.298265
+          ],
+          [
+            107.796907,
+            34.304741
+          ],
+          [
+            107.788052,
+            34.303242
+          ],
+          [
+            107.779455,
+            34.308901
+          ],
+          [
+            107.761357,
+            34.311049
+          ],
+          [
+            107.753924,
+            34.31777
+          ],
+          [
+            107.750814,
+            34.336674
+          ],
+          [
+            107.760548,
+            34.360996
+          ],
+          [
+            107.767542,
+            34.368007
+          ],
+          [
+            107.761082,
+            34.378559
+          ],
+          [
+            107.771722,
+            34.393559
+          ],
+          [
+            107.784458,
+            34.393465
+          ],
+          [
+            107.784939,
+            34.40648
+          ],
+          [
+            107.817399,
+            34.409093
+          ],
+          [
+            107.841254,
+            34.391685
+          ],
+          [
+            107.855195,
+            34.403252
+          ],
+          [
+            107.875114,
+            34.401777
+          ],
+          [
+            107.875285,
+            34.422472
+          ],
+          [
+            107.841355,
+            34.4608
+          ],
+          [
+            107.840192,
+            34.466095
+          ],
+          [
+            107.848333,
+            34.47586
+          ],
+          [
+            107.845446,
+            34.498603
+          ],
+          [
+            107.83411,
+            34.513349
+          ],
+          [
+            107.833985,
+            34.501338
+          ],
+          [
+            107.830595,
+            34.501134
+          ],
+          [
+            107.821428,
+            34.516518
+          ],
+          [
+            107.820693,
+            34.527688
+          ],
+          [
+            107.807159,
+            34.543558
+          ],
+          [
+            107.807934,
+            34.558086
+          ],
+          [
+            107.856087,
+            34.575513
+          ],
+          [
+            107.869344,
+            34.597077
+          ],
+          [
+            107.861918,
+            34.601782
+          ],
+          [
+            107.866099,
+            34.610373
+          ],
+          [
+            107.92537,
+            34.623705
+          ],
+          [
+            107.940473,
+            34.61922
+          ],
+          [
+            107.945701,
+            34.612479
+          ],
+          [
+            107.955201,
+            34.619457
+          ],
+          [
+            107.955053,
+            34.626152
+          ],
+          [
+            107.965189,
+            34.632077
+          ],
+          [
+            107.97148,
+            34.616752
+          ],
+          [
+            107.992027,
+            34.614297
+          ]
+        ]
+      ]
+    ]
+  }
 }

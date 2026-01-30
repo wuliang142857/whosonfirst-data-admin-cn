@@ -2,81 +2,89 @@
   "id": 1293162539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.4425,41.03694,107.4425,41.03694",
-    "geom:latitude":41.03694,
-    "geom:longitude":107.4425,
-    "gn:admin1_code":"20",
-    "gn:asciiname":"Langshan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1033,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2036242,
-    "gn:latitude":41.03694,
-    "gn:longitude":107.4425,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Langshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.4225,41.01694,107.4625,41.05694",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ces_x_preferred":[
-        "Lang-\u0161an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.4425,41.03694,107.4425,41.03694",
+    "geom:latitude": 41.03694,
+    "geom:longitude": 107.4425,
+    "gn:admin1_code": "20",
+    "gn:asciiname": "Langshan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1033,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2036242,
+    "gn:latitude": 41.03694,
+    "gn:longitude": 107.4425,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Langshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.4225,41.01694,107.4625,41.05694",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ces_x_preferred": [
+      "Lang-šan"
     ],
-    "name:und_x_variant":[
-        "Yung-an-pao",
-        "Yung-an-p\u2019u",
-        "Langshan"
+    "name:und_x_variant": [
+      "Yung-an-pao",
+      "Yung-an-p’u",
+      "Langshan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        1108732415
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      1108732415,
+      1127150802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2036242
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2036242
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1668f5fdfef353fe9c55ef5f5d415dfc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732415,
-            "empire_id":136253041,
-            "locality_id":1293162539,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1668f5fdfef353fe9c55ef5f5d415dfc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732415,
+        "empire_id": 136253041,
+        "locality_id": 1293162539,
+        "region_id": 85669847,
+        "localadmin_id": 1127150802
+      }
     ],
-    "wof:id":1293162539,
-    "wof:lastmodified":1566670880,
-    "wof:name":"Langshan",
-    "wof:parent_id":1108732415,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293162539,
+    "wof:lastmodified": 1768670747,
+    "wof:name": "Langshan",
+    "wof:parent_id": 1127150802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.4425,
     41.03694,
     107.4425,
     41.03694
-],
-  "geometry": {"coordinates":[107.4425,41.03694],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.4425,
+      41.03694
+    ],
+    "type": "Point"
+  }
 }

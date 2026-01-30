@@ -2,75 +2,83 @@
   "id": 1310272271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.115,35.6524,118.115,35.6524",
-    "geom:latitude":35.6524,
-    "geom:longitude":118.115,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Shibaoyu",
-    "gn:country_code":"CN",
-    "gn:dem":184,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9123464,
-    "gn:latitude":35.6524,
-    "gn:longitude":118.115,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Shibaoyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.095,35.6324,118.135,35.6724",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u5b9d\u5cea"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.115,35.6524,118.115,35.6524",
+    "geom:latitude": 35.6524,
+    "geom:longitude": 118.115,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Shibaoyu",
+    "gn:country_code": "CN",
+    "gn:dem": 184,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9123464,
+    "gn:latitude": 35.6524,
+    "gn:longitude": 118.115,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Shibaoyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.095,35.6324,118.135,35.6724",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石宝峪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514149,
+      1108732339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9123464
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9123464
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bf5ffb0520d785e67c383347da5ee2eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1310272271,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bf5ffb0520d785e67c383347da5ee2eb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1310272271,
+        "region_id": 85669813,
+        "localadmin_id": 890514149
+      }
     ],
-    "wof:id":1310272271,
-    "wof:lastmodified":1566689718,
-    "wof:name":"Shibaoyu",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310272271,
+    "wof:lastmodified": 1768668425,
+    "wof:name": "Shibaoyu",
+    "wof:parent_id": 890514149,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.115,
     35.6524,
     118.115,
     35.6524
-],
-  "geometry": {"coordinates":[118.11499999999999,35.6524],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.115,
+      35.6524
+    ],
+    "type": "Point"
+  }
 }

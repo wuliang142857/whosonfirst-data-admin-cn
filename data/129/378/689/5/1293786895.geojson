@@ -2,82 +2,90 @@
   "id": 1293786895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.36159,29.00911,118.36159,29.00911",
-    "geom:latitude":29.00911,
-    "geom:longitude":118.36159,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Gaoshan",
-    "gn:country_code":"CN",
-    "gn:dem":123,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7066438,
-    "gn:latitude":29.00911,
-    "gn:longitude":118.36159,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Gaoshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.34159,28.98911,118.38159,29.02911",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.36159,29.00911,118.36159,29.00911",
+    "geom:latitude": 29.00911,
+    "geom:longitude": 118.36159,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Gaoshan",
+    "gn:country_code": "CN",
+    "gn:dem": 123,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7066438,
+    "gn:latitude": 29.00911,
+    "gn:longitude": 118.36159,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Gaoshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.34159,28.98911,118.38159,29.02911",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514633,
+      1127330824
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7066438
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7066438
     },
-    "wof:concordances_alt":{
-        "gn:id":[
-            7090478
-        ]
+    "wof:concordances_alt": {
+      "gn:id": [
+        7090478
+      ]
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8c71f6a39afdcaa6612e6326b62f2bed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514633,
-            "empire_id":136253041,
-            "locality_id":1293786895,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8c71f6a39afdcaa6612e6326b62f2bed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514633,
+        "empire_id": 136253041,
+        "locality_id": 1293786895,
+        "region_id": 85669835,
+        "localadmin_id": 1127330824
+      }
     ],
-    "wof:id":1293786895,
-    "wof:lastmodified":1706239468,
-    "wof:name":"Gaoshan",
-    "wof:parent_id":890514633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1344265411
+    "wof:id": 1293786895,
+    "wof:lastmodified": 1768670250,
+    "wof:name": "Gaoshan",
+    "wof:parent_id": 1127330824,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1344265411
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     118.36159,
     29.00911,
     118.36159,
     29.00911
-],
-  "geometry": {"coordinates":[118.36159000000001,29.00911],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.36159,
+      29.00911
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1343633767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.912,23.1128,105.912,23.1128",
-    "geom:latitude":23.1128,
-    "geom:longitude":105.912,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Nahua",
-    "gn:country_code":"CN",
-    "gn:dem":513,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1902611,
-    "gn:latitude":23.1128,
-    "gn:longitude":105.912,
-    "gn:modification_date":"2015-01-07",
-    "gn:name":"Nahua",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.892,23.0928,105.932,23.1328",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a3\u5316"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.912,23.1128,105.912,23.1128",
+    "geom:latitude": 23.1128,
+    "geom:longitude": 105.912,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Nahua",
+    "gn:country_code": "CN",
+    "gn:dem": 513,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1902611,
+    "gn:latitude": 23.1128,
+    "gn:longitude": 105.912,
+    "gn:modification_date": "2015-01-07",
+    "gn:name": "Nahua",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.892,23.0928,105.932,23.1328",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "那化"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451026
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1902611
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1902611
     },
-    "wof:country":"CN",
-    "wof:geomhash":"70f8ace3e9bf2de269f5d0f66f42c69f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1343633767,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "70f8ace3e9bf2de269f5d0f66f42c69f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1343633767,
+        "region_id": 85669717,
+        "localadmin_id": 1127451026
+      }
     ],
-    "wof:id":1343633767,
-    "wof:lastmodified":1566657410,
-    "wof:name":"Nahua",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343633767,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Nahua",
+    "wof:parent_id": 1127451026,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.912,
     23.1128,
     105.912,
     23.1128
-],
-  "geometry": {"coordinates":[105.91200000000001,23.1128],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.912,
+      23.1128
+    ],
+    "type": "Point"
+  }
 }

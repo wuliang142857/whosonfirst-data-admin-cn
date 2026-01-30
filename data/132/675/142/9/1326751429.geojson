@@ -2,75 +2,83 @@
   "id": 1326751429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.25919,26.92734,119.25919,26.92734",
-    "geom:latitude":26.92734,
-    "geom:longitude":119.25919,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Zhanggang",
-    "gn:country_code":"CN",
-    "gn:dem":396,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8579939,
-    "gn:latitude":26.92734,
-    "gn:longitude":119.25919,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Zhanggang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.23919,26.90734,119.27919,26.94734",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6a1f\u5188"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.25919,26.92734,119.25919,26.92734",
+    "geom:latitude": 26.92734,
+    "geom:longitude": 119.25919,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Zhanggang",
+    "gn:country_code": "CN",
+    "gn:dem": 396,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8579939,
+    "gn:latitude": 26.92734,
+    "gn:longitude": 119.25919,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Zhanggang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.23919,26.90734,119.27919,26.94734",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "樟冈"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516577
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512997,
+      890516577
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8579939
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8579939
     },
-    "wof:country":"CN",
-    "wof:geomhash":"585f33a622b01b529d81f65963d7660c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516577,
-            "empire_id":136253041,
-            "locality_id":1326751429,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "585f33a622b01b529d81f65963d7660c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516577,
+        "empire_id": 136253041,
+        "locality_id": 1326751429,
+        "region_id": 85669735,
+        "localadmin_id": 890512997
+      }
     ],
-    "wof:id":1326751429,
-    "wof:lastmodified":1566647699,
-    "wof:name":"Zhanggang",
-    "wof:parent_id":890516577,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326751429,
+    "wof:lastmodified": 1768669104,
+    "wof:name": "Zhanggang",
+    "wof:parent_id": 890512997,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.25919,
     26.92734,
     119.25919,
     26.92734
-],
-  "geometry": {"coordinates":[119.25919,26.92734],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.25919,
+      26.92734
+    ],
+    "type": "Point"
+  }
 }

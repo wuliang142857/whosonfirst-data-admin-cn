@@ -2,75 +2,83 @@
   "id": 1344032485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.11544,41.54757,125.11544,41.54757",
-    "geom:latitude":41.54757,
-    "geom:longitude":125.11544,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Nongkezhan",
-    "gn:country_code":"CN",
-    "gn:dem":439,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7399073,
-    "gn:latitude":41.54757,
-    "gn:longitude":125.11544,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Nongkezhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.09544,41.52757,125.13544,41.56757",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u519c\u79d1\u7ad9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.11544,41.54757,125.11544,41.54757",
+    "geom:latitude": 41.54757,
+    "geom:longitude": 125.11544,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Nongkezhan",
+    "gn:country_code": "CN",
+    "gn:dem": 439,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7399073,
+    "gn:latitude": 41.54757,
+    "gn:longitude": 125.11544,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Nongkezhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.09544,41.52757,125.13544,41.56757",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "农科站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513011
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513011,
+      1127210422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7399073
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7399073
     },
-    "wof:country":"CN",
-    "wof:geomhash":"24da1c152bb39008654c5c7d60a00811",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513011,
-            "empire_id":136253041,
-            "locality_id":1344032485,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "24da1c152bb39008654c5c7d60a00811",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513011,
+        "empire_id": 136253041,
+        "locality_id": 1344032485,
+        "region_id": 85669807,
+        "localadmin_id": 1127210422
+      }
     ],
-    "wof:id":1344032485,
-    "wof:lastmodified":1566663305,
-    "wof:name":"Nongkezhan",
-    "wof:parent_id":890513011,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344032485,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Nongkezhan",
+    "wof:parent_id": 1127210422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.11544,
     41.54757,
     125.11544,
     41.54757
-],
-  "geometry": {"coordinates":[125.11544000000001,41.54757],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.11544,
+      41.54757
+    ],
+    "type": "Point"
+  }
 }

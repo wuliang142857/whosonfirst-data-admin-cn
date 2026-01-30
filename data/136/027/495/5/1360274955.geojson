@@ -2,87 +2,95 @@
   "id": 1360274955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.30333,33.85222,111.30333,33.85222",
-    "geom:latitude":33.85222,
-    "geom:longitude":111.30333,
-    "gn:admin1_code":"09",
-    "gn:asciiname":"Jiaohe",
-    "gn:country_code":"CN",
-    "gn:dem":1157,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1806077,
-    "gn:latitude":33.85222,
-    "gn:longitude":111.30333,
-    "gn:modification_date":"2000-11-21",
-    "gn:name":"Jiaohe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.28333,33.83222,111.32333,33.87222",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Jiaohe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.30333,33.85222,111.30333,33.85222",
+    "geom:latitude": 33.85222,
+    "geom:longitude": 111.30333,
+    "gn:admin1_code": "09",
+    "gn:asciiname": "Jiaohe",
+    "gn:country_code": "CN",
+    "gn:dem": 1157,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1806077,
+    "gn:latitude": 33.85222,
+    "gn:longitude": 111.30333,
+    "gn:modification_date": "2000-11-21",
+    "gn:name": "Jiaohe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.28333,33.83222,111.32333,33.87222",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Jiaohe"
     ],
-    "name:deu_x_preferred":[
-        "Jiaohe"
+    "name:deu_x_preferred": [
+      "Jiaohe"
     ],
-    "name:fas_x_preferred":[
-        "\u062c\u06cc\u0627\u0648\u0647\u0647"
+    "name:fas_x_preferred": [
+      "جیاوهه"
     ],
-    "name:heb_x_preferred":[
-        "\u05d2'\u05d9\u05d0\u05d5\u05d7\u05d4"
+    "name:heb_x_preferred": [
+      "ג'יאוחה"
     ],
-    "name:hun_x_preferred":[
-        "Jiaohe"
+    "name:hun_x_preferred": [
+      "Jiaohe"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515631
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890512809,
+      890515631
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1806077
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1806077
     },
-    "wof:country":"CN",
-    "wof:geomhash":"16d6cffe5ce4e5901dc08a4de3ba5b21",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515631,
-            "empire_id":136253041,
-            "locality_id":1360274955,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "16d6cffe5ce4e5901dc08a4de3ba5b21",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515631,
+        "empire_id": 136253041,
+        "locality_id": 1360274955,
+        "region_id": 85669801,
+        "localadmin_id": 890512809
+      }
     ],
-    "wof:id":1360274955,
-    "wof:lastmodified":1636504229,
-    "wof:name":"Jiaohe",
-    "wof:parent_id":890515631,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360274955,
+    "wof:lastmodified": 1768669408,
+    "wof:name": "Jiaohe",
+    "wof:parent_id": 890512809,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.30333,
     33.85222,
     111.30333,
     33.85222
-],
-  "geometry": {"coordinates":[111.30333,33.85222],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.30333,
+      33.85222
+    ],
+    "type": "Point"
+  }
 }

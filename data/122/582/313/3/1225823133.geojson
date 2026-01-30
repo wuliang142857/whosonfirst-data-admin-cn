@@ -2,75 +2,83 @@
   "id": 1225823133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.75695,27.288,113.75695,27.288",
-    "geom:latitude":27.288,
-    "geom:longitude":113.75695,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Yijiang",
-    "gn:country_code":"CN",
-    "gn:dem":214,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10334305,
-    "gn:latitude":27.288,
-    "gn:longitude":113.75695,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Yijiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.73695,27.268,113.77695,27.308",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c82\u6c5f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.75695,27.288,113.75695,27.288",
+    "geom:latitude": 27.288,
+    "geom:longitude": 113.75695,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Yijiang",
+    "gn:country_code": "CN",
+    "gn:dem": 214,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10334305,
+    "gn:latitude": 27.288,
+    "gn:longitude": 113.75695,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Yijiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.73695,27.268,113.77695,27.308",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沂江"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514759
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514759,
+      1127430223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10334305
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10334305
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6b8edc89e6a543ee0b8625f1038c7aca",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514759,
-            "empire_id":136253041,
-            "locality_id":1225823133,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6b8edc89e6a543ee0b8625f1038c7aca",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514759,
+        "empire_id": 136253041,
+        "locality_id": 1225823133,
+        "region_id": 85669781,
+        "localadmin_id": 1127430223
+      }
     ],
-    "wof:id":1225823133,
-    "wof:lastmodified":1566705780,
-    "wof:name":"Yijiang",
-    "wof:parent_id":890514759,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225823133,
+    "wof:lastmodified": 1768670455,
+    "wof:name": "Yijiang",
+    "wof:parent_id": 1127430223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.75695,
     27.288,
     113.75695,
     27.288
-],
-  "geometry": {"coordinates":[113.75695,27.288],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.75695,
+      27.288
+    ],
+    "type": "Point"
+  }
 }

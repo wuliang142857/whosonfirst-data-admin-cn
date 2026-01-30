@@ -2,75 +2,83 @@
   "id": 1326652545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.9207,43.63116,123.9207,43.63116",
-    "geom:latitude":43.63116,
-    "geom:longitude":123.9207,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Qianshan Dingshu",
-    "gn:country_code":"CN",
-    "gn:dem":122,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10905840,
-    "gn:latitude":43.63116,
-    "gn:longitude":123.9207,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Qianshan Dingshu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.9007,43.61116,123.9407,43.65116",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u524d\u5c71\u4e01\u6811"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.9207,43.63116,123.9207,43.63116",
+    "geom:latitude": 43.63116,
+    "geom:longitude": 123.9207,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Qianshan Dingshu",
+    "gn:country_code": "CN",
+    "gn:dem": 122,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10905840,
+    "gn:latitude": 43.63116,
+    "gn:longitude": 123.9207,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Qianshan Dingshu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.9007,43.61116,123.9407,43.65116",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "前山丁树"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890514217
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514217,
+      1127220382
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10905840
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10905840
     },
-    "wof:country":"CN",
-    "wof:geomhash":"541284765208598d9773c5f39b8060a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514217,
-            "empire_id":136253041,
-            "locality_id":1326652545,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "541284765208598d9773c5f39b8060a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514217,
+        "empire_id": 136253041,
+        "locality_id": 1326652545,
+        "region_id": 85669843,
+        "localadmin_id": 1127220382
+      }
     ],
-    "wof:id":1326652545,
-    "wof:lastmodified":1566653729,
-    "wof:name":"Qianshan Dingshu",
-    "wof:parent_id":890514217,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326652545,
+    "wof:lastmodified": 1768671068,
+    "wof:name": "Qianshan Dingshu",
+    "wof:parent_id": 1127220382,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.9207,
     43.63116,
     123.9207,
     43.63116
-],
-  "geometry": {"coordinates":[123.9207,43.63116],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.9207,
+      43.63116
+    ],
+    "type": "Point"
+  }
 }

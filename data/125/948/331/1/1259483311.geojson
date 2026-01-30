@@ -2,75 +2,83 @@
   "id": 1259483311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.46564,34.56506,118.46564,34.56506",
-    "geom:latitude":34.56506,
-    "geom:longitude":118.46564,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Heibu",
-    "gn:country_code":"CN",
-    "gn:dem":59,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9802122,
-    "gn:latitude":34.56506,
-    "gn:longitude":118.46564,
-    "gn:modification_date":"2014-11-07",
-    "gn:name":"Heibu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.44564,34.54506,118.48564,34.58506",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9ed1\u57e0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.46564,34.56506,118.46564,34.56506",
+    "geom:latitude": 34.56506,
+    "geom:longitude": 118.46564,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Heibu",
+    "gn:country_code": "CN",
+    "gn:dem": 59,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9802122,
+    "gn:latitude": 34.56506,
+    "gn:longitude": 118.46564,
+    "gn:modification_date": "2014-11-07",
+    "gn:name": "Heibu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.44564,34.54506,118.48564,34.58506",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "黑埠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514777,
+      1127320722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9802122
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9802122
     },
-    "wof:country":"CN",
-    "wof:geomhash":"86050f1b8758c49f8a670e27911f08cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514777,
-            "empire_id":136253041,
-            "locality_id":1259483311,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "86050f1b8758c49f8a670e27911f08cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514777,
+        "empire_id": 136253041,
+        "locality_id": 1259483311,
+        "region_id": 85669827,
+        "localadmin_id": 1127320722
+      }
     ],
-    "wof:id":1259483311,
-    "wof:lastmodified":1566698667,
-    "wof:name":"Heibu",
-    "wof:parent_id":890514777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259483311,
+    "wof:lastmodified": 1768670857,
+    "wof:name": "Heibu",
+    "wof:parent_id": 1127320722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.46564,
     34.56506,
     118.46564,
     34.56506
-],
-  "geometry": {"coordinates":[118.46563999999999,34.56506],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.46564,
+      34.56506
+    ],
+    "type": "Point"
+  }
 }

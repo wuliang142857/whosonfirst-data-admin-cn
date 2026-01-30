@@ -2,75 +2,83 @@
   "id": 1242634657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.036,37.105,116.036,37.105",
-    "geom:latitude":37.105,
-    "geom:longitude":116.036,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Xiaolichangtun",
-    "gn:country_code":"CN",
-    "gn:dem":29,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9129532,
-    "gn:latitude":37.105,
-    "gn:longitude":116.036,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Xiaolichangtun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.016,37.085,116.056,37.125",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8096\u91cc\u957f\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.036,37.105,116.036,37.105",
+    "geom:latitude": 37.105,
+    "geom:longitude": 116.036,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Xiaolichangtun",
+    "gn:country_code": "CN",
+    "gn:dem": 29,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9129532,
+    "gn:latitude": 37.105,
+    "gn:longitude": 116.036,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Xiaolichangtun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.016,37.085,116.056,37.125",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "肖里长屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516549
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890516549,
+      1127371427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9129532
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9129532
     },
-    "wof:country":"CN",
-    "wof:geomhash":"48da12f05a741556811c5fd1a8fe4689",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516549,
-            "empire_id":136253041,
-            "locality_id":1242634657,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "48da12f05a741556811c5fd1a8fe4689",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516549,
+        "empire_id": 136253041,
+        "locality_id": 1242634657,
+        "region_id": 85669813,
+        "localadmin_id": 1127371427
+      }
     ],
-    "wof:id":1242634657,
-    "wof:lastmodified":1566697221,
-    "wof:name":"Xiaolichangtun",
-    "wof:parent_id":890516549,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242634657,
+    "wof:lastmodified": 1768667948,
+    "wof:name": "Xiaolichangtun",
+    "wof:parent_id": 1127371427,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.036,
     37.105,
     116.036,
     37.105
-],
-  "geometry": {"coordinates":[116.036,37.105],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.036,
+      37.105
+    ],
+    "type": "Point"
+  }
 }

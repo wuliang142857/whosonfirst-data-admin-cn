@@ -2,78 +2,86 @@
   "id": 1343804395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.95059,20.68272,109.95059,20.68272",
-    "geom:latitude":20.68272,
-    "geom:longitude":109.95059,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Pingtan",
-    "gn:country_code":"CN",
-    "gn:dem":46,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6833387,
-    "gn:latitude":20.68272,
-    "gn:longitude":109.95059,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Pingtan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"109.93059,20.66272,109.97059,20.70272",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Pingtan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.95059,20.68272,109.95059,20.68272",
+    "geom:latitude": 20.68272,
+    "geom:longitude": 109.95059,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Pingtan",
+    "gn:country_code": "CN",
+    "gn:dem": 46,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6833387,
+    "gn:latitude": 20.68272,
+    "gn:longitude": 109.95059,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Pingtan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "109.93059,20.66272,109.97059,20.70272",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Pingtan"
     ],
-    "name:zho_x_preferred":[
-        "\u5e73\u6ee9"
+    "name:zho_x_preferred": [
+      "平滩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514753
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514753,
+      1127440882
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6833387
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6833387
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b6f0cb577e313b0560c06a0c3acb004e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514753,
-            "empire_id":136253041,
-            "locality_id":1343804395,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b6f0cb577e313b0560c06a0c3acb004e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514753,
+        "empire_id": 136253041,
+        "locality_id": 1343804395,
+        "region_id": 85669743,
+        "localadmin_id": 1127440882
+      }
     ],
-    "wof:id":1343804395,
-    "wof:lastmodified":1566663929,
-    "wof:name":"Pingtan",
-    "wof:parent_id":890514753,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343804395,
+    "wof:lastmodified": 1768668825,
+    "wof:name": "Pingtan",
+    "wof:parent_id": 1127440882,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.95059,
     20.68272,
     109.95059,
     20.68272
-],
-  "geometry": {"coordinates":[109.95059000000001,20.68272],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.95059,
+      20.68272
+    ],
+    "type": "Point"
+  }
 }

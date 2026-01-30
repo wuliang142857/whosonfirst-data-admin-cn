@@ -2,82 +2,90 @@
   "id": 1292915577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.25232,30.84412,120.25232,30.84412",
-    "geom:latitude":30.84412,
-    "geom:longitude":120.25232,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Chengshecun",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1901807,
-    "gn:latitude":30.84412,
-    "gn:longitude":120.25232,
-    "gn:modification_date":"2017-10-05",
-    "gn:name":"Chengshecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.23232,30.82412,120.27232,30.86412",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sheng-shan-shih",
-        "Shengshe",
-        "\u665f\u820d",
-        "Chengshecun",
-        "Chengshe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.25232,30.84412,120.25232,30.84412",
+    "geom:latitude": 30.84412,
+    "geom:longitude": 120.25232,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Chengshecun",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1901807,
+    "gn:latitude": 30.84412,
+    "gn:longitude": 120.25232,
+    "gn:modification_date": "2017-10-05",
+    "gn:name": "Chengshecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.23232,30.82412,120.27232,30.86412",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sheng-shan-shih",
+      "Shengshe",
+      "晟舍",
+      "Chengshecun",
+      "Chengshe"
     ],
-    "name:zho_x_preferred":[
-        "\u665f\u820d\u6751"
+    "name:zho_x_preferred": [
+      "晟舍村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516975,
+      1127330502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1901807
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1901807
     },
-    "wof:country":"CN",
-    "wof:geomhash":"35c4e8cdb21f375bdb7c3211d7146328",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1292915577,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "35c4e8cdb21f375bdb7c3211d7146328",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1292915577,
+        "region_id": 85669835,
+        "localadmin_id": 1127330502
+      }
     ],
-    "wof:id":1292915577,
-    "wof:lastmodified":1566670131,
-    "wof:name":"Chengshecun",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292915577,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Chengshecun",
+    "wof:parent_id": 1127330502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.25232,
     30.84412,
     120.25232,
     30.84412
-],
-  "geometry": {"coordinates":[120.25232,30.84412],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.25232,
+      30.84412
+    ],
+    "type": "Point"
+  }
 }

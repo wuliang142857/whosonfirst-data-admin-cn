@@ -2,75 +2,83 @@
   "id": 1293849289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.033,40.4694,125.033,40.4694",
-    "geom:latitude":40.4694,
-    "geom:longitude":125.033,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Qianjie",
-    "gn:country_code":"CN",
-    "gn:dem":135,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11505655,
-    "gn:latitude":40.4694,
-    "gn:longitude":125.033,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Qianjie",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.013,40.4494,125.053,40.4894",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u524d\u8857"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.033,40.4694,125.033,40.4694",
+    "geom:latitude": 40.4694,
+    "geom:longitude": 125.033,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Qianjie",
+    "gn:country_code": "CN",
+    "gn:dem": 135,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11505655,
+    "gn:latitude": 40.4694,
+    "gn:longitude": 125.033,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Qianjie",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.013,40.4494,125.053,40.4894",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "前街"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514725
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514725,
+      890515653
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11505655
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11505655
     },
-    "wof:country":"CN",
-    "wof:geomhash":"45a5b9804edff12f694d9c059e538845",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514725,
-            "empire_id":136253041,
-            "locality_id":1293849289,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "45a5b9804edff12f694d9c059e538845",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514725,
+        "empire_id": 136253041,
+        "locality_id": 1293849289,
+        "region_id": 85669807,
+        "localadmin_id": 890515653
+      }
     ],
-    "wof:id":1293849289,
-    "wof:lastmodified":1566667787,
-    "wof:name":"Qianjie",
-    "wof:parent_id":890514725,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293849289,
+    "wof:lastmodified": 1768666776,
+    "wof:name": "Qianjie",
+    "wof:parent_id": 890515653,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.033,
     40.4694,
     125.033,
     40.4694
-],
-  "geometry": {"coordinates":[125.033,40.4694],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.033,
+      40.4694
+    ],
+    "type": "Point"
+  }
 }

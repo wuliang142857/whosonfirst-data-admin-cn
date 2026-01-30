@@ -2,75 +2,83 @@
   "id": 1210012549,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.58065,26.79551,119.58065,26.79551",
-    "geom:latitude":26.79551,
-    "geom:longitude":119.58065,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Jinchui",
-    "gn:country_code":"CN",
-    "gn:dem":19,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8580201,
-    "gn:latitude":26.79551,
-    "gn:longitude":119.58065,
-    "gn:modification_date":"2014-03-11",
-    "gn:name":"Jinchui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.56065,26.77551,119.60065,26.81551",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u91d1\u5782"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.58065,26.79551,119.58065,26.79551",
+    "geom:latitude": 26.79551,
+    "geom:longitude": 119.58065,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Jinchui",
+    "gn:country_code": "CN",
+    "gn:dem": 19,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8580201,
+    "gn:latitude": 26.79551,
+    "gn:longitude": 119.58065,
+    "gn:modification_date": "2014-03-11",
+    "gn:name": "Jinchui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.56065,26.77551,119.60065,26.81551",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "金垂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516577
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516577,
+      1127350902
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8580201
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8580201
     },
-    "wof:country":"CN",
-    "wof:geomhash":"771d781418ae1ac4d9a95700b077bda6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516577,
-            "empire_id":136253041,
-            "locality_id":1210012549,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "771d781418ae1ac4d9a95700b077bda6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516577,
+        "empire_id": 136253041,
+        "locality_id": 1210012549,
+        "region_id": 85669735,
+        "localadmin_id": 1127350902
+      }
     ],
-    "wof:id":1210012549,
-    "wof:lastmodified":1566684541,
-    "wof:name":"Jinchui",
-    "wof:parent_id":890516577,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1210012549,
+    "wof:lastmodified": 1768669105,
+    "wof:name": "Jinchui",
+    "wof:parent_id": 1127350902,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.58065,
     26.79551,
     119.58065,
     26.79551
-],
-  "geometry": {"coordinates":[119.58065000000001,26.79551],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.58065,
+      26.79551
+    ],
+    "type": "Point"
+  }
 }

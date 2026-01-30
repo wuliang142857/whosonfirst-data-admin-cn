@@ -2,75 +2,83 @@
   "id": 1276170577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.283,27.7919,104.283,27.7919",
-    "geom:latitude":27.7919,
-    "geom:longitude":104.283,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Damawo",
-    "gn:country_code":"CN",
-    "gn:dem":1895,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10144066,
-    "gn:latitude":27.7919,
-    "gn:longitude":104.283,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Damawo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.263,27.7719,104.303,27.8119",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u9ebb\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.283,27.7919,104.283,27.7919",
+    "geom:latitude": 27.7919,
+    "geom:longitude": 104.283,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Damawo",
+    "gn:country_code": "CN",
+    "gn:dem": 1895,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10144066,
+    "gn:latitude": 27.7919,
+    "gn:longitude": 104.283,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Damawo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.263,27.7719,104.303,27.8119",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大麻窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513863,
+      890514257
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10144066
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10144066
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f26b3f1ddb5eabe2aaf75c8ce4c8d407",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1276170577,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f26b3f1ddb5eabe2aaf75c8ce4c8d407",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1276170577,
+        "region_id": 85669791,
+        "localadmin_id": 890513863
+      }
     ],
-    "wof:id":1276170577,
-    "wof:lastmodified":1566673050,
-    "wof:name":"Damawo",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276170577,
+    "wof:lastmodified": 1768668497,
+    "wof:name": "Damawo",
+    "wof:parent_id": 890513863,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.283,
     27.7919,
     104.283,
     27.7919
-],
-  "geometry": {"coordinates":[104.283,27.7919],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.283,
+      27.7919
+    ],
+    "type": "Point"
+  }
 }

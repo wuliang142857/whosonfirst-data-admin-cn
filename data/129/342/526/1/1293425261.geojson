@@ -2,73 +2,81 @@
   "id": 1293425261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.865,18.9277,108.865,18.9277",
-    "geom:latitude":18.9277,
-    "geom:longitude":108.865,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Tuolei",
-    "gn:country_code":"CN",
-    "gn:dem":151,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1915899,
-    "gn:latitude":18.9277,
-    "gn:longitude":108.865,
-    "gn:modification_date":"2016-01-07",
-    "gn:name":"Tuolei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.845,18.9077,108.885,18.9477",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9640\u7c7b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.865,18.9277,108.865,18.9277",
+    "geom:latitude": 18.9277,
+    "geom:longitude": 108.865,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Tuolei",
+    "gn:country_code": "CN",
+    "gn:dem": 151,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1915899,
+    "gn:latitude": 18.9277,
+    "gn:longitude": 108.865,
+    "gn:modification_date": "2016-01-07",
+    "gn:name": "Tuolei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.845,18.9077,108.885,18.9477",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "陀类"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1915899
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1915899
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e5bd617cca8bb6c65b433239fdb688c0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1293425261,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e5bd617cca8bb6c65b433239fdb688c0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1293425261,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1293425261,
-    "wof:lastmodified":1566670904,
-    "wof:name":"Tuolei",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293425261,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Tuolei",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.865,
     18.9277,
     108.865,
     18.9277
-],
-  "geometry": {"coordinates":[108.86499999999999,18.9277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.865,
+      18.9277
+    ],
+    "type": "Point"
+  }
 }

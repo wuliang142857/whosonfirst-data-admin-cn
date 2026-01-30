@@ -2,75 +2,83 @@
   "id": 1326811999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.864,24.5384,109.864,24.5384",
-    "geom:latitude":24.5384,
-    "geom:longitude":109.864,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Shangwu",
-    "gn:country_code":"CN",
-    "gn:dem":137,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9944383,
-    "gn:latitude":24.5384,
-    "gn:longitude":109.864,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Shangwu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.844,24.5184,109.884,24.5584",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u5140"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.864,24.5384,109.864,24.5384",
+    "geom:latitude": 24.5384,
+    "geom:longitude": 109.864,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Shangwu",
+    "gn:country_code": "CN",
+    "gn:dem": 137,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9944383,
+    "gn:latitude": 24.5384,
+    "gn:longitude": 109.864,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Shangwu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.844,24.5184,109.884,24.5584",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上兀"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9944383
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9944383
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c2aa6bc82461e40a3b2ac265695a7114",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1326811999,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c2aa6bc82461e40a3b2ac265695a7114",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1326811999,
+        "region_id": 85669717,
+        "localadmin_id": 1127450223
+      }
     ],
-    "wof:id":1326811999,
-    "wof:lastmodified":1566647794,
-    "wof:name":"Shangwu",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326811999,
+    "wof:lastmodified": 1768665482,
+    "wof:name": "Shangwu",
+    "wof:parent_id": 1127450223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.864,
     24.5384,
     109.864,
     24.5384
-],
-  "geometry": {"coordinates":[109.864,24.5384],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.864,
+      24.5384
+    ],
+    "type": "Point"
+  }
 }

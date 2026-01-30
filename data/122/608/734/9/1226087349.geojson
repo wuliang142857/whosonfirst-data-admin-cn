@@ -2,81 +2,89 @@
   "id": 1226087349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.041,31.1202,105.041,31.1202",
-    "geom:latitude":31.1202,
-    "geom:longitude":105.041,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yanjing",
-    "gn:country_code":"CN",
-    "gn:dem":483,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163931,
-    "gn:latitude":31.1202,
-    "gn:longitude":105.041,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Yanjing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.021,31.1002,105.061,31.1402",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ara_x_preferred":[
-        "\u064a\u0627\u0646\u062c\u064a\u0646\u063a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.041,31.1202,105.041,31.1202",
+    "geom:latitude": 31.1202,
+    "geom:longitude": 105.041,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yanjing",
+    "gn:country_code": "CN",
+    "gn:dem": 483,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163931,
+    "gn:latitude": 31.1202,
+    "gn:longitude": 105.041,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Yanjing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.021,31.1002,105.061,31.1402",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ara_x_preferred": [
+      "يانجينغ"
     ],
-    "name:nor_x_preferred":[
-        "Fanyang"
+    "name:nor_x_preferred": [
+      "Fanyang"
     ],
-    "name:zho_x_preferred":[
-        "\u76d0\u4e95"
+    "name:zho_x_preferred": [
+      "盐井"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513911,
+      890514157
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163931
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163931
     },
-    "wof:country":"CN",
-    "wof:geomhash":"855cdb483df3e6992d8117c6f257746d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1226087349,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "855cdb483df3e6992d8117c6f257746d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1226087349,
+        "region_id": 85669787,
+        "localadmin_id": 890513911
+      }
     ],
-    "wof:id":1226087349,
-    "wof:lastmodified":1566705008,
-    "wof:name":"Yanjing",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226087349,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Yanjing",
+    "wof:parent_id": 890513911,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.041,
     31.1202,
     105.041,
     31.1202
-],
-  "geometry": {"coordinates":[105.041,31.1202],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.041,
+      31.1202
+    ],
+    "type": "Point"
+  }
 }

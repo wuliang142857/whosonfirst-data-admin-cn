@@ -2,79 +2,87 @@
   "id": 1293046355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.735,30.6361,101.735,30.6361",
-    "geom:latitude":30.6361,
-    "geom:longitude":101.735,
-    "gn:admin1_code":"32",
-    "gn:asciiname":"Xiaomaoniu",
-    "gn:country_code":"CN",
-    "gn:dem":2758,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1801178,
-    "gn:latitude":30.6361,
-    "gn:longitude":101.735,
-    "gn:modification_date":"2015-04-08",
-    "gn:name":"Xiaomaoniu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.715,30.6161,101.755,30.6561",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Maoniugou",
-        "Xiaomaoniu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.735,30.6361,101.735,30.6361",
+    "geom:latitude": 30.6361,
+    "geom:longitude": 101.735,
+    "gn:admin1_code": "32",
+    "gn:asciiname": "Xiaomaoniu",
+    "gn:country_code": "CN",
+    "gn:dem": 2758,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1801178,
+    "gn:latitude": 30.6361,
+    "gn:longitude": 101.735,
+    "gn:modification_date": "2015-04-08",
+    "gn:name": "Xiaomaoniu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.715,30.6161,101.755,30.6561",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Maoniugou",
+      "Xiaomaoniu"
     ],
-    "name:zho_x_preferred":[
-        "\u5c0f\u7266\u725b"
+    "name:zho_x_preferred": [
+      "小牦牛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513399,
+      890514703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1801178
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1801178
     },
-    "wof:country":"CN",
-    "wof:geomhash":"be3d9c8327662b50c96a0bde801aa818",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1293046355,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "be3d9c8327662b50c96a0bde801aa818",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1293046355,
+        "region_id": 85669787,
+        "localadmin_id": 890513399
+      }
     ],
-    "wof:id":1293046355,
-    "wof:lastmodified":1566669090,
-    "wof:name":"Xiaomaoniu",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293046355,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Xiaomaoniu",
+    "wof:parent_id": 890513399,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.735,
     30.6361,
     101.735,
     30.6361
-],
-  "geometry": {"coordinates":[101.735,30.6361],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.735,
+      30.6361
+    ],
+    "type": "Point"
+  }
 }

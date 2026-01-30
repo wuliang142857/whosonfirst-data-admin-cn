@@ -2,82 +2,90 @@
   "id": 1260012791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.66666,19.0626,108.66666,19.0626",
-    "geom:latitude":19.0626,
-    "geom:longitude":108.66666,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Luodai",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1915865,
-    "gn:latitude":19.0626,
-    "gn:longitude":108.66666,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Luodai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.64666,19.0426,108.68666,19.0826",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:swe_x_preferred":[
-        "Luodai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.66666,19.0626,108.66666,19.0626",
+    "geom:latitude": 19.0626,
+    "geom:longitude": 108.66666,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Luodai",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1915865,
+    "gn:latitude": 19.0626,
+    "gn:longitude": 108.66666,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Luodai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.64666,19.0426,108.68666,19.0826",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:swe_x_preferred": [
+      "Luodai"
     ],
-    "name:und_x_variant":[
-        "\u7f57\u5e26"
+    "name:und_x_variant": [
+      "罗带"
     ],
-    "name:vie_x_preferred":[
-        "L\u1ea1c \u0110\u00e1i"
+    "name:vie_x_preferred": [
+      "Lạc Đái"
     ],
-    "name:zho_x_preferred":[
-        "\u6d1b\u5e26\u9547"
+    "name:zho_x_preferred": [
+      "洛带镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1915865
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1915865
     },
-    "wof:country":"CN",
-    "wof:geomhash":"107e8df3744ad87cad64d4583f3895e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1260012791,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "107e8df3744ad87cad64d4583f3895e7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1260012791,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1260012791,
-    "wof:lastmodified":1566686957,
-    "wof:name":"Luodai",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260012791,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Luodai",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.66666,
     19.0626,
     108.66666,
     19.0626
-],
-  "geometry": {"coordinates":[108.66665999999999,19.0626],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.66666,
+      19.0626
+    ],
+    "type": "Point"
+  }
 }

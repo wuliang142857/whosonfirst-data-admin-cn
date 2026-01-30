@@ -2,84 +2,92 @@
   "id": 1276200665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.1,39.5903,122.1,39.5903",
-    "geom:latitude":39.5903,
-    "geom:longitude":122.1,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Dacheng",
-    "gn:country_code":"CN",
-    "gn:dem":54,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11481047,
-    "gn:latitude":39.5903,
-    "gn:longitude":122.1,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Dacheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.08,39.5703,122.12,39.6103",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Dacheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.1,39.5903,122.1,39.5903",
+    "geom:latitude": 39.5903,
+    "geom:longitude": 122.1,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Dacheng",
+    "gn:country_code": "CN",
+    "gn:dem": 54,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11481047,
+    "gn:latitude": 39.5903,
+    "gn:longitude": 122.1,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Dacheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.08,39.5703,122.12,39.6103",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Dacheng"
     ],
-    "name:deu_x_preferred":[
-        "Dacheng"
+    "name:deu_x_preferred": [
+      "Dacheng"
     ],
-    "name:fra_x_preferred":[
-        "Dacheng"
+    "name:fra_x_preferred": [
+      "Dacheng"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u6210"
+    "name:zho_x_preferred": [
+      "大成"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11481047
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11481047
     },
-    "wof:country":"CN",
-    "wof:geomhash":"deaa7c296515264fdd1c1234cc334943",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1276200665,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "deaa7c296515264fdd1c1234cc334943",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1276200665,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1276200665,
-    "wof:lastmodified":1566673890,
-    "wof:name":"Dacheng",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276200665,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Dacheng",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.1,
     39.5903,
     122.1,
     39.5903
-],
-  "geometry": {"coordinates":[122.09999999999999,39.5903],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.1,
+      39.5903
+    ],
+    "type": "Point"
+  }
 }

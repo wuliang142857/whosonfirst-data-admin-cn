@@ -2,75 +2,83 @@
   "id": 1226627899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.407,24.6617,105.407,24.6617",
-    "geom:latitude":24.6617,
-    "geom:longitude":105.407,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Meida",
-    "gn:country_code":"CN",
-    "gn:dem":1048,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9911558,
-    "gn:latitude":24.6617,
-    "gn:longitude":105.407,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Meida",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.387,24.6417,105.427,24.6817",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6885\u8fbe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.407,24.6617,105.407,24.6617",
+    "geom:latitude": 24.6617,
+    "geom:longitude": 105.407,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Meida",
+    "gn:country_code": "CN",
+    "gn:dem": 1048,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9911558,
+    "gn:latitude": 24.6617,
+    "gn:longitude": 105.407,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Meida",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.387,24.6417,105.427,24.6817",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "梅达"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9911558
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9911558
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7cb1ebe28bacd819966920cfcd9f2c19",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226627899,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7cb1ebe28bacd819966920cfcd9f2c19",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226627899,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1226627899,
-    "wof:lastmodified":1566705327,
-    "wof:name":"Meida",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226627899,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Meida",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.407,
     24.6617,
     105.407,
     24.6617
-],
-  "geometry": {"coordinates":[105.407,24.6617],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.407,
+      24.6617
+    ],
+    "type": "Point"
+  }
 }

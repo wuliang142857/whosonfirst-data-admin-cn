@@ -2,75 +2,83 @@
   "id": 1276734727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.13,25.4709,109.13,25.4709",
-    "geom:latitude":25.4709,
-    "geom:longitude":109.13,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Lianglong",
-    "gn:country_code":"CN",
-    "gn:dem":630,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9941067,
-    "gn:latitude":25.4709,
-    "gn:longitude":109.13,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Lianglong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.11,25.4509,109.15,25.4909",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u826f\u9647"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.13,25.4709,109.13,25.4709",
+    "geom:latitude": 25.4709,
+    "geom:longitude": 109.13,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Lianglong",
+    "gn:country_code": "CN",
+    "gn:dem": 630,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9941067,
+    "gn:latitude": 25.4709,
+    "gn:longitude": 109.13,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Lianglong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.11,25.4509,109.15,25.4909",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "良陇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9941067
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9941067
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5aef3111d6387dc0b37a592e9ab4172b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1276734727,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5aef3111d6387dc0b37a592e9ab4172b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1276734727,
+        "region_id": 85669717,
+        "localadmin_id": 1127450225
+      }
     ],
-    "wof:id":1276734727,
-    "wof:lastmodified":1566673549,
-    "wof:name":"Lianglong",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276734727,
+    "wof:lastmodified": 1768665482,
+    "wof:name": "Lianglong",
+    "wof:parent_id": 1127450225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.13,
     25.4709,
     109.13,
     25.4709
-],
-  "geometry": {"coordinates":[109.13,25.4709],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.13,
+      25.4709
+    ],
+    "type": "Point"
+  }
 }

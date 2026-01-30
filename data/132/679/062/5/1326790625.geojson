@@ -2,75 +2,83 @@
   "id": 1326790625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.42611,24.68115,113.42611,24.68115",
-    "geom:latitude":24.68115,
-    "geom:longitude":113.42611,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Liubian",
-    "gn:country_code":"CN",
-    "gn:dem":78,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8201045,
-    "gn:latitude":24.68115,
-    "gn:longitude":113.42611,
-    "gn:modification_date":"2012-02-29",
-    "gn:name":"Liubian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.40611,24.66115,113.44611,24.70115",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7559\u8fb9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.42611,24.68115,113.42611,24.68115",
+    "geom:latitude": 24.68115,
+    "geom:longitude": 113.42611,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Liubian",
+    "gn:country_code": "CN",
+    "gn:dem": 78,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8201045,
+    "gn:latitude": 24.68115,
+    "gn:longitude": 113.42611,
+    "gn:modification_date": "2012-02-29",
+    "gn:name": "Liubian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.40611,24.66115,113.44611,24.70115",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "留边"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516559,
+      1127440203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8201045
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8201045
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7750db902f2543178add749071d01a73",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516559,
-            "empire_id":136253041,
-            "locality_id":1326790625,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7750db902f2543178add749071d01a73",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516559,
+        "empire_id": 136253041,
+        "locality_id": 1326790625,
+        "region_id": 85669743,
+        "localadmin_id": 1127440203
+      }
     ],
-    "wof:id":1326790625,
-    "wof:lastmodified":1566652256,
-    "wof:name":"Liubian",
-    "wof:parent_id":890516559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326790625,
+    "wof:lastmodified": 1768667808,
+    "wof:name": "Liubian",
+    "wof:parent_id": 1127440203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.42611,
     24.68115,
     113.42611,
     24.68115
-],
-  "geometry": {"coordinates":[113.42610999999999,24.68115],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.42611,
+      24.68115
+    ],
+    "type": "Point"
+  }
 }

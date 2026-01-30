@@ -2,75 +2,83 @@
   "id": 1225889903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.559,30.8711,105.559,30.8711",
-    "geom:latitude":30.8711,
-    "geom:longitude":105.559,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yanglu",
-    "gn:country_code":"CN",
-    "gn:dem":379,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163163,
-    "gn:latitude":30.8711,
-    "gn:longitude":105.559,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Yanglu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.539,30.8511,105.579,30.8911",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u7984"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.559,30.8711,105.559,30.8711",
+    "geom:latitude": 30.8711,
+    "geom:longitude": 105.559,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yanglu",
+    "gn:country_code": "CN",
+    "gn:dem": 379,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163163,
+    "gn:latitude": 30.8711,
+    "gn:longitude": 105.559,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Yanglu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.539,30.8511,105.579,30.8911",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨禄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514641
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514641,
+      1127510981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163163
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163163
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9284128a2c5aeecf413b6103f42eb8ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514641,
-            "empire_id":136253041,
-            "locality_id":1225889903,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9284128a2c5aeecf413b6103f42eb8ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514641,
+        "empire_id": 136253041,
+        "locality_id": 1225889903,
+        "region_id": 85669787,
+        "localadmin_id": 1127510981
+      }
     ],
-    "wof:id":1225889903,
-    "wof:lastmodified":1566702795,
-    "wof:name":"Yanglu",
-    "wof:parent_id":890514641,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225889903,
+    "wof:lastmodified": 1768668066,
+    "wof:name": "Yanglu",
+    "wof:parent_id": 1127510981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.559,
     30.8711,
     105.559,
     30.8711
-],
-  "geometry": {"coordinates":[105.559,30.8711],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.559,
+      30.8711
+    ],
+    "type": "Point"
+  }
 }

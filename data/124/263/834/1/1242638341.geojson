@@ -2,75 +2,83 @@
   "id": 1242638341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.328,26.0373,104.328,26.0373",
-    "geom:latitude":26.0373,
-    "geom:longitude":104.328,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Shuiping",
-    "gn:country_code":"CN",
-    "gn:dem":2053,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9081193,
-    "gn:latitude":26.0373,
-    "gn:longitude":104.328,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Shuiping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.308,26.0173,104.348,26.0573",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6c34\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.328,26.0373,104.328,26.0373",
+    "geom:latitude": 26.0373,
+    "geom:longitude": 104.328,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Shuiping",
+    "gn:country_code": "CN",
+    "gn:dem": 2053,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9081193,
+    "gn:latitude": 26.0373,
+    "gn:longitude": 104.328,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Shuiping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.308,26.0173,104.348,26.0573",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "水坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890515167
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890515167,
+      1127530381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9081193
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9081193
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5efa30b3ac3fd20690dc76d77ad6dbd7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515167,
-            "empire_id":136253041,
-            "locality_id":1242638341,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5efa30b3ac3fd20690dc76d77ad6dbd7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515167,
+        "empire_id": 136253041,
+        "locality_id": 1242638341,
+        "region_id": 85669791,
+        "localadmin_id": 1127530381
+      }
     ],
-    "wof:id":1242638341,
-    "wof:lastmodified":1566697219,
-    "wof:name":"Shuiping",
-    "wof:parent_id":890515167,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242638341,
+    "wof:lastmodified": 1768668181,
+    "wof:name": "Shuiping",
+    "wof:parent_id": 1127530381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.328,
     26.0373,
     104.328,
     26.0373
-],
-  "geometry": {"coordinates":[104.328,26.0373],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.328,
+      26.0373
+    ],
+    "type": "Point"
+  }
 }

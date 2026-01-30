@@ -2,77 +2,85 @@
   "id": 1327299285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.42328,40.66865,122.42328,40.66865",
-    "geom:latitude":40.66865,
-    "geom:longitude":122.42328,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Sunjia Buzi",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7886218,
-    "gn:latitude":40.66865,
-    "gn:longitude":122.42328,
-    "gn:modification_date":"2014-03-10",
-    "gn:name":"Sunjia Buzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.40328,40.64865,122.44328,40.68865",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sunjia Puzi",
-        "\u5b59\u5bb6\u5821\u5b50",
-        "Sunjia Buzi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.42328,40.66865,122.42328,40.66865",
+    "geom:latitude": 40.66865,
+    "geom:longitude": 122.42328,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Sunjia Buzi",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7886218,
+    "gn:latitude": 40.66865,
+    "gn:longitude": 122.42328,
+    "gn:modification_date": "2014-03-10",
+    "gn:name": "Sunjia Buzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.40328,40.64865,122.44328,40.68865",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sunjia Puzi",
+      "孙家堡子",
+      "Sunjia Buzi"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        1108732495
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      1108732495,
+      1127210811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7886218
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7886218
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3f0d0da3c051485b3f57f3a6f3619a6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732495,
-            "empire_id":136253041,
-            "locality_id":1327299285,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3f0d0da3c051485b3f57f3a6f3619a6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732495,
+        "empire_id": 136253041,
+        "locality_id": 1327299285,
+        "region_id": 85669807,
+        "localadmin_id": 1127210811
+      }
     ],
-    "wof:id":1327299285,
-    "wof:lastmodified":1566655256,
-    "wof:name":"Sunjia Buzi",
-    "wof:parent_id":1108732495,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327299285,
+    "wof:lastmodified": 1768667528,
+    "wof:name": "Sunjia Buzi",
+    "wof:parent_id": 1127210811,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.42328,
     40.66865,
     122.42328,
     40.66865
-],
-  "geometry": {"coordinates":[122.42328000000001,40.66865],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.42328,
+      40.66865
+    ],
+    "type": "Point"
+  }
 }

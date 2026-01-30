@@ -2,75 +2,83 @@
   "id": 1243244387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.97444,26.43031,112.97444,26.43031",
-    "geom:latitude":26.43031,
-    "geom:longitude":112.97444,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Gaozhai",
-    "gn:country_code":"CN",
-    "gn:dem":157,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9798470,
-    "gn:latitude":26.43031,
-    "gn:longitude":112.97444,
-    "gn:modification_date":"2014-11-07",
-    "gn:name":"Gaozhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.95444,26.41031,112.99444,26.45031",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.97444,26.43031,112.97444,26.43031",
+    "geom:latitude": 26.43031,
+    "geom:longitude": 112.97444,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Gaozhai",
+    "gn:country_code": "CN",
+    "gn:dem": 157,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9798470,
+    "gn:latitude": 26.43031,
+    "gn:longitude": 112.97444,
+    "gn:modification_date": "2014-11-07",
+    "gn:name": "Gaozhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.95444,26.41031,112.99444,26.45031",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890513059
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513059,
+      1127430481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9798470
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9798470
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ec2a907fc1a82151701c9ab6c9bf61c4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513059,
-            "empire_id":136253041,
-            "locality_id":1243244387,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ec2a907fc1a82151701c9ab6c9bf61c4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513059,
+        "empire_id": 136253041,
+        "locality_id": 1243244387,
+        "region_id": 85669781,
+        "localadmin_id": 1127430481
+      }
     ],
-    "wof:id":1243244387,
-    "wof:lastmodified":1566695335,
-    "wof:name":"Gaozhai",
-    "wof:parent_id":890513059,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243244387,
+    "wof:lastmodified": 1768670314,
+    "wof:name": "Gaozhai",
+    "wof:parent_id": 1127430481,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.97444,
     26.43031,
     112.97444,
     26.43031
-],
-  "geometry": {"coordinates":[112.97444,26.43031],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.97444,
+      26.43031
+    ],
+    "type": "Point"
+  }
 }

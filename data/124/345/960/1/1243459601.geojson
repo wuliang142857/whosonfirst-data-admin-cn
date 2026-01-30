@@ -2,82 +2,90 @@
   "id": 1243459601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.78229,33.29852,119.78229,33.29852",
-    "geom:latitude":33.29852,
-    "geom:longitude":119.78229,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Dingmagangcun",
-    "gn:country_code":"CN",
-    "gn:dem":-1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1812775,
-    "gn:latitude":33.29852,
-    "gn:longitude":119.78229,
-    "gn:modification_date":"2017-06-06",
-    "gn:name":"Dingmagangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.76229,33.27852,119.80229,33.31852",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ting-mao-kang",
-        "Ting-ma-kang",
-        "Ting-ma-chiang",
-        "Dingmagang",
-        "Dingmagangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.78229,33.29852,119.78229,33.29852",
+    "geom:latitude": 33.29852,
+    "geom:longitude": 119.78229,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Dingmagangcun",
+    "gn:country_code": "CN",
+    "gn:dem": -1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1812775,
+    "gn:latitude": 33.29852,
+    "gn:longitude": 119.78229,
+    "gn:modification_date": "2017-06-06",
+    "gn:name": "Dingmagangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.76229,33.27852,119.80229,33.31852",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ting-mao-kang",
+      "Ting-ma-kang",
+      "Ting-ma-chiang",
+      "Dingmagang",
+      "Dingmagangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u4e01\u9a6c\u6e2f\u6751"
+    "name:zho_x_preferred": [
+      "丁马港村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320903
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1812775
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1812775
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0aedcef4cef7269722744c57c2217499",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1243459601,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0aedcef4cef7269722744c57c2217499",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1243459601,
+        "region_id": 85669827,
+        "localadmin_id": 1127320903
+      }
     ],
-    "wof:id":1243459601,
-    "wof:lastmodified":1566697543,
-    "wof:name":"Dingmagangcun",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243459601,
+    "wof:lastmodified": 1768670805,
+    "wof:name": "Dingmagangcun",
+    "wof:parent_id": 1127320903,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.78229,
     33.29852,
     119.78229,
     33.29852
-],
-  "geometry": {"coordinates":[119.78229,33.29852],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.78229,
+      33.29852
+    ],
+    "type": "Point"
+  }
 }

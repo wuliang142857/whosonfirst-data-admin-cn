@@ -2,75 +2,83 @@
   "id": 1310061023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.921,36.9373,119.921,36.9373",
-    "geom:latitude":36.9373,
-    "geom:longitude":119.921,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Dongnansui",
-    "gn:country_code":"CN",
-    "gn:dem":100,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9497940,
-    "gn:latitude":36.9373,
-    "gn:longitude":119.921,
-    "gn:modification_date":"2014-09-07",
-    "gn:name":"Dongnansui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.901,36.9173,119.941,36.9573",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u5357\u968b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.921,36.9373,119.921,36.9373",
+    "geom:latitude": 36.9373,
+    "geom:longitude": 119.921,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Dongnansui",
+    "gn:country_code": "CN",
+    "gn:dem": 100,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9497940,
+    "gn:latitude": 36.9373,
+    "gn:longitude": 119.921,
+    "gn:modification_date": "2014-09-07",
+    "gn:name": "Dongnansui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.901,36.9173,119.941,36.9573",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东南隋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514775
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512675,
+      890514775
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9497940
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9497940
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ec8dbd8f1365619378dbade0db2e6a01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514775,
-            "empire_id":136253041,
-            "locality_id":1310061023,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ec8dbd8f1365619378dbade0db2e6a01",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514775,
+        "empire_id": 136253041,
+        "locality_id": 1310061023,
+        "region_id": 85669813,
+        "localadmin_id": 890512675
+      }
     ],
-    "wof:id":1310061023,
-    "wof:lastmodified":1566689524,
-    "wof:name":"Dongnansui",
-    "wof:parent_id":890514775,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310061023,
+    "wof:lastmodified": 1768668015,
+    "wof:name": "Dongnansui",
+    "wof:parent_id": 890512675,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.921,
     36.9373,
     119.921,
     36.9373
-],
-  "geometry": {"coordinates":[119.92100000000001,36.9373],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.921,
+      36.9373
+    ],
+    "type": "Point"
+  }
 }

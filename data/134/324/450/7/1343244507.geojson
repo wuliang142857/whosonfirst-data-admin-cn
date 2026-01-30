@@ -2,75 +2,83 @@
   "id": 1343244507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"98.9556,39.5715,98.9556,39.5715",
-    "geom:latitude":39.5715,
-    "geom:longitude":98.9556,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Wuba Yidui",
-    "gn:country_code":"CN",
-    "gn:dem":1449,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":10484982,
-    "gn:latitude":39.5715,
-    "gn:longitude":98.9556,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Wuba Yidui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"98.9356,39.5515,98.9756,39.5915",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e94\u575d\u4e00\u961f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "98.9556,39.5715,98.9556,39.5715",
+    "geom:latitude": 39.5715,
+    "geom:longitude": 98.9556,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Wuba Yidui",
+    "gn:country_code": "CN",
+    "gn:dem": 1449,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 10484982,
+    "gn:latitude": 39.5715,
+    "gn:longitude": 98.9556,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Wuba Yidui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "98.9356,39.5515,98.9756,39.5915",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "五坝一队"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890515159
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890513105,
+      890515159
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10484982
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10484982
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a7e0e96fa48bcae154a77e4f05f1d9f1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515159,
-            "empire_id":136253041,
-            "locality_id":1343244507,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a7e0e96fa48bcae154a77e4f05f1d9f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515159,
+        "empire_id": 136253041,
+        "locality_id": 1343244507,
+        "region_id": 85669711,
+        "localadmin_id": 890513105
+      }
     ],
-    "wof:id":1343244507,
-    "wof:lastmodified":1566659703,
-    "wof:name":"Wuba Yidui",
-    "wof:parent_id":890515159,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343244507,
+    "wof:lastmodified": 1768666723,
+    "wof:name": "Wuba Yidui",
+    "wof:parent_id": 890513105,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     98.9556,
     39.5715,
     98.9556,
     39.5715
-],
-  "geometry": {"coordinates":[98.9556,39.5715],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      98.9556,
+      39.5715
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1259553651,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.86483,35.12476,105.86483,35.12476",
-    "geom:latitude":35.12476,
-    "geom:longitude":105.86483,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Nanwan",
-    "gn:country_code":"CN",
-    "gn:dem":1745,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7348573,
-    "gn:latitude":35.12476,
-    "gn:longitude":105.86483,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Nanwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.84483,35.10476,105.88483,35.14476",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5357\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.86483,35.12476,105.86483,35.12476",
+    "geom:latitude": 35.12476,
+    "geom:longitude": 105.86483,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Nanwan",
+    "gn:country_code": "CN",
+    "gn:dem": 1745,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7348573,
+    "gn:latitude": 35.12476,
+    "gn:longitude": 105.86483,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Nanwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.84483,35.10476,105.88483,35.14476",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "南湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516253
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516253,
+      1127620825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7348573
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7348573
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5034b6054d53c98173cabb6fbf102530",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516253,
-            "empire_id":136253041,
-            "locality_id":1259553651,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5034b6054d53c98173cabb6fbf102530",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516253,
+        "empire_id": 136253041,
+        "locality_id": 1259553651,
+        "region_id": 85669711,
+        "localadmin_id": 1127620825
+      }
     ],
-    "wof:id":1259553651,
-    "wof:lastmodified":1566698600,
-    "wof:name":"Nanwan",
-    "wof:parent_id":890516253,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259553651,
+    "wof:lastmodified": 1768666732,
+    "wof:name": "Nanwan",
+    "wof:parent_id": 1127620825,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.86483,
     35.12475999999999,
     105.86483,
     35.12475999999999
-],
-  "geometry": {"coordinates":[105.86483,35.12475999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.86483,
+      35.12475999999999
+    ],
+    "type": "Point"
+  }
 }

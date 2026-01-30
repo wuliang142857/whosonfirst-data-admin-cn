@@ -2,75 +2,83 @@
   "id": 1259450513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.693,34.6386,117.693,34.6386",
-    "geom:latitude":34.6386,
-    "geom:longitude":117.693,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Dabeiluo",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9123120,
-    "gn:latitude":34.6386,
-    "gn:longitude":117.693,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Dabeiluo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.673,34.6186,117.713,34.6586",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5317\u6d1b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.693,34.6386,117.693,34.6386",
+    "geom:latitude": 34.6386,
+    "geom:longitude": 117.693,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Dabeiluo",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9123120,
+    "gn:latitude": 34.6386,
+    "gn:longitude": 117.693,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Dabeiluo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.673,34.6186,117.713,34.6586",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大北洛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516327
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890516327,
+      1127370405
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9123120
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9123120
     },
-    "wof:country":"CN",
-    "wof:geomhash":"846afe268d1ba05b8f6f2b826d239b38",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516327,
-            "empire_id":136253041,
-            "locality_id":1259450513,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "846afe268d1ba05b8f6f2b826d239b38",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516327,
+        "empire_id": 136253041,
+        "locality_id": 1259450513,
+        "region_id": 85669813,
+        "localadmin_id": 1127370405
+      }
     ],
-    "wof:id":1259450513,
-    "wof:lastmodified":1566700368,
-    "wof:name":"Dabeiluo",
-    "wof:parent_id":890516327,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259450513,
+    "wof:lastmodified": 1768668352,
+    "wof:name": "Dabeiluo",
+    "wof:parent_id": 1127370405,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.693,
     34.6386,
     117.693,
     34.6386
-],
-  "geometry": {"coordinates":[117.693,34.6386],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.693,
+      34.6386
+    ],
+    "type": "Point"
+  }
 }

@@ -2,77 +2,85 @@
   "id": 1276730381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.437,39.08008,112.437,39.08008",
-    "geom:latitude":39.08008,
-    "geom:longitude":112.437,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Jiajiayao",
-    "gn:country_code":"CN",
-    "gn:dem":1535,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1806479,
-    "gn:latitude":39.08008,
-    "gn:longitude":112.437,
-    "gn:modification_date":"2017-02-04",
-    "gn:name":"Jiajiayao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.417,39.06008,112.457,39.10008",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chia-chia-yao",
-        "Jiajiayao",
-        "\u8d3e\u5bb6\u7a91"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.437,39.08008,112.437,39.08008",
+    "geom:latitude": 39.08008,
+    "geom:longitude": 112.437,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Jiajiayao",
+    "gn:country_code": "CN",
+    "gn:dem": 1535,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1806479,
+    "gn:latitude": 39.08008,
+    "gn:longitude": 112.437,
+    "gn:modification_date": "2017-02-04",
+    "gn:name": "Jiajiayao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.417,39.06008,112.457,39.10008",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chia-chia-yao",
+      "Jiajiayao",
+      "贾家窑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513031
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513031,
+      1127140925
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1806479
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1806479
     },
-    "wof:country":"CN",
-    "wof:geomhash":"586da703d983f2ff98ce89b92d22e8d8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513031,
-            "empire_id":136253041,
-            "locality_id":1276730381,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "586da703d983f2ff98ce89b92d22e8d8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513031,
+        "empire_id": 136253041,
+        "locality_id": 1276730381,
+        "region_id": 85669773,
+        "localadmin_id": 1127140925
+      }
     ],
-    "wof:id":1276730381,
-    "wof:lastmodified":1566673516,
-    "wof:name":"Jiajiayao",
-    "wof:parent_id":890513031,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276730381,
+    "wof:lastmodified": 1768666642,
+    "wof:name": "Jiajiayao",
+    "wof:parent_id": 1127140925,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.437,
     39.08008,
     112.437,
     39.08008
-],
-  "geometry": {"coordinates":[112.437,39.08008],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.437,
+      39.08008
+    ],
+    "type": "Point"
+  }
 }

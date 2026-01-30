@@ -2,75 +2,83 @@
   "id": 1360078649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.89305,26.3438,119.89305,26.3438",
-    "geom:latitude":26.3438,
-    "geom:longitude":119.89305,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Dajian",
-    "gn:country_code":"CN",
-    "gn:dem":10,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8576051,
-    "gn:latitude":26.3438,
-    "gn:longitude":119.89305,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Dajian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.87305,26.3238,119.91305,26.3638",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5efa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.89305,26.3438,119.89305,26.3438",
+    "geom:latitude": 26.3438,
+    "geom:longitude": 119.89305,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Dajian",
+    "gn:country_code": "CN",
+    "gn:dem": 10,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8576051,
+    "gn:latitude": 26.3438,
+    "gn:longitude": 119.89305,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Dajian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.87305,26.3238,119.91305,26.3638",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大建"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513117,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8576051
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8576051
     },
-    "wof:country":"CN",
-    "wof:geomhash":"63e6ae07e9d7b7159eeafd647ac46e5e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1360078649,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "63e6ae07e9d7b7159eeafd647ac46e5e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1360078649,
+        "region_id": 85669735,
+        "localadmin_id": 890513117
+      }
     ],
-    "wof:id":1360078649,
-    "wof:lastmodified":1566691479,
-    "wof:name":"Dajian",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360078649,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Dajian",
+    "wof:parent_id": 890513117,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.89305,
     26.3438,
     119.89305,
     26.3438
-],
-  "geometry": {"coordinates":[119.89305,26.3438],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.89305,
+      26.3438
+    ],
+    "type": "Point"
+  }
 }

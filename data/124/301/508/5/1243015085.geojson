@@ -2,75 +2,83 @@
   "id": 1243015085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.438,27.4538,103.438,27.4538",
-    "geom:latitude":27.4538,
-    "geom:longitude":103.438,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Shanqiaocun",
-    "gn:country_code":"CN",
-    "gn:dem":2156,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10141688,
-    "gn:latitude":27.4538,
-    "gn:longitude":103.438,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shanqiaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.418,27.4338,103.458,27.4738",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u95ea\u6865\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.438,27.4538,103.438,27.4538",
+    "geom:latitude": 27.4538,
+    "geom:longitude": 103.438,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Shanqiaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 2156,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10141688,
+    "gn:latitude": 27.4538,
+    "gn:longitude": 103.438,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shanqiaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.418,27.4338,103.458,27.4738",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "闪桥村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514257,
+      1127530621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10141688
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10141688
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9cf4b082e474494efef410e7ae0b45bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1243015085,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9cf4b082e474494efef410e7ae0b45bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1243015085,
+        "region_id": 85669791,
+        "localadmin_id": 1127530621
+      }
     ],
-    "wof:id":1243015085,
-    "wof:lastmodified":1566694166,
-    "wof:name":"Shanqiaocun",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243015085,
+    "wof:lastmodified": 1768668497,
+    "wof:name": "Shanqiaocun",
+    "wof:parent_id": 1127530621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.438,
     27.4538,
     103.438,
     27.4538
-],
-  "geometry": {"coordinates":[103.438,27.4538],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.438,
+      27.4538
+    ],
+    "type": "Point"
+  }
 }

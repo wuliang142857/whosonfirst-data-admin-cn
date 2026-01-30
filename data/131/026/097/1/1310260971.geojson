@@ -2,78 +2,86 @@
   "id": 1310260971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.26168,31.20961,121.26168,31.20961",
-    "geom:latitude":31.20961,
-    "geom:longitude":121.26168,
-    "gn:admin1_code":"23.0",
-    "gn:asciiname":"Linjiaqiao",
-    "gn:country_code":"CN",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7843262,
-    "gn:latitude":31.20961,
-    "gn:longitude":121.26168,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Linjiaqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.24168,31.18961,121.28168,31.22961",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Linjiaqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.26168,31.20961,121.26168,31.20961",
+    "geom:latitude": 31.20961,
+    "geom:longitude": 121.26168,
+    "gn:admin1_code": "23.0",
+    "gn:asciiname": "Linjiaqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7843262,
+    "gn:latitude": 31.20961,
+    "gn:longitude": 121.26168,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Linjiaqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.24168,31.18961,121.28168,31.22961",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Linjiaqiao"
     ],
-    "name:zho_x_variant":[
-        "\u6797\u5bb6\u6865"
+    "name:zho_x_variant": [
+      "林家桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514443,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7843262
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7843262
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ca6ec93bc80be2881be283fdef9740e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1310260971,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ca6ec93bc80be2881be283fdef9740e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1310260971,
+        "region_id": 85669831,
+        "localadmin_id": 890514443
+      }
     ],
-    "wof:id":1310260971,
-    "wof:lastmodified":1566690207,
-    "wof:name":"Linjiaqiao",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310260971,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Linjiaqiao",
+    "wof:parent_id": 890514443,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.26168,
     31.20961,
     121.26168,
     31.20961
-],
-  "geometry": {"coordinates":[121.26168,31.20961],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.26168,
+      31.20961
+    ],
+    "type": "Point"
+  }
 }

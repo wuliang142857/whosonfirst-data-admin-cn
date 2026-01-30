@@ -2,78 +2,86 @@
   "id": 1309999677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.42653,25.87516,119.42653,25.87516",
-    "geom:latitude":25.87516,
-    "geom:longitude":119.42653,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Changqing",
-    "gn:country_code":"CN",
-    "gn:dem":71,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8575042,
-    "gn:latitude":25.87516,
-    "gn:longitude":119.42653,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Changqing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.40653,25.85516,119.44653,25.89516",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Changqing"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.42653,25.87516,119.42653,25.87516",
+    "geom:latitude": 25.87516,
+    "geom:longitude": 119.42653,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Changqing",
+    "gn:country_code": "CN",
+    "gn:dem": 71,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8575042,
+    "gn:latitude": 25.87516,
+    "gn:longitude": 119.42653,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Changqing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.40653,25.85516,119.44653,25.89516",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Changqing"
     ],
-    "name:zho_x_preferred":[
-        "\u957f\u9752"
+    "name:zho_x_preferred": [
+      "长青"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513115,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8575042
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8575042
     },
-    "wof:country":"CN",
-    "wof:geomhash":"baa6aac21fe476e52b189b3008b955fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1309999677,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "baa6aac21fe476e52b189b3008b955fa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1309999677,
+        "region_id": 85669735,
+        "localadmin_id": 890513115
+      }
     ],
-    "wof:id":1309999677,
-    "wof:lastmodified":1566692544,
-    "wof:name":"Changqing",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309999677,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Changqing",
+    "wof:parent_id": 890513115,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.42653,
     25.87516,
     119.42653,
     25.87516
-],
-  "geometry": {"coordinates":[119.42653,25.87516],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.42653,
+      25.87516
+    ],
+    "type": "Point"
+  }
 }

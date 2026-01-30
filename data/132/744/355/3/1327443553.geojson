@@ -2,78 +2,86 @@
   "id": 1327443553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.26265,30.4383,120.26265,30.4383",
-    "geom:latitude":30.4383,
-    "geom:longitude":120.26265,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Xiaolin",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7734987,
-    "gn:latitude":30.4383,
-    "gn:longitude":120.26265,
-    "gn:modification_date":"2017-10-05",
-    "gn:name":"Xiaolin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.24265,30.4183,120.28265,30.4583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:kor_x_preferred":[
-        "\uc0e4\uc624\ub9b0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.26265,30.4383,120.26265,30.4383",
+    "geom:latitude": 30.4383,
+    "geom:longitude": 120.26265,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Xiaolin",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7734987,
+    "gn:latitude": 30.4383,
+    "gn:longitude": 120.26265,
+    "gn:modification_date": "2017-10-05",
+    "gn:name": "Xiaolin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.24265,30.4183,120.28265,30.4583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:kor_x_preferred": [
+      "샤오린"
     ],
-    "name:und_x_variant":[
-        "\u5c0f\u6797"
+    "name:und_x_variant": [
+      "小林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516555,
+      1127330113
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7734987
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7734987
     },
-    "wof:country":"CN",
-    "wof:geomhash":"57f360c086aad1c6d5c7bfa6efb28d42",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1327443553,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "57f360c086aad1c6d5c7bfa6efb28d42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1327443553,
+        "region_id": 85669835,
+        "localadmin_id": 1127330113
+      }
     ],
-    "wof:id":1327443553,
-    "wof:lastmodified":1566653995,
-    "wof:name":"Xiaolin",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327443553,
+    "wof:lastmodified": 1768663108,
+    "wof:name": "Xiaolin",
+    "wof:parent_id": 1127330113,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.26265,
     30.4383,
     120.26265,
     30.4383
-],
-  "geometry": {"coordinates":[120.26264999999999,30.4383],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.26265,
+      30.4383
+    ],
+    "type": "Point"
+  }
 }

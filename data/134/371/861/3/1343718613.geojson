@@ -2,75 +2,83 @@
   "id": 1343718613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.17225,33.76143,107.17225,33.76143",
-    "geom:latitude":33.76143,
-    "geom:longitude":107.17225,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Zhaigou",
-    "gn:country_code":"CN",
-    "gn:dem":1279,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7445922,
-    "gn:latitude":33.76143,
-    "gn:longitude":107.17225,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhaigou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.15225,33.74143,107.19225,33.78143",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5be8\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.17225,33.76143,107.17225,33.76143",
+    "geom:latitude": 33.76143,
+    "geom:longitude": 107.17225,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Zhaigou",
+    "gn:country_code": "CN",
+    "gn:dem": 1279,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7445922,
+    "gn:latitude": 33.76143,
+    "gn:longitude": 107.17225,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhaigou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.15225,33.74143,107.19225,33.78143",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "寨沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513081,
+      890515099
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7445922
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7445922
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e3f8d414fa222b8d196e9755d71fd479",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1343718613,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e3f8d414fa222b8d196e9755d71fd479",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1343718613,
+        "region_id": 85669769,
+        "localadmin_id": 890513081
+      }
     ],
-    "wof:id":1343718613,
-    "wof:lastmodified":1566659966,
-    "wof:name":"Zhaigou",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343718613,
+    "wof:lastmodified": 1768667985,
+    "wof:name": "Zhaigou",
+    "wof:parent_id": 890513081,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.17225,
     33.76143,
     107.17225,
     33.76143
-],
-  "geometry": {"coordinates":[107.17225000000001,33.76143],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.17225,
+      33.76143
+    ],
+    "type": "Point"
+  }
 }

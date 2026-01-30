@@ -2,81 +2,89 @@
   "id": 1360130971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.11463,22.69527,112.11463,22.69527",
-    "geom:latitude":22.69527,
-    "geom:longitude":112.11463,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Lezhu",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1804127,
-    "gn:latitude":22.69527,
-    "gn:longitude":112.11463,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Lezhu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.09463,22.67527,112.13463,22.71527",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Le-chu",
-        "Lezhu",
-        "Lezhu Zhen",
-        "\u7c15\u7af9\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.11463,22.69527,112.11463,22.69527",
+    "geom:latitude": 22.69527,
+    "geom:longitude": 112.11463,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Lezhu",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1804127,
+    "gn:latitude": 22.69527,
+    "gn:longitude": 112.11463,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Lezhu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.09463,22.67527,112.13463,22.71527",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Le-chu",
+      "Lezhu",
+      "Lezhu Zhen",
+      "簕竹镇"
     ],
-    "name:zho_x_preferred":[
-        "\u7c15\u7af9"
+    "name:zho_x_preferred": [
+      "簕竹"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890512761
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890512761,
+      890513437
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1804127
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1804127
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4dd11a79ac7d876f42e39474220160dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512761,
-            "empire_id":136253041,
-            "locality_id":1360130971,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4dd11a79ac7d876f42e39474220160dc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512761,
+        "empire_id": 136253041,
+        "locality_id": 1360130971,
+        "region_id": 85669743,
+        "localadmin_id": 890513437
+      }
     ],
-    "wof:id":1360130971,
-    "wof:lastmodified":1566691268,
-    "wof:name":"Lezhu",
-    "wof:parent_id":890512761,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360130971,
+    "wof:lastmodified": 1768668816,
+    "wof:name": "Lezhu",
+    "wof:parent_id": 890513437,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.11463,
     22.69527,
     112.11463,
     22.69527
-],
-  "geometry": {"coordinates":[112.11463000000001,22.69527],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.11463,
+      22.69527
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1293349323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.952,37.9399,105.952,37.9399",
-    "geom:latitude":37.9399,
-    "geom:longitude":105.952,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Gaoqiao",
-    "gn:country_code":"CN",
-    "gn:dem":1143,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10189269,
-    "gn:latitude":37.9399,
-    "gn:longitude":105.952,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Gaoqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.932,37.9199,105.972,37.9599",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Gaoqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.952,37.9399,105.952,37.9399",
+    "geom:latitude": 37.9399,
+    "geom:longitude": 105.952,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Gaoqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 1143,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10189269,
+    "gn:latitude": 37.9399,
+    "gn:longitude": 105.952,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Gaoqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.932,37.9199,105.972,37.9599",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Gaoqiao"
     ],
-    "name:deu_x_preferred":[
-        "Gaoqiao"
+    "name:deu_x_preferred": [
+      "Gaoqiao"
     ],
-    "name:swe_x_preferred":[
-        "Gaoqiao"
+    "name:swe_x_preferred": [
+      "Gaoqiao"
     ],
-    "name:zho_x_preferred":[
-        "\u9ad8\u6865"
+    "name:zho_x_preferred": [
+      "高桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        1108732381
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515661,
+      1108732381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10189269
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10189269
     },
-    "wof:country":"CN",
-    "wof:geomhash":"90ab84d14264ce52409968f538d27466",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732381,
-            "empire_id":136253041,
-            "locality_id":1293349323,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "90ab84d14264ce52409968f538d27466",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732381,
+        "empire_id": 136253041,
+        "locality_id": 1293349323,
+        "region_id": 85669763,
+        "localadmin_id": 890515661
+      }
     ],
-    "wof:id":1293349323,
-    "wof:lastmodified":1566669709,
-    "wof:name":"Gaoqiao",
-    "wof:parent_id":1108732381,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293349323,
+    "wof:lastmodified": 1768667273,
+    "wof:name": "Gaoqiao",
+    "wof:parent_id": 890515661,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.952,
     37.9399,
     105.952,
     37.9399
-],
-  "geometry": {"coordinates":[105.952,37.9399],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.952,
+      37.9399
+    ],
+    "type": "Point"
+  }
 }

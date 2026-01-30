@@ -2,75 +2,83 @@
   "id": 1210001731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.95184,45.70296,125.95184,45.70296",
-    "geom:latitude":45.70296,
-    "geom:longitude":125.95184,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Fujiangcun",
-    "gn:country_code":"CN",
-    "gn:dem":121,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11583229,
-    "gn:latitude":45.70296,
-    "gn:longitude":125.95184,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Fujiangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.93184,45.68296,125.97184,45.72296",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5bcc\u6c5f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.95184,45.70296,125.95184,45.70296",
+    "geom:latitude": 45.70296,
+    "geom:longitude": 125.95184,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Fujiangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 121,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11583229,
+    "gn:latitude": 45.70296,
+    "gn:longitude": 125.95184,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Fujiangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.93184,45.68296,125.97184,45.72296",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "富江村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514025,
+      890514509
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11583229
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11583229
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f68f272cee80aebfc65138d1f11ecead",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1210001731,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f68f272cee80aebfc65138d1f11ecead",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1210001731,
+        "region_id": 85669849,
+        "localadmin_id": 890514025
+      }
     ],
-    "wof:id":1210001731,
-    "wof:lastmodified":1566684453,
-    "wof:name":"Fujiangcun",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1210001731,
+    "wof:lastmodified": 1768668896,
+    "wof:name": "Fujiangcun",
+    "wof:parent_id": 890514025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.95184,
     45.70296,
     125.95184,
     45.70296
-],
-  "geometry": {"coordinates":[125.95184,45.70296],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.95184,
+      45.70296
+    ],
+    "type": "Point"
+  }
 }

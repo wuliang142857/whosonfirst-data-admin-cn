@@ -2,84 +2,92 @@
   "id": 1260264379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.784,24.655,110.784,24.655",
-    "geom:latitude":24.655,
-    "geom:longitude":110.784,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Xinzhai",
-    "gn:country_code":"CN",
-    "gn:dem":138,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9916619,
-    "gn:latitude":24.655,
-    "gn:longitude":110.784,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Xinzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.764,24.635,110.804,24.675",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nor_x_preferred":[
-        "Xinzhai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.784,24.655,110.784,24.655",
+    "geom:latitude": 24.655,
+    "geom:longitude": 110.784,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Xinzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 138,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9916619,
+    "gn:latitude": 24.655,
+    "gn:longitude": 110.784,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Xinzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.764,24.635,110.804,24.675",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nor_x_preferred": [
+      "Xinzhai"
     ],
-    "name:swe_x_preferred":[
-        "Xinzhai"
+    "name:swe_x_preferred": [
+      "Xinzhai"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u5be8"
+    "name:zho_x_preferred": [
+      "新寨"
     ],
-    "name:zho_x_variant":[
-        "\u65b0\u7826\u9057\u5740"
+    "name:zho_x_variant": [
+      "新砦遗址"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732443
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732443,
+      1127450330
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9916619
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9916619
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9db343d315d658ddf30a617d43256109",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":1260264379,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9db343d315d658ddf30a617d43256109",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 1260264379,
+        "region_id": 85669717,
+        "localadmin_id": 1127450330
+      }
     ],
-    "wof:id":1260264379,
-    "wof:lastmodified":1566687420,
-    "wof:name":"Xinzhai",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260264379,
+    "wof:lastmodified": 1768665548,
+    "wof:name": "Xinzhai",
+    "wof:parent_id": 1127450330,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.784,
     24.655,
     110.784,
     24.655
-],
-  "geometry": {"coordinates":[110.78400000000001,24.655],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.784,
+      24.655
+    ],
+    "type": "Point"
+  }
 }

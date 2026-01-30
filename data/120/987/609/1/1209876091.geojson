@@ -2,82 +2,90 @@
   "id": 1209876091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.31965,22.70905,111.31965,22.70905",
-    "geom:latitude":22.70905,
-    "geom:longitude":111.31965,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Silun",
-    "gn:country_code":"CN",
-    "gn:dem":91,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1794213,
-    "gn:latitude":22.70905,
-    "gn:longitude":111.31965,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Silun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.29965,22.68905,111.33965,22.72905",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ssu-lun",
-        "Ssu-lun-hs\u00fc",
-        "Silun",
-        "Silun Zhen",
-        "\u6cd7\u7eb6\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.31965,22.70905,111.31965,22.70905",
+    "geom:latitude": 22.70905,
+    "geom:longitude": 111.31965,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Silun",
+    "gn:country_code": "CN",
+    "gn:dem": 91,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1794213,
+    "gn:latitude": 22.70905,
+    "gn:longitude": 111.31965,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Silun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.29965,22.68905,111.33965,22.72905",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ssu-lun",
+      "Ssu-lun-hsü",
+      "Silun",
+      "Silun Zhen",
+      "泗纶镇"
     ],
-    "name:zho_x_preferred":[
-        "\u6cd7\u7eb6"
+    "name:zho_x_preferred": [
+      "泗纶"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890512761
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890512761,
+      1127445381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1794213
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1794213
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a0d08adde255050160c13f6d45784ad7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512761,
-            "empire_id":136253041,
-            "locality_id":1209876091,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a0d08adde255050160c13f6d45784ad7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512761,
+        "empire_id": 136253041,
+        "locality_id": 1209876091,
+        "region_id": 85669743,
+        "localadmin_id": 1127445381
+      }
     ],
-    "wof:id":1209876091,
-    "wof:lastmodified":1566683480,
-    "wof:name":"Silun",
-    "wof:parent_id":890512761,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209876091,
+    "wof:lastmodified": 1768668816,
+    "wof:name": "Silun",
+    "wof:parent_id": 1127445381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.31965,
     22.70905,
     111.31965,
     22.70905
-],
-  "geometry": {"coordinates":[111.31965,22.70905],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.31965,
+      22.70905
+    ],
+    "type": "Point"
+  }
 }

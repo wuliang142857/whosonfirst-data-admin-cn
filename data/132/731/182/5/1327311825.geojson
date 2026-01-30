@@ -2,75 +2,83 @@
   "id": 1327311825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.54742,27.49604,112.54742,27.49604",
-    "geom:latitude":27.49604,
-    "geom:longitude":112.54742,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Lijiawan",
-    "gn:country_code":"CN",
-    "gn:dem":88,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10333790,
-    "gn:latitude":27.49604,
-    "gn:longitude":112.54742,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Lijiawan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.52742,27.47604,112.56742,27.51604",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u5bb6\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.54742,27.49604,112.54742,27.49604",
+    "geom:latitude": 27.49604,
+    "geom:longitude": 112.54742,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Lijiawan",
+    "gn:country_code": "CN",
+    "gn:dem": 88,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10333790,
+    "gn:latitude": 27.49604,
+    "gn:longitude": 112.54742,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Lijiawan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.52742,27.47604,112.56742,27.51604",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李家湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108732467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516699,
+      1108732467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10333790
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10333790
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4128007f47fba2c2d92005839709828b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732467,
-            "empire_id":136253041,
-            "locality_id":1327311825,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4128007f47fba2c2d92005839709828b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732467,
+        "empire_id": 136253041,
+        "locality_id": 1327311825,
+        "region_id": 85669781,
+        "localadmin_id": 890516699
+      }
     ],
-    "wof:id":1327311825,
-    "wof:lastmodified":1566647314,
-    "wof:name":"Lijiawan",
-    "wof:parent_id":1108732467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327311825,
+    "wof:lastmodified": 1768670412,
+    "wof:name": "Lijiawan",
+    "wof:parent_id": 890516699,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.54742,
     27.49604,
     112.54742,
     27.49604
-],
-  "geometry": {"coordinates":[112.54742,27.49604],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.54742,
+      27.49604
+    ],
+    "type": "Point"
+  }
 }

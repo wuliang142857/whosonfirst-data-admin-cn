@@ -2,81 +2,89 @@
   "id": 1260236047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.7853,34.34645,108.7853,34.34645",
-    "geom:latitude":34.34645,
-    "geom:longitude":108.7853,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Shalingcun",
-    "gn:country_code":"CN",
-    "gn:dem":381,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2001087,
-    "gn:latitude":34.34645,
-    "gn:longitude":108.7853,
-    "gn:modification_date":"2016-12-03",
-    "gn:name":"Shalingcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.7653,34.32645,108.8053,34.36645",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shaling"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.7853,34.34645,108.7853,34.34645",
+    "geom:latitude": 34.34645,
+    "geom:longitude": 108.7853,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Shalingcun",
+    "gn:country_code": "CN",
+    "gn:dem": 381,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2001087,
+    "gn:latitude": 34.34645,
+    "gn:longitude": 108.7853,
+    "gn:modification_date": "2016-12-03",
+    "gn:name": "Shalingcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.7653,34.32645,108.8053,34.36645",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shaling"
     ],
-    "name:zho_x_preferred":[
-        "\u6c99\u82d3"
+    "name:zho_x_preferred": [
+      "沙苓"
     ],
-    "name:zho_x_variant":[
-        "\u6c99\u82d3\u6751"
+    "name:zho_x_variant": [
+      "沙苓村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515689,
+      1127610402
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2001087
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2001087
     },
-    "wof:country":"CN",
-    "wof:geomhash":"18cb1d61a3a61c98f3890c25b4abce2b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1260236047,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "18cb1d61a3a61c98f3890c25b4abce2b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1260236047,
+        "region_id": 85669769,
+        "localadmin_id": 1127610402
+      }
     ],
-    "wof:id":1260236047,
-    "wof:lastmodified":1566686202,
-    "wof:name":"Shalingcun",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260236047,
+    "wof:lastmodified": 1768667722,
+    "wof:name": "Shalingcun",
+    "wof:parent_id": 1127610402,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.7853,
     34.34645,
     108.7853,
     34.34645
-],
-  "geometry": {"coordinates":[108.78530000000001,34.34645],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.7853,
+      34.34645
+    ],
+    "type": "Point"
+  }
 }

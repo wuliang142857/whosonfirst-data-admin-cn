@@ -2,75 +2,83 @@
   "id": 1327484201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.94,22.7747,100.94,22.7747",
-    "geom:latitude":22.7747,
-    "geom:longitude":100.94,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Lanhedi",
-    "gn:country_code":"CN",
-    "gn:dem":1325,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9920585,
-    "gn:latitude":22.7747,
-    "gn:longitude":100.94,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Lanhedi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.92,22.7547,100.96,22.7947",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5170\u6cb3\u5730"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.94,22.7747,100.94,22.7747",
+    "geom:latitude": 22.7747,
+    "geom:longitude": 100.94,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Lanhedi",
+    "gn:country_code": "CN",
+    "gn:dem": 1325,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9920585,
+    "gn:latitude": 22.7747,
+    "gn:longitude": 100.94,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Lanhedi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.92,22.7547,100.96,22.7947",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "兰河地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514995
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514995,
+      1127530802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9920585
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9920585
     },
-    "wof:country":"CN",
-    "wof:geomhash":"be69a927ac068d4ecd1c327e79832bb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514995,
-            "empire_id":136253041,
-            "locality_id":1327484201,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "be69a927ac068d4ecd1c327e79832bb0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514995,
+        "empire_id": 136253041,
+        "locality_id": 1327484201,
+        "region_id": 85669791,
+        "localadmin_id": 1127530802
+      }
     ],
-    "wof:id":1327484201,
-    "wof:lastmodified":1566650890,
-    "wof:name":"Lanhedi",
-    "wof:parent_id":890514995,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327484201,
+    "wof:lastmodified": 1768668367,
+    "wof:name": "Lanhedi",
+    "wof:parent_id": 1127530802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.94,
     22.7747,
     100.94,
     22.7747
-],
-  "geometry": {"coordinates":[100.94,22.7747],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.94,
+      22.7747
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1293753011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.675,23.4241,108.675,23.4241",
-    "geom:latitude":23.4241,
-    "geom:longitude":108.675,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Liuzhan",
-    "gn:country_code":"CN",
-    "gn:dem":103,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9935673,
-    "gn:latitude":23.4241,
-    "gn:longitude":108.675,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Liuzhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.655,23.4041,108.695,23.4441",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u516d\u7ad9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.675,23.4241,108.675,23.4241",
+    "geom:latitude": 23.4241,
+    "geom:longitude": 108.675,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Liuzhan",
+    "gn:country_code": "CN",
+    "gn:dem": 103,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9935673,
+    "gn:latitude": 23.4241,
+    "gn:longitude": 108.675,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Liuzhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.655,23.4041,108.695,23.4441",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "六站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9935673
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9935673
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9fed182210fb0c3a7439f78c05428006",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1293753011,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9fed182210fb0c3a7439f78c05428006",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1293753011,
+        "region_id": 85669717,
+        "localadmin_id": 1127450125
+      }
     ],
-    "wof:id":1293753011,
-    "wof:lastmodified":1566671813,
-    "wof:name":"Liuzhan",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293753011,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Liuzhan",
+    "wof:parent_id": 1127450125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.675,
     23.4241,
     108.675,
     23.4241
-],
-  "geometry": {"coordinates":[108.675,23.4241],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.675,
+      23.4241
+    ],
+    "type": "Point"
+  }
 }

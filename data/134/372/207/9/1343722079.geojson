@@ -2,81 +2,89 @@
   "id": 1343722079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.67986,21.85403,112.67986,21.85403",
-    "geom:latitude":21.85403,
-    "geom:longitude":112.67986,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Chuandao",
-    "gn:country_code":"CN",
-    "gn:dem":63,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8334002,
-    "gn:latitude":21.85403,
-    "gn:longitude":112.67986,
-    "gn:modification_date":"2012-06-07",
-    "gn:name":"Chuandao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.65986,21.83403,112.69986,21.87403",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chuandao Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.67986,21.85403,112.67986,21.85403",
+    "geom:latitude": 21.85403,
+    "geom:longitude": 112.67986,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Chuandao",
+    "gn:country_code": "CN",
+    "gn:dem": 63,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8334002,
+    "gn:latitude": 21.85403,
+    "gn:longitude": 112.67986,
+    "gn:modification_date": "2012-06-07",
+    "gn:name": "Chuandao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.65986,21.83403,112.69986,21.87403",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chuandao Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u5ddd\u5c9b"
+    "name:zho_x_preferred": [
+      "川岛"
     ],
-    "name:zho_x_variant":[
-        "\u5ddd\u5c9b\u9547"
+    "name:zho_x_variant": [
+      "川岛镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514609,
+      1125296495
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8334002
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8334002
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4a03f5f015e576fe85c17e965695ecbe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1343722079,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4a03f5f015e576fe85c17e965695ecbe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1343722079,
+        "region_id": 85669743,
+        "localadmin_id": 1125296495
+      }
     ],
-    "wof:id":1343722079,
-    "wof:lastmodified":1566664695,
-    "wof:name":"Chuandao",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343722079,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Chuandao",
+    "wof:parent_id": 1125296495,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.67986,
     21.85403,
     112.67986,
     21.85403
-],
-  "geometry": {"coordinates":[112.67986000000001,21.85403],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.67986,
+      21.85403
+    ],
+    "type": "Point"
+  }
 }

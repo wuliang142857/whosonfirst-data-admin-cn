@@ -2,75 +2,83 @@
   "id": 1243563945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.86365,31.94888,116.86365,31.94888",
-    "geom:latitude":31.94888,
-    "geom:longitude":116.86365,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Xiguaicun",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10442668,
-    "gn:latitude":31.94888,
-    "gn:longitude":116.86365,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Xiguaicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.84365,31.92888,116.88365,31.96888",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u62d0\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.86365,31.94888,116.86365,31.94888",
+    "geom:latitude": 31.94888,
+    "geom:longitude": 116.86365,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Xiguaicun",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10442668,
+    "gn:latitude": 31.94888,
+    "gn:longitude": 116.86365,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Xiguaicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.84365,31.92888,116.88365,31.96888",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西拐村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513787
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513787,
+      1127340104
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10442668
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10442668
     },
-    "wof:country":"CN",
-    "wof:geomhash":"88d3292776dd905c1becb602441e01b1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513787,
-            "empire_id":136253041,
-            "locality_id":1243563945,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "88d3292776dd905c1becb602441e01b1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513787,
+        "empire_id": 136253041,
+        "locality_id": 1243563945,
+        "region_id": 85669739,
+        "localadmin_id": 1127340104
+      }
     ],
-    "wof:id":1243563945,
-    "wof:lastmodified":1566696176,
-    "wof:name":"Xiguaicun",
-    "wof:parent_id":890513787,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243563945,
+    "wof:lastmodified": 1768669770,
+    "wof:name": "Xiguaicun",
+    "wof:parent_id": 1127340104,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.86365,
     31.94888,
     116.86365,
     31.94888
-],
-  "geometry": {"coordinates":[116.86365000000001,31.94888],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.86365,
+      31.94888
+    ],
+    "type": "Point"
+  }
 }

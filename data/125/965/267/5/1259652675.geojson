@@ -2,75 +2,83 @@
   "id": 1259652675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.626,38.701,106.626,38.701",
-    "geom:latitude":38.701,
-    "geom:longitude":106.626,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Xiabaqing",
-    "gn:country_code":"CN",
-    "gn:dem":1103,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10189866,
-    "gn:latitude":38.701,
-    "gn:longitude":106.626,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Xiabaqing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.606,38.681,106.646,38.721",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0b\u516b\u9877"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.626,38.701,106.626,38.701",
+    "geom:latitude": 38.701,
+    "geom:longitude": 106.626,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Xiabaqing",
+    "gn:country_code": "CN",
+    "gn:dem": 1103,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10189866,
+    "gn:latitude": 38.701,
+    "gn:longitude": 106.626,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Xiabaqing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.606,38.681,106.646,38.721",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "下八顷"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890514111
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890514111,
+      1127640221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10189866
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10189866
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5aa5a9933e84fb8276395f82eac3134b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514111,
-            "empire_id":136253041,
-            "locality_id":1259652675,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5aa5a9933e84fb8276395f82eac3134b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514111,
+        "empire_id": 136253041,
+        "locality_id": 1259652675,
+        "region_id": 85669763,
+        "localadmin_id": 1127640221
+      }
     ],
-    "wof:id":1259652675,
-    "wof:lastmodified":1566698188,
-    "wof:name":"Xiabaqing",
-    "wof:parent_id":890514111,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259652675,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Xiabaqing",
+    "wof:parent_id": 1127640221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.626,
     38.701,
     106.626,
     38.701
-],
-  "geometry": {"coordinates":[106.626,38.701],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.626,
+      38.701
+    ],
+    "type": "Point"
+  }
 }

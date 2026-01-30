@@ -2,75 +2,83 @@
   "id": 1276492215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.38084,23.1105,116.38084,23.1105",
-    "geom:latitude":23.1105,
-    "geom:longitude":116.38084,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Chiping",
-    "gn:country_code":"CN",
-    "gn:dem":45,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10864967,
-    "gn:latitude":23.1105,
-    "gn:longitude":116.38084,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Chiping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.36084,23.0905,116.40084,23.1305",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d64\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.38084,23.1105,116.38084,23.1105",
+    "geom:latitude": 23.1105,
+    "geom:longitude": 116.38084,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Chiping",
+    "gn:country_code": "CN",
+    "gn:dem": 45,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10864967,
+    "gn:latitude": 23.1105,
+    "gn:longitude": 116.38084,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Chiping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.36084,23.0905,116.40084,23.1305",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赤坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        1108732449
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      1108732449,
+      1127440514
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10864967
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10864967
     },
-    "wof:country":"CN",
-    "wof:geomhash":"024dd024038595c10081bc77383c751c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732449,
-            "empire_id":136253041,
-            "locality_id":1276492215,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "024dd024038595c10081bc77383c751c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732449,
+        "empire_id": 136253041,
+        "locality_id": 1276492215,
+        "region_id": 85669743,
+        "localadmin_id": 1127440514
+      }
     ],
-    "wof:id":1276492215,
-    "wof:lastmodified":1566676235,
-    "wof:name":"Chiping",
-    "wof:parent_id":1108732449,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276492215,
+    "wof:lastmodified": 1768668678,
+    "wof:name": "Chiping",
+    "wof:parent_id": 1127440514,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.38084,
     23.1105,
     116.38084,
     23.1105
-],
-  "geometry": {"coordinates":[116.38084000000001,23.1105],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.38084,
+      23.1105
+    ],
+    "type": "Point"
+  }
 }

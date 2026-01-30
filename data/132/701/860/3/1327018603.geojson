@@ -2,75 +2,83 @@
   "id": 1327018603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.299,38.5261,116.299,38.5261",
-    "geom:latitude":38.5261,
-    "geom:longitude":116.299,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Xicha",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630218,
-    "gn:latitude":38.5261,
-    "gn:longitude":116.299,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Xicha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.279,38.5061,116.319,38.5461",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e0c\u63d2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.299,38.5261,116.299,38.5261",
+    "geom:latitude": 38.5261,
+    "geom:longitude": 116.299,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Xicha",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630218,
+    "gn:latitude": 38.5261,
+    "gn:longitude": 116.299,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Xicha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.279,38.5061,116.319,38.5461",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "希插"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130984
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630218
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630218
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e54b40a216ba71e2d0d3986ffb7d3727",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1327018603,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e54b40a216ba71e2d0d3986ffb7d3727",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1327018603,
+        "region_id": 85669797,
+        "localadmin_id": 1127130984
+      }
     ],
-    "wof:id":1327018603,
-    "wof:lastmodified":1566646549,
-    "wof:name":"Xicha",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327018603,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Xicha",
+    "wof:parent_id": 1127130984,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.299,
     38.5261,
     116.299,
     38.5261
-],
-  "geometry": {"coordinates":[116.29900000000001,38.5261],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.299,
+      38.5261
+    ],
+    "type": "Point"
+  }
 }

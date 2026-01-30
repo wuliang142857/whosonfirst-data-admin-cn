@@ -2,88 +2,96 @@
   "id": 1226329153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.50874,30.42277,111.50874,30.42277",
-    "geom:latitude":30.42277,
-    "geom:longitude":111.50874,
-    "gn:admin1_code":"12",
-    "gn:asciiname":"Baiyang",
-    "gn:country_code":"CN",
-    "gn:dem":49,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1817274,
-    "gn:latitude":30.42277,
-    "gn:longitude":111.50874,
-    "gn:modification_date":"2015-09-25",
-    "gn:name":"Baiyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.48874,30.40277,111.52874,30.44277",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Baiyang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.50874,30.42277,111.50874,30.42277",
+    "geom:latitude": 30.42277,
+    "geom:longitude": 111.50874,
+    "gn:admin1_code": "12",
+    "gn:asciiname": "Baiyang",
+    "gn:country_code": "CN",
+    "gn:dem": 49,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1817274,
+    "gn:latitude": 30.42277,
+    "gn:longitude": 111.50874,
+    "gn:modification_date": "2015-09-25",
+    "gn:name": "Baiyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.48874,30.40277,111.52874,30.44277",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Baiyang"
     ],
-    "name:deu_x_preferred":[
-        "Baiyang"
+    "name:deu_x_preferred": [
+      "Baiyang"
     ],
-    "name:swe_x_preferred":[
-        "Baiyang"
+    "name:swe_x_preferred": [
+      "Baiyang"
     ],
-    "name:und_x_variant":[
-        "Pai-yang",
-        "\u767d\u6d0b",
-        "Baiyang Zhen",
-        "\u767d\u6d0b\u9547",
-        "Pih-Yang"
+    "name:und_x_variant": [
+      "Pai-yang",
+      "白洋",
+      "Baiyang Zhen",
+      "白洋镇",
+      "Pih-Yang"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890513331
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890513331,
+      1127420583
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1817274
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1817274
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6079548c2777fe510c101e23bb2e0c42",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513331,
-            "empire_id":136253041,
-            "locality_id":1226329153,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6079548c2777fe510c101e23bb2e0c42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513331,
+        "empire_id": 136253041,
+        "locality_id": 1226329153,
+        "region_id": 85669777,
+        "localadmin_id": 1127420583
+      }
     ],
-    "wof:id":1226329153,
-    "wof:lastmodified":1566702396,
-    "wof:name":"Baiyang",
-    "wof:parent_id":890513331,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226329153,
+    "wof:lastmodified": 1768665620,
+    "wof:name": "Baiyang",
+    "wof:parent_id": 1127420583,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.50874,
     30.42277,
     111.50874,
     30.42277
-],
-  "geometry": {"coordinates":[111.50874,30.42277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.50874,
+      30.42277
+    ],
+    "type": "Point"
+  }
 }

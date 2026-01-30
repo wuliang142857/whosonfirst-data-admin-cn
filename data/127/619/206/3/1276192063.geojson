@@ -2,78 +2,86 @@
   "id": 1276192063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.15417,32.46028,109.15417,32.46028",
-    "geom:latitude":32.46028,
-    "geom:longitude":109.15417,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Dagui",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":400,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1814370,
-    "gn:latitude":32.46028,
-    "gn:longitude":109.15417,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Dagui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.13417,32.44028,109.17417,32.48028",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ai-kuei-p\u2019ing",
-        "Ta-kuei",
-        "Dagui"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.15417,32.46028,109.15417,32.46028",
+    "geom:latitude": 32.46028,
+    "geom:longitude": 109.15417,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Dagui",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 400,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1814370,
+    "gn:latitude": 32.46028,
+    "gn:longitude": 109.15417,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Dagui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.13417,32.44028,109.17417,32.48028",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ai-kuei-p’ing",
+      "Ta-kuei",
+      "Dagui"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1814370
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1814370
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c0d488138ac4cdcd74240642199ae410",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1276192063,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c0d488138ac4cdcd74240642199ae410",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1276192063,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1276192063,
-    "wof:lastmodified":1566673212,
-    "wof:name":"Dagui",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276192063,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Dagui",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.15417,
     32.46028,
     109.15417,
     32.46028
-],
-  "geometry": {"coordinates":[109.15416999999999,32.46028],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.15417,
+      32.46028
+    ],
+    "type": "Point"
+  }
 }

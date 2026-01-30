@@ -2,75 +2,83 @@
   "id": 1260178319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.26963,46.90331,126.26963,46.90331",
-    "geom:latitude":46.90331,
-    "geom:longitude":126.26963,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Simajia",
-    "gn:country_code":"CN",
-    "gn:dem":146,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11574763,
-    "gn:latitude":46.90331,
-    "gn:longitude":126.26963,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Simajia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.24963,46.88331,126.28963,46.92331",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u56db\u9a6c\u67b6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.26963,46.90331,126.26963,46.90331",
+    "geom:latitude": 46.90331,
+    "geom:longitude": 126.26963,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Simajia",
+    "gn:country_code": "CN",
+    "gn:dem": 146,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11574763,
+    "gn:latitude": 46.90331,
+    "gn:longitude": 126.26963,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Simajia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.24963,46.88331,126.28963,46.92331",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "四马架"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11574763
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11574763
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6ca3f2a87eabd143f75e2579007c8908",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1260178319,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6ca3f2a87eabd143f75e2579007c8908",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1260178319,
+        "region_id": 85669849,
+        "localadmin_id": 1127231221
+      }
     ],
-    "wof:id":1260178319,
-    "wof:lastmodified":1566687324,
-    "wof:name":"Simajia",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260178319,
+    "wof:lastmodified": 1768668894,
+    "wof:name": "Simajia",
+    "wof:parent_id": 1127231221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.26963,
     46.90331,
     126.26963,
     46.90331
-],
-  "geometry": {"coordinates":[126.26963000000001,46.90331],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.26963,
+      46.90331
+    ],
+    "type": "Point"
+  }
 }

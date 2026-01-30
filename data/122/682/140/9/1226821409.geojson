@@ -2,75 +2,83 @@
   "id": 1226821409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.986,23.0814,105.986,23.0814",
-    "geom:latitude":23.0814,
-    "geom:longitude":105.986,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tingyan",
-    "gn:country_code":"CN",
-    "gn:dem":753,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9906887,
-    "gn:latitude":23.0814,
-    "gn:longitude":105.986,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Tingyan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.966,23.0614,106.006,23.1014",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4ead\u70df"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.986,23.0814,105.986,23.0814",
+    "geom:latitude": 23.0814,
+    "geom:longitude": 105.986,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tingyan",
+    "gn:country_code": "CN",
+    "gn:dem": 753,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9906887,
+    "gn:latitude": 23.0814,
+    "gn:longitude": 105.986,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Tingyan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.966,23.0614,106.006,23.1014",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "亭烟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451081
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9906887
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9906887
     },
-    "wof:country":"CN",
-    "wof:geomhash":"26cc4c1fa424075d805483ea3ac2ac02",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226821409,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "26cc4c1fa424075d805483ea3ac2ac02",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226821409,
+        "region_id": 85669717,
+        "localadmin_id": 1127451081
+      }
     ],
-    "wof:id":1226821409,
-    "wof:lastmodified":1566704046,
-    "wof:name":"Tingyan",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226821409,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Tingyan",
+    "wof:parent_id": 1127451081,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.986,
     23.0814,
     105.986,
     23.0814
-],
-  "geometry": {"coordinates":[105.986,23.0814],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.986,
+      23.0814
+    ],
+    "type": "Point"
+  }
 }

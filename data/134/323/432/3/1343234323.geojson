@@ -2,78 +2,86 @@
   "id": 1343234323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.737,23.7254,110.737,23.7254",
-    "geom:latitude":23.7254,
-    "geom:longitude":110.737,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Ding'an",
-    "gn:country_code":"CN",
-    "gn:dem":58,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9918811,
-    "gn:latitude":23.7254,
-    "gn:longitude":110.737,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Ding\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.717,23.7054,110.757,23.7454",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ding\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.737,23.7254,110.737,23.7254",
+    "geom:latitude": 23.7254,
+    "geom:longitude": 110.737,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Ding'an",
+    "gn:country_code": "CN",
+    "gn:dem": 58,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9918811,
+    "gn:latitude": 23.7254,
+    "gn:longitude": 110.737,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Ding’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.717,23.7054,110.757,23.7454",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ding’an"
     ],
-    "name:zho_x_preferred":[
-        "\u5b9a\u5b89"
+    "name:zho_x_preferred": [
+      "定安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9918811
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9918811
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c3192f7d32956892ea88c25c880e0f51",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1343234323,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c3192f7d32956892ea88c25c880e0f51",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1343234323,
+        "region_id": 85669717,
+        "localadmin_id": 1127450422
+      }
     ],
-    "wof:id":1343234323,
-    "wof:lastmodified":1566659835,
-    "wof:name":"Ding'an",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343234323,
+    "wof:lastmodified": 1768665954,
+    "wof:name": "Ding'an",
+    "wof:parent_id": 1127450422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.737,
     23.7254,
     110.737,
     23.7254
-],
-  "geometry": {"coordinates":[110.73699999999999,23.7254],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.737,
+      23.7254
+    ],
+    "type": "Point"
+  }
 }

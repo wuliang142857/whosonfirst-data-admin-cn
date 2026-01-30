@@ -2,77 +2,85 @@
   "id": 1310556007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.54049,32.93845,106.54049,32.93845",
-    "geom:latitude":32.93845,
-    "geom:longitude":106.54049,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Erdaohe",
-    "gn:country_code":"CN",
-    "gn:dem":1033,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1811708,
-    "gn:latitude":32.93845,
-    "gn:longitude":106.54049,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Erdaohe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.52049,32.91845,106.56049,32.95845",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Erh-tao-ho",
-        "Erdaohe",
-        "\u4e8c\u9053\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.54049,32.93845,106.54049,32.93845",
+    "geom:latitude": 32.93845,
+    "geom:longitude": 106.54049,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Erdaohe",
+    "gn:country_code": "CN",
+    "gn:dem": 1033,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1811708,
+    "gn:latitude": 32.93845,
+    "gn:longitude": 106.54049,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Erdaohe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.52049,32.91845,106.56049,32.95845",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Erh-tao-ho",
+      "Erdaohe",
+      "二道河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515099,
+      1127610725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811708
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811708
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e18881005bf89fba2c2a90bc764f6797",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1310556007,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e18881005bf89fba2c2a90bc764f6797",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1310556007,
+        "region_id": 85669769,
+        "localadmin_id": 1127610725
+      }
     ],
-    "wof:id":1310556007,
-    "wof:lastmodified":1566689175,
-    "wof:name":"Erdaohe",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310556007,
+    "wof:lastmodified": 1768667985,
+    "wof:name": "Erdaohe",
+    "wof:parent_id": 1127610725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.54049,
     32.93845,
     106.54049,
     32.93845
-],
-  "geometry": {"coordinates":[106.54049000000001,32.93845],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.54049,
+      32.93845
+    ],
+    "type": "Point"
+  }
 }

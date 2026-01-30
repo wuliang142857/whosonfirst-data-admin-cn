@@ -2,85 +2,93 @@
   "id": 1226479611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.86442,18.44603,109.86442,18.44603",
-    "geom:latitude":18.44603,
-    "geom:longitude":109.86442,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Wan'an",
-    "gn:country_code":"CN",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7635121,
-    "gn:latitude":18.44603,
-    "gn:longitude":109.86442,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Wan\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.84442,18.42603,109.88442,18.46603",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Wan\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.86442,18.44603,109.86442,18.44603",
+    "geom:latitude": 18.44603,
+    "geom:longitude": 109.86442,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Wan'an",
+    "gn:country_code": "CN",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7635121,
+    "gn:latitude": 18.44603,
+    "gn:longitude": 109.86442,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Wan’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.84442,18.42603,109.88442,18.46603",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Wan’an"
     ],
-    "name:deu_x_preferred":[
-        "Wan\u2019an"
+    "name:deu_x_preferred": [
+      "Wan’an"
     ],
-    "name:swe_x_preferred":[
-        "Wan\u2019an"
+    "name:swe_x_preferred": [
+      "Wan’an"
     ],
-    "name:zho_x_preferred":[
-        "Wan\u2019an"
+    "name:zho_x_preferred": [
+      "Wan’an"
     ],
-    "name:zho_x_variant":[
-        "\u4e07\u5b89"
+    "name:zho_x_variant": [
+      "万安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732539
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515213,
+      1108732539
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7635121
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7635121
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c9cafdd656cd0f65cedc2384504d5abf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732539,
-            "locality_id":1226479611,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c9cafdd656cd0f65cedc2384504d5abf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732539,
+        "locality_id": 1226479611,
+        "region_id": 85669759,
+        "localadmin_id": 890515213
+      }
     ],
-    "wof:id":1226479611,
-    "wof:lastmodified":1566704192,
-    "wof:name":"Wan'an",
-    "wof:parent_id":1108732539,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226479611,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Wan'an",
+    "wof:parent_id": 890515213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.86442,
     18.44603,
     109.86442,
     18.44603
-],
-  "geometry": {"coordinates":[109.86442,18.44603],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.86442,
+      18.44603
+    ],
+    "type": "Point"
+  }
 }

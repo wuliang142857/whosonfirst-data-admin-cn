@@ -2,81 +2,89 @@
   "id": 1276501119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.63333,36.95,108.63333,36.95",
-    "geom:latitude":36.95,
-    "geom:longitude":108.63333,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Shunning",
-    "gn:country_code":"CN",
-    "gn:dem":1412,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1794341,
-    "gn:latitude":36.95,
-    "gn:longitude":108.63333,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Shunning",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.61333,36.93,108.65333,36.97",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:heb_x_preferred":[
-        "\u05d7\u05e8\u05dd \u05d7\u05d1\u05e8\u05ea\u05d9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.63333,36.95,108.63333,36.95",
+    "geom:latitude": 36.95,
+    "geom:longitude": 108.63333,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Shunning",
+    "gn:country_code": "CN",
+    "gn:dem": 1412,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1794341,
+    "gn:latitude": 36.95,
+    "gn:longitude": 108.63333,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Shunning",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.61333,36.93,108.65333,36.97",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:heb_x_preferred": [
+      "חרם חברתי"
     ],
-    "name:jpn_x_preferred":[
-        "\u5171\u540c\u7d76\u4ea4"
+    "name:jpn_x_preferred": [
+      "共同絶交"
     ],
-    "name:swe_x_preferred":[
-        "Utfrysning"
+    "name:swe_x_preferred": [
+      "Utfrysning"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516587
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516587,
+      1127610625
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1794341
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1794341
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a4af75bc3d1f0f496b45af2950c615aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516587,
-            "empire_id":136253041,
-            "locality_id":1276501119,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a4af75bc3d1f0f496b45af2950c615aa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516587,
+        "empire_id": 136253041,
+        "locality_id": 1276501119,
+        "region_id": 85669769,
+        "localadmin_id": 1127610625
+      }
     ],
-    "wof:id":1276501119,
-    "wof:lastmodified":1566675136,
-    "wof:name":"Shunning",
-    "wof:parent_id":890516587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276501119,
+    "wof:lastmodified": 1768667665,
+    "wof:name": "Shunning",
+    "wof:parent_id": 1127610625,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.63333,
     36.95,
     108.63333,
     36.95
-],
-  "geometry": {"coordinates":[108.63333,36.95],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.63333,
+      36.95
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1326922733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.44638,33.9973,99.44638,33.9973",
-    "geom:latitude":33.9973,
-    "geom:longitude":99.44638,
-    "gn:admin1_code":"6.0",
-    "gn:asciiname":"Tanglag",
-    "gn:country_code":"CN",
-    "gn:dem":4201,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1279921,
-    "gn:latitude":33.9973,
-    "gn:longitude":99.44638,
-    "gn:modification_date":"2013-02-08",
-    "gn:name":"Tanglag",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"99.42638,33.9773,99.46638,34.0173",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tang-lo",
-        "Tanglag",
-        "Dangluo",
-        "Dangluo Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.44638,33.9973,99.44638,33.9973",
+    "geom:latitude": 33.9973,
+    "geom:longitude": 99.44638,
+    "gn:admin1_code": "6.0",
+    "gn:asciiname": "Tanglag",
+    "gn:country_code": "CN",
+    "gn:dem": 4201,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1279921,
+    "gn:latitude": 33.9973,
+    "gn:longitude": 99.44638,
+    "gn:modification_date": "2013-02-08",
+    "gn:name": "Tanglag",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "99.42638,33.9773,99.46638,34.0173",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tang-lo",
+      "Tanglag",
+      "Dangluo",
+      "Dangluo Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u5f53\u6d1b"
+    "name:zho_x_preferred": [
+      "当洛"
     ],
-    "name:zho_x_variant":[
-        "\u5f53\u6d1b\u4e61"
+    "name:zho_x_variant": [
+      "当洛乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669715,
-        102191569,
-        85632695,
-        136253041,
-        1108732441
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669715,
+      102191569,
+      136253041,
+      890515649,
+      1108732441
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1279921
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1279921
     },
-    "wof:country":"CN",
-    "wof:geomhash":"23254d3e0c40a24629340357cec42f66",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732441,
-            "empire_id":136253041,
-            "locality_id":1326922733,
-            "region_id":85669715
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "23254d3e0c40a24629340357cec42f66",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732441,
+        "empire_id": 136253041,
+        "locality_id": 1326922733,
+        "region_id": 85669715,
+        "localadmin_id": 890515649
+      }
     ],
-    "wof:id":1326922733,
-    "wof:lastmodified":1566649366,
-    "wof:name":"Tanglag",
-    "wof:parent_id":1108732441,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326922733,
+    "wof:lastmodified": 1768669333,
+    "wof:name": "Tanglag",
+    "wof:parent_id": 890515649,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.44638,
     33.9973,
     99.44638,
     33.9973
-],
-  "geometry": {"coordinates":[99.44638,33.9973],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.44638,
+      33.9973
+    ],
+    "type": "Point"
+  }
 }

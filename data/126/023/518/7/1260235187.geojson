@@ -2,75 +2,83 @@
   "id": 1260235187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.23839,29.68281,107.23839,29.68281",
-    "geom:latitude":29.68281,
-    "geom:longitude":107.23839,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Huangni",
-    "gn:country_code":"CN",
-    "gn:dem":276,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416547,
-    "gn:latitude":29.68281,
-    "gn:longitude":107.23839,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Huangni",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.21839,29.66281,107.25839,29.70281",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ec4\u6ce5"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.23839,29.68281,107.23839,29.68281",
+    "geom:latitude": 29.68281,
+    "geom:longitude": 107.23839,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Huangni",
+    "gn:country_code": "CN",
+    "gn:dem": 276,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416547,
+    "gn:latitude": 29.68281,
+    "gn:longitude": 107.23839,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Huangni",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.21839,29.66281,107.25839,29.70281",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黄泥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416547
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416547
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cb40be58617de1de867997f2f8aff698",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1260235187,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cb40be58617de1de867997f2f8aff698",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1260235187,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1260235187,
-    "wof:lastmodified":1566686210,
-    "wof:name":"Huangni",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260235187,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Huangni",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.23839,
     29.68281,
     107.23839,
     29.68281
-],
-  "geometry": {"coordinates":[107.23839,29.68281],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.23839,
+      29.68281
+    ],
+    "type": "Point"
+  }
 }

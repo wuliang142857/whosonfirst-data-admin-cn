@@ -2,75 +2,83 @@
   "id": 1344060769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.90734,29.81677,116.90734,29.81677",
-    "geom:latitude":29.81677,
-    "geom:longitude":116.90734,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Siguli",
-    "gn:country_code":"CN",
-    "gn:dem":103,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7640735,
-    "gn:latitude":29.81677,
-    "gn:longitude":116.90734,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Siguli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.88734,29.79677,116.92734,29.83677",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u56db\u80a1\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.90734,29.81677,116.90734,29.81677",
+    "geom:latitude": 29.81677,
+    "geom:longitude": 116.90734,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Siguli",
+    "gn:country_code": "CN",
+    "gn:dem": 103,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7640735,
+    "gn:latitude": 29.81677,
+    "gn:longitude": 116.90734,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Siguli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.88734,29.79677,116.92734,29.83677",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "四股里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513323
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513323,
+      1127341721
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7640735
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7640735
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3747fe5689305d685a2ad161efad8641",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513323,
-            "empire_id":136253041,
-            "locality_id":1344060769,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3747fe5689305d685a2ad161efad8641",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513323,
+        "empire_id": 136253041,
+        "locality_id": 1344060769,
+        "region_id": 85669739,
+        "localadmin_id": 1127341721
+      }
     ],
-    "wof:id":1344060769,
-    "wof:lastmodified":1566658730,
-    "wof:name":"Siguli",
-    "wof:parent_id":890513323,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344060769,
+    "wof:lastmodified": 1768669912,
+    "wof:name": "Siguli",
+    "wof:parent_id": 1127341721,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.90734,
     29.81677,
     116.90734,
     29.81677
-],
-  "geometry": {"coordinates":[116.90734,29.81677],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.90734,
+      29.81677
+    ],
+    "type": "Point"
+  }
 }

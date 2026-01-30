@@ -2,82 +2,90 @@
   "id": 1310657483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.04039,34.55353,109.04039,34.55353",
-    "geom:latitude":34.55353,
-    "geom:longitude":109.04039,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Tongyuan",
-    "gn:country_code":"CN",
-    "gn:dem":394,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1792528,
-    "gn:latitude":34.55353,
-    "gn:longitude":109.04039,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Tongyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.02039,34.53353,109.06039,34.57353",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tungyunfang",
-        "Tongyuanfang",
-        "T\u2019ung-y\u00fcan-fang",
-        "Tongyuan Zhen",
-        "Tongyuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.04039,34.55353,109.04039,34.55353",
+    "geom:latitude": 34.55353,
+    "geom:longitude": 109.04039,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Tongyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 394,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1792528,
+    "gn:latitude": 34.55353,
+    "gn:longitude": 109.04039,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Tongyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.02039,34.53353,109.06039,34.57353",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tungyunfang",
+      "Tongyuanfang",
+      "T’ung-yüan-fang",
+      "Tongyuan Zhen",
+      "Tongyuan"
     ],
-    "name:zho_x_preferred":[
-        "\u901a\u8fdc"
+    "name:zho_x_preferred": [
+      "通远"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513221,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1792528
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1792528
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d08d78f5e9bcf31a5c3ab9fc0df3df95",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1310657483,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d08d78f5e9bcf31a5c3ab9fc0df3df95",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1310657483,
+        "region_id": 85669769,
+        "localadmin_id": 890513221
+      }
     ],
-    "wof:id":1310657483,
-    "wof:lastmodified":1566688687,
-    "wof:name":"Tongyuan",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310657483,
+    "wof:lastmodified": 1768668691,
+    "wof:name": "Tongyuan",
+    "wof:parent_id": 890513221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.04039,
     34.55353,
     109.04039,
     34.55353
-],
-  "geometry": {"coordinates":[109.04039,34.55353],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.04039,
+      34.55353
+    ],
+    "type": "Point"
+  }
 }

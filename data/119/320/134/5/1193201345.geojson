@@ -2,81 +2,89 @@
   "id": 1193201345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.121,32.0644,105.121,32.0644",
-    "geom:latitude":32.0644,
-    "geom:longitude":105.121,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Weihe",
-    "gn:country_code":"CN",
-    "gn:dem":624,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10148949,
-    "gn:latitude":32.0644,
-    "gn:longitude":105.121,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Weihe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.101,32.0444,105.141,32.0844",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Weihe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.121,32.0644,105.121,32.0644",
+    "geom:latitude": 32.0644,
+    "geom:longitude": 105.121,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Weihe",
+    "gn:country_code": "CN",
+    "gn:dem": 624,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10148949,
+    "gn:latitude": 32.0644,
+    "gn:longitude": 105.121,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Weihe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.101,32.0444,105.141,32.0844",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Weihe"
     ],
-    "name:nds_x_preferred":[
-        "Weihe"
+    "name:nds_x_preferred": [
+      "Weihe"
     ],
-    "name:zho_x_preferred":[
-        "\u6e2d\u6cb3"
+    "name:zho_x_preferred": [
+      "渭河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      890514341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10148949
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10148949
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9f14286203d7c33c3e50aa914fd9e726",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1193201345,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9f14286203d7c33c3e50aa914fd9e726",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1193201345,
+        "region_id": 85669787,
+        "localadmin_id": 890514341
+      }
     ],
-    "wof:id":1193201345,
-    "wof:lastmodified":1566685785,
-    "wof:name":"Weihe",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193201345,
+    "wof:lastmodified": 1768668243,
+    "wof:name": "Weihe",
+    "wof:parent_id": 890514341,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.121,
     32.0644,
     105.121,
     32.0644
-],
-  "geometry": {"coordinates":[105.121,32.0644],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.121,
+      32.0644
+    ],
+    "type": "Point"
+  }
 }

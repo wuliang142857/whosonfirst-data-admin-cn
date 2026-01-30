@@ -2,75 +2,83 @@
   "id": 1276613131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.47,30.9837,105.47,30.9837",
-    "geom:latitude":30.9837,
-    "geom:longitude":105.47,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Qinglongshan",
-    "gn:country_code":"CN",
-    "gn:dem":432,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10162440,
-    "gn:latitude":30.9837,
-    "gn:longitude":105.47,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Qinglongshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.45,30.9637,105.49,31.0037",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9752\u9f99\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.47,30.9837,105.47,30.9837",
+    "geom:latitude": 30.9837,
+    "geom:longitude": 105.47,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Qinglongshan",
+    "gn:country_code": "CN",
+    "gn:dem": 432,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10162440,
+    "gn:latitude": 30.9837,
+    "gn:longitude": 105.47,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Qinglongshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.45,30.9637,105.49,31.0037",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "青龙山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514641
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514641,
+      1127510981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10162440
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10162440
     },
-    "wof:country":"CN",
-    "wof:geomhash":"143115416f417f78580d108ecc7e0faa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514641,
-            "empire_id":136253041,
-            "locality_id":1276613131,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "143115416f417f78580d108ecc7e0faa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514641,
+        "empire_id": 136253041,
+        "locality_id": 1276613131,
+        "region_id": 85669787,
+        "localadmin_id": 1127510981
+      }
     ],
-    "wof:id":1276613131,
-    "wof:lastmodified":1566674916,
-    "wof:name":"Qinglongshan",
-    "wof:parent_id":890514641,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276613131,
+    "wof:lastmodified": 1768668066,
+    "wof:name": "Qinglongshan",
+    "wof:parent_id": 1127510981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.47,
     30.9837,
     105.47,
     30.9837
-],
-  "geometry": {"coordinates":[105.47,30.9837],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.47,
+      30.9837
+    ],
+    "type": "Point"
+  }
 }

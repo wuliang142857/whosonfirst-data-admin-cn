@@ -2,84 +2,92 @@
   "id": 1193118685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.225,23.5839,110.225,23.5839",
-    "geom:latitude":23.5839,
-    "geom:longitude":110.225,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Hejiang",
-    "gn:country_code":"CN",
-    "gn:dem":38,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9935067,
-    "gn:latitude":23.5839,
-    "gn:longitude":110.225,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Hejiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.205,23.5639,110.245,23.6039",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nor_x_preferred":[
-        "Hejiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.225,23.5839,110.225,23.5839",
+    "geom:latitude": 23.5839,
+    "geom:longitude": 110.225,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Hejiang",
+    "gn:country_code": "CN",
+    "gn:dem": 38,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9935067,
+    "gn:latitude": 23.5839,
+    "gn:longitude": 110.225,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Hejiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.205,23.5639,110.245,23.6039",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nor_x_preferred": [
+      "Hejiang"
     ],
-    "name:pol_x_preferred":[
-        "Hejiang"
+    "name:pol_x_preferred": [
+      "Hejiang"
     ],
-    "name:swe_x_preferred":[
-        "Hejiang"
+    "name:swe_x_preferred": [
+      "Hejiang"
     ],
-    "name:zho_x_preferred":[
-        "\u5408\u6c5f"
+    "name:zho_x_preferred": [
+      "合江"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732501
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732501,
+      1127450881
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9935067
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9935067
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7010fb959d65720919414b4b5daf5ea1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732501,
-            "empire_id":136253041,
-            "locality_id":1193118685,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7010fb959d65720919414b4b5daf5ea1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732501,
+        "empire_id": 136253041,
+        "locality_id": 1193118685,
+        "region_id": 85669717,
+        "localadmin_id": 1127450881
+      }
     ],
-    "wof:id":1193118685,
-    "wof:lastmodified":1566685884,
-    "wof:name":"Hejiang",
-    "wof:parent_id":1108732501,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193118685,
+    "wof:lastmodified": 1768665976,
+    "wof:name": "Hejiang",
+    "wof:parent_id": 1127450881,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.225,
     23.5839,
     110.225,
     23.5839
-],
-  "geometry": {"coordinates":[110.22499999999999,23.5839],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.225,
+      23.5839
+    ],
+    "type": "Point"
+  }
 }

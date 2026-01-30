@@ -2,78 +2,86 @@
   "id": 1226509235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.57725,34.04423,109.57725,34.04423",
-    "geom:latitude":34.04423,
-    "geom:longitude":109.57725,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Muhuguan",
-    "gn:country_code":"CN",
-    "gn:dem":1208,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1800306,
-    "gn:latitude":34.04423,
-    "gn:longitude":109.57725,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Muhuguan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.55725,34.02423,109.59725,34.06423",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Mu-hu-kuan",
-        "\u7267\u62a4\u5173",
-        "Muhuguan",
-        "Muhuguan Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.57725,34.04423,109.57725,34.04423",
+    "geom:latitude": 34.04423,
+    "geom:longitude": 109.57725,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Muhuguan",
+    "gn:country_code": "CN",
+    "gn:dem": 1208,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1800306,
+    "gn:latitude": 34.04423,
+    "gn:longitude": 109.57725,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Muhuguan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.55725,34.02423,109.59725,34.06423",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Mu-hu-kuan",
+      "牧护关",
+      "Muhuguan",
+      "Muhuguan Zhen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611002
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800306
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800306
     },
-    "wof:country":"CN",
-    "wof:geomhash":"80ac120532087794637ab0abe6ffa15a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1226509235,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "80ac120532087794637ab0abe6ffa15a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1226509235,
+        "region_id": 85669769,
+        "localadmin_id": 1127611002
+      }
     ],
-    "wof:id":1226509235,
-    "wof:lastmodified":1566702624,
-    "wof:name":"Muhuguan",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226509235,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Muhuguan",
+    "wof:parent_id": 1127611002,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.57725,
     34.04423,
     109.57725,
     34.04423
-],
-  "geometry": {"coordinates":[109.57725000000001,34.04423],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.57725,
+      34.04423
+    ],
+    "type": "Point"
+  }
 }

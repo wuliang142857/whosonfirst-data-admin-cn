@@ -2,81 +2,89 @@
   "id": 1344162143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.76032,34.01532,119.76032,34.01532",
-    "geom:latitude":34.01532,
-    "geom:longitude":119.76032,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Xinjian",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11535901,
-    "gn:latitude":34.01532,
-    "gn:longitude":119.76032,
-    "gn:modification_date":"2017-05-09",
-    "gn:name":"Xinjian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.74032,33.99532,119.78032,34.03532",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Xinjian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.76032,34.01532,119.76032,34.01532",
+    "geom:latitude": 34.01532,
+    "geom:longitude": 119.76032,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Xinjian",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11535901,
+    "gn:latitude": 34.01532,
+    "gn:longitude": 119.76032,
+    "gn:modification_date": "2017-05-09",
+    "gn:name": "Xinjian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.74032,33.99532,119.78032,34.03532",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Xinjian"
     ],
-    "name:deu_x_preferred":[
-        "Xinjian"
+    "name:deu_x_preferred": [
+      "Xinjian"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u5efa"
+    "name:zho_x_preferred": [
+      "新建"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11535901
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11535901
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0bb6d72dacd9b9c59272d50192aa77c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1344162143,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0bb6d72dacd9b9c59272d50192aa77c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1344162143,
+        "region_id": 85669827,
+        "localadmin_id": 1127320922
+      }
     ],
-    "wof:id":1344162143,
-    "wof:lastmodified":1566662878,
-    "wof:name":"Xinjian",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344162143,
+    "wof:lastmodified": 1768670804,
+    "wof:name": "Xinjian",
+    "wof:parent_id": 1127320922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.76032,
     34.01532,
     119.76032,
     34.01532
-],
-  "geometry": {"coordinates":[119.76031999999999,34.01532],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.76032,
+      34.01532
+    ],
+    "type": "Point"
+  }
 }

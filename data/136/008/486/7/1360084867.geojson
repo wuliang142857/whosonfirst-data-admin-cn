@@ -2,75 +2,83 @@
   "id": 1360084867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.556,34.4752,118.556,34.4752",
-    "geom:latitude":34.4752,
-    "geom:longitude":118.556,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Mataqiao",
-    "gn:country_code":"CN",
-    "gn:dem":37,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11112943,
-    "gn:latitude":34.4752,
-    "gn:longitude":118.556,
-    "gn:modification_date":"2016-04-12",
-    "gn:name":"Mataqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.536,34.4552,118.576,34.4952",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u5854\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.556,34.4752,118.556,34.4752",
+    "geom:latitude": 34.4752,
+    "geom:longitude": 118.556,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Mataqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 37,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11112943,
+    "gn:latitude": 34.4752,
+    "gn:longitude": 118.556,
+    "gn:modification_date": "2016-04-12",
+    "gn:name": "Mataqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.536,34.4552,118.576,34.4952",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马塔桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514777,
+      1127320722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11112943
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11112943
     },
-    "wof:country":"CN",
-    "wof:geomhash":"61cd693a54bd4a95cdb39ff05b924f2d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514777,
-            "empire_id":136253041,
-            "locality_id":1360084867,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "61cd693a54bd4a95cdb39ff05b924f2d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514777,
+        "empire_id": 136253041,
+        "locality_id": 1360084867,
+        "region_id": 85669827,
+        "localadmin_id": 1127320722
+      }
     ],
-    "wof:id":1360084867,
-    "wof:lastmodified":1566691581,
-    "wof:name":"Mataqiao",
-    "wof:parent_id":890514777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360084867,
+    "wof:lastmodified": 1768670858,
+    "wof:name": "Mataqiao",
+    "wof:parent_id": 1127320722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.556,
     34.4752,
     118.556,
     34.4752
-],
-  "geometry": {"coordinates":[118.556,34.4752],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.556,
+      34.4752
+    ],
+    "type": "Point"
+  }
 }

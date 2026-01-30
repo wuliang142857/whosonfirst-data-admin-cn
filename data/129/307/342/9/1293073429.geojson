@@ -2,75 +2,83 @@
   "id": 1293073429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.879,21.6404,107.879,21.6404",
-    "geom:latitude":21.6404,
-    "geom:longitude":107.879,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Dunjiao",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9902815,
-    "gn:latitude":21.6404,
-    "gn:longitude":107.879,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Dunjiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Ho_Chi_Minh",
-    "iso:country":"CN",
-    "lbl:bbox":"107.859,21.6204,107.899,21.6604",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u58a9\u89d2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.879,21.6404,107.879,21.6404",
+    "geom:latitude": 21.6404,
+    "geom:longitude": 107.879,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Dunjiao",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9902815,
+    "gn:latitude": 21.6404,
+    "gn:longitude": 107.879,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Dunjiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Ho_Chi_Minh",
+    "iso:country": "CN",
+    "lbl:bbox": "107.859,21.6204,107.899,21.6604",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "墩角"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512639
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512639,
+      1127450603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9902815
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9902815
     },
-    "wof:country":"CN",
-    "wof:geomhash":"472a71576471c76399f2bd1d628510bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512639,
-            "empire_id":136253041,
-            "locality_id":1293073429,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "472a71576471c76399f2bd1d628510bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512639,
+        "empire_id": 136253041,
+        "locality_id": 1293073429,
+        "region_id": 85669717,
+        "localadmin_id": 1127450603
+      }
     ],
-    "wof:id":1293073429,
-    "wof:lastmodified":1566665225,
-    "wof:name":"Dunjiao",
-    "wof:parent_id":890512639,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293073429,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Dunjiao",
+    "wof:parent_id": 1127450603,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.879,
     21.6404,
     107.879,
     21.6404
-],
-  "geometry": {"coordinates":[107.879,21.6404],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.879,
+      21.6404
+    ],
+    "type": "Point"
+  }
 }

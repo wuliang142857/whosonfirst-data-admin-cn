@@ -2,78 +2,86 @@
   "id": 1243122781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.872,22.987,103.872,22.987",
-    "geom:latitude":22.987,
-    "geom:longitude":103.872,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Tangdong",
-    "gn:country_code":"CN",
-    "gn:dem":879,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10036709,
-    "gn:latitude":22.987,
-    "gn:longitude":103.872,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Tangdong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.852,22.967,103.892,23.007",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c64\u4e1c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.872,22.987,103.872,22.987",
+    "geom:latitude": 22.987,
+    "geom:longitude": 103.872,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Tangdong",
+    "gn:country_code": "CN",
+    "gn:dem": 879,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10036709,
+    "gn:latitude": 22.987,
+    "gn:longitude": 103.872,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Tangdong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.852,22.967,103.892,23.007",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "汤东"
     ],
-    "name:zho_x_variant":[
-        "\u5510\u6d1e\u8857\u9053"
+    "name:zho_x_variant": [
+      "唐洞街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      1108794063,
+      1127532523
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10036709
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10036709
     },
-    "wof:country":"CN",
-    "wof:geomhash":"835fd5846ab04b8e9a81de6e1e23d495",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1243122781,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "835fd5846ab04b8e9a81de6e1e23d495",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1243122781,
+        "region_id": 85669791,
+        "localadmin_id": 1127532523
+      }
     ],
-    "wof:id":1243122781,
-    "wof:lastmodified":1566695533,
-    "wof:name":"Tangdong",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243122781,
+    "wof:lastmodified": 1768668218,
+    "wof:name": "Tangdong",
+    "wof:parent_id": 1127532523,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.872,
     22.987,
     103.872,
     22.987
-],
-  "geometry": {"coordinates":[103.872,22.987],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.872,
+      22.987
+    ],
+    "type": "Point"
+  }
 }

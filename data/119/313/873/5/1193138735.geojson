@@ -2,87 +2,95 @@
   "id": 1193138735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.96959,29.38059,116.96959,29.38059",
-    "geom:latitude":29.38059,
-    "geom:longitude":116.96959,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Meiling",
-    "gn:country_code":"CN",
-    "gn:dem":35,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7636250,
-    "gn:latitude":29.38059,
-    "gn:longitude":116.96959,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Meiling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.94959,29.36059,116.98959,29.40059",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Meiling"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.96959,29.38059,116.96959,29.38059",
+    "geom:latitude": 29.38059,
+    "geom:longitude": 116.96959,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Meiling",
+    "gn:country_code": "CN",
+    "gn:dem": 35,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7636250,
+    "gn:latitude": 29.38059,
+    "gn:longitude": 116.96959,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Meiling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.94959,29.36059,116.98959,29.40059",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Meiling"
     ],
-    "name:deu_x_preferred":[
-        "Meiling"
+    "name:deu_x_preferred": [
+      "Meiling"
     ],
-    "name:jpn_x_preferred":[
-        "\u30e1\u30a4\u30ea\u30f3"
+    "name:jpn_x_preferred": [
+      "メイリン"
     ],
-    "name:swe_x_preferred":[
-        "Meiling"
+    "name:swe_x_preferred": [
+      "Meiling"
     ],
-    "name:und_x_variant":[
-        "\u6885\u5cad"
+    "name:und_x_variant": [
+      "梅岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890515869
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890515869,
+      1127361128
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7636250
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7636250
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2e8100127f7759f6aebb2aa1f74d4c72",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515869,
-            "empire_id":136253041,
-            "locality_id":1193138735,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2e8100127f7759f6aebb2aa1f74d4c72",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515869,
+        "empire_id": 136253041,
+        "locality_id": 1193138735,
+        "region_id": 85669823,
+        "localadmin_id": 1127361128
+      }
     ],
-    "wof:id":1193138735,
-    "wof:lastmodified":1566685165,
-    "wof:name":"Meiling",
-    "wof:parent_id":890515869,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193138735,
+    "wof:lastmodified": 1768670033,
+    "wof:name": "Meiling",
+    "wof:parent_id": 1127361128,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.96959,
     29.38059,
     116.96959,
     29.38059
-],
-  "geometry": {"coordinates":[116.96959,29.38059],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.96959,
+      29.38059
+    ],
+    "type": "Point"
+  }
 }

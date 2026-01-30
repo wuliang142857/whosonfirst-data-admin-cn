@@ -2,75 +2,83 @@
   "id": 1310129581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.65099,32.77878,119.65099,32.77878",
-    "geom:latitude":32.77878,
-    "geom:longitude":119.65099,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Jijiaxia",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8227715,
-    "gn:latitude":32.77878,
-    "gn:longitude":119.65099,
-    "gn:modification_date":"2012-04-06",
-    "gn:name":"Jijiaxia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.63099,32.75878,119.67099,32.79878",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5409\u5bb6\u53a6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.65099,32.77878,119.65099,32.77878",
+    "geom:latitude": 32.77878,
+    "geom:longitude": 119.65099,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Jijiaxia",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8227715,
+    "gn:latitude": 32.77878,
+    "gn:longitude": 119.65099,
+    "gn:modification_date": "2012-04-06",
+    "gn:name": "Jijiaxia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.63099,32.75878,119.67099,32.79878",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "吉家厦"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516397
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516397,
+      1125377915
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8227715
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8227715
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a55e3f9351b8fd50899fb728cafdc79b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516397,
-            "empire_id":136253041,
-            "locality_id":1310129581,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a55e3f9351b8fd50899fb728cafdc79b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516397,
+        "empire_id": 136253041,
+        "locality_id": 1310129581,
+        "region_id": 85669827,
+        "localadmin_id": 1125377915
+      }
     ],
-    "wof:id":1310129581,
-    "wof:lastmodified":1566688102,
-    "wof:name":"Jijiaxia",
-    "wof:parent_id":890516397,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310129581,
+    "wof:lastmodified": 1768670913,
+    "wof:name": "Jijiaxia",
+    "wof:parent_id": 1125377915,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.65099,
     32.77878,
     119.65099,
     32.77878
-],
-  "geometry": {"coordinates":[119.65098999999999,32.77878],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.65099,
+      32.77878
+    ],
+    "type": "Point"
+  }
 }

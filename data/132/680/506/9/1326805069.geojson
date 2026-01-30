@@ -2,75 +2,83 @@
   "id": 1326805069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.832,41.3843,123.832,41.3843",
-    "geom:latitude":41.3843,
-    "geom:longitude":123.832,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Qianchangzicun",
-    "gn:country_code":"CN",
-    "gn:dem":174,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11514127,
-    "gn:latitude":41.3843,
-    "gn:longitude":123.832,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Qianchangzicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.812,41.3643,123.852,41.4043",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u524d\u5382\u5b50\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.832,41.3843,123.832,41.3843",
+    "geom:latitude": 41.3843,
+    "geom:longitude": 123.832,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Qianchangzicun",
+    "gn:country_code": "CN",
+    "gn:dem": 174,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11514127,
+    "gn:latitude": 41.3843,
+    "gn:longitude": 123.832,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Qianchangzicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.812,41.3643,123.852,41.4043",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "前厂子村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513783
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513783,
+      1127210504
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11514127
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11514127
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b8e738164b5378b8ee28a2119f90032f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513783,
-            "empire_id":136253041,
-            "locality_id":1326805069,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b8e738164b5378b8ee28a2119f90032f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513783,
+        "empire_id": 136253041,
+        "locality_id": 1326805069,
+        "region_id": 85669807,
+        "localadmin_id": 1127210504
+      }
     ],
-    "wof:id":1326805069,
-    "wof:lastmodified":1566648185,
-    "wof:name":"Qianchangzicun",
-    "wof:parent_id":890513783,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326805069,
+    "wof:lastmodified": 1768666805,
+    "wof:name": "Qianchangzicun",
+    "wof:parent_id": 1127210504,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.832,
     41.3843,
     123.832,
     41.3843
-],
-  "geometry": {"coordinates":[123.83199999999999,41.3843],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.832,
+      41.3843
+    ],
+    "type": "Point"
+  }
 }

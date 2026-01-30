@@ -2,75 +2,83 @@
   "id": 1327011269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.313,24.7801,105.313,24.7801",
-    "geom:latitude":24.7801,
-    "geom:longitude":105.313,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Minqiang",
-    "gn:country_code":"CN",
-    "gn:dem":636,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9911082,
-    "gn:latitude":24.7801,
-    "gn:longitude":105.313,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Minqiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.293,24.7601,105.333,24.8001",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c11\u5f3a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.313,24.7801,105.313,24.7801",
+    "geom:latitude": 24.7801,
+    "geom:longitude": 105.313,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Minqiang",
+    "gn:country_code": "CN",
+    "gn:dem": 636,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9911082,
+    "gn:latitude": 24.7801,
+    "gn:longitude": 105.313,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Minqiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.293,24.7601,105.333,24.8001",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "民强"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9911082
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9911082
     },
-    "wof:country":"CN",
-    "wof:geomhash":"21499865b3f5ead4f9ad58ab29590203",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1327011269,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "21499865b3f5ead4f9ad58ab29590203",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1327011269,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1327011269,
-    "wof:lastmodified":1566646569,
-    "wof:name":"Minqiang",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327011269,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Minqiang",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.313,
     24.7801,
     105.313,
     24.7801
-],
-  "geometry": {"coordinates":[105.313,24.7801],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.313,
+      24.7801
+    ],
+    "type": "Point"
+  }
 }

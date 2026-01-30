@@ -2,75 +2,83 @@
   "id": 1259889331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.26068,32.90066,116.26068,32.90066",
-    "geom:latitude":32.90066,
-    "geom:longitude":116.26068,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Liugouzuicun",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10414836,
-    "gn:latitude":32.90066,
-    "gn:longitude":116.26068,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Liugouzuicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.24068,32.88066,116.28068,32.92066",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5218\u6c9f\u5634\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.26068,32.90066,116.26068,32.90066",
+    "geom:latitude": 32.90066,
+    "geom:longitude": 116.26068,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Liugouzuicun",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10414836,
+    "gn:latitude": 32.90066,
+    "gn:longitude": 116.26068,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Liugouzuicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.24068,32.88066,116.28068,32.92066",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "刘沟嘴村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10414836
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10414836
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8c5dc0530e1d24f4b6797630b4b1ecc9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1259889331,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8c5dc0530e1d24f4b6797630b4b1ecc9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1259889331,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1259889331,
-    "wof:lastmodified":1566700484,
-    "wof:name":"Liugouzuicun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259889331,
+    "wof:lastmodified": 1768669756,
+    "wof:name": "Liugouzuicun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.26068,
     32.90065999999999,
     116.26068,
     32.90065999999999
-],
-  "geometry": {"coordinates":[116.26067999999999,32.90065999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.26068,
+      32.90065999999999
+    ],
+    "type": "Point"
+  }
 }

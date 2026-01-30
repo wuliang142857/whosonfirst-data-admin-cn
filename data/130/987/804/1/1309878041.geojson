@@ -2,75 +2,83 @@
   "id": 1309878041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.276,23.3943,110.276,23.3943",
-    "geom:latitude":23.3943,
-    "geom:longitude":110.276,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Liuwu",
-    "gn:country_code":"CN",
-    "gn:dem":135,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9893857,
-    "gn:latitude":23.3943,
-    "gn:longitude":110.276,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Liuwu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.256,23.3743,110.296,23.4143",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5218\u5c4b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.276,23.3943,110.276,23.3943",
+    "geom:latitude": 23.3943,
+    "geom:longitude": 110.276,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Liuwu",
+    "gn:country_code": "CN",
+    "gn:dem": 135,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9893857,
+    "gn:latitude": 23.3943,
+    "gn:longitude": 110.276,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Liuwu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.256,23.3743,110.296,23.4143",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "刘屋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732501
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732501,
+      1127450881
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9893857
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9893857
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fe92f761bf29cb5db63acf80fbf4eee2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732501,
-            "empire_id":136253041,
-            "locality_id":1309878041,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fe92f761bf29cb5db63acf80fbf4eee2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732501,
+        "empire_id": 136253041,
+        "locality_id": 1309878041,
+        "region_id": 85669717,
+        "localadmin_id": 1127450881
+      }
     ],
-    "wof:id":1309878041,
-    "wof:lastmodified":1566693220,
-    "wof:name":"Liuwu",
-    "wof:parent_id":1108732501,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309878041,
+    "wof:lastmodified": 1768665975,
+    "wof:name": "Liuwu",
+    "wof:parent_id": 1127450881,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.276,
     23.3943,
     110.276,
     23.3943
-],
-  "geometry": {"coordinates":[110.276,23.3943],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.276,
+      23.3943
+    ],
+    "type": "Point"
+  }
 }

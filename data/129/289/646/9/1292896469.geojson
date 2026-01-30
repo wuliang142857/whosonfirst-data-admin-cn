@@ -2,75 +2,83 @@
   "id": 1292896469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.53429,49.10687,127.53429,49.10687",
-    "geom:latitude":49.10687,
-    "geom:longitude":127.53429,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Hexicun",
-    "gn:country_code":"CN",
-    "gn:dem":281,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11590874,
-    "gn:latitude":49.10687,
-    "gn:longitude":127.53429,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Hexicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"127.51429,49.08687,127.55429,49.12687",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6cb3\u897f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "127.53429,49.10687,127.53429,49.10687",
+    "geom:latitude": 49.10687,
+    "geom:longitude": 127.53429,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Hexicun",
+    "gn:country_code": "CN",
+    "gn:dem": 281,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11590874,
+    "gn:latitude": 49.10687,
+    "gn:longitude": 127.53429,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Hexicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "127.51429,49.08687,127.55429,49.12687",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "河西村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        1108732555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514215,
+      1108732555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11590874
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11590874
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0d9dda915cf473b0da19be0ad8a13a02",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732555,
-            "empire_id":136253041,
-            "locality_id":1292896469,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0d9dda915cf473b0da19be0ad8a13a02",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732555,
+        "empire_id": 136253041,
+        "locality_id": 1292896469,
+        "region_id": 85669849,
+        "localadmin_id": 890514215
+      }
     ],
-    "wof:id":1292896469,
-    "wof:lastmodified":1566667026,
-    "wof:name":"Hexicun",
-    "wof:parent_id":1108732555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292896469,
+    "wof:lastmodified": 1768668887,
+    "wof:name": "Hexicun",
+    "wof:parent_id": 890514215,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     127.53428999999998,
     49.10687,
     127.53428999999998,
     49.10687
-],
-  "geometry": {"coordinates":[127.53428999999998,49.10687],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      127.53428999999998,
+      49.10687
+    ],
+    "type": "Point"
+  }
 }

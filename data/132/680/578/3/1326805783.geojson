@@ -2,75 +2,83 @@
   "id": 1326805783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.704,28.5005,107.704,28.5005",
-    "geom:latitude":28.5005,
-    "geom:longitude":107.704,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Masangwo",
-    "gn:country_code":"CN",
-    "gn:dem":706,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10030422,
-    "gn:latitude":28.5005,
-    "gn:longitude":107.704,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Masangwo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.684,28.4805,107.724,28.5205",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u6851\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.704,28.5005,107.704,28.5005",
+    "geom:latitude": 28.5005,
+    "geom:longitude": 107.704,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Masangwo",
+    "gn:country_code": "CN",
+    "gn:dem": 706,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10030422,
+    "gn:latitude": 28.5005,
+    "gn:longitude": 107.704,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Masangwo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.684,28.4805,107.724,28.5205",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马桑窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516473
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890516473,
+      1127520326
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10030422
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10030422
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e0273d3654f8f3bbf4f888c0197fd7e8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516473,
-            "empire_id":136253041,
-            "locality_id":1326805783,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e0273d3654f8f3bbf4f888c0197fd7e8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516473,
+        "empire_id": 136253041,
+        "locality_id": 1326805783,
+        "region_id": 85669721,
+        "localadmin_id": 1127520326
+      }
     ],
-    "wof:id":1326805783,
-    "wof:lastmodified":1566648224,
-    "wof:name":"Masangwo",
-    "wof:parent_id":890516473,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326805783,
+    "wof:lastmodified": 1768664928,
+    "wof:name": "Masangwo",
+    "wof:parent_id": 1127520326,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.704,
     28.5005,
     107.704,
     28.5005
-],
-  "geometry": {"coordinates":[107.70399999999999,28.5005],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.704,
+      28.5005
+    ],
+    "type": "Point"
+  }
 }

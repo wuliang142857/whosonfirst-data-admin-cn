@@ -2,75 +2,83 @@
   "id": 1242647365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.378,37.4472,103.378,37.4472",
-    "geom:latitude":37.4472,
-    "geom:longitude":103.378,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhangxinzhai",
-    "gn:country_code":"CN",
-    "gn:dem":2025,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10648011,
-    "gn:latitude":37.4472,
-    "gn:longitude":103.378,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Zhangxinzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.358,37.4272,103.398,37.4672",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u65b0\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.378,37.4472,103.378,37.4472",
+    "geom:latitude": 37.4472,
+    "geom:longitude": 103.378,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhangxinzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 2025,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10648011,
+    "gn:latitude": 37.4472,
+    "gn:longitude": 103.378,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Zhangxinzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.358,37.4272,103.398,37.4672",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张新寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515301,
+      890516467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10648011
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10648011
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4b945ec177627f4d830428c10cdeb639",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1242647365,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4b945ec177627f4d830428c10cdeb639",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1242647365,
+        "region_id": 85669711,
+        "localadmin_id": 890515301
+      }
     ],
-    "wof:id":1242647365,
-    "wof:lastmodified":1566697093,
-    "wof:name":"Zhangxinzhai",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242647365,
+    "wof:lastmodified": 1768665872,
+    "wof:name": "Zhangxinzhai",
+    "wof:parent_id": 890515301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.378,
     37.4472,
     103.378,
     37.4472
-],
-  "geometry": {"coordinates":[103.378,37.4472],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.378,
+      37.4472
+    ],
+    "type": "Point"
+  }
 }

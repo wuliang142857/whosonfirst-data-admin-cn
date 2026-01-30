@@ -2,86 +2,94 @@
   "id": 890517029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.76667,24.51667,103.76667,24.51667",
-    "geom:latitude":24.51667,
-    "geom:longitude":103.76667,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":91750,
-    "iso:country":"CN",
-    "lbl:bbox":"103.74667,24.49667,103.78667,24.53667",
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":8.0,
-    "name:deu_x_preferred":[
-        "Zhongshu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.76667,24.51667,103.76667,24.51667",
+    "geom:latitude": 24.51667,
+    "geom:longitude": 103.76667,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 91750,
+    "iso:country": "CN",
+    "lbl:bbox": "103.74667,24.49667,103.78667,24.53667",
+    "lbl:max_zoom": 14.0,
+    "lbl:min_zoom": 9.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 8.0,
+    "name:deu_x_preferred": [
+      "Zhongshu"
     ],
-    "name:mlg_x_preferred":[
-        "Zhongshu"
+    "name:mlg_x_preferred": [
+      "Zhongshu"
     ],
-    "name:rus_x_preferred":[
-        "\u0427\u0436\u0443\u043d\u0448\u0443"
+    "name:rus_x_preferred": [
+      "Чжуншу"
     ],
-    "name:und_x_variant":[
-        "Lu-hsi"
+    "name:und_x_variant": [
+      "Lu-hsi"
     ],
-    "name:zho_x_preferred":[
-        "\u4e2d\u67a2"
+    "name:zho_x_preferred": [
+      "中枢"
     ],
-    "qs:name":"Zhongshu",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"8",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "qs:name": "Zhongshu",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "8",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890511855,
+      1108794063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784310,
-        "gp:id":2160682,
-        "qs_pg:id":88649
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784310,
+      "gp:id": 2160682,
+      "qs_pg:id": 88649
     },
-    "wof:country":"CN",
-    "wof:created":1469055991,
-    "wof:geomhash":"32f85f652151c109fdff3bd3f46054e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":890517029,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055991,
+    "wof:geomhash": "32f85f652151c109fdff3bd3f46054e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 890517029,
+        "region_id": 85669791,
+        "localadmin_id": 890511855
+      }
     ],
-    "wof:id":890517029,
-    "wof:lastmodified":1566693592,
-    "wof:name":"Zhongshu",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:population":91750,
-    "wof:population_rank":8,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890517029,
+    "wof:lastmodified": 1768668218,
+    "wof:name": "Zhongshu",
+    "wof:parent_id": 890511855,
+    "wof:placetype": "locality",
+    "wof:population": 91750,
+    "wof:population_rank": 8,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.76667,
     24.51667,
     103.76667,
     24.51667
-],
-  "geometry": {"coordinates":[103.76667,24.51667],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.76667,
+      24.51667
+    ],
+    "type": "Point"
+  }
 }

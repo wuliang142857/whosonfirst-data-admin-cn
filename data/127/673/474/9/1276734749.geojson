@@ -2,75 +2,83 @@
   "id": 1276734749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.16,21.9303,108.16,21.9303",
-    "geom:latitude":21.9303,
-    "geom:longitude":108.16,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Baiwang",
-    "gn:country_code":"CN",
-    "gn:dem":154,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9901752,
-    "gn:latitude":21.9303,
-    "gn:longitude":108.16,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Baiwang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.14,21.9103,108.18,21.9503",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u767e\u65fa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.16,21.9303,108.16,21.9303",
+    "geom:latitude": 21.9303,
+    "geom:longitude": 108.16,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Baiwang",
+    "gn:country_code": "CN",
+    "gn:dem": 154,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9901752,
+    "gn:latitude": 21.9303,
+    "gn:longitude": 108.16,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Baiwang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.14,21.9103,108.18,21.9503",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "百旺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512639
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512639,
+      1127450603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9901752
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9901752
     },
-    "wof:country":"CN",
-    "wof:geomhash":"80e6ce9d17f5298099829c64dde31363",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512639,
-            "empire_id":136253041,
-            "locality_id":1276734749,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "80e6ce9d17f5298099829c64dde31363",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512639,
+        "empire_id": 136253041,
+        "locality_id": 1276734749,
+        "region_id": 85669717,
+        "localadmin_id": 1127450603
+      }
     ],
-    "wof:id":1276734749,
-    "wof:lastmodified":1566673554,
-    "wof:name":"Baiwang",
-    "wof:parent_id":890512639,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276734749,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Baiwang",
+    "wof:parent_id": 1127450603,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.16,
     21.9303,
     108.16,
     21.9303
-],
-  "geometry": {"coordinates":[108.16,21.9303],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.16,
+      21.9303
+    ],
+    "type": "Point"
+  }
 }

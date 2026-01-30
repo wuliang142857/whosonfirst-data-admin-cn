@@ -2,75 +2,83 @@
   "id": 1242946007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"98.8094,40.15,98.8094,40.15",
-    "geom:latitude":40.15,
-    "geom:longitude":98.8094,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Yingtiandi",
-    "gn:country_code":"CN",
-    "gn:dem":1240,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8507302,
-    "gn:latitude":40.15,
-    "gn:longitude":98.8094,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Yingtiandi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"98.7894,40.13,98.8294,40.17",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8425\u7530\u5730"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "98.8094,40.15,98.8094,40.15",
+    "geom:latitude": 40.15,
+    "geom:longitude": 98.8094,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Yingtiandi",
+    "gn:country_code": "CN",
+    "gn:dem": 1240,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8507302,
+    "gn:latitude": 40.15,
+    "gn:longitude": 98.8094,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Yingtiandi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "98.7894,40.13,98.8294,40.17",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "营田地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890515159
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512995,
+      890515159
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8507302
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8507302
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e4569831fdcb5c0ac786b645f2a6f851",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515159,
-            "empire_id":136253041,
-            "locality_id":1242946007,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e4569831fdcb5c0ac786b645f2a6f851",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515159,
+        "empire_id": 136253041,
+        "locality_id": 1242946007,
+        "region_id": 85669711,
+        "localadmin_id": 890512995
+      }
     ],
-    "wof:id":1242946007,
-    "wof:lastmodified":1566695006,
-    "wof:name":"Yingtiandi",
-    "wof:parent_id":890515159,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242946007,
+    "wof:lastmodified": 1768666723,
+    "wof:name": "Yingtiandi",
+    "wof:parent_id": 890512995,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     98.8094,
     40.15,
     98.8094,
     40.15
-],
-  "geometry": {"coordinates":[98.8094,40.15],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      98.8094,
+      40.15
+    ],
+    "type": "Point"
+  }
 }

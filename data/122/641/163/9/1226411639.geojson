@@ -2,75 +2,83 @@
   "id": 1226411639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.517,24.6748,105.517,24.6748",
-    "geom:latitude":24.6748,
-    "geom:longitude":105.517,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Yutang",
-    "gn:country_code":"CN",
-    "gn:dem":1254,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9911504,
-    "gn:latitude":24.6748,
-    "gn:longitude":105.517,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Yutang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.497,24.6548,105.537,24.6948",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9c7c\u5858"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.517,24.6748,105.517,24.6748",
+    "geom:latitude": 24.6748,
+    "geom:longitude": 105.517,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Yutang",
+    "gn:country_code": "CN",
+    "gn:dem": 1254,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9911504,
+    "gn:latitude": 24.6748,
+    "gn:longitude": 105.517,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Yutang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.497,24.6548,105.537,24.6948",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "鱼塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9911504
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9911504
     },
-    "wof:country":"CN",
-    "wof:geomhash":"57d858f57628e88c8191d2abc04e3637",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226411639,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "57d858f57628e88c8191d2abc04e3637",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226411639,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1226411639,
-    "wof:lastmodified":1566704524,
-    "wof:name":"Yutang",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226411639,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Yutang",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.517,
     24.6748,
     105.517,
     24.6748
-],
-  "geometry": {"coordinates":[105.517,24.6748],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.517,
+      24.6748
+    ],
+    "type": "Point"
+  }
 }

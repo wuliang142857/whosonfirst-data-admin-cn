@@ -2,81 +2,89 @@
   "id": 1242824701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.1,22.58333,101.1,22.58333",
-    "geom:latitude":22.58333,
-    "geom:longitude":101.1,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Puwen",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1298,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1798432,
-    "gn:latitude":22.58333,
-    "gn:longitude":101.1,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Puwen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.08,22.56333,101.12,22.60333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chiu-p\u2019u-wen",
-        "Pu-wen-hsien",
-        "P\u2019u-t\u2019eng",
-        "P\u2019u-t\u2019eng-pa",
-        "Puting",
-        "Puwen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.1,22.58333,101.1,22.58333",
+    "geom:latitude": 22.58333,
+    "geom:longitude": 101.1,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Puwen",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1298,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1798432,
+    "gn:latitude": 22.58333,
+    "gn:longitude": 101.1,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Puwen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.08,22.56333,101.12,22.60333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chiu-p’u-wen",
+      "Pu-wen-hsien",
+      "P’u-t’eng",
+      "P’u-t’eng-pa",
+      "Puting",
+      "Puwen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514995
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514995,
+      1127530802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1798432
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1798432
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7aff7cb89def61930524419d4b967f2e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514995,
-            "empire_id":136253041,
-            "locality_id":1242824701,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7aff7cb89def61930524419d4b967f2e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514995,
+        "empire_id": 136253041,
+        "locality_id": 1242824701,
+        "region_id": 85669791,
+        "localadmin_id": 1127530802
+      }
     ],
-    "wof:id":1242824701,
-    "wof:lastmodified":1566696812,
-    "wof:name":"Puwen",
-    "wof:parent_id":890514995,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242824701,
+    "wof:lastmodified": 1768668367,
+    "wof:name": "Puwen",
+    "wof:parent_id": 1127530802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.1,
     22.58333,
     101.1,
     22.58333
-],
-  "geometry": {"coordinates":[101.09999999999999,22.58333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.1,
+      22.58333
+    ],
+    "type": "Point"
+  }
 }

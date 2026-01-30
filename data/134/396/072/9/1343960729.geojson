@@ -2,75 +2,83 @@
   "id": 1343960729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.44906,30.01939,121.44906,30.01939",
-    "geom:latitude":30.01939,
-    "geom:longitude":121.44906,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Shuilou",
-    "gn:country_code":"CN",
-    "gn:dem":29,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7530489,
-    "gn:latitude":30.01939,
-    "gn:longitude":121.44906,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Shuilou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.42906,29.99939,121.46906,30.03939",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6c34\u697c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.44906,30.01939,121.44906,30.01939",
+    "geom:latitude": 30.01939,
+    "geom:longitude": 121.44906,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Shuilou",
+    "gn:country_code": "CN",
+    "gn:dem": 29,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7530489,
+    "gn:latitude": 30.01939,
+    "gn:longitude": 121.44906,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Shuilou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.42906,29.99939,121.46906,30.03939",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "水楼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890512747,
+      890516553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7530489
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7530489
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5ecdf379082454741ee19a7ae2e33e20",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516553,
-            "empire_id":136253041,
-            "locality_id":1343960729,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5ecdf379082454741ee19a7ae2e33e20",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516553,
+        "empire_id": 136253041,
+        "locality_id": 1343960729,
+        "region_id": 85669835,
+        "localadmin_id": 890512747
+      }
     ],
-    "wof:id":1343960729,
-    "wof:lastmodified":1566656592,
-    "wof:name":"Shuilou",
-    "wof:parent_id":890516553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343960729,
+    "wof:lastmodified": 1768669614,
+    "wof:name": "Shuilou",
+    "wof:parent_id": 890512747,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.44906,
     30.01939,
     121.44906,
     30.01939
-],
-  "geometry": {"coordinates":[121.44906,30.01939],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.44906,
+      30.01939
+    ],
+    "type": "Point"
+  }
 }

@@ -2,72 +2,80 @@
   "id": 1343820197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.90611,41.72,123.90611,41.72",
-    "geom:latitude":41.72,
-    "geom:longitude":123.90611,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Shiwen",
-    "gn:country_code":"CN",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2054202,
-    "gn:latitude":41.72,
-    "gn:longitude":123.90611,
-    "gn:modification_date":"2001-07-09",
-    "gn:name":"Shiwen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.88611,41.7,123.92611,41.74",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513011
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.90611,41.72,123.90611,41.72",
+    "geom:latitude": 41.72,
+    "geom:longitude": 123.90611,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Shiwen",
+    "gn:country_code": "CN",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2054202,
+    "gn:latitude": 41.72,
+    "gn:longitude": 123.90611,
+    "gn:modification_date": "2001-07-09",
+    "gn:name": "Shiwen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.88611,41.7,123.92611,41.74",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513011,
+      1127210421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2054202
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2054202
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8e7c596df197f82b6d8e8086a6fea833",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513011,
-            "empire_id":136253041,
-            "locality_id":1343820197,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8e7c596df197f82b6d8e8086a6fea833",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513011,
+        "empire_id": 136253041,
+        "locality_id": 1343820197,
+        "region_id": 85669807,
+        "localadmin_id": 1127210421
+      }
     ],
-    "wof:id":1343820197,
-    "wof:lastmodified":1566660256,
-    "wof:name":"Shiwen",
-    "wof:parent_id":890513011,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343820197,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Shiwen",
+    "wof:parent_id": 1127210421,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.90611,
     41.72,
     123.90611,
     41.72
-],
-  "geometry": {"coordinates":[123.90611,41.72],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.90611,
+      41.72
+    ],
+    "type": "Point"
+  }
 }

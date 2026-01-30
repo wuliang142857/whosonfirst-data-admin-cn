@@ -2,75 +2,83 @@
   "id": 1344234021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.64946,29.9822,113.64946,29.9822",
-    "geom:latitude":29.9822,
-    "geom:longitude":113.64946,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Houdun",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8513864,
-    "gn:latitude":29.9822,
-    "gn:longitude":113.64946,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Houdun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.62946,29.9622,113.66946,30.0022",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u58a9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.64946,29.9822,113.64946,29.9822",
+    "geom:latitude": 29.9822,
+    "geom:longitude": 113.64946,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Houdun",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8513864,
+    "gn:latitude": 29.9822,
+    "gn:longitude": 113.64946,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Houdun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.62946,29.9622,113.66946,30.0022",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后墩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732489
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890513953,
+      1108732489
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8513864
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8513864
     },
-    "wof:country":"CN",
-    "wof:geomhash":"66e94b09284dc788d66a8bf24ef11291",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732489,
-            "empire_id":136253041,
-            "locality_id":1344234021,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "66e94b09284dc788d66a8bf24ef11291",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732489,
+        "empire_id": 136253041,
+        "locality_id": 1344234021,
+        "region_id": 85669777,
+        "localadmin_id": 890513953
+      }
     ],
-    "wof:id":1344234021,
-    "wof:lastmodified":1566658549,
-    "wof:name":"Houdun",
-    "wof:parent_id":1108732489,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344234021,
+    "wof:lastmodified": 1768665666,
+    "wof:name": "Houdun",
+    "wof:parent_id": 890513953,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.64946,
     29.9822,
     113.64946,
     29.9822
-],
-  "geometry": {"coordinates":[113.64946,29.9822],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.64946,
+      29.9822
+    ],
+    "type": "Point"
+  }
 }

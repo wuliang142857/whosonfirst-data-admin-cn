@@ -2,75 +2,83 @@
   "id": 1310599325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.13863,42.68018,125.13863,42.68018",
-    "geom:latitude":42.68018,
-    "geom:longitude":125.13863,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Xiaolongwan",
-    "gn:country_code":"CN",
-    "gn:dem":394,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10913524,
-    "gn:latitude":42.68018,
-    "gn:longitude":125.13863,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Xiaolongwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.11863,42.66018,125.15863,42.70018",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u9f99\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.13863,42.68018,125.13863,42.68018",
+    "geom:latitude": 42.68018,
+    "geom:longitude": 125.13863,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Xiaolongwan",
+    "gn:country_code": "CN",
+    "gn:dem": 394,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10913524,
+    "gn:latitude": 42.68018,
+    "gn:longitude": 125.13863,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Xiaolongwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.11863,42.66018,125.15863,42.70018",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小龙湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        1108732503
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      1108732503,
+      1127220422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10913524
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10913524
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e94eb049d9479aa9243ba8ea5eea86c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732503,
-            "empire_id":136253041,
-            "locality_id":1310599325,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e94eb049d9479aa9243ba8ea5eea86c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732503,
+        "empire_id": 136253041,
+        "locality_id": 1310599325,
+        "region_id": 85669843,
+        "localadmin_id": 1127220422
+      }
     ],
-    "wof:id":1310599325,
-    "wof:lastmodified":1566690496,
-    "wof:name":"Xiaolongwan",
-    "wof:parent_id":1108732503,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310599325,
+    "wof:lastmodified": 1768671196,
+    "wof:name": "Xiaolongwan",
+    "wof:parent_id": 1127220422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.13863,
     42.68018,
     125.13863,
     42.68018
-],
-  "geometry": {"coordinates":[125.13863000000001,42.68018],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.13863,
+      42.68018
+    ],
+    "type": "Point"
+  }
 }

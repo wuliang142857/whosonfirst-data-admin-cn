@@ -2,80 +2,88 @@
   "id": 1226019179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.96722,40.60833,108.96722,40.60833",
-    "geom:latitude":40.60833,
-    "geom:longitude":108.96722,
-    "gn:admin1_code":"20",
-    "gn:asciiname":"Gongmiao",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1016,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2037232,
-    "gn:latitude":40.60833,
-    "gn:longitude":108.96722,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Gongmiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.94722,40.58833,108.98722,40.62833",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Kung-miao",
-        "Gongmiaozi",
-        "Kung-miao-tzu",
-        "Gongmiao Xiang",
-        "Gongmiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.96722,40.60833,108.96722,40.60833",
+    "geom:latitude": 40.60833,
+    "geom:longitude": 108.96722,
+    "gn:admin1_code": "20",
+    "gn:asciiname": "Gongmiao",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1016,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2037232,
+    "gn:latitude": 40.60833,
+    "gn:longitude": 108.96722,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Gongmiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.94722,40.58833,108.98722,40.62833",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Kung-miao",
+      "Gongmiaozi",
+      "Kung-miao-tzu",
+      "Gongmiao Xiang",
+      "Gongmiao"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        1108732415
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890512201,
+      1108732415
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2037232
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2037232
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c1e0ce4b4b3d0d95ba3aecbfe011f837",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732415,
-            "empire_id":136253041,
-            "locality_id":1226019179,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c1e0ce4b4b3d0d95ba3aecbfe011f837",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732415,
+        "empire_id": 136253041,
+        "locality_id": 1226019179,
+        "region_id": 85669847,
+        "localadmin_id": 890512201
+      }
     ],
-    "wof:id":1226019179,
-    "wof:lastmodified":1566705259,
-    "wof:name":"Gongmiao",
-    "wof:parent_id":1108732415,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226019179,
+    "wof:lastmodified": 1768670747,
+    "wof:name": "Gongmiao",
+    "wof:parent_id": 890512201,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.96722,
     40.60833,
     108.96722,
     40.60833
-],
-  "geometry": {"coordinates":[108.96722,40.60833],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.96722,
+      40.60833
+    ],
+    "type": "Point"
+  }
 }

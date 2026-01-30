@@ -2,73 +2,81 @@
   "id": 1276480333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.75095,19.21853,108.75095,19.21853",
-    "geom:latitude":19.21853,
-    "geom:longitude":108.75095,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Laoxiang",
-    "gn:country_code":"CN",
-    "gn:dem":14,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7632784,
-    "gn:latitude":19.21853,
-    "gn:longitude":108.75095,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Laoxiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.73095,19.19853,108.77095,19.23853",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8001\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.75095,19.21853,108.75095,19.21853",
+    "geom:latitude": 19.21853,
+    "geom:longitude": 108.75095,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Laoxiang",
+    "gn:country_code": "CN",
+    "gn:dem": 14,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7632784,
+    "gn:latitude": 19.21853,
+    "gn:longitude": 108.75095,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Laoxiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.73095,19.19853,108.77095,19.23853",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "老乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7632784
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7632784
     },
-    "wof:country":"CN",
-    "wof:geomhash":"157592f33007658ebae907b5b9471ddd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1276480333,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "157592f33007658ebae907b5b9471ddd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1276480333,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1276480333,
-    "wof:lastmodified":1566677188,
-    "wof:name":"Laoxiang",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276480333,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Laoxiang",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.75095,
     19.21853,
     108.75095,
     19.21853
-],
-  "geometry": {"coordinates":[108.75095,19.21853],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.75095,
+      19.21853
+    ],
+    "type": "Point"
+  }
 }

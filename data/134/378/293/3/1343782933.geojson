@@ -2,75 +2,83 @@
   "id": 1343782933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.91222,25.53389,118.91222,25.53389",
-    "geom:latitude":25.53389,
-    "geom:longitude":118.91222,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Yuankou",
-    "gn:country_code":"CN",
-    "gn:dem":373,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1980335,
-    "gn:latitude":25.53389,
-    "gn:longitude":118.91222,
-    "gn:modification_date":"2013-11-12",
-    "gn:name":"Yuankou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.89222,25.51389,118.93222,25.55389",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9662\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.91222,25.53389,118.91222,25.53389",
+    "geom:latitude": 25.53389,
+    "geom:longitude": 118.91222,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Yuankou",
+    "gn:country_code": "CN",
+    "gn:dem": 373,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1980335,
+    "gn:latitude": 25.53389,
+    "gn:longitude": 118.91222,
+    "gn:modification_date": "2013-11-12",
+    "gn:name": "Yuankou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.89222,25.51389,118.93222,25.55389",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "院口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516865
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516865,
+      1127350302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1980335
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1980335
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bab57edae3fd541c00ef8e5769a99f33",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516865,
-            "empire_id":136253041,
-            "locality_id":1343782933,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bab57edae3fd541c00ef8e5769a99f33",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516865,
+        "empire_id": 136253041,
+        "locality_id": 1343782933,
+        "region_id": 85669735,
+        "localadmin_id": 1127350302
+      }
     ],
-    "wof:id":1343782933,
-    "wof:lastmodified":1566660444,
-    "wof:name":"Yuankou",
-    "wof:parent_id":890516865,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343782933,
+    "wof:lastmodified": 1768669538,
+    "wof:name": "Yuankou",
+    "wof:parent_id": 1127350302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.91222,
     25.53389,
     118.91222,
     25.53389
-],
-  "geometry": {"coordinates":[118.91222,25.53389],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.91222,
+      25.53389
+    ],
+    "type": "Point"
+  }
 }

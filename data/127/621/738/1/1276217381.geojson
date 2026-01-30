@@ -2,75 +2,83 @@
   "id": 1276217381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.39552,46.81401,125.39552,46.81401",
-    "geom:latitude":46.81401,
-    "geom:longitude":125.39552,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Erlongshan",
-    "gn:country_code":"CN",
-    "gn:dem":154,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8506983,
-    "gn:latitude":46.81401,
-    "gn:longitude":125.39552,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Erlongshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.37552,46.79401,125.41552,46.83401",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e8c\u9f99\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.39552,46.81401,125.39552,46.81401",
+    "geom:latitude": 46.81401,
+    "geom:longitude": 125.39552,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Erlongshan",
+    "gn:country_code": "CN",
+    "gn:dem": 154,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8506983,
+    "gn:latitude": 46.81401,
+    "gn:longitude": 125.39552,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Erlongshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.37552,46.79401,125.41552,46.83401",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "二龙山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231281
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8506983
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8506983
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d3082df38c477efb4ad8bdf54ae5d503",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1276217381,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d3082df38c477efb4ad8bdf54ae5d503",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1276217381,
+        "region_id": 85669849,
+        "localadmin_id": 1127231281
+      }
     ],
-    "wof:id":1276217381,
-    "wof:lastmodified":1566673073,
-    "wof:name":"Erlongshan",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276217381,
+    "wof:lastmodified": 1768668895,
+    "wof:name": "Erlongshan",
+    "wof:parent_id": 1127231281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.39552,
     46.81401,
     125.39552,
     46.81401
-],
-  "geometry": {"coordinates":[125.39552,46.81401],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.39552,
+      46.81401
+    ],
+    "type": "Point"
+  }
 }

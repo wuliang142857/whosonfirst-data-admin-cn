@@ -2,75 +2,83 @@
   "id": 1259342259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.39622,29.83607,105.39622,29.83607",
-    "geom:latitude":29.83607,
-    "geom:longitude":105.39622,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Hujian",
-    "gn:country_code":"CN",
-    "gn:dem":405,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6873685,
-    "gn:latitude":29.83607,
-    "gn:longitude":105.39622,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Hujian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.37622,29.81607,105.41622,29.85607",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u62a4\u5efa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.39622,29.83607,105.39622,29.83607",
+    "geom:latitude": 29.83607,
+    "geom:longitude": 105.39622,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Hujian",
+    "gn:country_code": "CN",
+    "gn:dem": 405,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6873685,
+    "gn:latitude": 29.83607,
+    "gn:longitude": 105.39622,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Hujian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.37622,29.81607,105.41622,29.85607",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "护建"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6873685
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6873685
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6affec33fb9407a52895933bd9b0d996",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1259342259,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6affec33fb9407a52895933bd9b0d996",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1259342259,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1259342259,
-    "wof:lastmodified":1566700100,
-    "wof:name":"Hujian",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259342259,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Hujian",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.39622,
     29.83607,
     105.39622,
     29.83607
-],
-  "geometry": {"coordinates":[105.39622,29.83607],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.39622,
+      29.83607
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1293544529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.009,35.8581,118.009,35.8581",
-    "geom:latitude":35.8581,
-    "geom:longitude":118.009,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Nanyu",
-    "gn:country_code":"CN",
-    "gn:dem":330,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9122299,
-    "gn:latitude":35.8581,
-    "gn:longitude":118.009,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Nanyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.989,35.8381,118.029,35.8781",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Nanyu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.009,35.8581,118.009,35.8581",
+    "geom:latitude": 35.8581,
+    "geom:longitude": 118.009,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Nanyu",
+    "gn:country_code": "CN",
+    "gn:dem": 330,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9122299,
+    "gn:latitude": 35.8581,
+    "gn:longitude": 118.009,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Nanyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.989,35.8381,118.029,35.8781",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Nanyu"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u5cea"
+    "name:zho_x_preferred": [
+      "南峪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514149,
+      1108732339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9122299
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9122299
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4129ae87b7be25bf53258631ea081655",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1293544529,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4129ae87b7be25bf53258631ea081655",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1293544529,
+        "region_id": 85669813,
+        "localadmin_id": 890514149
+      }
     ],
-    "wof:id":1293544529,
-    "wof:lastmodified":1566665854,
-    "wof:name":"Nanyu",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293544529,
+    "wof:lastmodified": 1768668426,
+    "wof:name": "Nanyu",
+    "wof:parent_id": 890514149,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.009,
     35.8581,
     118.009,
     35.8581
-],
-  "geometry": {"coordinates":[118.009,35.8581],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.009,
+      35.8581
+    ],
+    "type": "Point"
+  }
 }

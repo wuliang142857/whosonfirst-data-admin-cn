@@ -2,78 +2,221 @@
   "id": 890514273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.88136,34.74753,111.88136,34.74753",
-    "geom:latitude":34.74753,
-    "geom:longitude":111.88136,
-    "gn:country":"CN",
-    "gn:fcode":"ADM3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"111.78136,34.64753,111.98136,34.84753",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yima"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000135035333,
+    "geom:area_square_m": 135035333.11,
+    "geom:bbox": "111.820411,34.693249,111.992511,34.80397",
+    "geom:latitude": 34.74861,
+    "geom:longitude": 111.906461,
+    "gn:country": "CN",
+    "gn:fcode": "ADM3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "111.80646,34.64861,112.00646,34.84861",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yima"
     ],
-    "name:zho_x_preferred":[
-        "\u4e49\u9a6c\u5e02"
+    "name:zho_x_preferred": [
+      "义马市"
     ],
-    "name:zho_x_variant":[
-        "\u4e49\u9a6c"
+    "name:zho_x_variant": [
+      "义马"
     ],
-    "qs:name":"Yima Shi",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890517009
+    "qs:name": "Yima Shi",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85669801,
+      102191569,
+      85632695,
+      136253041,
+      890517009
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1786672,
-        "qs_pg:id":1031449
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1786672,
+      "qs_pg:id": 1031449,
+      "gb:id": "156411281"
     },
-    "wof:country":"CN",
-    "wof:created":1469055854,
-    "wof:geomhash":"6f7bedbe3d0a500b095742ff4e577b14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890517009,
-            "empire_id":136253041,
-            "localadmin_id":890514273,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055854,
+    "wof:geomhash": "6f7bedbe3d0a500b095742ff4e577b14",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890517009,
+        "empire_id": 136253041,
+        "localadmin_id": 890514273,
+        "region_id": 85669801
+      }
     ],
-    "wof:id":890514273,
-    "wof:lastmodified":1566693661,
-    "wof:name":"Yima Shi",
-    "wof:parent_id":890517009,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890514273,
+    "wof:lastmodified": 1768664149,
+    "wof:name": "Yima Shi",
+    "wof:parent_id": 890517009,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    111.88136,
-    34.74753,
-    111.88136,
-    34.74753
-],
-  "geometry": {"coordinates":[111.88136,34.74753],"type":"Point"}
+    111.820411,
+    34.693249,
+    111.992511,
+    34.80397
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            111.989629,
+            34.710356
+          ],
+          [
+            111.989792,
+            34.698696
+          ],
+          [
+            111.992511,
+            34.696358
+          ],
+          [
+            111.989568,
+            34.693249
+          ],
+          [
+            111.973169,
+            34.695657
+          ],
+          [
+            111.940728,
+            34.693643
+          ],
+          [
+            111.929934,
+            34.697621
+          ],
+          [
+            111.927018,
+            34.705571
+          ],
+          [
+            111.910226,
+            34.697839
+          ],
+          [
+            111.873435,
+            34.718681
+          ],
+          [
+            111.867053,
+            34.71707
+          ],
+          [
+            111.832047,
+            34.728341
+          ],
+          [
+            111.820411,
+            34.738418
+          ],
+          [
+            111.824227,
+            34.756869
+          ],
+          [
+            111.843317,
+            34.773715
+          ],
+          [
+            111.834336,
+            34.795137
+          ],
+          [
+            111.842327,
+            34.80397
+          ],
+          [
+            111.869137,
+            34.802009
+          ],
+          [
+            111.910585,
+            34.786218
+          ],
+          [
+            111.92552,
+            34.776503
+          ],
+          [
+            111.921558,
+            34.757057
+          ],
+          [
+            111.923553,
+            34.742857
+          ],
+          [
+            111.934683,
+            34.735178
+          ],
+          [
+            111.940452,
+            34.736178
+          ],
+          [
+            111.94186,
+            34.742306
+          ],
+          [
+            111.955322,
+            34.740904
+          ],
+          [
+            111.958905,
+            34.733348
+          ],
+          [
+            111.951018,
+            34.732132
+          ],
+          [
+            111.951955,
+            34.729258
+          ],
+          [
+            111.972667,
+            34.719978
+          ],
+          [
+            111.982287,
+            34.721874
+          ],
+          [
+            111.985534,
+            34.711753
+          ],
+          [
+            111.989629,
+            34.710356
+          ]
+        ]
+      ]
+    ]
+  }
 }

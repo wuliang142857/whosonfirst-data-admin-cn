@@ -2,81 +2,89 @@
   "id": 1259563181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.13815,30.14119,109.13815,30.14119",
-    "geom:latitude":30.14119,
-    "geom:longitude":109.13815,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Qingshui",
-    "gn:country_code":"CN",
-    "gn:dem":947,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8516978,
-    "gn:latitude":30.14119,
-    "gn:longitude":109.13815,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Qingshui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.11815,30.12119,109.15815,30.16119",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Qingshui"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.13815,30.14119,109.13815,30.14119",
+    "geom:latitude": 30.14119,
+    "geom:longitude": 109.13815,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Qingshui",
+    "gn:country_code": "CN",
+    "gn:dem": 947,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8516978,
+    "gn:latitude": 30.14119,
+    "gn:longitude": 109.13815,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Qingshui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.11815,30.12119,109.15815,30.16119",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Qingshui"
     ],
-    "name:deu_x_preferred":[
-        "Qingshui"
+    "name:deu_x_preferred": [
+      "Qingshui"
     ],
-    "name:zho_x_preferred":[
-        "\u6e05\u6c34"
+    "name:zho_x_preferred": [
+      "清水"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512637,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8516978
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8516978
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f8c12412f1ebe00dc78d48cecce0795c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1259563181,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f8c12412f1ebe00dc78d48cecce0795c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1259563181,
+        "region_id": 85669777,
+        "localadmin_id": 890512637
+      }
     ],
-    "wof:id":1259563181,
-    "wof:lastmodified":1566699996,
-    "wof:name":"Qingshui",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259563181,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Qingshui",
+    "wof:parent_id": 890512637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.13815,
     30.14119,
     109.13815,
     30.14119
-],
-  "geometry": {"coordinates":[109.13815,30.14119],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.13815,
+      30.14119
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1293371495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.005,22.9071,107.005,22.9071",
-    "geom:latitude":22.9071,
-    "geom:longitude":107.005,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Longli",
-    "gn:country_code":"CN",
-    "gn:dem":507,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9906278,
-    "gn:latitude":22.9071,
-    "gn:longitude":107.005,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Longli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.985,22.8871,107.025,22.9271",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9647\u529b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.005,22.9071,107.005,22.9071",
+    "geom:latitude": 22.9071,
+    "geom:longitude": 107.005,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Longli",
+    "gn:country_code": "CN",
+    "gn:dem": 507,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9906278,
+    "gn:latitude": 22.9071,
+    "gn:longitude": 107.005,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Longli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.985,22.8871,107.025,22.9271",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陇力"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890513103
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513103,
+      1127451425
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9906278
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9906278
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ab4a4830bba13f82f9b5f52fb155c5af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513103,
-            "empire_id":136253041,
-            "locality_id":1293371495,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ab4a4830bba13f82f9b5f52fb155c5af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513103,
+        "empire_id": 136253041,
+        "locality_id": 1293371495,
+        "region_id": 85669717,
+        "localadmin_id": 1127451425
+      }
     ],
-    "wof:id":1293371495,
-    "wof:lastmodified":1566666208,
-    "wof:name":"Longli",
-    "wof:parent_id":890513103,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293371495,
+    "wof:lastmodified": 1768665574,
+    "wof:name": "Longli",
+    "wof:parent_id": 1127451425,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.005,
     22.9071,
     107.005,
     22.9071
-],
-  "geometry": {"coordinates":[107.005,22.9071],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.005,
+      22.9071
+    ],
+    "type": "Point"
+  }
 }

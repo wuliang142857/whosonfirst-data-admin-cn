@@ -2,75 +2,83 @@
   "id": 1276755539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.62811,26.14993,119.62811,26.14993",
-    "geom:latitude":26.14993,
-    "geom:longitude":119.62811,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Tangxiacun",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8575643,
-    "gn:latitude":26.14993,
-    "gn:longitude":119.62811,
-    "gn:modification_date":"2015-11-09",
-    "gn:name":"Tangxiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.60811,26.12993,119.64811,26.16993",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5858\u4e0b\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.62811,26.14993,119.62811,26.14993",
+    "geom:latitude": 26.14993,
+    "geom:longitude": 119.62811,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Tangxiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8575643,
+    "gn:latitude": 26.14993,
+    "gn:longitude": 119.62811,
+    "gn:modification_date": "2015-11-09",
+    "gn:name": "Tangxiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.60811,26.12993,119.64811,26.16993",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "塘下村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513117,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8575643
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8575643
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2e7bdf41b05ce26e9cfa6bea8974699a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1276755539,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2e7bdf41b05ce26e9cfa6bea8974699a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1276755539,
+        "region_id": 85669735,
+        "localadmin_id": 890513117
+      }
     ],
-    "wof:id":1276755539,
-    "wof:lastmodified":1566672609,
-    "wof:name":"Tangxiacun",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276755539,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Tangxiacun",
+    "wof:parent_id": 890513117,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.62811,
     26.14993,
     119.62811,
     26.14993
-],
-  "geometry": {"coordinates":[119.62811000000001,26.14993],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.62811,
+      26.14993
+    ],
+    "type": "Point"
+  }
 }

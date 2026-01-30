@@ -2,75 +2,83 @@
   "id": 1310595789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.59435,35.78684,115.59435,35.78684",
-    "geom:latitude":35.78684,
-    "geom:longitude":115.59435,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Renhe",
-    "gn:country_code":"CN",
-    "gn:dem":50,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9181034,
-    "gn:latitude":35.78684,
-    "gn:longitude":115.59435,
-    "gn:modification_date":"2014-07-10",
-    "gn:name":"Renhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.57435,35.76684,115.61435,35.80684",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4efb\u548c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.59435,35.78684,115.59435,35.78684",
+    "geom:latitude": 35.78684,
+    "geom:longitude": 115.59435,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Renhe",
+    "gn:country_code": "CN",
+    "gn:dem": 50,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9181034,
+    "gn:latitude": 35.78684,
+    "gn:longitude": 115.59435,
+    "gn:modification_date": "2014-07-10",
+    "gn:name": "Renhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.57435,35.76684,115.61435,35.80684",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "任和"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514079
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514079,
+      1127410926
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9181034
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9181034
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3a8c2dc6a1484ef2d12a21134809256d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514079,
-            "empire_id":136253041,
-            "locality_id":1310595789,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3a8c2dc6a1484ef2d12a21134809256d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514079,
+        "empire_id": 136253041,
+        "locality_id": 1310595789,
+        "region_id": 85669801,
+        "localadmin_id": 1127410926
+      }
     ],
-    "wof:id":1310595789,
-    "wof:lastmodified":1566690512,
-    "wof:name":"Renhe",
-    "wof:parent_id":890514079,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310595789,
+    "wof:lastmodified": 1768669057,
+    "wof:name": "Renhe",
+    "wof:parent_id": 1127410926,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.59435,
     35.78684000000001,
     115.59435,
     35.78684000000001
-],
-  "geometry": {"coordinates":[115.59435000000001,35.78684000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.59435,
+      35.78684000000001
+    ],
+    "type": "Point"
+  }
 }

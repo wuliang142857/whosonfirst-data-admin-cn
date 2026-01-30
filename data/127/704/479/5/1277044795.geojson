@@ -2,75 +2,83 @@
   "id": 1277044795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.109,22.5285,109.109,22.5285",
-    "geom:latitude":22.5285,
-    "geom:longitude":109.109,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Diqiao",
-    "gn:country_code":"CN",
-    "gn:dem":79,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9898149,
-    "gn:latitude":22.5285,
-    "gn:longitude":109.109,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Diqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.089,22.5085,109.129,22.5485",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e95\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.109,22.5285,109.109,22.5285",
+    "geom:latitude": 22.5285,
+    "geom:longitude": 109.109,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Diqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 79,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9898149,
+    "gn:latitude": 22.5285,
+    "gn:longitude": 109.109,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Diqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.089,22.5085,109.129,22.5485",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "底桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450181
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9898149
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9898149
     },
-    "wof:country":"CN",
-    "wof:geomhash":"606bc8693faf3efa8401a1c9c250ea1a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1277044795,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "606bc8693faf3efa8401a1c9c250ea1a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1277044795,
+        "region_id": 85669717,
+        "localadmin_id": 1127450181
+      }
     ],
-    "wof:id":1277044795,
-    "wof:lastmodified":1566675875,
-    "wof:name":"Diqiao",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277044795,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Diqiao",
+    "wof:parent_id": 1127450181,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.109,
     22.5285,
     109.109,
     22.5285
-],
-  "geometry": {"coordinates":[109.10899999999999,22.5285],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.109,
+      22.5285
+    ],
+    "type": "Point"
+  }
 }

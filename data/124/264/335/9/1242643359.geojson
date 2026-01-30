@@ -2,75 +2,83 @@
   "id": 1242643359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.836,26.3697,105.836,26.3697",
-    "geom:latitude":26.3697,
-    "geom:longitude":105.836,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Wozi",
-    "gn:country_code":"CN",
-    "gn:dem":1410,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1906740,
-    "gn:latitude":26.3697,
-    "gn:longitude":105.836,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Wozi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.816,26.3497,105.856,26.3897",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7a9d\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.836,26.3697,105.836,26.3697",
+    "geom:latitude": 26.3697,
+    "geom:longitude": 105.836,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Wozi",
+    "gn:country_code": "CN",
+    "gn:dem": 1410,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1906740,
+    "gn:latitude": 26.3697,
+    "gn:longitude": 105.836,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Wozi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.816,26.3497,105.856,26.3897",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "窝子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516579
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890516579,
+      1127520422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1906740
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1906740
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e663473df3e655cbc02ef429cb3ad05",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516579,
-            "empire_id":136253041,
-            "locality_id":1242643359,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e663473df3e655cbc02ef429cb3ad05",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516579,
+        "empire_id": 136253041,
+        "locality_id": 1242643359,
+        "region_id": 85669721,
+        "localadmin_id": 1127520422
+      }
     ],
-    "wof:id":1242643359,
-    "wof:lastmodified":1566697120,
-    "wof:name":"Wozi",
-    "wof:parent_id":890516579,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242643359,
+    "wof:lastmodified": 1768667094,
+    "wof:name": "Wozi",
+    "wof:parent_id": 1127520422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.836,
     26.3697,
     105.836,
     26.3697
-],
-  "geometry": {"coordinates":[105.836,26.3697],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.836,
+      26.3697
+    ],
+    "type": "Point"
+  }
 }

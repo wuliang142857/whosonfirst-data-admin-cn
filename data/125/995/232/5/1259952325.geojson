@@ -2,75 +2,83 @@
   "id": 1259952325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.444,22.7105,108.444,22.7105",
-    "geom:latitude":22.7105,
-    "geom:longitude":108.444,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Menglian",
-    "gn:country_code":"CN",
-    "gn:dem":77,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9897085,
-    "gn:latitude":22.7105,
-    "gn:longitude":108.444,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Menglian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.424,22.6905,108.464,22.7305",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b5f\u83b2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.444,22.7105,108.444,22.7105",
+    "geom:latitude": 22.7105,
+    "geom:longitude": 108.444,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Menglian",
+    "gn:country_code": "CN",
+    "gn:dem": 77,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9897085,
+    "gn:latitude": 22.7105,
+    "gn:longitude": 108.444,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Menglian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.424,22.6905,108.464,22.7305",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "孟莲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513205,
+      890515419
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9897085
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9897085
     },
-    "wof:country":"CN",
-    "wof:geomhash":"124ab856f84748dbdb539164fbb09966",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1259952325,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "124ab856f84748dbdb539164fbb09966",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1259952325,
+        "region_id": 85669717,
+        "localadmin_id": 890513205
+      }
     ],
-    "wof:id":1259952325,
-    "wof:lastmodified":1566699432,
-    "wof:name":"Menglian",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259952325,
+    "wof:lastmodified": 1768666366,
+    "wof:name": "Menglian",
+    "wof:parent_id": 890513205,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.444,
     22.7105,
     108.444,
     22.7105
-],
-  "geometry": {"coordinates":[108.444,22.7105],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.444,
+      22.7105
+    ],
+    "type": "Point"
+  }
 }

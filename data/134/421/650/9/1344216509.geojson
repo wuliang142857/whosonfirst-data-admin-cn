@@ -2,75 +2,83 @@
   "id": 1344216509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.555,32.3222,105.555,32.3222",
-    "geom:latitude":32.3222,
-    "geom:longitude":105.555,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shiyang",
-    "gn:country_code":"CN",
-    "gn:dem":512,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10148182,
-    "gn:latitude":32.3222,
-    "gn:longitude":105.555,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shiyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.535,32.3022,105.575,32.3422",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u7f8a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.555,32.3222,105.555,32.3222",
+    "geom:latitude": 32.3222,
+    "geom:longitude": 105.555,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shiyang",
+    "gn:country_code": "CN",
+    "gn:dem": 512,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10148182,
+    "gn:latitude": 32.3222,
+    "gn:longitude": 105.555,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shiyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.535,32.3022,105.575,32.3422",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石羊"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512741,
+      1127510802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10148182
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10148182
     },
-    "wof:country":"CN",
-    "wof:geomhash":"538cd292f9db5bdd2a1fc3fe6f8715ca",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512741,
-            "empire_id":136253041,
-            "locality_id":1344216509,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "538cd292f9db5bdd2a1fc3fe6f8715ca",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512741,
+        "empire_id": 136253041,
+        "locality_id": 1344216509,
+        "region_id": 85669787,
+        "localadmin_id": 1127510802
+      }
     ],
-    "wof:id":1344216509,
-    "wof:lastmodified":1566662449,
-    "wof:name":"Shiyang",
-    "wof:parent_id":890512741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344216509,
+    "wof:lastmodified": 1768668638,
+    "wof:name": "Shiyang",
+    "wof:parent_id": 1127510802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.555,
     32.3222,
     105.555,
     32.3222
-],
-  "geometry": {"coordinates":[105.55500000000001,32.3222],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.555,
+      32.3222
+    ],
+    "type": "Point"
+  }
 }

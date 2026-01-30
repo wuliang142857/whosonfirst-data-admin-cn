@@ -2,78 +2,86 @@
   "id": 1293770517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.5935,30.17845,111.5935,30.17845",
-    "geom:latitude":30.17845,
-    "geom:longitude":111.5935,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhangjiafan",
-    "gn:country_code":"CN",
-    "gn:dem":154,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7695797,
-    "gn:latitude":30.17845,
-    "gn:longitude":111.5935,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhangjiafan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.5735,30.15845,111.6135,30.19845",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Zhangjiafan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.5935,30.17845,111.5935,30.17845",
+    "geom:latitude": 30.17845,
+    "geom:longitude": 111.5935,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhangjiafan",
+    "gn:country_code": "CN",
+    "gn:dem": 154,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7695797,
+    "gn:latitude": 30.17845,
+    "gn:longitude": 111.5935,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhangjiafan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.5735,30.15845,111.6135,30.19845",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Zhangjiafan"
     ],
-    "name:zho_x_variant":[
-        "\u5f20\u5bb6\u7548"
+    "name:zho_x_variant": [
+      "张家畈"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732489
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514303,
+      1108732489
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7695797
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7695797
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d434d42398c53bc3667b81e48fef535b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732489,
-            "empire_id":136253041,
-            "locality_id":1293770517,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d434d42398c53bc3667b81e48fef535b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732489,
+        "empire_id": 136253041,
+        "locality_id": 1293770517,
+        "region_id": 85669777,
+        "localadmin_id": 890514303
+      }
     ],
-    "wof:id":1293770517,
-    "wof:lastmodified":1566667580,
-    "wof:name":"Zhangjiafan",
-    "wof:parent_id":1108732489,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293770517,
+    "wof:lastmodified": 1768665667,
+    "wof:name": "Zhangjiafan",
+    "wof:parent_id": 890514303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.5935,
     30.17845,
     111.5935,
     30.17845
-],
-  "geometry": {"coordinates":[111.59350000000001,30.17845],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.5935,
+      30.17845
+    ],
+    "type": "Point"
+  }
 }

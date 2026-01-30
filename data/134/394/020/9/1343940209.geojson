@@ -2,75 +2,83 @@
   "id": 1343940209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.315,36.0762,105.315,36.0762",
-    "geom:latitude":36.0762,
-    "geom:longitude":105.315,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Mengjiaqu",
-    "gn:country_code":"CN",
-    "gn:dem":1900,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10753972,
-    "gn:latitude":36.0762,
-    "gn:longitude":105.315,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Mengjiaqu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.295,36.0562,105.335,36.0962",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b5f\u5bb6\u6e20"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.315,36.0762,105.315,36.0762",
+    "geom:latitude": 36.0762,
+    "geom:longitude": 105.315,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Mengjiaqu",
+    "gn:country_code": "CN",
+    "gn:dem": 1900,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10753972,
+    "gn:latitude": 36.0762,
+    "gn:longitude": 105.315,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Mengjiaqu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.295,36.0562,105.335,36.0962",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "孟家渠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516465,
+      1127620422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10753972
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10753972
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7f7d89c9500dddf83636681a26366d66",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516465,
-            "empire_id":136253041,
-            "locality_id":1343940209,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7f7d89c9500dddf83636681a26366d66",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516465,
+        "empire_id": 136253041,
+        "locality_id": 1343940209,
+        "region_id": 85669711,
+        "localadmin_id": 1127620422
+      }
     ],
-    "wof:id":1343940209,
-    "wof:lastmodified":1566661938,
-    "wof:name":"Mengjiaqu",
-    "wof:parent_id":890516465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343940209,
+    "wof:lastmodified": 1768666457,
+    "wof:name": "Mengjiaqu",
+    "wof:parent_id": 1127620422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.315,
     36.0762,
     105.315,
     36.0762
-],
-  "geometry": {"coordinates":[105.315,36.0762],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.315,
+      36.0762
+    ],
+    "type": "Point"
+  }
 }

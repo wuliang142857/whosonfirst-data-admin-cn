@@ -2,75 +2,83 @@
   "id": 1225804663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"98.8253,31.1961,98.8253,31.1961",
-    "geom:latitude":31.1961,
-    "geom:longitude":98.8253,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shuiwenzhan",
-    "gn:country_code":"CN",
-    "gn:dem":3170,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10208491,
-    "gn:latitude":31.1961,
-    "gn:longitude":98.8253,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shuiwenzhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"98.8053,31.1761,98.8453,31.2161",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c34\u6587\u7ad9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "98.8253,31.1961,98.8253,31.1961",
+    "geom:latitude": 31.1961,
+    "geom:longitude": 98.8253,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shuiwenzhan",
+    "gn:country_code": "CN",
+    "gn:dem": 3170,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10208491,
+    "gn:latitude": 31.1961,
+    "gn:longitude": 98.8253,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shuiwenzhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "98.8053,31.1761,98.8453,31.2161",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "水文站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10208491
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10208491
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2f85bf11a16f6fc0a1d43974b5ae2acf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1225804663,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2f85bf11a16f6fc0a1d43974b5ae2acf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1225804663,
+        "region_id": 85669787,
+        "localadmin_id": 1127513331
+      }
     ],
-    "wof:id":1225804663,
-    "wof:lastmodified":1566703061,
-    "wof:name":"Shuiwenzhan",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225804663,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Shuiwenzhan",
+    "wof:parent_id": 1127513331,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     98.8253,
     31.1961,
     98.8253,
     31.1961
-],
-  "geometry": {"coordinates":[98.8253,31.1961],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      98.8253,
+      31.1961
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1260247277,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.79175,40.77034,123.79175,40.77034",
-    "geom:latitude":40.77034,
-    "geom:longitude":123.79175,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Renmin",
-    "gn:country_code":"CN",
-    "gn:dem":216,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7920112,
-    "gn:latitude":40.77034,
-    "gn:longitude":123.79175,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Renmin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.77175,40.75034,123.81175,40.79034",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4eba\u6c11"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.79175,40.77034,123.79175,40.77034",
+    "geom:latitude": 40.77034,
+    "geom:longitude": 123.79175,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Renmin",
+    "gn:country_code": "CN",
+    "gn:dem": 216,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7920112,
+    "gn:latitude": 40.77034,
+    "gn:longitude": 123.79175,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Renmin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.77175,40.75034,123.81175,40.79034",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "人民"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514725
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514725,
+      890515317
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7920112
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7920112
     },
-    "wof:country":"CN",
-    "wof:geomhash":"843b2cdb9cab766d665d1866b606bb0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514725,
-            "empire_id":136253041,
-            "locality_id":1260247277,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "843b2cdb9cab766d665d1866b606bb0a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514725,
+        "empire_id": 136253041,
+        "locality_id": 1260247277,
+        "region_id": 85669807,
+        "localadmin_id": 890515317
+      }
     ],
-    "wof:id":1260247277,
-    "wof:lastmodified":1566686184,
-    "wof:name":"Renmin",
-    "wof:parent_id":890514725,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260247277,
+    "wof:lastmodified": 1768666775,
+    "wof:name": "Renmin",
+    "wof:parent_id": 890515317,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.79175,
     40.77034,
     123.79175,
     40.77034
-],
-  "geometry": {"coordinates":[123.79174999999999,40.77034],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.79175,
+      40.77034
+    ],
+    "type": "Point"
+  }
 }

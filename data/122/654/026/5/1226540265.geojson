@@ -2,78 +2,86 @@
   "id": 1226540265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.07233,33.5401,120.07233,33.5401",
-    "geom:latitude":33.5401,
-    "geom:longitude":120.07233,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Yun'ancun",
-    "gn:country_code":"CN",
-    "gn:dem":-2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11587626,
-    "gn:latitude":33.5401,
-    "gn:longitude":120.07233,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Yun\u2019ancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.05233,33.5201,120.09233,33.5601",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yun\u2019ancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.07233,33.5401,120.07233,33.5401",
+    "geom:latitude": 33.5401,
+    "geom:longitude": 120.07233,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Yun'ancun",
+    "gn:country_code": "CN",
+    "gn:dem": -2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11587626,
+    "gn:latitude": 33.5401,
+    "gn:longitude": 120.07233,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Yun’ancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.05233,33.5201,120.09233,33.5601",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yun’ancun"
     ],
-    "name:zho_x_preferred":[
-        "\u4e91\u5b89\u6751"
+    "name:zho_x_preferred": [
+      "云安村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11587626
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11587626
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5de186fe0f45b17a8f1f16909f0b6f9d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1226540265,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5de186fe0f45b17a8f1f16909f0b6f9d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1226540265,
+        "region_id": 85669827,
+        "localadmin_id": 1127320924
+      }
     ],
-    "wof:id":1226540265,
-    "wof:lastmodified":1566705455,
-    "wof:name":"Yun'ancun",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226540265,
+    "wof:lastmodified": 1768670805,
+    "wof:name": "Yun'ancun",
+    "wof:parent_id": 1127320924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.07233,
     33.5401,
     120.07233,
     33.5401
-],
-  "geometry": {"coordinates":[120.07232999999999,33.5401],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.07233,
+      33.5401
+    ],
+    "type": "Point"
+  }
 }

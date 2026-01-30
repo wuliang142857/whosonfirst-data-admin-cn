@@ -2,75 +2,83 @@
   "id": 1226184017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.231,28.8152,105.231,28.8152",
-    "geom:latitude":28.8152,
-    "geom:longitude":105.231,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shigang",
-    "gn:country_code":"CN",
-    "gn:dem":341,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10185204,
-    "gn:latitude":28.8152,
-    "gn:longitude":105.231,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shigang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.211,28.7952,105.251,28.8352",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u7f38"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.231,28.8152,105.231,28.8152",
+    "geom:latitude": 28.8152,
+    "geom:longitude": 105.231,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shigang",
+    "gn:country_code": "CN",
+    "gn:dem": 341,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10185204,
+    "gn:latitude": 28.8152,
+    "gn:longitude": 105.231,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shigang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.211,28.7952,105.251,28.8352",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石缸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10185204
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10185204
     },
-    "wof:country":"CN",
-    "wof:geomhash":"40f662b4b728c91eda5b67e0c6fa8533",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1226184017,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "40f662b4b728c91eda5b67e0c6fa8533",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1226184017,
+        "region_id": 85669787,
+        "localadmin_id": 1127510502
+      }
     ],
-    "wof:id":1226184017,
-    "wof:lastmodified":1566701643,
-    "wof:name":"Shigang",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226184017,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Shigang",
+    "wof:parent_id": 1127510502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.231,
     28.8152,
     105.231,
     28.8152
-],
-  "geometry": {"coordinates":[105.23099999999999,28.8152],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.231,
+      28.8152
+    ],
+    "type": "Point"
+  }
 }

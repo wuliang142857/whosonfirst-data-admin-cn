@@ -2,75 +2,83 @@
   "id": 1309677473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.405,42.1442,122.405,42.1442",
-    "geom:latitude":42.1442,
-    "geom:longitude":122.405,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Chamatun",
-    "gn:country_code":"CN",
-    "gn:dem":69,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7403925,
-    "gn:latitude":42.1442,
-    "gn:longitude":122.405,
-    "gn:modification_date":"2017-04-07",
-    "gn:name":"Chamatun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.385,42.1242,122.425,42.1642",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u67e5\u9a6c\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.405,42.1442,122.405,42.1442",
+    "geom:latitude": 42.1442,
+    "geom:longitude": 122.405,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Chamatun",
+    "gn:country_code": "CN",
+    "gn:dem": 69,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7403925,
+    "gn:latitude": 42.1442,
+    "gn:longitude": 122.405,
+    "gn:modification_date": "2017-04-07",
+    "gn:name": "Chamatun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.385,42.1242,122.425,42.1642",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "查马屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514709
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514709,
+      1127210921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7403925
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7403925
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7a0951943062597e70d0d5cb51eeecb5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514709,
-            "empire_id":136253041,
-            "locality_id":1309677473,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7a0951943062597e70d0d5cb51eeecb5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514709,
+        "empire_id": 136253041,
+        "locality_id": 1309677473,
+        "region_id": 85669807,
+        "localadmin_id": 1127210921
+      }
     ],
-    "wof:id":1309677473,
-    "wof:lastmodified":1566693111,
-    "wof:name":"Chamatun",
-    "wof:parent_id":890514709,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309677473,
+    "wof:lastmodified": 1768666899,
+    "wof:name": "Chamatun",
+    "wof:parent_id": 1127210921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.405,
     42.1442,
     122.405,
     42.1442
-],
-  "geometry": {"coordinates":[122.405,42.1442],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.405,
+      42.1442
+    ],
+    "type": "Point"
+  }
 }

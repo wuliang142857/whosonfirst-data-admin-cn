@@ -2,80 +2,88 @@
   "id": 1310501519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.98968,31.57507,120.98968,31.57507",
-    "geom:latitude":31.57507,
-    "geom:longitude":120.98968,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Yaozhencun",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1786885,
-    "gn:latitude":31.57507,
-    "gn:longitude":120.98968,
-    "gn:modification_date":"2017-08-02",
-    "gn:name":"Yaozhencun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.96968,31.55507,121.00968,31.59507",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yaozhen",
-        "\u7a91\u9547",
-        "Yaozhencun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.98968,31.57507,120.98968,31.57507",
+    "geom:latitude": 31.57507,
+    "geom:longitude": 120.98968,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Yaozhencun",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1786885,
+    "gn:latitude": 31.57507,
+    "gn:longitude": 120.98968,
+    "gn:modification_date": "2017-08-02",
+    "gn:name": "Yaozhencun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.96968,31.55507,121.00968,31.59507",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yaozhen",
+      "窑镇",
+      "Yaozhencun"
     ],
-    "name:zho_x_preferred":[
-        "\u7a91\u9547\u6751"
+    "name:zho_x_preferred": [
+      "窑镇村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515879
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515879,
+      890515979
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1786885
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1786885
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9d0a3a96db54cf2597fc5355a96859c8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515879,
-            "empire_id":136253041,
-            "locality_id":1310501519,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9d0a3a96db54cf2597fc5355a96859c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515879,
+        "empire_id": 136253041,
+        "locality_id": 1310501519,
+        "region_id": 85669827,
+        "localadmin_id": 890515979
+      }
     ],
-    "wof:id":1310501519,
-    "wof:lastmodified":1566690523,
-    "wof:name":"Yaozhencun",
-    "wof:parent_id":890515879,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310501519,
+    "wof:lastmodified": 1768670872,
+    "wof:name": "Yaozhencun",
+    "wof:parent_id": 890515979,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.98968,
     31.57507,
     120.98968,
     31.57507
-],
-  "geometry": {"coordinates":[120.98968000000001,31.57507],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.98968,
+      31.57507
+    ],
+    "type": "Point"
+  }
 }

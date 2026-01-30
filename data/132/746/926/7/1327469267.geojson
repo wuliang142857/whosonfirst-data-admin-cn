@@ -2,84 +2,92 @@
   "id": 1327469267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.28337,19.91962,110.28337,19.91962",
-    "geom:latitude":19.91962,
-    "geom:longitude":110.28337,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Bochang",
-    "gn:country_code":"CN",
-    "gn:dem":66,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7642928,
-    "gn:latitude":19.91962,
-    "gn:longitude":110.28337,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Bochang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.26337,19.89962,110.30337,19.93962",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u535a\u660c",
-        "Sanqing"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.28337,19.91962,110.28337,19.91962",
+    "geom:latitude": 19.91962,
+    "geom:longitude": 110.28337,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Bochang",
+    "gn:country_code": "CN",
+    "gn:dem": 66,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7642928,
+    "gn:latitude": 19.91962,
+    "gn:longitude": 110.28337,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Bochang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.26337,19.89962,110.30337,19.93962",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "博昌",
+      "Sanqing"
     ],
-    "name:zho_x_preferred":[
-        "\u535a\u660c"
+    "name:zho_x_preferred": [
+      "博昌"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732459
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      1108732459,
+      1127460105
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7642928
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7642928
     },
-    "wof:concordances_alt":{
-        "gn:id":[
-            1913812
-        ]
+    "wof:concordances_alt": {
+      "gn:id": [
+        1913812
+      ]
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c27743f90e8ca8ee8be4d20320e4ad79",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732459,
-            "locality_id":1327469267,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c27743f90e8ca8ee8be4d20320e4ad79",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732459,
+        "locality_id": 1327469267,
+        "region_id": 85669759,
+        "localadmin_id": 1127460105
+      }
     ],
-    "wof:id":1327469267,
-    "wof:lastmodified":1706239478,
-    "wof:name":"Bochang",
-    "wof:parent_id":1108732459,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1344093935
+    "wof:id": 1327469267,
+    "wof:lastmodified": 1768671247,
+    "wof:name": "Bochang",
+    "wof:parent_id": 1127460105,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1344093935
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     110.28337,
     19.91962,
     110.28337,
     19.91962
-],
-  "geometry": {"coordinates":[110.28337000000001,19.91962],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.28337,
+      19.91962
+    ],
+    "type": "Point"
+  }
 }

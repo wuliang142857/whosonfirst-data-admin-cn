@@ -2,75 +2,83 @@
   "id": 1225947215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.51956,27.84059,120.51956,27.84059",
-    "geom:latitude":27.84059,
-    "geom:longitude":120.51956,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Hengtang",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11181939,
-    "gn:latitude":27.84059,
-    "gn:longitude":120.51956,
-    "gn:modification_date":"2016-06-06",
-    "gn:name":"Hengtang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.49956,27.82059,120.53956,27.86059",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6a2a\u5858"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.51956,27.84059,120.51956,27.84059",
+    "geom:latitude": 27.84059,
+    "geom:longitude": 120.51956,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Hengtang",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11181939,
+    "gn:latitude": 27.84059,
+    "gn:longitude": 120.51956,
+    "gn:modification_date": "2016-06-06",
+    "gn:name": "Hengtang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.49956,27.82059,120.53956,27.86059",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "横塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      890515711
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11181939
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11181939
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c03d241d4c463063507c820d60302579",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1225947215,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c03d241d4c463063507c820d60302579",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1225947215,
+        "region_id": 85669835,
+        "localadmin_id": 890515711
+      }
     ],
-    "wof:id":1225947215,
-    "wof:lastmodified":1566700743,
-    "wof:name":"Hengtang",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225947215,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Hengtang",
+    "wof:parent_id": 890515711,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.51956,
     27.84059,
     120.51956,
     27.84059
-],
-  "geometry": {"coordinates":[120.51956,27.84059],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.51956,
+      27.84059
+    ],
+    "type": "Point"
+  }
 }

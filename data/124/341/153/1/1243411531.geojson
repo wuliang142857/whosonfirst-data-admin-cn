@@ -2,75 +2,83 @@
   "id": 1243411531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.644,34.783,118.644,34.783",
-    "geom:latitude":34.783,
-    "geom:longitude":118.644,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Dongdayuke",
-    "gn:country_code":"CN",
-    "gn:dem":36,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9123068,
-    "gn:latitude":34.783,
-    "gn:longitude":118.644,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Dongdayuke",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.624,34.763,118.664,34.803",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u5927\u4e8e\u79d1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.644,34.783,118.644,34.783",
+    "geom:latitude": 34.783,
+    "geom:longitude": 118.644,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Dongdayuke",
+    "gn:country_code": "CN",
+    "gn:dem": 36,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9123068,
+    "gn:latitude": 34.783,
+    "gn:longitude": 118.644,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Dongdayuke",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.624,34.763,118.664,34.803",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东大于科"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      1108732339,
+      1127371329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9123068
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9123068
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dad5c775e4b76f22ac6c3beee9c4e251",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1243411531,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dad5c775e4b76f22ac6c3beee9c4e251",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1243411531,
+        "region_id": 85669813,
+        "localadmin_id": 1127371329
+      }
     ],
-    "wof:id":1243411531,
-    "wof:lastmodified":1566695283,
-    "wof:name":"Dongdayuke",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243411531,
+    "wof:lastmodified": 1768668426,
+    "wof:name": "Dongdayuke",
+    "wof:parent_id": 1127371329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.644,
     34.783,
     118.644,
     34.783
-],
-  "geometry": {"coordinates":[118.64400000000001,34.783],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.644,
+      34.783
+    ],
+    "type": "Point"
+  }
 }

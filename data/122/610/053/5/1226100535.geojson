@@ -2,72 +2,80 @@
   "id": 1226100535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.33083,40.05889,116.33083,40.05889",
-    "geom:latitude":40.05889,
-    "geom:longitude":116.33083,
-    "gn:admin1_code":"22",
-    "gn:asciiname":"Huangtudian",
-    "gn:country_code":"CN",
-    "gn:dem":49,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2036724,
-    "gn:latitude":40.05889,
-    "gn:longitude":116.33083,
-    "gn:modification_date":"2001-02-09",
-    "gn:name":"Huangtudian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.31083,40.03889,116.35083,40.07889",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.33083,40.05889,116.33083,40.05889",
+    "geom:latitude": 40.05889,
+    "geom:longitude": 116.33083,
+    "gn:admin1_code": "22",
+    "gn:asciiname": "Huangtudian",
+    "gn:country_code": "CN",
+    "gn:dem": 49,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2036724,
+    "gn:latitude": 40.05889,
+    "gn:longitude": 116.33083,
+    "gn:modification_date": "2001-02-09",
+    "gn:name": "Huangtudian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.31083,40.03889,116.35083,40.07889",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890515303,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2036724
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2036724
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e2b4482966c3e6637690cf66628c4aa1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1226100535,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e2b4482966c3e6637690cf66628c4aa1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1226100535,
+        "region_id": 85669727,
+        "localadmin_id": 890515303
+      }
     ],
-    "wof:id":1226100535,
-    "wof:lastmodified":1566701179,
-    "wof:name":"Huangtudian",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226100535,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Huangtudian",
+    "wof:parent_id": 890515303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.33083,
     40.05889000000001,
     116.33083,
     40.05889000000001
-],
-  "geometry": {"coordinates":[116.33083000000001,40.05889000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.33083,
+      40.05889000000001
+    ],
+    "type": "Point"
+  }
 }

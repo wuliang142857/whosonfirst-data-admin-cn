@@ -2,75 +2,83 @@
   "id": 1276925215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.692,31.641,106.692,31.641",
-    "geom:latitude":31.641,
-    "geom:longitude":106.692,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Lianmeng",
-    "gn:country_code":"CN",
-    "gn:dem":472,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10160399,
-    "gn:latitude":31.641,
-    "gn:longitude":106.692,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Lianmeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.672,31.621,106.712,31.661",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8054\u76df"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.692,31.641,106.692,31.641",
+    "geom:latitude": 31.641,
+    "geom:longitude": 106.692,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Lianmeng",
+    "gn:country_code": "CN",
+    "gn:dem": 472,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10160399,
+    "gn:latitude": 31.641,
+    "gn:longitude": 106.692,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Lianmeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.672,31.621,106.712,31.661",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "联盟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732413
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      1108732413,
+      1127511903
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10160399
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10160399
     },
-    "wof:country":"CN",
-    "wof:geomhash":"43d04dad91d1809906514e6d28821442",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732413,
-            "empire_id":136253041,
-            "locality_id":1276925215,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "43d04dad91d1809906514e6d28821442",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732413,
+        "empire_id": 136253041,
+        "locality_id": 1276925215,
+        "region_id": 85669787,
+        "localadmin_id": 1127511903
+      }
     ],
-    "wof:id":1276925215,
-    "wof:lastmodified":1566674758,
-    "wof:name":"Lianmeng",
-    "wof:parent_id":1108732413,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276925215,
+    "wof:lastmodified": 1768668313,
+    "wof:name": "Lianmeng",
+    "wof:parent_id": 1127511903,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.692,
     31.641,
     106.692,
     31.641
-],
-  "geometry": {"coordinates":[106.69199999999999,31.641],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.692,
+      31.641
+    ],
+    "type": "Point"
+  }
 }

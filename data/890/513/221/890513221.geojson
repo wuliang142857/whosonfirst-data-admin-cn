@@ -2,81 +2,280 @@
   "id": 890513221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.011154,34.317919,109.011154,34.317919",
-    "geom:latitude":34.317919,
-    "geom:longitude":109.011154,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"108.911154,34.217919,109.111154,34.417919",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Gaoling"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000273535029,
+    "geom:area_square_m": 273535028.56,
+    "geom:bbox": "108.950814,34.423435,109.172369,34.597154",
+    "geom:latitude": 34.510295,
+    "geom:longitude": 109.061591,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "108.96159,34.41029,109.16159,34.6103",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Gaoling"
     ],
-    "name:eng_x_variant":[
-        "Gaoling County"
+    "name:eng_x_variant": [
+      "Gaoling County"
     ],
-    "name:zho_x_preferred":[
-        "\u9ad8\u9675\u53bf"
+    "name:zho_x_preferred": [
+      "高陵县"
     ],
-    "qs:name":"\u9ad8\u9675\u53bf",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u965d\u897f\u7701",
-    "qs:photos":186,
-    "qs:photos_1k":38,
-    "qs:photos_9k":1,
-    "qs:photos_9r":4,
-    "qs:photos_all":186,
-    "qs:photos_sr":4,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890515687,
-        136253041,
-        85669769
+    "qs:name": "高陵县",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "陝西省",
+    "qs:photos": 186,
+    "qs:photos_1k": 38,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 4,
+    "qs:photos_all": 186,
+    "qs:photos_sr": 4,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      890515687,
+      136253041,
+      85669769
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12687181,
-        "qs_pg:id":1250823
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12687181,
+      "qs_pg:id": 1250823,
+      "gb:id": "156610117"
     },
-    "wof:country":"CN",
-    "wof:created":1469055807,
-    "wof:geomhash":"eaacc3b8da9c08ad04d131c039dd44b1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "localadmin_id":890513221,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055807,
+    "wof:geomhash": "eaacc3b8da9c08ad04d131c039dd44b1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "localadmin_id": 890513221,
+        "region_id": 85669769
+      }
     ],
-    "wof:id":890513221,
-    "wof:lastmodified":1601422997,
-    "wof:name":"Gaoling",
-    "wof:parent_id":890515687,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890513221,
+    "wof:lastmodified": 1768664152,
+    "wof:name": "高陵区",
+    "wof:parent_id": 890515687,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    109.011154,
-    34.317919,
-    109.011154,
-    34.317919
-],
-  "geometry": {"coordinates":[109.011154,34.317919],"type":"Point"}
+    108.950814,
+    34.423435,
+    109.172369,
+    34.597154
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            109.125775,
+            34.583614
+          ],
+          [
+            109.136159,
+            34.558004
+          ],
+          [
+            109.158646,
+            34.53488
+          ],
+          [
+            109.160418,
+            34.522507
+          ],
+          [
+            109.152988,
+            34.521083
+          ],
+          [
+            109.153186,
+            34.511293
+          ],
+          [
+            109.154358,
+            34.50383
+          ],
+          [
+            109.157608,
+            34.507406
+          ],
+          [
+            109.162815,
+            34.501438
+          ],
+          [
+            109.170232,
+            34.458755
+          ],
+          [
+            109.16568,
+            34.454874
+          ],
+          [
+            109.172369,
+            34.445219
+          ],
+          [
+            109.166198,
+            34.433494
+          ],
+          [
+            109.155718,
+            34.444934
+          ],
+          [
+            109.13423,
+            34.424567
+          ],
+          [
+            109.127627,
+            34.423895
+          ],
+          [
+            109.113663,
+            34.434779
+          ],
+          [
+            109.106602,
+            34.430386
+          ],
+          [
+            109.099453,
+            34.434925
+          ],
+          [
+            109.080974,
+            34.434223
+          ],
+          [
+            109.062757,
+            34.45983
+          ],
+          [
+            109.055977,
+            34.452325
+          ],
+          [
+            109.021549,
+            34.437406
+          ],
+          [
+            108.986103,
+            34.434679
+          ],
+          [
+            108.956725,
+            34.423435
+          ],
+          [
+            108.951949,
+            34.446016
+          ],
+          [
+            108.951224,
+            34.448758
+          ],
+          [
+            108.960515,
+            34.450393
+          ],
+          [
+            108.965386,
+            34.444402
+          ],
+          [
+            108.969914,
+            34.445997
+          ],
+          [
+            108.966812,
+            34.460469
+          ],
+          [
+            108.972883,
+            34.489946
+          ],
+          [
+            108.967197,
+            34.545203
+          ],
+          [
+            108.958169,
+            34.551238
+          ],
+          [
+            108.950814,
+            34.564069
+          ],
+          [
+            108.955683,
+            34.570188
+          ],
+          [
+            108.976398,
+            34.572561
+          ],
+          [
+            108.980861,
+            34.580885
+          ],
+          [
+            108.998589,
+            34.57898
+          ],
+          [
+            109.006096,
+            34.586694
+          ],
+          [
+            109.043711,
+            34.597154
+          ],
+          [
+            109.071891,
+            34.595087
+          ],
+          [
+            109.074803,
+            34.58724
+          ],
+          [
+            109.084723,
+            34.590019
+          ],
+          [
+            109.098301,
+            34.577155
+          ],
+          [
+            109.125469,
+            34.580558
+          ],
+          [
+            109.125775,
+            34.583614
+          ]
+        ]
+      ]
+    ]
+  }
 }

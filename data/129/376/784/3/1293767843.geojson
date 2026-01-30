@@ -2,84 +2,92 @@
   "id": 1293767843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.1,34.86667,114.1,34.86667",
-    "geom:latitude":34.86667,
-    "geom:longitude":114.1,
-    "gn:admin1_code":"09",
-    "gn:asciiname":"Guandu",
-    "gn:country_code":"CN",
-    "gn:dem":80,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1809958,
-    "gn:latitude":34.86667,
-    "gn:longitude":114.1,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Guandu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.08,34.84667,114.12,34.88667",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Guandu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.1,34.86667,114.1,34.86667",
+    "geom:latitude": 34.86667,
+    "geom:longitude": 114.1,
+    "gn:admin1_code": "09",
+    "gn:asciiname": "Guandu",
+    "gn:country_code": "CN",
+    "gn:dem": 80,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1809958,
+    "gn:latitude": 34.86667,
+    "gn:longitude": 114.1,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Guandu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.08,34.84667,114.12,34.88667",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Guandu"
     ],
-    "name:deu_x_preferred":[
-        "Guandu"
+    "name:deu_x_preferred": [
+      "Guandu"
     ],
-    "name:fra_x_preferred":[
-        "Guandu"
+    "name:fra_x_preferred": [
+      "Guandu"
     ],
-    "name:por_x_preferred":[
-        "Guandu"
+    "name:por_x_preferred": [
+      "Guandu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515627
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513849,
+      890515627
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1809958
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1809958
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7278b294c85cb66275e33542c0fb54b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515627,
-            "empire_id":136253041,
-            "locality_id":1293767843,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7278b294c85cb66275e33542c0fb54b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515627,
+        "empire_id": 136253041,
+        "locality_id": 1293767843,
+        "region_id": 85669801,
+        "localadmin_id": 890513849
+      }
     ],
-    "wof:id":1293767843,
-    "wof:lastmodified":1566668152,
-    "wof:name":"Guandu",
-    "wof:parent_id":890515627,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293767843,
+    "wof:lastmodified": 1768669309,
+    "wof:name": "Guandu",
+    "wof:parent_id": 890513849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.1,
     34.86667,
     114.1,
     34.86667
-],
-  "geometry": {"coordinates":[114.09999999999999,34.86667],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.1,
+      34.86667
+    ],
+    "type": "Point"
+  }
 }

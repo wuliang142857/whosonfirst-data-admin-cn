@@ -2,78 +2,86 @@
   "id": 1327388705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.27662,36.66582,109.27662,36.66582",
-    "geom:latitude":36.66582,
-    "geom:longitude":109.27662,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Wuzui",
-    "gn:country_code":"CN",
-    "gn:dem":1186,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11150355,
-    "gn:latitude":36.66582,
-    "gn:longitude":109.27662,
-    "gn:modification_date":"2016-12-06",
-    "gn:name":"Wuzui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.25662,36.64582,109.29662,36.68582",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5434\u5480"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.27662,36.66582,109.27662,36.66582",
+    "geom:latitude": 36.66582,
+    "geom:longitude": 109.27662,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Wuzui",
+    "gn:country_code": "CN",
+    "gn:dem": 1186,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11150355,
+    "gn:latitude": 36.66582,
+    "gn:longitude": 109.27662,
+    "gn:modification_date": "2016-12-06",
+    "gn:name": "Wuzui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.25662,36.64582,109.29662,36.68582",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "吴咀"
     ],
-    "name:zho_x_variant":[
-        "\u4e4c\u5634\u4e61"
+    "name:zho_x_variant": [
+      "乌嘴乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516587
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516587,
+      1127610603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11150355
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11150355
     },
-    "wof:country":"CN",
-    "wof:geomhash":"77ba75d870c3e673f846f518c982f4e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516587,
-            "empire_id":136253041,
-            "locality_id":1327388705,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "77ba75d870c3e673f846f518c982f4e4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516587,
+        "empire_id": 136253041,
+        "locality_id": 1327388705,
+        "region_id": 85669769,
+        "localadmin_id": 1127610603
+      }
     ],
-    "wof:id":1327388705,
-    "wof:lastmodified":1566647389,
-    "wof:name":"Wuzui",
-    "wof:parent_id":890516587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327388705,
+    "wof:lastmodified": 1768667665,
+    "wof:name": "Wuzui",
+    "wof:parent_id": 1127610603,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.27662,
     36.66582,
     109.27662,
     36.66582
-],
-  "geometry": {"coordinates":[109.27661999999999,36.66582],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.27662,
+      36.66582
+    ],
+    "type": "Point"
+  }
 }

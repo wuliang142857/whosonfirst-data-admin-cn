@@ -2,75 +2,83 @@
   "id": 1310493011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.85738,25.10681,118.85738,25.10681",
-    "geom:latitude":25.10681,
-    "geom:longitude":118.85738,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Zhongcuo",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10982135,
-    "gn:latitude":25.10681,
-    "gn:longitude":118.85738,
-    "gn:modification_date":"2015-12-08",
-    "gn:name":"Zhongcuo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.83738,25.08681,118.87738,25.12681",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u949f\u539d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.85738,25.10681,118.85738,25.10681",
+    "geom:latitude": 25.10681,
+    "geom:longitude": 118.85738,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Zhongcuo",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10982135,
+    "gn:latitude": 25.10681,
+    "gn:longitude": 118.85738,
+    "gn:modification_date": "2015-12-08",
+    "gn:name": "Zhongcuo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.83738,25.08681,118.87738,25.12681",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "钟厝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514127,
+      1127350505
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10982135
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10982135
     },
-    "wof:country":"CN",
-    "wof:geomhash":"70e41f53050ae156ac93551cb05fc9d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1310493011,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "70e41f53050ae156ac93551cb05fc9d0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1310493011,
+        "region_id": 85669735,
+        "localadmin_id": 1127350505
+      }
     ],
-    "wof:id":1310493011,
-    "wof:lastmodified":1566688497,
-    "wof:name":"Zhongcuo",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310493011,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Zhongcuo",
+    "wof:parent_id": 1127350505,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.85738,
     25.10681,
     118.85738,
     25.10681
-],
-  "geometry": {"coordinates":[118.85738000000001,25.10681],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.85738,
+      25.10681
+    ],
+    "type": "Point"
+  }
 }

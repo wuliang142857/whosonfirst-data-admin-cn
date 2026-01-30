@@ -2,78 +2,86 @@
   "id": 1260076091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.12283,24.89995,118.12283,24.89995",
-    "geom:latitude":24.89995,
-    "geom:longitude":118.12283,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Waipu",
-    "gn:country_code":"CN",
-    "gn:dem":837,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1975896,
-    "gn:latitude":24.89995,
-    "gn:longitude":118.12283,
-    "gn:modification_date":"2013-08-08",
-    "gn:name":"Waipu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.10283,24.87995,118.14283,24.91995",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Waipu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.12283,24.89995,118.12283,24.89995",
+    "geom:latitude": 24.89995,
+    "geom:longitude": 118.12283,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Waipu",
+    "gn:country_code": "CN",
+    "gn:dem": 837,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1975896,
+    "gn:latitude": 24.89995,
+    "gn:longitude": 118.12283,
+    "gn:modification_date": "2013-08-08",
+    "gn:name": "Waipu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.10283,24.87995,118.14283,24.91995",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Waipu"
     ],
-    "name:zho_x_preferred":[
-        "\u5916\u57d4"
+    "name:zho_x_preferred": [
+      "外埔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514127,
+      1127350524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1975896
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1975896
     },
-    "wof:country":"CN",
-    "wof:geomhash":"29da35d4074512233c3ea4e2b57dd70f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1260076091,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "29da35d4074512233c3ea4e2b57dd70f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1260076091,
+        "region_id": 85669735,
+        "localadmin_id": 1127350524
+      }
     ],
-    "wof:id":1260076091,
-    "wof:lastmodified":1566686690,
-    "wof:name":"Waipu",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260076091,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Waipu",
+    "wof:parent_id": 1127350524,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.12283,
     24.89995,
     118.12283,
     24.89995
-],
-  "geometry": {"coordinates":[118.12282999999999,24.89995],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.12283,
+      24.89995
+    ],
+    "type": "Point"
+  }
 }

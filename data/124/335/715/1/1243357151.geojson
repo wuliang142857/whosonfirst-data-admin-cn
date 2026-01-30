@@ -2,81 +2,89 @@
   "id": 1243357151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.83616,25.17948,118.83616,25.17948",
-    "geom:latitude":25.17948,
-    "geom:longitude":118.83616,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Tuling",
-    "gn:country_code":"CN",
-    "gn:dem":44,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1792396,
-    "gn:latitude":25.17948,
-    "gn:longitude":118.83616,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Tuling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.81616,25.15948,118.85616,25.19948",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019o-ling",
-        "Tuting",
-        "Tuling"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.83616,25.17948,118.83616,25.17948",
+    "geom:latitude": 25.17948,
+    "geom:longitude": 118.83616,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Tuling",
+    "gn:country_code": "CN",
+    "gn:dem": 44,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1792396,
+    "gn:latitude": 25.17948,
+    "gn:longitude": 118.83616,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Tuling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.81616,25.15948,118.85616,25.19948",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’o-ling",
+      "Tuting",
+      "Tuling"
     ],
-    "name:zho_x_preferred":[
-        "\u6d82\u5cad\u9547"
+    "name:zho_x_preferred": [
+      "涂岭镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514127,
+      1127350505
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1792396,
-        "wk:page":"Tuling"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1792396,
+      "wk:page": "Tuling"
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a16ac388c2a696d5de06bb874af2a665",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1243357151,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a16ac388c2a696d5de06bb874af2a665",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1243357151,
+        "region_id": 85669735,
+        "localadmin_id": 1127350505
+      }
     ],
-    "wof:id":1243357151,
-    "wof:lastmodified":1566696131,
-    "wof:name":"Tuling",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243357151,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Tuling",
+    "wof:parent_id": 1127350505,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.83616,
     25.17948,
     118.83616,
     25.17948
-],
-  "geometry": {"coordinates":[118.83616000000001,25.17948],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.83616,
+      25.17948
+    ],
+    "type": "Point"
+  }
 }

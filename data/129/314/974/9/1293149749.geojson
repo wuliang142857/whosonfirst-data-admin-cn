@@ -2,75 +2,83 @@
   "id": 1293149749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.317,31.0401,100.317,31.0401",
-    "geom:latitude":31.0401,
-    "geom:longitude":100.317,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Simiao",
-    "gn:country_code":"CN",
-    "gn:dem":3263,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10207855,
-    "gn:latitude":31.0401,
-    "gn:longitude":100.317,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Simiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.297,31.0201,100.337,31.0601",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5bfa\u5e99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.317,31.0401,100.317,31.0401",
+    "geom:latitude": 31.0401,
+    "geom:longitude": 100.317,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Simiao",
+    "gn:country_code": "CN",
+    "gn:dem": 3263,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10207855,
+    "gn:latitude": 31.0401,
+    "gn:longitude": 100.317,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Simiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.297,31.0201,100.337,31.0601",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "寺庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10207855
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10207855
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d1cf2363eeb9c5b9f22110c5e3e52be0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1293149749,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d1cf2363eeb9c5b9f22110c5e3e52be0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1293149749,
+        "region_id": 85669787,
+        "localadmin_id": 1127513329
+      }
     ],
-    "wof:id":1293149749,
-    "wof:lastmodified":1566668534,
-    "wof:name":"Simiao",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293149749,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Simiao",
+    "wof:parent_id": 1127513329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.317,
     31.0401,
     100.317,
     31.0401
-],
-  "geometry": {"coordinates":[100.31699999999999,31.0401],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.317,
+      31.0401
+    ],
+    "type": "Point"
+  }
 }

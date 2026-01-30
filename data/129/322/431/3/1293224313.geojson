@@ -2,75 +2,83 @@
   "id": 1293224313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.849,33.7854,118.849,33.7854",
-    "geom:latitude":33.7854,
-    "geom:longitude":118.849,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Yangxu",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11093885,
-    "gn:latitude":33.7854,
-    "gn:longitude":118.849,
-    "gn:modification_date":"2016-03-12",
-    "gn:name":"Yangxu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.829,33.7654,118.869,33.8054",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u5729"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.849,33.7854,118.849,33.7854",
+    "geom:latitude": 33.7854,
+    "geom:longitude": 118.849,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Yangxu",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11093885,
+    "gn:latitude": 33.7854,
+    "gn:longitude": 118.849,
+    "gn:modification_date": "2016-03-12",
+    "gn:name": "Yangxu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.829,33.7654,118.869,33.8054",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨圩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        1108732465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890517071,
+      1108732465
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11093885
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11093885
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6a0714d86de1ab9fa0f5ab6751cdd7b4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732465,
-            "empire_id":136253041,
-            "locality_id":1293224313,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6a0714d86de1ab9fa0f5ab6751cdd7b4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732465,
+        "empire_id": 136253041,
+        "locality_id": 1293224313,
+        "region_id": 85669827,
+        "localadmin_id": 890517071
+      }
     ],
-    "wof:id":1293224313,
-    "wof:lastmodified":1566668554,
-    "wof:name":"Yangxu",
-    "wof:parent_id":1108732465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293224313,
+    "wof:lastmodified": 1768670871,
+    "wof:name": "Yangxu",
+    "wof:parent_id": 890517071,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.849,
     33.7854,
     118.849,
     33.7854
-],
-  "geometry": {"coordinates":[118.849,33.7854],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.849,
+      33.7854
+    ],
+    "type": "Point"
+  }
 }

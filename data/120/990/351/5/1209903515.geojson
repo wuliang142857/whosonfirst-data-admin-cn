@@ -2,80 +2,88 @@
   "id": 1209903515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.50333,25.64833,111.50333,25.64833",
-    "geom:latitude":25.64833,
-    "geom:longitude":111.50333,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Lefutang",
-    "gn:country_code":"CN",
-    "gn:dem":380,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":6422363,
-    "gn:latitude":25.64833,
-    "gn:longitude":111.50333,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Lefutang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.48333,25.62833,111.52333,25.66833",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lefutang Xiang",
-        "\u4e50\u798f\u5802\u4e61",
-        "Lefutang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.50333,25.64833,111.50333,25.64833",
+    "geom:latitude": 25.64833,
+    "geom:longitude": 111.50333,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Lefutang",
+    "gn:country_code": "CN",
+    "gn:dem": 380,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 6422363,
+    "gn:latitude": 25.64833,
+    "gn:longitude": 111.50333,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Lefutang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.48333,25.62833,111.52333,25.66833",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lefutang Xiang",
+      "乐福堂乡",
+      "Lefutang"
     ],
-    "name:zho_x_preferred":[
-        "\u4e50\u798f\u5802"
+    "name:zho_x_preferred": [
+      "乐福堂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515001
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515001,
+      1127431124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6422363
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6422363
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1b1c431d1f129a3c4e4fe63b3b4d87c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515001,
-            "empire_id":136253041,
-            "locality_id":1209903515,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1b1c431d1f129a3c4e4fe63b3b4d87c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515001,
+        "empire_id": 136253041,
+        "locality_id": 1209903515,
+        "region_id": 85669781,
+        "localadmin_id": 1127431124
+      }
     ],
-    "wof:id":1209903515,
-    "wof:lastmodified":1566679969,
-    "wof:name":"Lefutang",
-    "wof:parent_id":890515001,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209903515,
+    "wof:lastmodified": 1768670293,
+    "wof:name": "Lefutang",
+    "wof:parent_id": 1127431124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.50333,
     25.64833,
     111.50333,
     25.64833
-],
-  "geometry": {"coordinates":[111.50333000000001,25.64833],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.50333,
+      25.64833
+    ],
+    "type": "Point"
+  }
 }

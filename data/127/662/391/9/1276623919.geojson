@@ -2,75 +2,83 @@
   "id": 1276623919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.818,25.1624,108.818,25.1624",
-    "geom:latitude":25.1624,
-    "geom:longitude":108.818,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Dongma",
-    "gn:country_code":"CN",
-    "gn:dem":599,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9941832,
-    "gn:latitude":25.1624,
-    "gn:longitude":108.818,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Dongma",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.798,25.1424,108.838,25.1824",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6d1e\u9a6c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.818,25.1624,108.818,25.1624",
+    "geom:latitude": 25.1624,
+    "geom:longitude": 108.818,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Dongma",
+    "gn:country_code": "CN",
+    "gn:dem": 599,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9941832,
+    "gn:latitude": 25.1624,
+    "gn:longitude": 108.818,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Dongma",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.798,25.1424,108.838,25.1824",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "洞马"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9941832
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9941832
     },
-    "wof:country":"CN",
-    "wof:geomhash":"819a143d7bc95904c02e3b4dbc7a3f65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1276623919,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "819a143d7bc95904c02e3b4dbc7a3f65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1276623919,
+        "region_id": 85669717,
+        "localadmin_id": 1127450225
+      }
     ],
-    "wof:id":1276623919,
-    "wof:lastmodified":1566677790,
-    "wof:name":"Dongma",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276623919,
+    "wof:lastmodified": 1768665482,
+    "wof:name": "Dongma",
+    "wof:parent_id": 1127450225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.818,
     25.1624,
     108.818,
     25.1624
-],
-  "geometry": {"coordinates":[108.818,25.1624],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.818,
+      25.1624
+    ],
+    "type": "Point"
+  }
 }

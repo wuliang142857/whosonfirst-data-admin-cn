@@ -2,75 +2,83 @@
   "id": 1226524945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.58,37.9362,102.58,37.9362",
-    "geom:latitude":37.9362,
-    "geom:longitude":102.58,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xujia Dazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":1541,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10647357,
-    "gn:latitude":37.9362,
-    "gn:longitude":102.58,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Xujia Dazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.56,37.9162,102.6,37.9562",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8bb8\u5bb6\u5927\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.58,37.9362,102.58,37.9362",
+    "geom:latitude": 37.9362,
+    "geom:longitude": 102.58,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xujia Dazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 1541,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10647357,
+    "gn:latitude": 37.9362,
+    "gn:longitude": 102.58,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Xujia Dazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.56,37.9162,102.6,37.9562",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "许家大庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516467,
+      1127620602
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10647357
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10647357
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a7bd49230c2aee9dde2ecc8d1f131c17",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1226524945,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a7bd49230c2aee9dde2ecc8d1f131c17",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1226524945,
+        "region_id": 85669711,
+        "localadmin_id": 1127620602
+      }
     ],
-    "wof:id":1226524945,
-    "wof:lastmodified":1566704861,
-    "wof:name":"Xujia Dazhuang",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226524945,
+    "wof:lastmodified": 1768665873,
+    "wof:name": "Xujia Dazhuang",
+    "wof:parent_id": 1127620602,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.58,
     37.9362,
     102.58,
     37.9362
-],
-  "geometry": {"coordinates":[102.58,37.9362],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.58,
+      37.9362
+    ],
+    "type": "Point"
+  }
 }

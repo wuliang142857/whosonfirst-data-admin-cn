@@ -2,78 +2,86 @@
   "id": 1226035525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"129.05686,44.13881,129.05686,44.13881",
-    "geom:latitude":44.13881,
-    "geom:longitude":129.05686,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Xi'ancun",
-    "gn:country_code":"CN",
-    "gn:dem":293,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11585930,
-    "gn:latitude":44.13881,
-    "gn:longitude":129.05686,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Xi\u2019ancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"129.03686,44.11881,129.07686,44.15881",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Xi\u2019ancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "129.05686,44.13881,129.05686,44.13881",
+    "geom:latitude": 44.13881,
+    "geom:longitude": 129.05686,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Xi'ancun",
+    "gn:country_code": "CN",
+    "gn:dem": 293,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11585930,
+    "gn:latitude": 44.13881,
+    "gn:longitude": 129.05686,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Xi’ancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "129.03686,44.11881,129.07686,44.15881",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Xi’ancun"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u5b89\u6751"
+    "name:zho_x_preferred": [
+      "西安村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890515915
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514221,
+      890515915
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11585930
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11585930
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e56484341603995d662b4267220acf7b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515915,
-            "empire_id":136253041,
-            "locality_id":1226035525,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e56484341603995d662b4267220acf7b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515915,
+        "empire_id": 136253041,
+        "locality_id": 1226035525,
+        "region_id": 85669849,
+        "localadmin_id": 890514221
+      }
     ],
-    "wof:id":1226035525,
-    "wof:lastmodified":1566702322,
-    "wof:name":"Xi'ancun",
-    "wof:parent_id":890515915,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226035525,
+    "wof:lastmodified": 1768669505,
+    "wof:name": "Xi'ancun",
+    "wof:parent_id": 890514221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     129.05686,
     44.13881,
     129.05686,
     44.13881
-],
-  "geometry": {"coordinates":[129.05686,44.13881],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      129.05686,
+      44.13881
+    ],
+    "type": "Point"
+  }
 }

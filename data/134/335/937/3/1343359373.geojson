@@ -2,75 +2,83 @@
   "id": 1343359373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.764,34.414,118.764,34.414",
-    "geom:latitude":34.414,
-    "geom:longitude":118.764,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Xumeng",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9816389,
-    "gn:latitude":34.414,
-    "gn:longitude":118.764,
-    "gn:modification_date":"2014-11-07",
-    "gn:name":"Xumeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.744,34.394,118.784,34.434",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f90\u5b5f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.764,34.414,118.764,34.414",
+    "geom:latitude": 34.414,
+    "geom:longitude": 118.764,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Xumeng",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9816389,
+    "gn:latitude": 34.414,
+    "gn:longitude": 118.764,
+    "gn:modification_date": "2014-11-07",
+    "gn:name": "Xumeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.744,34.394,118.784,34.434",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "徐孟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514777,
+      1127320722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9816389
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9816389
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b77f9d8b5814d74c17e9e76ecb80292c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514777,
-            "empire_id":136253041,
-            "locality_id":1343359373,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b77f9d8b5814d74c17e9e76ecb80292c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514777,
+        "empire_id": 136253041,
+        "locality_id": 1343359373,
+        "region_id": 85669827,
+        "localadmin_id": 1127320722
+      }
     ],
-    "wof:id":1343359373,
-    "wof:lastmodified":1566661318,
-    "wof:name":"Xumeng",
-    "wof:parent_id":890514777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343359373,
+    "wof:lastmodified": 1768670858,
+    "wof:name": "Xumeng",
+    "wof:parent_id": 1127320722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.764,
     34.414,
     118.764,
     34.414
-],
-  "geometry": {"coordinates":[118.764,34.414],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.764,
+      34.414
+    ],
+    "type": "Point"
+  }
 }

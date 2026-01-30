@@ -2,75 +2,83 @@
   "id": 1193237747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.711,32.5931,101.711,32.5931",
-    "geom:latitude":32.5931,
-    "geom:longitude":101.711,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Jiawo",
-    "gn:country_code":"CN",
-    "gn:dem":3110,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10202957,
-    "gn:latitude":32.5931,
-    "gn:longitude":101.711,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Jiawo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.691,32.5731,101.731,32.6131",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u52a0\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.711,32.5931,101.711,32.5931",
+    "geom:latitude": 32.5931,
+    "geom:longitude": 101.711,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Jiawo",
+    "gn:country_code": "CN",
+    "gn:dem": 3110,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10202957,
+    "gn:latitude": 32.5931,
+    "gn:longitude": 101.711,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Jiawo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.691,32.5731,101.731,32.6131",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "加窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794065
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512575,
+      1108794065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10202957
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10202957
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a406921379ed1e4a78678c5b7d45f9be",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794065,
-            "empire_id":136253041,
-            "locality_id":1193237747,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a406921379ed1e4a78678c5b7d45f9be",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794065,
+        "empire_id": 136253041,
+        "locality_id": 1193237747,
+        "region_id": 85669787,
+        "localadmin_id": 890512575
+      }
     ],
-    "wof:id":1193237747,
-    "wof:lastmodified":1566685067,
-    "wof:name":"Jiawo",
-    "wof:parent_id":1108794065,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193237747,
+    "wof:lastmodified": 1768668872,
+    "wof:name": "Jiawo",
+    "wof:parent_id": 890512575,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.711,
     32.5931,
     101.711,
     32.5931
-],
-  "geometry": {"coordinates":[101.711,32.5931],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.711,
+      32.5931
+    ],
+    "type": "Point"
+  }
 }

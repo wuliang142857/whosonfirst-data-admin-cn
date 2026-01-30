@@ -2,82 +2,90 @@
   "id": 1309986979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.81562,26.74424,113.81562,26.74424",
-    "geom:latitude":26.74424,
-    "geom:longitude":113.81562,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Lujiashan",
-    "gn:country_code":"CN",
-    "gn:dem":546,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8202017,
-    "gn:latitude":26.74424,
-    "gn:longitude":113.81562,
-    "gn:modification_date":"2012-02-29",
-    "gn:name":"L\u00fcjiashan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.79562,26.72424,113.83562,26.76424",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "L\u00fcjiashan",
-        "L\u00fcchuanshan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.81562,26.74424,113.81562,26.74424",
+    "geom:latitude": 26.74424,
+    "geom:longitude": 113.81562,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Lujiashan",
+    "gn:country_code": "CN",
+    "gn:dem": 546,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8202017,
+    "gn:latitude": 26.74424,
+    "gn:longitude": 113.81562,
+    "gn:modification_date": "2012-02-29",
+    "gn:name": "Lüjiashan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.79562,26.72424,113.83562,26.76424",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lüjiashan",
+      "Lüchuanshan"
     ],
-    "name:zho_x_preferred":[
-        "\u5415\u5bb6\u5c71"
+    "name:zho_x_preferred": [
+      "吕家山"
     ],
-    "name:zho_x_variant":[
-        "\u5415\u5ddd\u5c71"
+    "name:zho_x_variant": [
+      "吕川山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514759
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514759,
+      1127430224
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8202017
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8202017
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1e97e6d23cdfec143a99109ced2bcdc9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514759,
-            "empire_id":136253041,
-            "locality_id":1309986979,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1e97e6d23cdfec143a99109ced2bcdc9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514759,
+        "empire_id": 136253041,
+        "locality_id": 1309986979,
+        "region_id": 85669781,
+        "localadmin_id": 1127430224
+      }
     ],
-    "wof:id":1309986979,
-    "wof:lastmodified":1566692291,
-    "wof:name":"Lujiashan",
-    "wof:parent_id":890514759,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309986979,
+    "wof:lastmodified": 1768670455,
+    "wof:name": "Lujiashan",
+    "wof:parent_id": 1127430224,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.81562,
     26.74424,
     113.81562,
     26.74424
-],
-  "geometry": {"coordinates":[113.81562,26.74424],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.81562,
+      26.74424
+    ],
+    "type": "Point"
+  }
 }

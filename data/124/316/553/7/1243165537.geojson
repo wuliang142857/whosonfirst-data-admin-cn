@@ -2,82 +2,90 @@
   "id": 1243165537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.73333,39.38333,116.73333,39.38333",
-    "geom:latitude":39.38333,
-    "geom:longitude":116.73333,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Jiu'anci",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1805256,
-    "gn:latitude":39.38333,
-    "gn:longitude":116.73333,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Jiu\u2019anci",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.71333,39.36333,116.75333,39.40333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "An-tz\u2019u-hsien",
-        "Tung-an",
-        "Chiu-an-tz\u2019u",
-        "An-ts\u2019u",
-        "Antze",
-        "An\u2019tso",
-        "An-tz\u2019u",
-        "Jiu\u2019anci"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.73333,39.38333,116.73333,39.38333",
+    "geom:latitude": 39.38333,
+    "geom:longitude": 116.73333,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Jiu'anci",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1805256,
+    "gn:latitude": 39.38333,
+    "gn:longitude": 116.73333,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Jiu’anci",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.71333,39.36333,116.75333,39.40333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "An-tz’u-hsien",
+      "Tung-an",
+      "Chiu-an-tz’u",
+      "An-ts’u",
+      "Antze",
+      "An’tso",
+      "An-tz’u",
+      "Jiu’anci"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516977
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516977,
+      1127131002
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1805256
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1805256
     },
-    "wof:country":"CN",
-    "wof:geomhash":"20af4eb572772a81a092ed0dd62ff22d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516977,
-            "empire_id":136253041,
-            "locality_id":1243165537,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "20af4eb572772a81a092ed0dd62ff22d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516977,
+        "empire_id": 136253041,
+        "locality_id": 1243165537,
+        "region_id": 85669797,
+        "localadmin_id": 1127131002
+      }
     ],
-    "wof:id":1243165537,
-    "wof:lastmodified":1566697427,
-    "wof:name":"Jiu'anci",
-    "wof:parent_id":890516977,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243165537,
+    "wof:lastmodified": 1768669016,
+    "wof:name": "Jiu'anci",
+    "wof:parent_id": 1127131002,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.73333,
     39.38333,
     116.73333,
     39.38333
-],
-  "geometry": {"coordinates":[116.73333,39.38333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.73333,
+      39.38333
+    ],
+    "type": "Point"
+  }
 }

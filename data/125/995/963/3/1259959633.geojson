@@ -2,75 +2,83 @@
   "id": 1259959633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.4696,31.42748,111.4696,31.42748",
-    "geom:latitude":31.42748,
-    "geom:longitude":111.4696,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Cuiwan",
-    "gn:country_code":"CN",
-    "gn:dem":1065,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8519501,
-    "gn:latitude":31.42748,
-    "gn:longitude":111.4696,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Cuiwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.4496,31.40748,111.4896,31.44748",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7fe0\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.4696,31.42748,111.4696,31.42748",
+    "geom:latitude": 31.42748,
+    "geom:longitude": 111.4696,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Cuiwan",
+    "gn:country_code": "CN",
+    "gn:dem": 1065,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8519501,
+    "gn:latitude": 31.42748,
+    "gn:longitude": 111.4696,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Cuiwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.4496,31.40748,111.4896,31.44748",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "翠湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514139,
+      1108732497
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8519501
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8519501
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f4c11098d1bd5094afd81cac8349329d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1259959633,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f4c11098d1bd5094afd81cac8349329d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1259959633,
+        "region_id": 85669777,
+        "localadmin_id": 890514139
+      }
     ],
-    "wof:id":1259959633,
-    "wof:lastmodified":1566699417,
-    "wof:name":"Cuiwan",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259959633,
+    "wof:lastmodified": 1768665619,
+    "wof:name": "Cuiwan",
+    "wof:parent_id": 890514139,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.4696,
     31.42748,
     111.4696,
     31.42748
-],
-  "geometry": {"coordinates":[111.4696,31.42748],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.4696,
+      31.42748
+    ],
+    "type": "Point"
+  }
 }

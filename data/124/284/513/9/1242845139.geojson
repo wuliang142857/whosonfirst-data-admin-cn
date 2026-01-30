@@ -2,75 +2,83 @@
   "id": 1242845139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"88.8711,27.5209,88.8711,27.5209",
-    "geom:latitude":27.5209,
-    "geom:longitude":88.8711,
-    "gn:admin1_code":"14",
-    "gn:asciiname":"Jiangzileguo",
-    "gn:country_code":"CN",
-    "gn:dem":3537,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9102351,
-    "gn:latitude":27.5209,
-    "gn:longitude":88.8711,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Jiangzileguo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"88.8511,27.5009,88.8911,27.5409",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c5f\u5b5c\u52d2\u679c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "88.8711,27.5209,88.8711,27.5209",
+    "geom:latitude": 27.5209,
+    "geom:longitude": 88.8711,
+    "gn:admin1_code": "14",
+    "gn:asciiname": "Jiangzileguo",
+    "gn:country_code": "CN",
+    "gn:dem": 3537,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9102351,
+    "gn:latitude": 27.5209,
+    "gn:longitude": 88.8711,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Jiangzileguo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "88.8511,27.5009,88.8911,27.5409",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "江孜勒果"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890516395,
+      1127540233
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9102351
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9102351
     },
-    "wof:country":"CN",
-    "wof:geomhash":"97498f1ae439bb081247fcf874eb31db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1242845139,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "97498f1ae439bb081247fcf874eb31db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1242845139,
+        "region_id": 85669747,
+        "localadmin_id": 1127540233
+      }
     ],
-    "wof:id":1242845139,
-    "wof:lastmodified":1566696588,
-    "wof:name":"Jiangzileguo",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242845139,
+    "wof:lastmodified": 1768665596,
+    "wof:name": "Jiangzileguo",
+    "wof:parent_id": 1127540233,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     88.8711,
     27.5209,
     88.8711,
     27.5209
-],
-  "geometry": {"coordinates":[88.8711,27.5209],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      88.8711,
+      27.5209
+    ],
+    "type": "Point"
+  }
 }

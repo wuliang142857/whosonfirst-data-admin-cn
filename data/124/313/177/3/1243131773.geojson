@@ -2,80 +2,88 @@
   "id": 1243131773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.95177,30.92897,101.95177,30.92897",
-    "geom:latitude":30.92897,
-    "geom:longitude":101.95177,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yuezha",
-    "gn:country_code":"CN",
-    "gn:dem":2007,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1785540,
-    "gn:latitude":30.92897,
-    "gn:longitude":101.95177,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Yuezha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.93177,30.90897,101.97177,30.94897",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Y\u00fceh-cha",
-        "Yuza",
-        "Yuezha"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.95177,30.92897,101.95177,30.92897",
+    "geom:latitude": 30.92897,
+    "geom:longitude": 101.95177,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yuezha",
+    "gn:country_code": "CN",
+    "gn:dem": 2007,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1785540,
+    "gn:latitude": 30.92897,
+    "gn:longitude": 101.95177,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Yuezha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.93177,30.90897,101.97177,30.94897",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yüeh-cha",
+      "Yuza",
+      "Yuezha"
     ],
-    "name:zho_x_preferred":[
-        "\u5cb3\u624e"
+    "name:zho_x_preferred": [
+      "岳扎"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513399,
+      890514703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1785540
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1785540
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7fbca52973e10f54b9301a9c553058c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1243131773,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7fbca52973e10f54b9301a9c553058c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1243131773,
+        "region_id": 85669787,
+        "localadmin_id": 890513399
+      }
     ],
-    "wof:id":1243131773,
-    "wof:lastmodified":1566695680,
-    "wof:name":"Yuezha",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243131773,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Yuezha",
+    "wof:parent_id": 890513399,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.95177,
     30.92897,
     101.95177,
     30.92897
-],
-  "geometry": {"coordinates":[101.95177,30.92897],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.95177,
+      30.92897
+    ],
+    "type": "Point"
+  }
 }

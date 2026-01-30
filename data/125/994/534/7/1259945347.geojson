@@ -2,75 +2,83 @@
   "id": 1259945347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.38,38.8489,121.38,38.8489",
-    "geom:latitude":38.8489,
-    "geom:longitude":121.38,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Litanggou",
-    "gn:country_code":"CN",
-    "gn:dem":106,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11481273,
-    "gn:latitude":38.8489,
-    "gn:longitude":121.38,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Litanggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.36,38.8289,121.4,38.8689",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u5858\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.38,38.8489,121.38,38.8489",
+    "geom:latitude": 38.8489,
+    "geom:longitude": 121.38,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Litanggou",
+    "gn:country_code": "CN",
+    "gn:dem": 106,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11481273,
+    "gn:latitude": 38.8489,
+    "gn:longitude": 121.38,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Litanggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.36,38.8289,121.4,38.8689",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李塘沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210212
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11481273
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11481273
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6878f99a4fcddcb89688f80b8d80433d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1259945347,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6878f99a4fcddcb89688f80b8d80433d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1259945347,
+        "region_id": 85669807,
+        "localadmin_id": 1127210212
+      }
     ],
-    "wof:id":1259945347,
-    "wof:lastmodified":1566699877,
-    "wof:name":"Litanggou",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259945347,
+    "wof:lastmodified": 1768665991,
+    "wof:name": "Litanggou",
+    "wof:parent_id": 1127210212,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.38,
     38.8489,
     121.38,
     38.8489
-],
-  "geometry": {"coordinates":[121.38,38.8489],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.38,
+      38.8489
+    ],
+    "type": "Point"
+  }
 }

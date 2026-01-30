@@ -2,75 +2,83 @@
   "id": 1260088687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.11515,30.20847,121.11515,30.20847",
-    "geom:latitude":30.20847,
-    "geom:longitude":121.11515,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Xintangtou",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7523456,
-    "gn:latitude":30.20847,
-    "gn:longitude":121.11515,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xintangtou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.09515,30.18847,121.13515,30.22847",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u65b0\u5858\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.11515,30.20847,121.11515,30.20847",
+    "geom:latitude": 30.20847,
+    "geom:longitude": 121.11515,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Xintangtou",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7523456,
+    "gn:latitude": 30.20847,
+    "gn:longitude": 121.11515,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xintangtou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.09515,30.18847,121.13515,30.22847",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "新塘头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516009,
+      890516553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7523456
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7523456
     },
-    "wof:country":"CN",
-    "wof:geomhash":"efd48c3123c9c85455d9130b60818cbf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516553,
-            "empire_id":136253041,
-            "locality_id":1260088687,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "efd48c3123c9c85455d9130b60818cbf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516553,
+        "empire_id": 136253041,
+        "locality_id": 1260088687,
+        "region_id": 85669835,
+        "localadmin_id": 890516009
+      }
     ],
-    "wof:id":1260088687,
-    "wof:lastmodified":1566686833,
-    "wof:name":"Xintangtou",
-    "wof:parent_id":890516553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260088687,
+    "wof:lastmodified": 1768669614,
+    "wof:name": "Xintangtou",
+    "wof:parent_id": 890516009,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.11515,
     30.20847,
     121.11515,
     30.20847
-],
-  "geometry": {"coordinates":[121.11515,30.20847],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.11515,
+      30.20847
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1326887779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.042,35.117,118.042,35.117",
-    "geom:latitude":35.117,
-    "geom:longitude":118.042,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Beibaowo",
-    "gn:country_code":"CN",
-    "gn:dem":121,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9122591,
-    "gn:latitude":35.117,
-    "gn:longitude":118.042,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Beibaowo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.022,35.097,118.062,35.137",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u8c79\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.042,35.117,118.042,35.117",
+    "geom:latitude": 35.117,
+    "geom:longitude": 118.042,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Beibaowo",
+    "gn:country_code": "CN",
+    "gn:dem": 121,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9122591,
+    "gn:latitude": 35.117,
+    "gn:longitude": 118.042,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Beibaowo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.022,35.097,118.062,35.137",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北豹窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      1108732339,
+      1127371325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9122591
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9122591
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3698ac882169207210014c8d3b5fedda",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1326887779,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3698ac882169207210014c8d3b5fedda",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1326887779,
+        "region_id": 85669813,
+        "localadmin_id": 1127371325
+      }
     ],
-    "wof:id":1326887779,
-    "wof:lastmodified":1566647909,
-    "wof:name":"Beibaowo",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326887779,
+    "wof:lastmodified": 1768668426,
+    "wof:name": "Beibaowo",
+    "wof:parent_id": 1127371325,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.042,
     35.117,
     118.042,
     35.117
-],
-  "geometry": {"coordinates":[118.042,35.117],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.042,
+      35.117
+    ],
+    "type": "Point"
+  }
 }

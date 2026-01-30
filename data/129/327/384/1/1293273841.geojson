@@ -2,75 +2,83 @@
   "id": 1293273841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.903,24.1282,105.903,24.1282",
-    "geom:latitude":24.1282,
-    "geom:longitude":105.903,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Nongsa",
-    "gn:country_code":"CN",
-    "gn:dem":671,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9908773,
-    "gn:latitude":24.1282,
-    "gn:longitude":105.903,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Nongsa",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.883,24.1082,105.923,24.1482",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f04\u8428"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.903,24.1282,105.903,24.1282",
+    "geom:latitude": 24.1282,
+    "geom:longitude": 105.903,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Nongsa",
+    "gn:country_code": "CN",
+    "gn:dem": 671,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9908773,
+    "gn:latitude": 24.1282,
+    "gn:longitude": 105.903,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Nongsa",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.883,24.1082,105.923,24.1482",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "弄萨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451029
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9908773
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9908773
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c12048dfb0f7a90d9447f2dc20412bc7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1293273841,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c12048dfb0f7a90d9447f2dc20412bc7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1293273841,
+        "region_id": 85669717,
+        "localadmin_id": 1127451029
+      }
     ],
-    "wof:id":1293273841,
-    "wof:lastmodified":1566670624,
-    "wof:name":"Nongsa",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293273841,
+    "wof:lastmodified": 1768665072,
+    "wof:name": "Nongsa",
+    "wof:parent_id": 1127451029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.903,
     24.1282,
     105.903,
     24.1282
-],
-  "geometry": {"coordinates":[105.90300000000001,24.1282],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.903,
+      24.1282
+    ],
+    "type": "Point"
+  }
 }

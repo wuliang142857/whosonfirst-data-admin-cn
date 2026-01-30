@@ -2,77 +2,85 @@
   "id": 1293695339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.30434,30.1507,120.30434,30.1507",
-    "geom:latitude":30.1507,
-    "geom:longitude":120.30434,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Xintang",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7735416,
-    "gn:latitude":30.1507,
-    "gn:longitude":120.30434,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xintang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.28434,30.1307,120.32434,30.1707",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u65b0\u5858",
-        "Xintang Jiedao",
-        "\u65b0\u5858\u8857\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.30434,30.1507,120.30434,30.1507",
+    "geom:latitude": 30.1507,
+    "geom:longitude": 120.30434,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Xintang",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7735416,
+    "gn:latitude": 30.1507,
+    "gn:longitude": 120.30434,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xintang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.28434,30.1307,120.32434,30.1707",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "新塘",
+      "Xintang Jiedao",
+      "新塘街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514617,
+      890516555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7735416
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7735416
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a11895e77dcb93faec93345dac2e8289",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1293695339,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a11895e77dcb93faec93345dac2e8289",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1293695339,
+        "region_id": 85669835,
+        "localadmin_id": 890514617
+      }
     ],
-    "wof:id":1293695339,
-    "wof:lastmodified":1566669235,
-    "wof:name":"Xintang",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293695339,
+    "wof:lastmodified": 1768663108,
+    "wof:name": "Xintang",
+    "wof:parent_id": 890514617,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.30434,
     30.1507,
     120.30434,
     30.1507
-],
-  "geometry": {"coordinates":[120.30434,30.1507],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.30434,
+      30.1507
+    ],
+    "type": "Point"
+  }
 }

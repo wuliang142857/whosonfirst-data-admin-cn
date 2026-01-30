@@ -2,84 +2,92 @@
   "id": 1327406263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.723,23.9427,107.723,23.9427",
-    "geom:latitude":23.9427,
-    "geom:longitude":107.723,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Wuxing",
-    "gn:country_code":"CN",
-    "gn:dem":191,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9927852,
-    "gn:latitude":23.9427,
-    "gn:longitude":107.723,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Wuxing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.703,23.9227,107.743,23.9627",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Wuxing"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.723,23.9427,107.723,23.9427",
+    "geom:latitude": 23.9427,
+    "geom:longitude": 107.723,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Wuxing",
+    "gn:country_code": "CN",
+    "gn:dem": 191,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9927852,
+    "gn:latitude": 23.9427,
+    "gn:longitude": 107.723,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Wuxing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.703,23.9227,107.743,23.9627",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Wuxing"
     ],
-    "name:deu_x_preferred":[
-        "Wuxing"
+    "name:deu_x_preferred": [
+      "Wuxing"
     ],
-    "name:fra_x_preferred":[
-        "Wuxing"
+    "name:fra_x_preferred": [
+      "Wuxing"
     ],
-    "name:zho_x_preferred":[
-        "\u5434\u661f"
+    "name:zho_x_preferred": [
+      "吴星"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451229
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9927852
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9927852
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2c81db9ce999eef6f50bd97d966a7e19",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1327406263,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2c81db9ce999eef6f50bd97d966a7e19",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1327406263,
+        "region_id": 85669717,
+        "localadmin_id": 1127451229
+      }
     ],
-    "wof:id":1327406263,
-    "wof:lastmodified":1566650248,
-    "wof:name":"Wuxing",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327406263,
+    "wof:lastmodified": 1768665536,
+    "wof:name": "Wuxing",
+    "wof:parent_id": 1127451229,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.723,
     23.9427,
     107.723,
     23.9427
-],
-  "geometry": {"coordinates":[107.723,23.9427],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.723,
+      23.9427
+    ],
+    "type": "Point"
+  }
 }

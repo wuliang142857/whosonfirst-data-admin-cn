@@ -2,75 +2,83 @@
   "id": 1310228671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.619,34.6247,116.619,34.6247",
-    "geom:latitude":34.6247,
-    "geom:longitude":116.619,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Wanggangji",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11089139,
-    "gn:latitude":34.6247,
-    "gn:longitude":116.619,
-    "gn:modification_date":"2016-03-12",
-    "gn:name":"Wanggangji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.599,34.6047,116.639,34.6447",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u5c97\u96c6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.619,34.6247,116.619,34.6247",
+    "geom:latitude": 34.6247,
+    "geom:longitude": 116.619,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Wanggangji",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11089139,
+    "gn:latitude": 34.6247,
+    "gn:longitude": 116.619,
+    "gn:modification_date": "2016-03-12",
+    "gn:name": "Wanggangji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.599,34.6047,116.639,34.6447",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王岗集"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516333,
+      1127320321
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11089139
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11089139
     },
-    "wof:country":"CN",
-    "wof:geomhash":"de82cb8dcb2baceef84663c637293cce",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1310228671,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "de82cb8dcb2baceef84663c637293cce",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1310228671,
+        "region_id": 85669827,
+        "localadmin_id": 1127320321
+      }
     ],
-    "wof:id":1310228671,
-    "wof:lastmodified":1566688389,
-    "wof:name":"Wanggangji",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310228671,
+    "wof:lastmodified": 1768670914,
+    "wof:name": "Wanggangji",
+    "wof:parent_id": 1127320321,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.619,
     34.6247,
     116.619,
     34.6247
-],
-  "geometry": {"coordinates":[116.619,34.6247],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.619,
+      34.6247
+    ],
+    "type": "Point"
+  }
 }

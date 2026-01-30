@@ -2,75 +2,83 @@
   "id": 1260025275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.30743,29.34275,105.30743,29.34275",
-    "geom:latitude":29.34275,
-    "geom:longitude":105.30743,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Beijinshan",
-    "gn:country_code":"CN",
-    "gn:dem":373,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6921213,
-    "gn:latitude":29.34275,
-    "gn:longitude":105.30743,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Beijinshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.28743,29.32275,105.32743,29.36275",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7891\u91d1\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.30743,29.34275,105.30743,29.34275",
+    "geom:latitude": 29.34275,
+    "geom:longitude": 105.30743,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Beijinshan",
+    "gn:country_code": "CN",
+    "gn:dem": 373,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6921213,
+    "gn:latitude": 29.34275,
+    "gn:longitude": 105.30743,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Beijinshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.28743,29.32275,105.32743,29.36275",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "碑金山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6921213
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6921213
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6ffbdcc28881fc0ab76bfbaf723ac309",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1260025275,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6ffbdcc28881fc0ab76bfbaf723ac309",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1260025275,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1260025275,
-    "wof:lastmodified":1566687947,
-    "wof:name":"Beijinshan",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260025275,
+    "wof:lastmodified": 1768668255,
+    "wof:name": "Beijinshan",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.30743,
     29.34275,
     105.30743,
     29.34275
-],
-  "geometry": {"coordinates":[105.30743,29.34275],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.30743,
+      29.34275
+    ],
+    "type": "Point"
+  }
 }

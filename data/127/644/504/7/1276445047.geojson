@@ -2,81 +2,89 @@
   "id": 1276445047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.29734,29.83444,119.29734,29.83444",
-    "geom:latitude":29.83444,
-    "geom:longitude":119.29734,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Xiaojing",
-    "gn:country_code":"CN",
-    "gn:dem":168,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8540754,
-    "gn:latitude":29.83444,
-    "gn:longitude":119.29734,
-    "gn:modification_date":"2013-06-06",
-    "gn:name":"Xiaojing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.27734,29.81444,119.31734,29.85444",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nld_x_preferred":[
-        "Xiaojing"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.29734,29.83444,119.29734,29.83444",
+    "geom:latitude": 29.83444,
+    "geom:longitude": 119.29734,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Xiaojing",
+    "gn:country_code": "CN",
+    "gn:dem": 168,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8540754,
+    "gn:latitude": 29.83444,
+    "gn:longitude": 119.29734,
+    "gn:modification_date": "2013-06-06",
+    "gn:name": "Xiaojing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.27734,29.81444,119.31734,29.85444",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nld_x_preferred": [
+      "Xiaojing"
     ],
-    "name:swe_x_preferred":[
-        "Xiaojing"
+    "name:swe_x_preferred": [
+      "Xiaojing"
     ],
-    "name:zho_x_preferred":[
-        "\u5c0f\u4eac"
+    "name:zho_x_preferred": [
+      "小京"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515271,
+      890516555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8540754
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8540754
     },
-    "wof:country":"CN",
-    "wof:geomhash":"62678ed3e039d6bb1c24e6fa6472f5b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1276445047,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "62678ed3e039d6bb1c24e6fa6472f5b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1276445047,
+        "region_id": 85669835,
+        "localadmin_id": 890515271
+      }
     ],
-    "wof:id":1276445047,
-    "wof:lastmodified":1566672829,
-    "wof:name":"Xiaojing",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276445047,
+    "wof:lastmodified": 1768663108,
+    "wof:name": "Xiaojing",
+    "wof:parent_id": 890515271,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.29734,
     29.83444,
     119.29734,
     29.83444
-],
-  "geometry": {"coordinates":[119.29734000000001,29.83444],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.29734,
+      29.83444
+    ],
+    "type": "Point"
+  }
 }

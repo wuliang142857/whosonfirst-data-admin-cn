@@ -2,78 +2,86 @@
   "id": 1276560013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.32971,28.55768,120.32971,28.55768",
-    "geom:latitude":28.55768,
-    "geom:longitude":120.32971,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Houtangcun",
-    "gn:country_code":"CN",
-    "gn:dem":448,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1882976,
-    "gn:latitude":28.55768,
-    "gn:longitude":120.32971,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Houtangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.30971,28.53768,120.34971,28.57768",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hou-t\u2019ang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.32971,28.55768,120.32971,28.55768",
+    "geom:latitude": 28.55768,
+    "geom:longitude": 120.32971,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Houtangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 448,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1882976,
+    "gn:latitude": 28.55768,
+    "gn:longitude": 120.32971,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Houtangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.30971,28.53768,120.34971,28.57768",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hou-t’ang"
     ],
-    "name:zho_x_preferred":[
-        "\u540e\u5858\u6751"
+    "name:zho_x_preferred": [
+      "后塘村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513165,
+      890515633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1882976
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1882976
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e91d75e82c91b83f963c30d0c4e01756",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1276560013,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e91d75e82c91b83f963c30d0c4e01756",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1276560013,
+        "region_id": 85669835,
+        "localadmin_id": 890513165
+      }
     ],
-    "wof:id":1276560013,
-    "wof:lastmodified":1566674292,
-    "wof:name":"Houtangcun",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276560013,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Houtangcun",
+    "wof:parent_id": 890513165,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.32971,
     28.55768,
     120.32971,
     28.55768
-],
-  "geometry": {"coordinates":[120.32971000000001,28.55768],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.32971,
+      28.55768
+    ],
+    "type": "Point"
+  }
 }

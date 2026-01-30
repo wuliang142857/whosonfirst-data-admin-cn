@@ -2,75 +2,83 @@
   "id": 1327279459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.314,29.2748,103.314,29.2748",
-    "geom:latitude":29.2748,
-    "geom:longitude":103.314,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhaoshan",
-    "gn:country_code":"CN",
-    "gn:dem":842,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10200487,
-    "gn:latitude":29.2748,
-    "gn:longitude":103.314,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Zhaoshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.294,29.2548,103.334,29.2948",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d75\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.314,29.2748,103.314,29.2748",
+    "geom:latitude": 29.2748,
+    "geom:longitude": 103.314,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhaoshan",
+    "gn:country_code": "CN",
+    "gn:dem": 842,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10200487,
+    "gn:latitude": 29.2748,
+    "gn:longitude": 103.314,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Zhaoshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.294,29.2548,103.334,29.2948",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赵山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512711
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512711,
+      1127511132
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10200487
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10200487
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f75b20a48eb5cccbdc5c873757ba8ca0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512711,
-            "empire_id":136253041,
-            "locality_id":1327279459,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f75b20a48eb5cccbdc5c873757ba8ca0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512711,
+        "empire_id": 136253041,
+        "locality_id": 1327279459,
+        "region_id": 85669787,
+        "localadmin_id": 1127511132
+      }
     ],
-    "wof:id":1327279459,
-    "wof:lastmodified":1566655461,
-    "wof:name":"Zhaoshan",
-    "wof:parent_id":890512711,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327279459,
+    "wof:lastmodified": 1768668485,
+    "wof:name": "Zhaoshan",
+    "wof:parent_id": 1127511132,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.314,
     29.2748,
     103.314,
     29.2748
-],
-  "geometry": {"coordinates":[103.31399999999999,29.2748],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.314,
+      29.2748
+    ],
+    "type": "Point"
+  }
 }

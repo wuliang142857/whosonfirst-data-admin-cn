@@ -2,75 +2,83 @@
   "id": 1260030149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.451,25.0577,103.451,25.0577",
-    "geom:latitude":25.0577,
-    "geom:longitude":103.451,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Laomuzhai",
-    "gn:country_code":"CN",
-    "gn:dem":2061,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10156457,
-    "gn:latitude":25.0577,
-    "gn:longitude":103.451,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Laomuzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.431,25.0377,103.471,25.0777",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8001\u6bcd\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.451,25.0577,103.451,25.0577",
+    "geom:latitude": 25.0577,
+    "geom:longitude": 103.451,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Laomuzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 2061,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10156457,
+    "gn:latitude": 25.0577,
+    "gn:longitude": 103.451,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Laomuzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.431,25.0377,103.471,25.0777",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "老母寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890515167
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890515167,
+      1127530322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10156457
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10156457
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ecb23cbc8443ee7246928d35d6ad55c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515167,
-            "empire_id":136253041,
-            "locality_id":1260030149,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ecb23cbc8443ee7246928d35d6ad55c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515167,
+        "empire_id": 136253041,
+        "locality_id": 1260030149,
+        "region_id": 85669791,
+        "localadmin_id": 1127530322
+      }
     ],
-    "wof:id":1260030149,
-    "wof:lastmodified":1566687507,
-    "wof:name":"Laomuzhai",
-    "wof:parent_id":890515167,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260030149,
+    "wof:lastmodified": 1768668180,
+    "wof:name": "Laomuzhai",
+    "wof:parent_id": 1127530322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.451,
     25.0577,
     103.451,
     25.0577
-],
-  "geometry": {"coordinates":[103.45099999999999,25.0577],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.451,
+      25.0577
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1243017259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.09778,29.38864,105.09778,29.38864",
-    "geom:latitude":29.38864,
-    "geom:longitude":105.09778,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Wenxing'an",
-    "gn:country_code":"CN",
-    "gn:dem":338,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6921234,
-    "gn:latitude":29.38864,
-    "gn:longitude":105.09778,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Wenxing\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.07778,29.36864,105.11778,29.40864",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6587\u661f\u5eb5"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.09778,29.38864,105.09778,29.38864",
+    "geom:latitude": 29.38864,
+    "geom:longitude": 105.09778,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Wenxing'an",
+    "gn:country_code": "CN",
+    "gn:dem": 338,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6921234,
+    "gn:latitude": 29.38864,
+    "gn:longitude": 105.09778,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Wenxing’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.07778,29.36864,105.11778,29.40864",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "文星庵"
     ],
-    "name:zho_x_variant":[
-        "Wenxing\u2019an"
+    "name:zho_x_variant": [
+      "Wenxing’an"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6921234
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6921234
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ef4c3889a97a760c7e2613195a3d03bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1243017259,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ef4c3889a97a760c7e2613195a3d03bd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1243017259,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1243017259,
-    "wof:lastmodified":1566694159,
-    "wof:name":"Wenxing'an",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243017259,
+    "wof:lastmodified": 1768668256,
+    "wof:name": "Wenxing'an",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.09778,
     29.38864,
     105.09778,
     29.38864
-],
-  "geometry": {"coordinates":[105.09778,29.38864],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.09778,
+      29.38864
+    ],
+    "type": "Point"
+  }
 }

@@ -2,76 +2,84 @@
   "id": 1310636193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.76524,18.84104,108.76524,18.84104",
-    "geom:latitude":18.84104,
-    "geom:longitude":108.76524,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Jiali",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7632730,
-    "gn:latitude":18.84104,
-    "gn:longitude":108.76524,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Jiali",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.74524,18.82104,108.78524,18.86104",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Jiali"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.76524,18.84104,108.76524,18.84104",
+    "geom:latitude": 18.84104,
+    "geom:longitude": 108.76524,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Jiali",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7632730,
+    "gn:latitude": 18.84104,
+    "gn:longitude": 108.76524,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Jiali",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.74524,18.82104,108.78524,18.86104",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Jiali"
     ],
-    "name:zho_x_preferred":[
-        "\u52a0\u529b"
+    "name:zho_x_preferred": [
+      "加力"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7632730
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7632730
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3e62a1976ae213c3c6126cd8370b6735",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1310636193,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3e62a1976ae213c3c6126cd8370b6735",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1310636193,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1310636193,
-    "wof:lastmodified":1566689190,
-    "wof:name":"Jiali",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310636193,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Jiali",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.76524,
     18.84104,
     108.76524,
     18.84104
-],
-  "geometry": {"coordinates":[108.76524000000001,18.84104],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.76524,
+      18.84104
+    ],
+    "type": "Point"
+  }
 }

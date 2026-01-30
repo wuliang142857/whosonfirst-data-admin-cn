@@ -2,75 +2,83 @@
   "id": 1209775211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.523,31.9367,105.523,31.9367",
-    "geom:latitude":31.9367,
-    "geom:longitude":105.523,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Baoquan",
-    "gn:country_code":"CN",
-    "gn:dem":767,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10148927,
-    "gn:latitude":31.9367,
-    "gn:longitude":105.523,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Baoquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.503,31.9167,105.543,31.9567",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b9d\u6cc9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.523,31.9367,105.523,31.9367",
+    "geom:latitude": 31.9367,
+    "geom:longitude": 105.523,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Baoquan",
+    "gn:country_code": "CN",
+    "gn:dem": 767,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10148927,
+    "gn:latitude": 31.9367,
+    "gn:longitude": 105.523,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Baoquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.503,31.9167,105.543,31.9567",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宝泉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512741,
+      1127510823
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10148927
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10148927
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5aa5c0ad8fb4e7a88a0f6d5ef2fdc507",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512741,
-            "empire_id":136253041,
-            "locality_id":1209775211,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5aa5c0ad8fb4e7a88a0f6d5ef2fdc507",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512741,
+        "empire_id": 136253041,
+        "locality_id": 1209775211,
+        "region_id": 85669787,
+        "localadmin_id": 1127510823
+      }
     ],
-    "wof:id":1209775211,
-    "wof:lastmodified":1566680320,
-    "wof:name":"Baoquan",
-    "wof:parent_id":890512741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209775211,
+    "wof:lastmodified": 1768668638,
+    "wof:name": "Baoquan",
+    "wof:parent_id": 1127510823,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.523,
     31.9367,
     105.523,
     31.9367
-],
-  "geometry": {"coordinates":[105.523,31.9367],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.523,
+      31.9367
+    ],
+    "type": "Point"
+  }
 }

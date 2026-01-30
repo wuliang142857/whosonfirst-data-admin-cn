@@ -2,75 +2,83 @@
   "id": 1260081797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.121,25.4482,115.121,25.4482",
-    "geom:latitude":25.4482,
-    "geom:longitude":115.121,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Gaobei",
-    "gn:country_code":"CN",
-    "gn:dem":260,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9877398,
-    "gn:latitude":25.4482,
-    "gn:longitude":115.121,
-    "gn:modification_date":"2014-12-05",
-    "gn:name":"Gaobei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.101,25.4282,115.141,25.4682",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u9642"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.121,25.4482,115.121,25.4482",
+    "geom:latitude": 25.4482,
+    "geom:longitude": 115.121,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Gaobei",
+    "gn:country_code": "CN",
+    "gn:dem": 260,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9877398,
+    "gn:latitude": 25.4482,
+    "gn:longitude": 115.121,
+    "gn:modification_date": "2014-12-05",
+    "gn:name": "Gaobei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.101,25.4282,115.141,25.4682",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高陂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890511835
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890511835,
+      1127360704
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9877398
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9877398
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f1cad3e567345864edd1a5b2aeb9c965",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511835,
-            "empire_id":136253041,
-            "locality_id":1260081797,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f1cad3e567345864edd1a5b2aeb9c965",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511835,
+        "empire_id": 136253041,
+        "locality_id": 1260081797,
+        "region_id": 85669823,
+        "localadmin_id": 1127360704
+      }
     ],
-    "wof:id":1260081797,
-    "wof:lastmodified":1566686876,
-    "wof:name":"Gaobei",
-    "wof:parent_id":890511835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260081797,
+    "wof:lastmodified": 1768669691,
+    "wof:name": "Gaobei",
+    "wof:parent_id": 1127360704,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.121,
     25.4482,
     115.121,
     25.4482
-],
-  "geometry": {"coordinates":[115.121,25.4482],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.121,
+      25.4482
+    ],
+    "type": "Point"
+  }
 }

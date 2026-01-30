@@ -2,78 +2,86 @@
   "id": 1310373259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.6543,39.22893,113.6543,39.22893",
-    "geom:latitude":39.22893,
-    "geom:longitude":113.6543,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Tianyan",
-    "gn:country_code":"CN",
-    "gn:dem":1409,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1792847,
-    "gn:latitude":39.22893,
-    "gn:longitude":113.6543,
-    "gn:modification_date":"2017-02-04",
-    "gn:name":"Tianyan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.6343,39.20893,113.6743,39.24893",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ien-yen-ts\u2019un",
-        "T\u2019ien-yen",
-        "Xintianyan",
-        "\u5929\u5ca9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.6543,39.22893,113.6543,39.22893",
+    "geom:latitude": 39.22893,
+    "geom:longitude": 113.6543,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Tianyan",
+    "gn:country_code": "CN",
+    "gn:dem": 1409,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1792847,
+    "gn:latitude": 39.22893,
+    "gn:longitude": 113.6543,
+    "gn:modification_date": "2017-02-04",
+    "gn:name": "Tianyan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.6343,39.20893,113.6743,39.24893",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ien-yen-ts’un",
+      "T’ien-yen",
+      "Xintianyan",
+      "天岩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513031
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513031,
+      1127140924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1792847
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1792847
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e75fae6c6722407e6cbc8d07a96919d4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513031,
-            "empire_id":136253041,
-            "locality_id":1310373259,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e75fae6c6722407e6cbc8d07a96919d4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513031,
+        "empire_id": 136253041,
+        "locality_id": 1310373259,
+        "region_id": 85669773,
+        "localadmin_id": 1127140924
+      }
     ],
-    "wof:id":1310373259,
-    "wof:lastmodified":1566689387,
-    "wof:name":"Tianyan",
-    "wof:parent_id":890513031,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310373259,
+    "wof:lastmodified": 1768666641,
+    "wof:name": "Tianyan",
+    "wof:parent_id": 1127140924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.6543,
     39.22893,
     113.6543,
     39.22893
-],
-  "geometry": {"coordinates":[113.65430000000001,39.22893],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.6543,
+      39.22893
+    ],
+    "type": "Point"
+  }
 }

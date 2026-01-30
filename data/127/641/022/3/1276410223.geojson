@@ -2,75 +2,83 @@
   "id": 1276410223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.042,38.6272,103.042,38.6272",
-    "geom:latitude":38.6272,
-    "geom:longitude":103.042,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Chengjin",
-    "gn:country_code":"CN",
-    "gn:dem":1374,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10646969,
-    "gn:latitude":38.6272,
-    "gn:longitude":103.042,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Chengjin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.022,38.6072,103.062,38.6472",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u57ce\u8fd1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.042,38.6272,103.042,38.6272",
+    "geom:latitude": 38.6272,
+    "geom:longitude": 103.042,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Chengjin",
+    "gn:country_code": "CN",
+    "gn:dem": 1374,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10646969,
+    "gn:latitude": 38.6272,
+    "gn:longitude": 103.042,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Chengjin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.022,38.6072,103.062,38.6472",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "城近"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516467,
+      1127620621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10646969
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10646969
     },
-    "wof:country":"CN",
-    "wof:geomhash":"651de4bbe6d2d32be1bdce5b58ed6111",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1276410223,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "651de4bbe6d2d32be1bdce5b58ed6111",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1276410223,
+        "region_id": 85669711,
+        "localadmin_id": 1127620621
+      }
     ],
-    "wof:id":1276410223,
-    "wof:lastmodified":1566676793,
-    "wof:name":"Chengjin",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276410223,
+    "wof:lastmodified": 1768665873,
+    "wof:name": "Chengjin",
+    "wof:parent_id": 1127620621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.042,
     38.6272,
     103.042,
     38.6272
-],
-  "geometry": {"coordinates":[103.042,38.6272],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.042,
+      38.6272
+    ],
+    "type": "Point"
+  }
 }

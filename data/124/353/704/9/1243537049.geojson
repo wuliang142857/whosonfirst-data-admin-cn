@@ -2,75 +2,83 @@
   "id": 1243537049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.014,38.5966,103.014,38.5966",
-    "geom:latitude":38.5966,
-    "geom:longitude":103.014,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhangbacun",
-    "gn:country_code":"CN",
-    "gn:dem":1378,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10646986,
-    "gn:latitude":38.5966,
-    "gn:longitude":103.014,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Zhangbacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.994,38.5766,103.034,38.6166",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u516b\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.014,38.5966,103.014,38.5966",
+    "geom:latitude": 38.5966,
+    "geom:longitude": 103.014,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhangbacun",
+    "gn:country_code": "CN",
+    "gn:dem": 1378,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10646986,
+    "gn:latitude": 38.5966,
+    "gn:longitude": 103.014,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Zhangbacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.994,38.5766,103.034,38.6166",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张八村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516467,
+      1127620621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10646986
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10646986
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c48096f2a3055a564898bb294cf02da2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1243537049,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c48096f2a3055a564898bb294cf02da2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1243537049,
+        "region_id": 85669711,
+        "localadmin_id": 1127620621
+      }
     ],
-    "wof:id":1243537049,
-    "wof:lastmodified":1566694055,
-    "wof:name":"Zhangbacun",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243537049,
+    "wof:lastmodified": 1768665872,
+    "wof:name": "Zhangbacun",
+    "wof:parent_id": 1127620621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.014,
     38.5966,
     103.014,
     38.5966
-],
-  "geometry": {"coordinates":[103.014,38.5966],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.014,
+      38.5966
+    ],
+    "type": "Point"
+  }
 }

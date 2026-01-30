@@ -2,75 +2,83 @@
   "id": 1327338717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.02893,34.53571,117.02893,34.53571",
-    "geom:latitude":34.53571,
-    "geom:longitude":117.02893,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Tianloucun",
-    "gn:country_code":"CN",
-    "gn:dem":35,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11530589,
-    "gn:latitude":34.53571,
-    "gn:longitude":117.02893,
-    "gn:modification_date":"2017-05-09",
-    "gn:name":"Tianloucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.00893,34.51571,117.04893,34.55571",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7530\u697c\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.02893,34.53571,117.02893,34.53571",
+    "geom:latitude": 34.53571,
+    "geom:longitude": 117.02893,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Tianloucun",
+    "gn:country_code": "CN",
+    "gn:dem": 35,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11530589,
+    "gn:latitude": 34.53571,
+    "gn:longitude": 117.02893,
+    "gn:modification_date": "2017-05-09",
+    "gn:name": "Tianloucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.00893,34.51571,117.04893,34.55571",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "田楼村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514319,
+      890516333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11530589
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11530589
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cedd4586ab9e8bc7cba24c1326aaa1ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1327338717,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cedd4586ab9e8bc7cba24c1326aaa1ae",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1327338717,
+        "region_id": 85669827,
+        "localadmin_id": 890514319
+      }
     ],
-    "wof:id":1327338717,
-    "wof:lastmodified":1566651324,
-    "wof:name":"Tianloucun",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327338717,
+    "wof:lastmodified": 1768670915,
+    "wof:name": "Tianloucun",
+    "wof:parent_id": 890514319,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.02893,
     34.53570999999999,
     117.02893,
     34.53570999999999
-],
-  "geometry": {"coordinates":[117.02893,34.53570999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.02893,
+      34.53570999999999
+    ],
+    "type": "Point"
+  }
 }

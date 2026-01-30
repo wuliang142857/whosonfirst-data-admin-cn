@@ -2,75 +2,83 @@
   "id": 1344266419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.30203,33.21299,116.30203,33.21299",
-    "geom:latitude":33.21299,
-    "geom:longitude":116.30203,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Zhangbanqiaocun",
-    "gn:country_code":"CN",
-    "gn:dem":28,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10358306,
-    "gn:latitude":33.21299,
-    "gn:longitude":116.30203,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Zhangbanqiaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.28203,33.19299,116.32203,33.23299",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u677f\u6865\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.30203,33.21299,116.30203,33.21299",
+    "geom:latitude": 33.21299,
+    "geom:longitude": 116.30203,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Zhangbanqiaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 28,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10358306,
+    "gn:latitude": 33.21299,
+    "gn:longitude": 116.30203,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Zhangbanqiaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.28203,33.19299,116.32203,33.23299",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张板桥村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10358306
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10358306
     },
-    "wof:country":"CN",
-    "wof:geomhash":"15a5b64e6fecc0d3126627d7b7125dd2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1344266419,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "15a5b64e6fecc0d3126627d7b7125dd2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1344266419,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1344266419,
-    "wof:lastmodified":1566662373,
-    "wof:name":"Zhangbanqiaocun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344266419,
+    "wof:lastmodified": 1768669756,
+    "wof:name": "Zhangbanqiaocun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.30203,
     33.21299,
     116.30203,
     33.21299
-],
-  "geometry": {"coordinates":[116.30203,33.21299],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.30203,
+      33.21299
+    ],
+    "type": "Point"
+  }
 }

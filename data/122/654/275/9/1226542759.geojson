@@ -2,75 +2,83 @@
   "id": 1226542759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.51481,28.07966,120.51481,28.07966",
-    "geom:latitude":28.07966,
-    "geom:longitude":120.51481,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Tianpu",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8415537,
-    "gn:latitude":28.07966,
-    "gn:longitude":120.51481,
-    "gn:modification_date":"2014-02-16",
-    "gn:name":"Tianpu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.49481,28.05966,120.53481,28.09966",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7530\u94fa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.51481,28.07966,120.51481,28.07966",
+    "geom:latitude": 28.07966,
+    "geom:longitude": 120.51481,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Tianpu",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8415537,
+    "gn:latitude": 28.07966,
+    "gn:longitude": 120.51481,
+    "gn:modification_date": "2014-02-16",
+    "gn:name": "Tianpu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.49481,28.05966,120.53481,28.09966",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "田铺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8415537
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8415537
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0656a4d75d5c0fae649ebb471dc35433",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1226542759,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0656a4d75d5c0fae649ebb471dc35433",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1226542759,
+        "region_id": 85669835,
+        "localadmin_id": 1127330302
+      }
     ],
-    "wof:id":1226542759,
-    "wof:lastmodified":1566705424,
-    "wof:name":"Tianpu",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226542759,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Tianpu",
+    "wof:parent_id": 1127330302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.51481,
     28.07966,
     120.51481,
     28.07966
-],
-  "geometry": {"coordinates":[120.51481,28.07966],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.51481,
+      28.07966
+    ],
+    "type": "Point"
+  }
 }

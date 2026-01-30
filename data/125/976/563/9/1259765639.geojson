@@ -2,75 +2,83 @@
   "id": 1259765639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.578,35.6355,106.578,35.6355",
-    "geom:latitude":35.6355,
-    "geom:longitude":106.578,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Tengbu",
-    "gn:country_code":"CN",
-    "gn:dem":1709,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10738686,
-    "gn:latitude":35.6355,
-    "gn:longitude":106.578,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Tengbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.558,35.6155,106.598,35.6555",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6ed5\u5821"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.578,35.6355,106.578,35.6355",
+    "geom:latitude": 35.6355,
+    "geom:longitude": 106.578,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Tengbu",
+    "gn:country_code": "CN",
+    "gn:dem": 1709,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10738686,
+    "gn:latitude": 35.6355,
+    "gn:longitude": 106.578,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Tengbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.558,35.6155,106.598,35.6555",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "滕堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516253
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515673,
+      890516253
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10738686
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10738686
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8d1c4743987b69d7c4aadd9e89410750",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516253,
-            "empire_id":136253041,
-            "locality_id":1259765639,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8d1c4743987b69d7c4aadd9e89410750",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516253,
+        "empire_id": 136253041,
+        "locality_id": 1259765639,
+        "region_id": 85669711,
+        "localadmin_id": 890515673
+      }
     ],
-    "wof:id":1259765639,
-    "wof:lastmodified":1566699280,
-    "wof:name":"Tengbu",
-    "wof:parent_id":890516253,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259765639,
+    "wof:lastmodified": 1768666732,
+    "wof:name": "Tengbu",
+    "wof:parent_id": 890515673,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.578,
     35.6355,
     106.578,
     35.6355
-],
-  "geometry": {"coordinates":[106.578,35.6355],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.578,
+      35.6355
+    ],
+    "type": "Point"
+  }
 }

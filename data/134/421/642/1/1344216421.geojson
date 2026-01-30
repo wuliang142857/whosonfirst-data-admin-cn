@@ -2,81 +2,89 @@
   "id": 1344216421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.548,31.0248,105.548,31.0248",
-    "geom:latitude":31.0248,
-    "geom:longitude":105.548,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shuangyu",
-    "gn:country_code":"CN",
-    "gn:dem":386,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10162230,
-    "gn:latitude":31.0248,
-    "gn:longitude":105.548,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shuangyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.528,31.0048,105.568,31.0448",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ces_x_preferred":[
-        "\u0160uang-j\u00fc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.548,31.0248,105.548,31.0248",
+    "geom:latitude": 31.0248,
+    "geom:longitude": 105.548,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shuangyu",
+    "gn:country_code": "CN",
+    "gn:dem": 386,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10162230,
+    "gn:latitude": 31.0248,
+    "gn:longitude": 105.548,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shuangyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.528,31.0048,105.568,31.0448",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ces_x_preferred": [
+      "Šuang-jü"
     ],
-    "name:zho_x_preferred":[
-        "\u53cc\u9c7c"
+    "name:zho_x_preferred": [
+      "双鱼"
     ],
-    "name:zho_x_variant":[
-        "\u53cc\u5c7f\u6e2f"
+    "name:zho_x_variant": [
+      "双屿港"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      1127510723
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10162230
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10162230
     },
-    "wof:country":"CN",
-    "wof:geomhash":"117a1f63b74e4910d09c07e6a5cfbd97",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1344216421,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "117a1f63b74e4910d09c07e6a5cfbd97",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1344216421,
+        "region_id": 85669787,
+        "localadmin_id": 1127510723
+      }
     ],
-    "wof:id":1344216421,
-    "wof:lastmodified":1566662426,
-    "wof:name":"Shuangyu",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344216421,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Shuangyu",
+    "wof:parent_id": 1127510723,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.548,
     31.0248,
     105.548,
     31.0248
-],
-  "geometry": {"coordinates":[105.548,31.0248],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.548,
+      31.0248
+    ],
+    "type": "Point"
+  }
 }

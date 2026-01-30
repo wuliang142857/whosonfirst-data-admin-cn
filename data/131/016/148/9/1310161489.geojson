@@ -2,77 +2,85 @@
   "id": 1310161489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.3487,35.44889,111.3487,35.44889",
-    "geom:latitude":35.44889,
-    "geom:longitude":111.3487,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Peicun",
-    "gn:country_code":"CN",
-    "gn:dem":496,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1894934,
-    "gn:latitude":35.44889,
-    "gn:longitude":111.3487,
-    "gn:modification_date":"2017-01-05",
-    "gn:name":"Peicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.3287,35.42889,111.3687,35.46889",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Liu-chia-y\u00fcan",
-        "Peicun",
-        "\u88f4\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.3487,35.44889,111.3487,35.44889",
+    "geom:latitude": 35.44889,
+    "geom:longitude": 111.3487,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Peicun",
+    "gn:country_code": "CN",
+    "gn:dem": 496,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1894934,
+    "gn:latitude": 35.44889,
+    "gn:longitude": 111.3487,
+    "gn:modification_date": "2017-01-05",
+    "gn:name": "Peicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.3287,35.42889,111.3687,35.46889",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Liu-chia-yüan",
+      "Peicun",
+      "裴村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890514745
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890514745,
+      1127140823
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1894934
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1894934
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c65f4c464ba261f1b04a591aaa4c4a40",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514745,
-            "empire_id":136253041,
-            "locality_id":1310161489,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c65f4c464ba261f1b04a591aaa4c4a40",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514745,
+        "empire_id": 136253041,
+        "locality_id": 1310161489,
+        "region_id": 85669773,
+        "localadmin_id": 1127140823
+      }
     ],
-    "wof:id":1310161489,
-    "wof:lastmodified":1566689939,
-    "wof:name":"Peicun",
-    "wof:parent_id":890514745,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310161489,
+    "wof:lastmodified": 1768666416,
+    "wof:name": "Peicun",
+    "wof:parent_id": 1127140823,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.3487,
     35.44889000000001,
     111.3487,
     35.44889000000001
-],
-  "geometry": {"coordinates":[111.34869999999999,35.44889000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.3487,
+      35.44889000000001
+    ],
+    "type": "Point"
+  }
 }

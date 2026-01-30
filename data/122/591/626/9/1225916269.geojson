@@ -2,75 +2,83 @@
   "id": 1225916269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.124,22.677,109.124,22.677",
-    "geom:latitude":22.677,
-    "geom:longitude":109.124,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Sanhetang",
-    "gn:country_code":"CN",
-    "gn:dem":71,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9897289,
-    "gn:latitude":22.677,
-    "gn:longitude":109.124,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Sanhetang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.104,22.657,109.144,22.697",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u5408\u5858"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.124,22.677,109.124,22.677",
+    "geom:latitude": 22.677,
+    "geom:longitude": 109.124,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Sanhetang",
+    "gn:country_code": "CN",
+    "gn:dem": 71,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9897289,
+    "gn:latitude": 22.677,
+    "gn:longitude": 109.124,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Sanhetang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.104,22.657,109.144,22.697",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三合塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450181
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9897289
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9897289
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fb82dfd2152b356f4c91d00863119cc9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1225916269,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fb82dfd2152b356f4c91d00863119cc9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1225916269,
+        "region_id": 85669717,
+        "localadmin_id": 1127450181
+      }
     ],
-    "wof:id":1225916269,
-    "wof:lastmodified":1566703414,
-    "wof:name":"Sanhetang",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225916269,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Sanhetang",
+    "wof:parent_id": 1127450181,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.124,
     22.677,
     109.124,
     22.677
-],
-  "geometry": {"coordinates":[109.124,22.677],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.124,
+      22.677
+    ],
+    "type": "Point"
+  }
 }

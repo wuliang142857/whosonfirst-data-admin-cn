@@ -2,75 +2,83 @@
   "id": 1292924297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.27,33.797,116.27,33.797",
-    "geom:latitude":33.797,
-    "geom:longitude":116.27,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Gancheng",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9132959,
-    "gn:latitude":33.797,
-    "gn:longitude":116.27,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Gancheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.25,33.777,116.29,33.817",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e72\u57ce"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.27,33.797,116.27,33.797",
+    "geom:latitude": 33.797,
+    "geom:longitude": 116.27,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Gancheng",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9132959,
+    "gn:latitude": 33.797,
+    "gn:longitude": 116.27,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Gancheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.25,33.777,116.29,33.817",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "干城"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513859,
+      890514845
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9132959
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9132959
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f5dfb0b77ee151b6127516504ed1c332",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514845,
-            "empire_id":136253041,
-            "locality_id":1292924297,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f5dfb0b77ee151b6127516504ed1c332",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514845,
+        "empire_id": 136253041,
+        "locality_id": 1292924297,
+        "region_id": 85669801,
+        "localadmin_id": 890513859
+      }
     ],
-    "wof:id":1292924297,
-    "wof:lastmodified":1566667061,
-    "wof:name":"Gancheng",
-    "wof:parent_id":890514845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292924297,
+    "wof:lastmodified": 1768669081,
+    "wof:name": "Gancheng",
+    "wof:parent_id": 890513859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.27,
     33.797,
     116.27,
     33.797
-],
-  "geometry": {"coordinates":[116.27,33.797],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.27,
+      33.797
+    ],
+    "type": "Point"
+  }
 }

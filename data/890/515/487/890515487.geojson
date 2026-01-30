@@ -2,81 +2,89 @@
   "id": 890515487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.825748,29.595923,120.825748,29.595923",
-    "geom:latitude":29.595923,
-    "geom:longitude":120.825748,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"120.725748,29.495923,120.925748,29.695923",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Sheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.825748,29.595923,120.825748,29.595923",
+    "geom:latitude": 29.595923,
+    "geom:longitude": 120.825748,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "120.725748,29.495923,120.925748,29.695923",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Sheng"
     ],
-    "name:eng_x_variant":[
-        "Sheng County"
+    "name:eng_x_variant": [
+      "Sheng County"
     ],
-    "name:zho_x_preferred":[
-        "\u5d4a\u53bf"
+    "name:zho_x_preferred": [
+      "嵊县"
     ],
-    "qs:name":"\u5d4a\u53bf",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u6d59\u6c5f\u7701",
-    "qs:photos":10,
-    "qs:photos_1k":2,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":70,
-    "qs:photos_sr":1,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890513785,
-        136253041,
-        85669835
+    "qs:name": "嵊县",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "浙江省",
+    "qs:photos": 10,
+    "qs:photos_1k": 2,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 70,
+    "qs:photos_sr": 1,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      890513785,
+      136253041,
+      85669835
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12685435,
-        "qs_pg:id":59397
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12685435,
+      "qs_pg:id": 59397
     },
-    "wof:country":"CN",
-    "wof:created":1469055909,
-    "wof:geomhash":"39c5a435ecc0cf664268e3388deed69a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "localadmin_id":890515487,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055909,
+    "wof:geomhash": "39c5a435ecc0cf664268e3388deed69a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "localadmin_id": 890515487,
+        "region_id": 85669835
+      }
     ],
-    "wof:id":890515487,
-    "wof:lastmodified":1601423048,
-    "wof:name":"Sheng",
-    "wof:parent_id":890513785,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515487,
+    "wof:lastmodified": 1601423048,
+    "wof:name": "Sheng",
+    "wof:parent_id": 890513785,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [],
+    "edtf:deprecated": "2010-01-01",
+    "wof:note": "重复/错误记录，应为嵊州市"
+  },
   "bbox": [
     120.825748,
     29.595923,
     120.825748,
     29.595923
-],
-  "geometry": {"coordinates":[120.825748,29.595923],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.825748,
+      29.595923
+    ],
+    "type": "Point"
+  }
 }

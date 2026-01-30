@@ -2,75 +2,83 @@
   "id": 1293658843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.429,25.1574,109.429,25.1574",
-    "geom:latitude":25.1574,
-    "geom:longitude":109.429,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Qiandong",
-    "gn:country_code":"CN",
-    "gn:dem":252,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9941847,
-    "gn:latitude":25.1574,
-    "gn:longitude":109.429,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Qiandong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.409,25.1374,109.449,25.1774",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u94b1\u6d1e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.429,25.1574,109.429,25.1574",
+    "geom:latitude": 25.1574,
+    "geom:longitude": 109.429,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Qiandong",
+    "gn:country_code": "CN",
+    "gn:dem": 252,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9941847,
+    "gn:latitude": 25.1574,
+    "gn:longitude": 109.429,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Qiandong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.409,25.1374,109.449,25.1774",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "钱洞"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450224
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9941847
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9941847
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d5b84fa7572308c0caff1ac98ffed0c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1293658843,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d5b84fa7572308c0caff1ac98ffed0c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1293658843,
+        "region_id": 85669717,
+        "localadmin_id": 1127450224
+      }
     ],
-    "wof:id":1293658843,
-    "wof:lastmodified":1566665759,
-    "wof:name":"Qiandong",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293658843,
+    "wof:lastmodified": 1768665482,
+    "wof:name": "Qiandong",
+    "wof:parent_id": 1127450224,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.429,
     25.1574,
     109.429,
     25.1574
-],
-  "geometry": {"coordinates":[109.429,25.1574],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.429,
+      25.1574
+    ],
+    "type": "Point"
+  }
 }

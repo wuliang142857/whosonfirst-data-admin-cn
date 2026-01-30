@@ -2,75 +2,83 @@
   "id": 1360167261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.85,35.6673,103.85,35.6673",
-    "geom:latitude":35.6673,
-    "geom:longitude":103.85,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Dunzi",
-    "gn:country_code":"CN",
-    "gn:dem":2222,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10754609,
-    "gn:latitude":35.6673,
-    "gn:longitude":103.85,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Dunzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.83,35.6473,103.87,35.6873",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u58a9\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.85,35.6673,103.85,35.6673",
+    "geom:latitude": 35.6673,
+    "geom:longitude": 103.85,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Dunzi",
+    "gn:country_code": "CN",
+    "gn:dem": 2222,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10754609,
+    "gn:latitude": 35.6673,
+    "gn:longitude": 103.85,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Dunzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.83,35.6473,103.87,35.6873",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "墩子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10754609
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10754609
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5128ca7217f961b8535d16f9997ebf53",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1360167261,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5128ca7217f961b8535d16f9997ebf53",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1360167261,
+        "region_id": 85669711,
+        "localadmin_id": 1127621124
+      }
     ],
-    "wof:id":1360167261,
-    "wof:lastmodified":1566691816,
-    "wof:name":"Dunzi",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360167261,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Dunzi",
+    "wof:parent_id": 1127621124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.85,
     35.6673,
     103.85,
     35.6673
-],
-  "geometry": {"coordinates":[103.84999999999999,35.6673],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.85,
+      35.6673
+    ],
+    "type": "Point"
+  }
 }

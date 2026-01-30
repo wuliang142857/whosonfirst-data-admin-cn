@@ -2,75 +2,83 @@
   "id": 1243038061,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.19647,33.65965,105.19647,33.65965",
-    "geom:latitude":33.65965,
-    "geom:longitude":105.19647,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Niujiazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":1947,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7373203,
-    "gn:latitude":33.65965,
-    "gn:longitude":105.19647,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Niujiazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.17647,33.63965,105.21647,33.67965",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u725b\u5bb6\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.19647,33.65965,105.19647,33.65965",
+    "geom:latitude": 33.65965,
+    "geom:longitude": 105.19647,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Niujiazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 1947,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7373203,
+    "gn:latitude": 33.65965,
+    "gn:longitude": 105.19647,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Niujiazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.17647,33.63965,105.21647,33.67965",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "牛家庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7373203
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7373203
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d8aa5ef5631d6eddff245853a94e3a74",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1243038061,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d8aa5ef5631d6eddff245853a94e3a74",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1243038061,
+        "region_id": 85669711,
+        "localadmin_id": 1127621202
+      }
     ],
-    "wof:id":1243038061,
-    "wof:lastmodified":1566695977,
-    "wof:name":"Niujiazhuang",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243038061,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Niujiazhuang",
+    "wof:parent_id": 1127621202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.19647,
     33.65965,
     105.19647,
     33.65965
-],
-  "geometry": {"coordinates":[105.19647000000001,33.65965],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.19647,
+      33.65965
+    ],
+    "type": "Point"
+  }
 }

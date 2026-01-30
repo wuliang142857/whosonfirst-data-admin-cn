@@ -2,73 +2,81 @@
   "id": 1259913039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.89124,18.64277,109.89124,18.64277",
-    "geom:latitude":18.64277,
-    "geom:longitude":109.89124,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Mumian",
-    "gn:country_code":"CN",
-    "gn:dem":62,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1917708,
-    "gn:latitude":18.64277,
-    "gn:longitude":109.89124,
-    "gn:modification_date":"2012-11-09",
-    "gn:name":"Mumian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.87124,18.62277,109.91124,18.66277",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6728\u68c9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.89124,18.64277,109.89124,18.64277",
+    "geom:latitude": 18.64277,
+    "geom:longitude": 109.89124,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Mumian",
+    "gn:country_code": "CN",
+    "gn:dem": 62,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1917708,
+    "gn:latitude": 18.64277,
+    "gn:longitude": 109.89124,
+    "gn:modification_date": "2012-11-09",
+    "gn:name": "Mumian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.87124,18.62277,109.91124,18.66277",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "木棉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732539
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515213,
+      1108732539
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917708
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917708
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3b007319882b4ab59d71a2041df638e0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732539,
-            "locality_id":1259913039,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3b007319882b4ab59d71a2041df638e0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732539,
+        "locality_id": 1259913039,
+        "region_id": 85669759,
+        "localadmin_id": 890515213
+      }
     ],
-    "wof:id":1259913039,
-    "wof:lastmodified":1566698231,
-    "wof:name":"Mumian",
-    "wof:parent_id":1108732539,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259913039,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Mumian",
+    "wof:parent_id": 890515213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.89124,
     18.64277,
     109.89124,
     18.64277
-],
-  "geometry": {"coordinates":[109.89124,18.64277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.89124,
+      18.64277
+    ],
+    "type": "Point"
+  }
 }

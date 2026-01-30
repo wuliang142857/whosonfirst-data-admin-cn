@@ -2,77 +2,85 @@
   "id": 1225918437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.97156,41.30751,110.97156,41.30751",
-    "geom:latitude":41.30751,
-    "geom:longitude":110.97156,
-    "gn:admin1_code":"20",
-    "gn:asciiname":"Shuangyucheng",
-    "gn:country_code":"CN",
-    "gn:dem":1689,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2050959,
-    "gn:latitude":41.30751,
-    "gn:longitude":110.97156,
-    "gn:modification_date":"2013-03-05",
-    "gn:name":"Shuangyucheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.95156,41.28751,110.99156,41.32751",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shuang-i-ch\u2019eng",
-        "Shuangyucheng",
-        "\u53cc\u7389\u57ce"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.97156,41.30751,110.97156,41.30751",
+    "geom:latitude": 41.30751,
+    "geom:longitude": 110.97156,
+    "gn:admin1_code": "20",
+    "gn:asciiname": "Shuangyucheng",
+    "gn:country_code": "CN",
+    "gn:dem": 1689,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2050959,
+    "gn:latitude": 41.30751,
+    "gn:longitude": 110.97156,
+    "gn:modification_date": "2013-03-05",
+    "gn:name": "Shuangyucheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.95156,41.28751,110.99156,41.32751",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shuang-i-ch’eng",
+      "Shuangyucheng",
+      "双玉城"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        890513779
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890513779,
+      1127150125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2050959
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2050959
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eecb6d5748ad10b1053ee4df358a4e77",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513779,
-            "empire_id":136253041,
-            "locality_id":1225918437,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eecb6d5748ad10b1053ee4df358a4e77",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513779,
+        "empire_id": 136253041,
+        "locality_id": 1225918437,
+        "region_id": 85669847,
+        "localadmin_id": 1127150125
+      }
     ],
-    "wof:id":1225918437,
-    "wof:lastmodified":1566703423,
-    "wof:name":"Shuangyucheng",
-    "wof:parent_id":890513779,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225918437,
+    "wof:lastmodified": 1768667028,
+    "wof:name": "Shuangyucheng",
+    "wof:parent_id": 1127150125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.97156,
     41.30751,
     110.97156,
     41.30751
-],
-  "geometry": {"coordinates":[110.97156,41.30751],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.97156,
+      41.30751
+    ],
+    "type": "Point"
+  }
 }

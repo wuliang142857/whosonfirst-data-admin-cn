@@ -2,77 +2,85 @@
   "id": 1260034611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.31056,32.51556,109.31056,32.51556",
-    "geom:latitude":32.51556,
-    "geom:longitude":109.31056,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Xinchang",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":380,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1789194,
-    "gn:latitude":32.51556,
-    "gn:longitude":109.31056,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xinchang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.29056,32.49556,109.33056,32.53556",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsin-ch\u2019ang",
-        "Xinchang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.31056,32.51556,109.31056,32.51556",
+    "geom:latitude": 32.51556,
+    "geom:longitude": 109.31056,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Xinchang",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 380,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1789194,
+    "gn:latitude": 32.51556,
+    "gn:longitude": 109.31056,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xinchang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.29056,32.49556,109.33056,32.53556",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsin-ch’ang",
+      "Xinchang"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1789194
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1789194
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f9e13d1ce06c84a004a1b600a447c189",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1260034611,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f9e13d1ce06c84a004a1b600a447c189",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1260034611,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1260034611,
-    "wof:lastmodified":1566687553,
-    "wof:name":"Xinchang",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260034611,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Xinchang",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.31056,
     32.51556,
     109.31056,
     32.51556
-],
-  "geometry": {"coordinates":[109.31056,32.51556],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.31056,
+      32.51556
+    ],
+    "type": "Point"
+  }
 }

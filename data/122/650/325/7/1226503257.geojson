@@ -2,75 +2,83 @@
   "id": 1226503257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.868,25.0385,102.868,25.0385",
-    "geom:latitude":25.0385,
-    "geom:longitude":102.868,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Xichongkou",
-    "gn:country_code":"CN",
-    "gn:dem":1955,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10156394,
-    "gn:latitude":25.0385,
-    "gn:longitude":102.868,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Xichongkou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.848,25.0185,102.888,25.0585",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u51b2\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.868,25.0385,102.868,25.0385",
+    "geom:latitude": 25.0385,
+    "geom:longitude": 102.868,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Xichongkou",
+    "gn:country_code": "CN",
+    "gn:dem": 1955,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10156394,
+    "gn:latitude": 25.0385,
+    "gn:longitude": 102.868,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Xichongkou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.848,25.0185,102.888,25.0585",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西冲口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530111
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10156394
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10156394
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4d1149b98ae0c7fd4054a4c52fd27962",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1226503257,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4d1149b98ae0c7fd4054a4c52fd27962",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1226503257,
+        "region_id": 85669791,
+        "localadmin_id": 1127530111
+      }
     ],
-    "wof:id":1226503257,
-    "wof:lastmodified":1566702632,
-    "wof:name":"Xichongkou",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226503257,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Xichongkou",
+    "wof:parent_id": 1127530111,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.868,
     25.0385,
     102.868,
     25.0385
-],
-  "geometry": {"coordinates":[102.86799999999999,25.0385],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.868,
+      25.0385
+    ],
+    "type": "Point"
+  }
 }

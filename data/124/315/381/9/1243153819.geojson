@@ -2,75 +2,83 @@
   "id": 1243153819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.24,23.4718,111.24,23.4718",
-    "geom:latitude":23.4718,
-    "geom:longitude":111.24,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Dengwu",
-    "gn:country_code":"CN",
-    "gn:dem":29,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9919453,
-    "gn:latitude":23.4718,
-    "gn:longitude":111.24,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Dengwu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.22,23.4518,111.26,23.4918",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9093\u5c4b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.24,23.4718,111.24,23.4718",
+    "geom:latitude": 23.4718,
+    "geom:longitude": 111.24,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Dengwu",
+    "gn:country_code": "CN",
+    "gn:dem": 29,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9919453,
+    "gn:latitude": 23.4718,
+    "gn:longitude": 111.24,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Dengwu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.22,23.4518,111.26,23.4918",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "邓屋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450405
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9919453
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9919453
     },
-    "wof:country":"CN",
-    "wof:geomhash":"db2ad050ddd0061d7e12e2f1befe638c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1243153819,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "db2ad050ddd0061d7e12e2f1befe638c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1243153819,
+        "region_id": 85669717,
+        "localadmin_id": 1127450405
+      }
     ],
-    "wof:id":1243153819,
-    "wof:lastmodified":1566695495,
-    "wof:name":"Dengwu",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243153819,
+    "wof:lastmodified": 1768665954,
+    "wof:name": "Dengwu",
+    "wof:parent_id": 1127450405,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.24,
     23.4718,
     111.24,
     23.4718
-],
-  "geometry": {"coordinates":[111.23999999999999,23.4718],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.24,
+      23.4718
+    ],
+    "type": "Point"
+  }
 }

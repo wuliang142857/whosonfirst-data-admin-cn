@@ -2,77 +2,85 @@
   "id": 1209714485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.60028,42.13917,125.60028,42.13917",
-    "geom:latitude":42.13917,
-    "geom:longitude":125.60028,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Ankouzhen",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":396,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2038638,
-    "gn:latitude":42.13917,
-    "gn:longitude":125.60028,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Ankouzhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.58028,42.11917,125.62028,42.15917",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "An-k\u2019ou-chen",
-        "Ankouzhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.60028,42.13917,125.60028,42.13917",
+    "geom:latitude": 42.13917,
+    "geom:longitude": 125.60028,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Ankouzhen",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 396,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2038638,
+    "gn:latitude": 42.13917,
+    "gn:longitude": 125.60028,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Ankouzhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.58028,42.11917,125.62028,42.15917",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "An-k’ou-chen",
+      "Ankouzhen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516249
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890512963,
+      890516249
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2038638
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2038638
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a47d983c2532fb032d8112ba69cdb554",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516249,
-            "empire_id":136253041,
-            "locality_id":1209714485,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a47d983c2532fb032d8112ba69cdb554",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516249,
+        "empire_id": 136253041,
+        "locality_id": 1209714485,
+        "region_id": 85669843,
+        "localadmin_id": 890512963
+      }
     ],
-    "wof:id":1209714485,
-    "wof:lastmodified":1566681081,
-    "wof:name":"Ankouzhen",
-    "wof:parent_id":890516249,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209714485,
+    "wof:lastmodified": 1768671033,
+    "wof:name": "Ankouzhen",
+    "wof:parent_id": 890512963,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.60028,
     42.13917,
     125.60028,
     42.13917
-],
-  "geometry": {"coordinates":[125.60028,42.13917],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.60028,
+      42.13917
+    ],
+    "type": "Point"
+  }
 }

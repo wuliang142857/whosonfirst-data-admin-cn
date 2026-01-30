@@ -2,82 +2,90 @@
   "id": 1293771245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.62858,28.94894,111.62858,28.94894",
-    "geom:latitude":28.94894,
-    "geom:longitude":111.62858,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Doumuhu",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1811988,
-    "gn:latitude":28.94894,
-    "gn:longitude":111.62858,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Doumuhu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.60858,28.92894,111.64858,28.96894",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tou-mu-hu",
-        "Doumuhu",
-        "\u6597\u59c6\u6e56",
-        "Doumuhu Zhen",
-        "\u6597\u59c6\u6e56\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.62858,28.94894,111.62858,28.94894",
+    "geom:latitude": 28.94894,
+    "geom:longitude": 111.62858,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Doumuhu",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1811988,
+    "gn:latitude": 28.94894,
+    "gn:longitude": 111.62858,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Doumuhu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.60858,28.92894,111.64858,28.96894",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tou-mu-hu",
+      "Doumuhu",
+      "斗姆湖",
+      "Doumuhu Zhen",
+      "斗姆湖镇"
     ],
-    "name:zho_x_preferred":[
-        "\u6597\u59c6\u6e56\u8857\u9053"
+    "name:zho_x_preferred": [
+      "斗姆湖街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515867,
+      1127430703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811988
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811988
     },
-    "wof:country":"CN",
-    "wof:geomhash":"925ced5659e789568ea7a32afc0c2c05",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1293771245,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "925ced5659e789568ea7a32afc0c2c05",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1293771245,
+        "region_id": 85669781,
+        "localadmin_id": 1127430703
+      }
     ],
-    "wof:id":1293771245,
-    "wof:lastmodified":1566667585,
-    "wof:name":"Doumuhu",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293771245,
+    "wof:lastmodified": 1768670429,
+    "wof:name": "Doumuhu",
+    "wof:parent_id": 1127430703,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.62858,
     28.94894,
     111.62858,
     28.94894
-],
-  "geometry": {"coordinates":[111.62858,28.94894],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.62858,
+      28.94894
+    ],
+    "type": "Point"
+  }
 }

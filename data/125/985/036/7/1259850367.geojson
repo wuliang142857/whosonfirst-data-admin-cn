@@ -2,75 +2,83 @@
   "id": 1259850367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"86.6181,28.577,86.6181,28.577",
-    "geom:latitude":28.577,
-    "geom:longitude":86.6181,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Qianglin",
-    "gn:country_code":"CN",
-    "gn:dem":4335,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9088451,
-    "gn:latitude":28.577,
-    "gn:longitude":86.6181,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Qianglin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"86.5981,28.557,86.6381,28.597",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f3a\u6797"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "86.6181,28.577,86.6181,28.577",
+    "geom:latitude": 28.577,
+    "geom:longitude": 86.6181,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Qianglin",
+    "gn:country_code": "CN",
+    "gn:dem": 4335,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9088451,
+    "gn:latitude": 28.577,
+    "gn:longitude": 86.6181,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Qianglin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "86.5981,28.557,86.6381,28.597",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "强林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890515293,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9088451
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9088451
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1d8c38d88a74b346c5fd09a8fd2b85f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1259850367,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1d8c38d88a74b346c5fd09a8fd2b85f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1259850367,
+        "region_id": 85669747,
+        "localadmin_id": 890515293
+      }
     ],
-    "wof:id":1259850367,
-    "wof:lastmodified":1566699121,
-    "wof:name":"Qianglin",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259850367,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Qianglin",
+    "wof:parent_id": 890515293,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     86.6181,
     28.577,
     86.6181,
     28.577
-],
-  "geometry": {"coordinates":[86.6181,28.577],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      86.6181,
+      28.577
+    ],
+    "type": "Point"
+  }
 }

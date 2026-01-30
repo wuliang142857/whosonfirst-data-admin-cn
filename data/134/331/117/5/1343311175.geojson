@@ -2,78 +2,86 @@
   "id": 1343311175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.533,30.0786,105.533,30.0786",
-    "geom:latitude":30.0786,
-    "geom:longitude":105.533,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Huashi",
-    "gn:country_code":"CN",
-    "gn:dem":284,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163595,
-    "gn:latitude":30.0786,
-    "gn:longitude":105.533,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Huashi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.513,30.0586,105.553,30.0986",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Huashi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.533,30.0786,105.533,30.0786",
+    "geom:latitude": 30.0786,
+    "geom:longitude": 105.533,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Huashi",
+    "gn:country_code": "CN",
+    "gn:dem": 284,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163595,
+    "gn:latitude": 30.0786,
+    "gn:longitude": 105.533,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Huashi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.513,30.0586,105.553,30.0986",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Huashi"
     ],
-    "name:zho_x_preferred":[
-        "\u82b1\u77f3"
+    "name:zho_x_preferred": [
+      "花石"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163595
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163595
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2d4a66b09ef0f465eb6ad9649958a692",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1343311175,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2d4a66b09ef0f465eb6ad9649958a692",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1343311175,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1343311175,
-    "wof:lastmodified":1566655997,
-    "wof:name":"Huashi",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343311175,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Huashi",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.533,
     30.0786,
     105.533,
     30.0786
-],
-  "geometry": {"coordinates":[105.533,30.0786],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.533,
+      30.0786
+    ],
+    "type": "Point"
+  }
 }

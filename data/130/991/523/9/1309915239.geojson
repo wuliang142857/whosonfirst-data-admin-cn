@@ -2,79 +2,87 @@
   "id": 1309915239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.45585,29.83527,118.45585,29.83527",
-    "geom:latitude":29.83527,
-    "geom:longitude":118.45585,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Zhucun",
-    "gn:country_code":"CN",
-    "gn:dem":121,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1553381,
-    "gn:latitude":29.83527,
-    "gn:longitude":118.45585,
-    "gn:modification_date":"2015-10-04",
-    "gn:name":"Zhucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.43585,29.81527,118.47585,29.85527",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chu-chia-ts\u2019un",
-        "Zhucun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.45585,29.83527,118.45585,29.83527",
+    "geom:latitude": 29.83527,
+    "geom:longitude": 118.45585,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Zhucun",
+    "gn:country_code": "CN",
+    "gn:dem": 121,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1553381,
+    "gn:latitude": 29.83527,
+    "gn:longitude": 118.45585,
+    "gn:modification_date": "2015-10-04",
+    "gn:name": "Zhucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.43585,29.81527,118.47585,29.85527",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chu-chia-ts’un",
+      "Zhucun"
     ],
-    "name:zho_x_preferred":[
-        "\u6731\u6751"
+    "name:zho_x_preferred": [
+      "朱村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515709,
+      1108732553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1553381
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1553381
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d2fd7a4b4d8238d5fbc70e8f8b91ddd3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732553,
-            "empire_id":136253041,
-            "locality_id":1309915239,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d2fd7a4b4d8238d5fbc70e8f8b91ddd3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732553,
+        "empire_id": 136253041,
+        "locality_id": 1309915239,
+        "region_id": 85669739,
+        "localadmin_id": 890515709
+      }
     ],
-    "wof:id":1309915239,
-    "wof:lastmodified":1566692344,
-    "wof:name":"Zhucun",
-    "wof:parent_id":1108732553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309915239,
+    "wof:lastmodified": 1768670020,
+    "wof:name": "Zhucun",
+    "wof:parent_id": 890515709,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.45585,
     29.83527,
     118.45585,
     29.83527
-],
-  "geometry": {"coordinates":[118.45585,29.83527],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.45585,
+      29.83527
+    ],
+    "type": "Point"
+  }
 }

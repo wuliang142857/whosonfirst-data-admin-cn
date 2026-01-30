@@ -2,81 +2,89 @@
   "id": 890516387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.66722,36.24111,115.66722,36.24111",
-    "geom:latitude":36.24111,
-    "geom:longitude":115.66722,
-    "gn:country":"CN",
-    "gn:fcode":"PPL",
-    "gn:population":79196,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"115.64722,36.22111,115.68722,36.26111",
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":8.0,
-    "name:und_x_variant":[
-        "Sinhsien"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.66722,36.24111,115.66722,36.24111",
+    "geom:latitude": 36.24111,
+    "geom:longitude": 115.66722,
+    "gn:country": "CN",
+    "gn:fcode": "PPL",
+    "gn:population": 79196,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "115.64722,36.22111,115.68722,36.26111",
+    "lbl:max_zoom": 14.0,
+    "lbl:min_zoom": 9.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 8.0,
+    "name:und_x_variant": [
+      "Sinhsien"
     ],
-    "name:zho_x_preferred":[
-        "\u96c1\u5854"
+    "name:zho_x_preferred": [
+      "雁塔"
     ],
-    "qs:name":"\u8398",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5c71\u4e1c\u7701",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"8",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515909
+    "qs:name": "莘",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "山东省",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "8",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890515909,
+      1127371522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795579,
-        "gp:id":2167891,
-        "qs_pg:id":1306639
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795579,
+      "gp:id": 2167891,
+      "qs_pg:id": 1306639
     },
-    "wof:country":"CN",
-    "wof:created":1469055955,
-    "wof:geomhash":"52e65cef5ad078deaa08d37d3830732f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515909,
-            "empire_id":136253041,
-            "locality_id":890516387,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055955,
+    "wof:geomhash": "52e65cef5ad078deaa08d37d3830732f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515909,
+        "empire_id": 136253041,
+        "locality_id": 890516387,
+        "region_id": 85669813,
+        "localadmin_id": 1127371522
+      }
     ],
-    "wof:id":890516387,
-    "wof:lastmodified":1566693639,
-    "wof:name":"\u8398",
-    "wof:parent_id":890515909,
-    "wof:placetype":"locality",
-    "wof:population":79196,
-    "wof:population_rank":8,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516387,
+    "wof:lastmodified": 1768668663,
+    "wof:name": "莘",
+    "wof:parent_id": 1127371522,
+    "wof:placetype": "locality",
+    "wof:population": 79196,
+    "wof:population_rank": 8,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.66722,
     36.24111,
     115.66722,
     36.24111
-],
-  "geometry": {"coordinates":[115.66722,36.24111],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.66722,
+      36.24111
+    ],
+    "type": "Point"
+  }
 }

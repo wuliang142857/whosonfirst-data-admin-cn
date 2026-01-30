@@ -2,73 +2,81 @@
   "id": 1327067315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.67906,18.67251,109.67906,18.67251",
-    "geom:latitude":18.67251,
-    "geom:longitude":109.67906,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Xinxing Nongchang Liuqu",
-    "gn:country_code":"CN",
-    "gn:dem":85,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":7880715,
-    "gn:latitude":18.67251,
-    "gn:longitude":109.67906,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xinxing Nongchang Liuqu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.65906,18.65251,109.69906,18.69251",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u65b0\u661f\u519c\u573a\u516d\u533a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.67906,18.67251,109.67906,18.67251",
+    "geom:latitude": 18.67251,
+    "geom:longitude": 109.67906,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Xinxing Nongchang Liuqu",
+    "gn:country_code": "CN",
+    "gn:dem": 85,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 7880715,
+    "gn:latitude": 18.67251,
+    "gn:longitude": 109.67906,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xinxing Nongchang Liuqu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.65906,18.65251,109.69906,18.69251",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "新星农场六区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732357
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515211,
+      1108732357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7880715
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7880715
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d510e4a8227adb8653fe3c3720aeb87e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732357,
-            "locality_id":1327067315,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d510e4a8227adb8653fe3c3720aeb87e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732357,
+        "locality_id": 1327067315,
+        "region_id": 85669759,
+        "localadmin_id": 890515211
+      }
     ],
-    "wof:id":1327067315,
-    "wof:lastmodified":1566646760,
-    "wof:name":"Xinxing Nongchang Liuqu",
-    "wof:parent_id":1108732357,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327067315,
+    "wof:lastmodified": 1768671214,
+    "wof:name": "Xinxing Nongchang Liuqu",
+    "wof:parent_id": 890515211,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.67906,
     18.67251,
     109.67906,
     18.67251
-],
-  "geometry": {"coordinates":[109.67906000000001,18.67251],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.67906,
+      18.67251
+    ],
+    "type": "Point"
+  }
 }

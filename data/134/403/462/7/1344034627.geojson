@@ -2,75 +2,83 @@
   "id": 1344034627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.96344,30.68625,112.96344,30.68625",
-    "geom:latitude":30.68625,
-    "geom:longitude":112.96344,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Yaojiaxitou",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7660751,
-    "gn:latitude":30.68625,
-    "gn:longitude":112.96344,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yaojiaxitou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.94344,30.66625,112.98344,30.70625",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u59da\u5bb6\u6eaa\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.96344,30.68625,112.96344,30.68625",
+    "geom:latitude": 30.68625,
+    "geom:longitude": 112.96344,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Yaojiaxitou",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7660751,
+    "gn:latitude": 30.68625,
+    "gn:longitude": 112.96344,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yaojiaxitou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.94344,30.66625,112.98344,30.70625",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "姚家溪头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732405
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890517005,
+      1108732405
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7660751
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7660751
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8dac88d363903eb1dcdbc580076b8180",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732405,
-            "empire_id":136253041,
-            "locality_id":1344034627,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8dac88d363903eb1dcdbc580076b8180",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732405,
+        "empire_id": 136253041,
+        "locality_id": 1344034627,
+        "region_id": 85669777,
+        "localadmin_id": 890517005
+      }
     ],
-    "wof:id":1344034627,
-    "wof:lastmodified":1566663276,
-    "wof:name":"Yaojiaxitou",
-    "wof:parent_id":1108732405,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344034627,
+    "wof:lastmodified": 1768667212,
+    "wof:name": "Yaojiaxitou",
+    "wof:parent_id": 890517005,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.96344,
     30.68625,
     112.96344,
     30.68625
-],
-  "geometry": {"coordinates":[112.96344000000001,30.68625],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.96344,
+      30.68625
+    ],
+    "type": "Point"
+  }
 }

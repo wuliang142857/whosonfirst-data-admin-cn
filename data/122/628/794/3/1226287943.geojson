@@ -2,75 +2,83 @@
   "id": 1226287943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.928,28.7691,104.928,28.7691",
-    "geom:latitude":28.7691,
-    "geom:longitude":104.928,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Xiejiaba",
-    "gn:country_code":"CN",
-    "gn:dem":272,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10185192,
-    "gn:latitude":28.7691,
-    "gn:longitude":104.928,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Xiejiaba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.908,28.7491,104.948,28.7891",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8c22\u5bb6\u575d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.928,28.7691,104.928,28.7691",
+    "geom:latitude": 28.7691,
+    "geom:longitude": 104.928,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Xiejiaba",
+    "gn:country_code": "CN",
+    "gn:dem": 272,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10185192,
+    "gn:latitude": 28.7691,
+    "gn:longitude": 104.928,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Xiejiaba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.908,28.7491,104.948,28.7891",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "谢家坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516019,
+      890516537
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10185192
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10185192
     },
-    "wof:country":"CN",
-    "wof:geomhash":"33d68e8ad1ed6afda25086b3b0ef3434",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1226287943,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "33d68e8ad1ed6afda25086b3b0ef3434",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1226287943,
+        "region_id": 85669787,
+        "localadmin_id": 890516019
+      }
     ],
-    "wof:id":1226287943,
-    "wof:lastmodified":1566701246,
-    "wof:name":"Xiejiaba",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226287943,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Xiejiaba",
+    "wof:parent_id": 890516019,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.928,
     28.7691,
     104.928,
     28.7691
-],
-  "geometry": {"coordinates":[104.928,28.7691],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.928,
+      28.7691
+    ],
+    "type": "Point"
+  }
 }

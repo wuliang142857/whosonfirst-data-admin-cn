@@ -2,75 +2,83 @@
   "id": 1309812007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.84223,27.59648,119.84223,27.59648",
-    "geom:latitude":27.59648,
-    "geom:longitude":119.84223,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Kengtou",
-    "gn:country_code":"CN",
-    "gn:dem":124,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11182672,
-    "gn:latitude":27.59648,
-    "gn:longitude":119.84223,
-    "gn:modification_date":"2016-06-06",
-    "gn:name":"Kengtou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.82223,27.57648,119.86223,27.61648",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5751\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.84223,27.59648,119.84223,27.59648",
+    "geom:latitude": 27.59648,
+    "geom:longitude": 119.84223,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Kengtou",
+    "gn:country_code": "CN",
+    "gn:dem": 124,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11182672,
+    "gn:latitude": 27.59648,
+    "gn:longitude": 119.84223,
+    "gn:modification_date": "2016-06-06",
+    "gn:name": "Kengtou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.82223,27.57648,119.86223,27.61648",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坑头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11182672
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11182672
     },
-    "wof:country":"CN",
-    "wof:geomhash":"54ba39c1dfb5a104984fe07c5d9dfb98",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1309812007,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "54ba39c1dfb5a104984fe07c5d9dfb98",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1309812007,
+        "region_id": 85669835,
+        "localadmin_id": 1127330329
+      }
     ],
-    "wof:id":1309812007,
-    "wof:lastmodified":1566693452,
-    "wof:name":"Kengtou",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309812007,
+    "wof:lastmodified": 1768669612,
+    "wof:name": "Kengtou",
+    "wof:parent_id": 1127330329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.84223,
     27.59648,
     119.84223,
     27.59648
-],
-  "geometry": {"coordinates":[119.84223,27.59648],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.84223,
+      27.59648
+    ],
+    "type": "Point"
+  }
 }

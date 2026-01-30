@@ -2,81 +2,89 @@
   "id": 1343642413,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.81667,29.75,111.81667,29.75",
-    "geom:latitude":29.75,
-    "geom:longitude":111.81667,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Mengxi",
-    "gn:country_code":"CN",
-    "gn:dem":38,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1800686,
-    "gn:latitude":29.75,
-    "gn:longitude":111.81667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Mengxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.79667,29.73,111.83667,29.77",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Meng-hsi",
-        "Mengxi",
-        "\u68a6\u6eaa",
-        "Mengxi Zhen",
-        "Mengxisi",
-        "\u68a6\u6eaa\u9547",
-        "\u68a6\u6eaa\u5bfa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.81667,29.75,111.81667,29.75",
+    "geom:latitude": 29.75,
+    "geom:longitude": 111.81667,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Mengxi",
+    "gn:country_code": "CN",
+    "gn:dem": 38,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1800686,
+    "gn:latitude": 29.75,
+    "gn:longitude": 111.81667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Mengxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.79667,29.73,111.83667,29.77",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Meng-hsi",
+      "Mengxi",
+      "梦溪",
+      "Mengxi Zhen",
+      "Mengxisi",
+      "梦溪镇",
+      "梦溪寺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513121,
+      890515867
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800686
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800686
     },
-    "wof:country":"CN",
-    "wof:geomhash":"44b5a3feb89df93513b6600218823106",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1343642413,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "44b5a3feb89df93513b6600218823106",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1343642413,
+        "region_id": 85669781,
+        "localadmin_id": 890513121
+      }
     ],
-    "wof:id":1343642413,
-    "wof:lastmodified":1566657560,
-    "wof:name":"Mengxi",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343642413,
+    "wof:lastmodified": 1768670428,
+    "wof:name": "Mengxi",
+    "wof:parent_id": 890513121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.81667,
     29.75,
     111.81667,
     29.75
-],
-  "geometry": {"coordinates":[111.81667,29.75],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.81667,
+      29.75
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1327084333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.15382,24.98007,113.15382,24.98007",
-    "geom:latitude":24.98007,
-    "geom:longitude":113.15382,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Cangbei",
-    "gn:country_code":"CN",
-    "gn:dem":425,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8141853,
-    "gn:latitude":24.98007,
-    "gn:longitude":113.15382,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Cangbei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.13382,24.96007,113.17382,25.00007",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Cangbei"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.15382,24.98007,113.15382,24.98007",
+    "geom:latitude": 24.98007,
+    "geom:longitude": 113.15382,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Cangbei",
+    "gn:country_code": "CN",
+    "gn:dem": 425,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8141853,
+    "gn:latitude": 24.98007,
+    "gn:longitude": 113.15382,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Cangbei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.13382,24.96007,113.17382,25.00007",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Cangbei"
     ],
-    "name:zho_x_variant":[
-        "\u82cd\u80cc"
+    "name:zho_x_variant": [
+      "苍背"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516559,
+      890516663
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8141853
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8141853
     },
-    "wof:country":"CN",
-    "wof:geomhash":"63da610526b1d9ee204153f69ed6af06",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516559,
-            "empire_id":136253041,
-            "locality_id":1327084333,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "63da610526b1d9ee204153f69ed6af06",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516559,
+        "empire_id": 136253041,
+        "locality_id": 1327084333,
+        "region_id": 85669743,
+        "localadmin_id": 890516663
+      }
     ],
-    "wof:id":1327084333,
-    "wof:lastmodified":1566646994,
-    "wof:name":"Cangbei",
-    "wof:parent_id":890516559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327084333,
+    "wof:lastmodified": 1768667808,
+    "wof:name": "Cangbei",
+    "wof:parent_id": 890516663,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.15382,
     24.98007,
     113.15382,
     24.98007
-],
-  "geometry": {"coordinates":[113.15382,24.98007],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.15382,
+      24.98007
+    ],
+    "type": "Point"
+  }
 }

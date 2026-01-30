@@ -2,75 +2,83 @@
   "id": 1292992231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.297,27.16308,118.297,27.16308",
-    "geom:latitude":27.16308,
-    "geom:longitude":118.297,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Baxia",
-    "gn:country_code":"CN",
-    "gn:dem":162,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6906379,
-    "gn:latitude":27.16308,
-    "gn:longitude":118.297,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Baxia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.277,27.14308,118.317,27.18308",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u575d\u4e0b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.297,27.16308,118.297,27.16308",
+    "geom:latitude": 27.16308,
+    "geom:longitude": 118.297,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Baxia",
+    "gn:country_code": "CN",
+    "gn:dem": 162,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6906379,
+    "gn:latitude": 27.16308,
+    "gn:longitude": 118.297,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Baxia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.277,27.14308,118.317,27.18308",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坝下"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516651
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516651,
+      890516999
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6906379
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6906379
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2f29c0dc68b9c18cd1f372c8a21f6973",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516651,
-            "empire_id":136253041,
-            "locality_id":1292992231,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2f29c0dc68b9c18cd1f372c8a21f6973",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516651,
+        "empire_id": 136253041,
+        "locality_id": 1292992231,
+        "region_id": 85669735,
+        "localadmin_id": 890516999
+      }
     ],
-    "wof:id":1292992231,
-    "wof:lastmodified":1566670394,
-    "wof:name":"Baxia",
-    "wof:parent_id":890516651,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292992231,
+    "wof:lastmodified": 1768669418,
+    "wof:name": "Baxia",
+    "wof:parent_id": 890516999,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.297,
     27.16308,
     118.297,
     27.16308
-],
-  "geometry": {"coordinates":[118.297,27.16308],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.297,
+      27.16308
+    ],
+    "type": "Point"
+  }
 }

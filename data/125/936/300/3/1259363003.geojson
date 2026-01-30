@@ -2,75 +2,83 @@
   "id": 1259363003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.02805,32.00824,111.02805,32.00824",
-    "geom:latitude":32.00824,
-    "geom:longitude":111.02805,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhoujia Yuanzi",
-    "gn:country_code":"CN",
-    "gn:dem":751,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8510351,
-    "gn:latitude":32.00824,
-    "gn:longitude":111.02805,
-    "gn:modification_date":"2013-05-10",
-    "gn:name":"Zhoujia Yuanzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.00805,31.98824,111.04805,32.02824",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5468\u5bb6\u9662\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.02805,32.00824,111.02805,32.00824",
+    "geom:latitude": 32.00824,
+    "geom:longitude": 111.02805,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhoujia Yuanzi",
+    "gn:country_code": "CN",
+    "gn:dem": 751,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8510351,
+    "gn:latitude": 32.00824,
+    "gn:longitude": 111.02805,
+    "gn:modification_date": "2013-05-10",
+    "gn:name": "Zhoujia Yuanzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.00805,31.98824,111.04805,32.02824",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "周家院子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      1108732497,
+      1127420626
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8510351
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8510351
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e2dacbc2e251de4db55ab6e216f255d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1259363003,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e2dacbc2e251de4db55ab6e216f255d0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1259363003,
+        "region_id": 85669777,
+        "localadmin_id": 1127420626
+      }
     ],
-    "wof:id":1259363003,
-    "wof:lastmodified":1566697878,
-    "wof:name":"Zhoujia Yuanzi",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259363003,
+    "wof:lastmodified": 1768665619,
+    "wof:name": "Zhoujia Yuanzi",
+    "wof:parent_id": 1127420626,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.02805,
     32.00824,
     111.02805,
     32.00824
-],
-  "geometry": {"coordinates":[111.02804999999999,32.00824],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.02805,
+      32.00824
+    ],
+    "type": "Point"
+  }
 }

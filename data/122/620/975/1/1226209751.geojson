@@ -2,75 +2,83 @@
   "id": 1226209751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.479,37.6334,120.479,37.6334",
-    "geom:latitude":37.6334,
-    "geom:longitude":120.479,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Jiubei",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9498149,
-    "gn:latitude":37.6334,
-    "gn:longitude":120.479,
-    "gn:modification_date":"2014-09-07",
-    "gn:name":"Jiubei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.459,37.6134,120.499,37.6534",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e5d\u5317"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.479,37.6334,120.479,37.6334",
+    "geom:latitude": 37.6334,
+    "geom:longitude": 120.479,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Jiubei",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9498149,
+    "gn:latitude": 37.6334,
+    "gn:longitude": 120.479,
+    "gn:modification_date": "2014-09-07",
+    "gn:name": "Jiubei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.459,37.6134,120.499,37.6534",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "九北"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890515663,
+      890516301
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9498149
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9498149
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d8d254f10e43476a9608c658f4141f2e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1226209751,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d8d254f10e43476a9608c658f4141f2e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1226209751,
+        "region_id": 85669813,
+        "localadmin_id": 890515663
+      }
     ],
-    "wof:id":1226209751,
-    "wof:lastmodified":1566701732,
-    "wof:name":"Jiubei",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226209751,
+    "wof:lastmodified": 1768668015,
+    "wof:name": "Jiubei",
+    "wof:parent_id": 890515663,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.479,
     37.6334,
     120.479,
     37.6334
-],
-  "geometry": {"coordinates":[120.479,37.6334],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.479,
+      37.6334
+    ],
+    "type": "Point"
+  }
 }

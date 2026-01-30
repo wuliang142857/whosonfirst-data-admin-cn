@@ -2,78 +2,86 @@
   "id": 1209988823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.71,24.5246,106.71,24.5246",
-    "geom:latitude":24.5246,
-    "geom:longitude":106.71,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tianba",
-    "gn:country_code":"CN",
-    "gn:dem":777,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9912231,
-    "gn:latitude":24.5246,
-    "gn:longitude":106.71,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Tianba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.69,24.5046,106.73,24.5446",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7530\u575d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.71,24.5246,106.71,24.5246",
+    "geom:latitude": 24.5246,
+    "geom:longitude": 106.71,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tianba",
+    "gn:country_code": "CN",
+    "gn:dem": 777,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9912231,
+    "gn:latitude": 24.5246,
+    "gn:longitude": 106.71,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Tianba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.69,24.5046,106.73,24.5446",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "田坝"
     ],
-    "name:zho_x_variant":[
-        "\u7530\u575d\u4e61"
+    "name:zho_x_variant": [
+      "田坝乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451027
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9912231
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9912231
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9b62388399e7c63c9448f10c11daa2a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1209988823,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9b62388399e7c63c9448f10c11daa2a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1209988823,
+        "region_id": 85669717,
+        "localadmin_id": 1127451027
+      }
     ],
-    "wof:id":1209988823,
-    "wof:lastmodified":1566679056,
-    "wof:name":"Tianba",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209988823,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Tianba",
+    "wof:parent_id": 1127451027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.71,
     24.5246,
     106.71,
     24.5246
-],
-  "geometry": {"coordinates":[106.70999999999999,24.5246],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.71,
+      24.5246
+    ],
+    "type": "Point"
+  }
 }

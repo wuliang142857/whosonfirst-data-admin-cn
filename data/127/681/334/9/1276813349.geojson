@@ -2,75 +2,83 @@
   "id": 1276813349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.507,32.4468,105.507,32.4468",
-    "geom:latitude":32.4468,
-    "geom:longitude":105.507,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shangquli",
-    "gn:country_code":"CN",
-    "gn:dem":976,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10149407,
-    "gn:latitude":32.4468,
-    "gn:longitude":105.507,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shangquli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.487,32.4268,105.527,32.4668",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u6e20\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.507,32.4468,105.507,32.4468",
+    "geom:latitude": 32.4468,
+    "geom:longitude": 105.507,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shangquli",
+    "gn:country_code": "CN",
+    "gn:dem": 976,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10149407,
+    "gn:latitude": 32.4468,
+    "gn:longitude": 105.507,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shangquli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.487,32.4268,105.527,32.4668",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上渠里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512741,
+      1127510802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10149407
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10149407
     },
-    "wof:country":"CN",
-    "wof:geomhash":"739556ed2d6319f7873e7d2664026604",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512741,
-            "empire_id":136253041,
-            "locality_id":1276813349,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "739556ed2d6319f7873e7d2664026604",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512741,
+        "empire_id": 136253041,
+        "locality_id": 1276813349,
+        "region_id": 85669787,
+        "localadmin_id": 1127510802
+      }
     ],
-    "wof:id":1276813349,
-    "wof:lastmodified":1566672684,
-    "wof:name":"Shangquli",
-    "wof:parent_id":890512741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276813349,
+    "wof:lastmodified": 1768668639,
+    "wof:name": "Shangquli",
+    "wof:parent_id": 1127510802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.507,
     32.4468,
     105.507,
     32.4468
-],
-  "geometry": {"coordinates":[105.50700000000001,32.4468],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.507,
+      32.4468
+    ],
+    "type": "Point"
+  }
 }

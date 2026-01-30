@@ -2,75 +2,83 @@
   "id": 1259969181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.301,34.0149,116.301,34.0149",
-    "geom:latitude":34.0149,
-    "geom:longitude":116.301,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Honglou",
-    "gn:country_code":"CN",
-    "gn:dem":37,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9132133,
-    "gn:latitude":34.0149,
-    "gn:longitude":116.301,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Honglou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.281,33.9949,116.321,34.0349",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6d2a\u697c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.301,34.0149,116.301,34.0149",
+    "geom:latitude": 34.0149,
+    "geom:longitude": 116.301,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Honglou",
+    "gn:country_code": "CN",
+    "gn:dem": 37,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9132133,
+    "gn:latitude": 34.0149,
+    "gn:longitude": 116.301,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Honglou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.281,33.9949,116.321,34.0349",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "洪楼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513859,
+      890514845
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9132133
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9132133
     },
-    "wof:country":"CN",
-    "wof:geomhash":"79415a00722d1d716b0ebb4dcfe4c659",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514845,
-            "empire_id":136253041,
-            "locality_id":1259969181,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "79415a00722d1d716b0ebb4dcfe4c659",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514845,
+        "empire_id": 136253041,
+        "locality_id": 1259969181,
+        "region_id": 85669801,
+        "localadmin_id": 890513859
+      }
     ],
-    "wof:id":1259969181,
-    "wof:lastmodified":1566698286,
-    "wof:name":"Honglou",
-    "wof:parent_id":890514845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259969181,
+    "wof:lastmodified": 1768669080,
+    "wof:name": "Honglou",
+    "wof:parent_id": 890513859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.301,
     34.0149,
     116.301,
     34.0149
-],
-  "geometry": {"coordinates":[116.301,34.0149],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.301,
+      34.0149
+    ],
+    "type": "Point"
+  }
 }

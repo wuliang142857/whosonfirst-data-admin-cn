@@ -2,75 +2,83 @@
   "id": 1326915511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.13993,47.5836,123.13993,47.5836",
-    "geom:latitude":47.5836,
-    "geom:longitude":123.13993,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Jixiangcun",
-    "gn:country_code":"CN",
-    "gn:dem":237,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11564640,
-    "gn:latitude":47.5836,
-    "gn:longitude":123.13993,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Jixiangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.11993,47.5636,123.15993,47.6036",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5409\u7965\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.13993,47.5836,123.13993,47.5836",
+    "geom:latitude": 47.5836,
+    "geom:longitude": 123.13993,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Jixiangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 237,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11564640,
+    "gn:latitude": 47.5836,
+    "gn:longitude": 123.13993,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Jixiangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.11993,47.5636,123.15993,47.6036",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "吉祥村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11564640
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11564640
     },
-    "wof:country":"CN",
-    "wof:geomhash":"72041a3ffd6e5c13afed7196ed9c061d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1326915511,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "72041a3ffd6e5c13afed7196ed9c061d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1326915511,
+        "region_id": 85669849,
+        "localadmin_id": 1127230221
+      }
     ],
-    "wof:id":1326915511,
-    "wof:lastmodified":1566653579,
-    "wof:name":"Jixiangcun",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326915511,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Jixiangcun",
+    "wof:parent_id": 1127230221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.13993,
     47.5836,
     123.13993,
     47.5836
-],
-  "geometry": {"coordinates":[123.13993000000001,47.5836],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.13993,
+      47.5836
+    ],
+    "type": "Point"
+  }
 }

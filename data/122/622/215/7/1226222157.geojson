@@ -2,75 +2,83 @@
   "id": 1226222157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.97448,29.85073,113.97448,29.85073",
-    "geom:latitude":29.85073,
-    "geom:longitude":113.97448,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Songjiahe",
-    "gn:country_code":"CN",
-    "gn:dem":29,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8513445,
-    "gn:latitude":29.85073,
-    "gn:longitude":113.97448,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Songjiahe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.95448,29.83073,113.99448,29.87073",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b8b\u5bb6\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.97448,29.85073,113.97448,29.85073",
+    "geom:latitude": 29.85073,
+    "geom:longitude": 113.97448,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Songjiahe",
+    "gn:country_code": "CN",
+    "gn:dem": 29,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8513445,
+    "gn:latitude": 29.85073,
+    "gn:longitude": 113.97448,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Songjiahe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.95448,29.83073,113.99448,29.87073",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宋家河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514637
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890513925,
+      890514637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8513445
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8513445
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3d047c2c97068fa4ef1c9ffa77f5a12a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514637,
-            "empire_id":136253041,
-            "locality_id":1226222157,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3d047c2c97068fa4ef1c9ffa77f5a12a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514637,
+        "empire_id": 136253041,
+        "locality_id": 1226222157,
+        "region_id": 85669777,
+        "localadmin_id": 890513925
+      }
     ],
-    "wof:id":1226222157,
-    "wof:lastmodified":1566703866,
-    "wof:name":"Songjiahe",
-    "wof:parent_id":890514637,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226222157,
+    "wof:lastmodified": 1768667452,
+    "wof:name": "Songjiahe",
+    "wof:parent_id": 890513925,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.97448,
     29.85073,
     113.97448,
     29.85073
-],
-  "geometry": {"coordinates":[113.97448,29.85073],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.97448,
+      29.85073
+    ],
+    "type": "Point"
+  }
 }

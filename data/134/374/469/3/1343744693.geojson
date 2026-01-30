@@ -2,75 +2,83 @@
   "id": 1343744693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.611,34.291,105.611,34.291",
-    "geom:latitude":34.291,
-    "geom:longitude":105.611,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Yangwanli",
-    "gn:country_code":"CN",
-    "gn:dem":1590,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429683,
-    "gn:latitude":34.291,
-    "gn:longitude":105.611,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Yangwanli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.591,34.271,105.631,34.311",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u6e7e\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.611,34.291,105.611,34.291",
+    "geom:latitude": 34.291,
+    "geom:longitude": 105.611,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Yangwanli",
+    "gn:country_code": "CN",
+    "gn:dem": 1590,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429683,
+    "gn:latitude": 34.291,
+    "gn:longitude": 105.611,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Yangwanli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.591,34.271,105.631,34.311",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨湾里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429683
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429683
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aa162c4caba63d42511c5a667fa87d31",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1343744693,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aa162c4caba63d42511c5a667fa87d31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1343744693,
+        "region_id": 85669711,
+        "localadmin_id": 1127620502
+      }
     ],
-    "wof:id":1343744693,
-    "wof:lastmodified":1566664112,
-    "wof:name":"Yangwanli",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343744693,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Yangwanli",
+    "wof:parent_id": 1127620502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.611,
     34.291,
     105.611,
     34.291
-],
-  "geometry": {"coordinates":[105.611,34.291],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.611,
+      34.291
+    ],
+    "type": "Point"
+  }
 }

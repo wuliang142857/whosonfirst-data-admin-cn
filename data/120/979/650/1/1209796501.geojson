@@ -2,75 +2,83 @@
   "id": 1209796501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.55121,26.9278,112.55121,26.9278",
-    "geom:latitude":26.9278,
-    "geom:longitude":112.55121,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Duiheting",
-    "gn:country_code":"CN",
-    "gn:dem":54,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10335437,
-    "gn:latitude":26.9278,
-    "gn:longitude":112.55121,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Duiheting",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.53121,26.9078,112.57121,26.9478",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5bf9\u6cb3\u753a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.55121,26.9278,112.55121,26.9278",
+    "geom:latitude": 26.9278,
+    "geom:longitude": 112.55121,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Duiheting",
+    "gn:country_code": "CN",
+    "gn:dem": 54,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10335437,
+    "gn:latitude": 26.9278,
+    "gn:longitude": 112.55121,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Duiheting",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.53121,26.9078,112.57121,26.9478",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "对河町"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890513059
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513059,
+      1127430408
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10335437
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10335437
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1fc7c32d448c3beab800bd0d58e82080",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513059,
-            "empire_id":136253041,
-            "locality_id":1209796501,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1fc7c32d448c3beab800bd0d58e82080",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513059,
+        "empire_id": 136253041,
+        "locality_id": 1209796501,
+        "region_id": 85669781,
+        "localadmin_id": 1127430408
+      }
     ],
-    "wof:id":1209796501,
-    "wof:lastmodified":1566680527,
-    "wof:name":"Duiheting",
-    "wof:parent_id":890513059,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209796501,
+    "wof:lastmodified": 1768670314,
+    "wof:name": "Duiheting",
+    "wof:parent_id": 1127430408,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.55121,
     26.9278,
     112.55121,
     26.9278
-],
-  "geometry": {"coordinates":[112.55121,26.9278],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.55121,
+      26.9278
+    ],
+    "type": "Point"
+  }
 }

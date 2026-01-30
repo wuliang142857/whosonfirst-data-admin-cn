@@ -2,75 +2,83 @@
   "id": 1360057609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.178,23.6646,106.178,23.6646",
-    "geom:latitude":23.6646,
-    "geom:longitude":106.178,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Luzaotun",
-    "gn:country_code":"CN",
-    "gn:dem":618,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9908650,
-    "gn:latitude":23.6646,
-    "gn:longitude":106.178,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Luzaotun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.158,23.6446,106.198,23.6846",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9646\u65e9\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.178,23.6646,106.178,23.6646",
+    "geom:latitude": 23.6646,
+    "geom:longitude": 106.178,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Luzaotun",
+    "gn:country_code": "CN",
+    "gn:dem": 618,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9908650,
+    "gn:latitude": 23.6646,
+    "gn:longitude": 106.178,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Luzaotun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.158,23.6446,106.198,23.6846",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陆早屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514007,
+      890516485
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9908650
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9908650
     },
-    "wof:country":"CN",
-    "wof:geomhash":"38538501ebb9dc1619ecd5cdb078a5fc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1360057609,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "38538501ebb9dc1619ecd5cdb078a5fc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1360057609,
+        "region_id": 85669717,
+        "localadmin_id": 890514007
+      }
     ],
-    "wof:id":1360057609,
-    "wof:lastmodified":1566692214,
-    "wof:name":"Luzaotun",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360057609,
+    "wof:lastmodified": 1768665072,
+    "wof:name": "Luzaotun",
+    "wof:parent_id": 890514007,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.178,
     23.6646,
     106.178,
     23.6646
-],
-  "geometry": {"coordinates":[106.178,23.6646],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.178,
+      23.6646
+    ],
+    "type": "Point"
+  }
 }

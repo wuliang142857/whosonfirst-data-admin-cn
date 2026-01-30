@@ -2,75 +2,83 @@
   "id": 1276143245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.07483,26.9387,118.07483,26.9387",
-    "geom:latitude":26.9387,
-    "geom:longitude":118.07483,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Dingdun",
-    "gn:country_code":"CN",
-    "gn:dem":297,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7623078,
-    "gn:latitude":26.9387,
-    "gn:longitude":118.07483,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Dingdun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.05483,26.9187,118.09483,26.9587",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e01\u58a9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.07483,26.9387,118.07483,26.9387",
+    "geom:latitude": 26.9387,
+    "geom:longitude": 118.07483,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Dingdun",
+    "gn:country_code": "CN",
+    "gn:dem": 297,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7623078,
+    "gn:latitude": 26.9387,
+    "gn:longitude": 118.07483,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Dingdun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.05483,26.9187,118.09483,26.9587",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "丁墩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516651
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516651,
+      1127350721
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7623078
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7623078
     },
-    "wof:country":"CN",
-    "wof:geomhash":"34f6a01cee4c125681d594a2cf6d7637",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516651,
-            "empire_id":136253041,
-            "locality_id":1276143245,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "34f6a01cee4c125681d594a2cf6d7637",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516651,
+        "empire_id": 136253041,
+        "locality_id": 1276143245,
+        "region_id": 85669735,
+        "localadmin_id": 1127350721
+      }
     ],
-    "wof:id":1276143245,
-    "wof:lastmodified":1566675952,
-    "wof:name":"Dingdun",
-    "wof:parent_id":890516651,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276143245,
+    "wof:lastmodified": 1768669417,
+    "wof:name": "Dingdun",
+    "wof:parent_id": 1127350721,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.07483,
     26.9387,
     118.07483,
     26.9387
-],
-  "geometry": {"coordinates":[118.07483000000001,26.9387],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.07483,
+      26.9387
+    ],
+    "type": "Point"
+  }
 }

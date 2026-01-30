@@ -2,78 +2,86 @@
   "id": 890515563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.307243,29.735277,107.307243,29.735277",
-    "geom:latitude":29.735277,
-    "geom:longitude":107.307243,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"107.287243,29.715277,107.327243,29.755277",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Lidu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.307243,29.735277,107.307243,29.735277",
+    "geom:latitude": 29.735277,
+    "geom:longitude": 107.307243,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "107.287243,29.715277,107.327243,29.755277",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Lidu"
     ],
-    "name:zho_x_preferred":[
-        "\u674e\u6e21\u9547"
+    "name:zho_x_preferred": [
+      "李渡镇"
     ],
-    "qs:name":"\u674e\u6e21\u9547",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u91cd\u5e86\u76f4\u8f96\u5e02",
-    "qs:photos":60,
-    "qs:photos_1k":12,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":60,
-    "qs:photos_sr":2,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890513063,
-        136253041,
-        85669725
+    "qs:name": "李渡镇",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "重庆直辖市",
+    "qs:photos": 60,
+    "qs:photos_1k": 12,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 60,
+    "qs:photos_sr": 2,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2157826,
-        "qs_pg:id":1129882
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2157826,
+      "qs_pg:id": 1129882
     },
-    "wof:country":"CN",
-    "wof:created":1469055911,
-    "wof:geomhash":"2e4be1196931d540dd7a89bd77682a96",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":890515563,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055911,
+    "wof:geomhash": "2e4be1196931d540dd7a89bd77682a96",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 890515563,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":890515563,
-    "wof:lastmodified":1601423021,
-    "wof:name":"Lidu",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515563,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Lidu",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.307243,
     29.735277,
     107.307243,
     29.735277
-],
-  "geometry": {"coordinates":[107.307243,29.735277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.307243,
+      29.735277
+    ],
+    "type": "Point"
+  }
 }

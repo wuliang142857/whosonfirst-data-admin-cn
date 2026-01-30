@@ -2,81 +2,89 @@
   "id": 1276516237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.582,36.6887,105.582,36.6887",
-    "geom:latitude":36.6887,
-    "geom:longitude":105.582,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Dongpo",
-    "gn:country_code":"CN",
-    "gn:dem":1633,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10204250,
-    "gn:latitude":36.6887,
-    "gn:longitude":105.582,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Dongpo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.562,36.6687,105.602,36.7087",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Dongpo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.582,36.6887,105.582,36.6887",
+    "geom:latitude": 36.6887,
+    "geom:longitude": 105.582,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Dongpo",
+    "gn:country_code": "CN",
+    "gn:dem": 1633,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10204250,
+    "gn:latitude": 36.6887,
+    "gn:longitude": 105.582,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Dongpo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.562,36.6687,105.602,36.7087",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Dongpo"
     ],
-    "name:fra_x_preferred":[
-        "Dongpo"
+    "name:fra_x_preferred": [
+      "Dongpo"
     ],
-    "name:zho_x_preferred":[
-        "\u4e1c\u5761"
+    "name:zho_x_preferred": [
+      "东坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890512733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890512733,
+      1127640522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10204250
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10204250
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8baf17d7446cbf5ab884638d6d5925e8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512733,
-            "empire_id":136253041,
-            "locality_id":1276516237,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8baf17d7446cbf5ab884638d6d5925e8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512733,
+        "empire_id": 136253041,
+        "locality_id": 1276516237,
+        "region_id": 85669763,
+        "localadmin_id": 1127640522
+      }
     ],
-    "wof:id":1276516237,
-    "wof:lastmodified":1566674246,
-    "wof:name":"Dongpo",
-    "wof:parent_id":890512733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276516237,
+    "wof:lastmodified": 1768667214,
+    "wof:name": "Dongpo",
+    "wof:parent_id": 1127640522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.582,
     36.6887,
     105.582,
     36.6887
-],
-  "geometry": {"coordinates":[105.58199999999999,36.6887],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.582,
+      36.6887
+    ],
+    "type": "Point"
+  }
 }

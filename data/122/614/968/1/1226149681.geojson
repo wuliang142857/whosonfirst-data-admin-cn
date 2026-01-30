@@ -2,80 +2,88 @@
   "id": 1226149681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.83121,26.78632,115.83121,26.78632",
-    "geom:latitude":26.78632,
-    "geom:longitude":115.83121,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Xiaobu",
-    "gn:country_code":"CN",
-    "gn:dem":297,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1790315,
-    "gn:latitude":26.78632,
-    "gn:longitude":115.83121,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xiaobu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.81121,26.76632,115.85121,26.80632",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsiao-p\u2019u",
-        "Xiaopu",
-        "Xiaobu",
-        "\u5c0f\u5e03",
-        "Xiaobu Zhen",
-        "\u5c0f\u5e03\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.83121,26.78632,115.83121,26.78632",
+    "geom:latitude": 26.78632,
+    "geom:longitude": 115.83121,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Xiaobu",
+    "gn:country_code": "CN",
+    "gn:dem": 297,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1790315,
+    "gn:latitude": 26.78632,
+    "gn:longitude": 115.83121,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xiaobu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.81121,26.76632,115.85121,26.80632",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsiao-p’u",
+      "Xiaopu",
+      "Xiaobu",
+      "小布",
+      "Xiaobu Zhen",
+      "小布镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890511835
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890511835,
+      1127360730
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1790315
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1790315
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6974a9e355c2487b44102d953f4703dd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511835,
-            "empire_id":136253041,
-            "locality_id":1226149681,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6974a9e355c2487b44102d953f4703dd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511835,
+        "empire_id": 136253041,
+        "locality_id": 1226149681,
+        "region_id": 85669823,
+        "localadmin_id": 1127360730
+      }
     ],
-    "wof:id":1226149681,
-    "wof:lastmodified":1566703607,
-    "wof:name":"Xiaobu",
-    "wof:parent_id":890511835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226149681,
+    "wof:lastmodified": 1768669693,
+    "wof:name": "Xiaobu",
+    "wof:parent_id": 1127360730,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.83121,
     26.78632,
     115.83121,
     26.78632
-],
-  "geometry": {"coordinates":[115.83121,26.78632],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.83121,
+      26.78632
+    ],
+    "type": "Point"
+  }
 }

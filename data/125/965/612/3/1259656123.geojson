@@ -2,75 +2,83 @@
   "id": 1259656123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.06,24.9203,108.06,24.9203",
-    "geom:latitude":24.9203,
-    "geom:longitude":108.06,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Xialing",
-    "gn:country_code":"CN",
-    "gn:dem":468,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9942637,
-    "gn:latitude":24.9203,
-    "gn:longitude":108.06,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Xialing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.04,24.9003,108.08,24.9403",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0b\u5cad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.06,24.9203,108.06,24.9203",
+    "geom:latitude": 24.9203,
+    "geom:longitude": 108.06,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Xialing",
+    "gn:country_code": "CN",
+    "gn:dem": 468,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9942637,
+    "gn:latitude": 24.9203,
+    "gn:longitude": 108.06,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Xialing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.04,24.9003,108.08,24.9403",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "下岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451226
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9942637
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9942637
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4146dfe3406ccf7fffa783a2314e773d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1259656123,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4146dfe3406ccf7fffa783a2314e773d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1259656123,
+        "region_id": 85669717,
+        "localadmin_id": 1127451226
+      }
     ],
-    "wof:id":1259656123,
-    "wof:lastmodified":1566698211,
-    "wof:name":"Xialing",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259656123,
+    "wof:lastmodified": 1768665535,
+    "wof:name": "Xialing",
+    "wof:parent_id": 1127451226,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.06,
     24.9203,
     108.06,
     24.9203
-],
-  "geometry": {"coordinates":[108.06,24.9203],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.06,
+      24.9203
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1259752445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.079,22.7479,111.079,22.7479",
-    "geom:latitude":22.7479,
-    "geom:longitude":111.079,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Gongnai",
-    "gn:country_code":"CN",
-    "gn:dem":451,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9920167,
-    "gn:latitude":22.7479,
-    "gn:longitude":111.079,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Gongnai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.059,22.7279,111.099,22.7679",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u516c\u4e43"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.079,22.7479,111.079,22.7479",
+    "geom:latitude": 22.7479,
+    "geom:longitude": 111.079,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Gongnai",
+    "gn:country_code": "CN",
+    "gn:dem": 451,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9920167,
+    "gn:latitude": 22.7479,
+    "gn:longitude": 111.079,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Gongnai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.059,22.7279,111.099,22.7679",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "公乃"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9920167
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9920167
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a8d899cf04a87c0564ebe225986c3330",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1259752445,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a8d899cf04a87c0564ebe225986c3330",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1259752445,
+        "region_id": 85669717,
+        "localadmin_id": 1127450481
+      }
     ],
-    "wof:id":1259752445,
-    "wof:lastmodified":1566700570,
-    "wof:name":"Gongnai",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259752445,
+    "wof:lastmodified": 1768665954,
+    "wof:name": "Gongnai",
+    "wof:parent_id": 1127450481,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.079,
     22.7479,
     111.079,
     22.7479
-],
-  "geometry": {"coordinates":[111.07899999999999,22.7479],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.079,
+      22.7479
+    ],
+    "type": "Point"
+  }
 }

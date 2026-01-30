@@ -2,83 +2,91 @@
   "id": 1259544203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.14194,24.78917,103.14194,24.78917",
-    "geom:latitude":24.78917,
-    "geom:longitude":103.14194,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Goujie",
-    "gn:country_code":"CN",
-    "gn:dem":1532,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1810053,
-    "gn:latitude":24.78917,
-    "gn:longitude":103.14194,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Goujie",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.12194,24.76917,103.16194,24.80917",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Kou-chieh",
-        "Kowkaitze",
-        "Kou-chieh-tzu",
-        "Goujie Zhen",
-        "\u72d7\u8857\u9547",
-        "Goujie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.14194,24.78917,103.14194,24.78917",
+    "geom:latitude": 24.78917,
+    "geom:longitude": 103.14194,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Goujie",
+    "gn:country_code": "CN",
+    "gn:dem": 1532,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1810053,
+    "gn:latitude": 24.78917,
+    "gn:longitude": 103.14194,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Goujie",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.12194,24.76917,103.16194,24.80917",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Kou-chieh",
+      "Kowkaitze",
+      "Kou-chieh-tzu",
+      "Goujie Zhen",
+      "狗街镇",
+      "Goujie"
     ],
-    "name:zho_x_preferred":[
-        "\u72d7\u8857"
+    "name:zho_x_preferred": [
+      "狗街"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      890516197
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810053
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810053
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d8f2423105be094dd66c45c3a87fe904",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1259544203,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d8f2423105be094dd66c45c3a87fe904",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1259544203,
+        "region_id": 85669791,
+        "localadmin_id": 890516197
+      }
     ],
-    "wof:id":1259544203,
-    "wof:lastmodified":1566698046,
-    "wof:name":"Goujie",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259544203,
+    "wof:lastmodified": 1768668379,
+    "wof:name": "Goujie",
+    "wof:parent_id": 890516197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.14194,
     24.78917,
     103.14194,
     24.78917
-],
-  "geometry": {"coordinates":[103.14194000000001,24.78917],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.14194,
+      24.78917
+    ],
+    "type": "Point"
+  }
 }

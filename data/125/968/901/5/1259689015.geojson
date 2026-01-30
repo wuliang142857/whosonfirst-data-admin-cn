@@ -2,86 +2,94 @@
   "id": 1259689015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.006,34.5294,117.006,34.5294",
-    "geom:latitude":34.5294,
-    "geom:longitude":117.006,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Wanji",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1791791,
-    "gn:latitude":34.5294,
-    "gn:longitude":117.006,
-    "gn:modification_date":"2017-05-07",
-    "gn:name":"Wanji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.986,34.5094,117.026,34.5494",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wan-chi",
-        "Wanji"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.006,34.5294,117.006,34.5294",
+    "geom:latitude": 34.5294,
+    "geom:longitude": 117.006,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Wanji",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1791791,
+    "gn:latitude": 34.5294,
+    "gn:longitude": 117.006,
+    "gn:modification_date": "2017-05-07",
+    "gn:name": "Wanji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.986,34.5094,117.026,34.5494",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wan-chi",
+      "Wanji"
     ],
-    "name:zho_x_preferred":[
-        "\u6e7e\u96c6"
+    "name:zho_x_preferred": [
+      "湾集"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514319,
+      890516333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791791
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791791
     },
-    "wof:concordances_alt":{
-        "gn:id":[
-            11089269
-        ]
+    "wof:concordances_alt": {
+      "gn:id": [
+        11089269
+      ]
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8bae836025a0376f489208a6e47c433c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1259689015,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8bae836025a0376f489208a6e47c433c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1259689015,
+        "region_id": 85669827,
+        "localadmin_id": 890514319
+      }
     ],
-    "wof:id":1259689015,
-    "wof:lastmodified":1706239449,
-    "wof:name":"Wanji",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1360085055
+    "wof:id": 1259689015,
+    "wof:lastmodified": 1768670914,
+    "wof:name": "Wanji",
+    "wof:parent_id": 890514319,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1360085055
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     117.006,
     34.5294,
     117.006,
     34.5294
-],
-  "geometry": {"coordinates":[117.006,34.5294],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.006,
+      34.5294
+    ],
+    "type": "Point"
+  }
 }

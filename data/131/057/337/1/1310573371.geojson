@@ -2,75 +2,83 @@
   "id": 1310573371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.94,22.2277,107.94,22.2277",
-    "geom:latitude":22.2277,
-    "geom:longitude":107.94,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Quluo",
-    "gn:country_code":"CN",
-    "gn:dem":427,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9899885,
-    "gn:latitude":22.2277,
-    "gn:longitude":107.94,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Quluo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.92,22.2077,107.96,22.2477",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e20\u7f57"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.94,22.2277,107.94,22.2277",
+    "geom:latitude": 22.2277,
+    "geom:longitude": 107.94,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Quluo",
+    "gn:country_code": "CN",
+    "gn:dem": 427,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9899885,
+    "gn:latitude": 22.2277,
+    "gn:longitude": 107.94,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Quluo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.92,22.2077,107.96,22.2477",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "渠罗"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512639
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512639,
+      1127450621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9899885
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9899885
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c6a2fa1deb71018dff66e0af2aa49156",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512639,
-            "empire_id":136253041,
-            "locality_id":1310573371,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c6a2fa1deb71018dff66e0af2aa49156",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512639,
+        "empire_id": 136253041,
+        "locality_id": 1310573371,
+        "region_id": 85669717,
+        "localadmin_id": 1127450621
+      }
     ],
-    "wof:id":1310573371,
-    "wof:lastmodified":1566690572,
-    "wof:name":"Quluo",
-    "wof:parent_id":890512639,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310573371,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Quluo",
+    "wof:parent_id": 1127450621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.94,
     22.2277,
     107.94,
     22.2277
-],
-  "geometry": {"coordinates":[107.94,22.2277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.94,
+      22.2277
+    ],
+    "type": "Point"
+  }
 }

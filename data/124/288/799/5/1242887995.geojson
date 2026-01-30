@@ -2,72 +2,80 @@
   "id": 1242887995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.58649,31.39957,118.58649,31.39957",
-    "geom:latitude":31.39957,
-    "geom:longitude":118.58649,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Weibu",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7040636,
-    "gn:latitude":31.39957,
-    "gn:longitude":118.58649,
-    "gn:modification_date":"2012-10-07",
-    "gn:name":"Weibu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.56649,31.37957,118.60649,31.41957",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732543
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.58649,31.39957,118.58649,31.39957",
+    "geom:latitude": 31.39957,
+    "geom:longitude": 118.58649,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Weibu",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7040636,
+    "gn:latitude": 31.39957,
+    "gn:longitude": 118.58649,
+    "gn:modification_date": "2012-10-07",
+    "gn:name": "Weibu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.56649,31.37957,118.60649,31.41957",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515255,
+      1108732543
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7040636
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7040636
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d85fa65880ee8f5c8e14866fd45554a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732543,
-            "empire_id":136253041,
-            "locality_id":1242887995,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d85fa65880ee8f5c8e14866fd45554a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732543,
+        "empire_id": 136253041,
+        "locality_id": 1242887995,
+        "region_id": 85669739,
+        "localadmin_id": 890515255
+      }
     ],
-    "wof:id":1242887995,
-    "wof:lastmodified":1566694522,
-    "wof:name":"Weibu",
-    "wof:parent_id":1108732543,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242887995,
+    "wof:lastmodified": 1768669727,
+    "wof:name": "Weibu",
+    "wof:parent_id": 890515255,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.58649,
     31.39957,
     118.58649,
     31.39957
-],
-  "geometry": {"coordinates":[118.58649,31.39957],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.58649,
+      31.39957
+    ],
+    "type": "Point"
+  }
 }

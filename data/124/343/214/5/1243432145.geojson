@@ -2,77 +2,85 @@
   "id": 1243432145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.41158,29.77128,111.41158,29.77128",
-    "geom:latitude":29.77128,
-    "geom:longitude":111.41158,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Matoupu",
-    "gn:country_code":"CN",
-    "gn:dem":132,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1800997,
-    "gn:latitude":29.77128,
-    "gn:longitude":111.41158,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Matoupu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.39158,29.75128,111.43158,29.79128",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u7801\u5934\u94fa",
-        "Matoupu Zhen",
-        "\u7801\u5934\u94fa\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.41158,29.77128,111.41158,29.77128",
+    "geom:latitude": 29.77128,
+    "geom:longitude": 111.41158,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Matoupu",
+    "gn:country_code": "CN",
+    "gn:dem": 132,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1800997,
+    "gn:latitude": 29.77128,
+    "gn:longitude": 111.41158,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Matoupu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.39158,29.75128,111.43158,29.79128",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "码头铺",
+      "Matoupu Zhen",
+      "码头铺镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513121,
+      890515867
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800997
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800997
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c908ca8e0f16dd1afc9c9af3800530de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1243432145,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c908ca8e0f16dd1afc9c9af3800530de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1243432145,
+        "region_id": 85669781,
+        "localadmin_id": 890513121
+      }
     ],
-    "wof:id":1243432145,
-    "wof:lastmodified":1566697864,
-    "wof:name":"Matoupu",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243432145,
+    "wof:lastmodified": 1768670428,
+    "wof:name": "Matoupu",
+    "wof:parent_id": 890513121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.41158,
     29.77128,
     111.41158,
     29.77128
-],
-  "geometry": {"coordinates":[111.41158,29.77128],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.41158,
+      29.77128
+    ],
+    "type": "Point"
+  }
 }

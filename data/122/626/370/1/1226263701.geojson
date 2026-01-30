@@ -2,75 +2,83 @@
   "id": 1226263701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.88048,26.9025,119.88048,26.9025",
-    "geom:latitude":26.9025,
-    "geom:longitude":119.88048,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Bicuoli",
-    "gn:country_code":"CN",
-    "gn:dem":121,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8580189,
-    "gn:latitude":26.9025,
-    "gn:longitude":119.88048,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Bicuoli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.86048,26.8825,119.90048,26.9225",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6bd5\u539d\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.88048,26.9025,119.88048,26.9025",
+    "geom:latitude": 26.9025,
+    "geom:longitude": 119.88048,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Bicuoli",
+    "gn:country_code": "CN",
+    "gn:dem": 121,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8580189,
+    "gn:latitude": 26.9025,
+    "gn:longitude": 119.88048,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Bicuoli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.86048,26.8825,119.90048,26.9225",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "毕厝里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516577
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516577,
+      890516855
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8580189
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8580189
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7116ac354ff602ba7453a3162bfd4021",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516577,
-            "empire_id":136253041,
-            "locality_id":1226263701,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7116ac354ff602ba7453a3162bfd4021",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516577,
+        "empire_id": 136253041,
+        "locality_id": 1226263701,
+        "region_id": 85669735,
+        "localadmin_id": 890516855
+      }
     ],
-    "wof:id":1226263701,
-    "wof:lastmodified":1566701385,
-    "wof:name":"Bicuoli",
-    "wof:parent_id":890516577,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226263701,
+    "wof:lastmodified": 1768669104,
+    "wof:name": "Bicuoli",
+    "wof:parent_id": 890516855,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.88048,
     26.9025,
     119.88048,
     26.9025
-],
-  "geometry": {"coordinates":[119.88048000000001,26.9025],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.88048,
+      26.9025
+    ],
+    "type": "Point"
+  }
 }

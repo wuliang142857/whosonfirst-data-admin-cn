@@ -2,78 +2,325 @@
   "id": 890514305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.45509,30.71116,122.45509,30.71116",
-    "geom:latitude":30.71116,
-    "geom:longitude":122.45509,
-    "gn:country":"CN",
-    "gn:fcode":"ADM3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"122.35509,30.61116,122.55509,30.81116",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019eng-ssu Hsien"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.001689356117,
+    "geom:area_square_m": 1689356117.25,
+    "geom:bbox": "122.042222,30.575044,122.833454,30.863006",
+    "geom:latitude": 30.719025,
+    "geom:longitude": 122.437838,
+    "gn:country": "CN",
+    "gn:fcode": "ADM3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "122.33784,30.61902,122.53784,30.81902",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’eng-ssu Hsien"
     ],
-    "name:zho_x_preferred":[
-        "\u5d4a\u6cd7\u53bf"
+    "name:zho_x_preferred": [
+      "嵊泗县"
     ],
-    "name:zho_x_variant":[
-        "\u5d4a\u6cd7"
+    "name:zho_x_variant": [
+      "嵊泗"
     ],
-    "qs:name":"Shengsi Xian",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513083
+    "qs:name": "Shengsi Xian",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85669835,
+      102191569,
+      85632695,
+      136253041,
+      890513083
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795653,
-        "qs_pg:id":1031517
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795653,
+      "qs_pg:id": 1031517,
+      "gb:id": "156330922"
     },
-    "wof:country":"CN",
-    "wof:created":1469055855,
-    "wof:geomhash":"8074a99f5dc33499203fa056ad025fdf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513083,
-            "empire_id":136253041,
-            "localadmin_id":890514305,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055855,
+    "wof:geomhash": "8074a99f5dc33499203fa056ad025fdf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513083,
+        "empire_id": 136253041,
+        "localadmin_id": 890514305,
+        "region_id": 85669835
+      }
     ],
-    "wof:id":890514305,
-    "wof:lastmodified":1566693683,
-    "wof:name":"Shengsi Xian",
-    "wof:parent_id":890513083,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890514305,
+    "wof:lastmodified": 1768664149,
+    "wof:name": "Shengsi Xian",
+    "wof:parent_id": 890513083,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    122.45509,
-    30.71116,
-    122.45509,
-    30.71116
-],
-  "geometry": {"coordinates":[122.45509,30.71116],"type":"Point"}
+    122.042222,
+    30.575044,
+    122.833454,
+    30.863006
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            122.08031,
+            30.581835
+          ],
+          [
+            122.067604,
+            30.575044
+          ],
+          [
+            122.05389,
+            30.595498
+          ],
+          [
+            122.077157,
+            30.597895
+          ],
+          [
+            122.08031,
+            30.581835
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            122.102913,
+            30.615409
+          ],
+          [
+            122.088429,
+            30.604641
+          ],
+          [
+            122.042222,
+            30.636073
+          ],
+          [
+            122.059366,
+            30.647768
+          ],
+          [
+            122.076063,
+            30.63599
+          ],
+          [
+            122.102875,
+            30.624666
+          ],
+          [
+            122.102913,
+            30.615409
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            122.573007,
+            30.658209
+          ],
+          [
+            122.558892,
+            30.651696
+          ],
+          [
+            122.550146,
+            30.659516
+          ],
+          [
+            122.556068,
+            30.681194
+          ],
+          [
+            122.57189,
+            30.665909
+          ],
+          [
+            122.573007,
+            30.658209
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            122.785473,
+            30.73068
+          ],
+          [
+            122.772006,
+            30.710444
+          ],
+          [
+            122.754913,
+            30.71514
+          ],
+          [
+            122.773077,
+            30.728218
+          ],
+          [
+            122.785473,
+            30.73068
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            122.833454,
+            30.706917
+          ],
+          [
+            122.829315,
+            30.702362
+          ],
+          [
+            122.825706,
+            30.712567
+          ],
+          [
+            122.817572,
+            30.71717
+          ],
+          [
+            122.803254,
+            30.720814
+          ],
+          [
+            122.812046,
+            30.735089
+          ],
+          [
+            122.815689,
+            30.730324
+          ],
+          [
+            122.828296,
+            30.727085
+          ],
+          [
+            122.831992,
+            30.718996
+          ],
+          [
+            122.830075,
+            30.713602
+          ],
+          [
+            122.833454,
+            30.706917
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            122.471349,
+            30.715034
+          ],
+          [
+            122.489563,
+            30.712857
+          ],
+          [
+            122.528012,
+            30.724356
+          ],
+          [
+            122.530616,
+            30.702283
+          ],
+          [
+            122.498565,
+            30.70827
+          ],
+          [
+            122.461929,
+            30.69906
+          ],
+          [
+            122.428621,
+            30.696188
+          ],
+          [
+            122.426888,
+            30.706608
+          ],
+          [
+            122.439887,
+            30.717862
+          ],
+          [
+            122.437855,
+            30.736897
+          ],
+          [
+            122.425878,
+            30.745137
+          ],
+          [
+            122.441816,
+            30.746575
+          ],
+          [
+            122.471349,
+            30.715034
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            122.691757,
+            30.8455
+          ],
+          [
+            122.685137,
+            30.84184
+          ],
+          [
+            122.671199,
+            30.844787
+          ],
+          [
+            122.67512,
+            30.863006
+          ],
+          [
+            122.687727,
+            30.850045
+          ],
+          [
+            122.691757,
+            30.8455
+          ]
+        ]
+      ]
+    ]
+  }
 }

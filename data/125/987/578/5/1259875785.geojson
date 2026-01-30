@@ -2,75 +2,83 @@
   "id": 1259875785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.68965,45.53045,125.68965,45.53045",
-    "geom:latitude":45.53045,
-    "geom:longitude":125.68965,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Zhaolintun",
-    "gn:country_code":"CN",
-    "gn:dem":124,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11580444,
-    "gn:latitude":45.53045,
-    "gn:longitude":125.68965,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Zhaolintun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.66965,45.51045,125.70965,45.55045",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d75\u6797\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.68965,45.53045,125.68965,45.53045",
+    "geom:latitude": 45.53045,
+    "geom:longitude": 125.68965,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Zhaolintun",
+    "gn:country_code": "CN",
+    "gn:dem": 124,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11580444,
+    "gn:latitude": 45.53045,
+    "gn:longitude": 125.68965,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Zhaolintun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.66965,45.51045,125.70965,45.55045",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赵林屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890513007
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890512579,
+      890513007
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11580444
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11580444
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d808fe72b86aeb9a125a01737031df8a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513007,
-            "empire_id":136253041,
-            "locality_id":1259875785,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d808fe72b86aeb9a125a01737031df8a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513007,
+        "empire_id": 136253041,
+        "locality_id": 1259875785,
+        "region_id": 85669849,
+        "localadmin_id": 890512579
+      }
     ],
-    "wof:id":1259875785,
-    "wof:lastmodified":1566700151,
-    "wof:name":"Zhaolintun",
-    "wof:parent_id":890513007,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259875785,
+    "wof:lastmodified": 1768669535,
+    "wof:name": "Zhaolintun",
+    "wof:parent_id": 890512579,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.68965,
     45.53045,
     125.68965,
     45.53045
-],
-  "geometry": {"coordinates":[125.68965,45.53045],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.68965,
+      45.53045
+    ],
+    "type": "Point"
+  }
 }

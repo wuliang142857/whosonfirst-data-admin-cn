@@ -2,75 +2,83 @@
   "id": 1343839495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.431,25.5364,110.431,25.5364",
-    "geom:latitude":25.5364,
-    "geom:longitude":110.431,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Xiaorongjiang",
-    "gn:country_code":"CN",
-    "gn:dem":219,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1991564,
-    "gn:latitude":25.5364,
-    "gn:longitude":110.431,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Xiaorongjiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.411,25.5164,110.451,25.5564",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u6eb6\u6c5f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.431,25.5364,110.431,25.5364",
+    "geom:latitude": 25.5364,
+    "geom:longitude": 110.431,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Xiaorongjiang",
+    "gn:country_code": "CN",
+    "gn:dem": 219,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1991564,
+    "gn:latitude": 25.5364,
+    "gn:longitude": 110.431,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Xiaorongjiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.411,25.5164,110.451,25.5564",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小溶江"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732443
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516221,
+      1108732443
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1991564
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1991564
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7b618bef5cb5cdb8586f45444f8214fc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":1343839495,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7b618bef5cb5cdb8586f45444f8214fc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 1343839495,
+        "region_id": 85669717,
+        "localadmin_id": 890516221
+      }
     ],
-    "wof:id":1343839495,
-    "wof:lastmodified":1566659294,
-    "wof:name":"Xiaorongjiang",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343839495,
+    "wof:lastmodified": 1768665549,
+    "wof:name": "Xiaorongjiang",
+    "wof:parent_id": 890516221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.431,
     25.5364,
     110.431,
     25.5364
-],
-  "geometry": {"coordinates":[110.431,25.5364],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.431,
+      25.5364
+    ],
+    "type": "Point"
+  }
 }

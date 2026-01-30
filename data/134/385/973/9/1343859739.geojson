@@ -2,81 +2,89 @@
   "id": 1343859739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.34951,28.10186,114.34951,28.10186",
-    "geom:latitude":28.10186,
-    "geom:longitude":114.34951,
-    "gn:admin1_code":"03",
-    "gn:asciiname":"Gaocheng",
-    "gn:country_code":"CN",
-    "gn:dem":96,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1810605,
-    "gn:latitude":28.10186,
-    "gn:longitude":114.34951,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Gaocheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.32951,28.08186,114.36951,28.12186",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Gaocheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.34951,28.10186,114.34951,28.10186",
+    "geom:latitude": 28.10186,
+    "geom:longitude": 114.34951,
+    "gn:admin1_code": "03",
+    "gn:asciiname": "Gaocheng",
+    "gn:country_code": "CN",
+    "gn:dem": 96,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1810605,
+    "gn:latitude": 28.10186,
+    "gn:longitude": 114.34951,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Gaocheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.32951,28.08186,114.36951,28.12186",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Gaocheng"
     ],
-    "name:und_x_variant":[
-        "Kao-ch\u2019eng",
-        "\u9ad8\u57ce",
-        "Gaocheng Xiang",
-        "\u9ad8\u57ce\u4e61"
+    "name:und_x_variant": [
+      "Kao-ch’eng",
+      "高城",
+      "Gaocheng Xiang",
+      "高城乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514553,
+      1127360922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810605
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810605
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0f4befd92a089bdd5890b77d3fd83474",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1343859739,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0f4befd92a089bdd5890b77d3fd83474",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1343859739,
+        "region_id": 85669823,
+        "localadmin_id": 1127360922
+      }
     ],
-    "wof:id":1343859739,
-    "wof:lastmodified":1566659924,
-    "wof:name":"Gaocheng",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343859739,
+    "wof:lastmodified": 1768669928,
+    "wof:name": "Gaocheng",
+    "wof:parent_id": 1127360922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.34951,
     28.10186,
     114.34951,
     28.10186
-],
-  "geometry": {"coordinates":[114.34951,28.10186],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.34951,
+      28.10186
+    ],
+    "type": "Point"
+  }
 }

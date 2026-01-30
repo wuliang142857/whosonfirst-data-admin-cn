@@ -2,75 +2,83 @@
   "id": 1310448547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.465,22.952,101.465,22.952",
-    "geom:latitude":22.952,
-    "geom:longitude":101.465,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Laohuazhai",
-    "gn:country_code":"CN",
-    "gn:dem":1037,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9920445,
-    "gn:latitude":22.952,
-    "gn:longitude":101.465,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Laohuazhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.445,22.932,101.485,22.972",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8001\u534e\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.465,22.952,101.465,22.952",
+    "geom:latitude": 22.952,
+    "geom:longitude": 101.465,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Laohuazhai",
+    "gn:country_code": "CN",
+    "gn:dem": 1037,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9920445,
+    "gn:latitude": 22.952,
+    "gn:longitude": 101.465,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Laohuazhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.445,22.932,101.485,22.972",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "老华寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514995
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514995,
+      1127530821
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9920445
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9920445
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eb055c49dfb8939154307ed02b6975bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514995,
-            "empire_id":136253041,
-            "locality_id":1310448547,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eb055c49dfb8939154307ed02b6975bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514995,
+        "empire_id": 136253041,
+        "locality_id": 1310448547,
+        "region_id": 85669791,
+        "localadmin_id": 1127530821
+      }
     ],
-    "wof:id":1310448547,
-    "wof:lastmodified":1566690014,
-    "wof:name":"Laohuazhai",
-    "wof:parent_id":890514995,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310448547,
+    "wof:lastmodified": 1768668367,
+    "wof:name": "Laohuazhai",
+    "wof:parent_id": 1127530821,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.465,
     22.952,
     101.465,
     22.952
-],
-  "geometry": {"coordinates":[101.465,22.952],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.465,
+      22.952
+    ],
+    "type": "Point"
+  }
 }

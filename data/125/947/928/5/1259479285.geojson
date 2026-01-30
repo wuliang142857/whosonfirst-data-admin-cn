@@ -2,78 +2,86 @@
   "id": 1259479285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.70207,25.3515,118.70207,25.3515",
-    "geom:latitude":25.3515,
-    "geom:longitude":118.70207,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Xipu",
-    "gn:country_code":"CN",
-    "gn:dem":62,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8574139,
-    "gn:latitude":25.3515,
-    "gn:longitude":118.70207,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Xipu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.68207,25.3315,118.72207,25.3715",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Xipu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.70207,25.3515,118.70207,25.3515",
+    "geom:latitude": 25.3515,
+    "geom:longitude": 118.70207,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Xipu",
+    "gn:country_code": "CN",
+    "gn:dem": 62,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8574139,
+    "gn:latitude": 25.3515,
+    "gn:longitude": 118.70207,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Xipu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.68207,25.3315,118.72207,25.3715",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Xipu"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u57d4"
+    "name:zho_x_preferred": [
+      "西埔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516865
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513173,
+      890516865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8574139
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8574139
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eb5e4d132942e7aff4c6fc4ba729700f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516865,
-            "empire_id":136253041,
-            "locality_id":1259479285,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eb5e4d132942e7aff4c6fc4ba729700f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516865,
+        "empire_id": 136253041,
+        "locality_id": 1259479285,
+        "region_id": 85669735,
+        "localadmin_id": 890513173
+      }
     ],
-    "wof:id":1259479285,
-    "wof:lastmodified":1566699100,
-    "wof:name":"Xipu",
-    "wof:parent_id":890516865,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259479285,
+    "wof:lastmodified": 1768669538,
+    "wof:name": "Xipu",
+    "wof:parent_id": 890513173,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.70207,
     25.3515,
     118.70207,
     25.3515
-],
-  "geometry": {"coordinates":[118.70207000000001,25.3515],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.70207,
+      25.3515
+    ],
+    "type": "Point"
+  }
 }

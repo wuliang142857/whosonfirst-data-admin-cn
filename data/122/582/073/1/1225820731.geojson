@@ -2,75 +2,83 @@
   "id": 1225820731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.896,26.9855,106.896,26.9855",
-    "geom:latitude":26.9855,
-    "geom:longitude":106.896,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Hemachong",
-    "gn:country_code":"CN",
-    "gn:dem":1211,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10023973,
-    "gn:latitude":26.9855,
-    "gn:longitude":106.896,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Hemachong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.876,26.9655,106.916,27.0055",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6cb3\u9ebb\u51b2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.896,26.9855,106.896,26.9855",
+    "geom:latitude": 26.9855,
+    "geom:longitude": 106.896,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Hemachong",
+    "gn:country_code": "CN",
+    "gn:dem": 1211,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10023973,
+    "gn:latitude": 26.9855,
+    "gn:longitude": 106.896,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Hemachong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.876,26.9655,106.916,27.0055",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "河麻冲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516581
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890516581,
+      1127520121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10023973
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10023973
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f8754feb6e1f42d6ab1c713dac0a477e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516581,
-            "empire_id":136253041,
-            "locality_id":1225820731,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f8754feb6e1f42d6ab1c713dac0a477e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516581,
+        "empire_id": 136253041,
+        "locality_id": 1225820731,
+        "region_id": 85669721,
+        "localadmin_id": 1127520121
+      }
     ],
-    "wof:id":1225820731,
-    "wof:lastmodified":1566705787,
-    "wof:name":"Hemachong",
-    "wof:parent_id":890516581,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225820731,
+    "wof:lastmodified": 1768666902,
+    "wof:name": "Hemachong",
+    "wof:parent_id": 1127520121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.896,
     26.9855,
     106.896,
     26.9855
-],
-  "geometry": {"coordinates":[106.896,26.9855],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.896,
+      26.9855
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243332983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.31,23.0812,111.31,23.0812",
-    "geom:latitude":23.0812,
-    "geom:longitude":111.31,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Shanghe",
-    "gn:country_code":"CN",
-    "gn:dem":113,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9919970,
-    "gn:latitude":23.0812,
-    "gn:longitude":111.31,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Shanghe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.29,23.0612,111.33,23.1012",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u5408"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.31,23.0812,111.31,23.0812",
+    "geom:latitude": 23.0812,
+    "geom:longitude": 111.31,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Shanghe",
+    "gn:country_code": "CN",
+    "gn:dem": 113,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9919970,
+    "gn:latitude": 23.0812,
+    "gn:longitude": 111.31,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Shanghe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.29,23.0612,111.33,23.1012",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上合"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450406
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9919970
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9919970
     },
-    "wof:country":"CN",
-    "wof:geomhash":"87d34fd9a13e80ce4429141065f193e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1243332983,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "87d34fd9a13e80ce4429141065f193e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1243332983,
+        "region_id": 85669717,
+        "localadmin_id": 1127450406
+      }
     ],
-    "wof:id":1243332983,
-    "wof:lastmodified":1566696406,
-    "wof:name":"Shanghe",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243332983,
+    "wof:lastmodified": 1768665955,
+    "wof:name": "Shanghe",
+    "wof:parent_id": 1127450406,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.31,
     23.0812,
     111.31,
     23.0812
-],
-  "geometry": {"coordinates":[111.31,23.0812],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.31,
+      23.0812
+    ],
+    "type": "Point"
+  }
 }

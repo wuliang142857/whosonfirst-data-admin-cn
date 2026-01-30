@@ -2,75 +2,83 @@
   "id": 1343752411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.02442,47.11825,123.02442,47.11825",
-    "geom:latitude":47.11825,
-    "geom:longitude":123.02442,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Xibeitun",
-    "gn:country_code":"CN",
-    "gn:dem":191,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11564888,
-    "gn:latitude":47.11825,
-    "gn:longitude":123.02442,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Xibeitun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.00442,47.09825,123.04442,47.13825",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u5317\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.02442,47.11825,123.02442,47.11825",
+    "geom:latitude": 47.11825,
+    "geom:longitude": 123.02442,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Xibeitun",
+    "gn:country_code": "CN",
+    "gn:dem": 191,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11564888,
+    "gn:latitude": 47.11825,
+    "gn:longitude": 123.02442,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Xibeitun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.00442,47.09825,123.04442,47.13825",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西北屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11564888
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11564888
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d19d92bb380a73828b6e9b0cf1ea3c08",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1343752411,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d19d92bb380a73828b6e9b0cf1ea3c08",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1343752411,
+        "region_id": 85669849,
+        "localadmin_id": 1127230221
+      }
     ],
-    "wof:id":1343752411,
-    "wof:lastmodified":1566664339,
-    "wof:name":"Xibeitun",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343752411,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Xibeitun",
+    "wof:parent_id": 1127230221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.02442,
     47.11825,
     123.02442,
     47.11825
-],
-  "geometry": {"coordinates":[123.02442000000001,47.11825],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.02442,
+      47.11825
+    ],
+    "type": "Point"
+  }
 }

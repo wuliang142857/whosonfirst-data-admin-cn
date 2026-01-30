@@ -2,75 +2,83 @@
   "id": 1226255989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.84681,33.67583,117.84681,33.67583",
-    "geom:latitude":33.67583,
-    "geom:longitude":117.84681,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Xinhecun",
-    "gn:country_code":"CN",
-    "gn:dem":24,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10360104,
-    "gn:latitude":33.67583,
-    "gn:longitude":117.84681,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Xinhecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.82681,33.65583,117.86681,33.69583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65b0\u6cb3\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.84681,33.67583,117.84681,33.67583",
+    "geom:latitude": 33.67583,
+    "geom:longitude": 117.84681,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Xinhecun",
+    "gn:country_code": "CN",
+    "gn:dem": 24,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10360104,
+    "gn:latitude": 33.67583,
+    "gn:longitude": 117.84681,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Xinhecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.82681,33.65583,117.86681,33.69583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "新河村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890514507
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890514507,
+      1127341324
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10360104
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10360104
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f502ac26f76d2630c618651ea0ed83af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514507,
-            "empire_id":136253041,
-            "locality_id":1226255989,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f502ac26f76d2630c618651ea0ed83af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514507,
+        "empire_id": 136253041,
+        "locality_id": 1226255989,
+        "region_id": 85669739,
+        "localadmin_id": 1127341324
+      }
     ],
-    "wof:id":1226255989,
-    "wof:lastmodified":1566703763,
-    "wof:name":"Xinhecun",
-    "wof:parent_id":890514507,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226255989,
+    "wof:lastmodified": 1768670097,
+    "wof:name": "Xinhecun",
+    "wof:parent_id": 1127341324,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.84681,
     33.67583,
     117.84681,
     33.67583
-],
-  "geometry": {"coordinates":[117.84681,33.67583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.84681,
+      33.67583
+    ],
+    "type": "Point"
+  }
 }

@@ -2,72 +2,80 @@
   "id": 1242689963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.83806,30.995,119.83806,30.995",
-    "geom:latitude":30.995,
-    "geom:longitude":119.83806,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Yangnan",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1919182,
-    "gn:latitude":30.995,
-    "gn:longitude":119.83806,
-    "gn:modification_date":"2001-04-24",
-    "gn:name":"Yangnan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.81806,30.975,119.85806,31.015",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.83806,30.995,119.83806,30.995",
+    "geom:latitude": 30.995,
+    "geom:longitude": 119.83806,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Yangnan",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1919182,
+    "gn:latitude": 30.995,
+    "gn:longitude": 119.83806,
+    "gn:modification_date": "2001-04-24",
+    "gn:name": "Yangnan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.81806,30.975,119.85806,31.015",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516975,
+      1127330522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1919182
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1919182
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7acb0c556ea93f55afff215cd46c69c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1242689963,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7acb0c556ea93f55afff215cd46c69c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1242689963,
+        "region_id": 85669835,
+        "localadmin_id": 1127330522
+      }
     ],
-    "wof:id":1242689963,
-    "wof:lastmodified":1566694752,
-    "wof:name":"Yangnan",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242689963,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Yangnan",
+    "wof:parent_id": 1127330522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.83806,
     30.995,
     119.83806,
     30.995
-],
-  "geometry": {"coordinates":[119.83806,30.995],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.83806,
+      30.995
+    ],
+    "type": "Point"
+  }
 }

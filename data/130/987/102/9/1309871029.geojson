@@ -2,75 +2,83 @@
   "id": 1309871029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.585,41.5057,120.585,41.5057",
-    "geom:latitude":41.5057,
-    "geom:longitude":120.585,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Mazhangzi",
-    "gn:country_code":"CN",
-    "gn:dem":228,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11508485,
-    "gn:latitude":41.5057,
-    "gn:longitude":120.585,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Mazhangzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.565,41.4857,120.605,41.5257",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u6756\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.585,41.5057,120.585,41.5057",
+    "geom:latitude": 41.5057,
+    "geom:longitude": 120.585,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Mazhangzi",
+    "gn:country_code": "CN",
+    "gn:dem": 228,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11508485,
+    "gn:latitude": 41.5057,
+    "gn:longitude": 120.585,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Mazhangzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.565,41.4857,120.605,41.5257",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马杖子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515907,
+      1127211302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11508485
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11508485
     },
-    "wof:country":"CN",
-    "wof:geomhash":"42640bd019fde01e747c669b3cc26ac2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515907,
-            "empire_id":136253041,
-            "locality_id":1309871029,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "42640bd019fde01e747c669b3cc26ac2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515907,
+        "empire_id": 136253041,
+        "locality_id": 1309871029,
+        "region_id": 85669807,
+        "localadmin_id": 1127211302
+      }
     ],
-    "wof:id":1309871029,
-    "wof:lastmodified":1566693212,
-    "wof:name":"Mazhangzi",
-    "wof:parent_id":890515907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309871029,
+    "wof:lastmodified": 1768667054,
+    "wof:name": "Mazhangzi",
+    "wof:parent_id": 1127211302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.585,
     41.5057,
     120.585,
     41.5057
-],
-  "geometry": {"coordinates":[120.58499999999999,41.5057],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.585,
+      41.5057
+    ],
+    "type": "Point"
+  }
 }

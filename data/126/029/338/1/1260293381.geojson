@@ -2,81 +2,89 @@
   "id": 1260293381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.60889,30.11908,120.60889,30.11908",
-    "geom:latitude":30.11908,
-    "geom:longitude":120.60889,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Sanjiangcun",
-    "gn:country_code":"CN",
-    "gn:dem":-9999,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1881863,
-    "gn:latitude":30.11908,
-    "gn:longitude":120.60889,
-    "gn:modification_date":"2018-01-10",
-    "gn:name":"Sanjiangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.58889,30.09908,120.62889,30.13908",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "San-chiang-ch\u2019eng",
-        "Sanjiang",
-        "\u4e09\u6c5f",
-        "Sanjiangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.60889,30.11908,120.60889,30.11908",
+    "geom:latitude": 30.11908,
+    "geom:longitude": 120.60889,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Sanjiangcun",
+    "gn:country_code": "CN",
+    "gn:dem": -9999,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1881863,
+    "gn:latitude": 30.11908,
+    "gn:longitude": 120.60889,
+    "gn:modification_date": "2018-01-10",
+    "gn:name": "Sanjiangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.58889,30.09908,120.62889,30.13908",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "San-chiang-ch’eng",
+      "Sanjiang",
+      "三江",
+      "Sanjiangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u6c5f\u6751"
+    "name:zho_x_preferred": [
+      "三江村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513785
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513785,
+      1127330602
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1881863
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1881863
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c79bcd9528708ff08143e8a461a09524",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "locality_id":1260293381,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c79bcd9528708ff08143e8a461a09524",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "locality_id": 1260293381,
+        "region_id": 85669835,
+        "localadmin_id": 1127330602
+      }
     ],
-    "wof:id":1260293381,
-    "wof:lastmodified":1566687239,
-    "wof:name":"Sanjiangcun",
-    "wof:parent_id":890513785,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260293381,
+    "wof:lastmodified": 1768669995,
+    "wof:name": "Sanjiangcun",
+    "wof:parent_id": 1127330602,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.60889,
     30.11908,
     120.60889,
     30.11908
-],
-  "geometry": {"coordinates":[120.60889,30.11908],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.60889,
+      30.11908
+    ],
+    "type": "Point"
+  }
 }

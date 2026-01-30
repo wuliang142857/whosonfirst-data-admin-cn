@@ -2,81 +2,89 @@
   "id": 1193036699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.86065,32.48476,113.86065,32.48476",
-    "geom:latitude":32.48476,
-    "geom:longitude":113.86065,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Sunzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":116,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10423338,
-    "gn:latitude":32.48476,
-    "gn:longitude":113.86065,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Sunzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.84065,32.46476,113.88065,32.50476",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Sunzhuang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.86065,32.48476,113.86065,32.48476",
+    "geom:latitude": 32.48476,
+    "geom:longitude": 113.86065,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Sunzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 116,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10423338,
+    "gn:latitude": 32.48476,
+    "gn:longitude": 113.86065,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Sunzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.84065,32.46476,113.88065,32.50476",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Sunzhuang"
     ],
-    "name:swe_x_preferred":[
-        "Sunzhuang"
+    "name:swe_x_preferred": [
+      "Sunzhuang"
     ],
-    "name:zho_x_preferred":[
-        "\u5b59\u5e84"
+    "name:zho_x_preferred": [
+      "孙庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890512239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890512239,
+      1127411503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10423338
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10423338
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3d9e37b24c69b03b3aaeeb2be9ca0182",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512239,
-            "empire_id":136253041,
-            "locality_id":1193036699,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3d9e37b24c69b03b3aaeeb2be9ca0182",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512239,
+        "empire_id": 136253041,
+        "locality_id": 1193036699,
+        "region_id": 85669801,
+        "localadmin_id": 1127411503
+      }
     ],
-    "wof:id":1193036699,
-    "wof:lastmodified":1566685405,
-    "wof:name":"Sunzhuang",
-    "wof:parent_id":890512239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193036699,
+    "wof:lastmodified": 1768669287,
+    "wof:name": "Sunzhuang",
+    "wof:parent_id": 1127411503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.86065,
     32.48475999999999,
     113.86065,
     32.48475999999999
-],
-  "geometry": {"coordinates":[113.86065000000001,32.48475999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.86065,
+      32.48475999999999
+    ],
+    "type": "Point"
+  }
 }

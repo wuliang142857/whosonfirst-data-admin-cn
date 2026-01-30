@@ -2,80 +2,88 @@
   "id": 890514069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.62978,31.31469,120.62978,31.31469",
-    "geom:latitude":31.31469,
-    "geom:longitude":120.62978,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"120.60978,31.29469,120.64978,31.33469",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pingjianglu Jiedao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.62978,31.31469,120.62978,31.31469",
+    "geom:latitude": 31.31469,
+    "geom:longitude": 120.62978,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "120.60978,31.29469,120.64978,31.33469",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pingjianglu Jiedao"
     ],
-    "name:zho_x_preferred":[
-        "\u5e73\u6c5f\u8def"
+    "name:zho_x_preferred": [
+      "平江路"
     ],
-    "name:zho_x_variant":[
-        "\u5e73\u6c5f\u8def\u8857\u9053",
-        "\u5e73\u6c5f\u533a"
+    "name:zho_x_variant": [
+      "平江路街道",
+      "平江区"
     ],
-    "qs:name":"Pingjianglu",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515879
+    "qs:name": "Pingjianglu",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515879,
+      1127320508
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8328229,
-        "gp:id":2137082,
-        "qs_pg:id":381635
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8328229,
+      "gp:id": 2137082,
+      "qs_pg:id": 381635
     },
-    "wof:country":"CN",
-    "wof:created":1469055846,
-    "wof:geomhash":"689ce0b1acd629f232bf68add972c807",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515879,
-            "empire_id":136253041,
-            "locality_id":890514069,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055846,
+    "wof:geomhash": "689ce0b1acd629f232bf68add972c807",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515879,
+        "empire_id": 136253041,
+        "locality_id": 890514069,
+        "region_id": 85669827,
+        "localadmin_id": 1127320508
+      }
     ],
-    "wof:id":890514069,
-    "wof:lastmodified":1566693690,
-    "wof:name":"Pingjianglu",
-    "wof:parent_id":890515879,
-    "wof:placetype":"locality",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890514069,
+    "wof:lastmodified": 1768670872,
+    "wof:name": "Pingjianglu",
+    "wof:parent_id": 1127320508,
+    "wof:placetype": "locality",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.62978,
     31.31469,
     120.62978,
     31.31469
-],
-  "geometry": {"coordinates":[120.62978,31.31469],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.62978,
+      31.31469
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1293925179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.216,31.7897,108.216,31.7897",
-    "geom:latitude":31.7897,
-    "geom:longitude":108.216,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yantou",
-    "gn:country_code":"CN",
-    "gn:dem":499,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10154108,
-    "gn:latitude":31.7897,
-    "gn:longitude":108.216,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Yantou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.196,31.7697,108.236,31.8097",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5830\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.216,31.7897,108.216,31.7897",
+    "geom:latitude": 31.7897,
+    "geom:longitude": 108.216,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yantou",
+    "gn:country_code": "CN",
+    "gn:dem": 499,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10154108,
+    "gn:latitude": 31.7897,
+    "gn:longitude": 108.216,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Yantou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.196,31.7697,108.236,31.8097",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "堰头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513987
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513987,
+      1127511781
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10154108
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10154108
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cad0f6942fa6c473809c40f8752c43c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513987,
-            "empire_id":136253041,
-            "locality_id":1293925179,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cad0f6942fa6c473809c40f8752c43c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513987,
+        "empire_id": 136253041,
+        "locality_id": 1293925179,
+        "region_id": 85669787,
+        "localadmin_id": 1127511781
+      }
     ],
-    "wof:id":1293925179,
-    "wof:lastmodified":1566668764,
-    "wof:name":"Yantou",
-    "wof:parent_id":890513987,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293925179,
+    "wof:lastmodified": 1768668150,
+    "wof:name": "Yantou",
+    "wof:parent_id": 1127511781,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.216,
     31.7897,
     108.216,
     31.7897
-],
-  "geometry": {"coordinates":[108.21599999999999,31.7897],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.216,
+      31.7897
+    ],
+    "type": "Point"
+  }
 }

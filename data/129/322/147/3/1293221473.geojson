@@ -2,81 +2,89 @@
   "id": 1293221473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.72937,25.45298,119.72937,25.45298",
-    "geom:latitude":25.45298,
-    "geom:longitude":119.72937,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Aodong",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1921735,
-    "gn:latitude":25.45298,
-    "gn:longitude":119.72937,
-    "gn:modification_date":"2013-07-07",
-    "gn:name":"Aodong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.70937,25.43298,119.74937,25.47298",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Aodong Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.72937,25.45298,119.72937,25.45298",
+    "geom:latitude": 25.45298,
+    "geom:longitude": 119.72937,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Aodong",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1921735,
+    "gn:latitude": 25.45298,
+    "gn:longitude": 119.72937,
+    "gn:modification_date": "2013-07-07",
+    "gn:name": "Aodong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.70937,25.43298,119.74937,25.47298",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Aodong Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u6556\u4e1c"
+    "name:zho_x_preferred": [
+      "敖东"
     ],
-    "name:zho_x_variant":[
-        "\u6556\u4e1c\u9547"
+    "name:zho_x_variant": [
+      "敖东镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512665,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1921735
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1921735
     },
-    "wof:country":"CN",
-    "wof:geomhash":"06192eb1917ed6bc844fbbafbc820df5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1293221473,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "06192eb1917ed6bc844fbbafbc820df5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1293221473,
+        "region_id": 85669735,
+        "localadmin_id": 890512665
+      }
     ],
-    "wof:id":1293221473,
-    "wof:lastmodified":1566668568,
-    "wof:name":"Aodong",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293221473,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Aodong",
+    "wof:parent_id": 890512665,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.72937,
     25.45298,
     119.72937,
     25.45298
-],
-  "geometry": {"coordinates":[119.72937,25.45298],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.72937,
+      25.45298
+    ],
+    "type": "Point"
+  }
 }

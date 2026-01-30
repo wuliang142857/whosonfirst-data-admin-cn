@@ -2,75 +2,83 @@
   "id": 1226695619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.128,30.7941,100.128,30.7941",
-    "geom:latitude":30.7941,
-    "geom:longitude":100.128,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhagu",
-    "gn:country_code":"CN",
-    "gn:dem":3817,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10208096,
-    "gn:latitude":30.7941,
-    "gn:longitude":100.128,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Zhagu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.108,30.7741,100.148,30.8141",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u624e\u53e4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.128,30.7941,100.128,30.7941",
+    "geom:latitude": 30.7941,
+    "geom:longitude": 100.128,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhagu",
+    "gn:country_code": "CN",
+    "gn:dem": 3817,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10208096,
+    "gn:latitude": 30.7941,
+    "gn:longitude": 100.128,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Zhagu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.108,30.7741,100.148,30.8141",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "扎古"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10208096
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10208096
     },
-    "wof:country":"CN",
-    "wof:geomhash":"223d8b5b8d0f1f244d766fadc9ca547f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1226695619,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "223d8b5b8d0f1f244d766fadc9ca547f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1226695619,
+        "region_id": 85669787,
+        "localadmin_id": 1127513329
+      }
     ],
-    "wof:id":1226695619,
-    "wof:lastmodified":1566702119,
-    "wof:name":"Zhagu",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226695619,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Zhagu",
+    "wof:parent_id": 1127513329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.128,
     30.7941,
     100.128,
     30.7941
-],
-  "geometry": {"coordinates":[100.128,30.7941],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.128,
+      30.7941
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1277078115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.6369,30.42249,116.6369,30.42249",
-    "geom:latitude":30.42249,
-    "geom:longitude":116.6369,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Longtou",
-    "gn:country_code":"CN",
-    "gn:dem":18,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11474543,
-    "gn:latitude":30.42249,
-    "gn:longitude":116.6369,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Longtou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.6169,30.40249,116.6569,30.44249",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9f99\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.6369,30.42249,116.6369,30.42249",
+    "geom:latitude": 30.42249,
+    "geom:longitude": 116.6369,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Longtou",
+    "gn:country_code": "CN",
+    "gn:dem": 18,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11474543,
+    "gn:latitude": 30.42249,
+    "gn:longitude": 116.6369,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Longtou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.6169,30.40249,116.6569,30.44249",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "龙头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890516201
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890516201,
+      1127340822
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11474543
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11474543
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7c664e073ddb03481452a1db5c92dc2c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516201,
-            "empire_id":136253041,
-            "locality_id":1277078115,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7c664e073ddb03481452a1db5c92dc2c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516201,
+        "empire_id": 136253041,
+        "locality_id": 1277078115,
+        "region_id": 85669739,
+        "localadmin_id": 1127340822
+      }
     ],
-    "wof:id":1277078115,
-    "wof:lastmodified":1566672355,
-    "wof:name":"Longtou",
-    "wof:parent_id":890516201,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277078115,
+    "wof:lastmodified": 1768670158,
+    "wof:name": "Longtou",
+    "wof:parent_id": 1127340822,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.6369,
     30.42249,
     116.6369,
     30.42249
-],
-  "geometry": {"coordinates":[116.6369,30.42249],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.6369,
+      30.42249
+    ],
+    "type": "Point"
+  }
 }

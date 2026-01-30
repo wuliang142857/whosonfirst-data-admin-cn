@@ -2,75 +2,83 @@
   "id": 1277079593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.81242,31.05169,120.81242,31.05169",
-    "geom:latitude":31.05169,
-    "geom:longitude":120.81242,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Caolicun",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7332746,
-    "gn:latitude":31.05169,
-    "gn:longitude":120.81242,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Caolicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.79242,31.03169,120.83242,31.07169",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8349\u91cc\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.81242,31.05169,120.81242,31.05169",
+    "geom:latitude": 31.05169,
+    "geom:longitude": 120.81242,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Caolicun",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7332746,
+    "gn:latitude": 31.05169,
+    "gn:longitude": 120.81242,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Caolicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.79242,31.03169,120.83242,31.07169",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "草里村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515879
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513761,
+      890515879
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7332746
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7332746
     },
-    "wof:country":"CN",
-    "wof:geomhash":"57abd82ba85475b198871cc2179bc1f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515879,
-            "empire_id":136253041,
-            "locality_id":1277079593,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "57abd82ba85475b198871cc2179bc1f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515879,
+        "empire_id": 136253041,
+        "locality_id": 1277079593,
+        "region_id": 85669827,
+        "localadmin_id": 890513761
+      }
     ],
-    "wof:id":1277079593,
-    "wof:lastmodified":1566672379,
-    "wof:name":"Caolicun",
-    "wof:parent_id":890515879,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277079593,
+    "wof:lastmodified": 1768670872,
+    "wof:name": "Caolicun",
+    "wof:parent_id": 890513761,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.81242,
     31.05169,
     120.81242,
     31.05169
-],
-  "geometry": {"coordinates":[120.81242,31.05169],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.81242,
+      31.05169
+    ],
+    "type": "Point"
+  }
 }

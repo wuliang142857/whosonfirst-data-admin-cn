@@ -2,84 +2,92 @@
   "id": 1243309901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.55795,23.8773,114.55795,23.8773",
-    "geom:latitude":23.8773,
-    "geom:longitude":114.55795,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Dongkeng",
-    "gn:country_code":"CN",
-    "gn:dem":139,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7511786,
-    "gn:latitude":23.8773,
-    "gn:longitude":114.55795,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Dongkeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.53795,23.8573,114.57795,23.8973",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u062f\u0648\u0646\u06af\u06a9\u0646\u06af"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.55795,23.8773,114.55795,23.8773",
+    "geom:latitude": 23.8773,
+    "geom:longitude": 114.55795,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Dongkeng",
+    "gn:country_code": "CN",
+    "gn:dem": 139,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7511786,
+    "gn:latitude": 23.8773,
+    "gn:longitude": 114.55795,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Dongkeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.53795,23.8573,114.57795,23.8973",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "دونگکنگ"
     ],
-    "name:sco_x_preferred":[
-        "Dongkeng"
+    "name:sco_x_preferred": [
+      "Dongkeng"
     ],
-    "name:zho_x_preferred":[
-        "\u4e1c\u5751"
+    "name:zho_x_preferred": [
+      "东坑"
     ],
-    "name:zho_x_variant":[
-        "\u4e1c\u5751\u9547"
+    "name:zho_x_variant": [
+      "东坑镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514179
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514179,
+      890514211
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7511786
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7511786
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e7b713c3021098d3acc730673bd96b80",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514179,
-            "empire_id":136253041,
-            "locality_id":1243309901,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e7b713c3021098d3acc730673bd96b80",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514179,
+        "empire_id": 136253041,
+        "locality_id": 1243309901,
+        "region_id": 85669743,
+        "localadmin_id": 890514211
+      }
     ],
-    "wof:id":1243309901,
-    "wof:lastmodified":1566694082,
-    "wof:name":"Dongkeng",
-    "wof:parent_id":890514179,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243309901,
+    "wof:lastmodified": 1768668615,
+    "wof:name": "Dongkeng",
+    "wof:parent_id": 890514211,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.55795,
     23.8773,
     114.55795,
     23.8773
-],
-  "geometry": {"coordinates":[114.55795000000001,23.8773],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.55795,
+      23.8773
+    ],
+    "type": "Point"
+  }
 }

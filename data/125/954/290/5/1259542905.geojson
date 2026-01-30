@@ -2,75 +2,83 @@
   "id": 1259542905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.89,31.5299,105.89,31.5299",
-    "geom:latitude":31.5299,
-    "geom:longitude":105.89,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Gaojiabian",
-    "gn:country_code":"CN",
-    "gn:dem":444,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161399,
-    "gn:latitude":31.5299,
-    "gn:longitude":105.89,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Gaojiabian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.87,31.5099,105.91,31.5499",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u5bb6\u8fb9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.89,31.5299,105.89,31.5299",
+    "geom:latitude": 31.5299,
+    "geom:longitude": 105.89,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Gaojiabian",
+    "gn:country_code": "CN",
+    "gn:dem": 444,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161399,
+    "gn:latitude": 31.5299,
+    "gn:longitude": 105.89,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Gaojiabian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.87,31.5099,105.91,31.5499",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高家边"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      890514331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161399
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161399
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b5bc8d443b3bdfed6a6fae6de88d3a65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1259542905,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b5bc8d443b3bdfed6a6fae6de88d3a65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1259542905,
+        "region_id": 85669787,
+        "localadmin_id": 890514331
+      }
     ],
-    "wof:id":1259542905,
-    "wof:lastmodified":1566698055,
-    "wof:name":"Gaojiabian",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259542905,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Gaojiabian",
+    "wof:parent_id": 890514331,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.89,
     31.5299,
     105.89,
     31.5299
-],
-  "geometry": {"coordinates":[105.89,31.5299],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.89,
+      31.5299
+    ],
+    "type": "Point"
+  }
 }

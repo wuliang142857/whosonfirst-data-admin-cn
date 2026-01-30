@@ -2,75 +2,83 @@
   "id": 1259448385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.8024,42.94006,123.8024,42.94006",
-    "geom:latitude":42.94006,
-    "geom:longitude":123.8024,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Yingtaocun",
-    "gn:country_code":"CN",
-    "gn:dem":90,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11486336,
-    "gn:latitude":42.94006,
-    "gn:longitude":123.8024,
-    "gn:modification_date":"2018-03-10",
-    "gn:name":"Yingtaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.7824,42.92006,123.8224,42.96006",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u82f1\u6843\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.8024,42.94006,123.8024,42.94006",
+    "geom:latitude": 42.94006,
+    "geom:longitude": 123.8024,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Yingtaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 90,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11486336,
+    "gn:latitude": 42.94006,
+    "gn:longitude": 123.8024,
+    "gn:modification_date": "2018-03-10",
+    "gn:name": "Yingtaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.7824,42.92006,123.8224,42.96006",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "英桃村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890512563,
+      890514741
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11486336
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11486336
     },
-    "wof:country":"CN",
-    "wof:geomhash":"511cbfca0677fd0fb5df4807654cf349",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1259448385,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "511cbfca0677fd0fb5df4807654cf349",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1259448385,
+        "region_id": 85669807,
+        "localadmin_id": 890512563
+      }
     ],
-    "wof:id":1259448385,
-    "wof:lastmodified":1566700436,
-    "wof:name":"Yingtaocun",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259448385,
+    "wof:lastmodified": 1768666117,
+    "wof:name": "Yingtaocun",
+    "wof:parent_id": 890512563,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.8024,
     42.94006,
     123.8024,
     42.94006
-],
-  "geometry": {"coordinates":[123.80240000000001,42.94006],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.8024,
+      42.94006
+    ],
+    "type": "Point"
+  }
 }

@@ -2,79 +2,87 @@
   "id": 1360054925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.44,23.2538,106.44,23.2538",
-    "geom:latitude":23.2538,
-    "geom:longitude":106.44,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Maliang",
-    "gn:country_code":"CN",
-    "gn:dem":873,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1902580,
-    "gn:latitude":23.2538,
-    "gn:longitude":106.44,
-    "gn:modification_date":"2015-01-07",
-    "gn:name":"Maliang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.42,23.2338,106.46,23.2738",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ma-liang-ts\u2019un",
-        "Maliang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.44,23.2538,106.44,23.2538",
+    "geom:latitude": 23.2538,
+    "geom:longitude": 106.44,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Maliang",
+    "gn:country_code": "CN",
+    "gn:dem": 873,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1902580,
+    "gn:latitude": 23.2538,
+    "gn:longitude": 106.44,
+    "gn:modification_date": "2015-01-07",
+    "gn:name": "Maliang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.42,23.2338,106.46,23.2738",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ma-liang-ts’un",
+      "Maliang"
     ],
-    "name:zho_x_preferred":[
-        "\u9a6c\u4eae"
+    "name:zho_x_preferred": [
+      "马亮"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451081
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1902580
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1902580
     },
-    "wof:country":"CN",
-    "wof:geomhash":"20d0d25b6362694af7f7328c9a206d45",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1360054925,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "20d0d25b6362694af7f7328c9a206d45",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1360054925,
+        "region_id": 85669717,
+        "localadmin_id": 1127451081
+      }
     ],
-    "wof:id":1360054925,
-    "wof:lastmodified":1566692238,
-    "wof:name":"Maliang",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360054925,
+    "wof:lastmodified": 1768665072,
+    "wof:name": "Maliang",
+    "wof:parent_id": 1127451081,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.44,
     23.2538,
     106.44,
     23.2538
-],
-  "geometry": {"coordinates":[106.44,23.2538],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.44,
+      23.2538
+    ],
+    "type": "Point"
+  }
 }

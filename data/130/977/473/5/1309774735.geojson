@@ -2,78 +2,86 @@
   "id": 1309774735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.11723,39.72566,116.11723,39.72566",
-    "geom:latitude":39.72566,
-    "geom:longitude":116.11723,
-    "gn:admin1_code":"22.0",
-    "gn:asciiname":"Xiazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":45,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9864180,
-    "gn:latitude":39.72566,
-    "gn:longitude":116.11723,
-    "gn:modification_date":"2014-12-04",
-    "gn:name":"Xiazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.09723,39.70566,116.13723,39.74566",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Xiazhuang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.11723,39.72566,116.11723,39.72566",
+    "geom:latitude": 39.72566,
+    "geom:longitude": 116.11723,
+    "gn:admin1_code": "22.0",
+    "gn:asciiname": "Xiazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 45,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9864180,
+    "gn:latitude": 39.72566,
+    "gn:longitude": 116.11723,
+    "gn:modification_date": "2014-12-04",
+    "gn:name": "Xiazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.09723,39.70566,116.13723,39.74566",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Xiazhuang"
     ],
-    "name:zho_x_preferred":[
-        "\u590f\u5e84"
+    "name:zho_x_preferred": [
+      "夏庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890514363,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9864180
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9864180
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ff617086771af01c572a88c42ce48bbb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1309774735,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ff617086771af01c572a88c42ce48bbb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1309774735,
+        "region_id": 85669727,
+        "localadmin_id": 890514363
+      }
     ],
-    "wof:id":1309774735,
-    "wof:lastmodified":1566692611,
-    "wof:name":"Xiazhuang",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309774735,
+    "wof:lastmodified": 1768667324,
+    "wof:name": "Xiazhuang",
+    "wof:parent_id": 890514363,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.11723,
     39.72566,
     116.11723,
     39.72566
-],
-  "geometry": {"coordinates":[116.11723000000001,39.72566],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.11723,
+      39.72566
+    ],
+    "type": "Point"
+  }
 }

@@ -2,79 +2,87 @@
   "id": 1209794387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.98667,39.75917,116.98667,39.75917",
-    "geom:latitude":39.75917,
-    "geom:longitude":116.98667,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Xianghe",
-    "gn:country_code":"CN",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1790576,
-    "gn:latitude":39.75917,
-    "gn:longitude":116.98667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xianghe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.96667,39.73917,117.00667,39.77917",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Siangho",
-        "Hsiang-ho-ch\u2019eng-kuan",
-        "Hsiang-ho",
-        "Hsiang-ho-hsien",
-        "Shuyang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.98667,39.75917,116.98667,39.75917",
+    "geom:latitude": 39.75917,
+    "geom:longitude": 116.98667,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Xianghe",
+    "gn:country_code": "CN",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1790576,
+    "gn:latitude": 39.75917,
+    "gn:longitude": 116.98667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xianghe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.96667,39.73917,117.00667,39.77917",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Siangho",
+      "Hsiang-ho-ch’eng-kuan",
+      "Hsiang-ho",
+      "Hsiang-ho-hsien",
+      "Shuyang"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516977
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516977,
+      1127131024
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1790576
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1790576
     },
-    "wof:country":"CN",
-    "wof:geomhash":"83000ed284e6ed262b9fca22d2f72d92",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516977,
-            "empire_id":136253041,
-            "locality_id":1209794387,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "83000ed284e6ed262b9fca22d2f72d92",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516977,
+        "empire_id": 136253041,
+        "locality_id": 1209794387,
+        "region_id": 85669797,
+        "localadmin_id": 1127131024
+      }
     ],
-    "wof:id":1209794387,
-    "wof:lastmodified":1566680523,
-    "wof:name":"Xianghe",
-    "wof:parent_id":890516977,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209794387,
+    "wof:lastmodified": 1768669016,
+    "wof:name": "Xianghe",
+    "wof:parent_id": 1127131024,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.98667,
     39.75917000000001,
     116.98667,
     39.75917000000001
-],
-  "geometry": {"coordinates":[116.98667,39.75917000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.98667,
+      39.75917000000001
+    ],
+    "type": "Point"
+  }
 }

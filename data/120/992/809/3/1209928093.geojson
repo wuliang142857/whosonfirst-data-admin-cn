@@ -2,80 +2,88 @@
   "id": 1209928093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.94083,30.51861,116.94083,30.51861",
-    "geom:latitude":30.51861,
-    "geom:longitude":116.94083,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Shankou",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":19,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1795982,
-    "gn:latitude":30.51861,
-    "gn:longitude":116.94083,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Shankou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.92083,30.49861,116.96083,30.53861",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Shankou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.94083,30.51861,116.94083,30.51861",
+    "geom:latitude": 30.51861,
+    "geom:longitude": 116.94083,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Shankou",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 19,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1795982,
+    "gn:latitude": 30.51861,
+    "gn:longitude": 116.94083,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Shankou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.92083,30.49861,116.96083,30.53861",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Shankou"
     ],
-    "name:und_x_variant":[
-        "T\u2019ou-fan",
-        "Shan-k\u2019ou-chen"
+    "name:und_x_variant": [
+      "T’ou-fan",
+      "Shan-k’ou-chen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890516201
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890516201,
+      1127340803
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795982
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795982
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2f7b89ce8fa2757ede3019dc4a886419",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516201,
-            "empire_id":136253041,
-            "locality_id":1209928093,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2f7b89ce8fa2757ede3019dc4a886419",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516201,
+        "empire_id": 136253041,
+        "locality_id": 1209928093,
+        "region_id": 85669739,
+        "localadmin_id": 1127340803
+      }
     ],
-    "wof:id":1209928093,
-    "wof:lastmodified":1566681940,
-    "wof:name":"Shankou",
-    "wof:parent_id":890516201,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209928093,
+    "wof:lastmodified": 1768670157,
+    "wof:name": "Shankou",
+    "wof:parent_id": 1127340803,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.94083,
     30.51861,
     116.94083,
     30.51861
-],
-  "geometry": {"coordinates":[116.94083000000001,30.51861],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.94083,
+      30.51861
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1260191289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.43749,29.28772,120.43749,29.28772",
-    "geom:latitude":29.28772,
-    "geom:longitude":120.43749,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Geshan",
-    "gn:country_code":"CN",
-    "gn:dem":110,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1810190,
-    "gn:latitude":29.28772,
-    "gn:longitude":120.43749,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Geshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.41749,29.26772,120.45749,29.30772",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ko-shan",
-        "Ko-shan-ts\u2019un",
-        "Geshan Zhen",
-        "Geshan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.43749,29.28772,120.43749,29.28772",
+    "geom:latitude": 29.28772,
+    "geom:longitude": 120.43749,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Geshan",
+    "gn:country_code": "CN",
+    "gn:dem": 110,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1810190,
+    "gn:latitude": 29.28772,
+    "gn:longitude": 120.43749,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Geshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.41749,29.26772,120.45749,29.30772",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ko-shan",
+      "Ko-shan-ts’un",
+      "Geshan Zhen",
+      "Geshan"
     ],
-    "name:zho_x_preferred":[
-        "\u6b4c\u5c71"
+    "name:zho_x_preferred": [
+      "歌山"
     ],
-    "name:zho_x_variant":[
-        "\u6b4c\u5c71\u9547"
+    "name:zho_x_variant": [
+      "歌山镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513337,
+      1125294623
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810190
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810190
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4326dcf1e17d5415ea740ce2aa86f7a6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513337,
-            "empire_id":136253041,
-            "locality_id":1260191289,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4326dcf1e17d5415ea740ce2aa86f7a6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513337,
+        "empire_id": 136253041,
+        "locality_id": 1260191289,
+        "region_id": 85669835,
+        "localadmin_id": 1125294623
+      }
     ],
-    "wof:id":1260191289,
-    "wof:lastmodified":1566687482,
-    "wof:name":"Geshan",
-    "wof:parent_id":890513337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260191289,
+    "wof:lastmodified": 1768669670,
+    "wof:name": "Geshan",
+    "wof:parent_id": 1125294623,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.43749,
     29.28772,
     120.43749,
     29.28772
-],
-  "geometry": {"coordinates":[120.43749,29.28772],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.43749,
+      29.28772
+    ],
+    "type": "Point"
+  }
 }

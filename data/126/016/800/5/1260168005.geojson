@@ -2,75 +2,83 @@
   "id": 1260168005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.81255,30.07063,113.81255,30.07063",
-    "geom:latitude":30.07063,
-    "geom:longitude":113.81255,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Xigouzi",
-    "gn:country_code":"CN",
-    "gn:dem":26,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8514023,
-    "gn:latitude":30.07063,
-    "gn:longitude":113.81255,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Xigouzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.79255,30.05063,113.83255,30.09063",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u6c9f\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.81255,30.07063,113.81255,30.07063",
+    "geom:latitude": 30.07063,
+    "geom:longitude": 113.81255,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Xigouzi",
+    "gn:country_code": "CN",
+    "gn:dem": 26,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8514023,
+    "gn:latitude": 30.07063,
+    "gn:longitude": 113.81255,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Xigouzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.79255,30.05063,113.83255,30.09063",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西沟子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732489
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890513953,
+      1108732489
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8514023
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8514023
     },
-    "wof:country":"CN",
-    "wof:geomhash":"891a46ac377de9c9a81f773692af503f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732489,
-            "empire_id":136253041,
-            "locality_id":1260168005,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "891a46ac377de9c9a81f773692af503f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732489,
+        "empire_id": 136253041,
+        "locality_id": 1260168005,
+        "region_id": 85669777,
+        "localadmin_id": 890513953
+      }
     ],
-    "wof:id":1260168005,
-    "wof:lastmodified":1566687223,
-    "wof:name":"Xigouzi",
-    "wof:parent_id":1108732489,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260168005,
+    "wof:lastmodified": 1768665666,
+    "wof:name": "Xigouzi",
+    "wof:parent_id": 890513953,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.81255,
     30.07063,
     113.81255,
     30.07063
-],
-  "geometry": {"coordinates":[113.81255,30.07063],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.81255,
+      30.07063
+    ],
+    "type": "Point"
+  }
 }

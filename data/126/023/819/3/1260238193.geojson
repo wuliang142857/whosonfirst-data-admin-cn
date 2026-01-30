@@ -2,75 +2,83 @@
   "id": 1260238193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.32065,32.22196,109.32065,32.22196",
-    "geom:latitude":32.22196,
-    "geom:longitude":109.32065,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Xiangheliangzi",
-    "gn:country_code":"CN",
-    "gn:dem":1224,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11333191,
-    "gn:latitude":32.22196,
-    "gn:longitude":109.32065,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Xiangheliangzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.30065,32.20196,109.34065,32.24196",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9999\u6cb3\u6881\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.32065,32.22196,109.32065,32.22196",
+    "geom:latitude": 32.22196,
+    "geom:longitude": 109.32065,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Xiangheliangzi",
+    "gn:country_code": "CN",
+    "gn:dem": 1224,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11333191,
+    "gn:latitude": 32.22196,
+    "gn:longitude": 109.32065,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Xiangheliangzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.30065,32.20196,109.34065,32.24196",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "香河梁子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11333191
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11333191
     },
-    "wof:country":"CN",
-    "wof:geomhash":"40caa20740d61f5e4be4ef8e64a23085",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1260238193,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "40caa20740d61f5e4be4ef8e64a23085",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1260238193,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1260238193,
-    "wof:lastmodified":1566686198,
-    "wof:name":"Xiangheliangzi",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260238193,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Xiangheliangzi",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.32065,
     32.22196,
     109.32065,
     32.22196
-],
-  "geometry": {"coordinates":[109.32065,32.22196],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.32065,
+      32.22196
+    ],
+    "type": "Point"
+  }
 }

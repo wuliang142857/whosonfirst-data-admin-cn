@@ -2,75 +2,83 @@
   "id": 1327075473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.52641,29.83764,107.52641,29.83764",
-    "geom:latitude":29.83764,
-    "geom:longitude":107.52641,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Mamiao",
-    "gn:country_code":"CN",
-    "gn:dem":356,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416260,
-    "gn:latitude":29.83764,
-    "gn:longitude":107.52641,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Mamiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.50641,29.81764,107.54641,29.85764",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u5e99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.52641,29.83764,107.52641,29.83764",
+    "geom:latitude": 29.83764,
+    "geom:longitude": 107.52641,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Mamiao",
+    "gn:country_code": "CN",
+    "gn:dem": 356,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416260,
+    "gn:latitude": 29.83764,
+    "gn:longitude": 107.52641,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Mamiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.50641,29.81764,107.54641,29.85764",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416260
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416260
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cc08c24feb6b85a85c9a2f6f2aa3d3a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1327075473,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cc08c24feb6b85a85c9a2f6f2aa3d3a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1327075473,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1327075473,
-    "wof:lastmodified":1566647457,
-    "wof:name":"Mamiao",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327075473,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Mamiao",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.52641,
     29.83764,
     107.52641,
     29.83764
-],
-  "geometry": {"coordinates":[107.52641,29.83764],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.52641,
+      29.83764
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1327393369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.099,30.8377,105.099,30.8377",
-    "geom:latitude":30.8377,
-    "geom:longitude":105.099,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Liziyuan",
-    "gn:country_code":"CN",
-    "gn:dem":363,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161436,
-    "gn:latitude":30.8377,
-    "gn:longitude":105.099,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Liziyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.079,30.8177,105.119,30.8577",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u68a8\u5b50\u56ed"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.099,30.8377,105.099,30.8377",
+    "geom:latitude": 30.8377,
+    "geom:longitude": 105.099,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Liziyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 363,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161436,
+    "gn:latitude": 30.8377,
+    "gn:longitude": 105.099,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Liziyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.079,30.8177,105.119,30.8577",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "梨子园"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513911,
+      890514157
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161436
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161436
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9b2b090f573c5dbefb3ce8bff77414e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1327393369,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9b2b090f573c5dbefb3ce8bff77414e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1327393369,
+        "region_id": 85669787,
+        "localadmin_id": 890513911
+      }
     ],
-    "wof:id":1327393369,
-    "wof:lastmodified":1566646629,
-    "wof:name":"Liziyuan",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327393369,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Liziyuan",
+    "wof:parent_id": 890513911,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.099,
     30.8377,
     105.099,
     30.8377
-],
-  "geometry": {"coordinates":[105.099,30.8377],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.099,
+      30.8377
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1310276201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"83.16139,43.55,83.16139,43.55",
-    "geom:latitude":43.55,
-    "geom:longitude":83.16139,
-    "gn:admin1_code":"13.0",
-    "gn:asciiname":"Zekti",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":848,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1538394,
-    "gn:latitude":43.55,
-    "gn:longitude":83.16139,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Zekti",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"83.14139,43.53,83.18139,43.57",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:uig_x_preferred":[
-        "Z\u00e9kti"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "83.16139,43.55,83.16139,43.55",
+    "geom:latitude": 43.55,
+    "geom:longitude": 83.16139,
+    "gn:admin1_code": "13.0",
+    "gn:asciiname": "Zekti",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 848,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1538394,
+    "gn:latitude": 43.55,
+    "gn:longitude": 83.16139,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Zekti",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "83.14139,43.53,83.18139,43.57",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:uig_x_preferred": [
+      "Zékti"
     ],
-    "name:uig_x_variant":[
-        "\u0632\u06d0\u0643\u062a\u0649",
-        "\u0417\u0435\u043a\u0442\u0438"
+    "name:uig_x_variant": [
+      "زېكتى",
+      "Зекти"
     ],
-    "name:und_x_variant":[
-        "Zekti Zhen",
-        "Zekti"
+    "name:und_x_variant": [
+      "Zekti Zhen",
+      "Zekti"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669753,
-        102191569,
-        85632695,
-        136253041,
-        1108732355
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669753,
+      102191569,
+      136253041,
+      890516053,
+      1108732355
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1538394
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1538394
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e17a5129a4c2a1c5545a2c539b992be7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732355,
-            "empire_id":136253041,
-            "locality_id":1310276201,
-            "region_id":85669753
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e17a5129a4c2a1c5545a2c539b992be7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732355,
+        "empire_id": 136253041,
+        "locality_id": 1310276201,
+        "region_id": 85669753,
+        "localadmin_id": 890516053
+      }
     ],
-    "wof:id":1310276201,
-    "wof:lastmodified":1566689725,
-    "wof:name":"Zekti",
-    "wof:parent_id":1108732355,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310276201,
+    "wof:lastmodified": 1768670579,
+    "wof:name": "Zekti",
+    "wof:parent_id": 890516053,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     83.16139,
     43.55,
     83.16139,
     43.55
-],
-  "geometry": {"coordinates":[83.16139,43.55],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      83.16139,
+      43.55
+    ],
+    "type": "Point"
+  }
 }

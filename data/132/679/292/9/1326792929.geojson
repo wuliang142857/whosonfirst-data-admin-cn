@@ -2,75 +2,83 @@
   "id": 1326792929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.445,41.126,125.445,41.126",
-    "geom:latitude":41.126,
-    "geom:longitude":125.445,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Tangfanggou",
-    "gn:country_code":"CN",
-    "gn:dem":371,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11505883,
-    "gn:latitude":41.126,
-    "gn:longitude":125.445,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Tangfanggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.425,41.106,125.465,41.146",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5510\u623f\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.445,41.126,125.445,41.126",
+    "geom:latitude": 41.126,
+    "geom:longitude": 125.445,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Tangfanggou",
+    "gn:country_code": "CN",
+    "gn:dem": 371,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11505883,
+    "gn:latitude": 41.126,
+    "gn:longitude": 125.445,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Tangfanggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.425,41.106,125.465,41.146",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "唐房沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513783
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513783,
+      1127210522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11505883
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11505883
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5df5e870cc13a768572e811fbe3fa038",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513783,
-            "empire_id":136253041,
-            "locality_id":1326792929,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5df5e870cc13a768572e811fbe3fa038",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513783,
+        "empire_id": 136253041,
+        "locality_id": 1326792929,
+        "region_id": 85669807,
+        "localadmin_id": 1127210522
+      }
     ],
-    "wof:id":1326792929,
-    "wof:lastmodified":1566652257,
-    "wof:name":"Tangfanggou",
-    "wof:parent_id":890513783,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326792929,
+    "wof:lastmodified": 1768666805,
+    "wof:name": "Tangfanggou",
+    "wof:parent_id": 1127210522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.445,
     41.12600000000001,
     125.445,
     41.12600000000001
-],
-  "geometry": {"coordinates":[125.44499999999999,41.12600000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.445,
+      41.12600000000001
+    ],
+    "type": "Point"
+  }
 }

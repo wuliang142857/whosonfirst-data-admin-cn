@@ -2,75 +2,83 @@
   "id": 1343620529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.458,36.0628,105.458,36.0628",
-    "geom:latitude":36.0628,
-    "geom:longitude":105.458,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Zhongzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":1998,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10203462,
-    "gn:latitude":36.0628,
-    "gn:longitude":105.458,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Zhongzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.438,36.0428,105.478,36.0828",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.458,36.0628,105.458,36.0628",
+    "geom:latitude": 36.0628,
+    "geom:longitude": 105.458,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Zhongzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 1998,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10203462,
+    "gn:latitude": 36.0628,
+    "gn:longitude": 105.458,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Zhongzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.438,36.0428,105.478,36.0828",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890515165
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515165,
+      1127640422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10203462
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10203462
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6623c9aa04051610df656e9a96b69bd2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515165,
-            "empire_id":136253041,
-            "locality_id":1343620529,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6623c9aa04051610df656e9a96b69bd2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515165,
+        "empire_id": 136253041,
+        "locality_id": 1343620529,
+        "region_id": 85669763,
+        "localadmin_id": 1127640422
+      }
     ],
-    "wof:id":1343620529,
-    "wof:lastmodified":1566656447,
-    "wof:name":"Zhongzhuang",
-    "wof:parent_id":890515165,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343620529,
+    "wof:lastmodified": 1768667192,
+    "wof:name": "Zhongzhuang",
+    "wof:parent_id": 1127640422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.458,
     36.0628,
     105.458,
     36.0628
-],
-  "geometry": {"coordinates":[105.458,36.0628],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.458,
+      36.0628
+    ],
+    "type": "Point"
+  }
 }

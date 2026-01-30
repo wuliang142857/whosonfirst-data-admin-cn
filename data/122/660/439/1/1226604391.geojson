@@ -2,78 +2,86 @@
   "id": 1226604391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.93,32.091,105.93,32.091",
-    "geom:latitude":32.091,
-    "geom:longitude":105.93,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Ming'an",
-    "gn:country_code":"CN",
-    "gn:dem":829,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10149062,
-    "gn:latitude":32.091,
-    "gn:longitude":105.93,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Ming\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.91,32.071,105.95,32.111",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ming\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.93,32.091,105.93,32.091",
+    "geom:latitude": 32.091,
+    "geom:longitude": 105.93,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Ming'an",
+    "gn:country_code": "CN",
+    "gn:dem": 829,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10149062,
+    "gn:latitude": 32.091,
+    "gn:longitude": 105.93,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Ming’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.91,32.071,105.95,32.111",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ming’an"
     ],
-    "name:zho_x_preferred":[
-        "\u660e\u5b89"
+    "name:zho_x_preferred": [
+      "明安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512741,
+      1127510811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10149062
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10149062
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e7bde814a766d1b82fae63ecad989785",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512741,
-            "empire_id":136253041,
-            "locality_id":1226604391,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e7bde814a766d1b82fae63ecad989785",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512741,
+        "empire_id": 136253041,
+        "locality_id": 1226604391,
+        "region_id": 85669787,
+        "localadmin_id": 1127510811
+      }
     ],
-    "wof:id":1226604391,
-    "wof:lastmodified":1566702183,
-    "wof:name":"Ming'an",
-    "wof:parent_id":890512741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226604391,
+    "wof:lastmodified": 1768668639,
+    "wof:name": "Ming'an",
+    "wof:parent_id": 1127510811,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.93,
     32.091,
     105.93,
     32.091
-],
-  "geometry": {"coordinates":[105.93000000000001,32.091],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.93,
+      32.091
+    ],
+    "type": "Point"
+  }
 }

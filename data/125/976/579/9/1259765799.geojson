@@ -2,75 +2,83 @@
   "id": 1259765799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.706,37.4473,102.706,37.4473",
-    "geom:latitude":37.4473,
-    "geom:longitude":102.706,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xiaogangou",
-    "gn:country_code":"CN",
-    "gn:dem":2426,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10648010,
-    "gn:latitude":37.4473,
-    "gn:longitude":102.706,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Xiaogangou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.686,37.4273,102.726,37.4673",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u7518\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.706,37.4473,102.706,37.4473",
+    "geom:latitude": 37.4473,
+    "geom:longitude": 102.706,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xiaogangou",
+    "gn:country_code": "CN",
+    "gn:dem": 2426,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10648010,
+    "gn:latitude": 37.4473,
+    "gn:longitude": 102.706,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Xiaogangou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.686,37.4273,102.726,37.4673",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小甘沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516467,
+      1127620602
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10648010
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10648010
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b25476b87f757a14680272f2b7c80901",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1259765799,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b25476b87f757a14680272f2b7c80901",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1259765799,
+        "region_id": 85669711,
+        "localadmin_id": 1127620602
+      }
     ],
-    "wof:id":1259765799,
-    "wof:lastmodified":1566699305,
-    "wof:name":"Xiaogangou",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259765799,
+    "wof:lastmodified": 1768665872,
+    "wof:name": "Xiaogangou",
+    "wof:parent_id": 1127620602,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.706,
     37.4473,
     102.706,
     37.4473
-],
-  "geometry": {"coordinates":[102.706,37.4473],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.706,
+      37.4473
+    ],
+    "type": "Point"
+  }
 }

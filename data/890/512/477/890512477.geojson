@@ -2,77 +2,85 @@
   "id": 890512477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.98194,26.90833,118.98194,26.90833",
-    "geom:latitude":26.90833,
-    "geom:longitude":118.98194,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":9390,
-    "iso:country":"CN",
-    "lbl:bbox":"118.96194,26.88833,119.00194,26.92833",
-    "lbl:max_zoom":15.0,
-    "lbl:min_zoom":11.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "name:und_x_variant":[
-        "Pingnan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.98194,26.90833,118.98194,26.90833",
+    "geom:latitude": 26.90833,
+    "geom:longitude": 118.98194,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 9390,
+    "iso:country": "CN",
+    "lbl:bbox": "118.96194,26.88833,119.00194,26.92833",
+    "lbl:max_zoom": 15.0,
+    "lbl:min_zoom": 11.0,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 11.0,
+    "name:und_x_variant": [
+      "Pingnan"
     ],
-    "name:zho_x_preferred":[
-        "\u53e4\u5cf0"
+    "name:zho_x_preferred": [
+      "古峰"
     ],
-    "qs:name":"Gufeng",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"5",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516577
+    "qs:name": "Gufeng",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "5",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516577,
+      1127350923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1809548,
-        "gp:id":2140036,
-        "qs_pg:id":136708
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1809548,
+      "gp:id": 2140036,
+      "qs_pg:id": 136708
     },
-    "wof:country":"CN",
-    "wof:created":1469055772,
-    "wof:geomhash":"44294f7ec73bd0af551bd7cf60db5224",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516577,
-            "empire_id":136253041,
-            "locality_id":890512477,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055772,
+    "wof:geomhash": "44294f7ec73bd0af551bd7cf60db5224",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516577,
+        "empire_id": 136253041,
+        "locality_id": 890512477,
+        "region_id": 85669735,
+        "localadmin_id": 1127350923
+      }
     ],
-    "wof:id":890512477,
-    "wof:lastmodified":1566693739,
-    "wof:name":"Gufeng",
-    "wof:parent_id":890516577,
-    "wof:placetype":"locality",
-    "wof:population":9390,
-    "wof:population_rank":5,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890512477,
+    "wof:lastmodified": 1768669104,
+    "wof:name": "Gufeng",
+    "wof:parent_id": 1127350923,
+    "wof:placetype": "locality",
+    "wof:population": 9390,
+    "wof:population_rank": 5,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.98194,
     26.90833,
     118.98194,
     26.90833
-],
-  "geometry": {"coordinates":[118.98193999999999,26.90833],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.98194,
+      26.90833
+    ],
+    "type": "Point"
+  }
 }

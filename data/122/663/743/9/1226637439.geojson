@@ -2,78 +2,86 @@
   "id": 1226637439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.49606,25.03929,118.49606,25.03929",
-    "geom:latitude":25.03929,
-    "geom:longitude":118.49606,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Da'an",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8421681,
-    "gn:latitude":25.03929,
-    "gn:longitude":118.49606,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Da\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.47606,25.01929,118.51606,25.05929",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Da\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.49606,25.03929,118.49606,25.03929",
+    "geom:latitude": 25.03929,
+    "geom:longitude": 118.49606,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Da'an",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8421681,
+    "gn:latitude": 25.03929,
+    "gn:longitude": 118.49606,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Da’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.47606,25.01929,118.51606,25.05929",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Da’an"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5cb8"
+    "name:zho_x_preferred": [
+      "大岸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512829,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8421681
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8421681
     },
-    "wof:country":"CN",
-    "wof:geomhash":"36ef86cd20c509fd10b3884e2b08cbf9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1226637439,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "36ef86cd20c509fd10b3884e2b08cbf9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1226637439,
+        "region_id": 85669735,
+        "localadmin_id": 890512829
+      }
     ],
-    "wof:id":1226637439,
-    "wof:lastmodified":1566704981,
-    "wof:name":"Da'an",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226637439,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Da'an",
+    "wof:parent_id": 890512829,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.49606,
     25.03929,
     118.49606,
     25.03929
-],
-  "geometry": {"coordinates":[118.49606,25.03929],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.49606,
+      25.03929
+    ],
+    "type": "Point"
+  }
 }

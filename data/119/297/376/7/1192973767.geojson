@@ -2,75 +2,83 @@
   "id": 1192973767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.018,34.8797,117.018,34.8797",
-    "geom:latitude":34.8797,
-    "geom:longitude":117.018,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Dukou",
-    "gn:country_code":"CN",
-    "gn:dem":39,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9117972,
-    "gn:latitude":34.8797,
-    "gn:longitude":117.018,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Dukou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.998,34.8597,117.038,34.8997",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e21\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.018,34.8797,117.018,34.8797",
+    "geom:latitude": 34.8797,
+    "geom:longitude": 117.018,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Dukou",
+    "gn:country_code": "CN",
+    "gn:dem": 39,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9117972,
+    "gn:latitude": 34.8797,
+    "gn:longitude": 117.018,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Dukou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.998,34.8597,117.038,34.8997",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "渡口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515875
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890515875,
+      1127370826
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9117972
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9117972
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3d8d2c0be906be214fb8fc7da8f8ae5a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515875,
-            "empire_id":136253041,
-            "locality_id":1192973767,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3d8d2c0be906be214fb8fc7da8f8ae5a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515875,
+        "empire_id": 136253041,
+        "locality_id": 1192973767,
+        "region_id": 85669813,
+        "localadmin_id": 1127370826
+      }
     ],
-    "wof:id":1192973767,
-    "wof:lastmodified":1566685656,
-    "wof:name":"Dukou",
-    "wof:parent_id":890515875,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192973767,
+    "wof:lastmodified": 1768668048,
+    "wof:name": "Dukou",
+    "wof:parent_id": 1127370826,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.018,
     34.8797,
     117.018,
     34.8797
-],
-  "geometry": {"coordinates":[117.018,34.8797],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.018,
+      34.8797
+    ],
+    "type": "Point"
+  }
 }

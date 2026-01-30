@@ -2,84 +2,92 @@
   "id": 1293743071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.21,29.0415,105.21,29.0415",
-    "geom:latitude":29.0415,
-    "geom:longitude":105.21,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Maoping",
-    "gn:country_code":"CN",
-    "gn:dem":273,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183835,
-    "gn:latitude":29.0415,
-    "gn:longitude":105.21,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Maoping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.19,29.0215,105.23,29.0615",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Maoping"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.21,29.0415,105.21,29.0415",
+    "geom:latitude": 29.0415,
+    "geom:longitude": 105.21,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Maoping",
+    "gn:country_code": "CN",
+    "gn:dem": 273,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183835,
+    "gn:latitude": 29.0415,
+    "gn:longitude": 105.21,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Maoping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.19,29.0215,105.23,29.0615",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Maoping"
     ],
-    "name:deu_x_preferred":[
-        "Maoping"
+    "name:deu_x_preferred": [
+      "Maoping"
     ],
-    "name:swe_x_preferred":[
-        "Maoping"
+    "name:swe_x_preferred": [
+      "Maoping"
     ],
-    "name:zho_x_preferred":[
-        "\u6bdb\u576a"
+    "name:zho_x_preferred": [
+      "毛坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183835
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183835
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d44b34410428c037a0e1add3c8b40073",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1293743071,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d44b34410428c037a0e1add3c8b40073",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1293743071,
+        "region_id": 85669787,
+        "localadmin_id": 1127510521
+      }
     ],
-    "wof:id":1293743071,
-    "wof:lastmodified":1566671276,
-    "wof:name":"Maoping",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293743071,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Maoping",
+    "wof:parent_id": 1127510521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.21,
     29.0415,
     105.21,
     29.0415
-],
-  "geometry": {"coordinates":[105.20999999999999,29.0415],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.21,
+      29.0415
+    ],
+    "type": "Point"
+  }
 }

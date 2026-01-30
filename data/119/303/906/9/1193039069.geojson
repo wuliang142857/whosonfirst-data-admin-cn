@@ -2,75 +2,83 @@
   "id": 1193039069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.75781,25.72518,116.75781,25.72518",
-    "geom:latitude":25.72518,
-    "geom:longitude":116.75781,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Gangtou",
-    "gn:country_code":"CN",
-    "gn:dem":370,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7526278,
-    "gn:latitude":25.72518,
-    "gn:longitude":116.75781,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Gangtou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.73781,25.70518,116.77781,25.74518",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c97\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.75781,25.72518,116.75781,25.72518",
+    "geom:latitude": 25.72518,
+    "geom:longitude": 116.75781,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Gangtou",
+    "gn:country_code": "CN",
+    "gn:dem": 370,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7526278,
+    "gn:latitude": 25.72518,
+    "gn:longitude": 116.75781,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Gangtou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.73781,25.70518,116.77781,25.74518",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "岗头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516203
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514329,
+      890516203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7526278
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7526278
     },
-    "wof:country":"CN",
-    "wof:geomhash":"62077bcef862d6521188754aec494b4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516203,
-            "empire_id":136253041,
-            "locality_id":1193039069,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "62077bcef862d6521188754aec494b4f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516203,
+        "empire_id": 136253041,
+        "locality_id": 1193039069,
+        "region_id": 85669735,
+        "localadmin_id": 890514329
+      }
     ],
-    "wof:id":1193039069,
-    "wof:lastmodified":1566685404,
-    "wof:name":"Gangtou",
-    "wof:parent_id":890516203,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193039069,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Gangtou",
+    "wof:parent_id": 890514329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.75781,
     25.72518,
     116.75781,
     25.72518
-],
-  "geometry": {"coordinates":[116.75781000000001,25.72518],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.75781,
+      25.72518
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1260050653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"85.9484,28.1772,85.9484,28.1772",
-    "geom:latitude":28.1772,
-    "geom:longitude":85.9484,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Puluo",
-    "gn:country_code":"CN",
-    "gn:dem":4159,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9019788,
-    "gn:latitude":28.1772,
-    "gn:longitude":85.9484,
-    "gn:modification_date":"2014-05-02",
-    "gn:name":"Puluo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"85.9284,28.1572,85.9684,28.1972",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6d66\u6d1b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "85.9484,28.1772,85.9484,28.1772",
+    "geom:latitude": 28.1772,
+    "geom:longitude": 85.9484,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Puluo",
+    "gn:country_code": "CN",
+    "gn:dem": 4159,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9019788,
+    "gn:latitude": 28.1772,
+    "gn:longitude": 85.9484,
+    "gn:modification_date": "2014-05-02",
+    "gn:name": "Puluo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "85.9284,28.1572,85.9684,28.1972",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "浦洛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890515299,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9019788
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9019788
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ca87feeec5c6009f9e87f4df3c330ac5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1260050653,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ca87feeec5c6009f9e87f4df3c330ac5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1260050653,
+        "region_id": 85669747,
+        "localadmin_id": 890515299
+      }
     ],
-    "wof:id":1260050653,
-    "wof:lastmodified":1566687875,
-    "wof:name":"Puluo",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260050653,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Puluo",
+    "wof:parent_id": 890515299,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     85.9484,
     28.1772,
     85.9484,
     28.1772
-],
-  "geometry": {"coordinates":[85.94840000000001,28.1772],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      85.9484,
+      28.1772
+    ],
+    "type": "Point"
+  }
 }

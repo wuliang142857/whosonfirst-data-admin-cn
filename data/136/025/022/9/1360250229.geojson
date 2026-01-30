@@ -2,81 +2,89 @@
   "id": 1360250229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.59405,39.56088,122.59405,39.56088",
-    "geom:latitude":39.56088,
-    "geom:longitude":122.59405,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Kanzicun",
-    "gn:country_code":"CN",
-    "gn:dem":24,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1804798,
-    "gn:latitude":39.56088,
-    "gn:longitude":122.59405,
-    "gn:modification_date":"2018-03-07",
-    "gn:name":"Kanzicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.57405,39.54088,122.61405,39.58088",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "K\u2019an-tzu-hsia",
-        "K\u2019an-tzu",
-        "Kanzi",
-        "Kanzicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.59405,39.56088,122.59405,39.56088",
+    "geom:latitude": 39.56088,
+    "geom:longitude": 122.59405,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Kanzicun",
+    "gn:country_code": "CN",
+    "gn:dem": 24,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1804798,
+    "gn:latitude": 39.56088,
+    "gn:longitude": 122.59405,
+    "gn:modification_date": "2018-03-07",
+    "gn:name": "Kanzicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.57405,39.54088,122.61405,39.58088",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "K’an-tzu-hsia",
+      "K’an-tzu",
+      "Kanzi",
+      "Kanzicun"
     ],
-    "name:zho_x_preferred":[
-        "\u574e\u5b50\u6751"
+    "name:zho_x_preferred": [
+      "坎子村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1804798
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1804798
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a23a2203a4be0eafbce84aeaf9b10636",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1360250229,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a23a2203a4be0eafbce84aeaf9b10636",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1360250229,
+        "region_id": 85669807,
+        "localadmin_id": 1127210283
+      }
     ],
-    "wof:id":1360250229,
-    "wof:lastmodified":1566691387,
-    "wof:name":"Kanzicun",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360250229,
+    "wof:lastmodified": 1768665993,
+    "wof:name": "Kanzicun",
+    "wof:parent_id": 1127210283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.59405,
     39.56088,
     122.59405,
     39.56088
-],
-  "geometry": {"coordinates":[122.59405,39.56088],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.59405,
+      39.56088
+    ],
+    "type": "Point"
+  }
 }

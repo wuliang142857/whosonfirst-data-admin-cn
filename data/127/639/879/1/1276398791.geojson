@@ -2,75 +2,83 @@
   "id": 1276398791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.774,32.5439,105.774,32.5439",
-    "geom:latitude":32.5439,
-    "geom:longitude":105.774,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Hebachang",
-    "gn:country_code":"CN",
-    "gn:dem":895,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10149087,
-    "gn:latitude":32.5439,
-    "gn:longitude":105.774,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Hebachang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.754,32.5239,105.794,32.5639",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6cb3\u575d\u573a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.774,32.5439,105.774,32.5439",
+    "geom:latitude": 32.5439,
+    "geom:longitude": 105.774,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Hebachang",
+    "gn:country_code": "CN",
+    "gn:dem": 895,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10149087,
+    "gn:latitude": 32.5439,
+    "gn:longitude": 105.774,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Hebachang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.754,32.5239,105.794,32.5639",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "河坝场"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512741,
+      1127510812
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10149087
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10149087
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1497b635549fccf128fdb1121a8be320",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512741,
-            "empire_id":136253041,
-            "locality_id":1276398791,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1497b635549fccf128fdb1121a8be320",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512741,
+        "empire_id": 136253041,
+        "locality_id": 1276398791,
+        "region_id": 85669787,
+        "localadmin_id": 1127510812
+      }
     ],
-    "wof:id":1276398791,
-    "wof:lastmodified":1566677755,
-    "wof:name":"Hebachang",
-    "wof:parent_id":890512741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276398791,
+    "wof:lastmodified": 1768668639,
+    "wof:name": "Hebachang",
+    "wof:parent_id": 1127510812,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.774,
     32.5439,
     105.774,
     32.5439
-],
-  "geometry": {"coordinates":[105.774,32.5439],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.774,
+      32.5439
+    ],
+    "type": "Point"
+  }
 }

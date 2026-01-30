@@ -2,75 +2,83 @@
   "id": 1243457315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.65899,30.49492,119.65899,30.49492",
-    "geom:latitude":30.49492,
-    "geom:longitude":119.65899,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Wuyunli",
-    "gn:country_code":"CN",
-    "gn:dem":155,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7679330,
-    "gn:latitude":30.49492,
-    "gn:longitude":119.65899,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Wuyunli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.63899,30.47492,119.67899,30.51492",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e94\u4e91\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.65899,30.49492,119.65899,30.49492",
+    "geom:latitude": 30.49492,
+    "geom:longitude": 119.65899,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Wuyunli",
+    "gn:country_code": "CN",
+    "gn:dem": 155,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7679330,
+    "gn:latitude": 30.49492,
+    "gn:longitude": 119.65899,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Wuyunli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.63899,30.47492,119.67899,30.51492",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "五云里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515259,
+      890516975
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7679330
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7679330
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ea1465f849a88370b4043313e6091826",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1243457315,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ea1465f849a88370b4043313e6091826",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1243457315,
+        "region_id": 85669835,
+        "localadmin_id": 890515259
+      }
     ],
-    "wof:id":1243457315,
-    "wof:lastmodified":1566697521,
-    "wof:name":"Wuyunli",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243457315,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Wuyunli",
+    "wof:parent_id": 890515259,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.65899,
     30.49492,
     119.65899,
     30.49492
-],
-  "geometry": {"coordinates":[119.65899,30.49492],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.65899,
+      30.49492
+    ],
+    "type": "Point"
+  }
 }

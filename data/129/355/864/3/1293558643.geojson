@@ -2,81 +2,89 @@
   "id": 1293558643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.85,24.28333,111.85,24.28333",
-    "geom:latitude":24.28333,
-    "geom:longitude":111.85,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Dazhai",
-    "gn:country_code":"CN",
-    "gn:dem":616,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1813119,
-    "gn:latitude":24.28333,
-    "gn:longitude":111.85,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Dazhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.83,24.26333,111.87,24.30333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Dazhai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.85,24.28333,111.85,24.28333",
+    "geom:latitude": 24.28333,
+    "geom:longitude": 111.85,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Dazhai",
+    "gn:country_code": "CN",
+    "gn:dem": 616,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1813119,
+    "gn:latitude": 24.28333,
+    "gn:longitude": 111.85,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Dazhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.83,24.26333,111.87,24.30333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Dazhai"
     ],
-    "name:jpn_x_preferred":[
-        "\u5927\u5be8\u6751"
+    "name:jpn_x_preferred": [
+      "大寨村"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5be8\u6751"
+    "name:zho_x_preferred": [
+      "大寨村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515189
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515189,
+      1127451102
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1813119
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1813119
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a708dc5e47207fd0172289b7b34c11fc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515189,
-            "empire_id":136253041,
-            "locality_id":1293558643,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a708dc5e47207fd0172289b7b34c11fc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515189,
+        "empire_id": 136253041,
+        "locality_id": 1293558643,
+        "region_id": 85669717,
+        "localadmin_id": 1127451102
+      }
     ],
-    "wof:id":1293558643,
-    "wof:lastmodified":1566666759,
-    "wof:name":"Dazhai",
-    "wof:parent_id":890515189,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293558643,
+    "wof:lastmodified": 1768665753,
+    "wof:name": "Dazhai",
+    "wof:parent_id": 1127451102,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.85,
     24.28333,
     111.85,
     24.28333
-],
-  "geometry": {"coordinates":[111.84999999999999,24.28333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.85,
+      24.28333
+    ],
+    "type": "Point"
+  }
 }

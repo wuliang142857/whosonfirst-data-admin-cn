@@ -2,75 +2,83 @@
   "id": 1344229325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.342,23.1363,108.342,23.1363",
-    "geom:latitude":23.1363,
-    "geom:longitude":108.342,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tingce",
-    "gn:country_code":"CN",
-    "gn:dem":126,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9930679,
-    "gn:latitude":23.1363,
-    "gn:longitude":108.342,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Tingce",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.322,23.1163,108.362,23.1563",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c40\u6d4b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.342,23.1363,108.342,23.1363",
+    "geom:latitude": 23.1363,
+    "geom:longitude": 108.342,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tingce",
+    "gn:country_code": "CN",
+    "gn:dem": 126,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9930679,
+    "gn:latitude": 23.1363,
+    "gn:longitude": 108.342,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Tingce",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.322,23.1163,108.362,23.1563",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "汀测"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450110
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9930679
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9930679
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d5a27c654170d322490de4871d469488",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1344229325,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d5a27c654170d322490de4871d469488",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1344229325,
+        "region_id": 85669717,
+        "localadmin_id": 1127450110
+      }
     ],
-    "wof:id":1344229325,
-    "wof:lastmodified":1566657785,
-    "wof:name":"Tingce",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344229325,
+    "wof:lastmodified": 1768666366,
+    "wof:name": "Tingce",
+    "wof:parent_id": 1127450110,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.342,
     23.1363,
     108.342,
     23.1363
-],
-  "geometry": {"coordinates":[108.342,23.1363],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.342,
+      23.1363
+    ],
+    "type": "Point"
+  }
 }

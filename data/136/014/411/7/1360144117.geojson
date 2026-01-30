@@ -2,75 +2,83 @@
   "id": 1360144117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.035,30.2642,104.035,30.2642",
-    "geom:latitude":30.2642,
-    "geom:longitude":104.035,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Ronghuasi",
-    "gn:country_code":"CN",
-    "gn:dem":477,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10185100,
-    "gn:latitude":30.2642,
-    "gn:longitude":104.035,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Ronghuasi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.015,30.2442,104.055,30.2842",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8363\u534e\u5bfa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.035,30.2642,104.035,30.2642",
+    "geom:latitude": 30.2642,
+    "geom:longitude": 104.035,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Ronghuasi",
+    "gn:country_code": "CN",
+    "gn:dem": 477,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10185100,
+    "gn:latitude": 30.2642,
+    "gn:longitude": 104.035,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Ronghuasi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.015,30.2442,104.055,30.2842",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "荣华寺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890515003
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514121,
+      890515003
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10185100
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10185100
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dff875710bc070b636d9625ba02dd365",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515003,
-            "empire_id":136253041,
-            "locality_id":1360144117,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dff875710bc070b636d9625ba02dd365",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515003,
+        "empire_id": 136253041,
+        "locality_id": 1360144117,
+        "region_id": 85669787,
+        "localadmin_id": 890514121
+      }
     ],
-    "wof:id":1360144117,
-    "wof:lastmodified":1566691349,
-    "wof:name":"Ronghuasi",
-    "wof:parent_id":890515003,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360144117,
+    "wof:lastmodified": 1768668730,
+    "wof:name": "Ronghuasi",
+    "wof:parent_id": 890514121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.035,
     30.2642,
     104.035,
     30.2642
-],
-  "geometry": {"coordinates":[104.035,30.2642],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.035,
+      30.2642
+    ],
+    "type": "Point"
+  }
 }

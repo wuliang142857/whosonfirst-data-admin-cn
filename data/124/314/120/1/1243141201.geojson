@@ -2,75 +2,83 @@
   "id": 1243141201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.355,35.9679,106.355,35.9679",
-    "geom:latitude":35.9679,
-    "geom:longitude":106.355,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Dianhe",
-    "gn:country_code":"CN",
-    "gn:dem":1728,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10203629,
-    "gn:latitude":35.9679,
-    "gn:longitude":106.355,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Dianhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.335,35.9479,106.375,35.9879",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e97\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.355,35.9679,106.355,35.9679",
+    "geom:latitude": 35.9679,
+    "geom:longitude": 106.355,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Dianhe",
+    "gn:country_code": "CN",
+    "gn:dem": 1728,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10203629,
+    "gn:latitude": 35.9679,
+    "gn:longitude": 106.355,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Dianhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.335,35.9479,106.375,35.9879",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "店河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890515165
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515165,
+      1127640402
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10203629
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10203629
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1f6a944da29d9817bf74cbb9ea3c7b0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515165,
-            "empire_id":136253041,
-            "locality_id":1243141201,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1f6a944da29d9817bf74cbb9ea3c7b0a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515165,
+        "empire_id": 136253041,
+        "locality_id": 1243141201,
+        "region_id": 85669763,
+        "localadmin_id": 1127640402
+      }
     ],
-    "wof:id":1243141201,
-    "wof:lastmodified":1566695708,
-    "wof:name":"Dianhe",
-    "wof:parent_id":890515165,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243141201,
+    "wof:lastmodified": 1768667192,
+    "wof:name": "Dianhe",
+    "wof:parent_id": 1127640402,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.355,
     35.9679,
     106.355,
     35.9679
-],
-  "geometry": {"coordinates":[106.355,35.9679],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.355,
+      35.9679
+    ],
+    "type": "Point"
+  }
 }

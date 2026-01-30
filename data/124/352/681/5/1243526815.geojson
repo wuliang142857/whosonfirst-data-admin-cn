@@ -2,75 +2,83 @@
   "id": 1243526815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.776,22.1836,109.776,22.1836",
-    "geom:latitude":22.1836,
-    "geom:longitude":109.776,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Denghe",
-    "gn:country_code":"CN",
-    "gn:dem":92,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9900131,
-    "gn:latitude":22.1836,
-    "gn:longitude":109.776,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Denghe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.756,22.1636,109.796,22.2036",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u767b\u79be"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.776,22.1836,109.776,22.1836",
+    "geom:latitude": 22.1836,
+    "geom:longitude": 109.776,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Denghe",
+    "gn:country_code": "CN",
+    "gn:dem": 92,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9900131,
+    "gn:latitude": 22.1836,
+    "gn:longitude": 109.776,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Denghe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.756,22.1636,109.796,22.2036",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "登禾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9900131
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9900131
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f4fe39f850402aad8cb68cb8a8ad0892",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1243526815,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f4fe39f850402aad8cb68cb8a8ad0892",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1243526815,
+        "region_id": 85669717,
+        "localadmin_id": 1127450923
+      }
     ],
-    "wof:id":1243526815,
-    "wof:lastmodified":1566694238,
-    "wof:name":"Denghe",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243526815,
+    "wof:lastmodified": 1768665518,
+    "wof:name": "Denghe",
+    "wof:parent_id": 1127450923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.776,
     22.1836,
     109.776,
     22.1836
-],
-  "geometry": {"coordinates":[109.776,22.1836],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.776,
+      22.1836
+    ],
+    "type": "Point"
+  }
 }

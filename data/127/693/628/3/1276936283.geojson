@@ -2,75 +2,83 @@
   "id": 1276936283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.131,29.1388,102.131,29.1388",
-    "geom:latitude":29.1388,
-    "geom:longitude":102.131,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Miaoping",
-    "gn:country_code":"CN",
-    "gn:dem":1784,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10212022,
-    "gn:latitude":29.1388,
-    "gn:longitude":102.131,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Miaoping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.111,29.1188,102.151,29.1588",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e99\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.131,29.1388,102.131,29.1388",
+    "geom:latitude": 29.1388,
+    "geom:longitude": 102.131,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Miaoping",
+    "gn:country_code": "CN",
+    "gn:dem": 1784,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10212022,
+    "gn:latitude": 29.1388,
+    "gn:longitude": 102.131,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Miaoping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.111,29.1188,102.151,29.1588",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "庙坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513324
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10212022
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10212022
     },
-    "wof:country":"CN",
-    "wof:geomhash":"852b17dd48526679b0f073b5a509256b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1276936283,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "852b17dd48526679b0f073b5a509256b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1276936283,
+        "region_id": 85669787,
+        "localadmin_id": 1127513324
+      }
     ],
-    "wof:id":1276936283,
-    "wof:lastmodified":1566674514,
-    "wof:name":"Miaoping",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276936283,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Miaoping",
+    "wof:parent_id": 1127513324,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.131,
     29.1388,
     102.131,
     29.1388
-],
-  "geometry": {"coordinates":[102.131,29.1388],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.131,
+      29.1388
+    ],
+    "type": "Point"
+  }
 }

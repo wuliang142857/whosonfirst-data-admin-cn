@@ -2,75 +2,83 @@
   "id": 1243161023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.751,38.2659,115.751,38.2659",
-    "geom:latitude":38.2659,
-    "geom:longitude":115.751,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Dongcaolu",
-    "gn:country_code":"CN",
-    "gn:dem":25,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630868,
-    "gn:latitude":38.2659,
-    "gn:longitude":115.751,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Dongcaolu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.731,38.2459,115.771,38.2859",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u8349\u82a6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.751,38.2659,115.751,38.2659",
+    "geom:latitude": 38.2659,
+    "geom:longitude": 115.751,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Dongcaolu",
+    "gn:country_code": "CN",
+    "gn:dem": 25,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630868,
+    "gn:latitude": 38.2659,
+    "gn:longitude": 115.751,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Dongcaolu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.731,38.2459,115.771,38.2859",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东草芦"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516595
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516595,
+      1127131124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630868
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630868
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a0ca64ab12bac7fb97c9159e68cd3b36",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516595,
-            "empire_id":136253041,
-            "locality_id":1243161023,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a0ca64ab12bac7fb97c9159e68cd3b36",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516595,
+        "empire_id": 136253041,
+        "locality_id": 1243161023,
+        "region_id": 85669797,
+        "localadmin_id": 1127131124
+      }
     ],
-    "wof:id":1243161023,
-    "wof:lastmodified":1566697404,
-    "wof:name":"Dongcaolu",
-    "wof:parent_id":890516595,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243161023,
+    "wof:lastmodified": 1768669433,
+    "wof:name": "Dongcaolu",
+    "wof:parent_id": 1127131124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.751,
     38.2659,
     115.751,
     38.2659
-],
-  "geometry": {"coordinates":[115.751,38.2659],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.751,
+      38.2659
+    ],
+    "type": "Point"
+  }
 }

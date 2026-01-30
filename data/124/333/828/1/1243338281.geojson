@@ -2,75 +2,83 @@
   "id": 1243338281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.44482,40.84246,123.44482,40.84246",
-    "geom:latitude":40.84246,
-    "geom:longitude":123.44482,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Siyuangou",
-    "gn:country_code":"CN",
-    "gn:dem":490,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7919631,
-    "gn:latitude":40.84246,
-    "gn:longitude":123.44482,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Siyuangou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.42482,40.82246,123.46482,40.86246",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5bfa\u9662\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.44482,40.84246,123.44482,40.84246",
+    "geom:latitude": 40.84246,
+    "geom:longitude": 123.44482,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Siyuangou",
+    "gn:country_code": "CN",
+    "gn:dem": 490,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7919631,
+    "gn:latitude": 40.84246,
+    "gn:longitude": 123.44482,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Siyuangou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.42482,40.82246,123.46482,40.86246",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "寺院沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514643
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514643,
+      1127211021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7919631
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7919631
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f8c12a578b2c71738376f33b042b982c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514643,
-            "empire_id":136253041,
-            "locality_id":1243338281,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f8c12a578b2c71738376f33b042b982c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514643,
+        "empire_id": 136253041,
+        "locality_id": 1243338281,
+        "region_id": 85669807,
+        "localadmin_id": 1127211021
+      }
     ],
-    "wof:id":1243338281,
-    "wof:lastmodified":1566696372,
-    "wof:name":"Siyuangou",
-    "wof:parent_id":890514643,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243338281,
+    "wof:lastmodified": 1768666776,
+    "wof:name": "Siyuangou",
+    "wof:parent_id": 1127211021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.44482,
     40.84246,
     123.44482,
     40.84246
-],
-  "geometry": {"coordinates":[123.44482000000001,40.84246],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.44482,
+      40.84246
+    ],
+    "type": "Point"
+  }
 }

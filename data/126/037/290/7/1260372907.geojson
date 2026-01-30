@@ -2,77 +2,85 @@
   "id": 1260372907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.22011,35.49283,105.22011,35.49283",
-    "geom:latitude":35.49283,
-    "geom:longitude":105.22011,
-    "gn:admin1_code":"15",
-    "gn:asciiname":"Houjiachuan",
-    "gn:country_code":"CN",
-    "gn:dem":1903,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1899300,
-    "gn:latitude":35.49283,
-    "gn:longitude":105.22011,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Houjiachuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.20011,35.47283,105.24011,35.51283",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Houchuan",
-        "Houjiachuan",
-        "\u4faf\u5bb6\u5ddd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.22011,35.49283,105.22011,35.49283",
+    "geom:latitude": 35.49283,
+    "geom:longitude": 105.22011,
+    "gn:admin1_code": "15",
+    "gn:asciiname": "Houjiachuan",
+    "gn:country_code": "CN",
+    "gn:dem": 1903,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1899300,
+    "gn:latitude": 35.49283,
+    "gn:longitude": 105.22011,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Houjiachuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.20011,35.47283,105.24011,35.51283",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Houchuan",
+      "Houjiachuan",
+      "侯家川"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516465,
+      1127620422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1899300
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1899300
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0cecfc670d8c36d4a83d888c1da46e31",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516465,
-            "empire_id":136253041,
-            "locality_id":1260372907,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0cecfc670d8c36d4a83d888c1da46e31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516465,
+        "empire_id": 136253041,
+        "locality_id": 1260372907,
+        "region_id": 85669711,
+        "localadmin_id": 1127620422
+      }
     ],
-    "wof:id":1260372907,
-    "wof:lastmodified":1566686944,
-    "wof:name":"Houjiachuan",
-    "wof:parent_id":890516465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260372907,
+    "wof:lastmodified": 1768666457,
+    "wof:name": "Houjiachuan",
+    "wof:parent_id": 1127620422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.22011,
     35.49283,
     105.22011,
     35.49283
-],
-  "geometry": {"coordinates":[105.22011000000001,35.49283],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.22011,
+      35.49283
+    ],
+    "type": "Point"
+  }
 }

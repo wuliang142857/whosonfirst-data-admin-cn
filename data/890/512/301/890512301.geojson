@@ -2,78 +2,86 @@
   "id": 890512301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.522903,24.411202,111.522903,24.411202",
-    "geom:latitude":24.411202,
-    "geom:longitude":111.522903,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"111.422903,24.311202,111.622903,24.511202",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Hezhou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.522903,24.411202,111.522903,24.411202",
+    "geom:latitude": 24.411202,
+    "geom:longitude": 111.522903,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "111.422903,24.311202,111.622903,24.511202",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Hezhou"
     ],
-    "name:zho_x_preferred":[
-        "\u8d3a\u7e23"
+    "name:zho_x_preferred": [
+      "贺縣"
     ],
-    "qs:name":"\u8d3a\u7e23",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5e7f\u897f\u7701",
-    "qs:photos":11,
-    "qs:photos_1k":2,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":72,
-    "qs:photos_sr":1,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890515189,
-        136253041,
-        85669717
+    "qs:name": "贺縣",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "广西省",
+    "qs:photos": 11,
+    "qs:photos_1k": 2,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 72,
+    "qs:photos_sr": 1,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      890515189,
+      136253041,
+      85669717
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12686608,
-        "qs_pg:id":47809
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12686608,
+      "qs_pg:id": 47809
     },
-    "wof:country":"CN",
-    "wof:created":1469055765,
-    "wof:geomhash":"c47271154f06e00cb39ae55fd6e4e553",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515189,
-            "empire_id":136253041,
-            "localadmin_id":890512301,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055765,
+    "wof:geomhash": "c47271154f06e00cb39ae55fd6e4e553",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515189,
+        "empire_id": 136253041,
+        "localadmin_id": 890512301,
+        "region_id": 85669717
+      }
     ],
-    "wof:id":890512301,
-    "wof:lastmodified":1601423003,
-    "wof:name":"Hezhou",
-    "wof:parent_id":890515189,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890512301,
+    "wof:lastmodified": 1601423003,
+    "wof:name": "Hezhou",
+    "wof:parent_id": 890515189,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [],
+    "edtf:deprecated": "2010-01-01",
+    "wof:note": "重复记录"
+  },
   "bbox": [
     111.522903,
     24.411202,
     111.522903,
     24.411202
-],
-  "geometry": {"coordinates":[111.522903,24.411202],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.522903,
+      24.411202
+    ],
+    "type": "Point"
+  }
 }

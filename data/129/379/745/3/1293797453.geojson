@@ -2,75 +2,83 @@
   "id": 1293797453,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.44928,31.2027,117.44928,31.2027",
-    "geom:latitude":31.2027,
-    "geom:longitude":117.44928,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Yangliucun",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11489613,
-    "gn:latitude":31.2027,
-    "gn:longitude":117.44928,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Yangliucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.42928,31.1827,117.46928,31.2227",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u67f3\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.44928,31.2027,117.44928,31.2027",
+    "geom:latitude": 31.2027,
+    "geom:longitude": 117.44928,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Yangliucun",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11489613,
+    "gn:latitude": 31.2027,
+    "gn:longitude": 117.44928,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Yangliucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.42928,31.1827,117.46928,31.2227",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨柳村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513787
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511861,
+      890513787
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11489613
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11489613
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5e9a747962390fda7e9c4d693512db91",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513787,
-            "empire_id":136253041,
-            "locality_id":1293797453,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5e9a747962390fda7e9c4d693512db91",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513787,
+        "empire_id": 136253041,
+        "locality_id": 1293797453,
+        "region_id": 85669739,
+        "localadmin_id": 890511861
+      }
     ],
-    "wof:id":1293797453,
-    "wof:lastmodified":1566667400,
-    "wof:name":"Yangliucun",
-    "wof:parent_id":890513787,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293797453,
+    "wof:lastmodified": 1768669770,
+    "wof:name": "Yangliucun",
+    "wof:parent_id": 890511861,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.44928,
     31.2027,
     117.44928,
     31.2027
-],
-  "geometry": {"coordinates":[117.44928,31.2027],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.44928,
+      31.2027
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1327346921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.44643,33.72497,116.44643,33.72497",
-    "geom:latitude":33.72497,
-    "geom:longitude":116.44643,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Huangloucun",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10360313,
-    "gn:latitude":33.72497,
-    "gn:longitude":116.44643,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Huangloucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.42643,33.70497,116.46643,33.74497",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ec4\u697c\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.44643,33.72497,116.44643,33.72497",
+    "geom:latitude": 33.72497,
+    "geom:longitude": 116.44643,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Huangloucun",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10360313,
+    "gn:latitude": 33.72497,
+    "gn:longitude": 116.44643,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Huangloucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.42643,33.70497,116.46643,33.74497",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黄楼村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513461,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10360313
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10360313
     },
-    "wof:country":"CN",
-    "wof:geomhash":"db160ea0862b011bff5eda455aeb0161",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1327346921,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "db160ea0862b011bff5eda455aeb0161",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1327346921,
+        "region_id": 85669739,
+        "localadmin_id": 890513461
+      }
     ],
-    "wof:id":1327346921,
-    "wof:lastmodified":1566651220,
-    "wof:name":"Huangloucun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327346921,
+    "wof:lastmodified": 1768669756,
+    "wof:name": "Huangloucun",
+    "wof:parent_id": 890513461,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.44643,
     33.72497,
     116.44643,
     33.72497
-],
-  "geometry": {"coordinates":[116.44643000000001,33.72497],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.44643,
+      33.72497
+    ],
+    "type": "Point"
+  }
 }

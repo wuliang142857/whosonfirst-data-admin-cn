@@ -2,75 +2,83 @@
   "id": 1344135551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.82192,39.0717,116.82192,39.0717",
-    "geom:latitude":39.0717,
-    "geom:longitude":116.82192,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Xiaojiabu",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9640879,
-    "gn:latitude":39.0717,
-    "gn:longitude":116.82192,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Xiaojiabu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.80192,39.0517,116.84192,39.0917",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8096\u5bb6\u5821"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.82192,39.0717,116.82192,39.0717",
+    "geom:latitude": 39.0717,
+    "geom:longitude": 116.82192,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Xiaojiabu",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9640879,
+    "gn:latitude": 39.0717,
+    "gn:longitude": 116.82192,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Xiaojiabu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.80192,39.0517,116.84192,39.0917",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "肖家堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516977
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516977,
+      1127131081
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9640879
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9640879
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3be25b20ae12ee4b168fee392cbdf188",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516977,
-            "empire_id":136253041,
-            "locality_id":1344135551,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3be25b20ae12ee4b168fee392cbdf188",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516977,
+        "empire_id": 136253041,
+        "locality_id": 1344135551,
+        "region_id": 85669797,
+        "localadmin_id": 1127131081
+      }
     ],
-    "wof:id":1344135551,
-    "wof:lastmodified":1566658010,
-    "wof:name":"Xiaojiabu",
-    "wof:parent_id":890516977,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344135551,
+    "wof:lastmodified": 1768669016,
+    "wof:name": "Xiaojiabu",
+    "wof:parent_id": 1127131081,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.82192,
     39.0717,
     116.82192,
     39.0717
-],
-  "geometry": {"coordinates":[116.82192000000001,39.0717],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.82192,
+      39.0717
+    ],
+    "type": "Point"
+  }
 }

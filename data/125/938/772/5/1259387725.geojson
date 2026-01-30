@@ -2,83 +2,91 @@
   "id": 1259387725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.80306,34.37861,119.80306,34.37861",
-    "geom:latitude":34.37861,
-    "geom:longitude":119.80306,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Chenjiagang",
-    "gn:country_code":"CN",
-    "gn:dem":1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1815138,
-    "gn:latitude":34.37861,
-    "gn:longitude":119.80306,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Chenjiagang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.78306,34.35861,119.82306,34.39861",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019en-chia-chiang",
-        "Ch\u2019en-chia-kang",
-        "Chenkiakiang",
-        "Chenjiagang",
-        "\u9648\u5bb6\u6e2f",
-        "Chenjiagang Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.80306,34.37861,119.80306,34.37861",
+    "geom:latitude": 34.37861,
+    "geom:longitude": 119.80306,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Chenjiagang",
+    "gn:country_code": "CN",
+    "gn:dem": 1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1815138,
+    "gn:latitude": 34.37861,
+    "gn:longitude": 119.80306,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Chenjiagang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.78306,34.35861,119.82306,34.39861",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’en-chia-chiang",
+      "Ch’en-chia-kang",
+      "Chenkiakiang",
+      "Chenjiagang",
+      "陈家港",
+      "Chenjiagang Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u9648\u5bb6\u6e2f\u9547"
+    "name:zho_x_preferred": [
+      "陈家港镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1815138
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1815138
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aba23538531f13bf36fb9f331affd307",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1259387725,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aba23538531f13bf36fb9f331affd307",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1259387725,
+        "region_id": 85669827,
+        "localadmin_id": 1127320921
+      }
     ],
-    "wof:id":1259387725,
-    "wof:lastmodified":1566697991,
-    "wof:name":"Chenjiagang",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259387725,
+    "wof:lastmodified": 1768670804,
+    "wof:name": "Chenjiagang",
+    "wof:parent_id": 1127320921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.80306000000002,
     34.37860999999999,
     119.80306000000002,
     34.37860999999999
-],
-  "geometry": {"coordinates":[119.80306000000002,34.37860999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.80306000000002,
+      34.37860999999999
+    ],
+    "type": "Point"
+  }
 }

@@ -2,80 +2,88 @@
   "id": 1259938525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.37945,40.10305,116.37945,40.10305",
-    "geom:latitude":40.10305,
-    "geom:longitude":116.37945,
-    "gn:admin1_code":"22",
-    "gn:asciiname":"Pingxifu",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2035459,
-    "gn:latitude":40.10305,
-    "gn:longitude":116.37945,
-    "gn:modification_date":"2012-09-06",
-    "gn:name":"Pingxifu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.35945,40.08305,116.39945,40.12305",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "P\u2019ing-hsi-fu",
-        "P\u2019ing-hsi-fu-chen",
-        "Pingxifu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.37945,40.10305,116.37945,40.10305",
+    "geom:latitude": 40.10305,
+    "geom:longitude": 116.37945,
+    "gn:admin1_code": "22",
+    "gn:asciiname": "Pingxifu",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2035459,
+    "gn:latitude": 40.10305,
+    "gn:longitude": 116.37945,
+    "gn:modification_date": "2012-09-06",
+    "gn:name": "Pingxifu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.35945,40.08305,116.39945,40.12305",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "P’ing-hsi-fu",
+      "P’ing-hsi-fu-chen",
+      "Pingxifu"
     ],
-    "name:zho_x_preferred":[
-        "\u5e73\u897f\u82fb"
+    "name:zho_x_preferred": [
+      "平西苻"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890515303,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2035459
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2035459
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fd58d8deccd9358eaab71a92c5750abf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1259938525,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fd58d8deccd9358eaab71a92c5750abf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1259938525,
+        "region_id": 85669727,
+        "localadmin_id": 890515303
+      }
     ],
-    "wof:id":1259938525,
-    "wof:lastmodified":1566699742,
-    "wof:name":"Pingxifu",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259938525,
+    "wof:lastmodified": 1768667324,
+    "wof:name": "Pingxifu",
+    "wof:parent_id": 890515303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.37945,
     40.10305,
     116.37945,
     40.10305
-],
-  "geometry": {"coordinates":[116.37945000000001,40.10305],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.37945,
+      40.10305
+    ],
+    "type": "Point"
+  }
 }

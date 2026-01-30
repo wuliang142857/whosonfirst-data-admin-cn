@@ -2,75 +2,83 @@
   "id": 1293753893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.732,34.8664,105.732,34.8664",
-    "geom:latitude":34.8664,
-    "geom:longitude":105.732,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Suncai",
-    "gn:country_code":"CN",
-    "gn:dem":1314,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10428557,
-    "gn:latitude":34.8664,
-    "gn:longitude":105.732,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Suncai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.712,34.8464,105.752,34.8864",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b59\u8521"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.732,34.8664,105.732,34.8664",
+    "geom:latitude": 34.8664,
+    "geom:longitude": 105.732,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Suncai",
+    "gn:country_code": "CN",
+    "gn:dem": 1314,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10428557,
+    "gn:latitude": 34.8664,
+    "gn:longitude": 105.732,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Suncai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.712,34.8464,105.752,34.8864",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "孙蔡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10428557
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10428557
     },
-    "wof:country":"CN",
-    "wof:geomhash":"475afbb8437183e76a701d4c6ad12f70",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1293753893,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "475afbb8437183e76a701d4c6ad12f70",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1293753893,
+        "region_id": 85669711,
+        "localadmin_id": 1127620522
+      }
     ],
-    "wof:id":1293753893,
-    "wof:lastmodified":1566671895,
-    "wof:name":"Suncai",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293753893,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Suncai",
+    "wof:parent_id": 1127620522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.732,
     34.8664,
     105.732,
     34.8664
-],
-  "geometry": {"coordinates":[105.732,34.8664],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.732,
+      34.8664
+    ],
+    "type": "Point"
+  }
 }

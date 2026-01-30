@@ -2,81 +2,89 @@
   "id": 1293141973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.70345,30.07327,107.70345,30.07327",
-    "geom:latitude":30.07327,
-    "geom:longitude":107.70345,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Wanquan",
-    "gn:country_code":"CN",
-    "gn:dem":460,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8406340,
-    "gn:latitude":30.07327,
-    "gn:longitude":107.70345,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Wanquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.68345,30.05327,107.72345,30.09327",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Wanquan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.70345,30.07327,107.70345,30.07327",
+    "geom:latitude": 30.07327,
+    "geom:longitude": 107.70345,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Wanquan",
+    "gn:country_code": "CN",
+    "gn:dem": 460,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8406340,
+    "gn:latitude": 30.07327,
+    "gn:longitude": 107.70345,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Wanquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.68345,30.05327,107.72345,30.09327",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Wanquan"
     ],
-    "name:deu_x_preferred":[
-        "Wanquan"
+    "name:deu_x_preferred": [
+      "Wanquan"
     ],
-    "name:zho_x_preferred":[
-        "\u4e07\u6cc9"
+    "name:zho_x_preferred": [
+      "万泉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513027,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8406340
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8406340
     },
-    "wof:country":"CN",
-    "wof:geomhash":"14c060ca4077449dfe16a572e03be637",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1293141973,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "14c060ca4077449dfe16a572e03be637",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1293141973,
+        "region_id": 85669725,
+        "localadmin_id": 890513027
+      }
     ],
-    "wof:id":1293141973,
-    "wof:lastmodified":1566668520,
-    "wof:name":"Wanquan",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293141973,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Wanquan",
+    "wof:parent_id": 890513027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.70345,
     30.07327,
     107.70345,
     30.07327
-],
-  "geometry": {"coordinates":[107.70345,30.07327],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.70345,
+      30.07327
+    ],
+    "type": "Point"
+  }
 }

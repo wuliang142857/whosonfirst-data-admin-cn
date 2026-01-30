@@ -2,75 +2,83 @@
   "id": 1226724661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.78414,39.7628,121.78414,39.7628",
-    "geom:latitude":39.7628,
-    "geom:longitude":121.78414,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Yueshancun",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11478767,
-    "gn:latitude":39.7628,
-    "gn:longitude":121.78414,
-    "gn:modification_date":"2018-03-10",
-    "gn:name":"Yueshancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.76414,39.7428,121.80414,39.7828",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5cb3\u5c71\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.78414,39.7628,121.78414,39.7628",
+    "geom:latitude": 39.7628,
+    "geom:longitude": 121.78414,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Yueshancun",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11478767,
+    "gn:latitude": 39.7628,
+    "gn:longitude": 121.78414,
+    "gn:modification_date": "2018-03-10",
+    "gn:name": "Yueshancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.76414,39.7428,121.80414,39.7828",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "岳山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11478767
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11478767
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7cfda31248d07893bf81a0f9f041ed77",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1226724661,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7cfda31248d07893bf81a0f9f041ed77",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1226724661,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1226724661,
-    "wof:lastmodified":1566700945,
-    "wof:name":"Yueshancun",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226724661,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Yueshancun",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.78414,
     39.7628,
     121.78414,
     39.7628
-],
-  "geometry": {"coordinates":[121.78413999999999,39.7628],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.78414,
+      39.7628
+    ],
+    "type": "Point"
+  }
 }

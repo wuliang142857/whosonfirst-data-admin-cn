@@ -2,80 +2,88 @@
   "id": 1243024997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.01043,33.89284,108.01043,33.89284",
-    "geom:latitude":33.89284,
-    "geom:longitude":108.01043,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Shaliangzi",
-    "gn:country_code":"CN",
-    "gn:dem":975,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7446047,
-    "gn:latitude":33.89284,
-    "gn:longitude":108.01043,
-    "gn:modification_date":"2013-05-10",
-    "gn:name":"Shaliangzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.99043,33.87284,108.03043,33.91284",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shaliangzi Xiang",
-        "\u6c99\u6881\u5b50\u4e61",
-        "Shaliangzi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.01043,33.89284,108.01043,33.89284",
+    "geom:latitude": 33.89284,
+    "geom:longitude": 108.01043,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Shaliangzi",
+    "gn:country_code": "CN",
+    "gn:dem": 975,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7446047,
+    "gn:latitude": 33.89284,
+    "gn:longitude": 108.01043,
+    "gn:modification_date": "2013-05-10",
+    "gn:name": "Shaliangzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.99043,33.87284,108.03043,33.91284",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shaliangzi Xiang",
+      "沙梁子乡",
+      "Shaliangzi"
     ],
-    "name:zho_x_preferred":[
-        "\u6c99\u6881\u5b50"
+    "name:zho_x_preferred": [
+      "沙梁子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7446047
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7446047
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bf02808e2eeb4dfb5089647212e59ff4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1243024997,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bf02808e2eeb4dfb5089647212e59ff4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1243024997,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1243024997,
-    "wof:lastmodified":1566696485,
-    "wof:name":"Shaliangzi",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243024997,
+    "wof:lastmodified": 1768668691,
+    "wof:name": "Shaliangzi",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.01043,
     33.89284,
     108.01043,
     33.89284
-],
-  "geometry": {"coordinates":[108.01043,33.89284],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.01043,
+      33.89284
+    ],
+    "type": "Point"
+  }
 }

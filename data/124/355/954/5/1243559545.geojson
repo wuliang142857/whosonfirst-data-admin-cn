@@ -2,77 +2,85 @@
   "id": 1243559545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.49048,31.86713,121.49048,31.86713",
-    "geom:latitude":31.86713,
-    "geom:longitude":121.49048,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Huangcang",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1887461,
-    "gn:latitude":31.86713,
-    "gn:longitude":121.49048,
-    "gn:modification_date":"2017-08-02",
-    "gn:name":"Huangcang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.47048,31.84713,121.51048,31.88713",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9ec4\u4ed3",
-        "Huangcangzhen",
-        "\u9ec4\u4ed3\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.49048,31.86713,121.49048,31.86713",
+    "geom:latitude": 31.86713,
+    "geom:longitude": 121.49048,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Huangcang",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1887461,
+    "gn:latitude": 31.86713,
+    "gn:longitude": 121.49048,
+    "gn:modification_date": "2017-08-02",
+    "gn:name": "Huangcang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.47048,31.84713,121.51048,31.88713",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "黄仓",
+      "Huangcangzhen",
+      "黄仓镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513915,
+      890515155
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1887461
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1887461
     },
-    "wof:country":"CN",
-    "wof:geomhash":"39be8e8c6679101d2eb619abb68f7c3c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515155,
-            "empire_id":136253041,
-            "locality_id":1243559545,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "39be8e8c6679101d2eb619abb68f7c3c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515155,
+        "empire_id": 136253041,
+        "locality_id": 1243559545,
+        "region_id": 85669827,
+        "localadmin_id": 890513915
+      }
     ],
-    "wof:id":1243559545,
-    "wof:lastmodified":1566694297,
-    "wof:name":"Huangcang",
-    "wof:parent_id":890515155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243559545,
+    "wof:lastmodified": 1768670803,
+    "wof:name": "Huangcang",
+    "wof:parent_id": 890513915,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.49048,
     31.86713,
     121.49048,
     31.86713
-],
-  "geometry": {"coordinates":[121.49048000000001,31.86713],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.49048,
+      31.86713
+    ],
+    "type": "Point"
+  }
 }

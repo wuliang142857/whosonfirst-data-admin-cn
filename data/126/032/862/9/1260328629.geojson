@@ -2,75 +2,83 @@
   "id": 1260328629,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.36983,29.78254,107.36983,29.78254",
-    "geom:latitude":29.78254,
-    "geom:longitude":107.36983,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Lailong",
-    "gn:country_code":"CN",
-    "gn:dem":216,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416449,
-    "gn:latitude":29.78254,
-    "gn:longitude":107.36983,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Lailong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.34983,29.76254,107.38983,29.80254",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6765\u9f99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.36983,29.78254,107.36983,29.78254",
+    "geom:latitude": 29.78254,
+    "geom:longitude": 107.36983,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Lailong",
+    "gn:country_code": "CN",
+    "gn:dem": 216,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416449,
+    "gn:latitude": 29.78254,
+    "gn:longitude": 107.36983,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Lailong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.34983,29.76254,107.38983,29.80254",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "来龙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416449
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416449
     },
-    "wof:country":"CN",
-    "wof:geomhash":"95212619c078ec2eafc4c6ce65989f0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1260328629,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "95212619c078ec2eafc4c6ce65989f0a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1260328629,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1260328629,
-    "wof:lastmodified":1566687652,
-    "wof:name":"Lailong",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260328629,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Lailong",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.36983,
     29.78254,
     107.36983,
     29.78254
-],
-  "geometry": {"coordinates":[107.36982999999999,29.78254],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.36983,
+      29.78254
+    ],
+    "type": "Point"
+  }
 }

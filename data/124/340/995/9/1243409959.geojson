@@ -2,80 +2,88 @@
   "id": 1243409959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.79417,35.02255,110.79417,35.02255",
-    "geom:latitude":35.02255,
-    "geom:longitude":110.79417,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Nanfucun",
-    "gn:country_code":"CN",
-    "gn:dem":373,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1800081,
-    "gn:latitude":35.02255,
-    "gn:longitude":110.79417,
-    "gn:modification_date":"2017-01-04",
-    "gn:name":"Nanfucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.77417,35.00255,110.81417,35.04255",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Nan-fu-ts\u2019un",
-        "Nanfu",
-        "Nanfucun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.79417,35.02255,110.79417,35.02255",
+    "geom:latitude": 35.02255,
+    "geom:longitude": 110.79417,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Nanfucun",
+    "gn:country_code": "CN",
+    "gn:dem": 373,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1800081,
+    "gn:latitude": 35.02255,
+    "gn:longitude": 110.79417,
+    "gn:modification_date": "2017-01-04",
+    "gn:name": "Nanfucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.77417,35.00255,110.81417,35.04255",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Nan-fu-ts’un",
+      "Nanfu",
+      "Nanfucun"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u6276\u6751"
+    "name:zho_x_preferred": [
+      "南扶村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890514745
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890514651,
+      890514745
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800081
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800081
     },
-    "wof:country":"CN",
-    "wof:geomhash":"642760810cb04e95a4c59d2369674f03",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514745,
-            "empire_id":136253041,
-            "locality_id":1243409959,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "642760810cb04e95a4c59d2369674f03",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514745,
+        "empire_id": 136253041,
+        "locality_id": 1243409959,
+        "region_id": 85669773,
+        "localadmin_id": 890514651
+      }
     ],
-    "wof:id":1243409959,
-    "wof:lastmodified":1566695583,
-    "wof:name":"Nanfucun",
-    "wof:parent_id":890514745,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243409959,
+    "wof:lastmodified": 1768666417,
+    "wof:name": "Nanfucun",
+    "wof:parent_id": 890514651,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.79417,
     35.02255,
     110.79417,
     35.02255
-],
-  "geometry": {"coordinates":[110.79416999999999,35.02255],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.79417,
+      35.02255
+    ],
+    "type": "Point"
+  }
 }

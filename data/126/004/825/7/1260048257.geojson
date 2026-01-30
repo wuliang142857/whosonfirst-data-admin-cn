@@ -2,82 +2,90 @@
   "id": 1260048257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.27337,31.74897,121.27337,31.74897",
-    "geom:latitude":31.74897,
-    "geom:longitude":121.27337,
-    "gn:admin1_code":"23",
-    "gn:asciiname":"Sanxing",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1796562,
-    "gn:latitude":31.74897,
-    "gn:longitude":121.27337,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Sanxing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.25337,31.72897,121.29337,31.76897",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "San-hsing-chen",
-        "Sanxing Zhen",
-        "San-hsing",
-        "Sanxing",
-        "\u4e09\u661f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.27337,31.74897,121.27337,31.74897",
+    "geom:latitude": 31.74897,
+    "geom:longitude": 121.27337,
+    "gn:admin1_code": "23",
+    "gn:asciiname": "Sanxing",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1796562,
+    "gn:latitude": 31.74897,
+    "gn:longitude": 121.27337,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Sanxing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.25337,31.72897,121.29337,31.76897",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "San-hsing-chen",
+      "Sanxing Zhen",
+      "San-hsing",
+      "Sanxing",
+      "三星"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u661f\u9547"
+    "name:zho_x_preferred": [
+      "三星镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514197,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1796562
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1796562
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6238b3eae0e2ad1bea21f17ac126b7a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1260048257,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6238b3eae0e2ad1bea21f17ac126b7a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1260048257,
+        "region_id": 85669831,
+        "localadmin_id": 890514197
+      }
     ],
-    "wof:id":1260048257,
-    "wof:lastmodified":1566687626,
-    "wof:name":"Sanxing",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260048257,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Sanxing",
+    "wof:parent_id": 890514197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.27337,
     31.74897,
     121.27337,
     31.74897
-],
-  "geometry": {"coordinates":[121.27337,31.74897],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.27337,
+      31.74897
+    ],
+    "type": "Point"
+  }
 }

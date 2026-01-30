@@ -2,75 +2,83 @@
   "id": 1293357171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.95923,34.33955,107.95923,34.33955",
-    "geom:latitude":34.33955,
-    "geom:longitude":107.95923,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Wangjiabu",
-    "gn:country_code":"CN",
-    "gn:dem":573,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7368900,
-    "gn:latitude":34.33955,
-    "gn:longitude":107.95923,
-    "gn:modification_date":"2016-12-04",
-    "gn:name":"Wangjiabu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.93923,34.31955,107.97923,34.35955",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u738b\u5bb6\u5821"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.95923,34.33955,107.95923,34.33955",
+    "geom:latitude": 34.33955,
+    "geom:longitude": 107.95923,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Wangjiabu",
+    "gn:country_code": "CN",
+    "gn:dem": 573,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7368900,
+    "gn:latitude": 34.33955,
+    "gn:longitude": 107.95923,
+    "gn:modification_date": "2016-12-04",
+    "gn:name": "Wangjiabu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.93923,34.31955,107.97923,34.35955",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "王家堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516525
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516299,
+      890516525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7368900
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7368900
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f8c9189b86d0db99dc30c2783bdb3d91",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516525,
-            "empire_id":136253041,
-            "locality_id":1293357171,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f8c9189b86d0db99dc30c2783bdb3d91",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516525,
+        "empire_id": 136253041,
+        "locality_id": 1293357171,
+        "region_id": 85669769,
+        "localadmin_id": 890516299
+      }
     ],
-    "wof:id":1293357171,
-    "wof:lastmodified":1566669219,
-    "wof:name":"Wangjiabu",
-    "wof:parent_id":890516525,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293357171,
+    "wof:lastmodified": 1768667753,
+    "wof:name": "Wangjiabu",
+    "wof:parent_id": 890516299,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.95923,
     34.33955,
     107.95923,
     34.33955
-],
-  "geometry": {"coordinates":[107.95923000000001,34.33955],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.95923,
+      34.33955
+    ],
+    "type": "Point"
+  }
 }

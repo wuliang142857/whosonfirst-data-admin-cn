@@ -2,89 +2,97 @@
   "id": 1193095297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.01195,30.89019,121.01195,30.89019",
-    "geom:latitude":30.89019,
-    "geom:longitude":121.01195,
-    "gn:admin1_code":"23",
-    "gn:asciiname":"Fengjing",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1811309,
-    "gn:latitude":30.89019,
-    "gn:longitude":121.01195,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Fengjing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.99195,30.87019,121.03195,30.91019",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Fengjing"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.01195,30.89019,121.01195,30.89019",
+    "geom:latitude": 30.89019,
+    "geom:longitude": 121.01195,
+    "gn:admin1_code": "23",
+    "gn:asciiname": "Fengjing",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1811309,
+    "gn:latitude": 30.89019,
+    "gn:longitude": 121.01195,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Fengjing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.99195,30.87019,121.03195,30.91019",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Fengjing"
     ],
-    "name:und_x_variant":[
-        "Fengjingzhen",
-        "Fengking",
-        "Feng-ching-chen",
-        "Feng-ching",
-        "\u67ab\u6cfe"
+    "name:und_x_variant": [
+      "Fengjingzhen",
+      "Fengking",
+      "Feng-ching-chen",
+      "Feng-ching",
+      "枫泾"
     ],
-    "name:wuu_x_preferred":[
-        "\u67ab\u6cfe\u9547"
+    "name:wuu_x_preferred": [
+      "枫泾镇"
     ],
-    "name:zho_x_preferred":[
-        "\u67ab\u6cfe\u9547"
+    "name:zho_x_preferred": [
+      "枫泾镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514177,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811309,
-        "wk:page":"Fengjing"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811309,
+      "wk:page": "Fengjing"
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2f141e01fd602d073bb94a46ab335c2e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1193095297,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2f141e01fd602d073bb94a46ab335c2e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1193095297,
+        "region_id": 85669831,
+        "localadmin_id": 890514177
+      }
     ],
-    "wof:id":1193095297,
-    "wof:lastmodified":1566684766,
-    "wof:name":"Fengjing",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193095297,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Fengjing",
+    "wof:parent_id": 890514177,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.01195,
     30.89019,
     121.01195,
     30.89019
-],
-  "geometry": {"coordinates":[121.01195,30.89019],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.01195,
+      30.89019
+    ],
+    "type": "Point"
+  }
 }

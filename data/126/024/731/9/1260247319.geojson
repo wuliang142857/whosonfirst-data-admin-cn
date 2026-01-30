@@ -2,75 +2,83 @@
   "id": 1260247319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.715,39.7408,122.715,39.7408",
-    "geom:latitude":39.7408,
-    "geom:longitude":122.715,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Leishan",
-    "gn:country_code":"CN",
-    "gn:dem":94,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11480377,
-    "gn:latitude":39.7408,
-    "gn:longitude":122.715,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Leishan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.695,39.7208,122.735,39.7608",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u78ca\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.715,39.7408,122.715,39.7408",
+    "geom:latitude": 39.7408,
+    "geom:longitude": 122.715,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Leishan",
+    "gn:country_code": "CN",
+    "gn:dem": 94,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11480377,
+    "gn:latitude": 39.7408,
+    "gn:longitude": 122.715,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Leishan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.695,39.7208,122.735,39.7608",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "磊山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11480377
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11480377
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9339a9c87da39ee6d68fb797dcbfd867",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1260247319,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9339a9c87da39ee6d68fb797dcbfd867",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1260247319,
+        "region_id": 85669807,
+        "localadmin_id": 1127210283
+      }
     ],
-    "wof:id":1260247319,
-    "wof:lastmodified":1566686120,
-    "wof:name":"Leishan",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260247319,
+    "wof:lastmodified": 1768665991,
+    "wof:name": "Leishan",
+    "wof:parent_id": 1127210283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.715,
     39.7408,
     122.715,
     39.7408
-],
-  "geometry": {"coordinates":[122.715,39.7408],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.715,
+      39.7408
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1259439573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.53797,33.3202,110.53797,33.3202",
-    "geom:latitude":33.3202,
-    "geom:longitude":110.53797,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Wangou",
-    "gn:country_code":"CN",
-    "gn:dem":1281,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11317221,
-    "gn:latitude":33.3202,
-    "gn:longitude":110.53797,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Wangou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.51797,33.3002,110.55797,33.3402",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Wangou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.53797,33.3202,110.53797,33.3202",
+    "geom:latitude": 33.3202,
+    "geom:longitude": 110.53797,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Wangou",
+    "gn:country_code": "CN",
+    "gn:dem": 1281,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11317221,
+    "gn:latitude": 33.3202,
+    "gn:longitude": 110.53797,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Wangou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.51797,33.3002,110.55797,33.3402",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Wangou"
     ],
-    "name:zho_x_preferred":[
-        "\u6e7e\u6c9f"
+    "name:zho_x_preferred": [
+      "湾沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611023
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11317221
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11317221
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6086cbda3f11f913c27ebfb675554b3c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1259439573,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6086cbda3f11f913c27ebfb675554b3c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1259439573,
+        "region_id": 85669769,
+        "localadmin_id": 1127611023
+      }
     ],
-    "wof:id":1259439573,
-    "wof:lastmodified":1566700527,
-    "wof:name":"Wangou",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259439573,
+    "wof:lastmodified": 1768667733,
+    "wof:name": "Wangou",
+    "wof:parent_id": 1127611023,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.53797,
     33.3202,
     110.53797,
     33.3202
-],
-  "geometry": {"coordinates":[110.53797,33.3202],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.53797,
+      33.3202
+    ],
+    "type": "Point"
+  }
 }

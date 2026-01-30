@@ -2,75 +2,83 @@
   "id": 1226011585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.39651,34.49566,107.39651,34.49566",
-    "geom:latitude":34.49566,
-    "geom:longitude":107.39651,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Majiazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":770,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7369758,
-    "gn:latitude":34.49566,
-    "gn:longitude":107.39651,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Majiazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.37651,34.47566,107.41651,34.51566",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9a6c\u5bb6\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.39651,34.49566,107.39651,34.49566",
+    "geom:latitude": 34.49566,
+    "geom:longitude": 107.39651,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Majiazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 770,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7369758,
+    "gn:latitude": 34.49566,
+    "gn:longitude": 107.39651,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Majiazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.37651,34.47566,107.41651,34.51566",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "马家庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516525
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516525,
+      1127610305
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7369758
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7369758
     },
-    "wof:country":"CN",
-    "wof:geomhash":"78ebd7a8ef59d2d331cea3f459166f29",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516525,
-            "empire_id":136253041,
-            "locality_id":1226011585,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "78ebd7a8ef59d2d331cea3f459166f29",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516525,
+        "empire_id": 136253041,
+        "locality_id": 1226011585,
+        "region_id": 85669769,
+        "localadmin_id": 1127610305
+      }
     ],
-    "wof:id":1226011585,
-    "wof:lastmodified":1566705194,
-    "wof:name":"Majiazhuang",
-    "wof:parent_id":890516525,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226011585,
+    "wof:lastmodified": 1768667753,
+    "wof:name": "Majiazhuang",
+    "wof:parent_id": 1127610305,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.39651,
     34.49566,
     107.39651,
     34.49566
-],
-  "geometry": {"coordinates":[107.39651000000001,34.49566],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.39651,
+      34.49566
+    ],
+    "type": "Point"
+  }
 }

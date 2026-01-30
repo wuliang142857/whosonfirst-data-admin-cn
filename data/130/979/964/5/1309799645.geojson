@@ -2,75 +2,83 @@
   "id": 1309799645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.46823,25.14886,118.46823,25.14886",
-    "geom:latitude":25.14886,
-    "geom:longitude":118.46823,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Luoxi",
-    "gn:country_code":"CN",
-    "gn:dem":41,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8573888,
-    "gn:latitude":25.14886,
-    "gn:longitude":118.46823,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Luoxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.44823,25.12886,118.48823,25.16886",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7f57\u6eaa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.46823,25.14886,118.46823,25.14886",
+    "geom:latitude": 25.14886,
+    "geom:longitude": 118.46823,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Luoxi",
+    "gn:country_code": "CN",
+    "gn:dem": 41,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8573888,
+    "gn:latitude": 25.14886,
+    "gn:longitude": 118.46823,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Luoxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.44823,25.12886,118.48823,25.16886",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "罗溪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512829,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8573888
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8573888
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3fcd1c32a3acb147f19e7a4fa57fd1f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1309799645,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3fcd1c32a3acb147f19e7a4fa57fd1f3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1309799645,
+        "region_id": 85669735,
+        "localadmin_id": 890512829
+      }
     ],
-    "wof:id":1309799645,
-    "wof:lastmodified":1566692685,
-    "wof:name":"Luoxi",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309799645,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Luoxi",
+    "wof:parent_id": 890512829,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.46823,
     25.14886,
     118.46823,
     25.14886
-],
-  "geometry": {"coordinates":[118.46823000000001,25.14886],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.46823,
+      25.14886
+    ],
+    "type": "Point"
+  }
 }

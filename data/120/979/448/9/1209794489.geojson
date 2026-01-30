@@ -2,79 +2,87 @@
   "id": 1209794489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.72579,41.0259,114.72579,41.0259",
-    "geom:latitude":41.0259,
-    "geom:longitude":114.72579,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Langwogou",
-    "gn:country_code":"CN",
-    "gn:dem":1514,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2036239,
-    "gn:latitude":41.0259,
-    "gn:longitude":114.72579,
-    "gn:modification_date":"2015-02-06",
-    "gn:name":"Langwogou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.70579,41.0059,114.74579,41.0459",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lang-wo-kou",
-        "Langwogou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.72579,41.0259,114.72579,41.0259",
+    "geom:latitude": 41.0259,
+    "geom:longitude": 114.72579,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Langwogou",
+    "gn:country_code": "CN",
+    "gn:dem": 1514,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2036239,
+    "gn:latitude": 41.0259,
+    "gn:longitude": 114.72579,
+    "gn:modification_date": "2015-02-06",
+    "gn:name": "Langwogou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.70579,41.0059,114.74579,41.0459",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lang-wo-kou",
+      "Langwogou"
     ],
-    "name:zho_x_preferred":[
-        "\u72fc\u7a9d\u6c9f"
+    "name:zho_x_preferred": [
+      "狼窝沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516481
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890515041,
+      890516481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2036239
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2036239
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b0926bcec2d785e2169a629f41fdeb2c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516481,
-            "empire_id":136253041,
-            "locality_id":1209794489,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b0926bcec2d785e2169a629f41fdeb2c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516481,
+        "empire_id": 136253041,
+        "locality_id": 1209794489,
+        "region_id": 85669797,
+        "localadmin_id": 890515041
+      }
     ],
-    "wof:id":1209794489,
-    "wof:lastmodified":1566680507,
-    "wof:name":"Langwogou",
-    "wof:parent_id":890516481,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209794489,
+    "wof:lastmodified": 1768669000,
+    "wof:name": "Langwogou",
+    "wof:parent_id": 890515041,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.72579,
     41.0259,
     114.72579,
     41.0259
-],
-  "geometry": {"coordinates":[114.72579,41.0259],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.72579,
+      41.0259
+    ],
+    "type": "Point"
+  }
 }

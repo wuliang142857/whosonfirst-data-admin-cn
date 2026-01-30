@@ -2,78 +2,86 @@
   "id": 1310355317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.33222,25.19,113.33222,25.19",
-    "geom:latitude":25.19,
-    "geom:longitude":113.33222,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Zhangshugeng",
-    "gn:country_code":"CN",
-    "gn:dem":176,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7787427,
-    "gn:latitude":25.19,
-    "gn:longitude":113.33222,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhangshugeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.31222,25.17,113.35222,25.21",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Zhangshugeng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.33222,25.19,113.33222,25.19",
+    "geom:latitude": 25.19,
+    "geom:longitude": 113.33222,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Zhangshugeng",
+    "gn:country_code": "CN",
+    "gn:dem": 176,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7787427,
+    "gn:latitude": 25.19,
+    "gn:longitude": 113.33222,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhangshugeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.31222,25.17,113.35222,25.21",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Zhangshugeng"
     ],
-    "name:zho_x_variant":[
-        "\u6a1f\u6811\u57c2"
+    "name:zho_x_variant": [
+      "樟树埂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516559,
+      1127440281
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7787427
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7787427
     },
-    "wof:country":"CN",
-    "wof:geomhash":"59f6dfd64e40d668d26a165db1ce9e2f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516559,
-            "empire_id":136253041,
-            "locality_id":1310355317,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "59f6dfd64e40d668d26a165db1ce9e2f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516559,
+        "empire_id": 136253041,
+        "locality_id": 1310355317,
+        "region_id": 85669743,
+        "localadmin_id": 1127440281
+      }
     ],
-    "wof:id":1310355317,
-    "wof:lastmodified":1566690371,
-    "wof:name":"Zhangshugeng",
-    "wof:parent_id":890516559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310355317,
+    "wof:lastmodified": 1768667808,
+    "wof:name": "Zhangshugeng",
+    "wof:parent_id": 1127440281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.33222,
     25.19,
     113.33222,
     25.19
-],
-  "geometry": {"coordinates":[113.33222000000001,25.19],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.33222,
+      25.19
+    ],
+    "type": "Point"
+  }
 }

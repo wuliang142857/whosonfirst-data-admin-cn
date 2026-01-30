@@ -2,75 +2,83 @@
   "id": 1276964473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.63204,47.63166,125.63204,47.63166",
-    "geom:latitude":47.63166,
-    "geom:longitude":125.63204,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Dongjiagou",
-    "gn:country_code":"CN",
-    "gn:dem":220,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11573035,
-    "gn:latitude":47.63166,
-    "gn:longitude":125.63204,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Dongjiagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.61204,47.61166,125.65204,47.65166",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8463\u5bb6\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.63204,47.63166,125.63204,47.63166",
+    "geom:latitude": 47.63166,
+    "geom:longitude": 125.63204,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Dongjiagou",
+    "gn:country_code": "CN",
+    "gn:dem": 220,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11573035,
+    "gn:latitude": 47.63166,
+    "gn:longitude": 125.63204,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Dongjiagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.61204,47.61166,125.65204,47.65166",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "董家沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11573035
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11573035
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cf2db4211d2d518a9407226af7de4354",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1276964473,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cf2db4211d2d518a9407226af7de4354",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1276964473,
+        "region_id": 85669849,
+        "localadmin_id": 1127230231
+      }
     ],
-    "wof:id":1276964473,
-    "wof:lastmodified":1566677912,
-    "wof:name":"Dongjiagou",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276964473,
+    "wof:lastmodified": 1768669391,
+    "wof:name": "Dongjiagou",
+    "wof:parent_id": 1127230231,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.63204,
     47.63166,
     125.63204,
     47.63166
-],
-  "geometry": {"coordinates":[125.63204,47.63166],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.63204,
+      47.63166
+    ],
+    "type": "Point"
+  }
 }

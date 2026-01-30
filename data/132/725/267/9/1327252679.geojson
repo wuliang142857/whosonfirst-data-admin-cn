@@ -2,83 +2,91 @@
   "id": 1327252679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"129.90505,46.31526,129.90505,46.31526",
-    "geom:latitude":46.31526,
-    "geom:longitude":129.90505,
-    "gn:admin1_code":"08",
-    "gn:asciiname":"Tuanshanzi",
-    "gn:country_code":"CN",
-    "gn:dem":114,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":2034361,
-    "gn:latitude":46.31526,
-    "gn:longitude":129.90505,
-    "gn:modification_date":"2013-05-07",
-    "gn:name":"Tuanshanzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"129.88505,46.29526,129.92505,46.33526",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019uan-shan-tzu",
-        "Tuanshanzi",
-        "Tuanshanzi Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "129.90505,46.31526,129.90505,46.31526",
+    "geom:latitude": 46.31526,
+    "geom:longitude": 129.90505,
+    "gn:admin1_code": "08",
+    "gn:asciiname": "Tuanshanzi",
+    "gn:country_code": "CN",
+    "gn:dem": 114,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 2034361,
+    "gn:latitude": 46.31526,
+    "gn:longitude": 129.90505,
+    "gn:modification_date": "2013-05-07",
+    "gn:name": "Tuanshanzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "129.88505,46.29526,129.92505,46.33526",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’uan-shan-tzu",
+      "Tuanshanzi",
+      "Tuanshanzi Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u56e2\u5c71\u5b50"
+    "name:zho_x_preferred": [
+      "团山子"
     ],
-    "name:zho_x_variant":[
-        "\u56e2\u5c71\u5b50\u4e61"
+    "name:zho_x_variant": [
+      "团山子乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516235
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516235,
+      1127230123
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2034361
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2034361
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b2ed1864114549d5f3649b62570c1946",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516235,
-            "empire_id":136253041,
-            "locality_id":1327252679,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b2ed1864114549d5f3649b62570c1946",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516235,
+        "empire_id": 136253041,
+        "locality_id": 1327252679,
+        "region_id": 85669849,
+        "localadmin_id": 1127230123
+      }
     ],
-    "wof:id":1327252679,
-    "wof:lastmodified":1566650014,
-    "wof:name":"Tuanshanzi",
-    "wof:parent_id":890516235,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327252679,
+    "wof:lastmodified": 1768668893,
+    "wof:name": "Tuanshanzi",
+    "wof:parent_id": 1127230123,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     129.90505,
     46.31526,
     129.90505,
     46.31526
-],
-  "geometry": {"coordinates":[129.90504999999999,46.31526],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      129.90505,
+      46.31526
+    ],
+    "type": "Point"
+  }
 }

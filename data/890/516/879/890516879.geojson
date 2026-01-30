@@ -2,87 +2,95 @@
   "id": 890516879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.150001,34.380901,107.150001,34.380901",
-    "geom:latitude":34.380901,
-    "geom:longitude":107.150001,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"107.050001,34.280901,107.250001,34.480901",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Baoji"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.150001,34.380901,107.150001,34.380901",
+    "geom:latitude": 34.380901,
+    "geom:longitude": 107.150001,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "107.050001,34.280901,107.250001,34.480901",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Baoji"
     ],
-    "name:eng_x_variant":[
-        "Baoji County"
+    "name:eng_x_variant": [
+      "Baoji County"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05d0\u05d5\u05d2'\u05d9"
+    "name:heb_x_preferred": [
+      "באוג'י"
     ],
-    "name:hun_x_preferred":[
-        "Baoji"
+    "name:hun_x_preferred": [
+      "Baoji"
     ],
-    "name:zho_x_preferred":[
-        "\u5b9d\u9e21\u53bf"
+    "name:zho_x_preferred": [
+      "宝鸡县"
     ],
-    "qs:name":"\u5b9d\u9e21\u53bf",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u965d\u897f\u7701",
-    "qs:photos":2,
-    "qs:photos_1k":1,
-    "qs:photos_9k":1,
-    "qs:photos_9r":4,
-    "qs:photos_all":204,
-    "qs:photos_sr":1,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516525
+    "qs:name": "宝鸡县",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "陝西省",
+    "qs:photos": 2,
+    "qs:photos_1k": 1,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 4,
+    "qs:photos_all": 204,
+    "qs:photos_sr": 1,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85669769,
+      102191569,
+      85632695,
+      136253041,
+      890516525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12687163,
-        "qs_pg:id":247742
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12687163,
+      "qs_pg:id": 247742
     },
-    "wof:country":"CN",
-    "wof:created":1469055981,
-    "wof:geomhash":"9c44c08b61a0a92cdea59b626333195f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516525,
-            "empire_id":136253041,
-            "localadmin_id":890516879,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055981,
+    "wof:geomhash": "9c44c08b61a0a92cdea59b626333195f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516525,
+        "empire_id": 136253041,
+        "localadmin_id": 890516879,
+        "region_id": 85669769
+      }
     ],
-    "wof:id":890516879,
-    "wof:lastmodified":1636504292,
-    "wof:name":"Baoji",
-    "wof:parent_id":890516525,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516879,
+    "wof:lastmodified": 1636504292,
+    "wof:name": "Baoji",
+    "wof:parent_id": 890516525,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [],
+    "edtf:deprecated": "2010-01-01",
+    "wof:note": "重复记录"
+  },
   "bbox": [
     107.150001,
     34.380901,
     107.150001,
     34.380901
-],
-  "geometry": {"coordinates":[107.150001,34.380901],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.150001,
+      34.380901
+    ],
+    "type": "Point"
+  }
 }

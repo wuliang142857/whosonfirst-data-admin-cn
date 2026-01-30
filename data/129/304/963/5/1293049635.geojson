@@ -2,83 +2,91 @@
   "id": 1293049635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.47244,29.78788,106.47244,29.78788",
-    "geom:latitude":29.78788,
-    "geom:longitude":106.47244,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Shijialiang",
-    "gn:country_code":"CN",
-    "gn:dem":219,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8417105,
-    "gn:latitude":29.78788,
-    "gn:longitude":106.47244,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Shijialiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.45244,29.76788,106.49244,29.80788",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shijialiang Zhen",
-        "Xinhualu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.47244,29.78788,106.47244,29.78788",
+    "geom:latitude": 29.78788,
+    "geom:longitude": 106.47244,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Shijialiang",
+    "gn:country_code": "CN",
+    "gn:dem": 219,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8417105,
+    "gn:latitude": 29.78788,
+    "gn:longitude": 106.47244,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Shijialiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.45244,29.76788,106.49244,29.80788",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shijialiang Zhen",
+      "Xinhualu"
     ],
-    "name:zho_x_preferred":[
-        "\u65bd\u5bb6\u6881"
+    "name:zho_x_preferred": [
+      "施家梁"
     ],
-    "name:zho_x_variant":[
-        "\u65bd\u5bb6\u6881\u9547",
-        "\u65b0\u534e\u8def"
+    "name:zho_x_variant": [
+      "施家梁镇",
+      "新华路"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890512871,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8417105
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8417105
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f04ac139aef798092a327f1253929729",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1293049635,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f04ac139aef798092a327f1253929729",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1293049635,
+        "region_id": 85669725,
+        "localadmin_id": 890512871
+      }
     ],
-    "wof:id":1293049635,
-    "wof:lastmodified":1566669079,
-    "wof:name":"Shijialiang",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293049635,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Shijialiang",
+    "wof:parent_id": 890512871,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.47244,
     29.78788,
     106.47244,
     29.78788
-],
-  "geometry": {"coordinates":[106.47244000000001,29.78788],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.47244,
+      29.78788
+    ],
+    "type": "Point"
+  }
 }

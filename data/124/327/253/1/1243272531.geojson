@@ -2,75 +2,83 @@
   "id": 1243272531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.19947,30.64955,120.19947,30.64955",
-    "geom:latitude":30.64955,
-    "geom:longitude":120.19947,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Sandun",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7733651,
-    "gn:latitude":30.64955,
-    "gn:longitude":120.19947,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Sandun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.17947,30.62955,120.21947,30.66955",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e09\u58a9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.19947,30.64955,120.19947,30.64955",
+    "geom:latitude": 30.64955,
+    "geom:longitude": 120.19947,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Sandun",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7733651,
+    "gn:latitude": 30.64955,
+    "gn:longitude": 120.19947,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Sandun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.17947,30.62955,120.21947,30.66955",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "三墩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515973,
+      890516975
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7733651
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7733651
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f12114fa06477376d7cd8bc79bb91102",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1243272531,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f12114fa06477376d7cd8bc79bb91102",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1243272531,
+        "region_id": 85669835,
+        "localadmin_id": 890515973
+      }
     ],
-    "wof:id":1243272531,
-    "wof:lastmodified":1566697341,
-    "wof:name":"Sandun",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243272531,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Sandun",
+    "wof:parent_id": 890515973,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.19947,
     30.64955,
     120.19947,
     30.64955
-],
-  "geometry": {"coordinates":[120.19947000000001,30.64955],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.19947,
+      30.64955
+    ],
+    "type": "Point"
+  }
 }

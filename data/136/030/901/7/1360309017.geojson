@@ -2,75 +2,83 @@
   "id": 1360309017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.14199,31.38026,119.14199,31.38026",
-    "geom:latitude":31.38026,
-    "geom:longitude":119.14199,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Changcun",
-    "gn:country_code":"CN",
-    "gn:dem":15,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8396043,
-    "gn:latitude":31.38026,
-    "gn:longitude":119.14199,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Changcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.12199,31.36026,119.16199,31.40026",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u957f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.14199,31.38026,119.14199,31.38026",
+    "geom:latitude": 31.38026,
+    "geom:longitude": 119.14199,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Changcun",
+    "gn:country_code": "CN",
+    "gn:dem": 15,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8396043,
+    "gn:latitude": 31.38026,
+    "gn:longitude": 119.14199,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Changcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.12199,31.36026,119.16199,31.40026",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "长村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516425
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514191,
+      890516425
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8396043
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8396043
     },
-    "wof:country":"CN",
-    "wof:geomhash":"85ae04a5d00113d0e1b5367ff70f9514",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516425,
-            "empire_id":136253041,
-            "locality_id":1360309017,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "85ae04a5d00113d0e1b5367ff70f9514",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516425,
+        "empire_id": 136253041,
+        "locality_id": 1360309017,
+        "region_id": 85669827,
+        "localadmin_id": 890514191
+      }
     ],
-    "wof:id":1360309017,
-    "wof:lastmodified":1566691539,
-    "wof:name":"Changcun",
-    "wof:parent_id":890516425,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360309017,
+    "wof:lastmodified": 1768670271,
+    "wof:name": "Changcun",
+    "wof:parent_id": 890514191,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.14199,
     31.38026,
     119.14199,
     31.38026
-],
-  "geometry": {"coordinates":[119.14199000000001,31.38026],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.14199,
+      31.38026
+    ],
+    "type": "Point"
+  }
 }

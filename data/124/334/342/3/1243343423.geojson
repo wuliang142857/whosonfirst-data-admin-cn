@@ -2,75 +2,83 @@
   "id": 1243343423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.19349,30.60985,113.19349,30.60985",
-    "geom:latitude":30.60985,
-    "geom:longitude":113.19349,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Yuzui",
-    "gn:country_code":"CN",
-    "gn:dem":28,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8514860,
-    "gn:latitude":30.60985,
-    "gn:longitude":113.19349,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Yuzui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.17349,30.58985,113.21349,30.62985",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9c7c\u5634"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.19349,30.60985,113.19349,30.60985",
+    "geom:latitude": 30.60985,
+    "geom:longitude": 113.19349,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Yuzui",
+    "gn:country_code": "CN",
+    "gn:dem": 28,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8514860,
+    "gn:latitude": 30.60985,
+    "gn:longitude": 113.19349,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Yuzui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.17349,30.58985,113.21349,30.62985",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "鱼嘴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732405
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890517005,
+      1108732405
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8514860
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8514860
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aee584b5ebe2460fc5b4d38160835913",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732405,
-            "empire_id":136253041,
-            "locality_id":1243343423,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aee584b5ebe2460fc5b4d38160835913",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732405,
+        "empire_id": 136253041,
+        "locality_id": 1243343423,
+        "region_id": 85669777,
+        "localadmin_id": 890517005
+      }
     ],
-    "wof:id":1243343423,
-    "wof:lastmodified":1566696354,
-    "wof:name":"Yuzui",
-    "wof:parent_id":1108732405,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243343423,
+    "wof:lastmodified": 1768667212,
+    "wof:name": "Yuzui",
+    "wof:parent_id": 890517005,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.19349,
     30.60985,
     113.19349,
     30.60985
-],
-  "geometry": {"coordinates":[113.19349,30.60985],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.19349,
+      30.60985
+    ],
+    "type": "Point"
+  }
 }

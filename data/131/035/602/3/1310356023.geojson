@@ -2,75 +2,83 @@
   "id": 1310356023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.805,22.42,100.805,22.42",
-    "geom:latitude":22.42,
-    "geom:longitude":100.805,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Manwo",
-    "gn:country_code":"CN",
-    "gn:dem":903,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9904028,
-    "gn:latitude":22.42,
-    "gn:longitude":100.805,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Manwo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.785,22.4,100.825,22.44",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u66fc\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.805,22.42,100.805,22.42",
+    "geom:latitude": 22.42,
+    "geom:longitude": 100.805,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Manwo",
+    "gn:country_code": "CN",
+    "gn:dem": 903,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9904028,
+    "gn:latitude": 22.42,
+    "gn:longitude": 100.805,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Manwo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.785,22.4,100.825,22.44",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "曼窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108732499
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890516631,
+      1108732499
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9904028
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9904028
     },
-    "wof:country":"CN",
-    "wof:geomhash":"55617f564669cb856b3b81d0f7af7b9d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732499,
-            "empire_id":136253041,
-            "locality_id":1310356023,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "55617f564669cb856b3b81d0f7af7b9d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732499,
+        "empire_id": 136253041,
+        "locality_id": 1310356023,
+        "region_id": 85669791,
+        "localadmin_id": 890516631
+      }
     ],
-    "wof:id":1310356023,
-    "wof:lastmodified":1566690356,
-    "wof:name":"Manwo",
-    "wof:parent_id":1108732499,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310356023,
+    "wof:lastmodified": 1768668825,
+    "wof:name": "Manwo",
+    "wof:parent_id": 890516631,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.805,
     22.42,
     100.805,
     22.42
-],
-  "geometry": {"coordinates":[100.80500000000001,22.42],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.805,
+      22.42
+    ],
+    "type": "Point"
+  }
 }

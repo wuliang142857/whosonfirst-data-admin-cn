@@ -2,75 +2,83 @@
   "id": 1259875711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.87305,48.1744,125.87305,48.1744",
-    "geom:latitude":48.1744,
-    "geom:longitude":125.87305,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Liangzhongchangcun",
-    "gn:country_code":"CN",
-    "gn:dem":287,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":11572710,
-    "gn:latitude":48.1744,
-    "gn:longitude":125.87305,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Liangzhongchangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.85305,48.1544,125.89305,48.1944",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u826f\u79cd\u573a\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.87305,48.1744,125.87305,48.1744",
+    "geom:latitude": 48.1744,
+    "geom:longitude": 125.87305,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Liangzhongchangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 287,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 11572710,
+    "gn:latitude": 48.1744,
+    "gn:longitude": 125.87305,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Liangzhongchangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.85305,48.1544,125.89305,48.1944",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "良种场村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230229
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11572710
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11572710
     },
-    "wof:country":"CN",
-    "wof:geomhash":"120d10172c5772c53fd2a83fb8ac8a1b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1259875711,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "120d10172c5772c53fd2a83fb8ac8a1b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1259875711,
+        "region_id": 85669849,
+        "localadmin_id": 1127230229
+      }
     ],
-    "wof:id":1259875711,
-    "wof:lastmodified":1566700150,
-    "wof:name":"Liangzhongchangcun",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259875711,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Liangzhongchangcun",
+    "wof:parent_id": 1127230229,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.87305,
     48.1744,
     125.87305,
     48.1744
-],
-  "geometry": {"coordinates":[125.87305000000001,48.1744],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.87305,
+      48.1744
+    ],
+    "type": "Point"
+  }
 }

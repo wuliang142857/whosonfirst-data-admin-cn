@@ -2,75 +2,83 @@
   "id": 1327433089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.02486,28.86455,116.02486,28.86455",
-    "geom:latitude":28.86455,
-    "geom:longitude":116.02486,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Hexia",
-    "gn:country_code":"CN",
-    "gn:dem":19,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7327636,
-    "gn:latitude":28.86455,
-    "gn:longitude":116.02486,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Hexia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.00486,28.84455,116.04486,28.88455",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6cb3\u4e0b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.02486,28.86455,116.02486,28.86455",
+    "geom:latitude": 28.86455,
+    "geom:longitude": 116.02486,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Hexia",
+    "gn:country_code": "CN",
+    "gn:dem": 19,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7327636,
+    "gn:latitude": 28.86455,
+    "gn:longitude": 116.02486,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Hexia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.00486,28.84455,116.04486,28.88455",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "河下"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516469
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890515977,
+      890516469
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7327636
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7327636
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ed41c26ebfdfcabc06929029477735dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516469,
-            "empire_id":136253041,
-            "locality_id":1327433089,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ed41c26ebfdfcabc06929029477735dc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516469,
+        "empire_id": 136253041,
+        "locality_id": 1327433089,
+        "region_id": 85669823,
+        "localadmin_id": 890515977
+      }
     ],
-    "wof:id":1327433089,
-    "wof:lastmodified":1566654041,
-    "wof:name":"Hexia",
-    "wof:parent_id":890516469,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327433089,
+    "wof:lastmodified": 1768670158,
+    "wof:name": "Hexia",
+    "wof:parent_id": 890515977,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.02486,
     28.86455,
     116.02486,
     28.86455
-],
-  "geometry": {"coordinates":[116.02486,28.86455],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.02486,
+      28.86455
+    ],
+    "type": "Point"
+  }
 }

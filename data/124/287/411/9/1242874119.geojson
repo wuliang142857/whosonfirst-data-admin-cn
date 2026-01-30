@@ -2,75 +2,83 @@
   "id": 1242874119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.042,33.9663,120.042,33.9663",
-    "geom:latitude":33.9663,
-    "geom:longitude":120.042,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Yuanzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11119575,
-    "gn:latitude":33.9663,
-    "gn:longitude":120.042,
-    "gn:modification_date":"2016-04-12",
-    "gn:name":"Yuanzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.022,33.9463,120.062,33.9863",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8881\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.042,33.9663,120.042,33.9663",
+    "geom:latitude": 33.9663,
+    "geom:longitude": 120.042,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Yuanzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11119575,
+    "gn:latitude": 33.9663,
+    "gn:longitude": 120.042,
+    "gn:modification_date": "2016-04-12",
+    "gn:name": "Yuanzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.022,33.9463,120.062,33.9863",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "袁庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11119575
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11119575
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a3f4ee6f16c4e79d10fec22032ae03e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1242874119,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a3f4ee6f16c4e79d10fec22032ae03e5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1242874119,
+        "region_id": 85669827,
+        "localadmin_id": 1127320922
+      }
     ],
-    "wof:id":1242874119,
-    "wof:lastmodified":1566694493,
-    "wof:name":"Yuanzhuang",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242874119,
+    "wof:lastmodified": 1768670805,
+    "wof:name": "Yuanzhuang",
+    "wof:parent_id": 1127320922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.042,
     33.9663,
     120.042,
     33.9663
-],
-  "geometry": {"coordinates":[120.042,33.9663],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.042,
+      33.9663
+    ],
+    "type": "Point"
+  }
 }

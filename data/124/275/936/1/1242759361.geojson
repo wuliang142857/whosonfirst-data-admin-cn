@@ -2,75 +2,83 @@
   "id": 1242759361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.739,23.0888,105.739,23.0888",
-    "geom:latitude":23.0888,
-    "geom:longitude":105.739,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Nongwang",
-    "gn:country_code":"CN",
-    "gn:dem":690,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9906917,
-    "gn:latitude":23.0888,
-    "gn:longitude":105.739,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Nongwang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.719,23.0688,105.759,23.1088",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f04\u65fa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.739,23.0888,105.739,23.0888",
+    "geom:latitude": 23.0888,
+    "geom:longitude": 105.739,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Nongwang",
+    "gn:country_code": "CN",
+    "gn:dem": 690,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9906917,
+    "gn:latitude": 23.0888,
+    "gn:longitude": 105.739,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Nongwang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.719,23.0688,105.759,23.1088",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "弄旺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451026
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9906917
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9906917
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7caa8584375e31c9b825d3d98fb7129b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1242759361,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7caa8584375e31c9b825d3d98fb7129b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1242759361,
+        "region_id": 85669717,
+        "localadmin_id": 1127451026
+      }
     ],
-    "wof:id":1242759361,
-    "wof:lastmodified":1566694642,
-    "wof:name":"Nongwang",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242759361,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Nongwang",
+    "wof:parent_id": 1127451026,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.739,
     23.0888,
     105.739,
     23.0888
-],
-  "geometry": {"coordinates":[105.739,23.0888],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.739,
+      23.0888
+    ],
+    "type": "Point"
+  }
 }

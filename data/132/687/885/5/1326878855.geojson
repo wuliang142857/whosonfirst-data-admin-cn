@@ -2,81 +2,89 @@
   "id": 1326878855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.37421,29.21383,106.37421,29.21383",
-    "geom:latitude":29.21383,
-    "geom:longitude":106.37421,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Daci",
-    "gn:country_code":"CN",
-    "gn:dem":231,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8421999,
-    "gn:latitude":29.21383,
-    "gn:longitude":106.37421,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Daci",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.35421,29.19383,106.39421,29.23383",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Daci"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.37421,29.21383,106.37421,29.21383",
+    "geom:latitude": 29.21383,
+    "geom:longitude": 106.37421,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Daci",
+    "gn:country_code": "CN",
+    "gn:dem": 231,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8421999,
+    "gn:latitude": 29.21383,
+    "gn:longitude": 106.37421,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Daci",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.35421,29.19383,106.39421,29.23383",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Daci"
     ],
-    "name:swe_x_preferred":[
-        "Daci"
+    "name:swe_x_preferred": [
+      "Daci"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u7960"
+    "name:zho_x_preferred": [
+      "大祠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890512859,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8421999
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8421999
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3fde38dffdea33684582df0073e1b04e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1326878855,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3fde38dffdea33684582df0073e1b04e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1326878855,
+        "region_id": 85669725,
+        "localadmin_id": 890512859
+      }
     ],
-    "wof:id":1326878855,
-    "wof:lastmodified":1566648436,
-    "wof:name":"Daci",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326878855,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Daci",
+    "wof:parent_id": 890512859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.37421,
     29.21383,
     106.37421,
     29.21383
-],
-  "geometry": {"coordinates":[106.37421000000001,29.21383],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.37421,
+      29.21383
+    ],
+    "type": "Point"
+  }
 }

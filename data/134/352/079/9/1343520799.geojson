@@ -2,75 +2,83 @@
   "id": 1343520799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.737,31.993,100.737,31.993",
-    "geom:latitude":31.993,
-    "geom:longitude":100.737,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Azasi",
-    "gn:country_code":"CN",
-    "gn:dem":3867,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10202945,
-    "gn:latitude":31.993,
-    "gn:longitude":100.737,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Azasi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.717,31.973,100.757,32.013",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u963f\u6742\u5bfa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.737,31.993,100.737,31.993",
+    "geom:latitude": 31.993,
+    "geom:longitude": 100.737,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Azasi",
+    "gn:country_code": "CN",
+    "gn:dem": 3867,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10202945,
+    "gn:latitude": 31.993,
+    "gn:longitude": 100.737,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Azasi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.717,31.973,100.757,32.013",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "阿杂寺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10202945
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10202945
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c522c53776055803aa6198f339fe2cdf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1343520799,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c522c53776055803aa6198f339fe2cdf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1343520799,
+        "region_id": 85669787,
+        "localadmin_id": 1127513333
+      }
     ],
-    "wof:id":1343520799,
-    "wof:lastmodified":1566657090,
-    "wof:name":"Azasi",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343520799,
+    "wof:lastmodified": 1768668578,
+    "wof:name": "Azasi",
+    "wof:parent_id": 1127513333,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.737,
     31.993,
     100.737,
     31.993
-],
-  "geometry": {"coordinates":[100.73699999999999,31.993],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.737,
+      31.993
+    ],
+    "type": "Point"
+  }
 }

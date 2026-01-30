@@ -2,75 +2,83 @@
   "id": 1343308343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.90846,23.6501,114.90846,23.6501",
-    "geom:latitude":23.6501,
-    "geom:longitude":114.90846,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Hanwo",
-    "gn:country_code":"CN",
-    "gn:dem":509,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7512094,
-    "gn:latitude":23.6501,
-    "gn:longitude":114.90846,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Hanwo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.88846,23.6301,114.92846,23.6701",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65f1\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.90846,23.6501,114.90846,23.6501",
+    "geom:latitude": 23.6501,
+    "geom:longitude": 114.90846,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Hanwo",
+    "gn:country_code": "CN",
+    "gn:dem": 509,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7512094,
+    "gn:latitude": 23.6501,
+    "gn:longitude": 114.90846,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Hanwo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.88846,23.6301,114.92846,23.6701",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "旱窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514179
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514179,
+      1127441621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7512094
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7512094
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8d398b0da70c5cd3ca7d6129b6c7063b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514179,
-            "empire_id":136253041,
-            "locality_id":1343308343,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8d398b0da70c5cd3ca7d6129b6c7063b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514179,
+        "empire_id": 136253041,
+        "locality_id": 1343308343,
+        "region_id": 85669743,
+        "localadmin_id": 1127441621
+      }
     ],
-    "wof:id":1343308343,
-    "wof:lastmodified":1566656943,
-    "wof:name":"Hanwo",
-    "wof:parent_id":890514179,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343308343,
+    "wof:lastmodified": 1768668615,
+    "wof:name": "Hanwo",
+    "wof:parent_id": 1127441621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.90846,
     23.6501,
     114.90846,
     23.6501
-],
-  "geometry": {"coordinates":[114.90846000000001,23.6501],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.90846,
+      23.6501
+    ],
+    "type": "Point"
+  }
 }

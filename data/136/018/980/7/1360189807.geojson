@@ -2,83 +2,91 @@
   "id": 1360189807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.79575,32.03437,118.79575,32.03437",
-    "geom:latitude":32.03437,
-    "geom:longitude":118.79575,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Wulaocun",
-    "gn:country_code":"CN",
-    "gn:dem":10,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":8273495,
-    "gn:latitude":32.03437,
-    "gn:longitude":118.79575,
-    "gn:modification_date":"2012-05-07",
-    "gn:name":"Wulaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.77575,32.01437,118.81575,32.05437",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wulaocun Jiedao",
-        "Baixia Qu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.79575,32.03437,118.79575,32.03437",
+    "geom:latitude": 32.03437,
+    "geom:longitude": 118.79575,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Wulaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 10,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 8273495,
+    "gn:latitude": 32.03437,
+    "gn:longitude": 118.79575,
+    "gn:modification_date": "2012-05-07",
+    "gn:name": "Wulaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.77575,32.01437,118.81575,32.05437",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wulaocun Jiedao",
+      "Baixia Qu"
     ],
-    "name:zho_x_preferred":[
-        "\u4e94\u8001\u6751"
+    "name:zho_x_preferred": [
+      "五老村"
     ],
-    "name:zho_x_variant":[
-        "\u4e94\u8001\u6751\u8857\u9053",
-        "\u767d\u4e0b\u533a"
+    "name:zho_x_variant": [
+      "五老村街道",
+      "白下区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516425
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516425,
+      1127320104
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8273495
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8273495
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c9a821d101c11f1aa55aa7aa16fe131c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516425,
-            "empire_id":136253041,
-            "locality_id":1360189807,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c9a821d101c11f1aa55aa7aa16fe131c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516425,
+        "empire_id": 136253041,
+        "locality_id": 1360189807,
+        "region_id": 85669827,
+        "localadmin_id": 1127320104
+      }
     ],
-    "wof:id":1360189807,
-    "wof:lastmodified":1566691757,
-    "wof:name":"Wulaocun",
-    "wof:parent_id":890516425,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360189807,
+    "wof:lastmodified": 1768670271,
+    "wof:name": "Wulaocun",
+    "wof:parent_id": 1127320104,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.79575,
     32.03437,
     118.79575,
     32.03437
-],
-  "geometry": {"coordinates":[118.79575,32.03437],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.79575,
+      32.03437
+    ],
+    "type": "Point"
+  }
 }

@@ -2,73 +2,81 @@
   "id": 1225879959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.87424,19.1212,108.87424,19.1212",
-    "geom:latitude":19.1212,
-    "geom:longitude":108.87424,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Yudao",
-    "gn:country_code":"CN",
-    "gn:dem":118,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7632732,
-    "gn:latitude":19.1212,
-    "gn:longitude":108.87424,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yudao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.85424,19.1012,108.89424,19.1412",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7389\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.87424,19.1212,108.87424,19.1212",
+    "geom:latitude": 19.1212,
+    "geom:longitude": 108.87424,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Yudao",
+    "gn:country_code": "CN",
+    "gn:dem": 118,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7632732,
+    "gn:latitude": 19.1212,
+    "gn:longitude": 108.87424,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yudao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.85424,19.1012,108.89424,19.1412",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "玉道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7632732
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7632732
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c034ff48481f931cb89550c6e01e52dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1225879959,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c034ff48481f931cb89550c6e01e52dc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1225879959,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1225879959,
-    "wof:lastmodified":1566703079,
-    "wof:name":"Yudao",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225879959,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Yudao",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.87424,
     19.1212,
     108.87424,
     19.1212
-],
-  "geometry": {"coordinates":[108.87424,19.1212],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.87424,
+      19.1212
+    ],
+    "type": "Point"
+  }
 }

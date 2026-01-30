@@ -2,75 +2,83 @@
   "id": 1259642825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.587,31.2325,105.587,31.2325",
-    "geom:latitude":31.2325,
-    "geom:longitude":105.587,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Wangjiagou",
-    "gn:country_code":"CN",
-    "gn:dem":488,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10162796,
-    "gn:latitude":31.2325,
-    "gn:longitude":105.587,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Wangjiagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.567,31.2125,105.607,31.2525",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u5bb6\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.587,31.2325,105.587,31.2325",
+    "geom:latitude": 31.2325,
+    "geom:longitude": 105.587,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Wangjiagou",
+    "gn:country_code": "CN",
+    "gn:dem": 488,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10162796,
+    "gn:latitude": 31.2325,
+    "gn:longitude": 105.587,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Wangjiagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.567,31.2125,105.607,31.2525",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王家沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      1127510723
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10162796
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10162796
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4b1c9dd91eeab51f78ef7dddbf3b037c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1259642825,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4b1c9dd91eeab51f78ef7dddbf3b037c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1259642825,
+        "region_id": 85669787,
+        "localadmin_id": 1127510723
+      }
     ],
-    "wof:id":1259642825,
-    "wof:lastmodified":1566698549,
-    "wof:name":"Wangjiagou",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259642825,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Wangjiagou",
+    "wof:parent_id": 1127510723,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.587,
     31.2325,
     105.587,
     31.2325
-],
-  "geometry": {"coordinates":[105.587,31.2325],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.587,
+      31.2325
+    ],
+    "type": "Point"
+  }
 }

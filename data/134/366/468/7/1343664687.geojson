@@ -2,84 +2,92 @@
   "id": 1343664687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.07457,30.0503,122.07457,30.0503",
-    "geom:latitude":30.0503,
-    "geom:longitude":122.07457,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Qisheng",
-    "gn:country_code":"CN",
-    "gn:dem":122,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8226215,
-    "gn:latitude":30.0503,
-    "gn:longitude":122.07457,
-    "gn:modification_date":"2012-04-06",
-    "gn:name":"Qisheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.05457,30.0303,122.09457,30.0703",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:jpn_x_preferred":[
-        "\u68cb\u8056\u6226"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.07457,30.0503,122.07457,30.0503",
+    "geom:latitude": 30.0503,
+    "geom:longitude": 122.07457,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Qisheng",
+    "gn:country_code": "CN",
+    "gn:dem": 122,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8226215,
+    "gn:latitude": 30.0503,
+    "gn:longitude": 122.07457,
+    "gn:modification_date": "2012-04-06",
+    "gn:name": "Qisheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.05457,30.0303,122.09457,30.0703",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:jpn_x_preferred": [
+      "棋聖戦"
     ],
-    "name:kor_x_preferred":[
-        "\uae30\uc131\uc804"
+    "name:kor_x_preferred": [
+      "기성전"
     ],
-    "name:zho_x_preferred":[
-        "\u9f50\u80dc"
+    "name:zho_x_preferred": [
+      "齐胜"
     ],
-    "name:zho_x_variant":[
-        "\u4e2d\u56fd\u56f4\u68cb\u68cb\u5723\u6218"
+    "name:zho_x_variant": [
+      "中国围棋棋圣战"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513083
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513083,
+      1127330902
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8226215
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8226215
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dd41cab9edf75d319d182f619a93bd3f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513083,
-            "empire_id":136253041,
-            "locality_id":1343664687,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dd41cab9edf75d319d182f619a93bd3f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513083,
+        "empire_id": 136253041,
+        "locality_id": 1343664687,
+        "region_id": 85669835,
+        "localadmin_id": 1127330902
+      }
     ],
-    "wof:id":1343664687,
-    "wof:lastmodified":1566661009,
-    "wof:name":"Qisheng",
-    "wof:parent_id":890513083,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343664687,
+    "wof:lastmodified": 1768669966,
+    "wof:name": "Qisheng",
+    "wof:parent_id": 1127330902,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.07457,
     30.0503,
     122.07457,
     30.0503
-],
-  "geometry": {"coordinates":[122.07456999999999,30.0503],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.07457,
+      30.0503
+    ],
+    "type": "Point"
+  }
 }

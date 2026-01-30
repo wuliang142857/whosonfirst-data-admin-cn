@@ -2,82 +2,90 @@
   "id": 1343329143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.125,35.78,118.125,35.78",
-    "geom:latitude":35.78,
-    "geom:longitude":118.125,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Beiloucun",
-    "gn:country_code":"CN",
-    "gn:dem":184,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1816629,
-    "gn:latitude":35.78,
-    "gn:longitude":118.125,
-    "gn:modification_date":"2016-10-08",
-    "gn:name":"Beiloucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.105,35.76,118.145,35.8",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Beilou",
-        "Beiloucun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.125,35.78,118.125,35.78",
+    "geom:latitude": 35.78,
+    "geom:longitude": 118.125,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Beiloucun",
+    "gn:country_code": "CN",
+    "gn:dem": 184,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1816629,
+    "gn:latitude": 35.78,
+    "gn:longitude": 118.125,
+    "gn:modification_date": "2016-10-08",
+    "gn:name": "Beiloucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.105,35.76,118.145,35.8",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Beilou",
+      "Beiloucun"
     ],
-    "name:zho_x_preferred":[
-        "\u5317\u697c"
+    "name:zho_x_preferred": [
+      "北楼"
     ],
-    "name:zho_x_variant":[
-        "\u5317\u697c\u6751"
+    "name:zho_x_variant": [
+      "北楼村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514149,
+      1108732339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1816629
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1816629
     },
-    "wof:country":"CN",
-    "wof:geomhash":"21f75ebccb8a435433bec841eb7ef53f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1343329143,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "21f75ebccb8a435433bec841eb7ef53f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1343329143,
+        "region_id": 85669813,
+        "localadmin_id": 890514149
+      }
     ],
-    "wof:id":1343329143,
-    "wof:lastmodified":1566661232,
-    "wof:name":"Beiloucun",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343329143,
+    "wof:lastmodified": 1768668425,
+    "wof:name": "Beiloucun",
+    "wof:parent_id": 890514149,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.125,
     35.78,
     118.125,
     35.78
-],
-  "geometry": {"coordinates":[118.125,35.78],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.125,
+      35.78
+    ],
+    "type": "Point"
+  }
 }

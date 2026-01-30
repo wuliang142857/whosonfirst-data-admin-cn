@@ -2,81 +2,89 @@
   "id": 1293390161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.38,34.094,118.38,34.094",
-    "geom:latitude":34.094,
-    "geom:longitude":118.38,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Songying",
-    "gn:country_code":"CN",
-    "gn:dem":22,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11113032,
-    "gn:latitude":34.094,
-    "gn:longitude":118.38,
-    "gn:modification_date":"2016-04-12",
-    "gn:name":"Songying",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.36,34.074,118.4,34.114",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u0633\u0648\u0646\u06af\u06cc\u0646\u06af"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.38,34.094,118.38,34.094",
+    "geom:latitude": 34.094,
+    "geom:longitude": 118.38,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Songying",
+    "gn:country_code": "CN",
+    "gn:dem": 22,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11113032,
+    "gn:latitude": 34.094,
+    "gn:longitude": 118.38,
+    "gn:modification_date": "2016-04-12",
+    "gn:name": "Songying",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.36,34.074,118.4,34.114",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "سونگینگ"
     ],
-    "name:zho_x_preferred":[
-        "\u5b8b\u8425"
+    "name:zho_x_preferred": [
+      "宋营"
     ],
-    "name:zho_x_variant":[
-        "\u5b8b\u8425\u9547"
+    "name:zho_x_variant": [
+      "宋营镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890512205
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890512205,
+      1127321311
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11113032
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11113032
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c1299352b7a04cd80adc54c29054067d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512205,
-            "empire_id":136253041,
-            "locality_id":1293390161,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c1299352b7a04cd80adc54c29054067d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512205,
+        "empire_id": 136253041,
+        "locality_id": 1293390161,
+        "region_id": 85669827,
+        "localadmin_id": 1127321311
+      }
     ],
-    "wof:id":1293390161,
-    "wof:lastmodified":1566666587,
-    "wof:name":"Songying",
-    "wof:parent_id":890512205,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293390161,
+    "wof:lastmodified": 1768671012,
+    "wof:name": "Songying",
+    "wof:parent_id": 1127321311,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.38,
     34.094,
     118.38,
     34.094
-],
-  "geometry": {"coordinates":[118.38,34.094],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.38,
+      34.094
+    ],
+    "type": "Point"
+  }
 }

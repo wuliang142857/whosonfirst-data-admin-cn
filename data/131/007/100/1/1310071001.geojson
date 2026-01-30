@@ -2,81 +2,89 @@
   "id": 1310071001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.14108,39.9912,122.14108,39.9912",
-    "geom:latitude":39.9912,
-    "geom:longitude":122.14108,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Laoyemiaocun",
-    "gn:country_code":"CN",
-    "gn:dem":83,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11480511,
-    "gn:latitude":39.9912,
-    "gn:longitude":122.14108,
-    "gn:modification_date":"2018-03-10",
-    "gn:name":"Laoyemiaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.12108,39.9712,122.16108,40.0112",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Laoyemiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.14108,39.9912,122.14108,39.9912",
+    "geom:latitude": 39.9912,
+    "geom:longitude": 122.14108,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Laoyemiaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 83,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11480511,
+    "gn:latitude": 39.9912,
+    "gn:longitude": 122.14108,
+    "gn:modification_date": "2018-03-10",
+    "gn:name": "Laoyemiaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.12108,39.9712,122.16108,40.0112",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Laoyemiao"
     ],
-    "name:zho_x_preferred":[
-        "\u8001\u7237\u5e99\u6751"
+    "name:zho_x_preferred": [
+      "老爷庙村"
     ],
-    "name:zho_x_variant":[
-        "\u8001\u7237\u5e99"
+    "name:zho_x_variant": [
+      "老爷庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11480511
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11480511
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e745ac69932ff7e296bc1f4e1536b882",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1310071001,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e745ac69932ff7e296bc1f4e1536b882",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1310071001,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1310071001,
-    "wof:lastmodified":1566688865,
-    "wof:name":"Laoyemiaocun",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310071001,
+    "wof:lastmodified": 1768665991,
+    "wof:name": "Laoyemiaocun",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.14108,
     39.9912,
     122.14108,
     39.9912
-],
-  "geometry": {"coordinates":[122.14108,39.9912],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.14108,
+      39.9912
+    ],
+    "type": "Point"
+  }
 }

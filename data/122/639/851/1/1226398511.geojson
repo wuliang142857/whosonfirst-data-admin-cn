@@ -2,75 +2,83 @@
   "id": 1226398511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.2526,30.95229,121.2526,30.95229",
-    "geom:latitude":30.95229,
-    "geom:longitude":121.2526,
-    "gn:admin1_code":"23.0",
-    "gn:asciiname":"Sicun",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7844567,
-    "gn:latitude":30.95229,
-    "gn:longitude":121.2526,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Sicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.2326,30.93229,121.2726,30.97229",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u56db\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.2526,30.95229,121.2526,30.95229",
+    "geom:latitude": 30.95229,
+    "geom:longitude": 121.2526,
+    "gn:admin1_code": "23.0",
+    "gn:asciiname": "Sicun",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7844567,
+    "gn:latitude": 30.95229,
+    "gn:longitude": 121.2526,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Sicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.2326,30.93229,121.2726,30.97229",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "四村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514097,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7844567
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7844567
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f3e88205ae633b6ae7824d6c7713b7d2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1226398511,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f3e88205ae633b6ae7824d6c7713b7d2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1226398511,
+        "region_id": 85669831,
+        "localadmin_id": 890514097
+      }
     ],
-    "wof:id":1226398511,
-    "wof:lastmodified":1566705145,
-    "wof:name":"Sicun",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226398511,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Sicun",
+    "wof:parent_id": 890514097,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.2526,
     30.95229,
     121.2526,
     30.95229
-],
-  "geometry": {"coordinates":[121.2526,30.95229],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.2526,
+      30.95229
+    ],
+    "type": "Point"
+  }
 }

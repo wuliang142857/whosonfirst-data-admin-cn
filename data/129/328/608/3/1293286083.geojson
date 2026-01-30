@@ -2,75 +2,83 @@
   "id": 1293286083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.365,27.11222,120.365,27.11222",
-    "geom:latitude":27.11222,
-    "geom:longitude":120.365,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Wanggu",
-    "gn:country_code":"CN",
-    "gn:dem":19,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1893354,
-    "gn:latitude":27.11222,
-    "gn:longitude":120.365,
-    "gn:modification_date":"2014-02-10",
-    "gn:name":"Wanggu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.345,27.09222,120.385,27.13222",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u8c37"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.365,27.11222,120.365,27.11222",
+    "geom:latitude": 27.11222,
+    "geom:longitude": 120.365,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Wanggu",
+    "gn:country_code": "CN",
+    "gn:dem": 19,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1893354,
+    "gn:latitude": 27.11222,
+    "gn:longitude": 120.365,
+    "gn:modification_date": "2014-02-10",
+    "gn:name": "Wanggu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.345,27.09222,120.385,27.13222",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王谷"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516577
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513971,
+      890516577
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1893354
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1893354
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fd8c25c646f0f39f8220e0c8eee2622f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516577,
-            "empire_id":136253041,
-            "locality_id":1293286083,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fd8c25c646f0f39f8220e0c8eee2622f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516577,
+        "empire_id": 136253041,
+        "locality_id": 1293286083,
+        "region_id": 85669735,
+        "localadmin_id": 890513971
+      }
     ],
-    "wof:id":1293286083,
-    "wof:lastmodified":1566671430,
-    "wof:name":"Wanggu",
-    "wof:parent_id":890516577,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293286083,
+    "wof:lastmodified": 1768669105,
+    "wof:name": "Wanggu",
+    "wof:parent_id": 890513971,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.365,
     27.11222,
     120.365,
     27.11222
-],
-  "geometry": {"coordinates":[120.36499999999999,27.11222],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.365,
+      27.11222
+    ],
+    "type": "Point"
+  }
 }

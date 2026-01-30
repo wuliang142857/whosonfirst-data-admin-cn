@@ -2,78 +2,86 @@
   "id": 1310415253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.37826,31.50295,117.37826,31.50295",
-    "geom:latitude":31.50295,
-    "geom:longitude":117.37826,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Nanzhacun",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1555086,
-    "gn:latitude":31.50295,
-    "gn:longitude":117.37826,
-    "gn:modification_date":"2015-09-05",
-    "gn:name":"Nanzhacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.35826,31.48295,117.39826,31.52295",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Nanzha"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.37826,31.50295,117.37826,31.50295",
+    "geom:latitude": 31.50295,
+    "geom:longitude": 117.37826,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Nanzhacun",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1555086,
+    "gn:latitude": 31.50295,
+    "gn:longitude": 117.37826,
+    "gn:modification_date": "2015-09-05",
+    "gn:name": "Nanzhacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.35826,31.48295,117.39826,31.52295",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Nanzha"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u95f8\u6751"
+    "name:zho_x_preferred": [
+      "南闸村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513787
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511861,
+      890513787
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1555086
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1555086
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4331bded49a22aa746f9f91334eba6ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513787,
-            "empire_id":136253041,
-            "locality_id":1310415253,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4331bded49a22aa746f9f91334eba6ae",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513787,
+        "empire_id": 136253041,
+        "locality_id": 1310415253,
+        "region_id": 85669739,
+        "localadmin_id": 890511861
+      }
     ],
-    "wof:id":1310415253,
-    "wof:lastmodified":1566688237,
-    "wof:name":"Nanzhacun",
-    "wof:parent_id":890513787,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310415253,
+    "wof:lastmodified": 1768669769,
+    "wof:name": "Nanzhacun",
+    "wof:parent_id": 890511861,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.37826,
     31.50295,
     117.37826,
     31.50295
-],
-  "geometry": {"coordinates":[117.37826,31.50295],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.37826,
+      31.50295
+    ],
+    "type": "Point"
+  }
 }

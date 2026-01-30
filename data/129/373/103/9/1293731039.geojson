@@ -2,75 +2,83 @@
   "id": 1293731039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.977,24.8056,100.977,24.8056",
-    "geom:latitude":24.8056,
-    "geom:longitude":100.977,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Dalongtan",
-    "gn:country_code":"CN",
-    "gn:dem":1744,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9990506,
-    "gn:latitude":24.8056,
-    "gn:longitude":100.977,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Dalongtan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.957,24.7856,100.997,24.8256",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u9f99\u6f6d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.977,24.8056,100.977,24.8056",
+    "geom:latitude": 24.8056,
+    "geom:longitude": 100.977,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Dalongtan",
+    "gn:country_code": "CN",
+    "gn:dem": 1744,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9990506,
+    "gn:latitude": 24.8056,
+    "gn:longitude": 100.977,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Dalongtan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.957,24.7856,100.997,24.8256",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大龙潭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108732445
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514511,
+      1108732445
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9990506
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9990506
     },
-    "wof:country":"CN",
-    "wof:geomhash":"107c8b2ff81d54e60381ba4634da1736",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732445,
-            "empire_id":136253041,
-            "locality_id":1293731039,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "107c8b2ff81d54e60381ba4634da1736",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732445,
+        "empire_id": 136253041,
+        "locality_id": 1293731039,
+        "region_id": 85669791,
+        "localadmin_id": 890514511
+      }
     ],
-    "wof:id":1293731039,
-    "wof:lastmodified":1566671079,
-    "wof:name":"Dalongtan",
-    "wof:parent_id":1108732445,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293731039,
+    "wof:lastmodified": 1768668218,
+    "wof:name": "Dalongtan",
+    "wof:parent_id": 890514511,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.977,
     24.8056,
     100.977,
     24.8056
-],
-  "geometry": {"coordinates":[100.977,24.8056],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.977,
+      24.8056
+    ],
+    "type": "Point"
+  }
 }

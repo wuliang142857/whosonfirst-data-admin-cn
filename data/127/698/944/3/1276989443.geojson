@@ -2,79 +2,87 @@
   "id": 1276989443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.82905,28.73977,120.82905,28.73977",
-    "geom:latitude":28.73977,
-    "geom:longitude":120.82905,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Hou'ancun",
-    "gn:country_code":"CN",
-    "gn:dem":79,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1883381,
-    "gn:latitude":28.73977,
-    "gn:longitude":120.82905,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Hou\u2019ancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.80905,28.71977,120.84905,28.75977",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hou\u2019ancun",
-        "Hou\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.82905,28.73977,120.82905,28.73977",
+    "geom:latitude": 28.73977,
+    "geom:longitude": 120.82905,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Hou'ancun",
+    "gn:country_code": "CN",
+    "gn:dem": 79,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1883381,
+    "gn:latitude": 28.73977,
+    "gn:longitude": 120.82905,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Hou’ancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.80905,28.71977,120.84905,28.75977",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hou’ancun",
+      "Hou’an"
     ],
-    "name:zho_x_preferred":[
-        "\u540e\u5cb8\u6751"
+    "name:zho_x_preferred": [
+      "后岸村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513165,
+      890515633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1883381
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1883381
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9b94f0e4de59f28679ae3c1529c1ee6f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1276989443,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9b94f0e4de59f28679ae3c1529c1ee6f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1276989443,
+        "region_id": 85669835,
+        "localadmin_id": 890513165
+      }
     ],
-    "wof:id":1276989443,
-    "wof:lastmodified":1566678133,
-    "wof:name":"Hou'ancun",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276989443,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Hou'ancun",
+    "wof:parent_id": 890513165,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.82905,
     28.73977,
     120.82905,
     28.73977
-],
-  "geometry": {"coordinates":[120.82905,28.73977],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.82905,
+      28.73977
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1209698283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.47983,35.36975,105.47983,35.36975",
-    "geom:latitude":35.36975,
-    "geom:longitude":105.47983,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhangyang",
-    "gn:country_code":"CN",
-    "gn:dem":1876,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7348972,
-    "gn:latitude":35.36975,
-    "gn:longitude":105.47983,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhangyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.45983,35.34975,105.49983,35.38975",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5f20\u9633"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.47983,35.36975,105.47983,35.36975",
+    "geom:latitude": 35.36975,
+    "geom:longitude": 105.47983,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhangyang",
+    "gn:country_code": "CN",
+    "gn:dem": 1876,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7348972,
+    "gn:latitude": 35.36975,
+    "gn:longitude": 105.47983,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhangyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.45983,35.34975,105.49983,35.38975",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "张阳"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7348972
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7348972
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b72220e88f44d5a5799782d013361c6f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1209698283,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b72220e88f44d5a5799782d013361c6f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1209698283,
+        "region_id": 85669711,
+        "localadmin_id": 1127621121
+      }
     ],
-    "wof:id":1209698283,
-    "wof:lastmodified":1566682580,
-    "wof:name":"Zhangyang",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209698283,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Zhangyang",
+    "wof:parent_id": 1127621121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.47983,
     35.36975,
     105.47983,
     35.36975
-],
-  "geometry": {"coordinates":[105.47983000000001,35.36975],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.47983,
+      35.36975
+    ],
+    "type": "Point"
+  }
 }

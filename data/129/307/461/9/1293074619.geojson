@@ -2,83 +2,91 @@
   "id": 1293074619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"86.901,29.101,86.901,29.101",
-    "geom:latitude":29.101,
-    "geom:longitude":86.901,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Nyinkar",
-    "gn:country_code":"CN",
-    "gn:dem":4800,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8046583,
-    "gn:latitude":29.101,
-    "gn:longitude":86.901,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Nyinkar",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"86.881,29.081,86.921,29.121",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Nyinkar"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "86.901,29.101,86.901,29.101",
+    "geom:latitude": 29.101,
+    "geom:longitude": 86.901,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Nyinkar",
+    "gn:country_code": "CN",
+    "gn:dem": 4800,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8046583,
+    "gn:latitude": 29.101,
+    "gn:longitude": 86.901,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Nyinkar",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "86.881,29.081,86.921,29.121",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Nyinkar"
     ],
-    "name:zho_x_preferred":[
-        "Ningga"
+    "name:zho_x_preferred": [
+      "Ningga"
     ],
-    "name:zho_x_variant":[
-        "\u5b81\u560e",
-        "Maduo",
-        "\u739b\u591a"
+    "name:zho_x_variant": [
+      "宁嘎",
+      "Maduo",
+      "玛多"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890515293,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8046583
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8046583
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9c4104a635081786434c29543d4fb5ea",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1293074619,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9c4104a635081786434c29543d4fb5ea",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1293074619,
+        "region_id": 85669747,
+        "localadmin_id": 890515293
+      }
     ],
-    "wof:id":1293074619,
-    "wof:lastmodified":1566665212,
-    "wof:name":"Nyinkar",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293074619,
+    "wof:lastmodified": 1768665596,
+    "wof:name": "Nyinkar",
+    "wof:parent_id": 890515293,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     86.90100000000002,
     29.101,
     86.90100000000002,
     29.101
-],
-  "geometry": {"coordinates":[86.90100000000002,29.101],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      86.90100000000002,
+      29.101
+    ],
+    "type": "Point"
+  }
 }

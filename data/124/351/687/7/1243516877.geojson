@@ -2,72 +2,80 @@
   "id": 1243516877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.53333,39.69833,121.53333,39.69833",
-    "geom:latitude":39.69833,
-    "geom:longitude":121.53333,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Wanghai",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1921345,
-    "gn:latitude":39.69833,
-    "gn:longitude":121.53333,
-    "gn:modification_date":"2001-06-06",
-    "gn:name":"Wanghai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.51333,39.67833,121.55333,39.71833",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.53333,39.69833,121.53333,39.69833",
+    "geom:latitude": 39.69833,
+    "geom:longitude": 121.53333,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Wanghai",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1921345,
+    "gn:latitude": 39.69833,
+    "gn:longitude": 121.53333,
+    "gn:modification_date": "2001-06-06",
+    "gn:name": "Wanghai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.51333,39.67833,121.55333,39.71833",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1921345
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1921345
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7298fa3a4077d15552afb5ee84e95740",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1243516877,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7298fa3a4077d15552afb5ee84e95740",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1243516877,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1243516877,
-    "wof:lastmodified":1566696202,
-    "wof:name":"Wanghai",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243516877,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Wanghai",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.53333,
     39.69833,
     121.53333,
     39.69833
-],
-  "geometry": {"coordinates":[121.53333000000001,39.69833],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.53333,
+      39.69833
+    ],
+    "type": "Point"
+  }
 }

@@ -2,80 +2,88 @@
   "id": 1293772587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.64556,41.56611,115.64556,41.56611",
-    "geom:latitude":41.56611,
-    "geom:longitude":115.64556,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Xiaohezi",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1433,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2033967,
-    "gn:latitude":41.56611,
-    "gn:longitude":115.64556,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xiaohezi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.62556,41.54611,115.66556,41.58611",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ku-y\u00fcan",
-        "Guyuan",
-        "Hsiao-ho-tzu",
-        "Hsiachotze",
-        "Xiaohezi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.64556,41.56611,115.64556,41.56611",
+    "geom:latitude": 41.56611,
+    "geom:longitude": 115.64556,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Xiaohezi",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1433,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2033967,
+    "gn:latitude": 41.56611,
+    "gn:longitude": 115.64556,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xiaohezi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.62556,41.54611,115.66556,41.58611",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ku-yüan",
+      "Guyuan",
+      "Hsiao-ho-tzu",
+      "Hsiachotze",
+      "Xiaohezi"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516481
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516481,
+      1127130724
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2033967
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2033967
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2ffc226d7d9df35b909435283284472f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516481,
-            "empire_id":136253041,
-            "locality_id":1293772587,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2ffc226d7d9df35b909435283284472f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516481,
+        "empire_id": 136253041,
+        "locality_id": 1293772587,
+        "region_id": 85669797,
+        "localadmin_id": 1127130724
+      }
     ],
-    "wof:id":1293772587,
-    "wof:lastmodified":1566667543,
-    "wof:name":"Xiaohezi",
-    "wof:parent_id":890516481,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293772587,
+    "wof:lastmodified": 1768669000,
+    "wof:name": "Xiaohezi",
+    "wof:parent_id": 1127130724,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.64556,
     41.56611,
     115.64556,
     41.56611
-],
-  "geometry": {"coordinates":[115.64556,41.56611],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.64556,
+      41.56611
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1343321381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.131,29.2811,105.131,29.2811",
-    "geom:latitude":29.2811,
-    "geom:longitude":105.131,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shimiao",
-    "gn:country_code":"CN",
-    "gn:dem":329,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186207,
-    "gn:latitude":29.2811,
-    "gn:longitude":105.131,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shimiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.111,29.2611,105.151,29.3011",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u5e99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.131,29.2811,105.131,29.2811",
+    "geom:latitude": 29.2811,
+    "geom:longitude": 105.131,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shimiao",
+    "gn:country_code": "CN",
+    "gn:dem": 329,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186207,
+    "gn:latitude": 29.2811,
+    "gn:longitude": 105.131,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shimiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.111,29.2611,105.151,29.3011",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186207
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186207
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a3b197fdc2e14638c084348b52482ce4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1343321381,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a3b197fdc2e14638c084348b52482ce4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1343321381,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1343321381,
-    "wof:lastmodified":1566661245,
-    "wof:name":"Shimiao",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343321381,
+    "wof:lastmodified": 1768668255,
+    "wof:name": "Shimiao",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.131,
     29.2811,
     105.131,
     29.2811
-],
-  "geometry": {"coordinates":[105.131,29.2811],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.131,
+      29.2811
+    ],
+    "type": "Point"
+  }
 }

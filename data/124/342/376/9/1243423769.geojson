@@ -2,81 +2,89 @@
   "id": 1243423769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.084,23.6799,109.084,23.6799",
-    "geom:latitude":23.6799,
-    "geom:longitude":109.084,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Min'an",
-    "gn:country_code":"CN",
-    "gn:dem":90,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9934660,
-    "gn:latitude":23.6799,
-    "gn:longitude":109.084,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Min\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.064,23.6599,109.104,23.6999",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Min\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.084,23.6799,109.084,23.6799",
+    "geom:latitude": 23.6799,
+    "geom:longitude": 109.084,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Min'an",
+    "gn:country_code": "CN",
+    "gn:dem": 90,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9934660,
+    "gn:latitude": 23.6799,
+    "gn:longitude": 109.084,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Min’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.064,23.6599,109.104,23.6999",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Min’an"
     ],
-    "name:zho_x_preferred":[
-        "\u6c11\u5b89"
+    "name:zho_x_preferred": [
+      "民安"
     ],
-    "name:zho_x_variant":[
-        "\u6c11\u5b89\u8857\u9053"
+    "name:zho_x_variant": [
+      "民安街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732439
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732439,
+      1127451302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9934660
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9934660
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4983162a3192327e1023b7db764f98c6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732439,
-            "empire_id":136253041,
-            "locality_id":1243423769,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4983162a3192327e1023b7db764f98c6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732439,
+        "empire_id": 136253041,
+        "locality_id": 1243423769,
+        "region_id": 85669717,
+        "localadmin_id": 1127451302
+      }
     ],
-    "wof:id":1243423769,
-    "wof:lastmodified":1566697477,
-    "wof:name":"Min'an",
-    "wof:parent_id":1108732439,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243423769,
+    "wof:lastmodified": 1768665493,
+    "wof:name": "Min'an",
+    "wof:parent_id": 1127451302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.084,
     23.6799,
     109.084,
     23.6799
-],
-  "geometry": {"coordinates":[109.084,23.6799],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.084,
+      23.6799
+    ],
+    "type": "Point"
+  }
 }

@@ -2,86 +2,94 @@
   "id": 1293693353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.792,27.8771,113.792,27.8771",
-    "geom:latitude":27.8771,
-    "geom:longitude":113.792,
-    "gn:admin1_code":"03",
-    "gn:asciiname":"Shangli",
-    "gn:country_code":"CN",
-    "gn:dem":90,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1796170,
-    "gn:latitude":27.8771,
-    "gn:longitude":113.792,
-    "gn:modification_date":"2014-12-03",
-    "gn:name":"Shangli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.772,27.8571,113.812,27.8971",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shang-li-shih",
-        "Shang-li",
-        "Shanglishi",
-        "Shangli",
-        "Shangli Xian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.792,27.8771,113.792,27.8771",
+    "geom:latitude": 27.8771,
+    "geom:longitude": 113.792,
+    "gn:admin1_code": "03",
+    "gn:asciiname": "Shangli",
+    "gn:country_code": "CN",
+    "gn:dem": 90,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1796170,
+    "gn:latitude": 27.8771,
+    "gn:longitude": 113.792,
+    "gn:modification_date": "2014-12-03",
+    "gn:name": "Shangli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.772,27.8571,113.812,27.8971",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shang-li-shih",
+      "Shang-li",
+      "Shanglishi",
+      "Shangli",
+      "Shangli Xian"
     ],
-    "name:zho_x_preferred":[
-        "\u4e0a\u6817"
+    "name:zho_x_preferred": [
+      "上栗"
     ],
-    "name:zho_x_variant":[
-        "\u4e0a\u6817\u53bf",
-        "\u4e0a\u6817\u5e02"
+    "name:zho_x_variant": [
+      "上栗县",
+      "上栗市"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514465,
+      1127360322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1796170
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1796170
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f4166eead6f2a777378abcf6e0358d6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514465,
-            "empire_id":136253041,
-            "locality_id":1293693353,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f4166eead6f2a777378abcf6e0358d6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514465,
+        "empire_id": 136253041,
+        "locality_id": 1293693353,
+        "region_id": 85669823,
+        "localadmin_id": 1127360322
+      }
     ],
-    "wof:id":1293693353,
-    "wof:lastmodified":1566669267,
-    "wof:name":"Shangli",
-    "wof:parent_id":890514465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293693353,
+    "wof:lastmodified": 1768670199,
+    "wof:name": "Shangli",
+    "wof:parent_id": 1127360322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.792,
     27.8771,
     113.792,
     27.8771
-],
-  "geometry": {"coordinates":[113.792,27.8771],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.792,
+      27.8771
+    ],
+    "type": "Point"
+  }
 }

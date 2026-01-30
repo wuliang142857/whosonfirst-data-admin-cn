@@ -2,75 +2,83 @@
   "id": 1309793377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.88424,26.968,113.88424,26.968",
-    "geom:latitude":26.968,
-    "geom:longitude":113.88424,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Tangxia",
-    "gn:country_code":"CN",
-    "gn:dem":197,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8201423,
-    "gn:latitude":26.968,
-    "gn:longitude":113.88424,
-    "gn:modification_date":"2012-02-29",
-    "gn:name":"Tangxia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.86424,26.948,113.90424,26.988",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5858\u4e0b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.88424,26.968,113.88424,26.968",
+    "geom:latitude": 26.968,
+    "geom:longitude": 113.88424,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Tangxia",
+    "gn:country_code": "CN",
+    "gn:dem": 197,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8201423,
+    "gn:latitude": 26.968,
+    "gn:longitude": 113.88424,
+    "gn:modification_date": "2012-02-29",
+    "gn:name": "Tangxia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.86424,26.948,113.90424,26.988",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "塘下"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514759
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514759,
+      1127430224
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8201423
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8201423
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e68f4b98569a480b0db159fbbf45eee7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514759,
-            "empire_id":136253041,
-            "locality_id":1309793377,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e68f4b98569a480b0db159fbbf45eee7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514759,
+        "empire_id": 136253041,
+        "locality_id": 1309793377,
+        "region_id": 85669781,
+        "localadmin_id": 1127430224
+      }
     ],
-    "wof:id":1309793377,
-    "wof:lastmodified":1566692683,
-    "wof:name":"Tangxia",
-    "wof:parent_id":890514759,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309793377,
+    "wof:lastmodified": 1768670455,
+    "wof:name": "Tangxia",
+    "wof:parent_id": 1127430224,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.88424,
     26.968,
     113.88424,
     26.968
-],
-  "geometry": {"coordinates":[113.88424000000001,26.968],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.88424,
+      26.968
+    ],
+    "type": "Point"
+  }
 }

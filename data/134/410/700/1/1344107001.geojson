@@ -2,78 +2,86 @@
   "id": 1344107001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.39792,24.25943,114.39792,24.25943",
-    "geom:latitude":24.25943,
-    "geom:longitude":114.39792,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Madong",
-    "gn:country_code":"CN",
-    "gn:dem":184,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7924723,
-    "gn:latitude":24.25943,
-    "gn:longitude":114.39792,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Madong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.37792,24.23943,114.41792,24.27943",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Madong"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.39792,24.25943,114.39792,24.25943",
+    "geom:latitude": 24.25943,
+    "geom:longitude": 114.39792,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Madong",
+    "gn:country_code": "CN",
+    "gn:dem": 184,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7924723,
+    "gn:latitude": 24.25943,
+    "gn:longitude": 114.39792,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Madong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.37792,24.23943,114.41792,24.27943",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Madong"
     ],
-    "name:zho_x_variant":[
-        "\u9a6c\u6d1e"
+    "name:zho_x_variant": [
+      "马洞"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514179
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514179,
+      1127441623
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7924723
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7924723
     },
-    "wof:country":"CN",
-    "wof:geomhash":"504a3fe13be59b41b8f4e7a8666f0ebb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514179,
-            "empire_id":136253041,
-            "locality_id":1344107001,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "504a3fe13be59b41b8f4e7a8666f0ebb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514179,
+        "empire_id": 136253041,
+        "locality_id": 1344107001,
+        "region_id": 85669743,
+        "localadmin_id": 1127441623
+      }
     ],
-    "wof:id":1344107001,
-    "wof:lastmodified":1566662599,
-    "wof:name":"Madong",
-    "wof:parent_id":890514179,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344107001,
+    "wof:lastmodified": 1768668615,
+    "wof:name": "Madong",
+    "wof:parent_id": 1127441623,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.39792,
     24.25943,
     114.39792,
     24.25943
-],
-  "geometry": {"coordinates":[114.39792,24.25943],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.39792,
+      24.25943
+    ],
+    "type": "Point"
+  }
 }

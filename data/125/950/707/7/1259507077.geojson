@@ -2,75 +2,83 @@
   "id": 1259507077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.42927,31.74512,120.42927,31.74512",
-    "geom:latitude":31.74512,
-    "geom:longitude":120.42927,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Nanshancun",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7332154,
-    "gn:latitude":31.74512,
-    "gn:longitude":120.42927,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Nanshancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.40927,31.72512,120.44927,31.76512",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u5c71\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.42927,31.74512,120.42927,31.74512",
+    "geom:latitude": 31.74512,
+    "geom:longitude": 120.42927,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Nanshancun",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7332154,
+    "gn:latitude": 31.74512,
+    "gn:longitude": 120.42927,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Nanshancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.40927,31.72512,120.44927,31.76512",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513375,
+      890514733
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7332154
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7332154
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4fdaea1431b6d53c9e0000563d3b925d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514733,
-            "empire_id":136253041,
-            "locality_id":1259507077,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4fdaea1431b6d53c9e0000563d3b925d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514733,
+        "empire_id": 136253041,
+        "locality_id": 1259507077,
+        "region_id": 85669827,
+        "localadmin_id": 890513375
+      }
     ],
-    "wof:id":1259507077,
-    "wof:lastmodified":1566699311,
-    "wof:name":"Nanshancun",
-    "wof:parent_id":890514733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259507077,
+    "wof:lastmodified": 1768670835,
+    "wof:name": "Nanshancun",
+    "wof:parent_id": 890513375,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.42927,
     31.74512,
     120.42927,
     31.74512
-],
-  "geometry": {"coordinates":[120.42927,31.74512],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.42927,
+      31.74512
+    ],
+    "type": "Point"
+  }
 }

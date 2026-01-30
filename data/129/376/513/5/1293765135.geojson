@@ -2,78 +2,86 @@
   "id": 1293765135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.253,22.9705,110.253,22.9705",
-    "geom:latitude":22.9705,
-    "geom:longitude":110.253,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Xin'an",
-    "gn:country_code":"CN",
-    "gn:dem":301,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9895650,
-    "gn:latitude":22.9705,
-    "gn:longitude":110.253,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Xin\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.233,22.9505,110.273,22.9905",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Xin\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.253,22.9705,110.253,22.9705",
+    "geom:latitude": 22.9705,
+    "geom:longitude": 110.253,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Xin'an",
+    "gn:country_code": "CN",
+    "gn:dem": 301,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9895650,
+    "gn:latitude": 22.9705,
+    "gn:longitude": 110.253,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Xin’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.233,22.9505,110.273,22.9905",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Xin’an"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u5b89"
+    "name:zho_x_preferred": [
+      "新安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732501
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732501,
+      1127450881
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9895650
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9895650
     },
-    "wof:country":"CN",
-    "wof:geomhash":"faf71ae7df47fc56ca50c9f20228acd7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732501,
-            "empire_id":136253041,
-            "locality_id":1293765135,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "faf71ae7df47fc56ca50c9f20228acd7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732501,
+        "empire_id": 136253041,
+        "locality_id": 1293765135,
+        "region_id": 85669717,
+        "localadmin_id": 1127450881
+      }
     ],
-    "wof:id":1293765135,
-    "wof:lastmodified":1566668191,
-    "wof:name":"Xin'an",
-    "wof:parent_id":1108732501,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293765135,
+    "wof:lastmodified": 1768665976,
+    "wof:name": "Xin'an",
+    "wof:parent_id": 1127450881,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.253,
     22.9705,
     110.253,
     22.9705
-],
-  "geometry": {"coordinates":[110.253,22.9705],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.253,
+      22.9705
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1310210025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.47226,32.8207,119.47226,32.8207",
-    "geom:latitude":32.8207,
-    "geom:longitude":119.47226,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Shuangmiao",
-    "gn:country_code":"CN",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8226940,
-    "gn:latitude":32.8207,
-    "gn:longitude":119.47226,
-    "gn:modification_date":"2012-04-06",
-    "gn:name":"Shuangmiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.45226,32.8007,119.49226,32.8407",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Shuangmiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.47226,32.8207,119.47226,32.8207",
+    "geom:latitude": 32.8207,
+    "geom:longitude": 119.47226,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Shuangmiao",
+    "gn:country_code": "CN",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8226940,
+    "gn:latitude": 32.8207,
+    "gn:longitude": 119.47226,
+    "gn:modification_date": "2012-04-06",
+    "gn:name": "Shuangmiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.45226,32.8007,119.49226,32.8407",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Shuangmiao"
     ],
-    "name:swe_x_preferred":[
-        "Shuangmiao"
+    "name:swe_x_preferred": [
+      "Shuangmiao"
     ],
-    "name:zho_x_preferred":[
-        "\u53cc\u5e99"
+    "name:zho_x_preferred": [
+      "双庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516397
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516397,
+      1125377915
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8226940
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8226940
     },
-    "wof:country":"CN",
-    "wof:geomhash":"023dbb03bfcbc481bd7ceb93596fff65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516397,
-            "empire_id":136253041,
-            "locality_id":1310210025,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "023dbb03bfcbc481bd7ceb93596fff65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516397,
+        "empire_id": 136253041,
+        "locality_id": 1310210025,
+        "region_id": 85669827,
+        "localadmin_id": 1125377915
+      }
     ],
-    "wof:id":1310210025,
-    "wof:lastmodified":1566690324,
-    "wof:name":"Shuangmiao",
-    "wof:parent_id":890516397,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310210025,
+    "wof:lastmodified": 1768670913,
+    "wof:name": "Shuangmiao",
+    "wof:parent_id": 1125377915,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.47226,
     32.8207,
     119.47226,
     32.8207
-],
-  "geometry": {"coordinates":[119.47226000000001,32.8207],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.47226,
+      32.8207
+    ],
+    "type": "Point"
+  }
 }

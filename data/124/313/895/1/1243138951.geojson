@@ -2,75 +2,83 @@
   "id": 1243138951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.29743,34.61931,107.29743,34.61931",
-    "geom:latitude":34.61931,
-    "geom:longitude":107.29743,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Hanfeng",
-    "gn:country_code":"CN",
-    "gn:dem":978,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1909659,
-    "gn:latitude":34.61931,
-    "gn:longitude":107.29743,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Hanfeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.27743,34.59931,107.31743,34.63931",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6c49\u5c01"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.29743,34.61931,107.29743,34.61931",
+    "geom:latitude": 34.61931,
+    "geom:longitude": 107.29743,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Hanfeng",
+    "gn:country_code": "CN",
+    "gn:dem": 978,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1909659,
+    "gn:latitude": 34.61931,
+    "gn:longitude": 107.29743,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Hanfeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.27743,34.59931,107.31743,34.63931",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "汉封"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516525
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516525,
+      1127610305
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1909659
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1909659
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5fa92873a9367f83e721d8efd670095c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516525,
-            "empire_id":136253041,
-            "locality_id":1243138951,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5fa92873a9367f83e721d8efd670095c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516525,
+        "empire_id": 136253041,
+        "locality_id": 1243138951,
+        "region_id": 85669769,
+        "localadmin_id": 1127610305
+      }
     ],
-    "wof:id":1243138951,
-    "wof:lastmodified":1566695640,
-    "wof:name":"Hanfeng",
-    "wof:parent_id":890516525,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243138951,
+    "wof:lastmodified": 1768667753,
+    "wof:name": "Hanfeng",
+    "wof:parent_id": 1127610305,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.29743,
     34.61931,
     107.29743,
     34.61931
-],
-  "geometry": {"coordinates":[107.29743000000001,34.61931],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.29743,
+      34.61931
+    ],
+    "type": "Point"
+  }
 }

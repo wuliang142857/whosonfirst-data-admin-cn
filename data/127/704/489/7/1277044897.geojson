@@ -2,75 +2,83 @@
   "id": 1277044897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.009,22.5217,107.009,22.5217",
-    "geom:latitude":22.5217,
-    "geom:longitude":107.009,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Yuyang",
-    "gn:country_code":"CN",
-    "gn:dem":178,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9905633,
-    "gn:latitude":22.5217,
-    "gn:longitude":107.009,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Yuyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.989,22.5017,107.029,22.5417",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5cea\u9633"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.009,22.5217,107.009,22.5217",
+    "geom:latitude": 22.5217,
+    "geom:longitude": 107.009,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Yuyang",
+    "gn:country_code": "CN",
+    "gn:dem": 178,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9905633,
+    "gn:latitude": 22.5217,
+    "gn:longitude": 107.009,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Yuyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.989,22.5017,107.029,22.5417",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "峪阳"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890513103
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513103,
+      1127451423
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9905633
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9905633
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2f748805a5cabb2b7e0bdb4a89b6c5a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513103,
-            "empire_id":136253041,
-            "locality_id":1277044897,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2f748805a5cabb2b7e0bdb4a89b6c5a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513103,
+        "empire_id": 136253041,
+        "locality_id": 1277044897,
+        "region_id": 85669717,
+        "localadmin_id": 1127451423
+      }
     ],
-    "wof:id":1277044897,
-    "wof:lastmodified":1566675926,
-    "wof:name":"Yuyang",
-    "wof:parent_id":890513103,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277044897,
+    "wof:lastmodified": 1768665574,
+    "wof:name": "Yuyang",
+    "wof:parent_id": 1127451423,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.009,
     22.5217,
     107.009,
     22.5217
-],
-  "geometry": {"coordinates":[107.009,22.5217],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.009,
+      22.5217
+    ],
+    "type": "Point"
+  }
 }

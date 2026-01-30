@@ -2,75 +2,83 @@
   "id": 1226501341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.599,36.8793,105.599,36.8793",
-    "geom:latitude":36.8793,
-    "geom:longitude":105.599,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Tuguchuan",
-    "gn:country_code":"CN",
-    "gn:dem":1604,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10203915,
-    "gn:latitude":36.8793,
-    "gn:longitude":105.599,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Tuguchuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.579,36.8593,105.619,36.8993",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u571f\u8c37\u5ddd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.599,36.8793,105.599,36.8793",
+    "geom:latitude": 36.8793,
+    "geom:longitude": 105.599,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Tuguchuan",
+    "gn:country_code": "CN",
+    "gn:dem": 1604,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10203915,
+    "gn:latitude": 36.8793,
+    "gn:longitude": 105.599,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Tuguchuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.579,36.8593,105.619,36.8993",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "土谷川"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890512733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890512733,
+      1127640521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10203915
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10203915
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e5fbe6fca11558598024753ff409ce6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512733,
-            "empire_id":136253041,
-            "locality_id":1226501341,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e5fbe6fca11558598024753ff409ce6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512733,
+        "empire_id": 136253041,
+        "locality_id": 1226501341,
+        "region_id": 85669763,
+        "localadmin_id": 1127640521
+      }
     ],
-    "wof:id":1226501341,
-    "wof:lastmodified":1566702603,
-    "wof:name":"Tuguchuan",
-    "wof:parent_id":890512733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226501341,
+    "wof:lastmodified": 1768667214,
+    "wof:name": "Tuguchuan",
+    "wof:parent_id": 1127640521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.599,
     36.8793,
     105.599,
     36.8793
-],
-  "geometry": {"coordinates":[105.599,36.8793],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.599,
+      36.8793
+    ],
+    "type": "Point"
+  }
 }

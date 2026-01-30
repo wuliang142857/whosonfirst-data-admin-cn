@@ -2,83 +2,91 @@
   "id": 1293365713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.99389,28.2925,105.99389,28.2925",
-    "geom:latitude":28.2925,
-    "geom:longitude":105.99389,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Tucheng",
-    "gn:country_code":"CN",
-    "gn:dem":665,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1792435,
-    "gn:latitude":28.2925,
-    "gn:longitude":105.99389,
-    "gn:modification_date":"2013-06-04",
-    "gn:name":"Tucheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.97389,28.2725,106.01389,28.3125",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019u-ch\u2019eng-ch\u2019ang",
-        "Tucheng",
-        "Tucheng Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.99389,28.2925,105.99389,28.2925",
+    "geom:latitude": 28.2925,
+    "geom:longitude": 105.99389,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Tucheng",
+    "gn:country_code": "CN",
+    "gn:dem": 665,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1792435,
+    "gn:latitude": 28.2925,
+    "gn:longitude": 105.99389,
+    "gn:modification_date": "2013-06-04",
+    "gn:name": "Tucheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.97389,28.2725,106.01389,28.3125",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’u-ch’eng-ch’ang",
+      "Tucheng",
+      "Tucheng Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u571f\u57ce"
+    "name:zho_x_preferred": [
+      "土城"
     ],
-    "name:zho_x_variant":[
-        "\u571f\u57ce\u9547"
+    "name:zho_x_variant": [
+      "土城镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516473
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890516473,
+      1127520330
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1792435
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1792435
     },
-    "wof:country":"CN",
-    "wof:geomhash":"00b5da10cda5d607fe288f81a6d81943",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516473,
-            "empire_id":136253041,
-            "locality_id":1293365713,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "00b5da10cda5d607fe288f81a6d81943",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516473,
+        "empire_id": 136253041,
+        "locality_id": 1293365713,
+        "region_id": 85669721,
+        "localadmin_id": 1127520330
+      }
     ],
-    "wof:id":1293365713,
-    "wof:lastmodified":1566665544,
-    "wof:name":"Tucheng",
-    "wof:parent_id":890516473,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293365713,
+    "wof:lastmodified": 1768664929,
+    "wof:name": "Tucheng",
+    "wof:parent_id": 1127520330,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.99389,
     28.2925,
     105.99389,
     28.2925
-],
-  "geometry": {"coordinates":[105.99388999999999,28.2925],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.99389,
+      28.2925
+    ],
+    "type": "Point"
+  }
 }

@@ -2,87 +2,95 @@
   "id": 1226746369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"128.26667,44.25,128.26667,44.25",
-    "geom:latitude":44.25,
-    "geom:longitude":128.26667,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Qianjin",
-    "gn:country_code":"CN",
-    "gn:dem":1154,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2035392,
-    "gn:latitude":44.25,
-    "gn:longitude":128.26667,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Qianjin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"128.24667,44.23,128.28667,44.27",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Qianjin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "128.26667,44.25,128.26667,44.25",
+    "geom:latitude": 44.25,
+    "geom:longitude": 128.26667,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Qianjin",
+    "gn:country_code": "CN",
+    "gn:dem": 1154,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2035392,
+    "gn:latitude": 44.25,
+    "gn:longitude": 128.26667,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Qianjin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "128.24667,44.23,128.28667,44.27",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Qianjin"
     ],
-    "name:deu_x_preferred":[
-        "Qianjin"
+    "name:deu_x_preferred": [
+      "Qianjin"
     ],
-    "name:eus_x_preferred":[
-        "Qianjin"
+    "name:eus_x_preferred": [
+      "Qianjin"
     ],
-    "name:kor_x_preferred":[
-        "\uccb8\uc9c4\uad6c"
+    "name:kor_x_preferred": [
+      "첸진구"
     ],
-    "name:rus_x_preferred":[
-        "\u0426\u044f\u043d\u044c\u0446\u0437\u0438\u043d\u044c"
+    "name:rus_x_preferred": [
+      "Цяньцзинь"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        1108732421
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890515077,
+      1108732421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2035392
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2035392
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ec12d009e78e7f6654c85c882595df26",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732421,
-            "empire_id":136253041,
-            "locality_id":1226746369,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ec12d009e78e7f6654c85c882595df26",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732421,
+        "empire_id": 136253041,
+        "locality_id": 1226746369,
+        "region_id": 85669843,
+        "localadmin_id": 890515077
+      }
     ],
-    "wof:id":1226746369,
-    "wof:lastmodified":1566701569,
-    "wof:name":"Qianjin",
-    "wof:parent_id":1108732421,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226746369,
+    "wof:lastmodified": 1768670802,
+    "wof:name": "Qianjin",
+    "wof:parent_id": 890515077,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     128.26667,
     44.25,
     128.26667,
     44.25
-],
-  "geometry": {"coordinates":[128.26667,44.25],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      128.26667,
+      44.25
+    ],
+    "type": "Point"
+  }
 }

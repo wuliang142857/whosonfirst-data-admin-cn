@@ -2,75 +2,83 @@
   "id": 1309976273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.725,37.2556,103.725,37.2556",
-    "geom:latitude":37.2556,
-    "geom:longitude":103.725,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Guodiwo",
-    "gn:country_code":"CN",
-    "gn:dem":2085,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10648328,
-    "gn:latitude":37.2556,
-    "gn:longitude":103.725,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Guodiwo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.705,37.2356,103.745,37.2756",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9505\u5730\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.725,37.2556,103.725,37.2556",
+    "geom:latitude": 37.2556,
+    "geom:longitude": 103.725,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Guodiwo",
+    "gn:country_code": "CN",
+    "gn:dem": 2085,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10648328,
+    "gn:latitude": 37.2556,
+    "gn:longitude": 103.725,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Guodiwo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.705,37.2356,103.745,37.2756",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "锅地窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515301,
+      890516467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10648328
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10648328
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f9c80b1d750b33877a7337763db10f3b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1309976273,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f9c80b1d750b33877a7337763db10f3b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1309976273,
+        "region_id": 85669711,
+        "localadmin_id": 890515301
+      }
     ],
-    "wof:id":1309976273,
-    "wof:lastmodified":1566692429,
-    "wof:name":"Guodiwo",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309976273,
+    "wof:lastmodified": 1768665875,
+    "wof:name": "Guodiwo",
+    "wof:parent_id": 890515301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.725,
     37.2556,
     103.725,
     37.2556
-],
-  "geometry": {"coordinates":[103.72499999999999,37.2556],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.725,
+      37.2556
+    ],
+    "type": "Point"
+  }
 }

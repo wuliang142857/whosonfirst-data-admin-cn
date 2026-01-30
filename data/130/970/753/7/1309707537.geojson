@@ -2,81 +2,89 @@
   "id": 1309707537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.52195,46.30053,126.52195,46.30053",
-    "geom:latitude":46.30053,
-    "geom:longitude":126.52195,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Changjiang",
-    "gn:country_code":"CN",
-    "gn:dem":133,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8507932,
-    "gn:latitude":46.30053,
-    "gn:longitude":126.52195,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Changjiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.50195,46.28053,126.54195,46.32053",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Changjiang Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.52195,46.30053,126.52195,46.30053",
+    "geom:latitude": 46.30053,
+    "geom:longitude": 126.52195,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Changjiang",
+    "gn:country_code": "CN",
+    "gn:dem": 133,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8507932,
+    "gn:latitude": 46.30053,
+    "gn:longitude": 126.52195,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Changjiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.50195,46.28053,126.54195,46.32053",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Changjiang Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u957f\u6c5f"
+    "name:zho_x_preferred": [
+      "长江"
     ],
-    "name:zho_x_variant":[
-        "\u957f\u6c5f\u4e61"
+    "name:zho_x_variant": [
+      "长江乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8507932
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8507932
     },
-    "wof:country":"CN",
-    "wof:geomhash":"65b741af0c31a0eb0aa746081b5daf8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1309707537,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "65b741af0c31a0eb0aa746081b5daf8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1309707537,
+        "region_id": 85669849,
+        "localadmin_id": 1127231222
+      }
     ],
-    "wof:id":1309707537,
-    "wof:lastmodified":1566692644,
-    "wof:name":"Changjiang",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309707537,
+    "wof:lastmodified": 1768668894,
+    "wof:name": "Changjiang",
+    "wof:parent_id": 1127231222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.52195,
     46.30053,
     126.52195,
     46.30053
-],
-  "geometry": {"coordinates":[126.52195,46.30053],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.52195,
+      46.30053
+    ],
+    "type": "Point"
+  }
 }

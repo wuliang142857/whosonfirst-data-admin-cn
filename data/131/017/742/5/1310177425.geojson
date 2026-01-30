@@ -2,75 +2,83 @@
   "id": 1310177425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.364,24.1856,105.364,24.1856",
-    "geom:latitude":24.1856,
-    "geom:longitude":105.364,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Hehan",
-    "gn:country_code":"CN",
-    "gn:dem":1058,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9913152,
-    "gn:latitude":24.1856,
-    "gn:longitude":105.364,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Hehan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.344,24.1656,105.384,24.2056",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5408\u65f1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.364,24.1856,105.364,24.1856",
+    "geom:latitude": 24.1856,
+    "geom:longitude": 105.364,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Hehan",
+    "gn:country_code": "CN",
+    "gn:dem": 1058,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9913152,
+    "gn:latitude": 24.1856,
+    "gn:longitude": 105.364,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Hehan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.344,24.1656,105.384,24.2056",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "合旱"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451030
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9913152
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9913152
     },
-    "wof:country":"CN",
-    "wof:geomhash":"64b837bf881f73e03d7838fe4f19b359",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1310177425,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "64b837bf881f73e03d7838fe4f19b359",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1310177425,
+        "region_id": 85669717,
+        "localadmin_id": 1127451030
+      }
     ],
-    "wof:id":1310177425,
-    "wof:lastmodified":1566690086,
-    "wof:name":"Hehan",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310177425,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Hehan",
+    "wof:parent_id": 1127451030,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.364,
     24.1856,
     105.364,
     24.1856
-],
-  "geometry": {"coordinates":[105.364,24.1856],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.364,
+      24.1856
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1259350275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.1,35.7574,116.1,35.7574",
-    "geom:latitude":35.7574,
-    "geom:longitude":116.1,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Fanzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9119742,
-    "gn:latitude":35.7574,
-    "gn:longitude":116.1,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Fanzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.08,35.7374,116.12,35.7774",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6a0a\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.1,35.7574,116.1,35.7574",
+    "geom:latitude": 35.7574,
+    "geom:longitude": 116.1,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Fanzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9119742,
+    "gn:latitude": 35.7574,
+    "gn:longitude": 116.1,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Fanzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.08,35.7374,116.12,35.7774",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "樊庄"
     ],
-    "name:zho_x_variant":[
-        "\u8303\u5e84\u9547"
+    "name:zho_x_variant": [
+      "范庄镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515875
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512693,
+      890515875
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9119742
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9119742
     },
-    "wof:country":"CN",
-    "wof:geomhash":"df55d794d42411487c82f0bf99528dbd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515875,
-            "empire_id":136253041,
-            "locality_id":1259350275,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "df55d794d42411487c82f0bf99528dbd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515875,
+        "empire_id": 136253041,
+        "locality_id": 1259350275,
+        "region_id": 85669813,
+        "localadmin_id": 890512693
+      }
     ],
-    "wof:id":1259350275,
-    "wof:lastmodified":1566699665,
-    "wof:name":"Fanzhuang",
-    "wof:parent_id":890515875,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259350275,
+    "wof:lastmodified": 1768668048,
+    "wof:name": "Fanzhuang",
+    "wof:parent_id": 890512693,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.1,
     35.7574,
     116.1,
     35.7574
-],
-  "geometry": {"coordinates":[116.09999999999999,35.7574],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.1,
+      35.7574
+    ],
+    "type": "Point"
+  }
 }

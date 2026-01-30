@@ -2,77 +2,85 @@
   "id": 1193260813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.27627,33.78198,105.27627,33.78198",
-    "geom:latitude":33.78198,
-    "geom:longitude":105.27627,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xiji",
-    "gn:country_code":"CN",
-    "gn:dem":1402,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7352543,
-    "gn:latitude":33.78198,
-    "gn:longitude":105.27627,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xiji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.25627,33.76198,105.29627,33.80198",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u559c\u96c6",
-        "Xiji Xiang",
-        "\u559c\u96c6\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.27627,33.78198,105.27627,33.78198",
+    "geom:latitude": 33.78198,
+    "geom:longitude": 105.27627,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xiji",
+    "gn:country_code": "CN",
+    "gn:dem": 1402,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7352543,
+    "gn:latitude": 33.78198,
+    "gn:longitude": 105.27627,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xiji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.25627,33.76198,105.29627,33.80198",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "喜集",
+      "Xiji Xiang",
+      "喜集乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890514797,
+      890516335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7352543
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7352543
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4db0dae534735bbea5f6547a04861e23",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1193260813,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4db0dae534735bbea5f6547a04861e23",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1193260813,
+        "region_id": 85669711,
+        "localadmin_id": 890514797
+      }
     ],
-    "wof:id":1193260813,
-    "wof:lastmodified":1566686087,
-    "wof:name":"Xiji",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193260813,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Xiji",
+    "wof:parent_id": 890514797,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.27627,
     33.78198,
     105.27627,
     33.78198
-],
-  "geometry": {"coordinates":[105.27627,33.78198],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.27627,
+      33.78198
+    ],
+    "type": "Point"
+  }
 }

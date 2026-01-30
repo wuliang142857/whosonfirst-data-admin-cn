@@ -2,78 +2,86 @@
   "id": 1243144477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.052,24.8401,110.052,24.8401",
-    "geom:latitude":24.8401,
-    "geom:longitude":110.052,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Bosha",
-    "gn:country_code":"CN",
-    "gn:dem":204,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9942960,
-    "gn:latitude":24.8401,
-    "gn:longitude":110.052,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Bosha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.032,24.8201,110.072,24.8601",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:hye_x_preferred":[
-        "\u0532\u0578\u0577\u0561"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.052,24.8401,110.052,24.8401",
+    "geom:latitude": 24.8401,
+    "geom:longitude": 110.052,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Bosha",
+    "gn:country_code": "CN",
+    "gn:dem": 204,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9942960,
+    "gn:latitude": 24.8401,
+    "gn:longitude": 110.052,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Bosha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.032,24.8201,110.072,24.8601",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:hye_x_preferred": [
+      "Բոշա"
     ],
-    "name:zho_x_preferred":[
-        "\u6ce2\u6c99"
+    "name:zho_x_preferred": [
+      "波沙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732443
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732443,
+      1127450326
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9942960
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9942960
     },
-    "wof:country":"CN",
-    "wof:geomhash":"711e0ed432fd49f367ca90066bf20c5b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":1243144477,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "711e0ed432fd49f367ca90066bf20c5b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 1243144477,
+        "region_id": 85669717,
+        "localadmin_id": 1127450326
+      }
     ],
-    "wof:id":1243144477,
-    "wof:lastmodified":1566695691,
-    "wof:name":"Bosha",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243144477,
+    "wof:lastmodified": 1768665549,
+    "wof:name": "Bosha",
+    "wof:parent_id": 1127450326,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.052,
     24.8401,
     110.052,
     24.8401
-],
-  "geometry": {"coordinates":[110.05200000000001,24.8401],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.052,
+      24.8401
+    ],
+    "type": "Point"
+  }
 }

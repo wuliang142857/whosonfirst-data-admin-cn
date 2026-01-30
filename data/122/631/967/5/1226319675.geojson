@@ -2,75 +2,83 @@
   "id": 1226319675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.66451,30.12877,113.66451,30.12877",
-    "geom:latitude":30.12877,
-    "geom:longitude":113.66451,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhangjiachi",
-    "gn:country_code":"CN",
-    "gn:dem":25,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8514113,
-    "gn:latitude":30.12877,
-    "gn:longitude":113.66451,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Zhangjiachi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.64451,30.10877,113.68451,30.14877",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u5bb6\u6c60"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.66451,30.12877,113.66451,30.12877",
+    "geom:latitude": 30.12877,
+    "geom:longitude": 113.66451,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhangjiachi",
+    "gn:country_code": "CN",
+    "gn:dem": 25,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8514113,
+    "gn:latitude": 30.12877,
+    "gn:longitude": 113.66451,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Zhangjiachi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.64451,30.10877,113.68451,30.14877",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张家池"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732353
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514091,
+      1108732353
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8514113
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8514113
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d371b7302d1a574692856f87c4dfedf2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732353,
-            "empire_id":136253041,
-            "locality_id":1226319675,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d371b7302d1a574692856f87c4dfedf2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732353,
+        "empire_id": 136253041,
+        "locality_id": 1226319675,
+        "region_id": 85669777,
+        "localadmin_id": 890514091
+      }
     ],
-    "wof:id":1226319675,
-    "wof:lastmodified":1566705629,
-    "wof:name":"Zhangjiachi",
-    "wof:parent_id":1108732353,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226319675,
+    "wof:lastmodified": 1768667525,
+    "wof:name": "Zhangjiachi",
+    "wof:parent_id": 890514091,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.66451,
     30.12877000000001,
     113.66451,
     30.12877000000001
-],
-  "geometry": {"coordinates":[113.66451000000001,30.12877000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.66451,
+      30.12877000000001
+    ],
+    "type": "Point"
+  }
 }

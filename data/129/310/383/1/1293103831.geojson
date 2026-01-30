@@ -2,85 +2,93 @@
   "id": 1293103831,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.48946,31.61923,119.48946,31.61923",
-    "geom:latitude":31.61923,
-    "geom:longitude":119.48946,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Zhiqian",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1784500,
-    "gn:latitude":31.61923,
-    "gn:longitude":119.48946,
-    "gn:modification_date":"2013-06-04",
-    "gn:name":"Zhiqian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.46946,31.59923,119.50946,31.63923",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chih-ch\u2019ien-piao",
-        "Chih-ch\u2019ien-ch\u2019iao",
-        "Zhiqianbiao",
-        "Zhiqian",
-        "Zhiqian Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.48946,31.61923,119.48946,31.61923",
+    "geom:latitude": 31.61923,
+    "geom:longitude": 119.48946,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Zhiqian",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1784500,
+    "gn:latitude": 31.61923,
+    "gn:longitude": 119.48946,
+    "gn:modification_date": "2013-06-04",
+    "gn:name": "Zhiqian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.46946,31.59923,119.50946,31.63923",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chih-ch’ien-piao",
+      "Chih-ch’ien-ch’iao",
+      "Zhiqianbiao",
+      "Zhiqian",
+      "Zhiqian Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u6307\u524d"
+    "name:zho_x_preferred": [
+      "指前"
     ],
-    "name:zho_x_variant":[
-        "\u6307\u524d\u9547"
+    "name:zho_x_variant": [
+      "指前镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513141,
+      890514735
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784500
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784500
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e88d2a37b1ad51d3c76b6ea22589f2bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514735,
-            "empire_id":136253041,
-            "locality_id":1293103831,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e88d2a37b1ad51d3c76b6ea22589f2bc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514735,
+        "empire_id": 136253041,
+        "locality_id": 1293103831,
+        "region_id": 85669827,
+        "localadmin_id": 890513141
+      }
     ],
-    "wof:id":1293103831,
-    "wof:lastmodified":1566671574,
-    "wof:name":"Zhiqian",
-    "wof:parent_id":890514735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293103831,
+    "wof:lastmodified": 1768671039,
+    "wof:name": "Zhiqian",
+    "wof:parent_id": 890513141,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.48946,
     31.61923,
     119.48946,
     31.61923
-],
-  "geometry": {"coordinates":[119.48945999999999,31.61923],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.48946,
+      31.61923
+    ],
+    "type": "Point"
+  }
 }

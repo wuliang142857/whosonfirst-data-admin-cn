@@ -2,75 +2,83 @@
   "id": 1242686177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.60868,30.32988,119.60868,30.32988",
-    "geom:latitude":30.32988,
-    "geom:longitude":119.60868,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Xili",
-    "gn:country_code":"CN",
-    "gn:dem":201,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7678931,
-    "gn:latitude":30.32988,
-    "gn:longitude":119.60868,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xili",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.58868,30.30988,119.62868,30.34988",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6eaa\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.60868,30.32988,119.60868,30.32988",
+    "geom:latitude": 30.32988,
+    "geom:longitude": 119.60868,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Xili",
+    "gn:country_code": "CN",
+    "gn:dem": 201,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7678931,
+    "gn:latitude": 30.32988,
+    "gn:longitude": 119.60868,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xili",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.58868,30.30988,119.62868,30.34988",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "溪里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516555,
+      1125273243
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7678931
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7678931
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c83f0817d3ff92717d993869e2c40983",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1242686177,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c83f0817d3ff92717d993869e2c40983",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1242686177,
+        "region_id": 85669835,
+        "localadmin_id": 1125273243
+      }
     ],
-    "wof:id":1242686177,
-    "wof:lastmodified":1566694757,
-    "wof:name":"Xili",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242686177,
+    "wof:lastmodified": 1768663108,
+    "wof:name": "Xili",
+    "wof:parent_id": 1125273243,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.60868,
     30.32988,
     119.60868,
     30.32988
-],
-  "geometry": {"coordinates":[119.60868000000001,30.32988],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.60868,
+      30.32988
+    ],
+    "type": "Point"
+  }
 }

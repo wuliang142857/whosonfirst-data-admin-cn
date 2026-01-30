@@ -2,80 +2,88 @@
   "id": 1343662007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.38363,32.06169,120.38363,32.06169",
-    "geom:latitude":32.06169,
-    "geom:longitude":120.38363,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Xieqiao",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1789537,
-    "gn:latitude":32.06169,
-    "gn:longitude":120.38363,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xieqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.36363,32.04169,120.40363,32.08169",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsieh-ch\u2019iao-chen",
-        "Hsieh-ch\u2019iao",
-        "Xieqiao",
-        "\u659c\u6865",
-        "Xieqiao Zhen",
-        "\u659c\u6865\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.38363,32.06169,120.38363,32.06169",
+    "geom:latitude": 32.06169,
+    "geom:longitude": 120.38363,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Xieqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1789537,
+    "gn:latitude": 32.06169,
+    "gn:longitude": 120.38363,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xieqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.36363,32.04169,120.40363,32.08169",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsieh-ch’iao-chen",
+      "Hsieh-ch’iao",
+      "Xieqiao",
+      "斜桥",
+      "Xieqiao Zhen",
+      "斜桥镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515841,
+      890516237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1789537
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1789537
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b56106d8fea52c0d1efa3d53d19ac1f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1343662007,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b56106d8fea52c0d1efa3d53d19ac1f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1343662007,
+        "region_id": 85669827,
+        "localadmin_id": 890515841
+      }
     ],
-    "wof:id":1343662007,
-    "wof:lastmodified":1566661003,
-    "wof:name":"Xieqiao",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343662007,
+    "wof:lastmodified": 1768670650,
+    "wof:name": "Xieqiao",
+    "wof:parent_id": 890515841,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.38363,
     32.06169000000001,
     120.38363,
     32.06169000000001
-],
-  "geometry": {"coordinates":[120.38363,32.06169000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.38363,
+      32.06169000000001
+    ],
+    "type": "Point"
+  }
 }

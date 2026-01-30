@@ -2,78 +2,86 @@
   "id": 1242843149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.87484,40.02287,115.87484,40.02287",
-    "geom:latitude":40.02287,
-    "geom:longitude":115.87484,
-    "gn:admin1_code":"22.0",
-    "gn:asciiname":"Yinma'ancun",
-    "gn:country_code":"CN",
-    "gn:dem":331,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10313069,
-    "gn:latitude":40.02287,
-    "gn:longitude":115.87484,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Yinma\u2019ancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.85484,40.00287,115.89484,40.04287",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yinma\u2019ancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.87484,40.02287,115.87484,40.02287",
+    "geom:latitude": 40.02287,
+    "geom:longitude": 115.87484,
+    "gn:admin1_code": "22.0",
+    "gn:asciiname": "Yinma'ancun",
+    "gn:country_code": "CN",
+    "gn:dem": 331,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10313069,
+    "gn:latitude": 40.02287,
+    "gn:longitude": 115.87484,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Yinma’ancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.85484,40.00287,115.89484,40.04287",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yinma’ancun"
     ],
-    "name:zho_x_preferred":[
-        "\u996e\u9a6c\u5b89\u6751"
+    "name:zho_x_preferred": [
+      "饮马安村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890514147,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10313069
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10313069
     },
-    "wof:country":"CN",
-    "wof:geomhash":"98ad5bc0d5c8b1cea63e2e941259a160",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1242843149,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "98ad5bc0d5c8b1cea63e2e941259a160",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1242843149,
+        "region_id": 85669727,
+        "localadmin_id": 890514147
+      }
     ],
-    "wof:id":1242843149,
-    "wof:lastmodified":1566696562,
-    "wof:name":"Yinma'ancun",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242843149,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Yinma'ancun",
+    "wof:parent_id": 890514147,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.87484,
     40.02287000000001,
     115.87484,
     40.02287000000001
-],
-  "geometry": {"coordinates":[115.87484000000001,40.02287000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.87484,
+      40.02287000000001
+    ],
+    "type": "Point"
+  }
 }

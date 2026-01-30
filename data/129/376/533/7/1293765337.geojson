@@ -2,75 +2,83 @@
   "id": 1293765337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.781,24.729,109.781,24.729",
-    "geom:latitude":24.729,
-    "geom:longitude":109.781,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tianliao",
-    "gn:country_code":"CN",
-    "gn:dem":169,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9943443,
-    "gn:latitude":24.729,
-    "gn:longitude":109.781,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Tianliao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.761,24.709,109.801,24.749",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7530\u8fbd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.781,24.729,109.781,24.729",
+    "geom:latitude": 24.729,
+    "geom:longitude": 109.781,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tianliao",
+    "gn:country_code": "CN",
+    "gn:dem": 169,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9943443,
+    "gn:latitude": 24.729,
+    "gn:longitude": 109.781,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Tianliao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.761,24.709,109.801,24.749",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "田辽"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9943443
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9943443
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c4971b220c427949cdbbd862bb59e4ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1293765337,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c4971b220c427949cdbbd862bb59e4ac",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1293765337,
+        "region_id": 85669717,
+        "localadmin_id": 1127450223
+      }
     ],
-    "wof:id":1293765337,
-    "wof:lastmodified":1566668111,
-    "wof:name":"Tianliao",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293765337,
+    "wof:lastmodified": 1768665482,
+    "wof:name": "Tianliao",
+    "wof:parent_id": 1127450223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.781,
     24.729,
     109.781,
     24.729
-],
-  "geometry": {"coordinates":[109.78100000000001,24.729],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.781,
+      24.729
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1277057865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.695,23.6353,106.695,23.6353",
-    "geom:latitude":23.6353,
-    "geom:longitude":106.695,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Nadan",
-    "gn:country_code":"CN",
-    "gn:dem":534,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9908612,
-    "gn:latitude":23.6353,
-    "gn:longitude":106.695,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Nadan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.675,23.6153,106.715,23.6553",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a3\u4e39"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.695,23.6353,106.695,23.6353",
+    "geom:latitude": 23.6353,
+    "geom:longitude": 106.695,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Nadan",
+    "gn:country_code": "CN",
+    "gn:dem": 534,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9908612,
+    "gn:latitude": 23.6353,
+    "gn:longitude": 106.695,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Nadan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.675,23.6153,106.715,23.6553",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "那丹"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513903,
+      890516485
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9908612
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9908612
     },
-    "wof:country":"CN",
-    "wof:geomhash":"393bdad1ed7e0d9a911f5b4438bca384",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1277057865,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "393bdad1ed7e0d9a911f5b4438bca384",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1277057865,
+        "region_id": 85669717,
+        "localadmin_id": 890513903
+      }
     ],
-    "wof:id":1277057865,
-    "wof:lastmodified":1566675681,
-    "wof:name":"Nadan",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277057865,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Nadan",
+    "wof:parent_id": 890513903,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.695,
     23.6353,
     106.695,
     23.6353
-],
-  "geometry": {"coordinates":[106.69499999999999,23.6353],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.695,
+      23.6353
+    ],
+    "type": "Point"
+  }
 }

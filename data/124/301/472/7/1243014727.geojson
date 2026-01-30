@@ -2,75 +2,83 @@
   "id": 1243014727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.99405,20.66876,109.99405,20.66876",
-    "geom:latitude":20.66876,
-    "geom:longitude":109.99405,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Beicha",
-    "gn:country_code":"CN",
-    "gn:dem":60,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6793035,
-    "gn:latitude":20.66876,
-    "gn:longitude":109.99405,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Beicha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"109.97405,20.64876,110.01405,20.68876",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u63d2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.99405,20.66876,109.99405,20.66876",
+    "geom:latitude": 20.66876,
+    "geom:longitude": 109.99405,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Beicha",
+    "gn:country_code": "CN",
+    "gn:dem": 60,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6793035,
+    "gn:latitude": 20.66876,
+    "gn:longitude": 109.99405,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Beicha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "109.97405,20.64876,110.01405,20.68876",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北插"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514753
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514753,
+      1127440882
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6793035
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6793035
     },
-    "wof:country":"CN",
-    "wof:geomhash":"afe74c2416974111926202db7bc33d63",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514753,
-            "empire_id":136253041,
-            "locality_id":1243014727,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "afe74c2416974111926202db7bc33d63",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514753,
+        "empire_id": 136253041,
+        "locality_id": 1243014727,
+        "region_id": 85669743,
+        "localadmin_id": 1127440882
+      }
     ],
-    "wof:id":1243014727,
-    "wof:lastmodified":1566694174,
-    "wof:name":"Beicha",
-    "wof:parent_id":890514753,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243014727,
+    "wof:lastmodified": 1768668826,
+    "wof:name": "Beicha",
+    "wof:parent_id": 1127440882,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.99405,
     20.66876,
     109.99405,
     20.66876
-],
-  "geometry": {"coordinates":[109.99405,20.66876],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.99405,
+      20.66876
+    ],
+    "type": "Point"
+  }
 }

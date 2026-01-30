@@ -2,75 +2,83 @@
   "id": 1226321583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.37615,39.12075,116.37615,39.12075",
-    "geom:latitude":39.12075,
-    "geom:longitude":116.37615,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Songzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9641092,
-    "gn:latitude":39.12075,
-    "gn:longitude":116.37615,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Songzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.35615,39.10075,116.39615,39.14075",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b8b\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.37615,39.12075,116.37615,39.12075",
+    "geom:latitude": 39.12075,
+    "geom:longitude": 116.37615,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Songzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9641092,
+    "gn:latitude": 39.12075,
+    "gn:longitude": 116.37615,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Songzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.35615,39.10075,116.39615,39.14075",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宋庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516977
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516977,
+      1127131081
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9641092
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9641092
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0738230d3ebda82144b12013ef16cdcc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516977,
-            "empire_id":136253041,
-            "locality_id":1226321583,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0738230d3ebda82144b12013ef16cdcc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516977,
+        "empire_id": 136253041,
+        "locality_id": 1226321583,
+        "region_id": 85669797,
+        "localadmin_id": 1127131081
+      }
     ],
-    "wof:id":1226321583,
-    "wof:lastmodified":1566702375,
-    "wof:name":"Songzhuang",
-    "wof:parent_id":890516977,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226321583,
+    "wof:lastmodified": 1768669016,
+    "wof:name": "Songzhuang",
+    "wof:parent_id": 1127131081,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.37615,
     39.12075,
     116.37615,
     39.12075
-],
-  "geometry": {"coordinates":[116.37615,39.12075],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.37615,
+      39.12075
+    ],
+    "type": "Point"
+  }
 }

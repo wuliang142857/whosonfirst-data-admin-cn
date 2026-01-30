@@ -2,75 +2,83 @@
   "id": 1242858643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.98105,34.58934,112.98105,34.58934",
-    "geom:latitude":34.58934,
-    "geom:longitude":112.98105,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Shengshui",
-    "gn:country_code":"CN",
-    "gn:dem":405,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10407572,
-    "gn:latitude":34.58934,
-    "gn:longitude":112.98105,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Shengshui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.96105,34.56934,113.00105,34.60934",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5723\u6c34"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.98105,34.58934,112.98105,34.58934",
+    "geom:latitude": 34.58934,
+    "geom:longitude": 112.98105,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Shengshui",
+    "gn:country_code": "CN",
+    "gn:dem": 405,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10407572,
+    "gn:latitude": 34.58934,
+    "gn:longitude": 112.98105,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Shengshui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.96105,34.56934,113.00105,34.60934",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "圣水"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515627
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514185,
+      890515627
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10407572
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10407572
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c662b4f745cf430be375c665c7093f9c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515627,
-            "empire_id":136253041,
-            "locality_id":1242858643,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c662b4f745cf430be375c665c7093f9c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515627,
+        "empire_id": 136253041,
+        "locality_id": 1242858643,
+        "region_id": 85669801,
+        "localadmin_id": 890514185
+      }
     ],
-    "wof:id":1242858643,
-    "wof:lastmodified":1566696900,
-    "wof:name":"Shengshui",
-    "wof:parent_id":890515627,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242858643,
+    "wof:lastmodified": 1768669309,
+    "wof:name": "Shengshui",
+    "wof:parent_id": 890514185,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.98105,
     34.58934,
     112.98105,
     34.58934
-],
-  "geometry": {"coordinates":[112.98105,34.58934],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.98105,
+      34.58934
+    ],
+    "type": "Point"
+  }
 }

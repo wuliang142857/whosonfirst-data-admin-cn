@@ -2,73 +2,81 @@
   "id": 1226277967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.581,18.4671,109.581,18.4671",
-    "geom:latitude":18.4671,
-    "geom:longitude":109.581,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Baoshi",
-    "gn:country_code":"CN",
-    "gn:dem":155,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1917766,
-    "gn:latitude":18.4671,
-    "gn:longitude":109.581,
-    "gn:modification_date":"2016-01-07",
-    "gn:name":"Baoshi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.561,18.4471,109.601,18.4871",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u62a5\u4ec0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.581,18.4671,109.581,18.4671",
+    "geom:latitude": 18.4671,
+    "geom:longitude": 109.581,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Baoshi",
+    "gn:country_code": "CN",
+    "gn:dem": 155,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1917766,
+    "gn:latitude": 18.4671,
+    "gn:longitude": 109.581,
+    "gn:modification_date": "2016-01-07",
+    "gn:name": "Baoshi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.561,18.4471,109.601,18.4871",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "报什"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732357
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515211,
+      1108732357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917766
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917766
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b45244107c477d058d6d96813851edcc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732357,
-            "locality_id":1226277967,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b45244107c477d058d6d96813851edcc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732357,
+        "locality_id": 1226277967,
+        "region_id": 85669759,
+        "localadmin_id": 890515211
+      }
     ],
-    "wof:id":1226277967,
-    "wof:lastmodified":1566701665,
-    "wof:name":"Baoshi",
-    "wof:parent_id":1108732357,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226277967,
+    "wof:lastmodified": 1768671214,
+    "wof:name": "Baoshi",
+    "wof:parent_id": 890515211,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.581,
     18.4671,
     109.581,
     18.4671
-],
-  "geometry": {"coordinates":[109.581,18.4671],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.581,
+      18.4671
+    ],
+    "type": "Point"
+  }
 }

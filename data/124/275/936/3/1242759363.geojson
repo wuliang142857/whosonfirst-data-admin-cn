@@ -2,78 +2,86 @@
   "id": 1242759363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.629,24.5081,105.629,24.5081",
-    "geom:latitude":24.5081,
-    "geom:longitude":105.629,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Bulou",
-    "gn:country_code":"CN",
-    "gn:dem":1165,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9912304,
-    "gn:latitude":24.5081,
-    "gn:longitude":105.629,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Bulou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.609,24.4881,105.649,24.5281",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:rus_x_preferred":[
-        "\u041c\u0431\u0443\u043b\u043e\u0443"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.629,24.5081,105.629,24.5081",
+    "geom:latitude": 24.5081,
+    "geom:longitude": 105.629,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Bulou",
+    "gn:country_code": "CN",
+    "gn:dem": 1165,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9912304,
+    "gn:latitude": 24.5081,
+    "gn:longitude": 105.629,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Bulou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.609,24.4881,105.649,24.5281",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:rus_x_preferred": [
+      "Мбулоу"
     ],
-    "name:zho_x_preferred":[
-        "\u5e03\u697c"
+    "name:zho_x_preferred": [
+      "布楼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451029
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9912304
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9912304
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bbfa8e07acc5f3fa1999c39f1c2a696b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1242759363,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bbfa8e07acc5f3fa1999c39f1c2a696b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1242759363,
+        "region_id": 85669717,
+        "localadmin_id": 1127451029
+      }
     ],
-    "wof:id":1242759363,
-    "wof:lastmodified":1566694642,
-    "wof:name":"Bulou",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242759363,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Bulou",
+    "wof:parent_id": 1127451029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.629,
     24.5081,
     105.629,
     24.5081
-],
-  "geometry": {"coordinates":[105.629,24.5081],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.629,
+      24.5081
+    ],
+    "type": "Point"
+  }
 }

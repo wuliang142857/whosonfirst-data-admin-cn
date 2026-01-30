@@ -2,81 +2,89 @@
   "id": 1209926217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.82071,31.04533,119.82071,31.04533",
-    "geom:latitude":31.04533,
-    "geom:longitude":119.82071,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Hexicun",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1808239,
-    "gn:latitude":31.04533,
-    "gn:longitude":119.82071,
-    "gn:modification_date":"2017-10-04",
-    "gn:name":"Hexicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.80071,31.02533,119.84071,31.06533",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ho-hsi",
-        "Hexi",
-        "\u5408\u6eaa",
-        "Hexicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.82071,31.04533,119.82071,31.04533",
+    "geom:latitude": 31.04533,
+    "geom:longitude": 119.82071,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Hexicun",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1808239,
+    "gn:latitude": 31.04533,
+    "gn:longitude": 119.82071,
+    "gn:modification_date": "2017-10-04",
+    "gn:name": "Hexicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.80071,31.02533,119.84071,31.06533",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ho-hsi",
+      "Hexi",
+      "合溪",
+      "Hexicun"
     ],
-    "name:zho_x_preferred":[
-        "\u5408\u6eaa\u6751"
+    "name:zho_x_preferred": [
+      "合溪村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516975,
+      1127330522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1808239
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1808239
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7e5f361762e638c1bdb3ea652c0836d5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1209926217,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7e5f361762e638c1bdb3ea652c0836d5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1209926217,
+        "region_id": 85669835,
+        "localadmin_id": 1127330522
+      }
     ],
-    "wof:id":1209926217,
-    "wof:lastmodified":1566681902,
-    "wof:name":"Hexicun",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209926217,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Hexicun",
+    "wof:parent_id": 1127330522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.82071,
     31.04533,
     119.82071,
     31.04533
-],
-  "geometry": {"coordinates":[119.82071000000001,31.04533],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.82071,
+      31.04533
+    ],
+    "type": "Point"
+  }
 }

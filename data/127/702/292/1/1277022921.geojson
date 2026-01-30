@@ -2,75 +2,83 @@
   "id": 1277022921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.086,32.0614,105.086,32.0614",
-    "geom:latitude":32.0614,
-    "geom:longitude":105.086,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Gaoba",
-    "gn:country_code":"CN",
-    "gn:dem":631,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10148820,
-    "gn:latitude":32.0614,
-    "gn:longitude":105.086,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Gaoba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.066,32.0414,105.106,32.0814",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u575d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.086,32.0614,105.086,32.0614",
+    "geom:latitude": 32.0614,
+    "geom:longitude": 105.086,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Gaoba",
+    "gn:country_code": "CN",
+    "gn:dem": 631,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10148820,
+    "gn:latitude": 32.0614,
+    "gn:longitude": 105.086,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Gaoba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.066,32.0414,105.106,32.0814",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      890514341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10148820
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10148820
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dd59441484e8df3e33047ca70440e7a6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1277022921,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dd59441484e8df3e33047ca70440e7a6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1277022921,
+        "region_id": 85669787,
+        "localadmin_id": 890514341
+      }
     ],
-    "wof:id":1277022921,
-    "wof:lastmodified":1566675720,
-    "wof:name":"Gaoba",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277022921,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Gaoba",
+    "wof:parent_id": 890514341,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.086,
     32.0614,
     105.086,
     32.0614
-],
-  "geometry": {"coordinates":[105.086,32.0614],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.086,
+      32.0614
+    ],
+    "type": "Point"
+  }
 }

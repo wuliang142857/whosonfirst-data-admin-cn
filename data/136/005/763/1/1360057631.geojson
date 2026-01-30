@@ -2,75 +2,83 @@
   "id": 1360057631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.402,25.0824,107.402,25.0824",
-    "geom:latitude":25.0824,
-    "geom:longitude":107.402,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Daniu",
-    "gn:country_code":"CN",
-    "gn:dem":505,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9910105,
-    "gn:latitude":25.0824,
-    "gn:longitude":107.402,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Daniu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.382,25.0624,107.422,25.1024",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6253\u725b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.402,25.0824,107.402,25.0824",
+    "geom:latitude": 25.0824,
+    "geom:longitude": 107.402,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Daniu",
+    "gn:country_code": "CN",
+    "gn:dem": 505,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9910105,
+    "gn:latitude": 25.0824,
+    "gn:longitude": 107.402,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Daniu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.382,25.0624,107.422,25.1024",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "打牛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9910105
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9910105
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1f8ddc286dc4d80d13d4fe65baa37d5c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1360057631,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1f8ddc286dc4d80d13d4fe65baa37d5c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1360057631,
+        "region_id": 85669717,
+        "localadmin_id": 1127451221
+      }
     ],
-    "wof:id":1360057631,
-    "wof:lastmodified":1566692180,
-    "wof:name":"Daniu",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360057631,
+    "wof:lastmodified": 1768665537,
+    "wof:name": "Daniu",
+    "wof:parent_id": 1127451221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.402,
     25.0824,
     107.402,
     25.0824
-],
-  "geometry": {"coordinates":[107.402,25.0824],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.402,
+      25.0824
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1326937447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.084,29.5037,118.084,29.5037",
-    "geom:latitude":29.5037,
-    "geom:longitude":118.084,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Qingshi",
-    "gn:country_code":"CN",
-    "gn:dem":372,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9878929,
-    "gn:latitude":29.5037,
-    "gn:longitude":118.084,
-    "gn:modification_date":"2016-02-08",
-    "gn:name":"Qingshi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.064,29.4837,118.104,29.5237",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Qingshitan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.084,29.5037,118.084,29.5037",
+    "geom:latitude": 29.5037,
+    "geom:longitude": 118.084,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Qingshi",
+    "gn:country_code": "CN",
+    "gn:dem": 372,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9878929,
+    "gn:latitude": 29.5037,
+    "gn:longitude": 118.084,
+    "gn:modification_date": "2016-02-08",
+    "gn:name": "Qingshi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.064,29.4837,118.104,29.5237",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Qingshitan"
     ],
-    "name:zho_x_preferred":[
-        "\u9752\u77f3"
+    "name:zho_x_preferred": [
+      "青石"
     ],
-    "name:zho_x_variant":[
-        "\u9752\u77f3\u6ee9"
+    "name:zho_x_variant": [
+      "青石滩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890515869
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890515149,
+      890515869
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9878929
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9878929
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0909a4dea059feca51391081a7e4d4cf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515869,
-            "empire_id":136253041,
-            "locality_id":1326937447,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0909a4dea059feca51391081a7e4d4cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515869,
+        "empire_id": 136253041,
+        "locality_id": 1326937447,
+        "region_id": 85669823,
+        "localadmin_id": 890515149
+      }
     ],
-    "wof:id":1326937447,
-    "wof:lastmodified":1566649205,
-    "wof:name":"Qingshi",
-    "wof:parent_id":890515869,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326937447,
+    "wof:lastmodified": 1768670032,
+    "wof:name": "Qingshi",
+    "wof:parent_id": 890515149,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.084,
     29.5037,
     118.084,
     29.5037
-],
-  "geometry": {"coordinates":[118.084,29.5037],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.084,
+      29.5037
+    ],
+    "type": "Point"
+  }
 }

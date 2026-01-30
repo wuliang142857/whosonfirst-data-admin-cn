@@ -2,80 +2,88 @@
   "id": 890515783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.93634,27.58425,110.93634,27.58425",
-    "geom:latitude":27.58425,
-    "geom:longitude":110.93634,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA4",
-    "gn:population":1630,
-    "iso:country":"CN",
-    "lbl:bbox":"110.91634,27.56425,110.95634,27.60425",
-    "lbl:max_zoom":16.0,
-    "lbl:min_zoom":12.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "name:und_x_variant":[
-        "Chin-shih-ch\u2019iao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.93634,27.58425,110.93634,27.58425",
+    "geom:latitude": 27.58425,
+    "geom:longitude": 110.93634,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA4",
+    "gn:population": 1630,
+    "iso:country": "CN",
+    "lbl:bbox": "110.91634,27.56425,110.95634,27.60425",
+    "lbl:max_zoom": 16.0,
+    "lbl:min_zoom": 12.0,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 11.0,
+    "name:und_x_variant": [
+      "Chin-shih-ch’iao"
     ],
-    "name:zho_x_preferred":[
-        "\u91d1\u77f3\u6865"
+    "name:zho_x_preferred": [
+      "金石桥"
     ],
-    "name:zho_x_variant":[
-        "\u91d1\u77f3\u6865\u9547"
+    "name:zho_x_variant": [
+      "金石桥镇"
     ],
-    "qs:name":"Jinshiqiao",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"3",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514309
+    "qs:name": "Jinshiqiao",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "3",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514309,
+      1127430524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1805375,
-        "gp:id":2142069,
-        "qs_pg:id":89195
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1805375,
+      "gp:id": 2142069,
+      "qs_pg:id": 89195
     },
-    "wof:country":"CN",
-    "wof:created":1469055930,
-    "wof:geomhash":"e460d43cd1fec80c7763e07e1f84a9c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514309,
-            "empire_id":136253041,
-            "locality_id":890515783,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055930,
+    "wof:geomhash": "e460d43cd1fec80c7763e07e1f84a9c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514309,
+        "empire_id": 136253041,
+        "locality_id": 890515783,
+        "region_id": 85669781,
+        "localadmin_id": 1127430524
+      }
     ],
-    "wof:id":890515783,
-    "wof:lastmodified":1566693781,
-    "wof:name":"Jinshiqiao",
-    "wof:parent_id":890514309,
-    "wof:placetype":"locality",
-    "wof:population":1630,
-    "wof:population_rank":3,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515783,
+    "wof:lastmodified": 1768670389,
+    "wof:name": "Jinshiqiao",
+    "wof:parent_id": 1127430524,
+    "wof:placetype": "locality",
+    "wof:population": 1630,
+    "wof:population_rank": 3,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.93634,
     27.58425,
     110.93634,
     27.58425
-],
-  "geometry": {"coordinates":[110.93634,27.58425],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.93634,
+      27.58425
+    ],
+    "type": "Point"
+  }
 }

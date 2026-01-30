@@ -2,75 +2,83 @@
   "id": 1326595843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.572,27.8722,106.572,27.8722",
-    "geom:latitude":27.8722,
-    "geom:longitude":106.572,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Huachanggou",
-    "gn:country_code":"CN",
-    "gn:dem":817,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10027527,
-    "gn:latitude":27.8722,
-    "gn:longitude":106.572,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Huachanggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.552,27.8522,106.592,27.8922",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u82b1\u5382\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.572,27.8722,106.572,27.8722",
+    "geom:latitude": 27.8722,
+    "geom:longitude": 106.572,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Huachanggou",
+    "gn:country_code": "CN",
+    "gn:dem": 817,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10027527,
+    "gn:latitude": 27.8722,
+    "gn:longitude": 106.572,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Huachanggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.552,27.8522,106.592,27.8922",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "花厂沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516473
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890512019,
+      890516473
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10027527
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10027527
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c75ec3256888fc75d1744047af61f2bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516473,
-            "empire_id":136253041,
-            "locality_id":1326595843,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c75ec3256888fc75d1744047af61f2bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516473,
+        "empire_id": 136253041,
+        "locality_id": 1326595843,
+        "region_id": 85669721,
+        "localadmin_id": 890512019
+      }
     ],
-    "wof:id":1326595843,
-    "wof:lastmodified":1566649344,
-    "wof:name":"Huachanggou",
-    "wof:parent_id":890516473,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326595843,
+    "wof:lastmodified": 1768664928,
+    "wof:name": "Huachanggou",
+    "wof:parent_id": 890512019,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.572,
     27.8722,
     106.572,
     27.8722
-],
-  "geometry": {"coordinates":[106.572,27.8722],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.572,
+      27.8722
+    ],
+    "type": "Point"
+  }
 }

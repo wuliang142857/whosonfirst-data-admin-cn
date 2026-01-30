@@ -2,80 +2,88 @@
   "id": 1243022901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.45372,32.57256,107.45372,32.57256",
-    "geom:latitude":32.57256,
-    "geom:longitude":107.45372,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Loufangcun",
-    "gn:country_code":"CN",
-    "gn:dem":808,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1802231,
-    "gn:latitude":32.57256,
-    "gn:longitude":107.45372,
-    "gn:modification_date":"2016-11-22",
-    "gn:name":"Loufangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.43372,32.55256,107.47372,32.59256",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lou-fang-p\u2019ing",
-        "Loufang",
-        "Loufangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.45372,32.57256,107.45372,32.57256",
+    "geom:latitude": 32.57256,
+    "geom:longitude": 107.45372,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Loufangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 808,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1802231,
+    "gn:latitude": 32.57256,
+    "gn:longitude": 107.45372,
+    "gn:modification_date": "2016-11-22",
+    "gn:name": "Loufangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.43372,32.55256,107.47372,32.59256",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lou-fang-p’ing",
+      "Loufang",
+      "Loufangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u697c\u623f\u6751"
+    "name:zho_x_preferred": [
+      "楼房村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515099,
+      1127610724
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1802231
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1802231
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cba1325563337369039a5aec70bff6bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1243022901,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cba1325563337369039a5aec70bff6bc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1243022901,
+        "region_id": 85669769,
+        "localadmin_id": 1127610724
+      }
     ],
-    "wof:id":1243022901,
-    "wof:lastmodified":1566696513,
-    "wof:name":"Loufangcun",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243022901,
+    "wof:lastmodified": 1768667986,
+    "wof:name": "Loufangcun",
+    "wof:parent_id": 1127610724,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.45372,
     32.57256,
     107.45372,
     32.57256
-],
-  "geometry": {"coordinates":[107.45372,32.57256],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.45372,
+      32.57256
+    ],
+    "type": "Point"
+  }
 }

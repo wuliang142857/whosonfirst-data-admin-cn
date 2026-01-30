@@ -2,75 +2,83 @@
   "id": 1243061449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.16773,25.23651,116.16773,25.23651",
-    "geom:latitude":25.23651,
-    "geom:longitude":116.16773,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Kongxia",
-    "gn:country_code":"CN",
-    "gn:dem":472,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1921695,
-    "gn:latitude":25.23651,
-    "gn:longitude":116.16773,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Kongxia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.14773,25.21651,116.18773,25.25651",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5b54\u4e0b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.16773,25.23651,116.16773,25.23651",
+    "geom:latitude": 25.23651,
+    "geom:longitude": 116.16773,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Kongxia",
+    "gn:country_code": "CN",
+    "gn:dem": 472,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1921695,
+    "gn:latitude": 25.23651,
+    "gn:longitude": 116.16773,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Kongxia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.14773,25.21651,116.18773,25.25651",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "孔下"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516203
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516203,
+      1127350824
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1921695
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1921695
     },
-    "wof:country":"CN",
-    "wof:geomhash":"efce50c5bd745e5d4f327396e6938c79",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516203,
-            "empire_id":136253041,
-            "locality_id":1243061449,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "efce50c5bd745e5d4f327396e6938c79",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516203,
+        "empire_id": 136253041,
+        "locality_id": 1243061449,
+        "region_id": 85669735,
+        "localadmin_id": 1127350824
+      }
     ],
-    "wof:id":1243061449,
-    "wof:lastmodified":1566694207,
-    "wof:name":"Kongxia",
-    "wof:parent_id":890516203,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243061449,
+    "wof:lastmodified": 1768669418,
+    "wof:name": "Kongxia",
+    "wof:parent_id": 1127350824,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.16773,
     25.23651,
     116.16773,
     25.23651
-],
-  "geometry": {"coordinates":[116.16773000000001,25.23651],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.16773,
+      25.23651
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1343827077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.986,23.385,106.986,23.385",
-    "geom:latitude":23.385,
-    "geom:longitude":106.986,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Naxi",
-    "gn:country_code":"CN",
-    "gn:dem":209,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9908071,
-    "gn:latitude":23.385,
-    "gn:longitude":106.986,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Naxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.966,23.365,107.006,23.405",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Naxi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.986,23.385,106.986,23.385",
+    "geom:latitude": 23.385,
+    "geom:longitude": 106.986,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Naxi",
+    "gn:country_code": "CN",
+    "gn:dem": 209,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9908071,
+    "gn:latitude": 23.385,
+    "gn:longitude": 106.986,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Naxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.966,23.365,107.006,23.405",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Naxi"
     ],
-    "name:nld_x_preferred":[
-        "Naxi"
+    "name:nld_x_preferred": [
+      "Naxi"
     ],
-    "name:nor_x_preferred":[
-        "Naxi"
+    "name:nor_x_preferred": [
+      "Naxi"
     ],
-    "name:zho_x_preferred":[
-        "\u90a3\u7ec6"
+    "name:zho_x_preferred": [
+      "那细"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9908071
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9908071
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bd184d0a9361c7cb19f27ee38f8cac7c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1343827077,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bd184d0a9361c7cb19f27ee38f8cac7c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1343827077,
+        "region_id": 85669717,
+        "localadmin_id": 1127451022
+      }
     ],
-    "wof:id":1343827077,
-    "wof:lastmodified":1566660183,
-    "wof:name":"Naxi",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343827077,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Naxi",
+    "wof:parent_id": 1127451022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.986,
     23.385,
     106.986,
     23.385
-],
-  "geometry": {"coordinates":[106.986,23.385],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.986,
+      23.385
+    ],
+    "type": "Point"
+  }
 }

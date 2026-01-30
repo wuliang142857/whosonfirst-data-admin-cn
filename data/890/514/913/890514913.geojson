@@ -2,78 +2,217 @@
   "id": 890514913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.633308,24.733111,118.633308,24.733111",
-    "geom:latitude":24.733111,
-    "geom:longitude":118.633308,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"118.533308,24.633111,118.733308,24.833111",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Shishi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000214658928,
+    "geom:area_square_m": 214658927.67,
+    "geom:bbox": "118.582257,24.668392,118.779563,24.807281",
+    "geom:latitude": 24.737837,
+    "geom:longitude": 118.68091,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "118.58091,24.63784,118.78091,24.83784",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Shishi"
     ],
-    "name:zho_x_preferred":[
-        "\u77f3\u72ee\u5e02"
+    "name:zho_x_preferred": [
+      "石狮市"
     ],
-    "qs:name":"\u77f3\u72ee\u5e02",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u798f\u5efa\u7701",
-    "qs:photos":7,
-    "qs:photos_1k":1,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":34,
-    "qs:photos_sr":1,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890514127,
-        136253041,
-        85669735
+    "qs:name": "石狮市",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "福建省",
+    "qs:photos": 7,
+    "qs:photos_1k": 1,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 34,
+    "qs:photos_sr": 1,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      890514127,
+      136253041,
+      85669735
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12685763,
-        "qs_pg:id":1003249
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12685763,
+      "qs_pg:id": 1003249,
+      "gb:id": "156350581"
     },
-    "wof:country":"CN",
-    "wof:created":1469055882,
-    "wof:geomhash":"13f99fadd5c7c369e67d1c2e96f79b1a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "localadmin_id":890514913,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055882,
+    "wof:geomhash": "13f99fadd5c7c369e67d1c2e96f79b1a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "localadmin_id": 890514913,
+        "region_id": 85669735
+      }
     ],
-    "wof:id":890514913,
-    "wof:lastmodified":1601423051,
-    "wof:name":"Shishi",
-    "wof:parent_id":890514127,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890514913,
+    "wof:lastmodified": 1768664149,
+    "wof:name": "Shishi",
+    "wof:parent_id": 890514127,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    118.633308,
-    24.733111,
-    118.633308,
-    24.733111
-],
-  "geometry": {"coordinates":[118.633308,24.733111],"type":"Point"}
+    118.582257,
+    24.668392,
+    118.779563,
+    24.807281
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            118.657626,
+            24.688189
+          ],
+          [
+            118.659288,
+            24.705804
+          ],
+          [
+            118.650389,
+            24.715217
+          ],
+          [
+            118.650453,
+            24.721665
+          ],
+          [
+            118.634723,
+            24.723762
+          ],
+          [
+            118.625353,
+            24.714829
+          ],
+          [
+            118.615633,
+            24.71538
+          ],
+          [
+            118.603794,
+            24.708383
+          ],
+          [
+            118.594287,
+            24.713107
+          ],
+          [
+            118.589449,
+            24.725648
+          ],
+          [
+            118.582257,
+            24.72686
+          ],
+          [
+            118.585376,
+            24.747586
+          ],
+          [
+            118.598525,
+            24.748431
+          ],
+          [
+            118.625099,
+            24.76109
+          ],
+          [
+            118.622493,
+            24.782369
+          ],
+          [
+            118.625798,
+            24.784406
+          ],
+          [
+            118.629199,
+            24.778062
+          ],
+          [
+            118.633705,
+            24.779227
+          ],
+          [
+            118.65076,
+            24.790938
+          ],
+          [
+            118.644507,
+            24.804864
+          ],
+          [
+            118.650128,
+            24.807281
+          ],
+          [
+            118.664897,
+            24.791678
+          ],
+          [
+            118.682147,
+            24.79811
+          ],
+          [
+            118.718714,
+            24.791835
+          ],
+          [
+            118.740906,
+            24.770647
+          ],
+          [
+            118.751767,
+            24.780528
+          ],
+          [
+            118.779563,
+            24.772479
+          ],
+          [
+            118.773351,
+            24.74634
+          ],
+          [
+            118.73097,
+            24.709122
+          ],
+          [
+            118.6994,
+            24.668392
+          ],
+          [
+            118.678682,
+            24.671899
+          ],
+          [
+            118.657626,
+            24.688189
+          ]
+        ]
+      ]
+    ]
+  }
 }

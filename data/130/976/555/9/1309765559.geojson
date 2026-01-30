@@ -2,75 +2,83 @@
   "id": 1309765559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.21,31.2027,105.21,31.2027",
-    "geom:latitude":31.2027,
-    "geom:longitude":105.21,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Linquan",
-    "gn:country_code":"CN",
-    "gn:dem":457,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163940,
-    "gn:latitude":31.2027,
-    "gn:longitude":105.21,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Linquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.19,31.1827,105.23,31.2227",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6797\u6cc9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.21,31.2027,105.21,31.2027",
+    "geom:latitude": 31.2027,
+    "geom:longitude": 105.21,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Linquan",
+    "gn:country_code": "CN",
+    "gn:dem": 457,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163940,
+    "gn:latitude": 31.2027,
+    "gn:longitude": 105.21,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Linquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.19,31.1827,105.23,31.2227",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "林泉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513911,
+      890514157
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163940
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163940
     },
-    "wof:country":"CN",
-    "wof:geomhash":"691f4d77f2309ae0cb0cdcbe08c931e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1309765559,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "691f4d77f2309ae0cb0cdcbe08c931e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1309765559,
+        "region_id": 85669787,
+        "localadmin_id": 890513911
+      }
     ],
-    "wof:id":1309765559,
-    "wof:lastmodified":1566692930,
-    "wof:name":"Linquan",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309765559,
+    "wof:lastmodified": 1768668241,
+    "wof:name": "Linquan",
+    "wof:parent_id": 890513911,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.21,
     31.2027,
     105.21,
     31.2027
-],
-  "geometry": {"coordinates":[105.20999999999999,31.2027],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.21,
+      31.2027
+    ],
+    "type": "Point"
+  }
 }

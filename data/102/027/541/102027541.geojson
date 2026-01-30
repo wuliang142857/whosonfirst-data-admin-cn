@@ -2,131 +2,271 @@
   "id": 102027541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000313,
-    "geom:area_square_m":3123229.38375,
-    "geom:bbox":"111.659401287,36.2485477573,111.681663132,36.2665776304",
-    "geom:latitude":36.257563,
-    "geom:longitude":111.670532,
-    "iso:country":"CN",
-    "lbl:latitude":36.257563,
-    "lbl:longitude":111.670532,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mps:latitude":36.257563,
-    "mps:longitude":111.670532,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Hongtong"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000313,
+    "geom:area_square_m": 3123229.38375,
+    "geom:bbox": "111.659401287,36.2485477573,111.681663132,36.2665776304",
+    "geom:latitude": 36.257563,
+    "geom:longitude": 111.670532,
+    "iso:country": "CN",
+    "lbl:latitude": 36.257563,
+    "lbl:longitude": 111.670532,
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mps:latitude": 36.257563,
+    "mps:longitude": 111.670532,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Hongtong"
     ],
-    "name:eng_x_preferred":[
-        "Hongtong County"
+    "name:eng_x_preferred": [
+      "Hongtong County"
     ],
-    "name:fas_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0647\u0648\u0646\u06af\u062a\u0648\u0646\u06af"
+    "name:fas_x_preferred": [
+      "شهرستان هونگتونگ"
     ],
-    "name:gan_x_preferred":[
-        "\u6d2a\u6d1e\u53bf"
+    "name:gan_x_preferred": [
+      "洪洞县"
     ],
-    "name:jpn_x_preferred":[
-        "\u6d2a\u6d1e\u770c"
+    "name:jpn_x_preferred": [
+      "洪洞県"
     ],
-    "name:kor_x_preferred":[
-        "\ud6d9\ub465\ud604"
+    "name:kor_x_preferred": [
+      "훙둥현"
     ],
-    "name:nan_x_preferred":[
-        "H\u00f4ng-t\u014dng-ko\u0101n"
+    "name:nan_x_preferred": [
+      "Hông-tōng-koān"
     ],
-    "name:nld_x_preferred":[
-        "Hongtong"
+    "name:nld_x_preferred": [
+      "Hongtong"
     ],
-    "name:nob_x_preferred":[
-        "Hongdong"
+    "name:nob_x_preferred": [
+      "Hongdong"
     ],
-    "name:rus_x_preferred":[
-        "\u0425\u0443\u043d\u0442\u0443\u043d"
+    "name:rus_x_preferred": [
+      "Хунтун"
     ],
-    "name:swe_x_preferred":[
-        "Hongdong"
+    "name:swe_x_preferred": [
+      "Hongdong"
     ],
-    "name:und_x_variant":[
-        "Hung-tung-hsien"
+    "name:und_x_variant": [
+      "Hung-tung-hsien"
     ],
-    "name:vie_x_preferred":[
-        "H\u1ed3ng \u0110\u1ed3ng"
+    "name:vie_x_preferred": [
+      "Hồng Đồng"
     ],
-    "name:wuu_x_preferred":[
-        "\u6d2a\u6d1e\u53bf"
+    "name:wuu_x_preferred": [
+      "洪洞县"
     ],
-    "name:yue_x_preferred":[
-        "\u6d2a\u6d1e"
+    "name:yue_x_preferred": [
+      "洪洞"
     ],
-    "name:zho_x_preferred":[
-        "\u6d2a\u6d1e\u53bf"
+    "name:zho_x_preferred": [
+      "洪洞县"
     ],
-    "qs:a1":"*",
-    "qs:a1r":"*",
-    "qs:adm0":"China",
-    "qs:id":0,
-    "qs:la_lc":"*",
-    "qs:level":"locality",
-    "qs:loc":"Dahuaishu",
-    "qs:loc_lc":"1807981",
-    "qs:pop":0,
-    "qs:source":"Nquattroshapes",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[
-        "quattroshapes_pg"
+    "qs:a1": "*",
+    "qs:a1r": "*",
+    "qs:adm0": "China",
+    "qs:id": 0,
+    "qs:la_lc": "*",
+    "qs:level": "locality",
+    "qs:loc": "Dahuaishu",
+    "qs:loc_lc": "1807981",
+    "qs:pop": 0,
+    "qs:source": "Nquattroshapes",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        1108732337
+    "src:lbl_centroid": "mapshaper",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      1108732337,
+      1127141024
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1807981,
-        "gp:id":2154563,
-        "qs_pg:id":372234,
-        "wd:id":"Q1197616",
-        "wk:page":"Hongtong County"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1807981,
+      "gp:id": 2154563,
+      "qs_pg:id": 372234,
+      "wd:id": "Q1197616",
+      "wk:page": "Hongtong County"
     },
-    "wof:country":"CN",
-    "wof:geom_alt":[
-        "quattroshapes_pg"
+    "wof:country": "CN",
+    "wof:geom_alt": [
+      "quattroshapes_pg"
     ],
-    "wof:geomhash":"d3dc6c4ee1c827e34bebac40e798dd42",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732337,
-            "empire_id":136253041,
-            "locality_id":102027541,
-            "region_id":85669773
-        }
+    "wof:geomhash": "d3dc6c4ee1c827e34bebac40e798dd42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732337,
+        "empire_id": 136253041,
+        "locality_id": 102027541,
+        "region_id": 85669773,
+        "localadmin_id": 1127141024
+      }
     ],
-    "wof:id":102027541,
-    "wof:lastmodified":1582372143,
-    "wof:name":"Dahuaishu",
-    "wof:parent_id":1108732337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 102027541,
+    "wof:lastmodified": 1768666368,
+    "wof:name": "Dahuaishu",
+    "wof:parent_id": 1127141024,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.65940128736479,
     36.24854775726241,
     111.6816631324033,
     36.26657763037923
-],
-  "geometry": {"coordinates":[[[111.67262796941388,36.24870878790767],[111.67045519967066,36.24854775726241],[111.66828538809729,36.24873312669138],[111.66620189165322,36.24925777520819],[111.66428475476336,36.25010154753939],[111.66260763678294,36.25123202766579],[111.66123498361368,36.25260578307949],[111.66021955181681,36.25417003216539],[111.65960038025629,36.25586467089029],[111.65940128736479,36.25762458116816],[111.65962995216096,36.25938213240906],[111.66027761488824,36.26106978025231],[111.66131940942883,36.26262266266154],[111.6627153153611,36.26398109355181],[111.66441169361052,36.26509285796629],[111.66634334703538,36.26591522037691],[111.66843602686994,36.26641656866938],[111.67060928856172,36.26657763037923],[111.67277958687204,36.2663922142255],[111.67486349074052,36.26586744830811],[111.67678089371488,36.26502350577377],[111.67845809593162,36.2638928285534],[111.67983063866451,36.26251887916074],[111.68084578216524,36.26095446874237],[111.68146453146041,36.25925972589302],[111.6816631324033,36.25749978455059],[111.68143398087018,36.25574228003444],[111.68078591071877,36.25405474959177],[111.67974385009343,36.25250203738567],[111.6783478599249,36.25114380358939],[111.67665159211175,36.25003223315396],[111.67472022698304,36.24921003207572],[111.67262796941388,36.24870878790767]]],"type":"Polygon"}
+  ],
+  "geometry": {
+    "coordinates": [
+      [
+        [
+          111.67262796941388,
+          36.24870878790767
+        ],
+        [
+          111.67045519967066,
+          36.24854775726241
+        ],
+        [
+          111.66828538809729,
+          36.24873312669138
+        ],
+        [
+          111.66620189165322,
+          36.24925777520819
+        ],
+        [
+          111.66428475476336,
+          36.25010154753939
+        ],
+        [
+          111.66260763678294,
+          36.25123202766579
+        ],
+        [
+          111.66123498361368,
+          36.25260578307949
+        ],
+        [
+          111.66021955181681,
+          36.25417003216539
+        ],
+        [
+          111.6596003802563,
+          36.25586467089029
+        ],
+        [
+          111.65940128736479,
+          36.25762458116816
+        ],
+        [
+          111.65962995216096,
+          36.25938213240906
+        ],
+        [
+          111.66027761488824,
+          36.26106978025231
+        ],
+        [
+          111.66131940942883,
+          36.26262266266154
+        ],
+        [
+          111.6627153153611,
+          36.26398109355181
+        ],
+        [
+          111.66441169361052,
+          36.26509285796629
+        ],
+        [
+          111.66634334703538,
+          36.26591522037691
+        ],
+        [
+          111.66843602686994,
+          36.26641656866938
+        ],
+        [
+          111.67060928856172,
+          36.26657763037923
+        ],
+        [
+          111.67277958687204,
+          36.2663922142255
+        ],
+        [
+          111.67486349074052,
+          36.26586744830811
+        ],
+        [
+          111.67678089371488,
+          36.26502350577377
+        ],
+        [
+          111.67845809593162,
+          36.2638928285534
+        ],
+        [
+          111.67983063866451,
+          36.26251887916074
+        ],
+        [
+          111.68084578216524,
+          36.26095446874237
+        ],
+        [
+          111.6814645314604,
+          36.25925972589302
+        ],
+        [
+          111.6816631324033,
+          36.25749978455059
+        ],
+        [
+          111.68143398087018,
+          36.25574228003444
+        ],
+        [
+          111.68078591071877,
+          36.25405474959177
+        ],
+        [
+          111.67974385009343,
+          36.25250203738567
+        ],
+        [
+          111.6783478599249,
+          36.25114380358939
+        ],
+        [
+          111.67665159211175,
+          36.25003223315396
+        ],
+        [
+          111.67472022698304,
+          36.24921003207572
+        ],
+        [
+          111.67262796941388,
+          36.24870878790767
+        ]
+      ]
+    ],
+    "type": "Polygon"
+  }
 }

@@ -2,73 +2,81 @@
   "id": 1260113431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.58377,18.66295,109.58377,18.66295",
-    "geom:latitude":18.66295,
-    "geom:longitude":109.58377,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Chachang Qidui",
-    "gn:country_code":"CN",
-    "gn:dem":438,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":7846267,
-    "gn:latitude":18.66295,
-    "gn:longitude":109.58377,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Chachang Qidui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.56377,18.64295,109.60377,18.68295",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u8336\u573a\u4e03\u961f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.58377,18.66295,109.58377,18.66295",
+    "geom:latitude": 18.66295,
+    "geom:longitude": 109.58377,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Chachang Qidui",
+    "gn:country_code": "CN",
+    "gn:dem": 438,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 7846267,
+    "gn:latitude": 18.66295,
+    "gn:longitude": 109.58377,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Chachang Qidui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.56377,18.64295,109.60377,18.68295",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "茶场七队"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732357
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515211,
+      1108732357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7846267
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7846267
     },
-    "wof:country":"CN",
-    "wof:geomhash":"410d1464d2a9e0be46cb7c61dbff8214",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732357,
-            "locality_id":1260113431,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "410d1464d2a9e0be46cb7c61dbff8214",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732357,
+        "locality_id": 1260113431,
+        "region_id": 85669759,
+        "localadmin_id": 890515211
+      }
     ],
-    "wof:id":1260113431,
-    "wof:lastmodified":1566687174,
-    "wof:name":"Chachang Qidui",
-    "wof:parent_id":1108732357,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260113431,
+    "wof:lastmodified": 1768671214,
+    "wof:name": "Chachang Qidui",
+    "wof:parent_id": 890515211,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.58377,
     18.66295,
     109.58377,
     18.66295
-],
-  "geometry": {"coordinates":[109.58377,18.66295],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.58377,
+      18.66295
+    ],
+    "type": "Point"
+  }
 }

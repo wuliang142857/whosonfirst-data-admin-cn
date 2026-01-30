@@ -2,85 +2,93 @@
   "id": 890511709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.43762,37.1566,122.43762,37.1566",
-    "geom:latitude":37.1566,
-    "geom:longitude":122.43762,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":91517,
-    "iso:country":"CN",
-    "lbl:bbox":"122.41762,37.1366,122.45762,37.1766",
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":8.0,
-    "name:rus_x_preferred":[
-        "\u0416\u0443\u043d\u0447\u044d\u043d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.43762,37.1566,122.43762,37.1566",
+    "geom:latitude": 37.1566,
+    "geom:longitude": 122.43762,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 91517,
+    "iso:country": "CN",
+    "lbl:bbox": "122.41762,37.1366,122.45762,37.1766",
+    "lbl:max_zoom": 14.0,
+    "lbl:min_zoom": 9.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 8.0,
+    "name:rus_x_preferred": [
+      "Жунчэн"
     ],
-    "name:und_x_variant":[
-        "Jung-ch\u2019eng-hsien"
+    "name:und_x_variant": [
+      "Jung-ch’eng-hsien"
     ],
-    "name:zho_x_preferred":[
-        "\u5d16\u5934"
+    "name:zho_x_preferred": [
+      "崖头"
     ],
-    "name:zho_x_variant":[
-        "\u5d16\u5934\u8857\u9053",
-        "\u8363\u6210",
-        "\u8363\u6210\u5e02"
+    "name:zho_x_variant": [
+      "崖头街道",
+      "荣成",
+      "荣成市"
     ],
-    "qs:name":"Yatou",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"8",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514771
+    "qs:name": "Yatou",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "8",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514771,
+      1127371082
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1786855,
-        "gp:id":12687119,
-        "qs_pg:id":136286
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1786855,
+      "gp:id": 12687119,
+      "qs_pg:id": 136286
     },
-    "wof:country":"CN",
-    "wof:created":1469055742,
-    "wof:geomhash":"da32a014a32c9484fb4b2f92dc0e9718",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514771,
-            "empire_id":136253041,
-            "locality_id":890511709,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055742,
+    "wof:geomhash": "da32a014a32c9484fb4b2f92dc0e9718",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514771,
+        "empire_id": 136253041,
+        "locality_id": 890511709,
+        "region_id": 85669813,
+        "localadmin_id": 1127371082
+      }
     ],
-    "wof:id":890511709,
-    "wof:lastmodified":1566693644,
-    "wof:name":"Yatou",
-    "wof:parent_id":890514771,
-    "wof:placetype":"locality",
-    "wof:population":91517,
-    "wof:population_rank":8,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890511709,
+    "wof:lastmodified": 1768668334,
+    "wof:name": "Yatou",
+    "wof:parent_id": 1127371082,
+    "wof:placetype": "locality",
+    "wof:population": 91517,
+    "wof:population_rank": 8,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.43762,
     37.1566,
     122.43762,
     37.1566
-],
-  "geometry": {"coordinates":[122.43762,37.1566],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.43762,
+      37.1566
+    ],
+    "type": "Point"
+  }
 }

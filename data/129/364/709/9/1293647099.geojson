@@ -2,80 +2,88 @@
   "id": 1293647099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.92937,37.76115,113.92937,37.76115",
-    "geom:latitude":37.76115,
-    "geom:longitude":113.92937,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Chanquan",
-    "gn:country_code":"CN",
-    "gn:dem":872,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1815442,
-    "gn:latitude":37.76115,
-    "gn:longitude":113.92937,
-    "gn:modification_date":"2017-02-04",
-    "gn:name":"Chanquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.90937,37.74115,113.94937,37.78115",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019an-ch\u2019\u00fcan",
-        "Ch\u2019ang-ch\u2019uan-ts\u2019un",
-        "Chanquan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.92937,37.76115,113.92937,37.76115",
+    "geom:latitude": 37.76115,
+    "geom:longitude": 113.92937,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Chanquan",
+    "gn:country_code": "CN",
+    "gn:dem": 872,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1815442,
+    "gn:latitude": 37.76115,
+    "gn:longitude": 113.92937,
+    "gn:modification_date": "2017-02-04",
+    "gn:name": "Chanquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.90937,37.74115,113.94937,37.78115",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’an-ch’üan",
+      "Ch’ang-ch’uan-ts’un",
+      "Chanquan"
     ],
-    "name:zho_x_preferred":[
-        "\u6f7a\u6cc9"
+    "name:zho_x_preferred": [
+      "潺泉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        1108732525
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      1108732525,
+      1127140321
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1815442
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1815442
     },
-    "wof:country":"CN",
-    "wof:geomhash":"36f13cb2c27f6c66b73e1ae5ff4b2b3d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732525,
-            "empire_id":136253041,
-            "locality_id":1293647099,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "36f13cb2c27f6c66b73e1ae5ff4b2b3d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732525,
+        "empire_id": 136253041,
+        "locality_id": 1293647099,
+        "region_id": 85669773,
+        "localadmin_id": 1127140321
+      }
     ],
-    "wof:id":1293647099,
-    "wof:lastmodified":1566666875,
-    "wof:name":"Chanquan",
-    "wof:parent_id":1108732525,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293647099,
+    "wof:lastmodified": 1768667055,
+    "wof:name": "Chanquan",
+    "wof:parent_id": 1127140321,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.92937,
     37.76115,
     113.92937,
     37.76115
-],
-  "geometry": {"coordinates":[113.92937000000001,37.76115],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.92937,
+      37.76115
+    ],
+    "type": "Point"
+  }
 }

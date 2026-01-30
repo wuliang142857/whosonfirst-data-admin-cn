@@ -2,75 +2,83 @@
   "id": 1360234803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.26805,23.042,115.26805,23.042",
-    "geom:latitude":23.042,
-    "geom:longitude":115.26805,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Wencuobai",
-    "gn:country_code":"CN",
-    "gn:dem":76,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7032239,
-    "gn:latitude":23.042,
-    "gn:longitude":115.26805,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Wencuobai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.24805,23.022,115.28805,23.062",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e29\u539d\u767d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.26805,23.042,115.26805,23.042",
+    "geom:latitude": 23.042,
+    "geom:longitude": 115.26805,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Wencuobai",
+    "gn:country_code": "CN",
+    "gn:dem": 76,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7032239,
+    "gn:latitude": 23.042,
+    "gn:longitude": 115.26805,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Wencuobai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.24805,23.022,115.28805,23.062",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "温厝白"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890515843
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513459,
+      890515843
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7032239
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7032239
     },
-    "wof:country":"CN",
-    "wof:geomhash":"36cd8c37fe11412f76a8fb6411a666aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515843,
-            "empire_id":136253041,
-            "locality_id":1360234803,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "36cd8c37fe11412f76a8fb6411a666aa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515843,
+        "empire_id": 136253041,
+        "locality_id": 1360234803,
+        "region_id": 85669743,
+        "localadmin_id": 890513459
+      }
     ],
-    "wof:id":1360234803,
-    "wof:lastmodified":1566691166,
-    "wof:name":"Wencuobai",
-    "wof:parent_id":890515843,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360234803,
+    "wof:lastmodified": 1768667914,
+    "wof:name": "Wencuobai",
+    "wof:parent_id": 890513459,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.26805,
     23.042,
     115.26805,
     23.042
-],
-  "geometry": {"coordinates":[115.26805,23.042],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.26805,
+      23.042
+    ],
+    "type": "Point"
+  }
 }

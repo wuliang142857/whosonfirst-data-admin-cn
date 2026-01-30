@@ -2,75 +2,83 @@
   "id": 1360141547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.445,37.9277,110.445,37.9277",
-    "geom:latitude":37.9277,
-    "geom:longitude":110.445,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Chenjia Goucun",
-    "gn:country_code":"CN",
-    "gn:dem":903,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11083781,
-    "gn:latitude":37.9277,
-    "gn:longitude":110.445,
-    "gn:modification_date":"2016-03-12",
-    "gn:name":"Chenjia Goucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.425,37.9077,110.465,37.9477",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u5bb6\u6c9f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.445,37.9277,110.445,37.9277",
+    "geom:latitude": 37.9277,
+    "geom:longitude": 110.445,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Chenjia Goucun",
+    "gn:country_code": "CN",
+    "gn:dem": 903,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11083781,
+    "gn:latitude": 37.9277,
+    "gn:longitude": 110.445,
+    "gn:modification_date": "2016-03-12",
+    "gn:name": "Chenjia Goucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.425,37.9077,110.465,37.9477",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈家沟村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515097
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515097,
+      1127610828
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11083781
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11083781
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2997676b99858d58758b1f42d4dc55f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515097,
-            "empire_id":136253041,
-            "locality_id":1360141547,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2997676b99858d58758b1f42d4dc55f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515097,
+        "empire_id": 136253041,
+        "locality_id": 1360141547,
+        "region_id": 85669769,
+        "localadmin_id": 1127610828
+      }
     ],
-    "wof:id":1360141547,
-    "wof:lastmodified":1566691340,
-    "wof:name":"Chenjia Goucun",
-    "wof:parent_id":890515097,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360141547,
+    "wof:lastmodified": 1768667150,
+    "wof:name": "Chenjia Goucun",
+    "wof:parent_id": 1127610828,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.445,
     37.9277,
     110.445,
     37.9277
-],
-  "geometry": {"coordinates":[110.44499999999999,37.9277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.445,
+      37.9277
+    ],
+    "type": "Point"
+  }
 }

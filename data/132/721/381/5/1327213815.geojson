@@ -2,75 +2,83 @@
   "id": 1327213815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.82184,32.11279,112.82184,32.11279",
-    "geom:latitude":32.11279,
-    "geom:longitude":112.82184,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhangjia Citang",
-    "gn:country_code":"CN",
-    "gn:dem":139,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8525146,
-    "gn:latitude":32.11279,
-    "gn:longitude":112.82184,
-    "gn:modification_date":"2015-04-09",
-    "gn:name":"Zhangjia Citang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.80184,32.09279,112.84184,32.13279",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u5bb6\u7960\u5802"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.82184,32.11279,112.82184,32.11279",
+    "geom:latitude": 32.11279,
+    "geom:longitude": 112.82184,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhangjia Citang",
+    "gn:country_code": "CN",
+    "gn:dem": 139,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8525146,
+    "gn:latitude": 32.11279,
+    "gn:longitude": 112.82184,
+    "gn:modification_date": "2015-04-09",
+    "gn:name": "Zhangjia Citang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.80184,32.09279,112.84184,32.13279",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张家祠堂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512025,
+      1108732497
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8525146
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8525146
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1499199c0195e4e92c2208eddcb548d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1327213815,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1499199c0195e4e92c2208eddcb548d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1327213815,
+        "region_id": 85669777,
+        "localadmin_id": 890512025
+      }
     ],
-    "wof:id":1327213815,
-    "wof:lastmodified":1566654401,
-    "wof:name":"Zhangjia Citang",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327213815,
+    "wof:lastmodified": 1768665619,
+    "wof:name": "Zhangjia Citang",
+    "wof:parent_id": 890512025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.82184,
     32.11279,
     112.82184,
     32.11279
-],
-  "geometry": {"coordinates":[112.82183999999999,32.11279],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.82184,
+      32.11279
+    ],
+    "type": "Point"
+  }
 }

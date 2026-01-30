@@ -2,75 +2,83 @@
   "id": 1276314581,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.876,22.0296,107.876,22.0296",
-    "geom:latitude":22.0296,
-    "geom:longitude":107.876,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Nale",
-    "gn:country_code":"CN",
-    "gn:dem":211,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9900893,
-    "gn:latitude":22.0296,
-    "gn:longitude":107.876,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Nale",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.856,22.0096,107.896,22.0496",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a3\u4e50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.876,22.0296,107.876,22.0296",
+    "geom:latitude": 22.0296,
+    "geom:longitude": 107.876,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Nale",
+    "gn:country_code": "CN",
+    "gn:dem": 211,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9900893,
+    "gn:latitude": 22.0296,
+    "gn:longitude": 107.876,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Nale",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.856,22.0096,107.896,22.0496",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "那乐"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512639
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512639,
+      1127450621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9900893
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9900893
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cee7fde57b5c444fb4f04a8468a1b1e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512639,
-            "empire_id":136253041,
-            "locality_id":1276314581,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cee7fde57b5c444fb4f04a8468a1b1e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512639,
+        "empire_id": 136253041,
+        "locality_id": 1276314581,
+        "region_id": 85669717,
+        "localadmin_id": 1127450621
+      }
     ],
-    "wof:id":1276314581,
-    "wof:lastmodified":1566678395,
-    "wof:name":"Nale",
-    "wof:parent_id":890512639,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276314581,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Nale",
+    "wof:parent_id": 1127450621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.876,
     22.0296,
     107.876,
     22.0296
-],
-  "geometry": {"coordinates":[107.876,22.0296],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.876,
+      22.0296
+    ],
+    "type": "Point"
+  }
 }

@@ -2,72 +2,80 @@
   "id": 1310501535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.03333,32.03333,120.03333,32.03333",
-    "geom:latitude":32.03333,
-    "geom:longitude":120.03333,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Baimuqiao",
-    "gn:country_code":"CN",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1817496,
-    "gn:latitude":32.03333,
-    "gn:longitude":120.03333,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Baimuqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.01333,32.01333,120.05333,32.05333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.03333,32.03333,120.03333,32.03333",
+    "geom:latitude": 32.03333,
+    "geom:longitude": 120.03333,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Baimuqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1817496,
+    "gn:latitude": 32.03333,
+    "gn:longitude": 120.03333,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Baimuqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.01333,32.01333,120.05333,32.05333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516237,
+      890516991
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1817496
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1817496
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6f16a4204d23b8f7a4352b3c4296b59b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1310501535,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6f16a4204d23b8f7a4352b3c4296b59b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1310501535,
+        "region_id": 85669827,
+        "localadmin_id": 890516991
+      }
     ],
-    "wof:id":1310501535,
-    "wof:lastmodified":1566690542,
-    "wof:name":"Baimuqiao",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310501535,
+    "wof:lastmodified": 1768670649,
+    "wof:name": "Baimuqiao",
+    "wof:parent_id": 890516991,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.03333,
     32.03333,
     120.03333,
     32.03333
-],
-  "geometry": {"coordinates":[120.03333000000001,32.03333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.03333,
+      32.03333
+    ],
+    "type": "Point"
+  }
 }

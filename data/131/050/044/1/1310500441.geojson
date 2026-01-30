@@ -2,76 +2,84 @@
   "id": 1310500441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.86884,41.05234,125.86884,41.05234",
-    "geom:latitude":41.05234,
-    "geom:longitude":125.86884,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Zhi'an",
-    "gn:country_code":"CN",
-    "gn:dem":254,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7553665,
-    "gn:latitude":41.05234,
-    "gn:longitude":125.86884,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhi\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.84884,41.03234,125.88884,41.07234",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhi\u2019an",
-        "\u6cbb\u5b89"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.86884,41.05234,125.86884,41.05234",
+    "geom:latitude": 41.05234,
+    "geom:longitude": 125.86884,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Zhi'an",
+    "gn:country_code": "CN",
+    "gn:dem": 254,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7553665,
+    "gn:latitude": 41.05234,
+    "gn:longitude": 125.86884,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhi’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.84884,41.03234,125.88884,41.07234",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhi’an",
+      "治安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516249
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514705,
+      890516249
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7553665
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7553665
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a8a99d4404479ee14fac1045f655a318",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516249,
-            "empire_id":136253041,
-            "locality_id":1310500441,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a8a99d4404479ee14fac1045f655a318",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516249,
+        "empire_id": 136253041,
+        "locality_id": 1310500441,
+        "region_id": 85669843,
+        "localadmin_id": 890514705
+      }
     ],
-    "wof:id":1310500441,
-    "wof:lastmodified":1566690551,
-    "wof:name":"Zhi'an",
-    "wof:parent_id":890516249,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310500441,
+    "wof:lastmodified": 1768671033,
+    "wof:name": "Zhi'an",
+    "wof:parent_id": 890514705,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.86884,
     41.05234,
     125.86884,
     41.05234
-],
-  "geometry": {"coordinates":[125.86884000000001,41.05234],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.86884,
+      41.05234
+    ],
+    "type": "Point"
+  }
 }

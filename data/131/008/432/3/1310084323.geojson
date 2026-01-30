@@ -2,75 +2,83 @@
   "id": 1310084323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.3636,36.72443,115.3636,36.72443",
-    "geom:latitude":36.72443,
-    "geom:longitude":115.3636,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Yanzhai",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9116083,
-    "gn:latitude":36.72443,
-    "gn:longitude":115.3636,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Yanzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.3436,36.70443,115.3836,36.74443",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u960e\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.3636,36.72443,115.3636,36.72443",
+    "geom:latitude": 36.72443,
+    "geom:longitude": 115.3636,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Yanzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9116083,
+    "gn:latitude": 36.72443,
+    "gn:longitude": 115.3636,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Yanzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.3436,36.70443,115.3836,36.74443",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "阎寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890511887
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890511887,
+      1127130433
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9116083
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9116083
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8d35411beb859331103b9fec409913ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511887,
-            "empire_id":136253041,
-            "locality_id":1310084323,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8d35411beb859331103b9fec409913ac",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511887,
+        "empire_id": 136253041,
+        "locality_id": 1310084323,
+        "region_id": 85669797,
+        "localadmin_id": 1127130433
+      }
     ],
-    "wof:id":1310084323,
-    "wof:lastmodified":1566689343,
-    "wof:name":"Yanzhai",
-    "wof:parent_id":890511887,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310084323,
+    "wof:lastmodified": 1768669463,
+    "wof:name": "Yanzhai",
+    "wof:parent_id": 1127130433,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.3636,
     36.72443,
     115.3636,
     36.72443
-],
-  "geometry": {"coordinates":[115.36360000000001,36.72443],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.3636,
+      36.72443
+    ],
+    "type": "Point"
+  }
 }

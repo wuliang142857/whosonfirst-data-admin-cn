@@ -2,75 +2,83 @@
   "id": 1343906841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.295,28.9865,105.295,28.9865",
-    "geom:latitude":28.9865,
-    "geom:longitude":105.295,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Wanfu",
-    "gn:country_code":"CN",
-    "gn:dem":376,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186761,
-    "gn:latitude":28.9865,
-    "gn:longitude":105.295,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Wanfu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.275,28.9665,105.315,29.0065",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e07\u798f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.295,28.9865,105.295,28.9865",
+    "geom:latitude": 28.9865,
+    "geom:longitude": 105.295,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Wanfu",
+    "gn:country_code": "CN",
+    "gn:dem": 376,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186761,
+    "gn:latitude": 28.9865,
+    "gn:longitude": 105.295,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Wanfu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.275,28.9665,105.315,29.0065",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "万福"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186761
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186761
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c85ea24bf7f179fa5035c900c2fa6f74",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1343906841,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c85ea24bf7f179fa5035c900c2fa6f74",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1343906841,
+        "region_id": 85669787,
+        "localadmin_id": 1127510521
+      }
     ],
-    "wof:id":1343906841,
-    "wof:lastmodified":1566657687,
-    "wof:name":"Wanfu",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343906841,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Wanfu",
+    "wof:parent_id": 1127510521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.295,
     28.9865,
     105.295,
     28.9865
-],
-  "geometry": {"coordinates":[105.295,28.9865],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.295,
+      28.9865
+    ],
+    "type": "Point"
+  }
 }

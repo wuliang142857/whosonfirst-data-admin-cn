@@ -2,75 +2,83 @@
   "id": 1242844467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.66547,36.97511,106.66547,36.97511",
-    "geom:latitude":36.97511,
-    "geom:longitude":106.66547,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Huangqu",
-    "gn:country_code":"CN",
-    "gn:dem":1929,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7514921,
-    "gn:latitude":36.97511,
-    "gn:longitude":106.66547,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Huangqu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.64547,36.95511,106.68547,36.99511",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9ec4\u6e20"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.66547,36.97511,106.66547,36.97511",
+    "geom:latitude": 36.97511,
+    "geom:longitude": 106.66547,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Huangqu",
+    "gn:country_code": "CN",
+    "gn:dem": 1929,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7514921,
+    "gn:latitude": 36.97511,
+    "gn:longitude": 106.66547,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Huangqu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.64547,36.95511,106.68547,36.99511",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "黄渠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7514921
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7514921
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d470ebba7749641c98f4a43fd8ef852b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1242844467,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d470ebba7749641c98f4a43fd8ef852b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1242844467,
+        "region_id": 85669711,
+        "localadmin_id": 1127621022
+      }
     ],
-    "wof:id":1242844467,
-    "wof:lastmodified":1566696540,
-    "wof:name":"Huangqu",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242844467,
+    "wof:lastmodified": 1768666481,
+    "wof:name": "Huangqu",
+    "wof:parent_id": 1127621022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.66547,
     36.97511,
     106.66547,
     36.97511
-],
-  "geometry": {"coordinates":[106.66547,36.97511],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.66547,
+      36.97511
+    ],
+    "type": "Point"
+  }
 }

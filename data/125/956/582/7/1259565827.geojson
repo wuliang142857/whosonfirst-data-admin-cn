@@ -2,75 +2,83 @@
   "id": 1259565827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.56423,34.75765,104.56423,34.75765",
-    "geom:latitude":34.75765,
-    "geom:longitude":104.56423,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Caijiamen",
-    "gn:country_code":"CN",
-    "gn:dem":1997,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7517460,
-    "gn:latitude":34.75765,
-    "gn:longitude":104.56423,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Caijiamen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.54423,34.73765,104.58423,34.77765",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u8521\u5bb6\u95e8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.56423,34.75765,104.56423,34.75765",
+    "geom:latitude": 34.75765,
+    "geom:longitude": 104.56423,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Caijiamen",
+    "gn:country_code": "CN",
+    "gn:dem": 1997,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7517460,
+    "gn:latitude": 34.75765,
+    "gn:longitude": 104.56423,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Caijiamen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.54423,34.73765,104.58423,34.77765",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "蔡家门"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7517460
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7517460
     },
-    "wof:country":"CN",
-    "wof:geomhash":"faddfe3d5a8082c97cb8ecbe02a53460",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1259565827,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "faddfe3d5a8082c97cb8ecbe02a53460",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1259565827,
+        "region_id": 85669711,
+        "localadmin_id": 1127621125
+      }
     ],
-    "wof:id":1259565827,
-    "wof:lastmodified":1566699995,
-    "wof:name":"Caijiamen",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259565827,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Caijiamen",
+    "wof:parent_id": 1127621125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.56423,
     34.75765,
     104.56423,
     34.75765
-],
-  "geometry": {"coordinates":[104.56422999999999,34.75765],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.56423,
+      34.75765
+    ],
+    "type": "Point"
+  }
 }

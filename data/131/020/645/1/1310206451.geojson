@@ -2,78 +2,86 @@
   "id": 1310206451,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.144,27.2948,117.144,27.2948",
-    "geom:latitude":27.2948,
-    "geom:longitude":117.144,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Qiuyuan",
-    "gn:country_code":"CN",
-    "gn:dem":555,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6904924,
-    "gn:latitude":27.2948,
-    "gn:longitude":117.144,
-    "gn:modification_date":"2014-12-04",
-    "gn:name":"Qiuyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.124,27.2748,117.164,27.3148",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90b1\u6c85"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.144,27.2948,117.144,27.2948",
+    "geom:latitude": 27.2948,
+    "geom:longitude": 117.144,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Qiuyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 555,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6904924,
+    "gn:latitude": 27.2948,
+    "gn:longitude": 117.144,
+    "gn:modification_date": "2014-12-04",
+    "gn:name": "Qiuyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.124,27.2748,117.164,27.3148",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "邱沅"
     ],
-    "name:zho_x_variant":[
-        "\u90b1\u6e90"
+    "name:zho_x_variant": [
+      "邱源"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516617
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512635,
+      890516617
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6904924
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6904924
     },
-    "wof:country":"CN",
-    "wof:geomhash":"feb0b169c11650849698b7831d5372f7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516617,
-            "empire_id":136253041,
-            "locality_id":1310206451,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "feb0b169c11650849698b7831d5372f7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516617,
+        "empire_id": 136253041,
+        "locality_id": 1310206451,
+        "region_id": 85669823,
+        "localadmin_id": 890512635
+      }
     ],
-    "wof:id":1310206451,
-    "wof:lastmodified":1566689670,
-    "wof:name":"Qiuyuan",
-    "wof:parent_id":890516617,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310206451,
+    "wof:lastmodified": 1768669902,
+    "wof:name": "Qiuyuan",
+    "wof:parent_id": 890512635,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.144,
     27.2948,
     117.144,
     27.2948
-],
-  "geometry": {"coordinates":[117.14400000000001,27.2948],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.144,
+      27.2948
+    ],
+    "type": "Point"
+  }
 }

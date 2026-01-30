@@ -2,75 +2,83 @@
   "id": 1242990659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.941,37.7673,115.941,37.7673",
-    "geom:latitude":37.7673,
-    "geom:longitude":115.941,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Housuguo",
-    "gn:country_code":"CN",
-    "gn:dem":23,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9526943,
-    "gn:latitude":37.7673,
-    "gn:longitude":115.941,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Housuguo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.921,37.7473,115.961,37.7873",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u82cf\u56fd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.941,37.7673,115.941,37.7673",
+    "geom:latitude": 37.7673,
+    "geom:longitude": 115.941,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Housuguo",
+    "gn:country_code": "CN",
+    "gn:dem": 23,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9526943,
+    "gn:latitude": 37.7673,
+    "gn:longitude": 115.941,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Housuguo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.921,37.7473,115.961,37.7873",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后苏国"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516595
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516595,
+      1127131122
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9526943
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9526943
     },
-    "wof:country":"CN",
-    "wof:geomhash":"05ab5837655638f9f2dadd6cb7632559",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516595,
-            "empire_id":136253041,
-            "locality_id":1242990659,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "05ab5837655638f9f2dadd6cb7632559",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516595,
+        "empire_id": 136253041,
+        "locality_id": 1242990659,
+        "region_id": 85669797,
+        "localadmin_id": 1127131122
+      }
     ],
-    "wof:id":1242990659,
-    "wof:lastmodified":1566697269,
-    "wof:name":"Housuguo",
-    "wof:parent_id":890516595,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242990659,
+    "wof:lastmodified": 1768669433,
+    "wof:name": "Housuguo",
+    "wof:parent_id": 1127131122,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.941,
     37.7673,
     115.941,
     37.7673
-],
-  "geometry": {"coordinates":[115.941,37.7673],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.941,
+      37.7673
+    ],
+    "type": "Point"
+  }
 }

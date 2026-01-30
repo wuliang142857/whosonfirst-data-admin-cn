@@ -2,77 +2,85 @@
   "id": 1225947175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.34583,30.4575,122.34583,30.4575",
-    "geom:latitude":30.4575,
-    "geom:longitude":122.34583,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Xiaodong'ao",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1898719,
-    "gn:latitude":30.4575,
-    "gn:longitude":122.34583,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Xiaodong\u2019ao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.32583,30.4375,122.36583,30.4775",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsiao-tung-ao",
-        "Xiaodong\u2019ao",
-        "\u5c0f\u4e1c\u5c99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.34583,30.4575,122.34583,30.4575",
+    "geom:latitude": 30.4575,
+    "geom:longitude": 122.34583,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Xiaodong'ao",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1898719,
+    "gn:latitude": 30.4575,
+    "gn:longitude": 122.34583,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Xiaodong’ao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.32583,30.4375,122.36583,30.4775",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsiao-tung-ao",
+      "Xiaodong’ao",
+      "小东岙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513083
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513083,
+      1127330921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1898719
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1898719
     },
-    "wof:country":"CN",
-    "wof:geomhash":"be89d351c7cfb2b47b44de6436b70273",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513083,
-            "empire_id":136253041,
-            "locality_id":1225947175,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "be89d351c7cfb2b47b44de6436b70273",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513083,
+        "empire_id": 136253041,
+        "locality_id": 1225947175,
+        "region_id": 85669835,
+        "localadmin_id": 1127330921
+      }
     ],
-    "wof:id":1225947175,
-    "wof:lastmodified":1566700743,
-    "wof:name":"Xiaodong'ao",
-    "wof:parent_id":890513083,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225947175,
+    "wof:lastmodified": 1768669966,
+    "wof:name": "Xiaodong'ao",
+    "wof:parent_id": 1127330921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.34583,
     30.4575,
     122.34583,
     30.4575
-],
-  "geometry": {"coordinates":[122.34583000000001,30.4575],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.34583,
+      30.4575
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1327346875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.8631,30.8197,116.8631,30.8197",
-    "geom:latitude":30.8197,
-    "geom:longitude":116.8631,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Xuhecun",
-    "gn:country_code":"CN",
-    "gn:dem":22,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1787959,
-    "gn:latitude":30.8197,
-    "gn:longitude":116.8631,
-    "gn:modification_date":"2017-03-04",
-    "gn:name":"Xuhecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.8431,30.7997,116.8831,30.8397",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsing-ho",
-        "Hs\u00fc-ho",
-        "Xuhe",
-        "Xuhecun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.8631,30.8197,116.8631,30.8197",
+    "geom:latitude": 30.8197,
+    "geom:longitude": 116.8631,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Xuhecun",
+    "gn:country_code": "CN",
+    "gn:dem": 22,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1787959,
+    "gn:latitude": 30.8197,
+    "gn:longitude": 116.8631,
+    "gn:modification_date": "2017-03-04",
+    "gn:name": "Xuhecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.8431,30.7997,116.8831,30.8397",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsing-ho",
+      "Hsü-ho",
+      "Xuhe",
+      "Xuhecun"
     ],
-    "name:zho_x_preferred":[
-        "\u5f90\u6cb3\u6751"
+    "name:zho_x_preferred": [
+      "徐河村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890516201
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890516201,
+      1127340881
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1787959
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1787959
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e7ae3c33ccbf21fdd843834a8372e571",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516201,
-            "empire_id":136253041,
-            "locality_id":1327346875,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e7ae3c33ccbf21fdd843834a8372e571",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516201,
+        "empire_id": 136253041,
+        "locality_id": 1327346875,
+        "region_id": 85669739,
+        "localadmin_id": 1127340881
+      }
     ],
-    "wof:id":1327346875,
-    "wof:lastmodified":1566651211,
-    "wof:name":"Xuhecun",
-    "wof:parent_id":890516201,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327346875,
+    "wof:lastmodified": 1768670157,
+    "wof:name": "Xuhecun",
+    "wof:parent_id": 1127340881,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.8631,
     30.8197,
     116.8631,
     30.8197
-],
-  "geometry": {"coordinates":[116.8631,30.8197],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.8631,
+      30.8197
+    ],
+    "type": "Point"
+  }
 }

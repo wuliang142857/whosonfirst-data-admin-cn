@@ -2,75 +2,83 @@
   "id": 1276637091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.214,24.3201,105.214,24.3201",
-    "geom:latitude":24.3201,
-    "geom:longitude":105.214,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Pingting",
-    "gn:country_code":"CN",
-    "gn:dem":956,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9912843,
-    "gn:latitude":24.3201,
-    "gn:longitude":105.214,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Pingting",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.194,24.3001,105.234,24.3401",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e73\u505c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.214,24.3201,105.214,24.3201",
+    "geom:latitude": 24.3201,
+    "geom:longitude": 105.214,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Pingting",
+    "gn:country_code": "CN",
+    "gn:dem": 956,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9912843,
+    "gn:latitude": 24.3201,
+    "gn:longitude": 105.214,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Pingting",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.194,24.3001,105.234,24.3401",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "平停"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451030
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9912843
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9912843
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6394db08eadcf50fc9eb9f85149857ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1276637091,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6394db08eadcf50fc9eb9f85149857ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1276637091,
+        "region_id": 85669717,
+        "localadmin_id": 1127451030
+      }
     ],
-    "wof:id":1276637091,
-    "wof:lastmodified":1566677523,
-    "wof:name":"Pingting",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276637091,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Pingting",
+    "wof:parent_id": 1127451030,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.214,
     24.3201,
     105.214,
     24.3201
-],
-  "geometry": {"coordinates":[105.214,24.3201],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.214,
+      24.3201
+    ],
+    "type": "Point"
+  }
 }

@@ -2,79 +2,87 @@
   "id": 1293678499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.78939,33.70735,113.78939,33.70735",
-    "geom:latitude":33.70735,
-    "geom:longitude":113.78939,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Peicheng",
-    "gn:country_code":"CN",
-    "gn:dem":69,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8534578,
-    "gn:latitude":33.70735,
-    "gn:longitude":113.78939,
-    "gn:modification_date":"2013-06-05",
-    "gn:name":"Peicheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.76939,33.68735,113.80939,33.72735",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u88f4\u57ce",
-        "Peicheng Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.78939,33.70735,113.78939,33.70735",
+    "geom:latitude": 33.70735,
+    "geom:longitude": 113.78939,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Peicheng",
+    "gn:country_code": "CN",
+    "gn:dem": 69,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8534578,
+    "gn:latitude": 33.70735,
+    "gn:longitude": 113.78939,
+    "gn:modification_date": "2013-06-05",
+    "gn:name": "Peicheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.76939,33.68735,113.80939,33.72735",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "裴城",
+      "Peicheng Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u88f4\u57ce\u9547"
+    "name:zho_x_preferred": [
+      "裴城镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890516247
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890516247,
+      1127411103
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8534578
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8534578
     },
-    "wof:country":"CN",
-    "wof:geomhash":"255a8e78280b6a7eeba25968cf98c1f7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516247,
-            "empire_id":136253041,
-            "locality_id":1293678499,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "255a8e78280b6a7eeba25968cf98c1f7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516247,
+        "empire_id": 136253041,
+        "locality_id": 1293678499,
+        "region_id": 85669801,
+        "localadmin_id": 1127411103
+      }
     ],
-    "wof:id":1293678499,
-    "wof:lastmodified":1566669497,
-    "wof:name":"Peicheng",
-    "wof:parent_id":890516247,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293678499,
+    "wof:lastmodified": 1768669606,
+    "wof:name": "Peicheng",
+    "wof:parent_id": 1127411103,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.78939,
     33.70735,
     113.78939,
     33.70735
-],
-  "geometry": {"coordinates":[113.78939,33.70735],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.78939,
+      33.70735
+    ],
+    "type": "Point"
+  }
 }

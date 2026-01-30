@@ -2,75 +2,83 @@
   "id": 1326905809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.897,25.61,108.897,25.61",
-    "geom:latitude":25.61,
-    "geom:longitude":108.897,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Pingdang",
-    "gn:country_code":"CN",
-    "gn:dem":345,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10051742,
-    "gn:latitude":25.61,
-    "gn:longitude":108.897,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Pingdang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.877,25.59,108.917,25.63",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e73\u515a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.897,25.61,108.897,25.61",
+    "geom:latitude": 25.61,
+    "geom:longitude": 108.897,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Pingdang",
+    "gn:country_code": "CN",
+    "gn:dem": 345,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10051742,
+    "gn:latitude": 25.61,
+    "gn:longitude": 108.897,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Pingdang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.877,25.59,108.917,25.63",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "平党"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794067
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516015,
+      1108794067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10051742
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10051742
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b011194398a1ba9a7bb64db6d48e3b6e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794067,
-            "empire_id":136253041,
-            "locality_id":1326905809,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b011194398a1ba9a7bb64db6d48e3b6e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794067,
+        "empire_id": 136253041,
+        "locality_id": 1326905809,
+        "region_id": 85669781,
+        "localadmin_id": 890516015
+      }
     ],
-    "wof:id":1326905809,
-    "wof:lastmodified":1566653219,
-    "wof:name":"Pingdang",
-    "wof:parent_id":1108794067,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326905809,
+    "wof:lastmodified": 1768664982,
+    "wof:name": "Pingdang",
+    "wof:parent_id": 890516015,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.897,
     25.61,
     108.897,
     25.61
-],
-  "geometry": {"coordinates":[108.89700000000001,25.61],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.897,
+      25.61
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310682623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.765,22.0531,107.765,22.0531",
-    "geom:latitude":22.0531,
-    "geom:longitude":107.765,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Wangkang",
-    "gn:country_code":"CN",
-    "gn:dem":168,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9900765,
-    "gn:latitude":22.0531,
-    "gn:longitude":107.765,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Wangkang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.745,22.0331,107.785,22.0731",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65fa\u5eb7"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.765,22.0531,107.765,22.0531",
+    "geom:latitude": 22.0531,
+    "geom:longitude": 107.765,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Wangkang",
+    "gn:country_code": "CN",
+    "gn:dem": 168,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9900765,
+    "gn:latitude": 22.0531,
+    "gn:longitude": 107.765,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Wangkang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.745,22.0331,107.785,22.0731",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "旺康"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512639
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512639,
+      1127450621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9900765
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9900765
     },
-    "wof:country":"CN",
-    "wof:geomhash":"803bd2f2195325b7eb485b6bb255d380",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512639,
-            "empire_id":136253041,
-            "locality_id":1310682623,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "803bd2f2195325b7eb485b6bb255d380",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512639,
+        "empire_id": 136253041,
+        "locality_id": 1310682623,
+        "region_id": 85669717,
+        "localadmin_id": 1127450621
+      }
     ],
-    "wof:id":1310682623,
-    "wof:lastmodified":1566690676,
-    "wof:name":"Wangkang",
-    "wof:parent_id":890512639,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310682623,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Wangkang",
+    "wof:parent_id": 1127450621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.765,
     22.0531,
     107.765,
     22.0531
-],
-  "geometry": {"coordinates":[107.765,22.0531],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.765,
+      22.0531
+    ],
+    "type": "Point"
+  }
 }

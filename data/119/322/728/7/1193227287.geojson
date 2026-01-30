@@ -2,81 +2,89 @@
   "id": 1193227287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.08,30.802,105.08,30.802",
-    "geom:latitude":30.802,
-    "geom:longitude":105.08,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Chengjia",
-    "gn:country_code":"CN",
-    "gn:dem":429,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161549,
-    "gn:latitude":30.802,
-    "gn:longitude":105.08,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Chengjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.06,30.782,105.1,30.822",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:mar_x_preferred":[
-        "\u091a\u0947\u0902\u0917\u094d\u091c\u093f\u092f\u093e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.08,30.802,105.08,30.802",
+    "geom:latitude": 30.802,
+    "geom:longitude": 105.08,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Chengjia",
+    "gn:country_code": "CN",
+    "gn:dem": 429,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161549,
+    "gn:latitude": 30.802,
+    "gn:longitude": 105.08,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Chengjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.06,30.782,105.1,30.822",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:mar_x_preferred": [
+      "चेंग्जिया"
     ],
-    "name:tur_x_preferred":[
-        "Chengjia"
+    "name:tur_x_preferred": [
+      "Chengjia"
     ],
-    "name:zho_x_preferred":[
-        "\u7a0b\u5bb6"
+    "name:zho_x_preferred": [
+      "程家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513911,
+      890514157
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161549
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161549
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9a89696dc2a89a8984c62bdfa71bfe14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1193227287,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9a89696dc2a89a8984c62bdfa71bfe14",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1193227287,
+        "region_id": 85669787,
+        "localadmin_id": 890513911
+      }
     ],
-    "wof:id":1193227287,
-    "wof:lastmodified":1566685318,
-    "wof:name":"Chengjia",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193227287,
+    "wof:lastmodified": 1768668243,
+    "wof:name": "Chengjia",
+    "wof:parent_id": 890513911,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.08,
     30.802,
     105.08,
     30.802
-],
-  "geometry": {"coordinates":[105.08,30.802],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.08,
+      30.802
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1260141145,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.241,24.3767,102.241,24.3767",
-    "geom:latitude":24.3767,
-    "geom:longitude":102.241,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Gujing",
-    "gn:country_code":"CN",
-    "gn:dem":1832,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6824529,
-    "gn:latitude":24.3767,
-    "gn:longitude":102.241,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Gujing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.221,24.3567,102.261,24.3967",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53e4\u4e95"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.241,24.3767,102.241,24.3767",
+    "geom:latitude": 24.3767,
+    "geom:longitude": 102.241,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Gujing",
+    "gn:country_code": "CN",
+    "gn:dem": 1832,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6824529,
+    "gn:latitude": 24.3767,
+    "gn:longitude": 102.241,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Gujing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.221,24.3567,102.261,24.3967",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "古井"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890512033
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890512033,
+      1127530426
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6824529
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6824529
     },
-    "wof:country":"CN",
-    "wof:geomhash":"526d4ebef2b3a83c51b9b1cae68ab455",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512033,
-            "empire_id":136253041,
-            "locality_id":1260141145,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "526d4ebef2b3a83c51b9b1cae68ab455",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512033,
+        "empire_id": 136253041,
+        "locality_id": 1260141145,
+        "region_id": 85669791,
+        "localadmin_id": 1127530426
+      }
     ],
-    "wof:id":1260141145,
-    "wof:lastmodified":1566686499,
-    "wof:name":"Gujing",
-    "wof:parent_id":890512033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260141145,
+    "wof:lastmodified": 1768668616,
+    "wof:name": "Gujing",
+    "wof:parent_id": 1127530426,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.241,
     24.3767,
     102.241,
     24.3767
-],
-  "geometry": {"coordinates":[102.241,24.3767],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.241,
+      24.3767
+    ],
+    "type": "Point"
+  }
 }

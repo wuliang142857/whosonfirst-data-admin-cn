@@ -2,78 +2,86 @@
   "id": 1343542241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.89102,28.9545,110.89102,28.9545",
-    "geom:latitude":28.9545,
-    "geom:longitude":110.89102,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Sanxingqiao",
-    "gn:country_code":"CN",
-    "gn:dem":225,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8016571,
-    "gn:latitude":28.9545,
-    "gn:longitude":110.89102,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Sanxingqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.87102,28.9345,110.91102,28.9745",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Sanxingqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.89102,28.9545,110.89102,28.9545",
+    "geom:latitude": 28.9545,
+    "geom:longitude": 110.89102,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Sanxingqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 225,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8016571,
+    "gn:latitude": 28.9545,
+    "gn:longitude": 110.89102,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Sanxingqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.87102,28.9345,110.91102,28.9745",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Sanxingqiao"
     ],
-    "name:zho_x_variant":[
-        "\u4e09\u661f\u6865"
+    "name:zho_x_variant": [
+      "三星桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514349
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514349,
+      1127431222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8016571
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8016571
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a2225db2a96cd8fa5cd02cc53f16335b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514349,
-            "empire_id":136253041,
-            "locality_id":1343542241,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a2225db2a96cd8fa5cd02cc53f16335b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514349,
+        "empire_id": 136253041,
+        "locality_id": 1343542241,
+        "region_id": 85669781,
+        "localadmin_id": 1127431222
+      }
     ],
-    "wof:id":1343542241,
-    "wof:lastmodified":1566656713,
-    "wof:name":"Sanxingqiao",
-    "wof:parent_id":890514349,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343542241,
+    "wof:lastmodified": 1768670355,
+    "wof:name": "Sanxingqiao",
+    "wof:parent_id": 1127431222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.89102,
     28.9545,
     110.89102,
     28.9545
-],
-  "geometry": {"coordinates":[110.89102,28.9545],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.89102,
+      28.9545
+    ],
+    "type": "Point"
+  }
 }

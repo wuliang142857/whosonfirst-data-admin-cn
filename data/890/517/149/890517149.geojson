@@ -2,80 +2,88 @@
   "id": 890517149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.77944,28.40222,106.77944,28.40222",
-    "geom:latitude":28.40222,
-    "geom:longitude":106.77944,
-    "gn:country":"CN",
-    "gn:fcode":"PPL",
-    "gn:population":320,
-    "iso:country":"CN",
-    "lbl:bbox":"106.75944,28.38222,106.79944,28.42222",
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "name:und_x_variant":[
-        "Yeh-lang-pa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.77944,28.40222,106.77944,28.40222",
+    "geom:latitude": 28.40222,
+    "geom:longitude": 106.77944,
+    "gn:country": "CN",
+    "gn:fcode": "PPL",
+    "gn:population": 320,
+    "iso:country": "CN",
+    "lbl:bbox": "106.75944,28.38222,106.79944,28.42222",
+    "lbl:max_zoom": 17.0,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 11.0,
+    "name:und_x_variant": [
+      "Yeh-lang-pa"
     ],
-    "name:zho_x_preferred":[
-        "\u591c\u90ce"
+    "name:zho_x_preferred": [
+      "夜郎"
     ],
-    "name:zho_x_variant":[
-        "\u591c\u90ce\u9547"
+    "name:zho_x_variant": [
+      "夜郎镇"
     ],
-    "qs:name":"Yelangba",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"2",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516473
+    "qs:name": "Yelangba",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "2",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890515067,
+      890516473
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1786813,
-        "gp:id":2146643,
-        "qs_pg:id":559393
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1786813,
+      "gp:id": 2146643,
+      "qs_pg:id": 559393
     },
-    "wof:country":"CN",
-    "wof:created":1469055996,
-    "wof:geomhash":"0a70dd3c7d8bbd4fbfc946d9cbe6023a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516473,
-            "empire_id":136253041,
-            "locality_id":890517149,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055996,
+    "wof:geomhash": "0a70dd3c7d8bbd4fbfc946d9cbe6023a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516473,
+        "empire_id": 136253041,
+        "locality_id": 890517149,
+        "region_id": 85669721,
+        "localadmin_id": 890515067
+      }
     ],
-    "wof:id":890517149,
-    "wof:lastmodified":1566693594,
-    "wof:name":"Yelangba",
-    "wof:parent_id":890516473,
-    "wof:placetype":"locality",
-    "wof:population":320,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890517149,
+    "wof:lastmodified": 1768664929,
+    "wof:name": "Yelangba",
+    "wof:parent_id": 890515067,
+    "wof:placetype": "locality",
+    "wof:population": 320,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.77944,
     28.40222,
     106.77944,
     28.40222
-],
-  "geometry": {"coordinates":[106.77943999999999,28.40222],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.77944,
+      28.40222
+    ],
+    "type": "Point"
+  }
 }

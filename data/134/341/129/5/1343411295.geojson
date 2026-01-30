@@ -2,75 +2,83 @@
   "id": 1343411295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.63872,23.81284,116.63872,23.81284",
-    "geom:latitude":23.81284,
-    "geom:longitude":116.63872,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Dongshancun",
-    "gn:country_code":"CN",
-    "gn:dem":122,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10863893,
-    "gn:latitude":23.81284,
-    "gn:longitude":116.63872,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Dongshancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.61872,23.79284,116.65872,23.83284",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u5c71\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.63872,23.81284,116.63872,23.81284",
+    "geom:latitude": 23.81284,
+    "geom:longitude": 116.63872,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Dongshancun",
+    "gn:country_code": "CN",
+    "gn:dem": 122,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10863893,
+    "gn:latitude": 23.81284,
+    "gn:longitude": 116.63872,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Dongshancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.61872,23.79284,116.65872,23.83284",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513033
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513033,
+      890514017
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10863893
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10863893
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d5c5f32e9be48aa168af2f296063feb8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513033,
-            "empire_id":136253041,
-            "locality_id":1343411295,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d5c5f32e9be48aa168af2f296063feb8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513033,
+        "empire_id": 136253041,
+        "locality_id": 1343411295,
+        "region_id": 85669743,
+        "localadmin_id": 890514017
+      }
     ],
-    "wof:id":1343411295,
-    "wof:lastmodified":1566659140,
-    "wof:name":"Dongshancun",
-    "wof:parent_id":890513033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343411295,
+    "wof:lastmodified": 1768667785,
+    "wof:name": "Dongshancun",
+    "wof:parent_id": 890514017,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.63872,
     23.81284,
     116.63872,
     23.81284
-],
-  "geometry": {"coordinates":[116.63872000000001,23.81284],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.63872,
+      23.81284
+    ],
+    "type": "Point"
+  }
 }

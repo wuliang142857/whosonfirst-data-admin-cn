@@ -2,83 +2,91 @@
   "id": 1326513259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"88.002,29.102,88.002,29.102",
-    "geom:latitude":29.102,
-    "geom:longitude":88.002,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Resha",
-    "gn:country_code":"CN",
-    "gn:dem":4423,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8049535,
-    "gn:latitude":29.102,
-    "gn:longitude":88.002,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Resha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"87.982,29.082,88.022,29.122",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "R\u00easa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "88.002,29.102,88.002,29.102",
+    "geom:latitude": 29.102,
+    "geom:longitude": 88.002,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Resha",
+    "gn:country_code": "CN",
+    "gn:dem": 4423,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8049535,
+    "gn:latitude": 29.102,
+    "gn:longitude": 88.002,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Resha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "87.982,29.082,88.022,29.122",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Rêsa"
     ],
-    "name:zho_x_preferred":[
-        "Resha"
+    "name:zho_x_preferred": [
+      "Resha"
     ],
-    "name:zho_x_variant":[
-        "\u70ed\u6c99",
-        "Qianggong",
-        "\u5f3a\u516c"
+    "name:zho_x_variant": [
+      "热沙",
+      "Qianggong",
+      "强公"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890514857,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8049535
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8049535
     },
-    "wof:country":"CN",
-    "wof:geomhash":"498340bb0b61b28bc71c85405d0b967b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1326513259,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "498340bb0b61b28bc71c85405d0b967b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1326513259,
+        "region_id": 85669747,
+        "localadmin_id": 890514857
+      }
     ],
-    "wof:id":1326513259,
-    "wof:lastmodified":1566648522,
-    "wof:name":"Resha",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326513259,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Resha",
+    "wof:parent_id": 890514857,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     88.00200000000002,
     29.102,
     88.00200000000002,
     29.102
-],
-  "geometry": {"coordinates":[88.00200000000002,29.102],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      88.00200000000002,
+      29.102
+    ],
+    "type": "Point"
+  }
 }

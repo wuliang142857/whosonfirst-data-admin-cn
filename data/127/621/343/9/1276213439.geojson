@@ -2,80 +2,88 @@
   "id": 1276213439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.5475,32.68111,110.5475,32.68111",
-    "geom:latitude":32.68111,
-    "geom:longitude":110.5475,
-    "gn:admin1_code":"12",
-    "gn:asciiname":"Huanglongtan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":210,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1807360,
-    "gn:latitude":32.68111,
-    "gn:longitude":110.5475,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Huanglongtan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.5275,32.66111,110.5675,32.70111",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hwanglungchen",
-        "Wanglungchen",
-        "Huang-lung-t\u2019an",
-        "Huang-lung-chen",
-        "Huanglongtan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.5475,32.68111,110.5475,32.68111",
+    "geom:latitude": 32.68111,
+    "geom:longitude": 110.5475,
+    "gn:admin1_code": "12",
+    "gn:asciiname": "Huanglongtan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 210,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1807360,
+    "gn:latitude": 32.68111,
+    "gn:longitude": 110.5475,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Huanglongtan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.5275,32.66111,110.5675,32.70111",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hwanglungchen",
+      "Wanglungchen",
+      "Huang-lung-t’an",
+      "Huang-lung-chen",
+      "Huanglongtan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890515173
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890515173,
+      1127420303
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1807360
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1807360
     },
-    "wof:country":"CN",
-    "wof:geomhash":"801589457c5be5eb5202aa9fc6b7e9db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515173,
-            "empire_id":136253041,
-            "locality_id":1276213439,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "801589457c5be5eb5202aa9fc6b7e9db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515173,
+        "empire_id": 136253041,
+        "locality_id": 1276213439,
+        "region_id": 85669777,
+        "localadmin_id": 1127420303
+      }
     ],
-    "wof:id":1276213439,
-    "wof:lastmodified":1566673127,
-    "wof:name":"Huanglongtan",
-    "wof:parent_id":890515173,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276213439,
+    "wof:lastmodified": 1768666145,
+    "wof:name": "Huanglongtan",
+    "wof:parent_id": 1127420303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.5475,
     32.68111,
     110.5475,
     32.68111
-],
-  "geometry": {"coordinates":[110.5475,32.68111],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.5475,
+      32.68111
+    ],
+    "type": "Point"
+  }
 }

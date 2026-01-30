@@ -2,75 +2,83 @@
   "id": 1260368911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.9276,38.9796,113.9276,38.9796",
-    "geom:latitude":38.9796,
-    "geom:longitude":113.9276,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Sancha",
-    "gn:country_code":"CN",
-    "gn:dem":1294,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11070988,
-    "gn:latitude":38.9796,
-    "gn:longitude":113.9276,
-    "gn:modification_date":"2016-02-08",
-    "gn:name":"Sancha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.9076,38.9596,113.9476,38.9996",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u5c94"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.9276,38.9796,113.9276,38.9796",
+    "geom:latitude": 38.9796,
+    "geom:longitude": 113.9276,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Sancha",
+    "gn:country_code": "CN",
+    "gn:dem": 1294,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11070988,
+    "gn:latitude": 38.9796,
+    "gn:longitude": 113.9276,
+    "gn:modification_date": "2016-02-08",
+    "gn:name": "Sancha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.9076,38.9596,113.9476,38.9996",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三岔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513095
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513095,
+      1127130624
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11070988
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11070988
     },
-    "wof:country":"CN",
-    "wof:geomhash":"43e8a1b2fac913a969059f47df0ef491",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513095,
-            "empire_id":136253041,
-            "locality_id":1260368911,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "43e8a1b2fac913a969059f47df0ef491",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513095,
+        "empire_id": 136253041,
+        "locality_id": 1260368911,
+        "region_id": 85669797,
+        "localadmin_id": 1127130624
+      }
     ],
-    "wof:id":1260368911,
-    "wof:lastmodified":1566686780,
-    "wof:name":"Sancha",
-    "wof:parent_id":890513095,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260368911,
+    "wof:lastmodified": 1768669442,
+    "wof:name": "Sancha",
+    "wof:parent_id": 1127130624,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.9276,
     38.9796,
     113.9276,
     38.9796
-],
-  "geometry": {"coordinates":[113.9276,38.9796],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.9276,
+      38.9796
+    ],
+    "type": "Point"
+  }
 }

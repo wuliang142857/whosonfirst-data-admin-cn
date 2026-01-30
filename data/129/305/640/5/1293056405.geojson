@@ -2,78 +2,86 @@
   "id": 1293056405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.364,35.7949,117.364,35.7949",
-    "geom:latitude":35.7949,
-    "geom:longitude":117.364,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Pipa'an",
-    "gn:country_code":"CN",
-    "gn:dem":190,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9118176,
-    "gn:latitude":35.7949,
-    "gn:longitude":117.364,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Pipa\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.344,35.7749,117.384,35.8149",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pipa\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.364,35.7949,117.364,35.7949",
+    "geom:latitude": 35.7949,
+    "geom:longitude": 117.364,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Pipa'an",
+    "gn:country_code": "CN",
+    "gn:dem": 190,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9118176,
+    "gn:latitude": 35.7949,
+    "gn:longitude": 117.364,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Pipa’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.344,35.7749,117.384,35.8149",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pipa’an"
     ],
-    "name:zho_x_preferred":[
-        "\u7435\u7436\u5eb5"
+    "name:zho_x_preferred": [
+      "琵琶庵"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514275,
+      890515833
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9118176
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9118176
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1ff87ab377fae858ec01244e5b442ffb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515833,
-            "empire_id":136253041,
-            "locality_id":1293056405,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1ff87ab377fae858ec01244e5b442ffb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515833,
+        "empire_id": 136253041,
+        "locality_id": 1293056405,
+        "region_id": 85669813,
+        "localadmin_id": 890514275
+      }
     ],
-    "wof:id":1293056405,
-    "wof:lastmodified":1566669878,
-    "wof:name":"Pipa'an",
-    "wof:parent_id":890515833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293056405,
+    "wof:lastmodified": 1768668331,
+    "wof:name": "Pipa'an",
+    "wof:parent_id": 890514275,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.364,
     35.7949,
     117.364,
     35.7949
-],
-  "geometry": {"coordinates":[117.364,35.7949],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.364,
+      35.7949
+    ],
+    "type": "Point"
+  }
 }

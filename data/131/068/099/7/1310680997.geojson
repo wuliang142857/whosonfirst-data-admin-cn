@@ -2,82 +2,90 @@
   "id": 1310680997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.01569,31.49319,114.01569,31.49319",
-    "geom:latitude":31.49319,
-    "geom:longitude":114.01569,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Yangzhai",
-    "gn:country_code":"CN",
-    "gn:dem":96,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1787497,
-    "gn:latitude":31.49319,
-    "gn:longitude":114.01569,
-    "gn:modification_date":"2013-07-05",
-    "gn:name":"Yangzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.99569,31.47319,114.03569,31.51319",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yang-chia-chia",
-        "Yangkiachai",
-        "Yang-chia-chai",
-        "Yangjiazhai",
-        "Yangzhai",
-        "\u6768\u5be8",
-        "Yangzhai Zhen",
-        "\u6768\u5be8\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.01569,31.49319,114.01569,31.49319",
+    "geom:latitude": 31.49319,
+    "geom:longitude": 114.01569,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Yangzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 96,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1787497,
+    "gn:latitude": 31.49319,
+    "gn:longitude": 114.01569,
+    "gn:modification_date": "2013-07-05",
+    "gn:name": "Yangzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.99569,31.47319,114.03569,31.51319",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yang-chia-chia",
+      "Yangkiachai",
+      "Yang-chia-chai",
+      "Yangjiazhai",
+      "Yangzhai",
+      "杨寨",
+      "Yangzhai Zhen",
+      "杨寨镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512727,
+      890514467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1787497
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1787497
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8b8722c93298a0a2883f27e4dafbf364",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514467,
-            "empire_id":136253041,
-            "locality_id":1310680997,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8b8722c93298a0a2883f27e4dafbf364",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514467,
+        "empire_id": 136253041,
+        "locality_id": 1310680997,
+        "region_id": 85669777,
+        "localadmin_id": 890512727
+      }
     ],
-    "wof:id":1310680997,
-    "wof:lastmodified":1566690648,
-    "wof:name":"Yangzhai",
-    "wof:parent_id":890514467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310680997,
+    "wof:lastmodified": 1768665647,
+    "wof:name": "Yangzhai",
+    "wof:parent_id": 890512727,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.01569,
     31.49319,
     114.01569,
     31.49319
-],
-  "geometry": {"coordinates":[114.01569000000001,31.49319],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.01569,
+      31.49319
+    ],
+    "type": "Point"
+  }
 }

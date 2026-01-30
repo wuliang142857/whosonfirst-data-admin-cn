@@ -2,84 +2,92 @@
   "id": 1343312335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.38044,24.93508,102.38044,24.93508",
-    "geom:latitude":24.93508,
-    "geom:longitude":102.38044,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Caopujie",
-    "gn:country_code":"CN",
-    "gn:dem":1907,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":6824213,
-    "gn:latitude":24.93508,
-    "gn:longitude":102.38044,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Caopujie",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.36044,24.91508,102.40044,24.95508",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Caopu Zhen",
-        "Caopu",
-        "\u8349\u94fa\u9547",
-        "Caopujie"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.38044,24.93508,102.38044,24.93508",
+    "geom:latitude": 24.93508,
+    "geom:longitude": 102.38044,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Caopujie",
+    "gn:country_code": "CN",
+    "gn:dem": 1907,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 6824213,
+    "gn:latitude": 24.93508,
+    "gn:longitude": 102.38044,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Caopujie",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.36044,24.91508,102.40044,24.95508",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Caopu Zhen",
+      "Caopu",
+      "草铺镇",
+      "Caopujie"
     ],
-    "name:zho_x_preferred":[
-        "\u8349\u94fa"
+    "name:zho_x_preferred": [
+      "草铺"
     ],
-    "name:zho_x_variant":[
-        "\u8349\u94fa\u8857"
+    "name:zho_x_variant": [
+      "草铺街"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530181
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6824213
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6824213
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1c75dc2c1ed3c32ed753cd2ee251fc07",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1343312335,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1c75dc2c1ed3c32ed753cd2ee251fc07",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1343312335,
+        "region_id": 85669791,
+        "localadmin_id": 1127530181
+      }
     ],
-    "wof:id":1343312335,
-    "wof:lastmodified":1566655974,
-    "wof:name":"Caopujie",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343312335,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Caopujie",
+    "wof:parent_id": 1127530181,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.38044,
     24.93508,
     102.38044,
     24.93508
-],
-  "geometry": {"coordinates":[102.38043999999999,24.93508],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.38044,
+      24.93508
+    ],
+    "type": "Point"
+  }
 }

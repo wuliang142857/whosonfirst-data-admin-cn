@@ -2,87 +2,95 @@
   "id": 1276410919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"96.301,31.301,96.301,31.301",
-    "geom:latitude":31.301,
-    "geom:longitude":96.301,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Tungru",
-    "gn:country_code":"CN",
-    "gn:dem":4255,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":7927710,
-    "gn:latitude":31.301,
-    "gn:longitude":96.301,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Tungru",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"96.281,31.281,96.321,31.321",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Tungru"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "96.301,31.301,96.301,31.301",
+    "geom:latitude": 31.301,
+    "geom:longitude": 96.301,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Tungru",
+    "gn:country_code": "CN",
+    "gn:dem": 4255,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 7927710,
+    "gn:latitude": 31.301,
+    "gn:longitude": 96.301,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Tungru",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "96.281,31.281,96.321,31.321",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Tungru"
     ],
-    "name:msa_x_preferred":[
-        "Tungru"
+    "name:msa_x_preferred": [
+      "Tungru"
     ],
-    "name:zho_x_preferred":[
-        "Duri"
+    "name:zho_x_preferred": [
+      "Duri"
     ],
-    "name:zho_x_variant":[
-        "\u675c\u65e5",
-        "Xietang",
-        "\u534f\u5858",
-        "\u4e1c\u6c5d\u4e61"
+    "name:zho_x_variant": [
+      "杜日",
+      "Xietang",
+      "协塘",
+      "东汝乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890514545
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890514545,
+      1127540323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7927710
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7927710
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2521f6fc3beba74cd70a359c44586b8d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514545,
-            "empire_id":136253041,
-            "locality_id":1276410919,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2521f6fc3beba74cd70a359c44586b8d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514545,
+        "empire_id": 136253041,
+        "locality_id": 1276410919,
+        "region_id": 85669747,
+        "localadmin_id": 1127540323
+      }
     ],
-    "wof:id":1276410919,
-    "wof:lastmodified":1566676796,
-    "wof:name":"Tungru",
-    "wof:parent_id":890514545,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276410919,
+    "wof:lastmodified": 1768664896,
+    "wof:name": "Tungru",
+    "wof:parent_id": 1127540323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     96.301,
     31.301,
     96.301,
     31.301
-],
-  "geometry": {"coordinates":[96.301,31.301],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      96.301,
+      31.301
+    ],
+    "type": "Point"
+  }
 }

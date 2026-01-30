@@ -2,84 +2,92 @@
   "id": 1310386953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.364,24.167,107.364,24.167",
-    "geom:latitude":24.167,
-    "geom:longitude":107.364,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Kema",
-    "gn:country_code":"CN",
-    "gn:dem":478,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9926781,
-    "gn:latitude":24.167,
-    "gn:longitude":107.364,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Kema",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.344,24.147,107.384,24.187",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Kema"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.364,24.167,107.364,24.167",
+    "geom:latitude": 24.167,
+    "geom:longitude": 107.364,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Kema",
+    "gn:country_code": "CN",
+    "gn:dem": 478,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9926781,
+    "gn:latitude": 24.167,
+    "gn:longitude": 107.364,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Kema",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.344,24.147,107.384,24.187",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Kema"
     ],
-    "name:deu_x_preferred":[
-        "Kema"
+    "name:deu_x_preferred": [
+      "Kema"
     ],
-    "name:swe_x_preferred":[
-        "Kema"
+    "name:swe_x_preferred": [
+      "Kema"
     ],
-    "name:zho_x_preferred":[
-        "\u53ef\u9a6c"
+    "name:zho_x_preferred": [
+      "可马"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514011,
+      1108732453
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9926781
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9926781
     },
-    "wof:country":"CN",
-    "wof:geomhash":"db2567634b09c6add84f1c1480d81241",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1310386953,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "db2567634b09c6add84f1c1480d81241",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1310386953,
+        "region_id": 85669717,
+        "localadmin_id": 890514011
+      }
     ],
-    "wof:id":1310386953,
-    "wof:lastmodified":1566688784,
-    "wof:name":"Kema",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310386953,
+    "wof:lastmodified": 1768665535,
+    "wof:name": "Kema",
+    "wof:parent_id": 890514011,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.364,
     24.167,
     107.364,
     24.167
-],
-  "geometry": {"coordinates":[107.364,24.167],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.364,
+      24.167
+    ],
+    "type": "Point"
+  }
 }

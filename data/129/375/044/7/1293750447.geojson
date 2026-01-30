@@ -2,75 +2,83 @@
   "id": 1293750447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.01686,36.17246,110.01686,36.17246",
-    "geom:latitude":36.17246,
-    "geom:longitude":110.01686,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Heijiagou",
-    "gn:country_code":"CN",
-    "gn:dem":1115,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11195200,
-    "gn:latitude":36.17246,
-    "gn:longitude":110.01686,
-    "gn:modification_date":"2017-01-06",
-    "gn:name":"Heijiagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.99686,36.15246,110.03686,36.19246",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ed1\u5bb6\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.01686,36.17246,110.01686,36.17246",
+    "geom:latitude": 36.17246,
+    "geom:longitude": 110.01686,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Heijiagou",
+    "gn:country_code": "CN",
+    "gn:dem": 1115,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11195200,
+    "gn:latitude": 36.17246,
+    "gn:longitude": 110.01686,
+    "gn:modification_date": "2017-01-06",
+    "gn:name": "Heijiagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.99686,36.15246,110.03686,36.19246",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黑家沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516587
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516587,
+      1127610630
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11195200
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11195200
     },
-    "wof:country":"CN",
-    "wof:geomhash":"98de05aeb9ab429673c5357f62d609d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516587,
-            "empire_id":136253041,
-            "locality_id":1293750447,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "98de05aeb9ab429673c5357f62d609d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516587,
+        "empire_id": 136253041,
+        "locality_id": 1293750447,
+        "region_id": 85669769,
+        "localadmin_id": 1127610630
+      }
     ],
-    "wof:id":1293750447,
-    "wof:lastmodified":1566671871,
-    "wof:name":"Heijiagou",
-    "wof:parent_id":890516587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293750447,
+    "wof:lastmodified": 1768667666,
+    "wof:name": "Heijiagou",
+    "wof:parent_id": 1127610630,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.01686,
     36.17246,
     110.01686,
     36.17246
-],
-  "geometry": {"coordinates":[110.01685999999999,36.17246],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.01686,
+      36.17246
+    ],
+    "type": "Point"
+  }
 }

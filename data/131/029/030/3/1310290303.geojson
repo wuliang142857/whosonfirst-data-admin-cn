@@ -2,81 +2,89 @@
   "id": 1310290303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.002,47.05997,127.002,47.05997",
-    "geom:latitude":47.05997,
-    "geom:longitude":127.002,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Zhangxiong",
-    "gn:country_code":"CN",
-    "gn:dem":165,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8512154,
-    "gn:latitude":47.05997,
-    "gn:longitude":127.002,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Zhangxiong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.982,47.03997,127.022,47.07997",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhangxiong Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "127.002,47.05997,127.002,47.05997",
+    "geom:latitude": 47.05997,
+    "geom:longitude": 127.002,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Zhangxiong",
+    "gn:country_code": "CN",
+    "gn:dem": 165,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8512154,
+    "gn:latitude": 47.05997,
+    "gn:longitude": 127.002,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Zhangxiong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.982,47.03997,127.022,47.07997",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhangxiong Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u5f20\u96c4"
+    "name:zho_x_preferred": [
+      "张雄"
     ],
-    "name:zho_x_variant":[
-        "\u5f20\u96c4\u9547"
+    "name:zho_x_variant": [
+      "张雄镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8512154
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8512154
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9921839570a3dbc1e1833231653a5855",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1310290303,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9921839570a3dbc1e1833231653a5855",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1310290303,
+        "region_id": 85669849,
+        "localadmin_id": 1127231202
+      }
     ],
-    "wof:id":1310290303,
-    "wof:lastmodified":1566689961,
-    "wof:name":"Zhangxiong",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310290303,
+    "wof:lastmodified": 1768668894,
+    "wof:name": "Zhangxiong",
+    "wof:parent_id": 1127231202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     127.002,
     47.05997,
     127.002,
     47.05997
-],
-  "geometry": {"coordinates":[127.002,47.05997],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      127.002,
+      47.05997
+    ],
+    "type": "Point"
+  }
 }

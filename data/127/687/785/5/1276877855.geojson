@@ -2,75 +2,83 @@
   "id": 1276877855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.79968,33.49432,119.79968,33.49432",
-    "geom:latitude":33.49432,
-    "geom:longitude":119.79968,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Chenbucun",
-    "gn:country_code":"CN",
-    "gn:dem":0,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11575767,
-    "gn:latitude":33.49432,
-    "gn:longitude":119.79968,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Chenbucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.77968,33.47432,119.81968,33.51432",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u5821\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.79968,33.49432,119.79968,33.49432",
+    "geom:latitude": 33.49432,
+    "geom:longitude": 119.79968,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Chenbucun",
+    "gn:country_code": "CN",
+    "gn:dem": 0,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11575767,
+    "gn:latitude": 33.49432,
+    "gn:longitude": 119.79968,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Chenbucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.77968,33.47432,119.81968,33.51432",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈堡村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514959,
+      890515153
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11575767
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11575767
     },
-    "wof:country":"CN",
-    "wof:geomhash":"093881c0a0affcc96122293fe57f181f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1276877855,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "093881c0a0affcc96122293fe57f181f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1276877855,
+        "region_id": 85669827,
+        "localadmin_id": 890514959
+      }
     ],
-    "wof:id":1276877855,
-    "wof:lastmodified":1566673612,
-    "wof:name":"Chenbucun",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276877855,
+    "wof:lastmodified": 1768670805,
+    "wof:name": "Chenbucun",
+    "wof:parent_id": 890514959,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.79968,
     33.49432,
     119.79968,
     33.49432
-],
-  "geometry": {"coordinates":[119.79968,33.49432],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.79968,
+      33.49432
+    ],
+    "type": "Point"
+  }
 }

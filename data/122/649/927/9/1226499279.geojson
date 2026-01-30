@@ -2,79 +2,87 @@
   "id": 1226499279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.93659,34.05796,109.93659,34.05796",
-    "geom:latitude":34.05796,
-    "geom:longitude":109.93659,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Yaoshi",
-    "gn:country_code":"CN",
-    "gn:dem":875,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1786926,
-    "gn:latitude":34.05796,
-    "gn:longitude":109.93659,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Yaoshi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.91659,34.03796,109.95659,34.07796",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yao-shih",
-        "Yao-ssu",
-        "\u8170\u5e02",
-        "Yaoshi",
-        "Yaoshi Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.93659,34.05796,109.93659,34.05796",
+    "geom:latitude": 34.05796,
+    "geom:longitude": 109.93659,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Yaoshi",
+    "gn:country_code": "CN",
+    "gn:dem": 875,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1786926,
+    "gn:latitude": 34.05796,
+    "gn:longitude": 109.93659,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Yaoshi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.91659,34.03796,109.95659,34.07796",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yao-shih",
+      "Yao-ssu",
+      "腰市",
+      "Yaoshi",
+      "Yaoshi Zhen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611002
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1786926
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1786926
     },
-    "wof:country":"CN",
-    "wof:geomhash":"28fdd6879d2fbac6fa0dd31995b267ba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1226499279,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "28fdd6879d2fbac6fa0dd31995b267ba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1226499279,
+        "region_id": 85669769,
+        "localadmin_id": 1127611002
+      }
     ],
-    "wof:id":1226499279,
-    "wof:lastmodified":1566704103,
-    "wof:name":"Yaoshi",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226499279,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Yaoshi",
+    "wof:parent_id": 1127611002,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.93659,
     34.05795999999999,
     109.93659,
     34.05795999999999
-],
-  "geometry": {"coordinates":[109.93659,34.05795999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.93659,
+      34.05795999999999
+    ],
+    "type": "Point"
+  }
 }

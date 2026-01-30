@@ -2,75 +2,83 @@
   "id": 1226134091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.74918,25.62939,119.74918,25.62939",
-    "geom:latitude":25.62939,
-    "geom:longitude":119.74918,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Rongshan",
-    "gn:country_code":"CN",
-    "gn:dem":24,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8574707,
-    "gn:latitude":25.62939,
-    "gn:longitude":119.74918,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Rongshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.72918,25.60939,119.76918,25.64939",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6995\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.74918,25.62939,119.74918,25.62939",
+    "geom:latitude": 25.62939,
+    "geom:longitude": 119.74918,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Rongshan",
+    "gn:country_code": "CN",
+    "gn:dem": 24,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8574707,
+    "gn:latitude": 25.62939,
+    "gn:longitude": 119.74918,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Rongshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.72918,25.60939,119.76918,25.64939",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "榕山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512665,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8574707
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8574707
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6759babf54085cd19598dc10a6406182",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1226134091,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6759babf54085cd19598dc10a6406182",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1226134091,
+        "region_id": 85669735,
+        "localadmin_id": 890512665
+      }
     ],
-    "wof:id":1226134091,
-    "wof:lastmodified":1566703673,
-    "wof:name":"Rongshan",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226134091,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Rongshan",
+    "wof:parent_id": 890512665,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.74918,
     25.62939,
     119.74918,
     25.62939
-],
-  "geometry": {"coordinates":[119.74918,25.62939],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.74918,
+      25.62939
+    ],
+    "type": "Point"
+  }
 }

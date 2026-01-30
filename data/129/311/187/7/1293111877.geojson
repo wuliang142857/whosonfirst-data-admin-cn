@@ -2,87 +2,95 @@
   "id": 1293111877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.65952,32.51609,117.65952,32.51609",
-    "geom:latitude":32.51609,
-    "geom:longitude":117.65952,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Dingcheng",
-    "gn:country_code":"CN",
-    "gn:dem":68,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1812818,
-    "gn:latitude":32.51609,
-    "gn:longitude":117.65952,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Dingcheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.63952,32.49609,117.67952,32.53609",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Dingcheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.65952,32.51609,117.65952,32.51609",
+    "geom:latitude": 32.51609,
+    "geom:longitude": 117.65952,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Dingcheng",
+    "gn:country_code": "CN",
+    "gn:dem": 68,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1812818,
+    "gn:latitude": 32.51609,
+    "gn:longitude": 117.65952,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Dingcheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.63952,32.49609,117.67952,32.53609",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Dingcheng"
     ],
-    "name:und_x_variant":[
-        "Dingyuan"
+    "name:und_x_variant": [
+      "Dingyuan"
     ],
-    "name:zho_x_preferred":[
-        "Y\u00fcan-t\u2019ing"
+    "name:zho_x_preferred": [
+      "Yüan-t’ing"
     ],
-    "name:zho_x_variant":[
-        "Ting-ch\u2019eng-chen",
-        "\u5b9a\u57ce",
-        "Ting-y\u00fcan-hsien",
-        "Ting-y\u00fcan"
+    "name:zho_x_variant": [
+      "Ting-ch’eng-chen",
+      "定城",
+      "Ting-yüan-hsien",
+      "Ting-yüan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513329
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513329,
+      1127341125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1812818
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1812818
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7d82facc3ae237b092c32b9ee670d00f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513329,
-            "empire_id":136253041,
-            "locality_id":1293111877,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7d82facc3ae237b092c32b9ee670d00f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513329,
+        "empire_id": 136253041,
+        "locality_id": 1293111877,
+        "region_id": 85669739,
+        "localadmin_id": 1127341125
+      }
     ],
-    "wof:id":1293111877,
-    "wof:lastmodified":1566670700,
-    "wof:name":"Dingcheng",
-    "wof:parent_id":890513329,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293111877,
+    "wof:lastmodified": 1768669862,
+    "wof:name": "Dingcheng",
+    "wof:parent_id": 1127341125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.65952,
     32.51609000000001,
     117.65952,
     32.51609000000001
-],
-  "geometry": {"coordinates":[117.65952,32.51609000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.65952,
+      32.51609000000001
+    ],
+    "type": "Point"
+  }
 }

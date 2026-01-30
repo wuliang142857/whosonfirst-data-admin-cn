@@ -2,75 +2,83 @@
   "id": 1276412591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.675,23.1171,105.675,23.1171",
-    "geom:latitude":23.1171,
-    "geom:longitude":105.675,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Nameng",
-    "gn:country_code":"CN",
-    "gn:dem":396,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1800203,
-    "gn:latitude":23.1171,
-    "gn:longitude":105.675,
-    "gn:modification_date":"2015-01-07",
-    "gn:name":"Nameng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.655,23.0971,105.695,23.1371",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a3\u5b5f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.675,23.1171,105.675,23.1171",
+    "geom:latitude": 23.1171,
+    "geom:longitude": 105.675,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Nameng",
+    "gn:country_code": "CN",
+    "gn:dem": 396,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1800203,
+    "gn:latitude": 23.1171,
+    "gn:longitude": 105.675,
+    "gn:modification_date": "2015-01-07",
+    "gn:name": "Nameng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.655,23.0971,105.695,23.1371",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "那孟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451026
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800203
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800203
     },
-    "wof:country":"CN",
-    "wof:geomhash":"21138a08bc803430879f9c9de2d7c27d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1276412591,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "21138a08bc803430879f9c9de2d7c27d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1276412591,
+        "region_id": 85669717,
+        "localadmin_id": 1127451026
+      }
     ],
-    "wof:id":1276412591,
-    "wof:lastmodified":1566676798,
-    "wof:name":"Nameng",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276412591,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Nameng",
+    "wof:parent_id": 1127451026,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.675,
     23.1171,
     105.675,
     23.1171
-],
-  "geometry": {"coordinates":[105.675,23.1171],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.675,
+      23.1171
+    ],
+    "type": "Point"
+  }
 }

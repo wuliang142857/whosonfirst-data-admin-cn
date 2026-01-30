@@ -2,75 +2,83 @@
   "id": 1327482839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.64,31.1602,106.64,31.1602",
-    "geom:latitude":31.1602,
-    "geom:longitude":106.64,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Laodian",
-    "gn:country_code":"CN",
-    "gn:dem":390,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10160495,
-    "gn:latitude":31.1602,
-    "gn:longitude":106.64,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Laodian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.62,31.1402,106.66,31.1802",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8001\u5e97"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.64,31.1602,106.64,31.1602",
+    "geom:latitude": 31.1602,
+    "geom:longitude": 106.64,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Laodian",
+    "gn:country_code": "CN",
+    "gn:dem": 390,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10160495,
+    "gn:latitude": 31.1602,
+    "gn:longitude": 106.64,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Laodian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.62,31.1402,106.66,31.1802",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "老店"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      1127511322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10160495
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10160495
     },
-    "wof:country":"CN",
-    "wof:geomhash":"80fd1d15ab66ea6074ea919596418322",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1327482839,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "80fd1d15ab66ea6074ea919596418322",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1327482839,
+        "region_id": 85669787,
+        "localadmin_id": 1127511322
+      }
     ],
-    "wof:id":1327482839,
-    "wof:lastmodified":1566650875,
-    "wof:name":"Laodian",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327482839,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Laodian",
+    "wof:parent_id": 1127511322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.64,
     31.1602,
     106.64,
     31.1602
-],
-  "geometry": {"coordinates":[106.64,31.1602],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.64,
+      31.1602
+    ],
+    "type": "Point"
+  }
 }

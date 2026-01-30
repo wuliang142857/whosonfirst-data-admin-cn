@@ -2,75 +2,83 @@
   "id": 1343618323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.89087,33.26586,109.89087,33.26586",
-    "geom:latitude":33.26586,
-    "geom:longitude":109.89087,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Hetaoya",
-    "gn:country_code":"CN",
-    "gn:dem":1123,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11317319,
-    "gn:latitude":33.26586,
-    "gn:longitude":109.89087,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Hetaoya",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.87087,33.24586,109.91087,33.28586",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6838\u6843\u57ad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.89087,33.26586,109.89087,33.26586",
+    "geom:latitude": 33.26586,
+    "geom:longitude": 109.89087,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Hetaoya",
+    "gn:country_code": "CN",
+    "gn:dem": 1123,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11317319,
+    "gn:latitude": 33.26586,
+    "gn:longitude": 109.89087,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Hetaoya",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.87087,33.24586,109.91087,33.28586",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "核桃垭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611024
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11317319
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11317319
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5fc114df3772606b334cb126532150cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1343618323,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5fc114df3772606b334cb126532150cc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1343618323,
+        "region_id": 85669769,
+        "localadmin_id": 1127611024
+      }
     ],
-    "wof:id":1343618323,
-    "wof:lastmodified":1566660642,
-    "wof:name":"Hetaoya",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343618323,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Hetaoya",
+    "wof:parent_id": 1127611024,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.89087,
     33.26586,
     109.89087,
     33.26586
-],
-  "geometry": {"coordinates":[109.89087000000001,33.26586],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.89087,
+      33.26586
+    ],
+    "type": "Point"
+  }
 }

@@ -2,87 +2,95 @@
   "id": 1310186705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.842,22.8708,106.842,22.8708",
-    "geom:latitude":22.8708,
-    "geom:longitude":106.842,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Longrun",
-    "gn:country_code":"CN",
-    "gn:dem":325,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9906189,
-    "gn:latitude":22.8708,
-    "gn:longitude":106.842,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Longrun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.822,22.8508,106.862,22.8908",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Long Run"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.842,22.8708,106.842,22.8708",
+    "geom:latitude": 22.8708,
+    "geom:longitude": 106.842,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Longrun",
+    "gn:country_code": "CN",
+    "gn:dem": 325,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9906189,
+    "gn:latitude": 22.8708,
+    "gn:longitude": 106.842,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Longrun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.822,22.8508,106.862,22.8908",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Long Run"
     ],
-    "name:deu_x_preferred":[
-        "Long Run"
+    "name:deu_x_preferred": [
+      "Long Run"
     ],
-    "name:jpn_x_preferred":[
-        "\u30ed\u30f3\u30b0\u30e9\u30f3"
+    "name:jpn_x_preferred": [
+      "ロングラン"
     ],
-    "name:swe_x_preferred":[
-        "Long Run"
+    "name:swe_x_preferred": [
+      "Long Run"
     ],
-    "name:zho_x_preferred":[
-        "\u9647\u6da6"
+    "name:zho_x_preferred": [
+      "陇润"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890513103
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513103,
+      1127451424
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9906189
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9906189
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ff93df08223bb95c6579892982c44340",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513103,
-            "empire_id":136253041,
-            "locality_id":1310186705,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ff93df08223bb95c6579892982c44340",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513103,
+        "empire_id": 136253041,
+        "locality_id": 1310186705,
+        "region_id": 85669717,
+        "localadmin_id": 1127451424
+      }
     ],
-    "wof:id":1310186705,
-    "wof:lastmodified":1566689820,
-    "wof:name":"Longrun",
-    "wof:parent_id":890513103,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310186705,
+    "wof:lastmodified": 1768665573,
+    "wof:name": "Longrun",
+    "wof:parent_id": 1127451424,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.842,
     22.8708,
     106.842,
     22.8708
-],
-  "geometry": {"coordinates":[106.842,22.8708],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.842,
+      22.8708
+    ],
+    "type": "Point"
+  }
 }

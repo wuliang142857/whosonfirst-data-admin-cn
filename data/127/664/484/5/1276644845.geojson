@@ -2,80 +2,88 @@
   "id": 1276644845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.067,38.5575,116.067,38.5575",
-    "geom:latitude":38.5575,
-    "geom:longitude":116.067,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Sanshilipu",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1796613,
-    "gn:latitude":38.5575,
-    "gn:longitude":116.067,
-    "gn:modification_date":"2014-10-01",
-    "gn:name":"Sanshilipu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.047,38.5375,116.087,38.5775",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "San-shih-li-p\u2019u",
-        "San-shih-li-pao",
-        "Sanshilipu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.067,38.5575,116.067,38.5575",
+    "geom:latitude": 38.5575,
+    "geom:longitude": 116.067,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Sanshilipu",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1796613,
+    "gn:latitude": 38.5575,
+    "gn:longitude": 116.067,
+    "gn:modification_date": "2014-10-01",
+    "gn:name": "Sanshilipu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.047,38.5375,116.087,38.5775",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "San-shih-li-p’u",
+      "San-shih-li-pao",
+      "Sanshilipu"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u5341\u91cc\u94fa"
+    "name:zho_x_preferred": [
+      "三十里铺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130984
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1796613
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1796613
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f920ddbe73c34b208309279fdefdd9a6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1276644845,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f920ddbe73c34b208309279fdefdd9a6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1276644845,
+        "region_id": 85669797,
+        "localadmin_id": 1127130984
+      }
     ],
-    "wof:id":1276644845,
-    "wof:lastmodified":1566677403,
-    "wof:name":"Sanshilipu",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276644845,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Sanshilipu",
+    "wof:parent_id": 1127130984,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.067,
     38.5575,
     116.067,
     38.5575
-],
-  "geometry": {"coordinates":[116.06699999999999,38.5575],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.067,
+      38.5575
+    ],
+    "type": "Point"
+  }
 }

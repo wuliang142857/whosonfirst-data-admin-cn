@@ -2,81 +2,89 @@
   "id": 1293379545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.4578,34.66209,113.4578,34.66209",
-    "geom:latitude":34.66209,
-    "geom:longitude":113.4578,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Jiayu",
-    "gn:country_code":"CN",
-    "gn:dem":181,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10894780,
-    "gn:latitude":34.66209,
-    "gn:longitude":113.4578,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Jiayu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.4378,34.64209,113.4778,34.68209",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Jiayu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.4578,34.66209,113.4578,34.66209",
+    "geom:latitude": 34.66209,
+    "geom:longitude": 113.4578,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Jiayu",
+    "gn:country_code": "CN",
+    "gn:dem": 181,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10894780,
+    "gn:latitude": 34.66209,
+    "gn:longitude": 113.4578,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Jiayu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.4378,34.64209,113.4778,34.68209",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Jiayu"
     ],
-    "name:spa_x_preferred":[
-        "Jiayu"
+    "name:spa_x_preferred": [
+      "Jiayu"
     ],
-    "name:zho_x_preferred":[
-        "\u8d3e\u5cea"
+    "name:zho_x_preferred": [
+      "贾峪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515627
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890515627,
+      1127410182
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10894780
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10894780
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9af68a4b6f25e26f7166b19e925a641f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515627,
-            "empire_id":136253041,
-            "locality_id":1293379545,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9af68a4b6f25e26f7166b19e925a641f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515627,
+        "empire_id": 136253041,
+        "locality_id": 1293379545,
+        "region_id": 85669801,
+        "localadmin_id": 1127410182
+      }
     ],
-    "wof:id":1293379545,
-    "wof:lastmodified":1566666080,
-    "wof:name":"Jiayu",
-    "wof:parent_id":890515627,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293379545,
+    "wof:lastmodified": 1768669309,
+    "wof:name": "Jiayu",
+    "wof:parent_id": 1127410182,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.4578,
     34.66209,
     113.4578,
     34.66209
-],
-  "geometry": {"coordinates":[113.45780000000001,34.66209],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.4578,
+      34.66209
+    ],
+    "type": "Point"
+  }
 }

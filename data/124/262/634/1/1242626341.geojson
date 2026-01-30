@@ -2,75 +2,83 @@
   "id": 1242626341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.708,31.0051,103.708,31.0051",
-    "geom:latitude":31.0051,
-    "geom:longitude":103.708,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Leidadian",
-    "gn:country_code":"CN",
-    "gn:dem":671,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10196276,
-    "gn:latitude":31.0051,
-    "gn:longitude":103.708,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Leidadian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.688,30.9851,103.728,31.0251",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u96f7\u6253\u5e97"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.708,31.0051,103.708,31.0051",
+    "geom:latitude": 31.0051,
+    "geom:longitude": 103.708,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Leidadian",
+    "gn:country_code": "CN",
+    "gn:dem": 671,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10196276,
+    "gn:latitude": 31.0051,
+    "gn:longitude": 103.708,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Leidadian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.688,30.9851,103.728,31.0251",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "雷打店"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516567
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890515327,
+      890516567
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10196276
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10196276
     },
-    "wof:country":"CN",
-    "wof:geomhash":"92511151adb891bfeae05263a676ca92",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516567,
-            "empire_id":136253041,
-            "locality_id":1242626341,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "92511151adb891bfeae05263a676ca92",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516567,
+        "empire_id": 136253041,
+        "locality_id": 1242626341,
+        "region_id": 85669787,
+        "localadmin_id": 890515327
+      }
     ],
-    "wof:id":1242626341,
-    "wof:lastmodified":1566696942,
-    "wof:name":"Leidadian",
-    "wof:parent_id":890516567,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242626341,
+    "wof:lastmodified": 1768668425,
+    "wof:name": "Leidadian",
+    "wof:parent_id": 890515327,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.708,
     31.0051,
     103.708,
     31.0051
-],
-  "geometry": {"coordinates":[103.708,31.0051],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.708,
+      31.0051
+    ],
+    "type": "Point"
+  }
 }

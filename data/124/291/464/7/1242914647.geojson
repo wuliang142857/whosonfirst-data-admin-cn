@@ -2,75 +2,83 @@
   "id": 1242914647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.94934,28.9969,105.94934,28.9969",
-    "geom:latitude":28.9969,
-    "geom:longitude":105.94934,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Hongshizi",
-    "gn:country_code":"CN",
-    "gn:dem":322,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8421568,
-    "gn:latitude":28.9969,
-    "gn:longitude":105.94934,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Hongshizi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.92934,28.9769,105.96934,29.0169",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7ea2\u77f3\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.94934,28.9969,105.94934,28.9969",
+    "geom:latitude": 28.9969,
+    "geom:longitude": 105.94934,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Hongshizi",
+    "gn:country_code": "CN",
+    "gn:dem": 322,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8421568,
+    "gn:latitude": 28.9969,
+    "gn:longitude": 105.94934,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Hongshizi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.92934,28.9769,105.96934,29.0169",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "红石子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890512859,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8421568
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8421568
     },
-    "wof:country":"CN",
-    "wof:geomhash":"83a1bb0cb4d2f4660ec11a5bc3cc5ce8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1242914647,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "83a1bb0cb4d2f4660ec11a5bc3cc5ce8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1242914647,
+        "region_id": 85669725,
+        "localadmin_id": 890512859
+      }
     ],
-    "wof:id":1242914647,
-    "wof:lastmodified":1566697019,
-    "wof:name":"Hongshizi",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242914647,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Hongshizi",
+    "wof:parent_id": 890512859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.94934,
     28.9969,
     105.94934,
     28.9969
-],
-  "geometry": {"coordinates":[105.94934000000001,28.9969],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.94934,
+      28.9969
+    ],
+    "type": "Point"
+  }
 }

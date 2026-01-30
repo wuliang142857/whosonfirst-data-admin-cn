@@ -2,78 +2,86 @@
   "id": 1243038109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.51306,34.68583,105.51306,34.68583",
-    "geom:latitude":34.68583,
-    "geom:longitude":105.51306,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xinyangzhen",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1235,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1788525,
-    "gn:latitude":34.68583,
-    "gn:longitude":105.51306,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xinyangzhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.49306,34.66583,105.53306,34.70583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsin-yang-chen",
-        "Hsin-yang",
-        "Xinyangzhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.51306,34.68583,105.51306,34.68583",
+    "geom:latitude": 34.68583,
+    "geom:longitude": 105.51306,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xinyangzhen",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1235,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1788525,
+    "gn:latitude": 34.68583,
+    "gn:longitude": 105.51306,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xinyangzhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.49306,34.66583,105.53306,34.70583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsin-yang-chen",
+      "Hsin-yang",
+      "Xinyangzhen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1788525
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1788525
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6725809446d3bfcb621d70dc15103c01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1243038109,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6725809446d3bfcb621d70dc15103c01",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1243038109,
+        "region_id": 85669711,
+        "localadmin_id": 1127620503
+      }
     ],
-    "wof:id":1243038109,
-    "wof:lastmodified":1566695943,
-    "wof:name":"Xinyangzhen",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243038109,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Xinyangzhen",
+    "wof:parent_id": 1127620503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.51306,
     34.68583,
     105.51306,
     34.68583
-],
-  "geometry": {"coordinates":[105.51306,34.68583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.51306,
+      34.68583
+    ],
+    "type": "Point"
+  }
 }

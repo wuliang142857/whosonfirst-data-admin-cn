@@ -2,84 +2,92 @@
   "id": 1310187719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.812,34.6193,105.812,34.6193",
-    "geom:latitude":34.6193,
-    "geom:longitude":105.812,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Yanghe",
-    "gn:country_code":"CN",
-    "gn:dem":1130,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429070,
-    "gn:latitude":34.6193,
-    "gn:longitude":105.812,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Yanghe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.792,34.5993,105.832,34.6393",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Yanghe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.812,34.6193,105.812,34.6193",
+    "geom:latitude": 34.6193,
+    "geom:longitude": 105.812,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Yanghe",
+    "gn:country_code": "CN",
+    "gn:dem": 1130,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429070,
+    "gn:latitude": 34.6193,
+    "gn:longitude": 105.812,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Yanghe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.792,34.5993,105.832,34.6393",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Yanghe"
     ],
-    "name:deu_x_preferred":[
-        "Yanghe"
+    "name:deu_x_preferred": [
+      "Yanghe"
     ],
-    "name:swe_x_preferred":[
-        "Yanghe"
+    "name:swe_x_preferred": [
+      "Yanghe"
     ],
-    "name:zho_x_preferred":[
-        "\u6768\u6cb3"
+    "name:zho_x_preferred": [
+      "杨河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429070
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429070
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d162299660736aa9d247155c0c4ee99b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1310187719,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d162299660736aa9d247155c0c4ee99b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1310187719,
+        "region_id": 85669711,
+        "localadmin_id": 1127620503
+      }
     ],
-    "wof:id":1310187719,
-    "wof:lastmodified":1566689805,
-    "wof:name":"Yanghe",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310187719,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Yanghe",
+    "wof:parent_id": 1127620503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.812,
     34.6193,
     105.812,
     34.6193
-],
-  "geometry": {"coordinates":[105.812,34.6193],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.812,
+      34.6193
+    ],
+    "type": "Point"
+  }
 }

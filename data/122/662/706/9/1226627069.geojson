@@ -2,78 +2,86 @@
   "id": 1226627069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.9142,29.36713,111.9142,29.36713",
-    "geom:latitude":29.36713,
-    "geom:longitude":111.9142,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Zhangjiazui",
-    "gn:country_code":"CN",
-    "gn:dem":39,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8135110,
-    "gn:latitude":29.36713,
-    "gn:longitude":111.9142,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Zhangjiazui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.8942,29.34713,111.9342,29.38713",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Zhangjiazui"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.9142,29.36713,111.9142,29.36713",
+    "geom:latitude": 29.36713,
+    "geom:longitude": 111.9142,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Zhangjiazui",
+    "gn:country_code": "CN",
+    "gn:dem": 39,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8135110,
+    "gn:latitude": 29.36713,
+    "gn:longitude": 111.9142,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Zhangjiazui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.8942,29.34713,111.9342,29.38713",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Zhangjiazui"
     ],
-    "name:zho_x_variant":[
-        "\u5f20\u5bb6\u5480"
+    "name:zho_x_variant": [
+      "张家咀"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515867,
+      1127430781
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8135110
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8135110
     },
-    "wof:country":"CN",
-    "wof:geomhash":"642e884721d5f7f6a8eac48b971832de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1226627069,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "642e884721d5f7f6a8eac48b971832de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1226627069,
+        "region_id": 85669781,
+        "localadmin_id": 1127430781
+      }
     ],
-    "wof:id":1226627069,
-    "wof:lastmodified":1566705265,
-    "wof:name":"Zhangjiazui",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226627069,
+    "wof:lastmodified": 1768670428,
+    "wof:name": "Zhangjiazui",
+    "wof:parent_id": 1127430781,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.9142,
     29.36713,
     111.9142,
     29.36713
-],
-  "geometry": {"coordinates":[111.91419999999999,29.36713],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.9142,
+      29.36713
+    ],
+    "type": "Point"
+  }
 }

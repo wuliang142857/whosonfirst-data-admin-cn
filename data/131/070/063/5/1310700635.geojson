@@ -2,80 +2,88 @@
   "id": 1310700635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.86218,42.91787,126.86218,42.91787",
-    "geom:latitude":42.91787,
-    "geom:longitude":126.86218,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Laishengtun",
-    "gn:country_code":"CN",
-    "gn:dem":305,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7580139,
-    "gn:latitude":42.91787,
-    "gn:longitude":126.86218,
-    "gn:modification_date":"2015-12-06",
-    "gn:name":"Laishengtun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.84218,42.89787,126.88218,42.93787",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Yongshengtun",
-        "\u6c38\u80dc\u5c6f",
-        "Laishengtun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.86218,42.91787,126.86218,42.91787",
+    "geom:latitude": 42.91787,
+    "geom:longitude": 126.86218,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Laishengtun",
+    "gn:country_code": "CN",
+    "gn:dem": 305,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7580139,
+    "gn:latitude": 42.91787,
+    "gn:longitude": 126.86218,
+    "gn:modification_date": "2015-12-06",
+    "gn:name": "Laishengtun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.84218,42.89787,126.88218,42.93787",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Yongshengtun",
+      "永胜屯",
+      "Laishengtun"
     ],
-    "name:zho_x_preferred":[
-        "\u6765\u80dc\u5c6f"
+    "name:zho_x_preferred": [
+      "来胜屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890516735,
+      1127220282
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7580139
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7580139
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c26104e6294e2f06255166cae619a4cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516735,
-            "empire_id":136253041,
-            "locality_id":1310700635,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c26104e6294e2f06255166cae619a4cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516735,
+        "empire_id": 136253041,
+        "locality_id": 1310700635,
+        "region_id": 85669843,
+        "localadmin_id": 1127220282
+      }
     ],
-    "wof:id":1310700635,
-    "wof:lastmodified":1566688333,
-    "wof:name":"Laishengtun",
-    "wof:parent_id":890516735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310700635,
+    "wof:lastmodified": 1768670775,
+    "wof:name": "Laishengtun",
+    "wof:parent_id": 1127220282,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.86218,
     42.91787,
     126.86218,
     42.91787
-],
-  "geometry": {"coordinates":[126.86218,42.91787],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.86218,
+      42.91787
+    ],
+    "type": "Point"
+  }
 }

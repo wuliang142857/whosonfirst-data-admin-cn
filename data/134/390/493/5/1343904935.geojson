@@ -2,75 +2,83 @@
   "id": 1343904935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.429,25.9277,103.429,25.9277",
-    "geom:latitude":25.9277,
-    "geom:longitude":103.429,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Puluge",
-    "gn:country_code":"CN",
-    "gn:dem":2059,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10158646,
-    "gn:latitude":25.9277,
-    "gn:longitude":103.429,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Puluge",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.409,25.9077,103.449,25.9477",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u84b2\u9c81\u9769"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.429,25.9277,103.429,25.9277",
+    "geom:latitude": 25.9277,
+    "geom:longitude": 103.429,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Puluge",
+    "gn:country_code": "CN",
+    "gn:dem": 2059,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10158646,
+    "gn:latitude": 25.9277,
+    "gn:longitude": 103.429,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Puluge",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.409,25.9077,103.449,25.9477",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "蒲鲁革"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890515167
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890515167,
+      1127530326
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10158646
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10158646
     },
-    "wof:country":"CN",
-    "wof:geomhash":"623f3ae7fa9acbcae03d1bae90ce0fe5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515167,
-            "empire_id":136253041,
-            "locality_id":1343904935,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "623f3ae7fa9acbcae03d1bae90ce0fe5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515167,
+        "empire_id": 136253041,
+        "locality_id": 1343904935,
+        "region_id": 85669791,
+        "localadmin_id": 1127530326
+      }
     ],
-    "wof:id":1343904935,
-    "wof:lastmodified":1566657690,
-    "wof:name":"Puluge",
-    "wof:parent_id":890515167,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343904935,
+    "wof:lastmodified": 1768668181,
+    "wof:name": "Puluge",
+    "wof:parent_id": 1127530326,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.429,
     25.9277,
     103.429,
     25.9277
-],
-  "geometry": {"coordinates":[103.429,25.9277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.429,
+      25.9277
+    ],
+    "type": "Point"
+  }
 }

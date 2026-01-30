@@ -2,75 +2,83 @@
   "id": 1326485111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.54098,32.46145,108.54098,32.46145",
-    "geom:latitude":32.46145,
-    "geom:longitude":108.54098,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Yangpo",
-    "gn:country_code":"CN",
-    "gn:dem":402,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11332605,
-    "gn:latitude":32.46145,
-    "gn:longitude":108.54098,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Yangpo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.52098,32.44145,108.56098,32.48145",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9633\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.54098,32.46145,108.54098,32.46145",
+    "geom:latitude": 32.46145,
+    "geom:longitude": 108.54098,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Yangpo",
+    "gn:country_code": "CN",
+    "gn:dem": 402,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11332605,
+    "gn:latitude": 32.46145,
+    "gn:longitude": 108.54098,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Yangpo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.52098,32.44145,108.56098,32.48145",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "阳坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515101,
+      1127610924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11332605
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11332605
     },
-    "wof:country":"CN",
-    "wof:geomhash":"886a0ba7f48508d4a8e99b169899d2c4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1326485111,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "886a0ba7f48508d4a8e99b169899d2c4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1326485111,
+        "region_id": 85669769,
+        "localadmin_id": 1127610924
+      }
     ],
-    "wof:id":1326485111,
-    "wof:lastmodified":1566652793,
-    "wof:name":"Yangpo",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326485111,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Yangpo",
+    "wof:parent_id": 1127610924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.54098,
     32.46145,
     108.54098,
     32.46145
-],
-  "geometry": {"coordinates":[108.54098,32.46145],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.54098,
+      32.46145
+    ],
+    "type": "Point"
+  }
 }

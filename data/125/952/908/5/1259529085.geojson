@@ -2,75 +2,83 @@
   "id": 1259529085,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.844,30.6007,105.844,30.6007",
-    "geom:latitude":30.6007,
-    "geom:longitude":105.844,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Changleyuan",
-    "gn:country_code":"CN",
-    "gn:dem":328,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161425,
-    "gn:latitude":30.6007,
-    "gn:longitude":105.844,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Changleyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.824,30.5807,105.864,30.6207",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e38\u4e50\u9662"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.844,30.6007,105.844,30.6007",
+    "geom:latitude": 30.6007,
+    "geom:longitude": 105.844,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Changleyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 328,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161425,
+    "gn:latitude": 30.6007,
+    "gn:longitude": 105.844,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Changleyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.824,30.5807,105.864,30.6207",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "常乐院"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      1127511304
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161425
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161425
     },
-    "wof:country":"CN",
-    "wof:geomhash":"abe42dc8c4ac08f8e2b8d50d357e432a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1259529085,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "abe42dc8c4ac08f8e2b8d50d357e432a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1259529085,
+        "region_id": 85669787,
+        "localadmin_id": 1127511304
+      }
     ],
-    "wof:id":1259529085,
-    "wof:lastmodified":1566698568,
-    "wof:name":"Changleyuan",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259529085,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Changleyuan",
+    "wof:parent_id": 1127511304,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.844,
     30.6007,
     105.844,
     30.6007
-],
-  "geometry": {"coordinates":[105.84399999999999,30.6007],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.844,
+      30.6007
+    ],
+    "type": "Point"
+  }
 }

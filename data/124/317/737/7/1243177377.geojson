@@ -2,80 +2,88 @@
   "id": 1243177377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.14263,32.20559,120.14263,32.20559",
-    "geom:latitude":32.20559,
-    "geom:longitude":120.14263,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Hetouzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1808248,
-    "gn:latitude":32.20559,
-    "gn:longitude":120.14263,
-    "gn:modification_date":"2012-08-04",
-    "gn:name":"Hetouzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.12263,32.18559,120.16263,32.22559",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ou-chuang",
-        "Ho-t\u2019ou-chuang",
-        "Hetouzhuang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.14263,32.20559,120.14263,32.20559",
+    "geom:latitude": 32.20559,
+    "geom:longitude": 120.14263,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Hetouzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1808248,
+    "gn:latitude": 32.20559,
+    "gn:longitude": 120.14263,
+    "gn:modification_date": "2012-08-04",
+    "gn:name": "Hetouzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.12263,32.18559,120.16263,32.22559",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ou-chuang",
+      "Ho-t’ou-chuang",
+      "Hetouzhuang"
     ],
-    "name:zho_x_preferred":[
-        "\u6cb3\u5934\u5e84"
+    "name:zho_x_preferred": [
+      "河头庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516237,
+      890516991
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1808248
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1808248
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c09c0fb802b20a59f109ac03e35f4e2e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1243177377,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c09c0fb802b20a59f109ac03e35f4e2e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1243177377,
+        "region_id": 85669827,
+        "localadmin_id": 890516991
+      }
     ],
-    "wof:id":1243177377,
-    "wof:lastmodified":1566697575,
-    "wof:name":"Hetouzhuang",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243177377,
+    "wof:lastmodified": 1768670650,
+    "wof:name": "Hetouzhuang",
+    "wof:parent_id": 890516991,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.14263,
     32.20559,
     120.14263,
     32.20559
-],
-  "geometry": {"coordinates":[120.14263,32.20559],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.14263,
+      32.20559
+    ],
+    "type": "Point"
+  }
 }

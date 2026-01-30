@@ -2,75 +2,83 @@
   "id": 1243017223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"98.338,33.1141,98.338,33.1141",
-    "geom:latitude":33.1141,
-    "geom:longitude":98.338,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Benri Gongba",
-    "gn:country_code":"CN",
-    "gn:dem":4246,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10207752,
-    "gn:latitude":33.1141,
-    "gn:longitude":98.338,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Benri Gongba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"98.318,33.0941,98.358,33.1341",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u672c\u65e5\u8d21\u5df4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "98.338,33.1141,98.338,33.1141",
+    "geom:latitude": 33.1141,
+    "geom:longitude": 98.338,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Benri Gongba",
+    "gn:country_code": "CN",
+    "gn:dem": 4246,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10207752,
+    "gn:latitude": 33.1141,
+    "gn:longitude": 98.338,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Benri Gongba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "98.318,33.0941,98.358,33.1341",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "本日贡巴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513161,
+      890514703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10207752
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10207752
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1f0fe688a84164d2b8e84d4a27bf7544",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1243017223,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1f0fe688a84164d2b8e84d4a27bf7544",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1243017223,
+        "region_id": 85669787,
+        "localadmin_id": 890513161
+      }
     ],
-    "wof:id":1243017223,
-    "wof:lastmodified":1566694159,
-    "wof:name":"Benri Gongba",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243017223,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Benri Gongba",
+    "wof:parent_id": 890513161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     98.338,
     33.1141,
     98.338,
     33.1141
-],
-  "geometry": {"coordinates":[98.33799999999999,33.1141],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      98.338,
+      33.1141
+    ],
+    "type": "Point"
+  }
 }

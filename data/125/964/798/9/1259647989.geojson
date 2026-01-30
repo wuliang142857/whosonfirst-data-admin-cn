@@ -2,78 +2,86 @@
   "id": 1259647989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.946,37.1491,105.946,37.1491",
-    "geom:latitude":37.1491,
-    "geom:longitude":105.946,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Zhangjiazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":1553,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10203771,
-    "gn:latitude":37.1491,
-    "gn:longitude":105.946,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Zhangjiazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.926,37.1291,105.966,37.1691",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u5bb6\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.946,37.1491,105.946,37.1491",
+    "geom:latitude": 37.1491,
+    "geom:longitude": 105.946,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Zhangjiazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 1553,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10203771,
+    "gn:latitude": 37.1491,
+    "gn:longitude": 105.946,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Zhangjiazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.926,37.1291,105.966,37.1691",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张家庄"
     ],
-    "name:zho_x_variant":[
-        "\u5f20\u5bb6\u5e84\u9547"
+    "name:zho_x_variant": [
+      "张家庄镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        1108732381
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      1108732381,
+      1127640324
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10203771
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10203771
     },
-    "wof:country":"CN",
-    "wof:geomhash":"50266b153d9d11a0a7d2d87560da359f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732381,
-            "empire_id":136253041,
-            "locality_id":1259647989,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "50266b153d9d11a0a7d2d87560da359f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732381,
+        "empire_id": 136253041,
+        "locality_id": 1259647989,
+        "region_id": 85669763,
+        "localadmin_id": 1127640324
+      }
     ],
-    "wof:id":1259647989,
-    "wof:lastmodified":1566698502,
-    "wof:name":"Zhangjiazhuang",
-    "wof:parent_id":1108732381,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259647989,
+    "wof:lastmodified": 1768667273,
+    "wof:name": "Zhangjiazhuang",
+    "wof:parent_id": 1127640324,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.946,
     37.1491,
     105.946,
     37.1491
-],
-  "geometry": {"coordinates":[105.946,37.1491],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.946,
+      37.1491
+    ],
+    "type": "Point"
+  }
 }

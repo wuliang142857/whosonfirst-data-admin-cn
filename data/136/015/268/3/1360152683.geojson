@@ -2,79 +2,87 @@
   "id": 1360152683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.69528,35.50861,110.69528,35.50861",
-    "geom:latitude":35.50861,
-    "geom:longitude":110.69528,
-    "gn:admin1_code":"24.0",
-    "gn:asciiname":"Xiaoliang",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":484,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1790110,
-    "gn:latitude":35.50861,
-    "gn:longitude":110.69528,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xiaoliang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.67528,35.48861,110.71528,35.52861",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsiao-t\u2019ing-ts\u2019un",
-        "Hsiao-liang",
-        "Hsiao-liang-ts\u2019un",
-        "Xiaoliang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.69528,35.50861,110.69528,35.50861",
+    "geom:latitude": 35.50861,
+    "geom:longitude": 110.69528,
+    "gn:admin1_code": "24.0",
+    "gn:asciiname": "Xiaoliang",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 484,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1790110,
+    "gn:latitude": 35.50861,
+    "gn:longitude": 110.69528,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xiaoliang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.67528,35.48861,110.71528,35.52861",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsiao-t’ing-ts’un",
+      "Hsiao-liang",
+      "Hsiao-liang-ts’un",
+      "Xiaoliang"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890514745
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890511863,
+      890514745
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1790110
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1790110
     },
-    "wof:country":"CN",
-    "wof:geomhash":"03a55d440fbc91d6ef747d1b426a7c59",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514745,
-            "empire_id":136253041,
-            "locality_id":1360152683,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "03a55d440fbc91d6ef747d1b426a7c59",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514745,
+        "empire_id": 136253041,
+        "locality_id": 1360152683,
+        "region_id": 85669773,
+        "localadmin_id": 890511863
+      }
     ],
-    "wof:id":1360152683,
-    "wof:lastmodified":1566691198,
-    "wof:name":"Xiaoliang",
-    "wof:parent_id":890514745,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360152683,
+    "wof:lastmodified": 1768666417,
+    "wof:name": "Xiaoliang",
+    "wof:parent_id": 890511863,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.69528,
     35.50861,
     110.69528,
     35.50861
-],
-  "geometry": {"coordinates":[110.69528,35.50861],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.69528,
+      35.50861
+    ],
+    "type": "Point"
+  }
 }

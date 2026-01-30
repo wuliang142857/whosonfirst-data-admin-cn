@@ -2,75 +2,83 @@
   "id": 1277146491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.735,23.7265,108.735,23.7265",
-    "geom:latitude":23.7265,
-    "geom:longitude":108.735,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Zhongdong",
-    "gn:country_code":"CN",
-    "gn:dem":261,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9934503,
-    "gn:latitude":23.7265,
-    "gn:longitude":108.735,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Zhongdong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.715,23.7065,108.755,23.7465",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u578c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.735,23.7265,108.735,23.7265",
+    "geom:latitude": 23.7265,
+    "geom:longitude": 108.735,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Zhongdong",
+    "gn:country_code": "CN",
+    "gn:dem": 261,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9934503,
+    "gn:latitude": 23.7265,
+    "gn:longitude": 108.735,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Zhongdong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.715,23.7065,108.755,23.7465",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中垌"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9934503
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9934503
     },
-    "wof:country":"CN",
-    "wof:geomhash":"612f96d72fc4d0697e7750b38fccb2c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1277146491,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "612f96d72fc4d0697e7750b38fccb2c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1277146491,
+        "region_id": 85669717,
+        "localadmin_id": 1127450125
+      }
     ],
-    "wof:id":1277146491,
-    "wof:lastmodified":1566675373,
-    "wof:name":"Zhongdong",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277146491,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Zhongdong",
+    "wof:parent_id": 1127450125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.735,
     23.7265,
     108.735,
     23.7265
-],
-  "geometry": {"coordinates":[108.735,23.7265],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.735,
+      23.7265
+    ],
+    "type": "Point"
+  }
 }

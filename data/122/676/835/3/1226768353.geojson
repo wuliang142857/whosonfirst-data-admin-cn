@@ -2,75 +2,83 @@
   "id": 1226768353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.011,34.3105,116.011,34.3105",
-    "geom:latitude":34.3105,
-    "geom:longitude":116.011,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Hongliuzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":49,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9131010,
-    "gn:latitude":34.3105,
-    "gn:longitude":116.011,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Hongliuzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.991,34.2905,116.031,34.3305",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6d2a\u5218\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.011,34.3105,116.011,34.3105",
+    "geom:latitude": 34.3105,
+    "geom:longitude": 116.011,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Hongliuzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 49,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9131010,
+    "gn:latitude": 34.3105,
+    "gn:longitude": 116.011,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Hongliuzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.991,34.2905,116.031,34.3305",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "洪刘庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514845,
+      1127411426
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9131010
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9131010
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c61d3793bbb58adb3ff6bc53ee674057",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514845,
-            "empire_id":136253041,
-            "locality_id":1226768353,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c61d3793bbb58adb3ff6bc53ee674057",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514845,
+        "empire_id": 136253041,
+        "locality_id": 1226768353,
+        "region_id": 85669801,
+        "localadmin_id": 1127411426
+      }
     ],
-    "wof:id":1226768353,
-    "wof:lastmodified":1566703931,
-    "wof:name":"Hongliuzhuang",
-    "wof:parent_id":890514845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226768353,
+    "wof:lastmodified": 1768669080,
+    "wof:name": "Hongliuzhuang",
+    "wof:parent_id": 1127411426,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.011,
     34.3105,
     116.011,
     34.3105
-],
-  "geometry": {"coordinates":[116.011,34.3105],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.011,
+      34.3105
+    ],
+    "type": "Point"
+  }
 }

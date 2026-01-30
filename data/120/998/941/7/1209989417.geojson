@@ -2,75 +2,83 @@
   "id": 1209989417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.603,32.8977,105.603,32.8977",
-    "geom:latitude":32.8977,
-    "geom:longitude":105.603,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Hebali",
-    "gn:country_code":"CN",
-    "gn:dem":878,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10452268,
-    "gn:latitude":32.8977,
-    "gn:longitude":105.603,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Hebali",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.583,32.8777,105.623,32.9177",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6cb3\u575d\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.603,32.8977,105.603,32.8977",
+    "geom:latitude": 32.8977,
+    "geom:longitude": 105.603,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Hebali",
+    "gn:country_code": "CN",
+    "gn:dem": 878,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10452268,
+    "gn:latitude": 32.8977,
+    "gn:longitude": 105.603,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Hebali",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.583,32.8777,105.623,32.9177",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "河坝里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10452268
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10452268
     },
-    "wof:country":"CN",
-    "wof:geomhash":"875b6cb42b3d60034b3a78d4fb12ca64",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1209989417,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "875b6cb42b3d60034b3a78d4fb12ca64",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1209989417,
+        "region_id": 85669711,
+        "localadmin_id": 1127621202
+      }
     ],
-    "wof:id":1209989417,
-    "wof:lastmodified":1566679028,
-    "wof:name":"Hebali",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209989417,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Hebali",
+    "wof:parent_id": 1127621202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.603,
     32.8977,
     105.603,
     32.8977
-],
-  "geometry": {"coordinates":[105.60299999999999,32.8977],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.603,
+      32.8977
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243117715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.86,30.9952,104.86,30.9952",
-    "geom:latitude":30.9952,
-    "geom:longitude":104.86,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Chengziliang",
-    "gn:country_code":"CN",
-    "gn:dem":419,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161691,
-    "gn:latitude":30.9952,
-    "gn:longitude":104.86,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Chengziliang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.84,30.9752,104.88,31.0152",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6a59\u5b50\u6881"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.86,30.9952,104.86,30.9952",
+    "geom:latitude": 30.9952,
+    "geom:longitude": 104.86,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Chengziliang",
+    "gn:country_code": "CN",
+    "gn:dem": 419,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161691,
+    "gn:latitude": 30.9952,
+    "gn:longitude": 104.86,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Chengziliang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.84,30.9752,104.88,31.0152",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "橙子梁"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513911,
+      890514157
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161691
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161691
     },
-    "wof:country":"CN",
-    "wof:geomhash":"616305490232a9640536b6f8227a22b6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1243117715,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "616305490232a9640536b6f8227a22b6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1243117715,
+        "region_id": 85669787,
+        "localadmin_id": 890513911
+      }
     ],
-    "wof:id":1243117715,
-    "wof:lastmodified":1566697368,
-    "wof:name":"Chengziliang",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243117715,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Chengziliang",
+    "wof:parent_id": 890513911,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.86,
     30.9952,
     104.86,
     30.9952
-],
-  "geometry": {"coordinates":[104.86,30.9952],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.86,
+      30.9952
+    ],
+    "type": "Point"
+  }
 }

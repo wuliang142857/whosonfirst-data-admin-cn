@@ -2,75 +2,83 @@
   "id": 1243066747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.49249,43.98459,126.49249,43.98459",
-    "geom:latitude":43.98459,
-    "geom:longitude":126.49249,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Andacun",
-    "gn:country_code":"CN",
-    "gn:dem":184,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10932160,
-    "gn:latitude":43.98459,
-    "gn:longitude":126.49249,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Andacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.47249,43.96459,126.51249,44.00459",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b89\u8fbe\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.49249,43.98459,126.49249,43.98459",
+    "geom:latitude": 43.98459,
+    "geom:longitude": 126.49249,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Andacun",
+    "gn:country_code": "CN",
+    "gn:dem": 184,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10932160,
+    "gn:latitude": 43.98459,
+    "gn:longitude": 126.49249,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Andacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.47249,43.96459,126.51249,44.00459",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "安达村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890516735,
+      1127220203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10932160
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10932160
     },
-    "wof:country":"CN",
-    "wof:geomhash":"53937dba757be2ca2347cc369afece2c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516735,
-            "empire_id":136253041,
-            "locality_id":1243066747,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "53937dba757be2ca2347cc369afece2c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516735,
+        "empire_id": 136253041,
+        "locality_id": 1243066747,
+        "region_id": 85669843,
+        "localadmin_id": 1127220203
+      }
     ],
-    "wof:id":1243066747,
-    "wof:lastmodified":1566694198,
-    "wof:name":"Andacun",
-    "wof:parent_id":890516735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243066747,
+    "wof:lastmodified": 1768670776,
+    "wof:name": "Andacun",
+    "wof:parent_id": 1127220203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.49249,
     43.98459,
     126.49249,
     43.98459
-],
-  "geometry": {"coordinates":[126.49249,43.98459],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.49249,
+      43.98459
+    ],
+    "type": "Point"
+  }
 }

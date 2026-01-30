@@ -2,75 +2,83 @@
   "id": 1326828171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.28812,42.51602,127.28812,42.51602",
-    "geom:latitude":42.51602,
-    "geom:longitude":127.28812,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Xichuan",
-    "gn:country_code":"CN",
-    "gn:dem":707,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7578065,
-    "gn:latitude":42.51602,
-    "gn:longitude":127.28812,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xichuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"127.26812,42.49602,127.30812,42.53602",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u897f\u5ddd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "127.28812,42.51602,127.28812,42.51602",
+    "geom:latitude": 42.51602,
+    "geom:longitude": 127.28812,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Xichuan",
+    "gn:country_code": "CN",
+    "gn:dem": 707,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7578065,
+    "gn:latitude": 42.51602,
+    "gn:longitude": 127.28812,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xichuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "127.26812,42.49602,127.30812,42.53602",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "西川"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516621
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890516155,
+      890516621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7578065
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7578065
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ead52d446ddd043778b4f78099931218",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516621,
-            "empire_id":136253041,
-            "locality_id":1326828171,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ead52d446ddd043778b4f78099931218",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516621,
+        "empire_id": 136253041,
+        "locality_id": 1326828171,
+        "region_id": 85669843,
+        "localadmin_id": 890516155
+      }
     ],
-    "wof:id":1326828171,
-    "wof:lastmodified":1566651646,
-    "wof:name":"Xichuan",
-    "wof:parent_id":890516621,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326828171,
+    "wof:lastmodified": 1768670749,
+    "wof:name": "Xichuan",
+    "wof:parent_id": 890516155,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     127.28812,
     42.51602000000001,
     127.28812,
     42.51602000000001
-],
-  "geometry": {"coordinates":[127.28812000000001,42.51602000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      127.28812,
+      42.51602000000001
+    ],
+    "type": "Point"
+  }
 }

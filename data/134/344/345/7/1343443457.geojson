@@ -2,75 +2,83 @@
   "id": 1343443457,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.606,35.9458,107.606,35.9458",
-    "geom:latitude":35.9458,
-    "geom:longitude":107.606,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xingjia Gouquan",
-    "gn:country_code":"CN",
-    "gn:dem":1505,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10737814,
-    "gn:latitude":35.9458,
-    "gn:longitude":107.606,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Xingjia Gouquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.586,35.9258,107.626,35.9658",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a2\u5bb6\u6c9f\u5708"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.606,35.9458,107.606,35.9458",
+    "geom:latitude": 35.9458,
+    "geom:longitude": 107.606,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xingjia Gouquan",
+    "gn:country_code": "CN",
+    "gn:dem": 1505,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10737814,
+    "gn:latitude": 35.9458,
+    "gn:longitude": 107.606,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Xingjia Gouquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.586,35.9258,107.626,35.9658",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "邢家沟圈"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10737814
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10737814
     },
-    "wof:country":"CN",
-    "wof:geomhash":"976901d7db918af9ee7461363a7a2536",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1343443457,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "976901d7db918af9ee7461363a7a2536",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1343443457,
+        "region_id": 85669711,
+        "localadmin_id": 1127621021
+      }
     ],
-    "wof:id":1343443457,
-    "wof:lastmodified":1566664833,
-    "wof:name":"Xingjia Gouquan",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343443457,
+    "wof:lastmodified": 1768666480,
+    "wof:name": "Xingjia Gouquan",
+    "wof:parent_id": 1127621021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.606,
     35.9458,
     107.606,
     35.9458
-],
-  "geometry": {"coordinates":[107.60599999999999,35.9458],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.606,
+      35.9458
+    ],
+    "type": "Point"
+  }
 }

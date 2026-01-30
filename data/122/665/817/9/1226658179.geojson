@@ -2,84 +2,92 @@
   "id": 1226658179,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.86837,29.80931,120.86837,29.80931",
-    "geom:latitude":29.80931,
-    "geom:longitude":120.86837,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Zhangzhen",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1785021,
-    "gn:latitude":29.80931,
-    "gn:longitude":120.86837,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhangzhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.84837,29.78931,120.88837,29.82931",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chang-chen",
-        "Chang-chia-fou",
-        "Zhangzhen",
-        "Zhangzhen Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.86837,29.80931,120.86837,29.80931",
+    "geom:latitude": 29.80931,
+    "geom:longitude": 120.86837,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Zhangzhen",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1785021,
+    "gn:latitude": 29.80931,
+    "gn:longitude": 120.86837,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhangzhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.84837,29.78931,120.88837,29.82931",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chang-chen",
+      "Chang-chia-fou",
+      "Zhangzhen",
+      "Zhangzhen Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u7ae0\u9547"
+    "name:zho_x_preferred": [
+      "章镇"
     ],
-    "name:zho_x_variant":[
-        "\u7ae0\u9547\u9547"
+    "name:zho_x_variant": [
+      "章镇镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513785
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513785,
+      1127330604
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1785021
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1785021
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ef82d9619ea89b62ba36a2b4e07a4809",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "locality_id":1226658179,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ef82d9619ea89b62ba36a2b4e07a4809",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "locality_id": 1226658179,
+        "region_id": 85669835,
+        "localadmin_id": 1127330604
+      }
     ],
-    "wof:id":1226658179,
-    "wof:lastmodified":1566705340,
-    "wof:name":"Zhangzhen",
-    "wof:parent_id":890513785,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226658179,
+    "wof:lastmodified": 1768669996,
+    "wof:name": "Zhangzhen",
+    "wof:parent_id": 1127330604,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.86837,
     29.80931,
     120.86837,
     29.80931
-],
-  "geometry": {"coordinates":[120.86837,29.80931],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.86837,
+      29.80931
+    ],
+    "type": "Point"
+  }
 }

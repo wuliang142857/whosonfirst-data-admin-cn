@@ -2,75 +2,83 @@
   "id": 1293105965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.17662,29.48538,115.17662,29.48538",
-    "geom:latitude":29.48538,
-    "geom:longitude":115.17662,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Linjia",
-    "gn:country_code":"CN",
-    "gn:dem":498,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7753298,
-    "gn:latitude":29.48538,
-    "gn:longitude":115.17662,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Linjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.15662,29.46538,115.19662,29.50538",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6797\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.17662,29.48538,115.17662,29.48538",
+    "geom:latitude": 29.48538,
+    "geom:longitude": 115.17662,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Linjia",
+    "gn:country_code": "CN",
+    "gn:dem": 498,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7753298,
+    "gn:latitude": 29.48538,
+    "gn:longitude": 115.17662,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Linjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.15662,29.46538,115.19662,29.50538",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "林家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7753298
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7753298
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3d82e143c501c065f82c7cd45a279e9f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1293105965,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3d82e143c501c065f82c7cd45a279e9f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1293105965,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1293105965,
-    "wof:lastmodified":1566671591,
-    "wof:name":"Linjia",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293105965,
+    "wof:lastmodified": 1768669674,
+    "wof:name": "Linjia",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.17662,
     29.48538,
     115.17662,
     29.48538
-],
-  "geometry": {"coordinates":[115.17662,29.48538],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.17662,
+      29.48538
+    ],
+    "type": "Point"
+  }
 }

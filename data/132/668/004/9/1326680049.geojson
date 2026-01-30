@@ -2,75 +2,83 @@
   "id": 1326680049,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.88906,23.0176,114.88906,23.0176",
-    "geom:latitude":23.0176,
-    "geom:longitude":114.88906,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Guling",
-    "gn:country_code":"CN",
-    "gn:dem":41,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7030147,
-    "gn:latitude":23.0176,
-    "gn:longitude":114.88906,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Guling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.86906,22.9976,114.90906,23.0376",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53e4\u5cad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.88906,23.0176,114.88906,23.0176",
+    "geom:latitude": 23.0176,
+    "geom:longitude": 114.88906,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Guling",
+    "gn:country_code": "CN",
+    "gn:dem": 41,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7030147,
+    "gn:latitude": 23.0176,
+    "gn:longitude": 114.88906,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Guling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.86906,22.9976,114.90906,23.0376",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "古岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516563
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514611,
+      890516563
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7030147
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7030147
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f9102bfc89ccc7bc96aa0a9fa804cdb3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516563,
-            "empire_id":136253041,
-            "locality_id":1326680049,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f9102bfc89ccc7bc96aa0a9fa804cdb3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516563,
+        "empire_id": 136253041,
+        "locality_id": 1326680049,
+        "region_id": 85669743,
+        "localadmin_id": 890514611
+      }
     ],
-    "wof:id":1326680049,
-    "wof:lastmodified":1566649662,
-    "wof:name":"Guling",
-    "wof:parent_id":890516563,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326680049,
+    "wof:lastmodified": 1768668261,
+    "wof:name": "Guling",
+    "wof:parent_id": 890514611,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.88906,
     23.0176,
     114.88906,
     23.0176
-],
-  "geometry": {"coordinates":[114.88906,23.0176],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.88906,
+      23.0176
+    ],
+    "type": "Point"
+  }
 }

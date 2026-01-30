@@ -2,83 +2,91 @@
   "id": 1293460521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"96.602,31.202,96.602,31.202",
-    "geom:latitude":31.202,
-    "geom:longitude":96.602,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Sibta",
-    "gn:country_code":"CN",
-    "gn:dem":3853,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8055936,
-    "gn:latitude":31.202,
-    "gn:longitude":96.602,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Sibta",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"96.582,31.182,96.622,31.222",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Sibta"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "96.602,31.202,96.602,31.202",
+    "geom:latitude": 31.202,
+    "geom:longitude": 96.602,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Sibta",
+    "gn:country_code": "CN",
+    "gn:dem": 3853,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8055936,
+    "gn:latitude": 31.202,
+    "gn:longitude": 96.602,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Sibta",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "96.582,31.182,96.622,31.222",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Sibta"
     ],
-    "name:zho_x_preferred":[
-        "Seda"
+    "name:zho_x_preferred": [
+      "Seda"
     ],
-    "name:zho_x_variant":[
-        "\u8272\u8fbe",
-        "Sangduo",
-        "\u6851\u591a"
+    "name:zho_x_variant": [
+      "色达",
+      "Sangduo",
+      "桑多"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890514545
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890514545,
+      1127540323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8055936
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8055936
     },
-    "wof:country":"CN",
-    "wof:geomhash":"010bba0f16dc43c874ebc0ff3430c1e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514545,
-            "empire_id":136253041,
-            "locality_id":1293460521,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "010bba0f16dc43c874ebc0ff3430c1e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514545,
+        "empire_id": 136253041,
+        "locality_id": 1293460521,
+        "region_id": 85669747,
+        "localadmin_id": 1127540323
+      }
     ],
-    "wof:id":1293460521,
-    "wof:lastmodified":1566667270,
-    "wof:name":"Sibta",
-    "wof:parent_id":890514545,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293460521,
+    "wof:lastmodified": 1768664896,
+    "wof:name": "Sibta",
+    "wof:parent_id": 1127540323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     96.602,
     31.202,
     96.602,
     31.202
-],
-  "geometry": {"coordinates":[96.602,31.202],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      96.602,
+      31.202
+    ],
+    "type": "Point"
+  }
 }

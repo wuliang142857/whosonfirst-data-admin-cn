@@ -2,78 +2,309 @@
   "id": 890514291,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.84611,35.96806,115.84611,35.96806",
-    "geom:latitude":35.96806,
-    "geom:longitude":115.84611,
-    "gn:country":"CN",
-    "gn:fcode":"ADM3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"115.74611,35.86806,115.94611,36.06806",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Taiqian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000871345662,
+    "geom:area_square_m": 871345662.02,
+    "geom:bbox": "115.64481,35.831787,116.092756,36.110466",
+    "geom:latitude": 35.971126,
+    "geom:longitude": 115.868783,
+    "gn:country": "CN",
+    "gn:fcode": "ADM3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "115.76878,35.87113,115.96878,36.07113",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Taiqian"
     ],
-    "name:zho_x_preferred":[
-        "\u53f0\u524d\u53bf"
+    "name:zho_x_preferred": [
+      "台前县"
     ],
-    "name:zho_x_variant":[
-        "\u53f0\u524d"
+    "name:zho_x_variant": [
+      "台前"
     ],
-    "qs:name":"Taiqian Xian",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514079
+    "qs:name": "Taiqian Xian",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85669801,
+      102191569,
+      85632695,
+      136253041,
+      890514079
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1793556,
-        "qs_pg:id":1031500
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1793556,
+      "qs_pg:id": 1031500,
+      "gb:id": "156410927"
     },
-    "wof:country":"CN",
-    "wof:created":1469055855,
-    "wof:geomhash":"cefd5523aa75196a3389544a9c2e7161",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514079,
-            "empire_id":136253041,
-            "localadmin_id":890514291,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055855,
+    "wof:geomhash": "cefd5523aa75196a3389544a9c2e7161",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514079,
+        "empire_id": 136253041,
+        "localadmin_id": 890514291,
+        "region_id": 85669801
+      }
     ],
-    "wof:id":890514291,
-    "wof:lastmodified":1566693689,
-    "wof:name":"Taiqian Xian",
-    "wof:parent_id":890514079,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890514291,
+    "wof:lastmodified": 1768664149,
+    "wof:name": "Taiqian Xian",
+    "wof:parent_id": 890514079,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    115.84611,
-    35.96806,
-    115.84611,
-    35.96806
-],
-  "geometry": {"coordinates":[115.84611,35.96806],"type":"Point"}
+    115.64481,
+    35.831787,
+    116.092756,
+    36.110466
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            116.043518,
+            35.982479
+          ],
+          [
+            116.039726,
+            35.97142
+          ],
+          [
+            116.032623,
+            35.967598
+          ],
+          [
+            115.979614,
+            35.974976
+          ],
+          [
+            115.908569,
+            35.962132
+          ],
+          [
+            115.900925,
+            35.951477
+          ],
+          [
+            115.89901,
+            35.928524
+          ],
+          [
+            115.864853,
+            35.914314
+          ],
+          [
+            115.86573,
+            35.908943
+          ],
+          [
+            115.87793,
+            35.908688
+          ],
+          [
+            115.882255,
+            35.897251
+          ],
+          [
+            115.869525,
+            35.864996
+          ],
+          [
+            115.856659,
+            35.856426
+          ],
+          [
+            115.833961,
+            35.855251
+          ],
+          [
+            115.833687,
+            35.847801
+          ],
+          [
+            115.813805,
+            35.85289
+          ],
+          [
+            115.809204,
+            35.843914
+          ],
+          [
+            115.766304,
+            35.853683
+          ],
+          [
+            115.75396,
+            35.837318
+          ],
+          [
+            115.727388,
+            35.831787
+          ],
+          [
+            115.702431,
+            35.844207
+          ],
+          [
+            115.689327,
+            35.845185
+          ],
+          [
+            115.690278,
+            35.849431
+          ],
+          [
+            115.700943,
+            35.852619
+          ],
+          [
+            115.708565,
+            35.863745
+          ],
+          [
+            115.71424,
+            35.864044
+          ],
+          [
+            115.70838,
+            35.873746
+          ],
+          [
+            115.695996,
+            35.879735
+          ],
+          [
+            115.691777,
+            35.888439
+          ],
+          [
+            115.699515,
+            35.893301
+          ],
+          [
+            115.693675,
+            35.908192
+          ],
+          [
+            115.680899,
+            35.90427
+          ],
+          [
+            115.675136,
+            35.915418
+          ],
+          [
+            115.64481,
+            35.930572
+          ],
+          [
+            115.675331,
+            35.94376
+          ],
+          [
+            115.685959,
+            35.963493
+          ],
+          [
+            115.708435,
+            35.970341
+          ],
+          [
+            115.727875,
+            35.969246
+          ],
+          [
+            115.748497,
+            35.974121
+          ],
+          [
+            115.803116,
+            36.010052
+          ],
+          [
+            115.828773,
+            36.014641
+          ],
+          [
+            115.85331,
+            36.00663
+          ],
+          [
+            115.890267,
+            36.024941
+          ],
+          [
+            115.925438,
+            36.025852
+          ],
+          [
+            115.940926,
+            36.037064
+          ],
+          [
+            115.997414,
+            36.052116
+          ],
+          [
+            116.017357,
+            36.063339
+          ],
+          [
+            116.056313,
+            36.104996
+          ],
+          [
+            116.092756,
+            36.110466
+          ],
+          [
+            116.084579,
+            36.080509
+          ],
+          [
+            116.068817,
+            36.05611
+          ],
+          [
+            116.070091,
+            36.038826
+          ],
+          [
+            116.066277,
+            36.025608
+          ],
+          [
+            116.056107,
+            36.027897
+          ],
+          [
+            116.043518,
+            35.982479
+          ]
+        ]
+      ]
+    ]
+  }
 }

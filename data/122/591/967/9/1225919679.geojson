@@ -2,75 +2,83 @@
   "id": 1225919679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.942,25.0068,104.942,25.0068",
-    "geom:latitude":25.0068,
-    "geom:longitude":104.942,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Wojia",
-    "gn:country_code":"CN",
-    "gn:dem":1155,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10006187,
-    "gn:latitude":25.0068,
-    "gn:longitude":104.942,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Wojia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.922,24.9868,104.962,25.0268",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5367\u621b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.942,25.0068,104.942,25.0068",
+    "geom:latitude": 25.0068,
+    "geom:longitude": 104.942,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Wojia",
+    "gn:country_code": "CN",
+    "gn:dem": 1155,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10006187,
+    "gn:latitude": 25.0068,
+    "gn:longitude": 104.942,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Wojia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.922,24.9868,104.962,25.0268",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "卧戛"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890514281,
+      1108732559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10006187
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10006187
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8535a7b93b6d6506848372da0f33f188",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732559,
-            "empire_id":136253041,
-            "locality_id":1225919679,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8535a7b93b6d6506848372da0f33f188",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732559,
+        "empire_id": 136253041,
+        "locality_id": 1225919679,
+        "region_id": 85669721,
+        "localadmin_id": 890514281
+      }
     ],
-    "wof:id":1225919679,
-    "wof:lastmodified":1566703474,
-    "wof:name":"Wojia",
-    "wof:parent_id":1108732559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225919679,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Wojia",
+    "wof:parent_id": 890514281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.942,
     25.0068,
     104.942,
     25.0068
-],
-  "geometry": {"coordinates":[104.94199999999999,25.0068],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.942,
+      25.0068
+    ],
+    "type": "Point"
+  }
 }

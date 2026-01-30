@@ -2,75 +2,83 @@
   "id": 1225903151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.856,38.048,105.856,38.048",
-    "geom:latitude":38.048,
-    "geom:longitude":105.856,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Gezishan",
-    "gn:country_code":"CN",
-    "gn:dem":1209,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10188318,
-    "gn:latitude":38.048,
-    "gn:longitude":105.856,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Gezishan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.836,38.028,105.876,38.068",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9e3d\u5b50\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.856,38.048,105.856,38.048",
+    "geom:latitude": 38.048,
+    "geom:longitude": 105.856,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Gezishan",
+    "gn:country_code": "CN",
+    "gn:dem": 1209,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10188318,
+    "gn:latitude": 38.048,
+    "gn:longitude": 105.856,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Gezishan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.836,38.028,105.876,38.068",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "鸽子山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        1108732381
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515661,
+      1108732381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10188318
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10188318
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8224c8559ffc79b5f099a1b1349e733d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732381,
-            "empire_id":136253041,
-            "locality_id":1225903151,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8224c8559ffc79b5f099a1b1349e733d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732381,
+        "empire_id": 136253041,
+        "locality_id": 1225903151,
+        "region_id": 85669763,
+        "localadmin_id": 890515661
+      }
     ],
-    "wof:id":1225903151,
-    "wof:lastmodified":1566703267,
-    "wof:name":"Gezishan",
-    "wof:parent_id":1108732381,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225903151,
+    "wof:lastmodified": 1768667273,
+    "wof:name": "Gezishan",
+    "wof:parent_id": 890515661,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.856,
     38.048,
     105.856,
     38.048
-],
-  "geometry": {"coordinates":[105.85599999999999,38.048],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.856,
+      38.048
+    ],
+    "type": "Point"
+  }
 }

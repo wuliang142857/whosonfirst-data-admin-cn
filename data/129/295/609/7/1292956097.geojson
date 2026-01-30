@@ -2,75 +2,83 @@
   "id": 1292956097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.379,34.9786,118.379,34.9786",
-    "geom:latitude":34.9786,
-    "geom:longitude":118.379,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Zhongtan",
-    "gn:country_code":"CN",
-    "gn:dem":61,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9122417,
-    "gn:latitude":34.9786,
-    "gn:longitude":118.379,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Zhongtan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.359,34.9586,118.399,34.9986",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u5766"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.379,34.9786,118.379,34.9786",
+    "geom:latitude": 34.9786,
+    "geom:longitude": 118.379,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Zhongtan",
+    "gn:country_code": "CN",
+    "gn:dem": 61,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9122417,
+    "gn:latitude": 34.9786,
+    "gn:longitude": 118.379,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Zhongtan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.359,34.9586,118.399,34.9986",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中坦"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      1108732339,
+      1127371311
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9122417
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9122417
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c336f100b3952de4282bc4beed1c1aaa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1292956097,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c336f100b3952de4282bc4beed1c1aaa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1292956097,
+        "region_id": 85669813,
+        "localadmin_id": 1127371311
+      }
     ],
-    "wof:id":1292956097,
-    "wof:lastmodified":1566667153,
-    "wof:name":"Zhongtan",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292956097,
+    "wof:lastmodified": 1768668426,
+    "wof:name": "Zhongtan",
+    "wof:parent_id": 1127371311,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.379,
     34.9786,
     118.379,
     34.9786
-],
-  "geometry": {"coordinates":[118.379,34.9786],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.379,
+      34.9786
+    ],
+    "type": "Point"
+  }
 }

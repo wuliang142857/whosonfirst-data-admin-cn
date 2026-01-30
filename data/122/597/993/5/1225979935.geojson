@@ -2,87 +2,95 @@
   "id": 1225979935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.33079,18.92416,110.33079,18.92416",
-    "geom:latitude":18.92416,
-    "geom:longitude":110.33079,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Beida",
-    "gn:country_code":"CN",
-    "gn:dem":30,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1917629,
-    "gn:latitude":18.92416,
-    "gn:longitude":110.33079,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Beida",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.31079,18.90416,110.35079,18.94416",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Beida"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.33079,18.92416,110.33079,18.92416",
+    "geom:latitude": 18.92416,
+    "geom:longitude": 110.33079,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Beida",
+    "gn:country_code": "CN",
+    "gn:dem": 30,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1917629,
+    "gn:latitude": 18.92416,
+    "gn:longitude": 110.33079,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Beida",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.31079,18.90416,110.35079,18.94416",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Beida"
     ],
-    "name:fra_x_preferred":[
-        "Beida"
+    "name:fra_x_preferred": [
+      "Beida"
     ],
-    "name:nld_x_preferred":[
-        "Beida"
+    "name:nld_x_preferred": [
+      "Beida"
     ],
-    "name:swe_x_preferred":[
-        "Beida"
+    "name:swe_x_preferred": [
+      "Beida"
     ],
-    "name:und_x_variant":[
-        "\u5317\u5927",
-        "Beida Zhen",
-        "\u5317\u5927\u9547"
+    "name:und_x_variant": [
+      "北大",
+      "Beida Zhen",
+      "北大镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732331
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890513893,
+      1108732331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917629
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917629
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d194147edb389dd3869b27c675d61f08",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732331,
-            "locality_id":1225979935,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d194147edb389dd3869b27c675d61f08",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732331,
+        "locality_id": 1225979935,
+        "region_id": 85669759,
+        "localadmin_id": 890513893
+      }
     ],
-    "wof:id":1225979935,
-    "wof:lastmodified":1566703352,
-    "wof:name":"Beida",
-    "wof:parent_id":1108732331,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225979935,
+    "wof:lastmodified": 1768671220,
+    "wof:name": "Beida",
+    "wof:parent_id": 890513893,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.33079,
     18.92416,
     110.33079,
     18.92416
-],
-  "geometry": {"coordinates":[110.33078999999999,18.92416],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.33079,
+      18.92416
+    ],
+    "type": "Point"
+  }
 }

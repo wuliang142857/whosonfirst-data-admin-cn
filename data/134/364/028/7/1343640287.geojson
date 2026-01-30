@@ -2,72 +2,80 @@
   "id": 1343640287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.43528,42.15111,117.43528,42.15111",
-    "geom:latitude":42.15111,
-    "geom:longitude":117.43528,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Shang-ta-huan-ch'i-kou",
-    "gn:country_code":"CN",
-    "gn:dem":1185,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2048697,
-    "gn:latitude":42.15111,
-    "gn:longitude":117.43528,
-    "gn:modification_date":"1995-03-06",
-    "gn:name":"Shang-ta-huan-ch\u2019i-kou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.41528,42.13111,117.45528,42.17111",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513327
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.43528,42.15111,117.43528,42.15111",
+    "geom:latitude": 42.15111,
+    "geom:longitude": 117.43528,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Shang-ta-huan-ch'i-kou",
+    "gn:country_code": "CN",
+    "gn:dem": 1185,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2048697,
+    "gn:latitude": 42.15111,
+    "gn:longitude": 117.43528,
+    "gn:modification_date": "1995-03-06",
+    "gn:name": "Shang-ta-huan-ch’i-kou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.41528,42.13111,117.45528,42.17111",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890511951,
+      890513327
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2048697
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2048697
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8d31604e3817f0e4546682ff4d943d3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513327,
-            "empire_id":136253041,
-            "locality_id":1343640287,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8d31604e3817f0e4546682ff4d943d3a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513327,
+        "empire_id": 136253041,
+        "locality_id": 1343640287,
+        "region_id": 85669797,
+        "localadmin_id": 890511951
+      }
     ],
-    "wof:id":1343640287,
-    "wof:lastmodified":1566657575,
-    "wof:name":"Shang-ta-huan-ch'i-kou",
-    "wof:parent_id":890513327,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343640287,
+    "wof:lastmodified": 1768668998,
+    "wof:name": "Shang-ta-huan-ch'i-kou",
+    "wof:parent_id": 890511951,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.43528,
     42.15111,
     117.43528,
     42.15111
-],
-  "geometry": {"coordinates":[117.43528000000001,42.15111],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.43528,
+      42.15111
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310283841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.7089,37.8218,116.7089,37.8218",
-    "geom:latitude":37.8218,
-    "geom:longitude":116.7089,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Baizhuang",
-    "gn:country_code":"CN",
-    "gn:dem":17,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11069707,
-    "gn:latitude":37.8218,
-    "gn:longitude":116.7089,
-    "gn:modification_date":"2016-02-08",
-    "gn:name":"Baizhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.6889,37.8018,116.7289,37.8418",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u767d\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.7089,37.8218,116.7089,37.8218",
+    "geom:latitude": 37.8218,
+    "geom:longitude": 116.7089,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Baizhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 17,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11069707,
+    "gn:latitude": 37.8218,
+    "gn:longitude": 116.7089,
+    "gn:modification_date": "2016-02-08",
+    "gn:name": "Baizhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.6889,37.8018,116.7289,37.8418",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "白庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11069707
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11069707
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1a654f263127dcf7f0e72d4a77902266",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1310283841,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1a654f263127dcf7f0e72d4a77902266",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1310283841,
+        "region_id": 85669797,
+        "localadmin_id": 1127130923
+      }
     ],
-    "wof:id":1310283841,
-    "wof:lastmodified":1566690110,
-    "wof:name":"Baizhuang",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310283841,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Baizhuang",
+    "wof:parent_id": 1127130923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.7089,
     37.8218,
     116.7089,
     37.8218
-],
-  "geometry": {"coordinates":[116.7089,37.8218],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.7089,
+      37.8218
+    ],
+    "type": "Point"
+  }
 }

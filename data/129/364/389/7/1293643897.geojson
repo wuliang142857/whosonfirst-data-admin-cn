@@ -2,80 +2,88 @@
   "id": 1293643897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.00028,35.95833,109.00028,35.95833",
-    "geom:latitude":35.95833,
-    "geom:longitude":109.00028,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Zhiluozhen",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":983,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1784511,
-    "gn:latitude":35.95833,
-    "gn:longitude":109.00028,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhiluozhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.98028,35.93833,109.02028,35.97833",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chih-lo-chen",
-        "Zhiluo",
-        "Chih-lo",
-        "Chen-lo-chen",
-        "Zhiluozhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.00028,35.95833,109.00028,35.95833",
+    "geom:latitude": 35.95833,
+    "geom:longitude": 109.00028,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Zhiluozhen",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 983,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1784511,
+    "gn:latitude": 35.95833,
+    "gn:longitude": 109.00028,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhiluozhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.98028,35.93833,109.02028,35.97833",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chih-lo-chen",
+      "Zhiluo",
+      "Chih-lo",
+      "Chen-lo-chen",
+      "Zhiluozhen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516587
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516587,
+      1127610628
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784511
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784511
     },
-    "wof:country":"CN",
-    "wof:geomhash":"813f379186e1ee7f3d68a4d8a7224906",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516587,
-            "empire_id":136253041,
-            "locality_id":1293643897,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "813f379186e1ee7f3d68a4d8a7224906",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516587,
+        "empire_id": 136253041,
+        "locality_id": 1293643897,
+        "region_id": 85669769,
+        "localadmin_id": 1127610628
+      }
     ],
-    "wof:id":1293643897,
-    "wof:lastmodified":1566666956,
-    "wof:name":"Zhiluozhen",
-    "wof:parent_id":890516587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293643897,
+    "wof:lastmodified": 1768667666,
+    "wof:name": "Zhiluozhen",
+    "wof:parent_id": 1127610628,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.00028,
     35.95833,
     109.00028,
     35.95833
-],
-  "geometry": {"coordinates":[109.00028,35.95833],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.00028,
+      35.95833
+    ],
+    "type": "Point"
+  }
 }

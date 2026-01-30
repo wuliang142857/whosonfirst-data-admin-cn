@@ -2,78 +2,86 @@
   "id": 1260289707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.038,34.5854,118.038,34.5854",
-    "geom:latitude":34.5854,
-    "geom:longitude":118.038,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Bianhu",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11089193,
-    "gn:latitude":34.5854,
-    "gn:longitude":118.038,
-    "gn:modification_date":"2016-03-12",
-    "gn:name":"Bianhu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.018,34.5654,118.058,34.6054",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u535e\u6e56"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.038,34.5854,118.038,34.5854",
+    "geom:latitude": 34.5854,
+    "geom:longitude": 118.038,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Bianhu",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11089193,
+    "gn:latitude": 34.5854,
+    "gn:longitude": 118.038,
+    "gn:modification_date": "2016-03-12",
+    "gn:name": "Bianhu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.018,34.5654,118.058,34.6054",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "卞湖"
     ],
-    "name:zho_x_variant":[
-        "\u7de8\u6236\u9f4a\u6c11"
+    "name:zho_x_variant": [
+      "編戶齊民"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890512647,
+      890516333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11089193
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11089193
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d5c195f15ac579eeaa07251d97151a07",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1260289707,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d5c195f15ac579eeaa07251d97151a07",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1260289707,
+        "region_id": 85669827,
+        "localadmin_id": 890512647
+      }
     ],
-    "wof:id":1260289707,
-    "wof:lastmodified":1566687349,
-    "wof:name":"Bianhu",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260289707,
+    "wof:lastmodified": 1768670914,
+    "wof:name": "Bianhu",
+    "wof:parent_id": 890512647,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.038,
     34.5854,
     118.038,
     34.5854
-],
-  "geometry": {"coordinates":[118.038,34.5854],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.038,
+      34.5854
+    ],
+    "type": "Point"
+  }
 }

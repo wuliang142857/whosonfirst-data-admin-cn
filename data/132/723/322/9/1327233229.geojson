@@ -2,75 +2,83 @@
   "id": 1327233229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.017,28.3405,115.017,28.3405",
-    "geom:latitude":28.3405,
-    "geom:longitude":115.017,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Gangdong Luojia",
-    "gn:country_code":"CN",
-    "gn:dem":54,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9876885,
-    "gn:latitude":28.3405,
-    "gn:longitude":115.017,
-    "gn:modification_date":"2014-12-05",
-    "gn:name":"Gangdong Luojia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.997,28.3205,115.037,28.3605",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e2f\u4e1c\u7f57\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.017,28.3405,115.017,28.3405",
+    "geom:latitude": 28.3405,
+    "geom:longitude": 115.017,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Gangdong Luojia",
+    "gn:country_code": "CN",
+    "gn:dem": 54,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9876885,
+    "gn:latitude": 28.3405,
+    "gn:longitude": 115.017,
+    "gn:modification_date": "2014-12-05",
+    "gn:name": "Gangdong Luojia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.997,28.3205,115.037,28.3605",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "港东罗家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514553,
+      1127360923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9876885
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9876885
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c0f013e46cebf0d056d31d9f3309d728",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1327233229,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c0f013e46cebf0d056d31d9f3309d728",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1327233229,
+        "region_id": 85669823,
+        "localadmin_id": 1127360923
+      }
     ],
-    "wof:id":1327233229,
-    "wof:lastmodified":1566650749,
-    "wof:name":"Gangdong Luojia",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327233229,
+    "wof:lastmodified": 1768669928,
+    "wof:name": "Gangdong Luojia",
+    "wof:parent_id": 1127360923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.017,
     28.3405,
     115.017,
     28.3405
-],
-  "geometry": {"coordinates":[115.017,28.3405],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.017,
+      28.3405
+    ],
+    "type": "Point"
+  }
 }

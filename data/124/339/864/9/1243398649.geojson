@@ -2,73 +2,81 @@
   "id": 1243398649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.04,18.4427,110.04,18.4427",
-    "geom:latitude":18.4427,
-    "geom:longitude":110.04,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Houling",
-    "gn:country_code":"CN",
-    "gn:dem":25,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1894227,
-    "gn:latitude":18.4427,
-    "gn:longitude":110.04,
-    "gn:modification_date":"2016-01-07",
-    "gn:name":"Houling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.02,18.4227,110.06,18.4627",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u540e\u5cad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.04,18.4427,110.04,18.4427",
+    "geom:latitude": 18.4427,
+    "geom:longitude": 110.04,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Houling",
+    "gn:country_code": "CN",
+    "gn:dem": 25,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1894227,
+    "gn:latitude": 18.4427,
+    "gn:longitude": 110.04,
+    "gn:modification_date": "2016-01-07",
+    "gn:name": "Houling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.02,18.4227,110.06,18.4627",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "后岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732539
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515213,
+      1108732539
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1894227
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1894227
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7e3637038a67cb9489e87a903cf5e3b8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732539,
-            "locality_id":1243398649,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7e3637038a67cb9489e87a903cf5e3b8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732539,
+        "locality_id": 1243398649,
+        "region_id": 85669759,
+        "localadmin_id": 890515213
+      }
     ],
-    "wof:id":1243398649,
-    "wof:lastmodified":1566694228,
-    "wof:name":"Houling",
-    "wof:parent_id":1108732539,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243398649,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Houling",
+    "wof:parent_id": 890515213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.04,
     18.4427,
     110.04,
     18.4427
-],
-  "geometry": {"coordinates":[110.04000000000001,18.4427],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.04,
+      18.4427
+    ],
+    "type": "Point"
+  }
 }

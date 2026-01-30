@@ -2,80 +2,88 @@
   "id": 1326638481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.301,30.07859,121.301,30.07859",
-    "geom:latitude":30.07859,
-    "geom:longitude":121.301,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Gangduncun",
-    "gn:country_code":"CN",
-    "gn:dem":292,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1899049,
-    "gn:latitude":30.07859,
-    "gn:longitude":121.301,
-    "gn:modification_date":"2018-01-10",
-    "gn:name":"Gangduncun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.281,30.05859,121.321,30.09859",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Gangdun",
-        "\u5c97\u58a9",
-        "Gangduncun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.301,30.07859,121.301,30.07859",
+    "geom:latitude": 30.07859,
+    "geom:longitude": 121.301,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Gangduncun",
+    "gn:country_code": "CN",
+    "gn:dem": 292,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1899049,
+    "gn:latitude": 30.07859,
+    "gn:longitude": 121.301,
+    "gn:modification_date": "2018-01-10",
+    "gn:name": "Gangduncun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.281,30.05859,121.321,30.09859",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Gangdun",
+      "岗墩",
+      "Gangduncun"
     ],
-    "name:zho_x_preferred":[
-        "\u5c97\u58a9\u6751"
+    "name:zho_x_preferred": [
+      "岗墩村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516009,
+      890516553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1899049
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1899049
     },
-    "wof:country":"CN",
-    "wof:geomhash":"71552c029f094e7ce971b7ab8639d252",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516553,
-            "empire_id":136253041,
-            "locality_id":1326638481,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "71552c029f094e7ce971b7ab8639d252",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516553,
+        "empire_id": 136253041,
+        "locality_id": 1326638481,
+        "region_id": 85669835,
+        "localadmin_id": 890516009
+      }
     ],
-    "wof:id":1326638481,
-    "wof:lastmodified":1566653429,
-    "wof:name":"Gangduncun",
-    "wof:parent_id":890516553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326638481,
+    "wof:lastmodified": 1768669614,
+    "wof:name": "Gangduncun",
+    "wof:parent_id": 890516009,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.301,
     30.07859,
     121.301,
     30.07859
-],
-  "geometry": {"coordinates":[121.301,30.07859],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.301,
+      30.07859
+    ],
+    "type": "Point"
+  }
 }

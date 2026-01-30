@@ -2,75 +2,83 @@
   "id": 1360030975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.315,29.6734,104.315,29.6734",
-    "geom:latitude":29.6734,
-    "geom:longitude":104.315,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Changyantang",
-    "gn:country_code":"CN",
-    "gn:dem":578,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10184667,
-    "gn:latitude":29.6734,
-    "gn:longitude":104.315,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Changyantang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.295,29.6534,104.335,29.6934",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u957f\u5830\u5858"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.315,29.6734,104.315,29.6734",
+    "geom:latitude": 29.6734,
+    "geom:longitude": 104.315,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Changyantang",
+    "gn:country_code": "CN",
+    "gn:dem": 578,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10184667,
+    "gn:latitude": 29.6734,
+    "gn:longitude": 104.315,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Changyantang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.295,29.6534,104.335,29.6934",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "长堰塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512843,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10184667
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10184667
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8ea25c82659e11b7e48b90279d8ce45f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1360030975,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8ea25c82659e11b7e48b90279d8ce45f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1360030975,
+        "region_id": 85669787,
+        "localadmin_id": 890512843
+      }
     ],
-    "wof:id":1360030975,
-    "wof:lastmodified":1566692073,
-    "wof:name":"Changyantang",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360030975,
+    "wof:lastmodified": 1768668256,
+    "wof:name": "Changyantang",
+    "wof:parent_id": 890512843,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.315,
     29.6734,
     104.315,
     29.6734
-],
-  "geometry": {"coordinates":[104.315,29.6734],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.315,
+      29.6734
+    ],
+    "type": "Point"
+  }
 }

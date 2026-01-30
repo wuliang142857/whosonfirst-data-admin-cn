@@ -2,75 +2,83 @@
   "id": 1210037325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.13469,25.71382,116.13469,25.71382",
-    "geom:latitude":25.71382,
-    "geom:longitude":116.13469,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Zhongtian",
-    "gn:country_code":"CN",
-    "gn:dem":447,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7526023,
-    "gn:latitude":25.71382,
-    "gn:longitude":116.13469,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhongtian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.11469,25.69382,116.15469,25.73382",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u7530"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.13469,25.71382,116.13469,25.71382",
+    "geom:latitude": 25.71382,
+    "geom:longitude": 116.13469,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Zhongtian",
+    "gn:country_code": "CN",
+    "gn:dem": 447,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7526023,
+    "gn:latitude": 25.71382,
+    "gn:longitude": 116.13469,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhongtian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.11469,25.69382,116.15469,25.73382",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中田"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516203
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516203,
+      1127350821
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7526023
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7526023
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ce22104cb7c52e87e8eb0adfc340f041",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516203,
-            "empire_id":136253041,
-            "locality_id":1210037325,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ce22104cb7c52e87e8eb0adfc340f041",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516203,
+        "empire_id": 136253041,
+        "locality_id": 1210037325,
+        "region_id": 85669735,
+        "localadmin_id": 1127350821
+      }
     ],
-    "wof:id":1210037325,
-    "wof:lastmodified":1566684564,
-    "wof:name":"Zhongtian",
-    "wof:parent_id":890516203,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1210037325,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Zhongtian",
+    "wof:parent_id": 1127350821,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.13469,
     25.71382,
     116.13469,
     25.71382
-],
-  "geometry": {"coordinates":[116.13469000000001,25.71382],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.13469,
+      25.71382
+    ],
+    "type": "Point"
+  }
 }

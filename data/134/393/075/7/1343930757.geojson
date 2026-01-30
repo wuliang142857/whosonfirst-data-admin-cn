@@ -2,75 +2,83 @@
   "id": 1343930757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.934,34.4712,105.934,34.4712",
-    "geom:latitude":34.4712,
-    "geom:longitude":105.934,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Quping",
-    "gn:country_code":"CN",
-    "gn:dem":1261,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429338,
-    "gn:latitude":34.4712,
-    "gn:longitude":105.934,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Quping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.914,34.4512,105.954,34.4912",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c48\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.934,34.4712,105.934,34.4712",
+    "geom:latitude": 34.4712,
+    "geom:longitude": 105.934,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Quping",
+    "gn:country_code": "CN",
+    "gn:dem": 1261,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429338,
+    "gn:latitude": 34.4712,
+    "gn:longitude": 105.934,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Quping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.914,34.4512,105.954,34.4912",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "屈坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429338
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429338
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0278a5780f786205f9cb5bf84de5c747",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1343930757,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0278a5780f786205f9cb5bf84de5c747",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1343930757,
+        "region_id": 85669711,
+        "localadmin_id": 1127620503
+      }
     ],
-    "wof:id":1343930757,
-    "wof:lastmodified":1566661810,
-    "wof:name":"Quping",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343930757,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Quping",
+    "wof:parent_id": 1127620503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.934,
     34.4712,
     105.934,
     34.4712
-],
-  "geometry": {"coordinates":[105.934,34.4712],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.934,
+      34.4712
+    ],
+    "type": "Point"
+  }
 }

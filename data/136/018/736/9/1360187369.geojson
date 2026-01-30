@@ -2,75 +2,83 @@
   "id": 1360187369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.96139,29.68194,120.96139,29.68194",
-    "geom:latitude":29.68194,
-    "geom:longitude":120.96139,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Meikeng",
-    "gn:country_code":"CN",
-    "gn:dem":293,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1918907,
-    "gn:latitude":29.68194,
-    "gn:longitude":120.96139,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Meikeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.94139,29.66194,120.98139,29.70194",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6885\u5751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.96139,29.68194,120.96139,29.68194",
+    "geom:latitude": 29.68194,
+    "geom:longitude": 120.96139,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Meikeng",
+    "gn:country_code": "CN",
+    "gn:dem": 293,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1918907,
+    "gn:latitude": 29.68194,
+    "gn:longitude": 120.96139,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Meikeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.94139,29.66194,120.98139,29.70194",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "梅坑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513785
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513785,
+      1127330683
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1918907
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1918907
     },
-    "wof:country":"CN",
-    "wof:geomhash":"93f5993d26b074f7e4a68badf683464b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "locality_id":1360187369,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "93f5993d26b074f7e4a68badf683464b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "locality_id": 1360187369,
+        "region_id": 85669835,
+        "localadmin_id": 1127330683
+      }
     ],
-    "wof:id":1360187369,
-    "wof:lastmodified":1566691712,
-    "wof:name":"Meikeng",
-    "wof:parent_id":890513785,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360187369,
+    "wof:lastmodified": 1768669996,
+    "wof:name": "Meikeng",
+    "wof:parent_id": 1127330683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.96139,
     29.68194,
     120.96139,
     29.68194
-],
-  "geometry": {"coordinates":[120.96138999999999,29.68194],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.96139,
+      29.68194
+    ],
+    "type": "Point"
+  }
 }

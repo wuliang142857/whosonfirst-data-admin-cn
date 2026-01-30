@@ -2,78 +2,86 @@
   "id": 1242764989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.44858,29.76987,111.44858,29.76987",
-    "geom:latitude":29.76987,
-    "geom:longitude":111.44858,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Shijiapu",
-    "gn:country_code":"CN",
-    "gn:dem":154,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8135538,
-    "gn:latitude":29.76987,
-    "gn:longitude":111.44858,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Shijiapu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.42858,29.74987,111.46858,29.78987",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Shijiapu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.44858,29.76987,111.44858,29.76987",
+    "geom:latitude": 29.76987,
+    "geom:longitude": 111.44858,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Shijiapu",
+    "gn:country_code": "CN",
+    "gn:dem": 154,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8135538,
+    "gn:latitude": 29.76987,
+    "gn:longitude": 111.44858,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Shijiapu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.42858,29.74987,111.46858,29.78987",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Shijiapu"
     ],
-    "name:zho_x_variant":[
-        "\u77f3\u5bb6\u94fa"
+    "name:zho_x_variant": [
+      "石家铺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513121,
+      890515867
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8135538
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8135538
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5e60d5f8eb87bbf5a29bd10f554a3ff7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1242764989,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5e60d5f8eb87bbf5a29bd10f554a3ff7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1242764989,
+        "region_id": 85669781,
+        "localadmin_id": 890513121
+      }
     ],
-    "wof:id":1242764989,
-    "wof:lastmodified":1566696773,
-    "wof:name":"Shijiapu",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242764989,
+    "wof:lastmodified": 1768670428,
+    "wof:name": "Shijiapu",
+    "wof:parent_id": 890513121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.44858,
     29.76987,
     111.44858,
     29.76987
-],
-  "geometry": {"coordinates":[111.44858000000001,29.76987],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.44858,
+      29.76987
+    ],
+    "type": "Point"
+  }
 }

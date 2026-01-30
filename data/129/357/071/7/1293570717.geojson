@@ -2,75 +2,83 @@
   "id": 1293570717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.104,24.7204,105.104,24.7204",
-    "geom:latitude":24.7204,
-    "geom:longitude":105.104,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Potoushang",
-    "gn:country_code":"CN",
-    "gn:dem":1212,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9911312,
-    "gn:latitude":24.7204,
-    "gn:longitude":105.104,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Potoushang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.084,24.7004,105.124,24.7404",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5761\u5934\u4e0a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.104,24.7204,105.104,24.7204",
+    "geom:latitude": 24.7204,
+    "geom:longitude": 105.104,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Potoushang",
+    "gn:country_code": "CN",
+    "gn:dem": 1212,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9911312,
+    "gn:latitude": 24.7204,
+    "gn:longitude": 105.104,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Potoushang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.084,24.7004,105.124,24.7404",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坡头上"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9911312
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9911312
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fe60d7db8c50046b344057de31747714",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1293570717,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fe60d7db8c50046b344057de31747714",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1293570717,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1293570717,
-    "wof:lastmodified":1566668996,
-    "wof:name":"Potoushang",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293570717,
+    "wof:lastmodified": 1768665072,
+    "wof:name": "Potoushang",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.104,
     24.7204,
     105.104,
     24.7204
-],
-  "geometry": {"coordinates":[105.104,24.7204],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.104,
+      24.7204
+    ],
+    "type": "Point"
+  }
 }

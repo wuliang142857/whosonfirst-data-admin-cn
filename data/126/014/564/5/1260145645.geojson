@@ -2,75 +2,83 @@
   "id": 1260145645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.29431,40.65866,123.29431,40.65866",
-    "geom:latitude":40.65866,
-    "geom:longitude":123.29431,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Zhongjiabucun",
-    "gn:country_code":"CN",
-    "gn:dem":209,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11566051,
-    "gn:latitude":40.65866,
-    "gn:longitude":123.29431,
-    "gn:modification_date":"2018-05-12",
-    "gn:name":"Zhongjiabucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.27431,40.63866,123.31431,40.67866",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u949f\u5bb6\u5821\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.29431,40.65866,123.29431,40.65866",
+    "geom:latitude": 40.65866,
+    "geom:longitude": 123.29431,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Zhongjiabucun",
+    "gn:country_code": "CN",
+    "gn:dem": 209,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11566051,
+    "gn:latitude": 40.65866,
+    "gn:longitude": 123.29431,
+    "gn:modification_date": "2018-05-12",
+    "gn:name": "Zhongjiabucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.27431,40.63866,123.31431,40.67866",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "钟家堡村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514231
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514231,
+      1127210323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11566051
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11566051
     },
-    "wof:country":"CN",
-    "wof:geomhash":"115a990e02769ffa034a419abe6be4fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514231,
-            "empire_id":136253041,
-            "locality_id":1260145645,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "115a990e02769ffa034a419abe6be4fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514231,
+        "empire_id": 136253041,
+        "locality_id": 1260145645,
+        "region_id": 85669807,
+        "localadmin_id": 1127210323
+      }
     ],
-    "wof:id":1260145645,
-    "wof:lastmodified":1566686468,
-    "wof:name":"Zhongjiabucun",
-    "wof:parent_id":890514231,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260145645,
+    "wof:lastmodified": 1768666786,
+    "wof:name": "Zhongjiabucun",
+    "wof:parent_id": 1127210323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.29431,
     40.65866,
     123.29431,
     40.65866
-],
-  "geometry": {"coordinates":[123.29431,40.65866],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.29431,
+      40.65866
+    ],
+    "type": "Point"
+  }
 }

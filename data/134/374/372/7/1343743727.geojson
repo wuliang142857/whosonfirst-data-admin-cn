@@ -2,75 +2,83 @@
   "id": 1343743727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.283,22.1367,109.283,22.1367",
-    "geom:latitude":22.1367,
-    "geom:longitude":109.283,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Chenyi",
-    "gn:country_code":"CN",
-    "gn:dem":72,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9900370,
-    "gn:latitude":22.1367,
-    "gn:longitude":109.283,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Chenyi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.263,22.1167,109.303,22.1567",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u4f9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.283,22.1367,109.283,22.1367",
+    "geom:latitude": 22.1367,
+    "geom:longitude": 109.283,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Chenyi",
+    "gn:country_code": "CN",
+    "gn:dem": 72,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9900370,
+    "gn:latitude": 22.1367,
+    "gn:longitude": 109.283,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Chenyi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.263,22.1167,109.303,22.1567",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈依"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732511
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732511,
+      1127450722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9900370
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9900370
     },
-    "wof:country":"CN",
-    "wof:geomhash":"915fa01415450e6703641292824a01fe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732511,
-            "empire_id":136253041,
-            "locality_id":1343743727,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "915fa01415450e6703641292824a01fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732511,
+        "empire_id": 136253041,
+        "locality_id": 1343743727,
+        "region_id": 85669717,
+        "localadmin_id": 1127450722
+      }
     ],
-    "wof:id":1343743727,
-    "wof:lastmodified":1566664145,
-    "wof:name":"Chenyi",
-    "wof:parent_id":1108732511,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343743727,
+    "wof:lastmodified": 1768667000,
+    "wof:name": "Chenyi",
+    "wof:parent_id": 1127450722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.283,
     22.1367,
     109.283,
     22.1367
-],
-  "geometry": {"coordinates":[109.283,22.1367],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.283,
+      22.1367
+    ],
+    "type": "Point"
+  }
 }

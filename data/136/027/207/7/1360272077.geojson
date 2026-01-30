@@ -2,84 +2,92 @@
   "id": 1360272077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.35993,31.61241,111.35993,31.61241",
-    "geom:latitude":31.61241,
-    "geom:longitude":111.35993,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Sanchakou",
-    "gn:country_code":"CN",
-    "gn:dem":1087,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8510810,
-    "gn:latitude":31.61241,
-    "gn:longitude":111.35993,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Sanchakou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.33993,31.59241,111.37993,31.63241",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Sanchakou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.35993,31.61241,111.35993,31.61241",
+    "geom:latitude": 31.61241,
+    "geom:longitude": 111.35993,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Sanchakou",
+    "gn:country_code": "CN",
+    "gn:dem": 1087,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8510810,
+    "gn:latitude": 31.61241,
+    "gn:longitude": 111.35993,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Sanchakou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.33993,31.59241,111.37993,31.63241",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Sanchakou"
     ],
-    "name:swe_x_preferred":[
-        "Sanchakou"
+    "name:swe_x_preferred": [
+      "Sanchakou"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u6c4a\u53e3"
+    "name:zho_x_preferred": [
+      "三汊口"
     ],
-    "name:zho_x_variant":[
-        "\u4e09\u5c94\u53e3"
+    "name:zho_x_variant": [
+      "三岔口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      1108732497,
+      1127420626
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8510810
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8510810
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eca69f7e88b4393ea62c015f1d1190f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1360272077,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eca69f7e88b4393ea62c015f1d1190f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1360272077,
+        "region_id": 85669777,
+        "localadmin_id": 1127420626
+      }
     ],
-    "wof:id":1360272077,
-    "wof:lastmodified":1566691700,
-    "wof:name":"Sanchakou",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360272077,
+    "wof:lastmodified": 1768665620,
+    "wof:name": "Sanchakou",
+    "wof:parent_id": 1127420626,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.35993,
     31.61241,
     111.35993,
     31.61241
-],
-  "geometry": {"coordinates":[111.35993000000001,31.61241],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.35993,
+      31.61241
+    ],
+    "type": "Point"
+  }
 }

@@ -2,80 +2,183 @@
   "id": 890513445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.41667,31.23333,121.41667,31.23333",
-    "geom:latitude":31.23333,
-    "geom:longitude":121.41667,
-    "gn:country":"CN",
-    "gn:fcode":"ADM3",
-    "gn:population":320000,
-    "iso:country":"CN",
-    "lbl:bbox":"121.31667,31.13333,121.51667,31.33333",
-    "lbl:max_zoom":13.0,
-    "lbl:min_zoom":8.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":6.0,
-    "name:und_x_variant":[
-        "Chingan District"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 4.6950169e-05,
+    "geom:area_square_m": 46950168.79,
+    "geom:bbox": "121.41902,31.21612,121.478496,31.323203",
+    "geom:latitude": 31.269661,
+    "geom:longitude": 121.448758,
+    "gn:country": "CN",
+    "gn:fcode": "ADM3",
+    "gn:population": 320000,
+    "iso:country": "CN",
+    "lbl:bbox": "121.34876,31.16966,121.54876,31.36966",
+    "lbl:max_zoom": 13.0,
+    "lbl:min_zoom": 8.0,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 6.0,
+    "name:und_x_variant": [
+      "Chingan District"
     ],
-    "name:zho_x_preferred":[
-        "Jing\u2019an Qu"
+    "name:zho_x_preferred": [
+      "Jing’an Qu"
     ],
-    "name:zho_x_variant":[
-        "\u9759\u5b89\u533a",
-        "\u9759\u5b89"
+    "name:zho_x_variant": [
+      "静安区",
+      "静安"
     ],
-    "qs:name":"Jing\u2019an Qu",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"10",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "qs:name": "Jing’an Qu",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "10",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85669831,
+      102191569,
+      85632695,
+      136253041,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1805695,
-        "qs_pg:id":276600
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1805695,
+      "qs_pg:id": 276600,
+      "gb:id": "156310106"
     },
-    "wof:country":"CN",
-    "wof:created":1469055817,
-    "wof:geomhash":"011b58d5aaa9b0fe6ef107f905670a97",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "localadmin_id":890513445,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055817,
+    "wof:geomhash": "011b58d5aaa9b0fe6ef107f905670a97",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "localadmin_id": 890513445,
+        "region_id": 85669831
+      }
     ],
-    "wof:id":890513445,
-    "wof:lastmodified":1566693723,
-    "wof:name":"Jing\u2019an Qu",
-    "wof:parent_id":890514815,
-    "wof:placetype":"localadmin",
-    "wof:population":320000,
-    "wof:population_rank":10,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890513445,
+    "wof:lastmodified": 1768664148,
+    "wof:name": "Jing’an Qu",
+    "wof:parent_id": 890514815,
+    "wof:placetype": "localadmin",
+    "wof:population": 320000,
+    "wof:population_rank": 10,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    121.41667,
-    31.23333,
-    121.41667,
-    31.23333
-],
-  "geometry": {"coordinates":[121.41667,31.23333],"type":"Point"}
+    121.41902,
+    31.21612,
+    121.478496,
+    31.323203
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            121.46377,
+            31.317952
+          ],
+          [
+            121.456323,
+            31.290836
+          ],
+          [
+            121.457298,
+            31.279172
+          ],
+          [
+            121.475835,
+            31.260542
+          ],
+          [
+            121.478496,
+            31.243931
+          ],
+          [
+            121.458414,
+            31.243266
+          ],
+          [
+            121.462894,
+            31.225771
+          ],
+          [
+            121.45222,
+            31.225792
+          ],
+          [
+            121.453104,
+            31.222069
+          ],
+          [
+            121.434771,
+            31.21612
+          ],
+          [
+            121.423119,
+            31.226226
+          ],
+          [
+            121.422903,
+            31.23113
+          ],
+          [
+            121.426425,
+            31.237013
+          ],
+          [
+            121.444665,
+            31.24438
+          ],
+          [
+            121.446784,
+            31.254089
+          ],
+          [
+            121.437909,
+            31.269354
+          ],
+          [
+            121.4252,
+            31.276725
+          ],
+          [
+            121.4205,
+            31.27253
+          ],
+          [
+            121.41902,
+            31.299099
+          ],
+          [
+            121.427784,
+            31.307757
+          ],
+          [
+            121.429086,
+            31.322729
+          ],
+          [
+            121.46086,
+            31.323203
+          ],
+          [
+            121.46377,
+            31.317952
+          ]
+        ]
+      ]
+    ]
+  }
 }

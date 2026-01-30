@@ -2,75 +2,83 @@
   "id": 1310207801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.72889,27.66694,119.72889,27.66694",
-    "geom:latitude":27.66694,
-    "geom:longitude":119.72889,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Zhujiatan",
-    "gn:country_code":"CN",
-    "gn:dem":575,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1985099,
-    "gn:latitude":27.66694,
-    "gn:longitude":119.72889,
-    "gn:modification_date":"2012-08-05",
-    "gn:name":"Zhujiatan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.70889,27.64694,119.74889,27.68694",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6731\u5bb6\u6f6d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.72889,27.66694,119.72889,27.66694",
+    "geom:latitude": 27.66694,
+    "geom:longitude": 119.72889,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Zhujiatan",
+    "gn:country_code": "CN",
+    "gn:dem": 575,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1985099,
+    "gn:latitude": 27.66694,
+    "gn:longitude": 119.72889,
+    "gn:modification_date": "2012-08-05",
+    "gn:name": "Zhujiatan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.70889,27.64694,119.74889,27.68694",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "朱家潭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1985099
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1985099
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0931eeaccfa39ba68bb364a231e07afa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1310207801,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0931eeaccfa39ba68bb364a231e07afa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1310207801,
+        "region_id": 85669835,
+        "localadmin_id": 1127330329
+      }
     ],
-    "wof:id":1310207801,
-    "wof:lastmodified":1566689706,
-    "wof:name":"Zhujiatan",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310207801,
+    "wof:lastmodified": 1768669612,
+    "wof:name": "Zhujiatan",
+    "wof:parent_id": 1127330329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.72889,
     27.66694,
     119.72889,
     27.66694
-],
-  "geometry": {"coordinates":[119.72889000000001,27.66694],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.72889,
+      27.66694
+    ],
+    "type": "Point"
+  }
 }

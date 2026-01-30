@@ -2,75 +2,83 @@
   "id": 1293328113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.64273,19.86865,109.64273,19.86865",
-    "geom:latitude":19.86865,
-    "geom:longitude":109.64273,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Bolian",
-    "gn:country_code":"CN",
-    "gn:dem":35,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1816280,
-    "gn:latitude":19.86865,
-    "gn:longitude":109.64273,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Bolian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.62273,19.84865,109.66273,19.88865",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6ce2\u83b2",
-        "Bolian Zhen",
-        "\u6ce2\u83b2\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.64273,19.86865,109.64273,19.86865",
+    "geom:latitude": 19.86865,
+    "geom:longitude": 109.64273,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Bolian",
+    "gn:country_code": "CN",
+    "gn:dem": 35,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1816280,
+    "gn:latitude": 19.86865,
+    "gn:longitude": 109.64273,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Bolian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.62273,19.84865,109.66273,19.88865",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "波莲",
+      "Bolian Zhen",
+      "波莲镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732341
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516733,
+      1108732341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1816280
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1816280
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a2f354b48893f2c59f40c703a7e8f311",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732341,
-            "locality_id":1293328113,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a2f354b48893f2c59f40c703a7e8f311",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732341,
+        "locality_id": 1293328113,
+        "region_id": 85669759,
+        "localadmin_id": 890516733
+      }
     ],
-    "wof:id":1293328113,
-    "wof:lastmodified":1566669123,
-    "wof:name":"Bolian",
-    "wof:parent_id":1108732341,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293328113,
+    "wof:lastmodified": 1768671261,
+    "wof:name": "Bolian",
+    "wof:parent_id": 890516733,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.64273,
     19.86865,
     109.64273,
     19.86865
-],
-  "geometry": {"coordinates":[109.64273,19.86865],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.64273,
+      19.86865
+    ],
+    "type": "Point"
+  }
 }

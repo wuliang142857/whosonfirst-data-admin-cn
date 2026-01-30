@@ -2,75 +2,83 @@
   "id": 1276603835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.035,27.0617,103.035,27.0617",
-    "geom:latitude":27.0617,
-    "geom:longitude":103.035,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Dafucun",
-    "gn:country_code":"CN",
-    "gn:dem":2685,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10140956,
-    "gn:latitude":27.0617,
-    "gn:longitude":103.035,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Dafucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.015,27.0417,103.055,27.0817",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5bcc\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.035,27.0617,103.035,27.0617",
+    "geom:latitude": 27.0617,
+    "geom:longitude": 103.035,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Dafucun",
+    "gn:country_code": "CN",
+    "gn:dem": 2685,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10140956,
+    "gn:latitude": 27.0617,
+    "gn:longitude": 103.035,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Dafucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.015,27.0417,103.055,27.0817",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大富村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514257,
+      1127530622
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10140956
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10140956
     },
-    "wof:country":"CN",
-    "wof:geomhash":"114fd9d1700a95617ca091ae34ae4aa0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1276603835,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "114fd9d1700a95617ca091ae34ae4aa0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1276603835,
+        "region_id": 85669791,
+        "localadmin_id": 1127530622
+      }
     ],
-    "wof:id":1276603835,
-    "wof:lastmodified":1566674421,
-    "wof:name":"Dafucun",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276603835,
+    "wof:lastmodified": 1768668497,
+    "wof:name": "Dafucun",
+    "wof:parent_id": 1127530622,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.035,
     27.0617,
     103.035,
     27.0617
-],
-  "geometry": {"coordinates":[103.035,27.0617],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.035,
+      27.0617
+    ],
+    "type": "Point"
+  }
 }

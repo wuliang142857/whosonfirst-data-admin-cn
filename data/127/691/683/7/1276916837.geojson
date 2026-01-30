@@ -2,81 +2,89 @@
   "id": 1276916837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.36642,30.84349,108.36642,30.84349",
-    "geom:latitude":30.84349,
-    "geom:longitude":108.36642,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Zhoujiaba",
-    "gn:country_code":"CN",
-    "gn:dem":318,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8403611,
-    "gn:latitude":30.84349,
-    "gn:longitude":108.36642,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Zhoujiaba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.34642,30.82349,108.38642,30.86349",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhoujiaba Jiedao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.36642,30.84349,108.36642,30.84349",
+    "geom:latitude": 30.84349,
+    "geom:longitude": 108.36642,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Zhoujiaba",
+    "gn:country_code": "CN",
+    "gn:dem": 318,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8403611,
+    "gn:latitude": 30.84349,
+    "gn:longitude": 108.36642,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Zhoujiaba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.34642,30.82349,108.38642,30.86349",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhoujiaba Jiedao"
     ],
-    "name:zho_x_preferred":[
-        "\u5468\u5bb6\u575d"
+    "name:zho_x_preferred": [
+      "周家坝"
     ],
-    "name:zho_x_variant":[
-        "\u5468\u5bb6\u575d\u8857\u9053"
+    "name:zho_x_variant": [
+      "周家坝街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8403611
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8403611
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6e94020550eb80c2413e3c2a81b37da3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1276916837,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6e94020550eb80c2413e3c2a81b37da3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1276916837,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1276916837,
-    "wof:lastmodified":1566677994,
-    "wof:name":"Zhoujiaba",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276916837,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Zhoujiaba",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.36642,
     30.84349000000001,
     108.36642,
     30.84349000000001
-],
-  "geometry": {"coordinates":[108.36642000000001,30.84349000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.36642,
+      30.84349000000001
+    ],
+    "type": "Point"
+  }
 }

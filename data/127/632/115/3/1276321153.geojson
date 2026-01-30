@@ -2,83 +2,91 @@
   "id": 1276321153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.82889,27.19028,110.82889,27.19028",
-    "geom:latitude":27.19028,
-    "geom:longitude":110.82889,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Xiyangjiang",
-    "gn:country_code":"CN",
-    "gn:dem":308,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1983231,
-    "gn:latitude":27.19028,
-    "gn:longitude":110.82889,
-    "gn:modification_date":"2012-02-29",
-    "gn:name":"Xiyangjiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.80889,27.17028,110.84889,27.21028",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Xiyangjiang Zhen",
-        "Xinchao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.82889,27.19028,110.82889,27.19028",
+    "geom:latitude": 27.19028,
+    "geom:longitude": 110.82889,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Xiyangjiang",
+    "gn:country_code": "CN",
+    "gn:dem": 308,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1983231,
+    "gn:latitude": 27.19028,
+    "gn:longitude": 110.82889,
+    "gn:modification_date": "2012-02-29",
+    "gn:name": "Xiyangjiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.80889,27.17028,110.84889,27.21028",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Xiyangjiang Zhen",
+      "Xinchao"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u6d0b\u6c5f"
+    "name:zho_x_preferred": [
+      "西洋江"
     ],
-    "name:zho_x_variant":[
-        "\u897f\u6d0b\u6c5f\u9547",
-        "\u65b0\u6f6e"
+    "name:zho_x_variant": [
+      "西洋江镇",
+      "新潮"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514309
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514309,
+      1127430524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1983231
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1983231
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a58382d9a661590526146105eb5b1d48",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514309,
-            "empire_id":136253041,
-            "locality_id":1276321153,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a58382d9a661590526146105eb5b1d48",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514309,
+        "empire_id": 136253041,
+        "locality_id": 1276321153,
+        "region_id": 85669781,
+        "localadmin_id": 1127430524
+      }
     ],
-    "wof:id":1276321153,
-    "wof:lastmodified":1566674676,
-    "wof:name":"Xiyangjiang",
-    "wof:parent_id":890514309,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276321153,
+    "wof:lastmodified": 1768670390,
+    "wof:name": "Xiyangjiang",
+    "wof:parent_id": 1127430524,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.82889,
     27.19028,
     110.82889,
     27.19028
-],
-  "geometry": {"coordinates":[110.82889,27.19028],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.82889,
+      27.19028
+    ],
+    "type": "Point"
+  }
 }

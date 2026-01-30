@@ -2,75 +2,83 @@
   "id": 1326629041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.19151,42.84795,125.19151,42.84795",
-    "geom:latitude":42.84795,
-    "geom:longitude":125.19151,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Xiangfutun",
-    "gn:country_code":"CN",
-    "gn:dem":316,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10913584,
-    "gn:latitude":42.84795,
-    "gn:longitude":125.19151,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Xiangfutun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.17151,42.82795,125.21151,42.86795",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5411\u5bcc\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.19151,42.84795,125.19151,42.84795",
+    "geom:latitude": 42.84795,
+    "geom:longitude": 125.19151,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Xiangfutun",
+    "gn:country_code": "CN",
+    "gn:dem": 316,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10913584,
+    "gn:latitude": 42.84795,
+    "gn:longitude": 125.19151,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Xiangfutun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.17151,42.82795,125.21151,42.86795",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "向富屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        1108732503
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      1108732503,
+      1127220422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10913584
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10913584
     },
-    "wof:country":"CN",
-    "wof:geomhash":"13ed80f2b1a7debc92f654be0603831e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732503,
-            "empire_id":136253041,
-            "locality_id":1326629041,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "13ed80f2b1a7debc92f654be0603831e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732503,
+        "empire_id": 136253041,
+        "locality_id": 1326629041,
+        "region_id": 85669843,
+        "localadmin_id": 1127220422
+      }
     ],
-    "wof:id":1326629041,
-    "wof:lastmodified":1566653511,
-    "wof:name":"Xiangfutun",
-    "wof:parent_id":1108732503,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326629041,
+    "wof:lastmodified": 1768671196,
+    "wof:name": "Xiangfutun",
+    "wof:parent_id": 1127220422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.19151,
     42.84795,
     125.19151,
     42.84795
-],
-  "geometry": {"coordinates":[125.19150999999999,42.84795],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.19151,
+      42.84795
+    ],
+    "type": "Point"
+  }
 }

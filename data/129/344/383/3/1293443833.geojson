@@ -2,83 +2,91 @@
   "id": 1293443833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.7629,29.48543,105.7629,29.48543",
-    "geom:latitude":29.48543,
-    "geom:longitude":105.7629,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Shuanglu",
-    "gn:country_code":"CN",
-    "gn:dem":389,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":8418584,
-    "gn:latitude":29.48543,
-    "gn:longitude":105.7629,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Shuanglu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.7429,29.46543,105.7829,29.50543",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shuanglu Jiedao",
-        "Shuangqiao Qu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.7629,29.48543,105.7629,29.48543",
+    "geom:latitude": 29.48543,
+    "geom:longitude": 105.7629,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Shuanglu",
+    "gn:country_code": "CN",
+    "gn:dem": 389,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 8418584,
+    "gn:latitude": 29.48543,
+    "gn:longitude": 105.7629,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Shuanglu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.7429,29.46543,105.7829,29.50543",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shuanglu Jiedao",
+      "Shuangqiao Qu"
     ],
-    "name:zho_x_preferred":[
-        "\u53cc\u8def"
+    "name:zho_x_preferred": [
+      "双路"
     ],
-    "name:zho_x_variant":[
-        "\u53cc\u8def\u8857\u9053",
-        "\u53cc\u6865\u533a"
+    "name:zho_x_variant": [
+      "双路街道",
+      "双桥区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513063,
+      890513401
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8418584
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8418584
     },
-    "wof:country":"CN",
-    "wof:geomhash":"72189e7daf6d59525c70c98551f20bf9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1293443833,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "72189e7daf6d59525c70c98551f20bf9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1293443833,
+        "region_id": 85669725,
+        "localadmin_id": 890513401
+      }
     ],
-    "wof:id":1293443833,
-    "wof:lastmodified":1566672054,
-    "wof:name":"Shuanglu",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293443833,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Shuanglu",
+    "wof:parent_id": 890513401,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.7629,
     29.48543,
     105.7629,
     29.48543
-],
-  "geometry": {"coordinates":[105.7629,29.48543],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.7629,
+      29.48543
+    ],
+    "type": "Point"
+  }
 }

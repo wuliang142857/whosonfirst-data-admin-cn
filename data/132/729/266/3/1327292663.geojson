@@ -2,75 +2,83 @@
   "id": 1327292663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.62,36.0393,105.62,36.0393",
-    "geom:latitude":36.0393,
-    "geom:longitude":105.62,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Heichenghe",
-    "gn:country_code":"CN",
-    "gn:dem":2018,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10203472,
-    "gn:latitude":36.0393,
-    "gn:longitude":105.62,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Heichenghe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.6,36.0193,105.64,36.0593",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ed1\u57ce\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.62,36.0393,105.62,36.0393",
+    "geom:latitude": 36.0393,
+    "geom:longitude": 105.62,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Heichenghe",
+    "gn:country_code": "CN",
+    "gn:dem": 2018,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10203472,
+    "gn:latitude": 36.0393,
+    "gn:longitude": 105.62,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Heichenghe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.6,36.0193,105.64,36.0593",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黑城河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890515165
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515165,
+      1127640422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10203472
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10203472
     },
-    "wof:country":"CN",
-    "wof:geomhash":"daa4a161b416a9da924a60be73d5b456",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515165,
-            "empire_id":136253041,
-            "locality_id":1327292663,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "daa4a161b416a9da924a60be73d5b456",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515165,
+        "empire_id": 136253041,
+        "locality_id": 1327292663,
+        "region_id": 85669763,
+        "localadmin_id": 1127640422
+      }
     ],
-    "wof:id":1327292663,
-    "wof:lastmodified":1566655124,
-    "wof:name":"Heichenghe",
-    "wof:parent_id":890515165,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327292663,
+    "wof:lastmodified": 1768667192,
+    "wof:name": "Heichenghe",
+    "wof:parent_id": 1127640422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.62,
     36.0393,
     105.62,
     36.0393
-],
-  "geometry": {"coordinates":[105.62,36.0393],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.62,
+      36.0393
+    ],
+    "type": "Point"
+  }
 }

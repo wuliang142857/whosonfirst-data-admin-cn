@@ -2,83 +2,91 @@
   "id": 1309754795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.10048,29.63526,107.10048,29.63526",
-    "geom:latitude":29.63526,
-    "geom:longitude":107.10048,
-    "gn:admin1_code":"33",
-    "gn:asciiname":"Lianghui",
-    "gn:country_code":"CN",
-    "gn:dem":216,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1804033,
-    "gn:latitude":29.63526,
-    "gn:longitude":107.10048,
-    "gn:modification_date":"2012-11-08",
-    "gn:name":"Lianghui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.08048,29.61526,107.12048,29.65526",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lianghui Xiang",
-        "Xingcangku"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.10048,29.63526,107.10048,29.63526",
+    "geom:latitude": 29.63526,
+    "geom:longitude": 107.10048,
+    "gn:admin1_code": "33",
+    "gn:asciiname": "Lianghui",
+    "gn:country_code": "CN",
+    "gn:dem": 216,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1804033,
+    "gn:latitude": 29.63526,
+    "gn:longitude": 107.10048,
+    "gn:modification_date": "2012-11-08",
+    "gn:name": "Lianghui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.08048,29.61526,107.12048,29.65526",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lianghui Xiang",
+      "Xingcangku"
     ],
-    "name:zho_x_preferred":[
-        "\u4e24\u6c47"
+    "name:zho_x_preferred": [
+      "两汇"
     ],
-    "name:zho_x_variant":[
-        "\u4e24\u6c47\u4e61",
-        "\u65b0\u4ed3\u5e93"
+    "name:zho_x_variant": [
+      "两汇乡",
+      "新仓库"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1804033
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1804033
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c5a7861962dde1488ef31fb9581163ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1309754795,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c5a7861962dde1488ef31fb9581163ae",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1309754795,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1309754795,
-    "wof:lastmodified":1566693468,
-    "wof:name":"Lianghui",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309754795,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Lianghui",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.10048,
     29.63526,
     107.10048,
     29.63526
-],
-  "geometry": {"coordinates":[107.10048,29.63526],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.10048,
+      29.63526
+    ],
+    "type": "Point"
+  }
 }

@@ -2,80 +2,88 @@
   "id": 1344111715,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.93253,33.15369,108.93253,33.15369",
-    "geom:latitude":33.15369,
-    "geom:longitude":108.93253,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Damiaogou",
-    "gn:country_code":"CN",
-    "gn:dem":942,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1800602,
-    "gn:latitude":33.15369,
-    "gn:longitude":108.93253,
-    "gn:modification_date":"2016-11-22",
-    "gn:name":"Damiaogou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.91253,33.13369,108.95253,33.17369",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Miaogoukou",
-        "Damiaogoukou",
-        "Damiaogou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.93253,33.15369,108.93253,33.15369",
+    "geom:latitude": 33.15369,
+    "geom:longitude": 108.93253,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Damiaogou",
+    "gn:country_code": "CN",
+    "gn:dem": 942,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1800602,
+    "gn:latitude": 33.15369,
+    "gn:longitude": 108.93253,
+    "gn:modification_date": "2016-11-22",
+    "gn:name": "Damiaogou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.91253,33.13369,108.95253,33.17369",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Miaogoukou",
+      "Damiaogoukou",
+      "Damiaogou"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5e99\u6c9f"
+    "name:zho_x_preferred": [
+      "大庙沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800602
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800602
     },
-    "wof:country":"CN",
-    "wof:geomhash":"572e94dee7acd1e5f56cd1890fe6fd83",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1344111715,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "572e94dee7acd1e5f56cd1890fe6fd83",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1344111715,
+        "region_id": 85669769,
+        "localadmin_id": 1127611025
+      }
     ],
-    "wof:id":1344111715,
-    "wof:lastmodified":1566662819,
-    "wof:name":"Damiaogou",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344111715,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Damiaogou",
+    "wof:parent_id": 1127611025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.93253,
     33.15369,
     108.93253,
     33.15369
-],
-  "geometry": {"coordinates":[108.93253,33.15369],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.93253,
+      33.15369
+    ],
+    "type": "Point"
+  }
 }

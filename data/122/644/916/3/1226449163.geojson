@@ -2,79 +2,87 @@
   "id": 1226449163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.63366,25.50459,115.63366,25.50459",
-    "geom:latitude":25.50459,
-    "geom:longitude":115.63366,
-    "gn:admin1_code":"3",
-    "gn:asciiname":"Shankou",
-    "gn:country_code":"CN",
-    "gn:dem":281,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1923321,
-    "gn:latitude":25.50459,
-    "gn:longitude":115.63366,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Shankou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.61366,25.48459,115.65366,25.52459",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Shankou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.63366,25.50459,115.63366,25.50459",
+    "geom:latitude": 25.50459,
+    "geom:longitude": 115.63366,
+    "gn:admin1_code": "3",
+    "gn:asciiname": "Shankou",
+    "gn:country_code": "CN",
+    "gn:dem": 281,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1923321,
+    "gn:latitude": 25.50459,
+    "gn:longitude": 115.63366,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Shankou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.61366,25.48459,115.65366,25.52459",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Shankou"
     ],
-    "name:und_x_variant":[
-        "\u5c71\u53e3",
-        "Sankou"
+    "name:und_x_variant": [
+      "山口",
+      "Sankou"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890511835
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890511835,
+      890516039
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1923321
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1923321
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ef2ecdc4c151a355dced42cc1513c4a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511835,
-            "empire_id":136253041,
-            "locality_id":1226449163,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ef2ecdc4c151a355dced42cc1513c4a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511835,
+        "empire_id": 136253041,
+        "locality_id": 1226449163,
+        "region_id": 85669823,
+        "localadmin_id": 890516039
+      }
     ],
-    "wof:id":1226449163,
-    "wof:lastmodified":1566701153,
-    "wof:name":"Shankou",
-    "wof:parent_id":890511835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226449163,
+    "wof:lastmodified": 1768669693,
+    "wof:name": "Shankou",
+    "wof:parent_id": 890516039,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.63366,
     25.50459,
     115.63366,
     25.50459
-],
-  "geometry": {"coordinates":[115.63366000000001,25.50459],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.63366,
+      25.50459
+    ],
+    "type": "Point"
+  }
 }

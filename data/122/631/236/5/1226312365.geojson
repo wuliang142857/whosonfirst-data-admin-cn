@@ -2,75 +2,83 @@
   "id": 1226312365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.553,22.283,109.553,22.283",
-    "geom:latitude":22.283,
-    "geom:longitude":109.553,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Beijiang",
-    "gn:country_code":"CN",
-    "gn:dem":76,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9899562,
-    "gn:latitude":22.283,
-    "gn:longitude":109.553,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Beijiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.533,22.263,109.573,22.303",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u6c5f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.553,22.283,109.553,22.283",
+    "geom:latitude": 22.283,
+    "geom:longitude": 109.553,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Beijiang",
+    "gn:country_code": "CN",
+    "gn:dem": 76,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9899562,
+    "gn:latitude": 22.283,
+    "gn:longitude": 109.553,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Beijiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.533,22.263,109.573,22.303",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北江"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732511
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732511,
+      1127450722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9899562
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9899562
     },
-    "wof:country":"CN",
-    "wof:geomhash":"816df3d28e09520c65cb87c3e836babe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732511,
-            "empire_id":136253041,
-            "locality_id":1226312365,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "816df3d28e09520c65cb87c3e836babe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732511,
+        "empire_id": 136253041,
+        "locality_id": 1226312365,
+        "region_id": 85669717,
+        "localadmin_id": 1127450722
+      }
     ],
-    "wof:id":1226312365,
-    "wof:lastmodified":1566705644,
-    "wof:name":"Beijiang",
-    "wof:parent_id":1108732511,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226312365,
+    "wof:lastmodified": 1768667000,
+    "wof:name": "Beijiang",
+    "wof:parent_id": 1127450722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.553,
     22.283,
     109.553,
     22.283
-],
-  "geometry": {"coordinates":[109.553,22.283],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.553,
+      22.283
+    ],
+    "type": "Point"
+  }
 }

@@ -2,83 +2,91 @@
   "id": 1309812175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.52649,29.60931,121.52649,29.60931",
-    "geom:latitude":29.60931,
-    "geom:longitude":121.52649,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Tongjiaosicun",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1887146,
-    "gn:latitude":29.60931,
-    "gn:longitude":121.52649,
-    "gn:modification_date":"2018-01-10",
-    "gn:name":"Tongjiaosicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.50649,29.58931,121.54649,29.62931",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ung-chao-ssu",
-        "Tongjiaosi",
-        "Tongjiaosicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.52649,29.60931,121.52649,29.60931",
+    "geom:latitude": 29.60931,
+    "geom:longitude": 121.52649,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Tongjiaosicun",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1887146,
+    "gn:latitude": 29.60931,
+    "gn:longitude": 121.52649,
+    "gn:modification_date": "2018-01-10",
+    "gn:name": "Tongjiaosicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.50649,29.58931,121.54649,29.62931",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ung-chao-ssu",
+      "Tongjiaosi",
+      "Tongjiaosicun"
     ],
-    "name:zho_x_preferred":[
-        "\u6850\u8549\u53f8"
+    "name:zho_x_preferred": [
+      "桐蕉司"
     ],
-    "name:zho_x_variant":[
-        "\u6850\u8549\u53f8\u6751"
+    "name:zho_x_variant": [
+      "桐蕉司村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516553,
+      1127330213
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1887146
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1887146
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eda2a3c31ed10d8737d3ac109dd3aa55",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516553,
-            "empire_id":136253041,
-            "locality_id":1309812175,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eda2a3c31ed10d8737d3ac109dd3aa55",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516553,
+        "empire_id": 136253041,
+        "locality_id": 1309812175,
+        "region_id": 85669835,
+        "localadmin_id": 1127330213
+      }
     ],
-    "wof:id":1309812175,
-    "wof:lastmodified":1566693434,
-    "wof:name":"Tongjiaosicun",
-    "wof:parent_id":890516553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309812175,
+    "wof:lastmodified": 1768669614,
+    "wof:name": "Tongjiaosicun",
+    "wof:parent_id": 1127330213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.52649,
     29.60931,
     121.52649,
     29.60931
-],
-  "geometry": {"coordinates":[121.52649,29.60931],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.52649,
+      29.60931
+    ],
+    "type": "Point"
+  }
 }

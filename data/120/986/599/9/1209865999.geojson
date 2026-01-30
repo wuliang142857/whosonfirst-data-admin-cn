@@ -2,79 +2,87 @@
   "id": 1209865999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.95329,23.52889,116.95329,23.52889",
-    "geom:latitude":23.52889,
-    "geom:longitude":116.95329,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Haishan",
-    "gn:country_code":"CN",
-    "gn:dem":26,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1919674,
-    "gn:latitude":23.52889,
-    "gn:longitude":116.95329,
-    "gn:modification_date":"2012-06-06",
-    "gn:name":"Haishan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.93329,23.50889,116.97329,23.54889",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Haishan Zhen",
-        "\u6d77\u5c71\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.95329,23.52889,116.95329,23.52889",
+    "geom:latitude": 23.52889,
+    "geom:longitude": 116.95329,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Haishan",
+    "gn:country_code": "CN",
+    "gn:dem": 26,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1919674,
+    "gn:latitude": 23.52889,
+    "gn:longitude": 116.95329,
+    "gn:modification_date": "2012-06-06",
+    "gn:name": "Haishan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.93329,23.50889,116.97329,23.54889",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Haishan Zhen",
+      "海山镇"
     ],
-    "name:zho_x_preferred":[
-        "\u6d77\u5c71"
+    "name:zho_x_preferred": [
+      "海山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513033
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513033,
+      1127445122
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1919674
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1919674
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9190df8d67842f182a67b6c65d974a61",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513033,
-            "empire_id":136253041,
-            "locality_id":1209865999,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9190df8d67842f182a67b6c65d974a61",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513033,
+        "empire_id": 136253041,
+        "locality_id": 1209865999,
+        "region_id": 85669743,
+        "localadmin_id": 1127445122
+      }
     ],
-    "wof:id":1209865999,
-    "wof:lastmodified":1566684395,
-    "wof:name":"Haishan",
-    "wof:parent_id":890513033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209865999,
+    "wof:lastmodified": 1768667785,
+    "wof:name": "Haishan",
+    "wof:parent_id": 1127445122,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.95329,
     23.52889,
     116.95329,
     23.52889
-],
-  "geometry": {"coordinates":[116.95329,23.52889],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.95329,
+      23.52889
+    ],
+    "type": "Point"
+  }
 }

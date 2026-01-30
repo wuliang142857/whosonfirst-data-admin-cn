@@ -2,75 +2,83 @@
   "id": 1226123935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.498,22.3766,110.498,22.3766",
-    "geom:latitude":22.3766,
-    "geom:longitude":110.498,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Liusha",
-    "gn:country_code":"CN",
-    "gn:dem":180,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9899009,
-    "gn:latitude":22.3766,
-    "gn:longitude":110.498,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Liusha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.478,22.3566,110.518,22.3966",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u516d\u6c99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.498,22.3766,110.498,22.3766",
+    "geom:latitude": 22.3766,
+    "geom:longitude": 110.498,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Liusha",
+    "gn:country_code": "CN",
+    "gn:dem": 180,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9899009,
+    "gn:latitude": 22.3766,
+    "gn:longitude": 110.498,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Liusha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.478,22.3566,110.518,22.3966",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "六沙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9899009
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9899009
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e00b43a8c1dde123aad588c23f87ec27",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1226123935,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e00b43a8c1dde123aad588c23f87ec27",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1226123935,
+        "region_id": 85669717,
+        "localadmin_id": 1127450981
+      }
     ],
-    "wof:id":1226123935,
-    "wof:lastmodified":1566704420,
-    "wof:name":"Liusha",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226123935,
+    "wof:lastmodified": 1768665518,
+    "wof:name": "Liusha",
+    "wof:parent_id": 1127450981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.498,
     22.3766,
     110.498,
     22.3766
-],
-  "geometry": {"coordinates":[110.498,22.3766],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.498,
+      22.3766
+    ],
+    "type": "Point"
+  }
 }

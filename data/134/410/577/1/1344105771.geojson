@@ -2,87 +2,95 @@
   "id": 1344105771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.825,32.0089,105.825,32.0089",
-    "geom:latitude":32.0089,
-    "geom:longitude":105.825,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Fulin",
-    "gn:country_code":"CN",
-    "gn:dem":730,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10148380,
-    "gn:latitude":32.0089,
-    "gn:longitude":105.825,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Fulin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.805,31.9889,105.845,32.0289",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Fulin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.825,32.0089,105.825,32.0089",
+    "geom:latitude": 32.0089,
+    "geom:longitude": 105.825,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Fulin",
+    "gn:country_code": "CN",
+    "gn:dem": 730,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10148380,
+    "gn:latitude": 32.0089,
+    "gn:longitude": 105.825,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Fulin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.805,31.9889,105.845,32.0289",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Fulin"
     ],
-    "name:fas_x_preferred":[
-        "\u0641\u0648\u0644\u06cc\u0646"
+    "name:fas_x_preferred": [
+      "فولین"
     ],
-    "name:heb_x_preferred":[
-        "\u05e4\u05d5\u05dc\u05d9\u05df"
+    "name:heb_x_preferred": [
+      "פולין"
     ],
-    "name:hun_x_preferred":[
-        "Fulin"
+    "name:hun_x_preferred": [
+      "Fulin"
     ],
-    "name:zho_x_preferred":[
-        "\u4f0f\u6797"
+    "name:zho_x_preferred": [
+      "伏林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512741,
+      1127510811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10148380
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10148380
     },
-    "wof:country":"CN",
-    "wof:geomhash":"04800c1512a9d7b1e3d643ceb884c79b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512741,
-            "empire_id":136253041,
-            "locality_id":1344105771,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "04800c1512a9d7b1e3d643ceb884c79b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512741,
+        "empire_id": 136253041,
+        "locality_id": 1344105771,
+        "region_id": 85669787,
+        "localadmin_id": 1127510811
+      }
     ],
-    "wof:id":1344105771,
-    "wof:lastmodified":1636503694,
-    "wof:name":"Fulin",
-    "wof:parent_id":890512741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344105771,
+    "wof:lastmodified": 1768668638,
+    "wof:name": "Fulin",
+    "wof:parent_id": 1127510811,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.825,
     32.0089,
     105.825,
     32.0089
-],
-  "geometry": {"coordinates":[105.825,32.0089],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.825,
+      32.0089
+    ],
+    "type": "Point"
+  }
 }

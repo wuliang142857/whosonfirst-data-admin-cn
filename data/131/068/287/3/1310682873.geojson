@@ -2,75 +2,83 @@
   "id": 1310682873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.686,23.3356,108.686,23.3356",
-    "geom:latitude":23.3356,
-    "geom:longitude":108.686,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Guangquan",
-    "gn:country_code":"CN",
-    "gn:dem":113,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9930209,
-    "gn:latitude":23.3356,
-    "gn:longitude":108.686,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Guangquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.666,23.3156,108.706,23.3556",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5149\u5168"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.686,23.3356,108.686,23.3356",
+    "geom:latitude": 23.3356,
+    "geom:longitude": 108.686,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Guangquan",
+    "gn:country_code": "CN",
+    "gn:dem": 113,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9930209,
+    "gn:latitude": 23.3356,
+    "gn:longitude": 108.686,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Guangquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.666,23.3156,108.706,23.3556",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "光全"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9930209
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9930209
     },
-    "wof:country":"CN",
-    "wof:geomhash":"034b8970e68ee5720dd2837043056052",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1310682873,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "034b8970e68ee5720dd2837043056052",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1310682873,
+        "region_id": 85669717,
+        "localadmin_id": 1127450125
+      }
     ],
-    "wof:id":1310682873,
-    "wof:lastmodified":1566690639,
-    "wof:name":"Guangquan",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310682873,
+    "wof:lastmodified": 1768666366,
+    "wof:name": "Guangquan",
+    "wof:parent_id": 1127450125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.686,
     23.3356,
     108.686,
     23.3356
-],
-  "geometry": {"coordinates":[108.68600000000001,23.3356],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.686,
+      23.3356
+    ],
+    "type": "Point"
+  }
 }

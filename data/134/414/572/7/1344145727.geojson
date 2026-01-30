@@ -2,75 +2,83 @@
   "id": 1344145727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.80186,41.05577,114.80186,41.05577",
-    "geom:latitude":41.05577,
-    "geom:longitude":114.80186,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Renjia",
-    "gn:country_code":"CN",
-    "gn:dem":1506,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9999179,
-    "gn:latitude":41.05577,
-    "gn:longitude":114.80186,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Renjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.78186,41.03577,114.82186,41.07577",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4efb\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.80186,41.05577,114.80186,41.05577",
+    "geom:latitude": 41.05577,
+    "geom:longitude": 114.80186,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Renjia",
+    "gn:country_code": "CN",
+    "gn:dem": 1506,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9999179,
+    "gn:latitude": 41.05577,
+    "gn:longitude": 114.80186,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Renjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.78186,41.03577,114.82186,41.07577",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "任家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516481
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890515041,
+      890516481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9999179
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9999179
     },
-    "wof:country":"CN",
-    "wof:geomhash":"264ab748864c7f1ba0b76d61903ad661",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516481,
-            "empire_id":136253041,
-            "locality_id":1344145727,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "264ab748864c7f1ba0b76d61903ad661",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516481,
+        "empire_id": 136253041,
+        "locality_id": 1344145727,
+        "region_id": 85669797,
+        "localadmin_id": 890515041
+      }
     ],
-    "wof:id":1344145727,
-    "wof:lastmodified":1566658103,
-    "wof:name":"Renjia",
-    "wof:parent_id":890516481,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344145727,
+    "wof:lastmodified": 1768668999,
+    "wof:name": "Renjia",
+    "wof:parent_id": 890515041,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.80186,
     41.05577,
     114.80186,
     41.05577
-],
-  "geometry": {"coordinates":[114.80186,41.05577],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.80186,
+      41.05577
+    ],
+    "type": "Point"
+  }
 }

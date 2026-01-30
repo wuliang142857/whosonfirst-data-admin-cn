@@ -2,111 +2,450 @@
   "id": 1125373819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.5608,30.63288,120.5608,30.63288",
-    "geom:latitude":30.63288,
-    "geom:longitude":120.5608,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"120.4608,30.53288,120.6608,30.73288",
-    "lbl:latitude":30.63288,
-    "lbl:longitude":120.5608,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:eng_x_preferred":[
-        "Tongxiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000893541128,
+    "geom:area_square_m": 893541127.51,
+    "geom:bbox": "120.293452,30.472785,120.663677,30.798015",
+    "geom:latitude": 30.6354,
+    "geom:longitude": 120.478565,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "120.37857,30.5354,120.57856,30.7354",
+    "lbl:latitude": 30.63288,
+    "lbl:longitude": 120.5608,
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "mz:note": "Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred": [
+      "Tongxiang"
     ],
-    "name:eng_x_variant":[
-        "Wutong"
+    "name:eng_x_variant": [
+      "Wutong"
     ],
-    "name:und_x_variant":[
-        "T\u2019ung-hsiang"
+    "name:und_x_variant": [
+      "T’ung-hsiang"
     ],
-    "name:zho_x_preferred":[
-        "\u68a7\u6850"
+    "name:zho_x_preferred": [
+      "梧桐"
     ],
-    "name:zho_x_variant":[
-        "T\u00f3ngxi\u0101ng Sh\u00ec",
-        "\u6850\u4e61",
-        "\u6850\u4e61\u5e02",
-        "\u68a7\u6850\u8857\u9053"
+    "name:zho_x_variant": [
+      "Tóngxiāng Shì",
+      "桐乡",
+      "桐乡市",
+      "梧桐街道"
     ],
-    "qs_pg:aaroncc":"CN",
-    "qs_pg:gn_country":"CN",
-    "qs_pg:gn_fcode":"PPLA3",
-    "qs_pg:gn_id":1790942,
-    "qs_pg:gn_pop":0,
-    "qs_pg:name":"\u6850\u4e61\u5e02",
-    "qs_pg:name_adm0":"\u4e2d\u570b",
-    "qs_pg:name_adm1":"\u6d59\u6c5f\u7701",
-    "qs_pg:photos":3,
-    "qs_pg:photos_1k":1,
-    "qs_pg:photos_9k":1,
-    "qs_pg:photos_9r":1,
-    "qs_pg:photos_all":3,
-    "qs_pg:photos_sr":1,
-    "qs_pg:pop_sr":0,
-    "qs_pg:qs_id":906554,
-    "qs_pg:qs_pg_placetype":"localadmin",
-    "qs_pg:qs_pg_placetype_gp":"LocalAdmin",
-    "qs_pg:woe_adm0":23424781,
-    "qs_pg:woe_id":12685441,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
-    "woe:adm0_id":23424781,
-    "woe:name_adm0":"\u4e2d\u570b",
-    "woe:name_adm1":"\u6d59\u6c5f\u7701",
-    "woe:placetype":"LocalAdmin",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514635
+    "qs_pg:aaroncc": "CN",
+    "qs_pg:gn_country": "CN",
+    "qs_pg:gn_fcode": "PPLA3",
+    "qs_pg:gn_id": 1790942,
+    "qs_pg:gn_pop": 0,
+    "qs_pg:name": "桐乡市",
+    "qs_pg:name_adm0": "中國",
+    "qs_pg:name_adm1": "浙江省",
+    "qs_pg:photos": 3,
+    "qs_pg:photos_1k": 1,
+    "qs_pg:photos_9k": 1,
+    "qs_pg:photos_9r": 1,
+    "qs_pg:photos_all": 3,
+    "qs_pg:photos_sr": 1,
+    "qs_pg:pop_sr": 0,
+    "qs_pg:qs_id": 906554,
+    "qs_pg:qs_pg_placetype": "localadmin",
+    "qs_pg:qs_pg_placetype_gp": "LocalAdmin",
+    "qs_pg:woe_adm0": 23424781,
+    "qs_pg:woe_id": 12685441,
+    "src:geom": "qs_pg",
+    "src:lbl_centroid": "qs_pg",
+    "woe:adm0_id": 23424781,
+    "woe:name_adm0": "中國",
+    "woe:name_adm1": "浙江省",
+    "woe:placetype": "LocalAdmin",
+    "wof:belongsto": [
+      85669835,
+      102191569,
+      85632695,
+      136253041,
+      890514635
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1790942,
-        "gp:id":12685441,
-        "qs_pg:id":906554
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1790942,
+      "gp:id": 12685441,
+      "qs_pg:id": 906554,
+      "gb:id": "156330483"
     },
-    "wof:country":"CN",
-    "wof:created":1497047589,
-    "wof:geomhash":"313b57a911b4460e448a5872ac9b2d83",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514635,
-            "empire_id":136253041,
-            "localadmin_id":1125373819,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:created": 1497047589,
+    "wof:geomhash": "313b57a911b4460e448a5872ac9b2d83",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514635,
+        "empire_id": 136253041,
+        "localadmin_id": 1125373819,
+        "region_id": 85669835
+      }
     ],
-    "wof:id":1125373819,
-    "wof:lastmodified":1566693805,
-    "wof:name":"\u6850\u4e61\u5e02",
-    "wof:parent_id":890514635,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1125373819,
+    "wof:lastmodified": 1768664149,
+    "wof:name": "桐乡市",
+    "wof:parent_id": 890514635,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    120.5608,
-    30.63288,
-    120.5608,
-    30.63288
-],
-  "geometry": {"coordinates":[120.5608,30.63288],"type":"Point"}
+    120.293452,
+    30.472785,
+    120.663677,
+    30.798015
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            120.644424,
+            30.586637
+          ],
+          [
+            120.643806,
+            30.580746
+          ],
+          [
+            120.651404,
+            30.581818
+          ],
+          [
+            120.663677,
+            30.557907
+          ],
+          [
+            120.654173,
+            30.553995
+          ],
+          [
+            120.652521,
+            30.538968
+          ],
+          [
+            120.621753,
+            30.536245
+          ],
+          [
+            120.606516,
+            30.541103
+          ],
+          [
+            120.603614,
+            30.530382
+          ],
+          [
+            120.59278,
+            30.524496
+          ],
+          [
+            120.570771,
+            30.523897
+          ],
+          [
+            120.570002,
+            30.516232
+          ],
+          [
+            120.557027,
+            30.509093
+          ],
+          [
+            120.553773,
+            30.500805
+          ],
+          [
+            120.558837,
+            30.487025
+          ],
+          [
+            120.509668,
+            30.484629
+          ],
+          [
+            120.500583,
+            30.497207
+          ],
+          [
+            120.477726,
+            30.4955
+          ],
+          [
+            120.470649,
+            30.506292
+          ],
+          [
+            120.464015,
+            30.506119
+          ],
+          [
+            120.460134,
+            30.49935
+          ],
+          [
+            120.436644,
+            30.495177
+          ],
+          [
+            120.431386,
+            30.50417
+          ],
+          [
+            120.426632,
+            30.505022
+          ],
+          [
+            120.426824,
+            30.492745
+          ],
+          [
+            120.419272,
+            30.486448
+          ],
+          [
+            120.386369,
+            30.495482
+          ],
+          [
+            120.375771,
+            30.494234
+          ],
+          [
+            120.370678,
+            30.487122
+          ],
+          [
+            120.37368,
+            30.482334
+          ],
+          [
+            120.366899,
+            30.475508
+          ],
+          [
+            120.359906,
+            30.483833
+          ],
+          [
+            120.342112,
+            30.480546
+          ],
+          [
+            120.338184,
+            30.473168
+          ],
+          [
+            120.335155,
+            30.474122
+          ],
+          [
+            120.322265,
+            30.472785
+          ],
+          [
+            120.321958,
+            30.498689
+          ],
+          [
+            120.314546,
+            30.523174
+          ],
+          [
+            120.295452,
+            30.522093
+          ],
+          [
+            120.293452,
+            30.562779
+          ],
+          [
+            120.311293,
+            30.574948
+          ],
+          [
+            120.314659,
+            30.581796
+          ],
+          [
+            120.312313,
+            30.587292
+          ],
+          [
+            120.294485,
+            30.598681
+          ],
+          [
+            120.299032,
+            30.612445
+          ],
+          [
+            120.331048,
+            30.618467
+          ],
+          [
+            120.335426,
+            30.62244
+          ],
+          [
+            120.337994,
+            30.647337
+          ],
+          [
+            120.337279,
+            30.656502
+          ],
+          [
+            120.346947,
+            30.66726
+          ],
+          [
+            120.360661,
+            30.656522
+          ],
+          [
+            120.369534,
+            30.659833
+          ],
+          [
+            120.375234,
+            30.671686
+          ],
+          [
+            120.423219,
+            30.682815
+          ],
+          [
+            120.448701,
+            30.683268
+          ],
+          [
+            120.450988,
+            30.68784
+          ],
+          [
+            120.437245,
+            30.694286
+          ],
+          [
+            120.438095,
+            30.704132
+          ],
+          [
+            120.462077,
+            30.704173
+          ],
+          [
+            120.482189,
+            30.731126
+          ],
+          [
+            120.467811,
+            30.749762
+          ],
+          [
+            120.469537,
+            30.757935
+          ],
+          [
+            120.465447,
+            30.766727
+          ],
+          [
+            120.47982,
+            30.765457
+          ],
+          [
+            120.495483,
+            30.7711
+          ],
+          [
+            120.507065,
+            30.767185
+          ],
+          [
+            120.526549,
+            30.798015
+          ],
+          [
+            120.540944,
+            30.791541
+          ],
+          [
+            120.555201,
+            30.791394
+          ],
+          [
+            120.560062,
+            30.745666
+          ],
+          [
+            120.56822,
+            30.746225
+          ],
+          [
+            120.600601,
+            30.704766
+          ],
+          [
+            120.611674,
+            30.709835
+          ],
+          [
+            120.622563,
+            30.695214
+          ],
+          [
+            120.642277,
+            30.68623
+          ],
+          [
+            120.626685,
+            30.659022
+          ],
+          [
+            120.630121,
+            30.64388
+          ],
+          [
+            120.611716,
+            30.622561
+          ],
+          [
+            120.600268,
+            30.622764
+          ],
+          [
+            120.598902,
+            30.619692
+          ],
+          [
+            120.615457,
+            30.590204
+          ],
+          [
+            120.644424,
+            30.586637
+          ]
+        ]
+      ]
+    ]
+  }
 }

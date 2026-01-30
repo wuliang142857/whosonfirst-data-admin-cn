@@ -2,75 +2,83 @@
   "id": 1277142415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.31,41.2595,125.31,41.2595",
-    "geom:latitude":41.2595,
-    "geom:longitude":125.31,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Jiudui",
-    "gn:country_code":"CN",
-    "gn:dem":311,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":11506127,
-    "gn:latitude":41.2595,
-    "gn:longitude":125.31,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Jiudui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.29,41.2395,125.33,41.2795",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e5d\u961f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.31,41.2595,125.31,41.2595",
+    "geom:latitude": 41.2595,
+    "geom:longitude": 125.31,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Jiudui",
+    "gn:country_code": "CN",
+    "gn:dem": 311,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 11506127,
+    "gn:latitude": 41.2595,
+    "gn:longitude": 125.31,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Jiudui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.29,41.2395,125.33,41.2795",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "九队"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513783
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513783,
+      1127210522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11506127
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11506127
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aa33d7322fc1e1f50ad92c140f20c476",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513783,
-            "empire_id":136253041,
-            "locality_id":1277142415,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aa33d7322fc1e1f50ad92c140f20c476",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513783,
+        "empire_id": 136253041,
+        "locality_id": 1277142415,
+        "region_id": 85669807,
+        "localadmin_id": 1127210522
+      }
     ],
-    "wof:id":1277142415,
-    "wof:lastmodified":1566675371,
-    "wof:name":"Jiudui",
-    "wof:parent_id":890513783,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277142415,
+    "wof:lastmodified": 1768666805,
+    "wof:name": "Jiudui",
+    "wof:parent_id": 1127210522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.31,
     41.2595,
     125.31,
     41.2595
-],
-  "geometry": {"coordinates":[125.31,41.2595],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.31,
+      41.2595
+    ],
+    "type": "Point"
+  }
 }

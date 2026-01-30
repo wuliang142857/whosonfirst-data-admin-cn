@@ -2,88 +2,96 @@
   "id": 1243400569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.06885,19.00389,109.06885,19.00389",
-    "geom:latitude":19.00389,
-    "geom:longitude":109.06885,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Nanlang",
-    "gn:country_code":"CN",
-    "gn:dem":153,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7632572,
-    "gn:latitude":19.00389,
-    "gn:longitude":109.06885,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Nanlang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.04885,18.98389,109.08885,19.02389",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u0646\u0627\u0646\u0644\u0627\u0646\u06af"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.06885,19.00389,109.06885,19.00389",
+    "geom:latitude": 19.00389,
+    "geom:longitude": 109.06885,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Nanlang",
+    "gn:country_code": "CN",
+    "gn:dem": 153,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7632572,
+    "gn:latitude": 19.00389,
+    "gn:longitude": 109.06885,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Nanlang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.04885,18.98389,109.08885,19.02389",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "نانلانگ"
     ],
-    "name:mlg_x_preferred":[
-        "Nanlang"
+    "name:mlg_x_preferred": [
+      "Nanlang"
     ],
-    "name:nld_x_preferred":[
-        "Nanlang"
+    "name:nld_x_preferred": [
+      "Nanlang"
     ],
-    "name:swe_x_preferred":[
-        "Nanlang"
+    "name:swe_x_preferred": [
+      "Nanlang"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u6d6a"
+    "name:zho_x_preferred": [
+      "南浪"
     ],
-    "name:zho_x_variant":[
-        "\u5357\u6717\u9547"
+    "name:zho_x_variant": [
+      "南朗镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7632572
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7632572
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c7605346908536bdd59fa0f8f2088ce0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1243400569,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c7605346908536bdd59fa0f8f2088ce0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1243400569,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1243400569,
-    "wof:lastmodified":1566695599,
-    "wof:name":"Nanlang",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243400569,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Nanlang",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.06885,
     19.00389,
     109.06885,
     19.00389
-],
-  "geometry": {"coordinates":[109.06885,19.00389],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.06885,
+      19.00389
+    ],
+    "type": "Point"
+  }
 }

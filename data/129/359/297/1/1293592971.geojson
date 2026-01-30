@@ -2,75 +2,83 @@
   "id": 1293592971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.27289,33.2049,116.27289,33.2049",
-    "geom:latitude":33.2049,
-    "geom:longitude":116.27289,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Houfengcun",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11481447,
-    "gn:latitude":33.2049,
-    "gn:longitude":116.27289,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Houfengcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.25289,33.1849,116.29289,33.2249",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u51af\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.27289,33.2049,116.27289,33.2049",
+    "geom:latitude": 33.2049,
+    "geom:longitude": 116.27289,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Houfengcun",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11481447,
+    "gn:latitude": 33.2049,
+    "gn:longitude": 116.27289,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Houfengcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.25289,33.1849,116.29289,33.2249",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后冯村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11481447
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11481447
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c1461beb0015c3d2e478f224901d6219",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1293592971,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c1461beb0015c3d2e478f224901d6219",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1293592971,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1293592971,
-    "wof:lastmodified":1566668752,
-    "wof:name":"Houfengcun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293592971,
+    "wof:lastmodified": 1768669757,
+    "wof:name": "Houfengcun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.27289,
     33.2049,
     116.27289,
     33.2049
-],
-  "geometry": {"coordinates":[116.27289,33.2049],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.27289,
+      33.2049
+    ],
+    "type": "Point"
+  }
 }

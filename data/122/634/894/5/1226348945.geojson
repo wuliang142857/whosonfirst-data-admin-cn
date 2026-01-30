@@ -2,81 +2,89 @@
   "id": 1226348945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.90212,27.67312,116.90212,27.67312",
-    "geom:latitude":27.67312,
-    "geom:longitude":116.90212,
-    "gn:admin1_code":"03",
-    "gn:asciiname":"Shixia",
-    "gn:country_code":"CN",
-    "gn:dem":175,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1794925,
-    "gn:latitude":27.67312,
-    "gn:longitude":116.90212,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Shixia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.88212,27.65312,116.92212,27.69312",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Shixia"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.90212,27.67312,116.90212,27.67312",
+    "geom:latitude": 27.67312,
+    "geom:longitude": 116.90212,
+    "gn:admin1_code": "03",
+    "gn:asciiname": "Shixia",
+    "gn:country_code": "CN",
+    "gn:dem": 175,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1794925,
+    "gn:latitude": 27.67312,
+    "gn:longitude": 116.90212,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Shixia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.88212,27.65312,116.92212,27.69312",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Shixia"
     ],
-    "name:und_x_variant":[
-        "Shih-hsia",
-        "\u77f3\u5ce1",
-        "Shixia Xiang",
-        "\u77f3\u5ce1\u4e61"
+    "name:und_x_variant": [
+      "Shih-hsia",
+      "石峡",
+      "Shixia Xiang",
+      "石峡乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516617
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516617,
+      1127361028
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1794925
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1794925
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5f0ee9034aad5608775d12d64ea5c47c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516617,
-            "empire_id":136253041,
-            "locality_id":1226348945,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5f0ee9034aad5608775d12d64ea5c47c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516617,
+        "empire_id": 136253041,
+        "locality_id": 1226348945,
+        "region_id": 85669823,
+        "localadmin_id": 1127361028
+      }
     ],
-    "wof:id":1226348945,
-    "wof:lastmodified":1566701926,
-    "wof:name":"Shixia",
-    "wof:parent_id":890516617,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226348945,
+    "wof:lastmodified": 1768669903,
+    "wof:name": "Shixia",
+    "wof:parent_id": 1127361028,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.90212,
     27.67312,
     116.90212,
     27.67312
-],
-  "geometry": {"coordinates":[116.90212,27.67312],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.90212,
+      27.67312
+    ],
+    "type": "Point"
+  }
 }

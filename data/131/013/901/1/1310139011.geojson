@@ -2,73 +2,81 @@
   "id": 1310139011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.941,19.2168,108.941,19.2168",
-    "geom:latitude":19.2168,
-    "geom:longitude":108.941,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Yapao",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1894082,
-    "gn:latitude":19.2168,
-    "gn:longitude":108.941,
-    "gn:modification_date":"2016-01-07",
-    "gn:name":"Yapao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.921,19.1968,108.961,19.2368",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u7259\u70ae"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.941,19.2168,108.941,19.2168",
+    "geom:latitude": 19.2168,
+    "geom:longitude": 108.941,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Yapao",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1894082,
+    "gn:latitude": 19.2168,
+    "gn:longitude": 108.941,
+    "gn:modification_date": "2016-01-07",
+    "gn:name": "Yapao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.921,19.1968,108.961,19.2368",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "牙炮"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516679,
+      1108732335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1894082
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1894082
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d0a1d4ab394114a869268caf053eebb8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732335,
-            "locality_id":1310139011,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d0a1d4ab394114a869268caf053eebb8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732335,
+        "locality_id": 1310139011,
+        "region_id": 85669759,
+        "localadmin_id": 890516679
+      }
     ],
-    "wof:id":1310139011,
-    "wof:lastmodified":1566688372,
-    "wof:name":"Yapao",
-    "wof:parent_id":1108732335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310139011,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Yapao",
+    "wof:parent_id": 890516679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.941,
     19.2168,
     108.941,
     19.2168
-],
-  "geometry": {"coordinates":[108.941,19.2168],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.941,
+      19.2168
+    ],
+    "type": "Point"
+  }
 }

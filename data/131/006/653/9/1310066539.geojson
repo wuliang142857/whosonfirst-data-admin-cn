@@ -2,75 +2,83 @@
   "id": 1310066539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.062,25.5263,103.062,25.5263",
-    "geom:latitude":25.5263,
-    "geom:longitude":103.062,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Dailibuqing",
-    "gn:country_code":"CN",
-    "gn:dem":2380,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10157830,
-    "gn:latitude":25.5263,
-    "gn:longitude":103.062,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Dailibuqing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.042,25.5063,103.082,25.5463",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4ee3\u7406\u5821\u7b90"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.062,25.5263,103.062,25.5263",
+    "geom:latitude": 25.5263,
+    "geom:longitude": 103.062,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Dailibuqing",
+    "gn:country_code": "CN",
+    "gn:dem": 2380,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10157830,
+    "gn:latitude": 25.5263,
+    "gn:longitude": 103.062,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Dailibuqing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.042,25.5063,103.082,25.5463",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "代理堡箐"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513129,
+      890513777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10157830
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10157830
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e889acd346ec98bfa4ecd96083bd790f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1310066539,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e889acd346ec98bfa4ecd96083bd790f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1310066539,
+        "region_id": 85669791,
+        "localadmin_id": 890513129
+      }
     ],
-    "wof:id":1310066539,
-    "wof:lastmodified":1566689586,
-    "wof:name":"Dailibuqing",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310066539,
+    "wof:lastmodified": 1768668379,
+    "wof:name": "Dailibuqing",
+    "wof:parent_id": 890513129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.062,
     25.5263,
     103.062,
     25.5263
-],
-  "geometry": {"coordinates":[103.062,25.5263],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.062,
+      25.5263
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1209697539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.725,23.146,107.725,23.146",
-    "geom:latitude":23.146,
-    "geom:longitude":107.725,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Lian'an",
-    "gn:country_code":"CN",
-    "gn:dem":107,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9907173,
-    "gn:latitude":23.146,
-    "gn:longitude":107.725,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Lian\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.705,23.126,107.745,23.166",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lian\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.725,23.146,107.725,23.146",
+    "geom:latitude": 23.146,
+    "geom:longitude": 107.725,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Lian'an",
+    "gn:country_code": "CN",
+    "gn:dem": 107,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9907173,
+    "gn:latitude": 23.146,
+    "gn:longitude": 107.725,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Lian’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.705,23.126,107.745,23.166",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lian’an"
     ],
-    "name:zho_x_preferred":[
-        "\u8fde\u5b89"
+    "name:zho_x_preferred": [
+      "连安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450123
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9907173
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9907173
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e7bd79746741bc05b5e8cb42e343eab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1209697539,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e7bd79746741bc05b5e8cb42e343eab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1209697539,
+        "region_id": 85669717,
+        "localadmin_id": 1127450123
+      }
     ],
-    "wof:id":1209697539,
-    "wof:lastmodified":1566682569,
-    "wof:name":"Lian'an",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209697539,
+    "wof:lastmodified": 1768666366,
+    "wof:name": "Lian'an",
+    "wof:parent_id": 1127450123,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.725,
     23.146,
     107.725,
     23.146
-],
-  "geometry": {"coordinates":[107.72499999999999,23.146],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.725,
+      23.146
+    ],
+    "type": "Point"
+  }
 }

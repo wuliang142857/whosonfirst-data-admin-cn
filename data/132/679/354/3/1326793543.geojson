@@ -2,84 +2,92 @@
   "id": 1326793543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.259,28.003,109.259,28.003",
-    "geom:latitude":28.003,
-    "geom:longitude":109.259,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Matai",
-    "gn:country_code":"CN",
-    "gn:dem":662,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10034977,
-    "gn:latitude":28.003,
-    "gn:longitude":109.259,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Matai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.239,27.983,109.279,28.023",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Matai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.259,28.003,109.259,28.003",
+    "geom:latitude": 28.003,
+    "geom:longitude": 109.259,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Matai",
+    "gn:country_code": "CN",
+    "gn:dem": 662,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10034977,
+    "gn:latitude": 28.003,
+    "gn:longitude": 109.259,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Matai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.239,27.983,109.279,28.023",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Matai"
     ],
-    "name:deu_x_preferred":[
-        "Matai"
+    "name:deu_x_preferred": [
+      "Matai"
     ],
-    "name:swe_x_preferred":[
-        "Matai"
+    "name:swe_x_preferred": [
+      "Matai"
     ],
-    "name:zho_x_preferred":[
-        "\u9a6c\u53f0"
+    "name:zho_x_preferred": [
+      "马台"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732513
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890515311,
+      1108732513
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10034977
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10034977
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2ecd6f4ac69e72a85e030364ad9f7139",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732513,
-            "empire_id":136253041,
-            "locality_id":1326793543,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2ecd6f4ac69e72a85e030364ad9f7139",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732513,
+        "empire_id": 136253041,
+        "locality_id": 1326793543,
+        "region_id": 85669721,
+        "localadmin_id": 890515311
+      }
     ],
-    "wof:id":1326793543,
-    "wof:lastmodified":1566652229,
-    "wof:name":"Matai",
-    "wof:parent_id":1108732513,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326793543,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Matai",
+    "wof:parent_id": 890515311,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.259,
     28.003,
     109.259,
     28.003
-],
-  "geometry": {"coordinates":[109.259,28.003],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.259,
+      28.003
+    ],
+    "type": "Point"
+  }
 }

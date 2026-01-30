@@ -2,75 +2,83 @@
   "id": 1326909133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.05693,36.85283,115.05693,36.85283",
-    "geom:latitude":36.85283,
-    "geom:longitude":115.05693,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Nanlongtang",
-    "gn:country_code":"CN",
-    "gn:dem":39,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9115689,
-    "gn:latitude":36.85283,
-    "gn:longitude":115.05693,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Nanlongtang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.03693,36.83283,115.07693,36.87283",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u9f99\u5802"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.05693,36.85283,115.05693,36.85283",
+    "geom:latitude": 36.85283,
+    "geom:longitude": 115.05693,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Nanlongtang",
+    "gn:country_code": "CN",
+    "gn:dem": 39,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9115689,
+    "gn:latitude": 36.85283,
+    "gn:longitude": 115.05693,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Nanlongtang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.03693,36.83283,115.07693,36.87283",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南龙堂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890511887
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890511887,
+      1127130435
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9115689
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9115689
     },
-    "wof:country":"CN",
-    "wof:geomhash":"54dff3af9f73a96e49f500399c271aa1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511887,
-            "empire_id":136253041,
-            "locality_id":1326909133,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "54dff3af9f73a96e49f500399c271aa1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511887,
+        "empire_id": 136253041,
+        "locality_id": 1326909133,
+        "region_id": 85669797,
+        "localadmin_id": 1127130435
+      }
     ],
-    "wof:id":1326909133,
-    "wof:lastmodified":1566653218,
-    "wof:name":"Nanlongtang",
-    "wof:parent_id":890511887,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326909133,
+    "wof:lastmodified": 1768669464,
+    "wof:name": "Nanlongtang",
+    "wof:parent_id": 1127130435,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.05693,
     36.85283,
     115.05693,
     36.85283
-],
-  "geometry": {"coordinates":[115.05692999999999,36.85283],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.05693,
+      36.85283
+    ],
+    "type": "Point"
+  }
 }

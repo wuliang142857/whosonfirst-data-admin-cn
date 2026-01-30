@@ -2,75 +2,83 @@
   "id": 1259952251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.612,25.3369,110.612,25.3369",
-    "geom:latitude":25.3369,
-    "geom:longitude":110.612,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Shaziyan",
-    "gn:country_code":"CN",
-    "gn:dem":342,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1991935,
-    "gn:latitude":25.3369,
-    "gn:longitude":110.612,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Shaziyan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.592,25.3169,110.632,25.3569",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c99\u5b50\u5ca9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.612,25.3369,110.612,25.3369",
+    "geom:latitude": 25.3369,
+    "geom:longitude": 110.612,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Shaziyan",
+    "gn:country_code": "CN",
+    "gn:dem": 342,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1991935,
+    "gn:latitude": 25.3369,
+    "gn:longitude": 110.612,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Shaziyan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.592,25.3169,110.632,25.3569",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沙子岩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732443
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516221,
+      1108732443
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1991935
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1991935
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d6a6d74e64d86f222a9bf4d17727c13e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":1259952251,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d6a6d74e64d86f222a9bf4d17727c13e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 1259952251,
+        "region_id": 85669717,
+        "localadmin_id": 890516221
+      }
     ],
-    "wof:id":1259952251,
-    "wof:lastmodified":1566699458,
-    "wof:name":"Shaziyan",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259952251,
+    "wof:lastmodified": 1768665548,
+    "wof:name": "Shaziyan",
+    "wof:parent_id": 890516221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.612,
     25.3369,
     110.612,
     25.3369
-],
-  "geometry": {"coordinates":[110.61199999999999,25.3369],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.612,
+      25.3369
+    ],
+    "type": "Point"
+  }
 }

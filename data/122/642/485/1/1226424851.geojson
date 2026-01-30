@@ -2,75 +2,83 @@
   "id": 1226424851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.65076,34.9348,104.65076,34.9348",
-    "geom:latitude":34.9348,
-    "geom:longitude":104.65076,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Mengjiamen",
-    "gn:country_code":"CN",
-    "gn:dem":1791,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7517696,
-    "gn:latitude":34.9348,
-    "gn:longitude":104.65076,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Mengjiamen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.63076,34.9148,104.67076,34.9548",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5b5f\u5bb6\u95e8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.65076,34.9348,104.65076,34.9348",
+    "geom:latitude": 34.9348,
+    "geom:longitude": 104.65076,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Mengjiamen",
+    "gn:country_code": "CN",
+    "gn:dem": 1791,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7517696,
+    "gn:latitude": 34.9348,
+    "gn:longitude": 104.65076,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Mengjiamen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.63076,34.9148,104.67076,34.9548",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "孟家门"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621122
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7517696
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7517696
     },
-    "wof:country":"CN",
-    "wof:geomhash":"90d2bc88d86350b05bbfa24780e6a015",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1226424851,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "90d2bc88d86350b05bbfa24780e6a015",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1226424851,
+        "region_id": 85669711,
+        "localadmin_id": 1127621122
+      }
     ],
-    "wof:id":1226424851,
-    "wof:lastmodified":1566701431,
-    "wof:name":"Mengjiamen",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226424851,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Mengjiamen",
+    "wof:parent_id": 1127621122,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.65076,
     34.9348,
     104.65076,
     34.9348
-],
-  "geometry": {"coordinates":[104.65076000000001,34.9348],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.65076,
+      34.9348
+    ],
+    "type": "Point"
+  }
 }

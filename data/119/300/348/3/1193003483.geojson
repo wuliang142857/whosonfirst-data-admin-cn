@@ -2,75 +2,83 @@
   "id": 1193003483,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"128.51077,47.55319,128.51077,47.55319",
-    "geom:latitude":47.55319,
-    "geom:longitude":128.51077,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Gaopo",
-    "gn:country_code":"CN",
-    "gn:dem":345,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8524578,
-    "gn:latitude":47.55319,
-    "gn:longitude":128.51077,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Gaopo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"128.49077,47.53319,128.53077,47.57319",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "128.51077,47.55319,128.51077,47.55319",
+    "geom:latitude": 47.55319,
+    "geom:longitude": 128.51077,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Gaopo",
+    "gn:country_code": "CN",
+    "gn:dem": 345,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8524578,
+    "gn:latitude": 47.55319,
+    "gn:longitude": 128.51077,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Gaopo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "128.49077,47.53319,128.53077,47.57319",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890515199
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890515199,
+      1127230718
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8524578
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8524578
     },
-    "wof:country":"CN",
-    "wof:geomhash":"acc8e0e1a324099ef85c1a47d0048520",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515199,
-            "empire_id":136253041,
-            "locality_id":1193003483,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "acc8e0e1a324099ef85c1a47d0048520",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515199,
+        "empire_id": 136253041,
+        "locality_id": 1193003483,
+        "region_id": 85669849,
+        "localadmin_id": 1127230718
+      }
     ],
-    "wof:id":1193003483,
-    "wof:lastmodified":1566684688,
-    "wof:name":"Gaopo",
-    "wof:parent_id":890515199,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193003483,
+    "wof:lastmodified": 1768669571,
+    "wof:name": "Gaopo",
+    "wof:parent_id": 1127230718,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     128.51077,
     47.55319,
     128.51077,
     47.55319
-],
-  "geometry": {"coordinates":[128.51077000000001,47.55319],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      128.51077,
+      47.55319
+    ],
+    "type": "Point"
+  }
 }

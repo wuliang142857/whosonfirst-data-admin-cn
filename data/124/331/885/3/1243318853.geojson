@@ -2,75 +2,83 @@
   "id": 1243318853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.168,35.8402,117.168,35.8402",
-    "geom:latitude":35.8402,
-    "geom:longitude":117.168,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Hucun",
-    "gn:country_code":"CN",
-    "gn:dem":127,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9116953,
-    "gn:latitude":35.8402,
-    "gn:longitude":117.168,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Hucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.148,35.8202,117.188,35.8602",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e56\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.168,35.8402,117.168,35.8402",
+    "geom:latitude": 35.8402,
+    "geom:longitude": 117.168,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Hucun",
+    "gn:country_code": "CN",
+    "gn:dem": 127,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9116953,
+    "gn:latitude": 35.8402,
+    "gn:longitude": 117.168,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Hucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.148,35.8202,117.188,35.8602",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "湖村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890515833,
+      1127370921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9116953
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9116953
     },
-    "wof:country":"CN",
-    "wof:geomhash":"31037694b04a1f6abde0be9072a9c3be",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515833,
-            "empire_id":136253041,
-            "locality_id":1243318853,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "31037694b04a1f6abde0be9072a9c3be",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515833,
+        "empire_id": 136253041,
+        "locality_id": 1243318853,
+        "region_id": 85669813,
+        "localadmin_id": 1127370921
+      }
     ],
-    "wof:id":1243318853,
-    "wof:lastmodified":1566693964,
-    "wof:name":"Hucun",
-    "wof:parent_id":890515833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243318853,
+    "wof:lastmodified": 1768668331,
+    "wof:name": "Hucun",
+    "wof:parent_id": 1127370921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.168,
     35.8402,
     117.168,
     35.8402
-],
-  "geometry": {"coordinates":[117.16800000000001,35.8402],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.168,
+      35.8402
+    ],
+    "type": "Point"
+  }
 }

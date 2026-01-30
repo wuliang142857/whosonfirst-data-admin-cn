@@ -2,75 +2,83 @@
   "id": 1226010129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.644,39.8206,121.644,39.8206",
-    "geom:latitude":39.8206,
-    "geom:longitude":121.644,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Pingshanding",
-    "gn:country_code":"CN",
-    "gn:dem":152,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11480218,
-    "gn:latitude":39.8206,
-    "gn:longitude":121.644,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Pingshanding",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.624,39.8006,121.664,39.8406",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e73\u5c71\u9876"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.644,39.8206,121.644,39.8206",
+    "geom:latitude": 39.8206,
+    "geom:longitude": 121.644,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Pingshanding",
+    "gn:country_code": "CN",
+    "gn:dem": 152,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11480218,
+    "gn:latitude": 39.8206,
+    "gn:longitude": 121.644,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Pingshanding",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.624,39.8006,121.664,39.8406",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "平山顶"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11480218
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11480218
     },
-    "wof:country":"CN",
-    "wof:geomhash":"035d1a03e6a3276bfa20269dc4a92165",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1226010129,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "035d1a03e6a3276bfa20269dc4a92165",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1226010129,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1226010129,
-    "wof:lastmodified":1566705199,
-    "wof:name":"Pingshanding",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226010129,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Pingshanding",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.644,
     39.8206,
     121.644,
     39.8206
-],
-  "geometry": {"coordinates":[121.64400000000001,39.8206],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.644,
+      39.8206
+    ],
+    "type": "Point"
+  }
 }

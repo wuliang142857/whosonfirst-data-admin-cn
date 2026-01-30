@@ -2,125 +2,345 @@
   "id": 102027751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.000547,
-    "geom:area_square_m":5771802.633845,
-    "geom:bbox":"121.349964,31.339927,121.381969,31.367347",
-    "geom:latitude":31.353637,
-    "geom:longitude":121.365966,
-    "iso:country":"CN",
-    "lbl:latitude":31.357599,
-    "lbl:longitude":121.362461,
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mps:latitude":31.357599,
-    "mps:longitude":121.362461,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Baoshan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000547,
+    "geom:area_square_m": 5771802.633845,
+    "geom:bbox": "121.349964,31.339927,121.381969,31.367347",
+    "geom:latitude": 31.353637,
+    "geom:longitude": 121.365966,
+    "iso:country": "CN",
+    "lbl:latitude": 31.357599,
+    "lbl:longitude": 121.362461,
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mps:latitude": 31.357599,
+    "mps:longitude": 121.362461,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Baoshan"
     ],
-    "name:ces_x_preferred":[
-        "Pao-\u0161an"
+    "name:ces_x_preferred": [
+      "Pao-šan"
     ],
-    "name:deu_x_preferred":[
-        "Baoshan"
+    "name:deu_x_preferred": [
+      "Baoshan"
     ],
-    "name:eus_x_preferred":[
-        "Baoshan"
+    "name:eus_x_preferred": [
+      "Baoshan"
     ],
-    "name:fra_x_preferred":[
-        "Baoshan"
+    "name:fra_x_preferred": [
+      "Baoshan"
     ],
-    "name:heb_x_preferred":[
-        "\u05d1\u05d0\u05d5\u05e9\u05d0\u05df"
+    "name:heb_x_preferred": [
+      "באושאן"
     ],
-    "name:hun_x_preferred":[
-        "Paosan"
+    "name:hun_x_preferred": [
+      "Paosan"
     ],
-    "name:mlg_x_preferred":[
-        "Baoshan"
+    "name:mlg_x_preferred": [
+      "Baoshan"
     ],
-    "name:nld_x_preferred":[
-        "Baoshan"
+    "name:nld_x_preferred": [
+      "Baoshan"
     ],
-    "name:nor_x_preferred":[
-        "Baoshan"
+    "name:nor_x_preferred": [
+      "Baoshan"
     ],
-    "name:por_x_preferred":[
-        "Baoshan"
+    "name:por_x_preferred": [
+      "Baoshan"
     ],
-    "name:rus_x_preferred":[
-        "\u0411\u0430\u043e\u0448\u0430\u043d\u044c"
+    "name:rus_x_preferred": [
+      "Баошань"
     ],
-    "name:swe_x_preferred":[
-        "Baoshan"
+    "name:swe_x_preferred": [
+      "Baoshan"
     ],
-    "name:tur_x_preferred":[
-        "Baoshan"
+    "name:tur_x_preferred": [
+      "Baoshan"
     ],
-    "name:und_x_variant":[
-        "Pao-shan"
+    "name:und_x_variant": [
+      "Pao-shan"
     ],
-    "name:vie_x_preferred":[
-        "B\u1ea3o S\u01a1n"
+    "name:vie_x_preferred": [
+      "Bảo Sơn"
     ],
-    "qs:a1":"*",
-    "qs:a1r":"*",
-    "qs:adm0":"China",
-    "qs:id":0,
-    "qs:la_lc":"*",
-    "qs:level":"locality",
-    "qs:loc":"Baoshan",
-    "qs:loc_lc":"1816917",
-    "qs:pop":0,
-    "qs:source":"Nquattroshapes",
-    "src:geom":"quattroshapes",
-    "src:geom_alt":[],
-    "src:lbl_centroid":"mapshaper",
-    "wd:wordcount":105,
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "qs:a1": "*",
+    "qs:a1r": "*",
+    "qs:adm0": "China",
+    "qs:id": 0,
+    "qs:la_lc": "*",
+    "qs:level": "locality",
+    "qs:loc": "Baoshan",
+    "qs:loc_lc": "1816917",
+    "qs:pop": 0,
+    "qs:source": "Nquattroshapes",
+    "src:geom": "quattroshapes",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "wd:wordcount": 105,
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514385,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1816917,
-        "gp:id":2151596,
-        "qs_pg:id":247567
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1816917,
+      "gp:id": 2151596,
+      "qs_pg:id": 247567
     },
-    "wof:country":"CN",
-    "wof:geomhash":"15e6bb15a6668d45e36b88c3496f3e86",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":102027751,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "15e6bb15a6668d45e36b88c3496f3e86",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 102027751,
+        "region_id": 85669831,
+        "localadmin_id": 890514385
+      }
     ],
-    "wof:id":102027751,
-    "wof:lastmodified":1636503590,
-    "wof:name":"Baoshan",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 102027751,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Baoshan",
+    "wof:parent_id": 890514385,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.349964,
     31.339927,
     121.381969,
     31.367347
-],
-  "geometry": {"coordinates":[[[121.37098400000001,31.358462],[121.370932,31.357928],[121.37130399999999,31.357965],[121.373358,31.357817],[121.375338,31.357329],[121.37717000000001,31.356519],[121.378782,31.355417],[121.380112,31.354067],[121.38111000000001,31.35252],[121.381737,31.350836],[121.381969,31.349079],[121.38179700000001,31.347317],[121.38122799999999,31.345617],[121.380284,31.344046],[121.379,31.342662],[121.377427,31.341521],[121.375625,31.340664],[121.373662,31.340126],[121.37161500000001,31.339927],[121.369562,31.340074],[121.367582,31.340562],[121.365751,31.341372],[121.36413899999999,31.342474],[121.362809,31.343824],[121.361811,31.345371],[121.361183,31.347055],[121.360951,31.348812],[121.361003,31.349345],[121.36063,31.349309],[121.358577,31.349456],[121.35659699999999,31.349944],[121.354765,31.350754],[121.35315300000001,31.351855],[121.351822,31.353205],[121.350824,31.354752],[121.350196,31.356436],[121.349964,31.358193],[121.35013499999999,31.359955],[121.350703,31.361655],[121.351647,31.363226],[121.352931,31.36461],[121.35450400000001,31.365752],[121.356307,31.366609],[121.35826900000001,31.367147],[121.36031699999999,31.367347],[121.362371,31.3672],[121.364351,31.366712],[121.36618300000001,31.365901],[121.367795,31.3648],[121.36912599999999,31.36345],[121.370124,31.361903],[121.370751,31.360219],[121.37098400000001,31.358462]]],"type":"Polygon"}
+  ],
+  "geometry": {
+    "coordinates": [
+      [
+        [
+          121.370984,
+          31.358462
+        ],
+        [
+          121.370932,
+          31.357928
+        ],
+        [
+          121.371304,
+          31.357965
+        ],
+        [
+          121.373358,
+          31.357817
+        ],
+        [
+          121.375338,
+          31.357329
+        ],
+        [
+          121.37717,
+          31.356519
+        ],
+        [
+          121.378782,
+          31.355417
+        ],
+        [
+          121.380112,
+          31.354067
+        ],
+        [
+          121.38111,
+          31.35252
+        ],
+        [
+          121.381737,
+          31.350836
+        ],
+        [
+          121.381969,
+          31.349079
+        ],
+        [
+          121.381797,
+          31.347317
+        ],
+        [
+          121.381228,
+          31.345617
+        ],
+        [
+          121.380284,
+          31.344046
+        ],
+        [
+          121.379,
+          31.342662
+        ],
+        [
+          121.377427,
+          31.341521
+        ],
+        [
+          121.375625,
+          31.340664
+        ],
+        [
+          121.373662,
+          31.340126
+        ],
+        [
+          121.371615,
+          31.339927
+        ],
+        [
+          121.369562,
+          31.340074
+        ],
+        [
+          121.367582,
+          31.340562
+        ],
+        [
+          121.365751,
+          31.341372
+        ],
+        [
+          121.364139,
+          31.342474
+        ],
+        [
+          121.362809,
+          31.343824
+        ],
+        [
+          121.361811,
+          31.345371
+        ],
+        [
+          121.361183,
+          31.347055
+        ],
+        [
+          121.360951,
+          31.348812
+        ],
+        [
+          121.361003,
+          31.349345
+        ],
+        [
+          121.36063,
+          31.349309
+        ],
+        [
+          121.358577,
+          31.349456
+        ],
+        [
+          121.356597,
+          31.349944
+        ],
+        [
+          121.354765,
+          31.350754
+        ],
+        [
+          121.353153,
+          31.351855
+        ],
+        [
+          121.351822,
+          31.353205
+        ],
+        [
+          121.350824,
+          31.354752
+        ],
+        [
+          121.350196,
+          31.356436
+        ],
+        [
+          121.349964,
+          31.358193
+        ],
+        [
+          121.350135,
+          31.359955
+        ],
+        [
+          121.350703,
+          31.361655
+        ],
+        [
+          121.351647,
+          31.363226
+        ],
+        [
+          121.352931,
+          31.36461
+        ],
+        [
+          121.354504,
+          31.365752
+        ],
+        [
+          121.356307,
+          31.366609
+        ],
+        [
+          121.358269,
+          31.367147
+        ],
+        [
+          121.360317,
+          31.367347
+        ],
+        [
+          121.362371,
+          31.3672
+        ],
+        [
+          121.364351,
+          31.366712
+        ],
+        [
+          121.366183,
+          31.365901
+        ],
+        [
+          121.367795,
+          31.3648
+        ],
+        [
+          121.369126,
+          31.36345
+        ],
+        [
+          121.370124,
+          31.361903
+        ],
+        [
+          121.370751,
+          31.360219
+        ],
+        [
+          121.370984,
+          31.358462
+        ]
+      ]
+    ],
+    "type": "Polygon"
+  }
 }

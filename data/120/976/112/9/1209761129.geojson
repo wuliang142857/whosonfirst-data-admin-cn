@@ -2,75 +2,83 @@
   "id": 1209761129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.18198,29.81101,103.18198,29.81101",
-    "geom:latitude":29.81101,
-    "geom:longitude":103.18198,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Dacao",
-    "gn:country_code":"CN",
-    "gn:dem":834,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6979722,
-    "gn:latitude":29.81101,
-    "gn:longitude":103.18198,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Dacao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.16198,29.79101,103.20198,29.83101",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u69fd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.18198,29.81101,103.18198,29.81101",
+    "geom:latitude": 29.81101,
+    "geom:longitude": 103.18198,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Dacao",
+    "gn:country_code": "CN",
+    "gn:dem": 834,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6979722,
+    "gn:latitude": 29.81101,
+    "gn:longitude": 103.18198,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Dacao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.16198,29.79101,103.20198,29.83101",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大槽"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890515003
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890515003,
+      1127511423
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6979722
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6979722
     },
-    "wof:country":"CN",
-    "wof:geomhash":"14973a3e2480f7f8657f73e178837782",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515003,
-            "empire_id":136253041,
-            "locality_id":1209761129,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "14973a3e2480f7f8657f73e178837782",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515003,
+        "empire_id": 136253041,
+        "locality_id": 1209761129,
+        "region_id": 85669787,
+        "localadmin_id": 1127511423
+      }
     ],
-    "wof:id":1209761129,
-    "wof:lastmodified":1566681374,
-    "wof:name":"Dacao",
-    "wof:parent_id":890515003,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209761129,
+    "wof:lastmodified": 1768668729,
+    "wof:name": "Dacao",
+    "wof:parent_id": 1127511423,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.18198,
     29.81101,
     103.18198,
     29.81101
-],
-  "geometry": {"coordinates":[103.18198,29.81101],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.18198,
+      29.81101
+    ],
+    "type": "Point"
+  }
 }

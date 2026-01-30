@@ -2,86 +2,94 @@
   "id": 1276671379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.33333,31.06667,117.33333,31.06667",
-    "geom:latitude":31.06667,
-    "geom:longitude":117.33333,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Yanghe",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":18,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1787591,
-    "gn:latitude":31.06667,
-    "gn:longitude":117.33333,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Yanghe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.31333,31.04667,117.35333,31.08667",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Yanghe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.33333,31.06667,117.33333,31.06667",
+    "geom:latitude": 31.06667,
+    "geom:longitude": 117.33333,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Yanghe",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 18,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1787591,
+    "gn:latitude": 31.06667,
+    "gn:longitude": 117.33333,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Yanghe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.31333,31.04667,117.35333,31.08667",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Yanghe"
     ],
-    "name:deu_x_preferred":[
-        "Yanghe"
+    "name:deu_x_preferred": [
+      "Yanghe"
     ],
-    "name:swe_x_preferred":[
-        "Yanghe"
+    "name:swe_x_preferred": [
+      "Yanghe"
     ],
-    "name:und_x_variant":[
-        "Wu-li-miao",
-        "Yang-ho"
+    "name:und_x_variant": [
+      "Wu-li-miao",
+      "Yang-ho"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513787
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511861,
+      890513787
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1787591
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1787591
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4987e8a72d8add0bf3effe427dcb7d3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513787,
-            "empire_id":136253041,
-            "locality_id":1276671379,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4987e8a72d8add0bf3effe427dcb7d3a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513787,
+        "empire_id": 136253041,
+        "locality_id": 1276671379,
+        "region_id": 85669739,
+        "localadmin_id": 890511861
+      }
     ],
-    "wof:id":1276671379,
-    "wof:lastmodified":1566674492,
-    "wof:name":"Yanghe",
-    "wof:parent_id":890513787,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276671379,
+    "wof:lastmodified": 1768669770,
+    "wof:name": "Yanghe",
+    "wof:parent_id": 890511861,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.33333,
     31.06667,
     117.33333,
     31.06667
-],
-  "geometry": {"coordinates":[117.33333,31.06667],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.33333,
+      31.06667
+    ],
+    "type": "Point"
+  }
 }

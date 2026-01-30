@@ -2,80 +2,88 @@
   "id": 1276865219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.713,37.6331,115.713,37.6331",
-    "geom:latitude":37.6331,
-    "geom:longitude":115.713,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Xisanjingguan",
-    "gn:country_code":"CN",
-    "gn:dem":26,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1901230,
-    "gn:latitude":37.6331,
-    "gn:longitude":115.713,
-    "gn:modification_date":"2014-09-06",
-    "gn:name":"Xisanjingguan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.693,37.6131,115.733,37.6531",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ching-kuan",
-        "Ching-kuan-ts\u2019un",
-        "Xisanjingguan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.713,37.6331,115.713,37.6331",
+    "geom:latitude": 37.6331,
+    "geom:longitude": 115.713,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Xisanjingguan",
+    "gn:country_code": "CN",
+    "gn:dem": 26,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1901230,
+    "gn:latitude": 37.6331,
+    "gn:longitude": 115.713,
+    "gn:modification_date": "2014-09-06",
+    "gn:name": "Xisanjingguan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.693,37.6131,115.733,37.6531",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ching-kuan",
+      "Ching-kuan-ts’un",
+      "Xisanjingguan"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u4e09\u666f\u5b98"
+    "name:zho_x_preferred": [
+      "西三景官"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516595
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516595,
+      1127131102
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1901230
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1901230
     },
-    "wof:country":"CN",
-    "wof:geomhash":"266abfb7534ba46ab9ba5e19aec52a5c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516595,
-            "empire_id":136253041,
-            "locality_id":1276865219,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "266abfb7534ba46ab9ba5e19aec52a5c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516595,
+        "empire_id": 136253041,
+        "locality_id": 1276865219,
+        "region_id": 85669797,
+        "localadmin_id": 1127131102
+      }
     ],
-    "wof:id":1276865219,
-    "wof:lastmodified":1566672450,
-    "wof:name":"Xisanjingguan",
-    "wof:parent_id":890516595,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276865219,
+    "wof:lastmodified": 1768669433,
+    "wof:name": "Xisanjingguan",
+    "wof:parent_id": 1127131102,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.713,
     37.6331,
     115.713,
     37.6331
-],
-  "geometry": {"coordinates":[115.71299999999999,37.6331],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.713,
+      37.6331
+    ],
+    "type": "Point"
+  }
 }

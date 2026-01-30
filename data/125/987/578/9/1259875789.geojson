@@ -2,75 +2,83 @@
   "id": 1259875789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.12873,48.86661,126.12873,48.86661",
-    "geom:latitude":48.86661,
-    "geom:longitude":126.12873,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Gesanzhan",
-    "gn:country_code":"CN",
-    "gn:dem":344,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11590449,
-    "gn:latitude":48.86661,
-    "gn:longitude":126.12873,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Gesanzhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.10873,48.84661,126.14873,48.88661",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u683c\u4e09\u7ad9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.12873,48.86661,126.12873,48.86661",
+    "geom:latitude": 48.86661,
+    "geom:longitude": 126.12873,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Gesanzhan",
+    "gn:country_code": "CN",
+    "gn:dem": 344,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11590449,
+    "gn:latitude": 48.86661,
+    "gn:longitude": 126.12873,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Gesanzhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.10873,48.84661,126.14873,48.88661",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "格三站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        1108732555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514395,
+      1108732555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11590449
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11590449
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6a51768f87915240e4e0aad393fda18b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732555,
-            "empire_id":136253041,
-            "locality_id":1259875789,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6a51768f87915240e4e0aad393fda18b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732555,
+        "empire_id": 136253041,
+        "locality_id": 1259875789,
+        "region_id": 85669849,
+        "localadmin_id": 890514395
+      }
     ],
-    "wof:id":1259875789,
-    "wof:lastmodified":1566700150,
-    "wof:name":"Gesanzhan",
-    "wof:parent_id":1108732555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259875789,
+    "wof:lastmodified": 1768668887,
+    "wof:name": "Gesanzhan",
+    "wof:parent_id": 890514395,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.12873,
     48.86661,
     126.12873,
     48.86661
-],
-  "geometry": {"coordinates":[126.12873,48.86661],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.12873,
+      48.86661
+    ],
+    "type": "Point"
+  }
 }

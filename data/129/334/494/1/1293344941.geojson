@@ -2,81 +2,89 @@
   "id": 1293344941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.69862,34.51895,108.69862,34.51895",
-    "geom:latitude":34.51895,
-    "geom:longitude":108.69862,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Zhanggecun",
-    "gn:country_code":"CN",
-    "gn:dem":490,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1999750,
-    "gn:latitude":34.51895,
-    "gn:longitude":108.69862,
-    "gn:modification_date":"2016-11-23",
-    "gn:name":"Zhanggecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.67862,34.49895,108.71862,34.53895",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhangge"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.69862,34.51895,108.69862,34.51895",
+    "geom:latitude": 34.51895,
+    "geom:longitude": 108.69862,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Zhanggecun",
+    "gn:country_code": "CN",
+    "gn:dem": 490,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1999750,
+    "gn:latitude": 34.51895,
+    "gn:longitude": 108.69862,
+    "gn:modification_date": "2016-11-23",
+    "gn:name": "Zhanggecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.67862,34.49895,108.71862,34.53895",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhangge"
     ],
-    "name:zho_x_preferred":[
-        "\u5f20\u9601"
+    "name:zho_x_preferred": [
+      "张阁"
     ],
-    "name:zho_x_variant":[
-        "\u5f20\u9601\u6751"
+    "name:zho_x_variant": [
+      "张阁村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513225,
+      890515689
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1999750
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1999750
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a3b59bdd4147692c391659d8ad4ff63b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1293344941,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a3b59bdd4147692c391659d8ad4ff63b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1293344941,
+        "region_id": 85669769,
+        "localadmin_id": 890513225
+      }
     ],
-    "wof:id":1293344941,
-    "wof:lastmodified":1566669732,
-    "wof:name":"Zhanggecun",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293344941,
+    "wof:lastmodified": 1768667723,
+    "wof:name": "Zhanggecun",
+    "wof:parent_id": 890513225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.69862,
     34.51895,
     108.69862,
     34.51895
-],
-  "geometry": {"coordinates":[108.69862000000001,34.51895],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.69862,
+      34.51895
+    ],
+    "type": "Point"
+  }
 }

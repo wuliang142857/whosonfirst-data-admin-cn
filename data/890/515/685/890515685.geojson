@@ -2,78 +2,86 @@
   "id": 890515685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.809761,28.965495,99.809761,28.965495",
-    "geom:latitude":28.965495,
-    "geom:longitude":99.809761,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"99.789761,28.945495,99.829761,28.985495",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Xiangcheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.809761,28.965495,99.809761,28.965495",
+    "geom:latitude": 28.965495,
+    "geom:longitude": 99.809761,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "99.789761,28.945495,99.829761,28.985495",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Xiangcheng"
     ],
-    "name:zho_x_preferred":[
-        "\u4e61\u57ce"
+    "name:zho_x_preferred": [
+      "乡城"
     ],
-    "qs:name":"\u4e61\u57ce",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u56db\u5ddd\u7701",
-    "qs:photos":366,
-    "qs:photos_1k":74,
-    "qs:photos_9k":2,
-    "qs:photos_9r":5,
-    "qs:photos_all":366,
-    "qs:photos_sr":6,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890514703,
-        136253041,
-        85669787
+    "qs:name": "乡城",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "四川省",
+    "qs:photos": 366,
+    "qs:photos_1k": 74,
+    "qs:photos_9k": 2,
+    "qs:photos_9r": 5,
+    "qs:photos_all": 366,
+    "qs:photos_sr": 6,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513336
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2159030,
-        "qs_pg:id":1153691
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2159030,
+      "qs_pg:id": 1153691
     },
-    "wof:country":"CN",
-    "wof:created":1469055926,
-    "wof:geomhash":"151d553c308017df5b3fb5b68eff8b8a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":890515685,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055926,
+    "wof:geomhash": "151d553c308017df5b3fb5b68eff8b8a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 890515685,
+        "region_id": 85669787,
+        "localadmin_id": 1127513336
+      }
     ],
-    "wof:id":890515685,
-    "wof:lastmodified":1601423065,
-    "wof:name":"Xiangcheng",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515685,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Xiangcheng",
+    "wof:parent_id": 1127513336,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.809761,
     28.965495,
     99.809761,
     28.965495
-],
-  "geometry": {"coordinates":[99.80976099999999,28.965495],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.809761,
+      28.965495
+    ],
+    "type": "Point"
+  }
 }

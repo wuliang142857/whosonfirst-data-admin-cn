@@ -2,75 +2,83 @@
   "id": 1360044573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.004,28.0373,106.004,28.0373",
-    "geom:latitude":28.0373,
-    "geom:longitude":106.004,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shabatou",
-    "gn:country_code":"CN",
-    "gn:dem":564,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10184188,
-    "gn:latitude":28.0373,
-    "gn:longitude":106.004,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shabatou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.984,28.0173,106.024,28.0573",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c99\u575d\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.004,28.0373,106.004,28.0373",
+    "geom:latitude": 28.0373,
+    "geom:longitude": 106.004,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shabatou",
+    "gn:country_code": "CN",
+    "gn:dem": 564,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10184188,
+    "gn:latitude": 28.0373,
+    "gn:longitude": 106.004,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shabatou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.984,28.0173,106.024,28.0573",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沙坝头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10184188
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10184188
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d506cb6b04d60f56b08924dcf72e511e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1360044573,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d506cb6b04d60f56b08924dcf72e511e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1360044573,
+        "region_id": 85669787,
+        "localadmin_id": 1127510525
+      }
     ],
-    "wof:id":1360044573,
-    "wof:lastmodified":1566692165,
-    "wof:name":"Shabatou",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360044573,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Shabatou",
+    "wof:parent_id": 1127510525,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.004,
     28.0373,
     106.004,
     28.0373
-],
-  "geometry": {"coordinates":[106.004,28.0373],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.004,
+      28.0373
+    ],
+    "type": "Point"
+  }
 }

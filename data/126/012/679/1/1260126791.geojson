@@ -2,75 +2,83 @@
   "id": 1260126791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.363,24.0731,102.363,24.0731",
-    "geom:latitude":24.0731,
-    "geom:longitude":102.363,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Xiaolianzhuang Shangzhai",
-    "gn:country_code":"CN",
-    "gn:dem":1697,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6823962,
-    "gn:latitude":24.0731,
-    "gn:longitude":102.363,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Xiaolianzhuang Shangzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.343,24.0531,102.383,24.0931",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u7ec3\u5e84\u4e0a\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.363,24.0731,102.363,24.0731",
+    "geom:latitude": 24.0731,
+    "geom:longitude": 102.363,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Xiaolianzhuang Shangzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 1697,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6823962,
+    "gn:latitude": 24.0731,
+    "gn:longitude": 102.363,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Xiaolianzhuang Shangzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.343,24.0531,102.383,24.0931",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小练庄上寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890515375,
+      1108794063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6823962
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6823962
     },
-    "wof:country":"CN",
-    "wof:geomhash":"418820d5e3cb3c65682b83a7d8b4a712",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1260126791,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "418820d5e3cb3c65682b83a7d8b4a712",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1260126791,
+        "region_id": 85669791,
+        "localadmin_id": 890515375
+      }
     ],
-    "wof:id":1260126791,
-    "wof:lastmodified":1566686350,
-    "wof:name":"Xiaolianzhuang Shangzhai",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260126791,
+    "wof:lastmodified": 1768668217,
+    "wof:name": "Xiaolianzhuang Shangzhai",
+    "wof:parent_id": 890515375,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.363,
     24.0731,
     102.363,
     24.0731
-],
-  "geometry": {"coordinates":[102.363,24.0731],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.363,
+      24.0731
+    ],
+    "type": "Point"
+  }
 }

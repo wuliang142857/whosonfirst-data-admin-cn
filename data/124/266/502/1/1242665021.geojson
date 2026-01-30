@@ -2,75 +2,83 @@
   "id": 1242665021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.45305,26.75213,110.45305,26.75213",
-    "geom:latitude":26.75213,
-    "geom:longitude":110.45305,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Tanshan",
-    "gn:country_code":"CN",
-    "gn:dem":636,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10365265,
-    "gn:latitude":26.75213,
-    "gn:longitude":110.45305,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Tanshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.43305,26.73213,110.47305,26.77213",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6a80\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.45305,26.75213,110.45305,26.75213",
+    "geom:latitude": 26.75213,
+    "geom:longitude": 110.45305,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Tanshan",
+    "gn:country_code": "CN",
+    "gn:dem": 636,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10365265,
+    "gn:latitude": 26.75213,
+    "gn:longitude": 110.45305,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Tanshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.43305,26.73213,110.47305,26.77213",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "檀山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514309
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514309,
+      1127430527
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10365265
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10365265
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b9393c88fd981685cb5f95eba3973fd7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514309,
-            "empire_id":136253041,
-            "locality_id":1242665021,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b9393c88fd981685cb5f95eba3973fd7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514309,
+        "empire_id": 136253041,
+        "locality_id": 1242665021,
+        "region_id": 85669781,
+        "localadmin_id": 1127430527
+      }
     ],
-    "wof:id":1242665021,
-    "wof:lastmodified":1566694843,
-    "wof:name":"Tanshan",
-    "wof:parent_id":890514309,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242665021,
+    "wof:lastmodified": 1768670389,
+    "wof:name": "Tanshan",
+    "wof:parent_id": 1127430527,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.45305,
     26.75213,
     110.45305,
     26.75213
-],
-  "geometry": {"coordinates":[110.45305,26.75213],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.45305,
+      26.75213
+    ],
+    "type": "Point"
+  }
 }

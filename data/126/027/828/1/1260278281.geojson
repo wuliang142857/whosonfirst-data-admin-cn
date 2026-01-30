@@ -2,75 +2,83 @@
   "id": 1260278281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.34386,46.52176,123.34386,46.52176",
-    "geom:latitude":46.52176,
-    "geom:longitude":123.34386,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Limincun",
-    "gn:country_code":"CN",
-    "gn:dem":142,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11580514,
-    "gn:latitude":46.52176,
-    "gn:longitude":123.34386,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Limincun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.32386,46.50176,123.36386,46.54176",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5229\u6c11\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.34386,46.52176,123.34386,46.52176",
+    "geom:latitude": 46.52176,
+    "geom:longitude": 123.34386,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Limincun",
+    "gn:country_code": "CN",
+    "gn:dem": 142,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11580514,
+    "gn:latitude": 46.52176,
+    "gn:longitude": 123.34386,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Limincun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.32386,46.50176,123.36386,46.54176",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "利民村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890513429,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11580514
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11580514
     },
-    "wof:country":"CN",
-    "wof:geomhash":"febff67dcf997d179a44b9702acc76c9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1260278281,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "febff67dcf997d179a44b9702acc76c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1260278281,
+        "region_id": 85669849,
+        "localadmin_id": 890513429
+      }
     ],
-    "wof:id":1260278281,
-    "wof:lastmodified":1566687064,
-    "wof:name":"Limincun",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260278281,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Limincun",
+    "wof:parent_id": 890513429,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.34386,
     46.52176,
     123.34386,
     46.52176
-],
-  "geometry": {"coordinates":[123.34386000000001,46.52176],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.34386,
+      46.52176
+    ],
+    "type": "Point"
+  }
 }

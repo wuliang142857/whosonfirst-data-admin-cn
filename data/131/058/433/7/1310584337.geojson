@@ -2,83 +2,91 @@
   "id": 1310584337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"81.1,30.4,81.1,30.4",
-    "geom:latitude":30.4,
-    "geom:longitude":81.1,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Dongmar",
-    "gn:country_code":"CN",
-    "gn:dem":4088,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7927696,
-    "gn:latitude":30.4,
-    "gn:longitude":81.1,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Dongmar",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"81.08,30.38,81.12,30.42",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Dongmar"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "81.1,30.4,81.1,30.4",
+    "geom:latitude": 30.4,
+    "geom:longitude": 81.1,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Dongmar",
+    "gn:country_code": "CN",
+    "gn:dem": 4088,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7927696,
+    "gn:latitude": 30.4,
+    "gn:longitude": 81.1,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Dongmar",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "81.08,30.38,81.12,30.42",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Dongmar"
     ],
-    "name:zho_x_preferred":[
-        "Dongma"
+    "name:zho_x_preferred": [
+      "Dongma"
     ],
-    "name:zho_x_variant":[
-        "\u8463\u9ebb",
-        "Rengong Gongshe",
-        "\u4ec1\u8d21\u516c\u793e"
+    "name:zho_x_variant": [
+      "董麻",
+      "Rengong Gongshe",
+      "仁贡公社"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        1108732537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890517067,
+      1108732537
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7927696
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7927696
     },
-    "wof:country":"CN",
-    "wof:geomhash":"09ec839fe4fa21a837d4aaeae6bf0d22",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732537,
-            "empire_id":136253041,
-            "locality_id":1310584337,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "09ec839fe4fa21a837d4aaeae6bf0d22",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732537,
+        "empire_id": 136253041,
+        "locality_id": 1310584337,
+        "region_id": 85669747,
+        "localadmin_id": 890517067
+      }
     ],
-    "wof:id":1310584337,
-    "wof:lastmodified":1566690997,
-    "wof:name":"Dongmar",
-    "wof:parent_id":1108732537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310584337,
+    "wof:lastmodified": 1768664894,
+    "wof:name": "Dongmar",
+    "wof:parent_id": 890517067,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     81.1,
     30.4,
     81.1,
     30.4
-],
-  "geometry": {"coordinates":[81.09999999999999,30.4],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      81.1,
+      30.4
+    ],
+    "type": "Point"
+  }
 }

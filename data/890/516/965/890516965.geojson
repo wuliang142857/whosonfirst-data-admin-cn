@@ -2,77 +2,85 @@
   "id": 890516965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.20556,26.31,109.20556,26.31",
-    "geom:latitude":26.31,
-    "geom:longitude":109.20556,
-    "gn:country":"CN",
-    "gn:fcode":"PPL",
-    "gn:population":720,
-    "iso:country":"CN",
-    "lbl:bbox":"109.18556,26.29,109.22556,26.33",
-    "lbl:max_zoom":17.0,
-    "lbl:min_zoom":12.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":11.0,
-    "name:und_x_variant":[
-        "T\u2019an-ch\u2019i"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.20556,26.31,109.20556,26.31",
+    "geom:latitude": 26.31,
+    "geom:longitude": 109.20556,
+    "gn:country": "CN",
+    "gn:fcode": "PPL",
+    "gn:population": 720,
+    "iso:country": "CN",
+    "lbl:bbox": "109.18556,26.29,109.22556,26.33",
+    "lbl:max_zoom": 17.0,
+    "lbl:min_zoom": 12.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 11.0,
+    "name:und_x_variant": [
+      "T’an-ch’i"
     ],
-    "name:zho_x_preferred":[
-        "\u6f6d\u6eaa"
+    "name:zho_x_preferred": [
+      "潭溪"
     ],
-    "qs:name":"Tanxi",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"2",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794067
+    "qs:name": "Tanxi",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "2",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      1108794067,
+      1127522631
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1905959,
-        "gp:id":56617944,
-        "qs_pg:id":567792
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1905959,
+      "gp:id": 56617944,
+      "qs_pg:id": 567792
     },
-    "wof:country":"CN",
-    "wof:created":1469055989,
-    "wof:geomhash":"e852304784d1e7f44660cd3243623990",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794067,
-            "empire_id":136253041,
-            "locality_id":890516965,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055989,
+    "wof:geomhash": "e852304784d1e7f44660cd3243623990",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794067,
+        "empire_id": 136253041,
+        "locality_id": 890516965,
+        "region_id": 85669781,
+        "localadmin_id": 1127522631
+      }
     ],
-    "wof:id":890516965,
-    "wof:lastmodified":1566693597,
-    "wof:name":"Tanxi",
-    "wof:parent_id":1108794067,
-    "wof:placetype":"locality",
-    "wof:population":720,
-    "wof:population_rank":2,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516965,
+    "wof:lastmodified": 1768664982,
+    "wof:name": "Tanxi",
+    "wof:parent_id": 1127522631,
+    "wof:placetype": "locality",
+    "wof:population": 720,
+    "wof:population_rank": 2,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.20556,
     26.31,
     109.20556,
     26.31
-],
-  "geometry": {"coordinates":[109.20556000000001,26.31],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.20556,
+      26.31
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1344214529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.227,35.6733,116.227,35.6733",
-    "geom:latitude":35.6733,
-    "geom:longitude":116.227,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Lulou",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9118246,
-    "gn:latitude":35.6733,
-    "gn:longitude":116.227,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"L\u00fclou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.207,35.6533,116.247,35.6933",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "L\u00fclou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.227,35.6733,116.227,35.6733",
+    "geom:latitude": 35.6733,
+    "geom:longitude": 116.227,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Lulou",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9118246,
+    "gn:latitude": 35.6733,
+    "gn:longitude": 116.227,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Lülou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.207,35.6533,116.247,35.6933",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lülou"
     ],
-    "name:zho_x_preferred":[
-        "\u5415\u697c"
+    "name:zho_x_preferred": [
+      "吕楼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515875
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512693,
+      890515875
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9118246
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9118246
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5d08b2bd4b998d6a19754db07981ecc4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515875,
-            "empire_id":136253041,
-            "locality_id":1344214529,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5d08b2bd4b998d6a19754db07981ecc4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515875,
+        "empire_id": 136253041,
+        "locality_id": 1344214529,
+        "region_id": 85669813,
+        "localadmin_id": 890512693
+      }
     ],
-    "wof:id":1344214529,
-    "wof:lastmodified":1566662437,
-    "wof:name":"Lulou",
-    "wof:parent_id":890515875,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344214529,
+    "wof:lastmodified": 1768668048,
+    "wof:name": "Lulou",
+    "wof:parent_id": 890512693,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.227,
     35.6733,
     116.227,
     35.6733
-],
-  "geometry": {"coordinates":[116.227,35.6733],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.227,
+      35.6733
+    ],
+    "type": "Point"
+  }
 }

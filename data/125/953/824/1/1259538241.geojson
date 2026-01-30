@@ -2,75 +2,83 @@
   "id": 1259538241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.036,34.02939,108.036,34.02939",
-    "geom:latitude":34.02939,
-    "geom:longitude":108.036,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Beipo",
-    "gn:country_code":"CN",
-    "gn:dem":1315,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7063859,
-    "gn:latitude":34.02939,
-    "gn:longitude":108.036,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Beipo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.016,34.00939,108.056,34.04939",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.036,34.02939,108.036,34.02939",
+    "geom:latitude": 34.02939,
+    "geom:longitude": 108.036,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Beipo",
+    "gn:country_code": "CN",
+    "gn:dem": 1315,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7063859,
+    "gn:latitude": 34.02939,
+    "gn:longitude": 108.036,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Beipo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.016,34.00939,108.056,34.04939",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7063859
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7063859
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eb37cce808b8254fece5649a0aa01696",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1259538241,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eb37cce808b8254fece5649a0aa01696",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1259538241,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1259538241,
-    "wof:lastmodified":1566698102,
-    "wof:name":"Beipo",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259538241,
+    "wof:lastmodified": 1768668691,
+    "wof:name": "Beipo",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.036,
     34.02939,
     108.036,
     34.02939
-],
-  "geometry": {"coordinates":[108.036,34.02939],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.036,
+      34.02939
+    ],
+    "type": "Point"
+  }
 }

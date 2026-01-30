@@ -2,75 +2,83 @@
   "id": 1276233119,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.85748,34.0481,117.85748,34.0481",
-    "geom:latitude":34.0481,
-    "geom:longitude":117.85748,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Shenzhuangcun",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11529956,
-    "gn:latitude":34.0481,
-    "gn:longitude":117.85748,
-    "gn:modification_date":"2017-05-09",
-    "gn:name":"Shenzhuangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.83748,34.0281,117.87748,34.0681",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c88\u5e84\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.85748,34.0481,117.85748,34.0481",
+    "geom:latitude": 34.0481,
+    "geom:longitude": 117.85748,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Shenzhuangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11529956,
+    "gn:latitude": 34.0481,
+    "gn:longitude": 117.85748,
+    "gn:modification_date": "2017-05-09",
+    "gn:name": "Shenzhuangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.83748,34.0281,117.87748,34.0681",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沈庄村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516045,
+      890516333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11529956
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11529956
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ae55ab9d19adfe1f314d86c2e1319f23",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1276233119,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ae55ab9d19adfe1f314d86c2e1319f23",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1276233119,
+        "region_id": 85669827,
+        "localadmin_id": 890516045
+      }
     ],
-    "wof:id":1276233119,
-    "wof:lastmodified":1566676651,
-    "wof:name":"Shenzhuangcun",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276233119,
+    "wof:lastmodified": 1768670915,
+    "wof:name": "Shenzhuangcun",
+    "wof:parent_id": 890516045,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.85748,
     34.0481,
     117.85748,
     34.0481
-],
-  "geometry": {"coordinates":[117.85748,34.0481],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.85748,
+      34.0481
+    ],
+    "type": "Point"
+  }
 }

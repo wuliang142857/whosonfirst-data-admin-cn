@@ -2,78 +2,86 @@
   "id": 1343258215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.26,34.61,114.26,34.61",
-    "geom:latitude":34.61,
-    "geom:longitude":114.26,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Zhuxianzhen",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":75,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1783790,
-    "gn:latitude":34.61,
-    "gn:longitude":114.26,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhuxianzhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.24,34.59,114.28,34.63",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chzhusyan\u2019chzhen",
-        "Chu-hsien-chen",
-        "Zhuxianzhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.26,34.61,114.26,34.61",
+    "geom:latitude": 34.61,
+    "geom:longitude": 114.26,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Zhuxianzhen",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 75,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1783790,
+    "gn:latitude": 34.61,
+    "gn:longitude": 114.26,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhuxianzhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.24,34.59,114.28,34.63",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chzhusyan’chzhen",
+      "Chu-hsien-chen",
+      "Zhuxianzhen"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890515157,
+      1127410212
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1783790
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1783790
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e30e3145e468cc02fffc5192f193d33a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515157,
-            "empire_id":136253041,
-            "locality_id":1343258215,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e30e3145e468cc02fffc5192f193d33a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515157,
+        "empire_id": 136253041,
+        "locality_id": 1343258215,
+        "region_id": 85669801,
+        "localadmin_id": 1127410212
+      }
     ],
-    "wof:id":1343258215,
-    "wof:lastmodified":1566660541,
-    "wof:name":"Zhuxianzhen",
-    "wof:parent_id":890515157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343258215,
+    "wof:lastmodified": 1768669359,
+    "wof:name": "Zhuxianzhen",
+    "wof:parent_id": 1127410212,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.26,
     34.61,
     114.26,
     34.61
-],
-  "geometry": {"coordinates":[114.26000000000001,34.61],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.26,
+      34.61
+    ],
+    "type": "Point"
+  }
 }

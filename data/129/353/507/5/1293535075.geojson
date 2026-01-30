@@ -2,78 +2,86 @@
   "id": 1293535075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.721,32.4165,103.721,32.4165",
-    "geom:latitude":32.4165,
-    "geom:longitude":103.721,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Long'antang",
-    "gn:country_code":"CN",
-    "gn:dem":2665,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10147500,
-    "gn:latitude":32.4165,
-    "gn:longitude":103.721,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Long\u2019antang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.701,32.3965,103.741,32.4365",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Long\u2019antang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.721,32.4165,103.721,32.4165",
+    "geom:latitude": 32.4165,
+    "geom:longitude": 103.721,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Long'antang",
+    "gn:country_code": "CN",
+    "gn:dem": 2665,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10147500,
+    "gn:latitude": 32.4165,
+    "gn:longitude": 103.721,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Long’antang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.701,32.3965,103.741,32.4365",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Long’antang"
     ],
-    "name:zho_x_preferred":[
-        "\u9f99\u5b89\u5802"
+    "name:zho_x_preferred": [
+      "龙安堂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794065
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516353,
+      1108794065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10147500
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10147500
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e9a7fab9b499bffd097135c5727cbc1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794065,
-            "empire_id":136253041,
-            "locality_id":1293535075,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e9a7fab9b499bffd097135c5727cbc1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794065,
+        "empire_id": 136253041,
+        "locality_id": 1293535075,
+        "region_id": 85669787,
+        "localadmin_id": 890516353
+      }
     ],
-    "wof:id":1293535075,
-    "wof:lastmodified":1566665994,
-    "wof:name":"Long'antang",
-    "wof:parent_id":1108794065,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293535075,
+    "wof:lastmodified": 1768668872,
+    "wof:name": "Long'antang",
+    "wof:parent_id": 890516353,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.721,
     32.4165,
     103.721,
     32.4165
-],
-  "geometry": {"coordinates":[103.721,32.4165],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.721,
+      32.4165
+    ],
+    "type": "Point"
+  }
 }

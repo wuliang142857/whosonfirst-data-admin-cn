@@ -2,75 +2,83 @@
   "id": 1276275849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.695,28.9506,103.695,28.9506",
-    "geom:latitude":28.9506,
-    "geom:longitude":103.695,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhoujiashan",
-    "gn:country_code":"CN",
-    "gn:dem":642,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10185200,
-    "gn:latitude":28.9506,
-    "gn:longitude":103.695,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Zhoujiashan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.675,28.9306,103.715,28.9706",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5468\u5bb6\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.695,28.9506,103.695,28.9506",
+    "geom:latitude": 28.9506,
+    "geom:longitude": 103.695,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhoujiashan",
+    "gn:country_code": "CN",
+    "gn:dem": 642,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10185200,
+    "gn:latitude": 28.9506,
+    "gn:longitude": 103.695,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Zhoujiashan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.675,28.9306,103.715,28.9706",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "周家山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512711
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512711,
+      1127511129
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10185200
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10185200
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4bacfbba23ec2b450f6acd18144829ca",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512711,
-            "empire_id":136253041,
-            "locality_id":1276275849,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4bacfbba23ec2b450f6acd18144829ca",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512711,
+        "empire_id": 136253041,
+        "locality_id": 1276275849,
+        "region_id": 85669787,
+        "localadmin_id": 1127511129
+      }
     ],
-    "wof:id":1276275849,
-    "wof:lastmodified":1566673814,
-    "wof:name":"Zhoujiashan",
-    "wof:parent_id":890512711,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276275849,
+    "wof:lastmodified": 1768668486,
+    "wof:name": "Zhoujiashan",
+    "wof:parent_id": 1127511129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.695,
     28.9506,
     103.695,
     28.9506
-],
-  "geometry": {"coordinates":[103.69499999999999,28.9506],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.695,
+      28.9506
+    ],
+    "type": "Point"
+  }
 }

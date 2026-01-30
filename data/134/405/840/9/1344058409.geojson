@@ -2,79 +2,87 @@
   "id": 1344058409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.37857,27.76939,115.37857,27.76939",
-    "geom:latitude":27.76939,
-    "geom:longitude":115.37857,
-    "gn:admin1_code":"03",
-    "gn:asciiname":"Jiebu",
-    "gn:country_code":"CN",
-    "gn:dem":37,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1805907,
-    "gn:latitude":27.76939,
-    "gn:longitude":115.37857,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Jiebu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.35857,27.74939,115.39857,27.78939",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chieh-pu",
-        "Jiebu",
-        "\u754c\u57e0",
-        "Jiebu Xiang",
-        "\u754c\u57e0\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.37857,27.76939,115.37857,27.76939",
+    "geom:latitude": 27.76939,
+    "geom:longitude": 115.37857,
+    "gn:admin1_code": "03",
+    "gn:asciiname": "Jiebu",
+    "gn:country_code": "CN",
+    "gn:dem": 37,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1805907,
+    "gn:latitude": 27.76939,
+    "gn:longitude": 115.37857,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Jiebu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.35857,27.74939,115.39857,27.78939",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chieh-pu",
+      "Jiebu",
+      "界埠",
+      "Jiebu Xiang",
+      "界埠乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514607
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514607,
+      1127360824
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1805907
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1805907
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ad426d520a2e6e7a45efcb09940577e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514607,
-            "empire_id":136253041,
-            "locality_id":1344058409,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ad426d520a2e6e7a45efcb09940577e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514607,
+        "empire_id": 136253041,
+        "locality_id": 1344058409,
+        "region_id": 85669823,
+        "localadmin_id": 1127360824
+      }
     ],
-    "wof:id":1344058409,
-    "wof:lastmodified":1566663066,
-    "wof:name":"Jiebu",
-    "wof:parent_id":890514607,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344058409,
+    "wof:lastmodified": 1768669672,
+    "wof:name": "Jiebu",
+    "wof:parent_id": 1127360824,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.37857,
     27.76939,
     115.37857,
     27.76939
-],
-  "geometry": {"coordinates":[115.37857,27.76939],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.37857,
+      27.76939
+    ],
+    "type": "Point"
+  }
 }

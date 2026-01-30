@@ -2,75 +2,83 @@
   "id": 1276931209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.44016,32.19765,109.44016,32.19765",
-    "geom:latitude":32.19765,
-    "geom:longitude":109.44016,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Qiushancun",
-    "gn:country_code":"CN",
-    "gn:dem":1019,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11333225,
-    "gn:latitude":32.19765,
-    "gn:longitude":109.44016,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Qiushancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.42016,32.17765,109.46016,32.21765",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u79cb\u5c71\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.44016,32.19765,109.44016,32.19765",
+    "geom:latitude": 32.19765,
+    "geom:longitude": 109.44016,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Qiushancun",
+    "gn:country_code": "CN",
+    "gn:dem": 1019,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11333225,
+    "gn:latitude": 32.19765,
+    "gn:longitude": 109.44016,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Qiushancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.42016,32.17765,109.46016,32.21765",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "秋山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11333225
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11333225
     },
-    "wof:country":"CN",
-    "wof:geomhash":"589bde5a78d39f95a403ea264d2955b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1276931209,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "589bde5a78d39f95a403ea264d2955b2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1276931209,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1276931209,
-    "wof:lastmodified":1566674539,
-    "wof:name":"Qiushancun",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276931209,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Qiushancun",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.44016,
     32.19765,
     109.44016,
     32.19765
-],
-  "geometry": {"coordinates":[109.44016000000001,32.19765],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.44016,
+      32.19765
+    ],
+    "type": "Point"
+  }
 }

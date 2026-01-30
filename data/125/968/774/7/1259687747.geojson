@@ -2,78 +2,86 @@
   "id": 1259687747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.68333,33.28333,117.68333,33.28333",
-    "geom:latitude":33.28333,
-    "geom:longitude":117.68333,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Zhangji",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":18,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1785227,
-    "gn:latitude":33.28333,
-    "gn:longitude":117.68333,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhangji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.66333,33.26333,117.70333,33.30333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chang-chi",
-        "Chang-chi-ch\u2019ih",
-        "Zhangji"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.68333,33.28333,117.68333,33.28333",
+    "geom:latitude": 33.28333,
+    "geom:longitude": 117.68333,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Zhangji",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 18,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1785227,
+    "gn:latitude": 33.28333,
+    "gn:longitude": 117.68333,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhangji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.66333,33.26333,117.70333,33.30333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chang-chi",
+      "Chang-chi-ch’ih",
+      "Zhangji"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515831
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515831,
+      1127340322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1785227
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1785227
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5d0474e53af1449f9e9712dcac3d6123",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515831,
-            "empire_id":136253041,
-            "locality_id":1259687747,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5d0474e53af1449f9e9712dcac3d6123",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515831,
+        "empire_id": 136253041,
+        "locality_id": 1259687747,
+        "region_id": 85669739,
+        "localadmin_id": 1127340322
+      }
     ],
-    "wof:id":1259687747,
-    "wof:lastmodified":1566699410,
-    "wof:name":"Zhangji",
-    "wof:parent_id":890515831,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259687747,
+    "wof:lastmodified": 1768669791,
+    "wof:name": "Zhangji",
+    "wof:parent_id": 1127340322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.68333,
     33.28333,
     117.68333,
     33.28333
-],
-  "geometry": {"coordinates":[117.68333,33.28333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.68333,
+      33.28333
+    ],
+    "type": "Point"
+  }
 }

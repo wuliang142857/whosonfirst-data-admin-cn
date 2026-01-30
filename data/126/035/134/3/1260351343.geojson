@@ -2,75 +2,83 @@
   "id": 1260351343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.24299,41.5324,120.24299,41.5324",
-    "geom:latitude":41.5324,
-    "geom:longitude":120.24299,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wangsangoucun",
-    "gn:country_code":"CN",
-    "gn:dem":339,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11508809,
-    "gn:latitude":41.5324,
-    "gn:longitude":120.24299,
-    "gn:modification_date":"2018-06-11",
-    "gn:name":"Wangsangoucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.22299,41.5124,120.26299,41.5524",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u4e09\u6c9f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.24299,41.5324,120.24299,41.5324",
+    "geom:latitude": 41.5324,
+    "geom:longitude": 120.24299,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wangsangoucun",
+    "gn:country_code": "CN",
+    "gn:dem": 339,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11508809,
+    "gn:latitude": 41.5324,
+    "gn:longitude": 120.24299,
+    "gn:modification_date": "2018-06-11",
+    "gn:name": "Wangsangoucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.22299,41.5124,120.26299,41.5524",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王三沟村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515907,
+      1127211303
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11508809
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11508809
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2e15418b275bb6b6e464323702fc15cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515907,
-            "empire_id":136253041,
-            "locality_id":1260351343,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2e15418b275bb6b6e464323702fc15cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515907,
+        "empire_id": 136253041,
+        "locality_id": 1260351343,
+        "region_id": 85669807,
+        "localadmin_id": 1127211303
+      }
     ],
-    "wof:id":1260351343,
-    "wof:lastmodified":1566687659,
-    "wof:name":"Wangsangoucun",
-    "wof:parent_id":890515907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260351343,
+    "wof:lastmodified": 1768667054,
+    "wof:name": "Wangsangoucun",
+    "wof:parent_id": 1127211303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.24299,
     41.5324,
     120.24299,
     41.5324
-],
-  "geometry": {"coordinates":[120.24299000000001,41.5324],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.24299,
+      41.5324
+    ],
+    "type": "Point"
+  }
 }

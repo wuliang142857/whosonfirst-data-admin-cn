@@ -2,75 +2,83 @@
   "id": 1243018231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.74733,22.59432,111.74733,22.59432",
-    "geom:latitude":22.59432,
-    "geom:longitude":111.74733,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Shanjiao",
-    "gn:country_code":"CN",
-    "gn:dem":156,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6859802,
-    "gn:latitude":22.59432,
-    "gn:longitude":111.74733,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Shanjiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.72733,22.57432,111.76733,22.61432",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c71\u811a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.74733,22.59432,111.74733,22.59432",
+    "geom:latitude": 22.59432,
+    "geom:longitude": 111.74733,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Shanjiao",
+    "gn:country_code": "CN",
+    "gn:dem": 156,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6859802,
+    "gn:latitude": 22.59432,
+    "gn:longitude": 111.74733,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Shanjiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.72733,22.57432,111.76733,22.61432",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "山脚"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890512761
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890512761,
+      1127445381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6859802
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6859802
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bdef7421fe1dcc37e43839d51a88d1dd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512761,
-            "empire_id":136253041,
-            "locality_id":1243018231,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bdef7421fe1dcc37e43839d51a88d1dd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512761,
+        "empire_id": 136253041,
+        "locality_id": 1243018231,
+        "region_id": 85669743,
+        "localadmin_id": 1127445381
+      }
     ],
-    "wof:id":1243018231,
-    "wof:lastmodified":1566694174,
-    "wof:name":"Shanjiao",
-    "wof:parent_id":890512761,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243018231,
+    "wof:lastmodified": 1768668816,
+    "wof:name": "Shanjiao",
+    "wof:parent_id": 1127445381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.74733,
     22.59432,
     111.74733,
     22.59432
-],
-  "geometry": {"coordinates":[111.74733000000001,22.59432],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.74733,
+      22.59432
+    ],
+    "type": "Point"
+  }
 }

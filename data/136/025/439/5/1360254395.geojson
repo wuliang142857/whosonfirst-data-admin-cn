@@ -2,75 +2,83 @@
   "id": 1360254395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.804,23.8597,109.804,23.8597",
-    "geom:latitude":23.8597,
-    "geom:longitude":109.804,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Huahou",
-    "gn:country_code":"CN",
-    "gn:dem":265,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9934026,
-    "gn:latitude":23.8597,
-    "gn:longitude":109.804,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Huahou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.784,23.8397,109.824,23.8797",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u82b1\u5019"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.804,23.8597,109.804,23.8597",
+    "geom:latitude": 23.8597,
+    "geom:longitude": 109.804,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Huahou",
+    "gn:country_code": "CN",
+    "gn:dem": 265,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9934026,
+    "gn:latitude": 23.8597,
+    "gn:longitude": 109.804,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Huahou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.784,23.8397,109.824,23.8797",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "花候"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732439
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732439,
+      1127451322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9934026
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9934026
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7fbbf7adbab532345a6176ab253869d5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732439,
-            "empire_id":136253041,
-            "locality_id":1360254395,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7fbbf7adbab532345a6176ab253869d5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732439,
+        "empire_id": 136253041,
+        "locality_id": 1360254395,
+        "region_id": 85669717,
+        "localadmin_id": 1127451322
+      }
     ],
-    "wof:id":1360254395,
-    "wof:lastmodified":1566691391,
-    "wof:name":"Huahou",
-    "wof:parent_id":1108732439,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360254395,
+    "wof:lastmodified": 1768665493,
+    "wof:name": "Huahou",
+    "wof:parent_id": 1127451322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.804,
     23.8597,
     109.804,
     23.8597
-],
-  "geometry": {"coordinates":[109.804,23.8597],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.804,
+      23.8597
+    ],
+    "type": "Point"
+  }
 }

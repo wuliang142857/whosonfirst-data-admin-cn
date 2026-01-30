@@ -2,81 +2,89 @@
   "id": 1343463823,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.8147,32.3313,118.8147,32.3313",
-    "geom:latitude":32.3313,
-    "geom:longitude":118.8147,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Longchi",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1801128,
-    "gn:latitude":32.3313,
-    "gn:longitude":118.8147,
-    "gn:modification_date":"2017-06-06",
-    "gn:name":"Longchi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.7947,32.3113,118.8347,32.3513",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Mao-hs\u00fc-chi",
-        "Mao-hs\u00fc-tun",
-        "Maoxuji",
-        "Longchi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.8147,32.3313,118.8147,32.3313",
+    "geom:latitude": 32.3313,
+    "geom:longitude": 118.8147,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Longchi",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1801128,
+    "gn:latitude": 32.3313,
+    "gn:longitude": 118.8147,
+    "gn:modification_date": "2017-06-06",
+    "gn:name": "Longchi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.7947,32.3113,118.8347,32.3513",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Mao-hsü-chi",
+      "Mao-hsü-tun",
+      "Maoxuji",
+      "Longchi"
     ],
-    "name:zho_x_preferred":[
-        "\u9f99\u6c60"
+    "name:zho_x_preferred": [
+      "龙池"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516425
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516425,
+      1127320116
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1801128
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1801128
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d9d813a65bcb1f052e9226052c26fd77",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516425,
-            "empire_id":136253041,
-            "locality_id":1343463823,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d9d813a65bcb1f052e9226052c26fd77",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516425,
+        "empire_id": 136253041,
+        "locality_id": 1343463823,
+        "region_id": 85669827,
+        "localadmin_id": 1127320116
+      }
     ],
-    "wof:id":1343463823,
-    "wof:lastmodified":1566659018,
-    "wof:name":"Longchi",
-    "wof:parent_id":890516425,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343463823,
+    "wof:lastmodified": 1768670270,
+    "wof:name": "Longchi",
+    "wof:parent_id": 1127320116,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.8147,
     32.3313,
     118.8147,
     32.3313
-],
-  "geometry": {"coordinates":[118.8147,32.3313],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.8147,
+      32.3313
+    ],
+    "type": "Point"
+  }
 }

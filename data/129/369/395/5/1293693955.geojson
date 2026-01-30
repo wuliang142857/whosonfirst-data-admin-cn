@@ -2,77 +2,85 @@
   "id": 1293693955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.43694,27.84057,114.43694,27.84057",
-    "geom:latitude":27.84057,
-    "geom:longitude":114.43694,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Wojiang",
-    "gn:country_code":"CN",
-    "gn:dem":86,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7658375,
-    "gn:latitude":27.84057,
-    "gn:longitude":114.43694,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Wojiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.41694,27.82057,114.45694,27.86057",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6e25\u6c5f",
-        "Wojiang Xiang",
-        "\u6e25\u6c5f\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.43694,27.84057,114.43694,27.84057",
+    "geom:latitude": 27.84057,
+    "geom:longitude": 114.43694,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Wojiang",
+    "gn:country_code": "CN",
+    "gn:dem": 86,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7658375,
+    "gn:latitude": 27.84057,
+    "gn:longitude": 114.43694,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Wojiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.41694,27.82057,114.45694,27.86057",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "渥江",
+      "Wojiang Xiang",
+      "渥江乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514553,
+      1127360902
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7658375
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7658375
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a71582de57be42918e0e27117072f172",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1293693955,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a71582de57be42918e0e27117072f172",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1293693955,
+        "region_id": 85669823,
+        "localadmin_id": 1127360902
+      }
     ],
-    "wof:id":1293693955,
-    "wof:lastmodified":1566669264,
-    "wof:name":"Wojiang",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293693955,
+    "wof:lastmodified": 1768669929,
+    "wof:name": "Wojiang",
+    "wof:parent_id": 1127360902,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.43694,
     27.84057,
     114.43694,
     27.84057
-],
-  "geometry": {"coordinates":[114.43694000000001,27.84057],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.43694,
+      27.84057
+    ],
+    "type": "Point"
+  }
 }

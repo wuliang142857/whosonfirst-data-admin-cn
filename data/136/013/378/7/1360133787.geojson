@@ -2,75 +2,83 @@
   "id": 1360133787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.193,29.451,105.193,29.451",
-    "geom:latitude":29.451,
-    "geom:longitude":105.193,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shuilong",
-    "gn:country_code":"CN",
-    "gn:dem":368,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183167,
-    "gn:latitude":29.451,
-    "gn:longitude":105.193,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shuilong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.173,29.431,105.213,29.471",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c34\u9f99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.193,29.451,105.193,29.451",
+    "geom:latitude": 29.451,
+    "geom:longitude": 105.193,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shuilong",
+    "gn:country_code": "CN",
+    "gn:dem": 368,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183167,
+    "gn:latitude": 29.451,
+    "gn:longitude": 105.193,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shuilong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.173,29.431,105.213,29.471",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "水龙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183167
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183167
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e6921c5161ee5c489aa07df6ab463d11",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1360133787,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e6921c5161ee5c489aa07df6ab463d11",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1360133787,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1360133787,
-    "wof:lastmodified":1566691279,
-    "wof:name":"Shuilong",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360133787,
+    "wof:lastmodified": 1768668256,
+    "wof:name": "Shuilong",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.193,
     29.451,
     105.193,
     29.451
-],
-  "geometry": {"coordinates":[105.193,29.451],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.193,
+      29.451
+    ],
+    "type": "Point"
+  }
 }

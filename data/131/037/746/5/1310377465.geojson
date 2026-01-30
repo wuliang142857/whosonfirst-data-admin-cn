@@ -2,78 +2,86 @@
   "id": 1310377465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.588,25.333,110.588,25.333",
-    "geom:latitude":25.333,
-    "geom:longitude":110.588,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Shuitou",
-    "gn:country_code":"CN",
-    "gn:dem":299,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1991936,
-    "gn:latitude":25.333,
-    "gn:longitude":110.588,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Shuitou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.568,25.313,110.608,25.353",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c34\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.588,25.333,110.588,25.333",
+    "geom:latitude": 25.333,
+    "geom:longitude": 110.588,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Shuitou",
+    "gn:country_code": "CN",
+    "gn:dem": 299,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1991936,
+    "gn:latitude": 25.333,
+    "gn:longitude": 110.588,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Shuitou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.568,25.313,110.608,25.353",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "水头"
     ],
-    "name:zho_x_variant":[
-        "\u6c34\u5934\u9547"
+    "name:zho_x_variant": [
+      "水头镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732443
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516221,
+      1108732443
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1991936
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1991936
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5394eb5e323615e9627c003d50a124ec",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":1310377465,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5394eb5e323615e9627c003d50a124ec",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 1310377465,
+        "region_id": 85669717,
+        "localadmin_id": 890516221
+      }
     ],
-    "wof:id":1310377465,
-    "wof:lastmodified":1566689386,
-    "wof:name":"Shuitou",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310377465,
+    "wof:lastmodified": 1768665548,
+    "wof:name": "Shuitou",
+    "wof:parent_id": 890516221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.588,
     25.333,
     110.588,
     25.333
-],
-  "geometry": {"coordinates":[110.58799999999999,25.333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.588,
+      25.333
+    ],
+    "type": "Point"
+  }
 }

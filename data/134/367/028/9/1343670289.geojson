@@ -2,75 +2,83 @@
   "id": 1343670289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.99225,28.77049,120.99225,28.77049",
-    "geom:latitude":28.77049,
-    "geom:longitude":120.99225,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Baogong",
-    "gn:country_code":"CN",
-    "gn:dem":279,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8400791,
-    "gn:latitude":28.77049,
-    "gn:longitude":120.99225,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Baogong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.97225,28.75049,121.01225,28.79049",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5305\u516c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.99225,28.77049,120.99225,28.77049",
+    "geom:latitude": 28.77049,
+    "geom:longitude": 120.99225,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Baogong",
+    "gn:country_code": "CN",
+    "gn:dem": 279,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8400791,
+    "gn:latitude": 28.77049,
+    "gn:longitude": 120.99225,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Baogong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.97225,28.75049,121.01225,28.79049",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "包公"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515263,
+      890515633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8400791
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8400791
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4482a1bd14a9562dac95b70a724c5518",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1343670289,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4482a1bd14a9562dac95b70a724c5518",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1343670289,
+        "region_id": 85669835,
+        "localadmin_id": 890515263
+      }
     ],
-    "wof:id":1343670289,
-    "wof:lastmodified":1566661703,
-    "wof:name":"Baogong",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343670289,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Baogong",
+    "wof:parent_id": 890515263,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.99225,
     28.77049,
     120.99225,
     28.77049
-],
-  "geometry": {"coordinates":[120.99225,28.77049],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.99225,
+      28.77049
+    ],
+    "type": "Point"
+  }
 }

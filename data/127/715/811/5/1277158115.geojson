@@ -2,75 +2,83 @@
   "id": 1277158115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.61153,26.68874,110.61153,26.68874",
-    "geom:latitude":26.68874,
-    "geom:longitude":110.61153,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Choujia",
-    "gn:country_code":"CN",
-    "gn:dem":355,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10365438,
-    "gn:latitude":26.68874,
-    "gn:longitude":110.61153,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Choujia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.59153,26.66874,110.63153,26.70874",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4ec7\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.61153,26.68874,110.61153,26.68874",
+    "geom:latitude": 26.68874,
+    "geom:longitude": 110.61153,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Choujia",
+    "gn:country_code": "CN",
+    "gn:dem": 355,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10365438,
+    "gn:latitude": 26.68874,
+    "gn:longitude": 110.61153,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Choujia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.59153,26.66874,110.63153,26.70874",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "仇家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514309
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514309,
+      1127430581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10365438
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10365438
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a15031bcd51180830747088206429199",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514309,
-            "empire_id":136253041,
-            "locality_id":1277158115,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a15031bcd51180830747088206429199",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514309,
+        "empire_id": 136253041,
+        "locality_id": 1277158115,
+        "region_id": 85669781,
+        "localadmin_id": 1127430581
+      }
     ],
-    "wof:id":1277158115,
-    "wof:lastmodified":1566675422,
-    "wof:name":"Choujia",
-    "wof:parent_id":890514309,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277158115,
+    "wof:lastmodified": 1768670390,
+    "wof:name": "Choujia",
+    "wof:parent_id": 1127430581,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.61153,
     26.68874000000001,
     110.61153,
     26.68874000000001
-],
-  "geometry": {"coordinates":[110.61153,26.68874000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.61153,
+      26.68874000000001
+    ],
+    "type": "Point"
+  }
 }

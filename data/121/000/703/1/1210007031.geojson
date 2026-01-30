@@ -2,78 +2,86 @@
   "id": 1210007031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.48333,53.01667,122.48333,53.01667",
-    "geom:latitude":53.01667,
-    "geom:longitude":122.48333,
-    "gn:admin1_code":"08",
-    "gn:asciiname":"Xilinji",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":440,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2033822,
-    "gn:latitude":53.01667,
-    "gn:longitude":122.48333,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xilinji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.46333,52.99667,122.50333,53.03667",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019i-lin-chi",
-        "Hsi-lin-chi",
-        "Xilinji"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.48333,53.01667,122.48333,53.01667",
+    "geom:latitude": 53.01667,
+    "geom:longitude": 122.48333,
+    "gn:admin1_code": "08",
+    "gn:asciiname": "Xilinji",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 440,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2033822,
+    "gn:latitude": 53.01667,
+    "gn:longitude": 122.48333,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xilinji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.46333,52.99667,122.50333,53.03667",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’i-lin-chi",
+      "Hsi-lin-chi",
+      "Xilinji"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        1108732399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514041,
+      1108732399
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2033822
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2033822
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0a449c04aa0ff8feb9c8d7df0206498b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732399,
-            "empire_id":136253041,
-            "locality_id":1210007031,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0a449c04aa0ff8feb9c8d7df0206498b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732399,
+        "empire_id": 136253041,
+        "locality_id": 1210007031,
+        "region_id": 85669849,
+        "localadmin_id": 890514041
+      }
     ],
-    "wof:id":1210007031,
-    "wof:lastmodified":1566684465,
-    "wof:name":"Xilinji",
-    "wof:parent_id":1108732399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1210007031,
+    "wof:lastmodified": 1768669596,
+    "wof:name": "Xilinji",
+    "wof:parent_id": 890514041,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.48333,
     53.01667,
     122.48333,
     53.01667
-],
-  "geometry": {"coordinates":[122.48333,53.01667],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.48333,
+      53.01667
+    ],
+    "type": "Point"
+  }
 }

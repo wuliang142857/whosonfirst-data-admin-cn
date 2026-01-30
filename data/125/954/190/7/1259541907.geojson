@@ -2,83 +2,91 @@
   "id": 1259541907,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.42351,39.63027,116.42351,39.63027",
-    "geom:latitude":39.63027,
-    "geom:longitude":116.42351,
-    "gn:admin1_code":"22",
-    "gn:asciiname":"Dongnanyanfa",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1912127,
-    "gn:latitude":39.63027,
-    "gn:longitude":116.42351,
-    "gn:modification_date":"2012-09-07",
-    "gn:name":"Dongnanyanfa",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.40351,39.61027,116.44351,39.65027",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Weishanzhuang Zhen",
-        "Weishanzhuang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.42351,39.63027,116.42351,39.63027",
+    "geom:latitude": 39.63027,
+    "geom:longitude": 116.42351,
+    "gn:admin1_code": "22",
+    "gn:asciiname": "Dongnanyanfa",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1912127,
+    "gn:latitude": 39.63027,
+    "gn:longitude": 116.42351,
+    "gn:modification_date": "2012-09-07",
+    "gn:name": "Dongnanyanfa",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.40351,39.61027,116.44351,39.65027",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Weishanzhuang Zhen",
+      "Weishanzhuang"
     ],
-    "name:zho_x_preferred":[
-        "\u4e1c\u5357\u7814\u57a1"
+    "name:zho_x_preferred": [
+      "东南研垡"
     ],
-    "name:zho_x_variant":[
-        "\u9b4f\u5584\u5e84\u9547",
-        "\u9b4f\u5584\u5e84"
+    "name:zho_x_variant": [
+      "魏善庄镇",
+      "魏善庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890513985,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1912127
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1912127
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9e5065ea452b87005963b3785f5aaa94",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1259541907,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9e5065ea452b87005963b3785f5aaa94",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1259541907,
+        "region_id": 85669727,
+        "localadmin_id": 890513985
+      }
     ],
-    "wof:id":1259541907,
-    "wof:lastmodified":1566698035,
-    "wof:name":"Dongnanyanfa",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259541907,
+    "wof:lastmodified": 1768667324,
+    "wof:name": "Dongnanyanfa",
+    "wof:parent_id": 890513985,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.42351,
     39.63027,
     116.42351,
     39.63027
-],
-  "geometry": {"coordinates":[116.42350999999999,39.63027],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.42351,
+      39.63027
+    ],
+    "type": "Point"
+  }
 }

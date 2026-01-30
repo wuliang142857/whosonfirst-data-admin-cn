@@ -2,75 +2,83 @@
   "id": 1293938661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.4553,37.37782,118.4553,37.37782",
-    "geom:latitude":37.37782,
-    "geom:longitude":118.4553,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Dasong",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9276958,
-    "gn:latitude":37.37782,
-    "gn:longitude":118.4553,
-    "gn:modification_date":"2014-08-07",
-    "gn:name":"Dasong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.4353,37.35782,118.4753,37.39782",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5b8b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.4553,37.37782,118.4553,37.37782",
+    "geom:latitude": 37.37782,
+    "geom:longitude": 118.4553,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Dasong",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9276958,
+    "gn:latitude": 37.37782,
+    "gn:longitude": 118.4553,
+    "gn:modification_date": "2014-08-07",
+    "gn:name": "Dasong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.4353,37.35782,118.4753,37.39782",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大宋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514773
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514773,
+      1125293145
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9276958
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9276958
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7f392fd768014c186817d8c1ee8565e5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514773,
-            "empire_id":136253041,
-            "locality_id":1293938661,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7f392fd768014c186817d8c1ee8565e5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514773,
+        "empire_id": 136253041,
+        "locality_id": 1293938661,
+        "region_id": 85669813,
+        "localadmin_id": 1125293145
+      }
     ],
-    "wof:id":1293938661,
-    "wof:lastmodified":1566669549,
-    "wof:name":"Dasong",
-    "wof:parent_id":890514773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293938661,
+    "wof:lastmodified": 1768667980,
+    "wof:name": "Dasong",
+    "wof:parent_id": 1125293145,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.4553,
     37.37782,
     118.4553,
     37.37782
-],
-  "geometry": {"coordinates":[118.45529999999999,37.37782],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.4553,
+      37.37782
+    ],
+    "type": "Point"
+  }
 }

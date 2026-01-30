@@ -2,75 +2,83 @@
   "id": 1226199683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.599,36.55,118.599,36.55",
-    "geom:latitude":36.55,
-    "geom:longitude":118.599,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Beishimiao",
-    "gn:country_code":"CN",
-    "gn:dem":168,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9123815,
-    "gn:latitude":36.55,
-    "gn:longitude":118.599,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Beishimiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.579,36.53,118.619,36.57",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u77f3\u5e99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.599,36.55,118.599,36.55",
+    "geom:latitude": 36.55,
+    "geom:longitude": 118.599,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Beishimiao",
+    "gn:country_code": "CN",
+    "gn:dem": 168,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9123815,
+    "gn:latitude": 36.55,
+    "gn:longitude": 118.599,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Beishimiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.579,36.53,118.619,36.57",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北石庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514755
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890511879,
+      890514755
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9123815
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9123815
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2717d4b5a4295256ecf7175b47e46ba5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514755,
-            "empire_id":136253041,
-            "locality_id":1226199683,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2717d4b5a4295256ecf7175b47e46ba5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514755,
+        "empire_id": 136253041,
+        "locality_id": 1226199683,
+        "region_id": 85669813,
+        "localadmin_id": 890511879
+      }
     ],
-    "wof:id":1226199683,
-    "wof:lastmodified":1566701352,
-    "wof:name":"Beishimiao",
-    "wof:parent_id":890514755,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226199683,
+    "wof:lastmodified": 1768667969,
+    "wof:name": "Beishimiao",
+    "wof:parent_id": 890511879,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.599,
     36.55,
     118.599,
     36.55
-],
-  "geometry": {"coordinates":[118.599,36.55],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.599,
+      36.55
+    ],
+    "type": "Point"
+  }
 }

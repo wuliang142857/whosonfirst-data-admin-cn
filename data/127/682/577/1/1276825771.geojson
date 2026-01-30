@@ -2,88 +2,96 @@
   "id": 1276825771,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.798,36.5534,109.798,36.5534",
-    "geom:latitude":36.5534,
-    "geom:longitude":109.798,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Zhaozhuangcun",
-    "gn:country_code":"CN",
-    "gn:dem":967,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11149979,
-    "gn:latitude":36.5534,
-    "gn:longitude":109.798,
-    "gn:modification_date":"2016-05-10",
-    "gn:name":"Zhaozhuangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.778,36.5334,109.818,36.5734",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Cheng-chia-chuang",
-        "Cheng-chuang",
-        "Zhengzhuang",
-        "Zhaozhuangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.798,36.5534,109.798,36.5534",
+    "geom:latitude": 36.5534,
+    "geom:longitude": 109.798,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Zhaozhuangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 967,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11149979,
+    "gn:latitude": 36.5534,
+    "gn:longitude": 109.798,
+    "gn:modification_date": "2016-05-10",
+    "gn:name": "Zhaozhuangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.778,36.5334,109.818,36.5734",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Cheng-chia-chuang",
+      "Cheng-chuang",
+      "Zhengzhuang",
+      "Zhaozhuangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u8d75\u5e84\u6751"
+    "name:zho_x_preferred": [
+      "赵庄村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516587
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516587,
+      1127610621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11149979
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11149979
     },
-    "wof:concordances_alt":{
-        "gn:id":[
-            1784653
-        ]
+    "wof:concordances_alt": {
+      "gn:id": [
+        1784653
+      ]
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2ac26f82f9776747c7bb906e052ce055",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516587,
-            "empire_id":136253041,
-            "locality_id":1276825771,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2ac26f82f9776747c7bb906e052ce055",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516587,
+        "empire_id": 136253041,
+        "locality_id": 1276825771,
+        "region_id": 85669769,
+        "localadmin_id": 1127610621
+      }
     ],
-    "wof:id":1276825771,
-    "wof:lastmodified":1706239461,
-    "wof:name":"Zhaozhuangcun",
-    "wof:parent_id":890516587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        1310062457
+    "wof:id": 1276825771,
+    "wof:lastmodified": 1768667665,
+    "wof:name": "Zhaozhuangcun",
+    "wof:parent_id": 1127610621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1310062457
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     109.798,
     36.5534,
     109.798,
     36.5534
-],
-  "geometry": {"coordinates":[109.798,36.5534],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.798,
+      36.5534
+    ],
+    "type": "Point"
+  }
 }

@@ -2,73 +2,81 @@
   "id": 890513355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.27122,31.17612,121.27122,31.17612",
-    "geom:latitude":31.17612,
-    "geom:longitude":121.27122,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA4",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"121.25122,31.15612,121.29122,31.19612",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsu-ching-chen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.27122,31.17612,121.27122,31.17612",
+    "geom:latitude": 31.17612,
+    "geom:longitude": 121.27122,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA4",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "121.25122,31.15612,121.29122,31.19612",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsu-ching-chen"
     ],
-    "qs:name":"Xujing",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "qs:name": "Xujing",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514601,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1787913,
-        "gp:id":12512197,
-        "qs_pg:id":372016
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1787913,
+      "gp:id": 12512197,
+      "qs_pg:id": 372016
     },
-    "wof:country":"CN",
-    "wof:created":1469055812,
-    "wof:geomhash":"7956f48f221732a14120dbbff5cc115c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":890513355,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055812,
+    "wof:geomhash": "7956f48f221732a14120dbbff5cc115c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 890513355,
+        "region_id": 85669831,
+        "localadmin_id": 890514601
+      }
     ],
-    "wof:id":890513355,
-    "wof:lastmodified":1566693701,
-    "wof:name":"Xujing",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890513355,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Xujing",
+    "wof:parent_id": 890514601,
+    "wof:placetype": "locality",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.27122,
     31.17612,
     121.27122,
     31.17612
-],
-  "geometry": {"coordinates":[121.27122,31.17612],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.27122,
+      31.17612
+    ],
+    "type": "Point"
+  }
 }

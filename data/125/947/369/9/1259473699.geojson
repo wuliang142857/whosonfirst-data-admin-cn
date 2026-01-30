@@ -2,75 +2,83 @@
   "id": 1259473699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.66508,45.6537,126.66508,45.6537",
-    "geom:latitude":45.6537,
-    "geom:longitude":126.66508,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Xidaba",
-    "gn:country_code":"CN",
-    "gn:dem":160,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11579605,
-    "gn:latitude":45.6537,
-    "gn:longitude":126.66508,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Xidaba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.64508,45.6337,126.68508,45.6737",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u5927\u575d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.66508,45.6537,126.66508,45.6537",
+    "geom:latitude": 45.6537,
+    "geom:longitude": 126.66508,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Xidaba",
+    "gn:country_code": "CN",
+    "gn:dem": 160,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11579605,
+    "gn:latitude": 45.6537,
+    "gn:longitude": 126.66508,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Xidaba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.64508,45.6337,126.68508,45.6737",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西大坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516235
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516235,
+      1127230110
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11579605
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11579605
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4d9f43055de8d5871f594110ee627811",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516235,
-            "empire_id":136253041,
-            "locality_id":1259473699,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4d9f43055de8d5871f594110ee627811",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516235,
+        "empire_id": 136253041,
+        "locality_id": 1259473699,
+        "region_id": 85669849,
+        "localadmin_id": 1127230110
+      }
     ],
-    "wof:id":1259473699,
-    "wof:lastmodified":1566699082,
-    "wof:name":"Xidaba",
-    "wof:parent_id":890516235,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259473699,
+    "wof:lastmodified": 1768668892,
+    "wof:name": "Xidaba",
+    "wof:parent_id": 1127230110,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.66508,
     45.6537,
     126.66508,
     45.6537
-],
-  "geometry": {"coordinates":[126.66508,45.6537],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.66508,
+      45.6537
+    ],
+    "type": "Point"
+  }
 }

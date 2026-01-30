@@ -2,75 +2,83 @@
   "id": 1309685203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.587,35.9758,103.587,35.9758",
-    "geom:latitude":35.9758,
-    "geom:longitude":103.587,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Dayangwa",
-    "gn:country_code":"CN",
-    "gn:dem":2431,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10681053,
-    "gn:latitude":35.9758,
-    "gn:longitude":103.587,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Dayangwa",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.567,35.9558,103.607,35.9958",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u9633\u6d3c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.587,35.9758,103.587,35.9758",
+    "geom:latitude": 35.9758,
+    "geom:longitude": 103.587,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Dayangwa",
+    "gn:country_code": "CN",
+    "gn:dem": 2431,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10681053,
+    "gn:latitude": 35.9758,
+    "gn:longitude": 103.587,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Dayangwa",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.567,35.9558,103.607,35.9958",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大阳洼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890513773
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890513773,
+      1127622923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10681053
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10681053
     },
-    "wof:country":"CN",
-    "wof:geomhash":"137bac58a4e5cf42093996c149c1aabb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513773,
-            "empire_id":136253041,
-            "locality_id":1309685203,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "137bac58a4e5cf42093996c149c1aabb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513773,
+        "empire_id": 136253041,
+        "locality_id": 1309685203,
+        "region_id": 85669711,
+        "localadmin_id": 1127622923
+      }
     ],
-    "wof:id":1309685203,
-    "wof:lastmodified":1566692986,
-    "wof:name":"Dayangwa",
-    "wof:parent_id":890513773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309685203,
+    "wof:lastmodified": 1768666660,
+    "wof:name": "Dayangwa",
+    "wof:parent_id": 1127622923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.587,
     35.9758,
     103.587,
     35.9758
-],
-  "geometry": {"coordinates":[103.587,35.9758],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.587,
+      35.9758
+    ],
+    "type": "Point"
+  }
 }

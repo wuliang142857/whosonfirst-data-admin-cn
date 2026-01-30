@@ -2,75 +2,83 @@
   "id": 1243258259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.88303,36.32439,113.88303,36.32439",
-    "geom:latitude":36.32439,
-    "geom:longitude":113.88303,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Wangmu",
-    "gn:country_code":"CN",
-    "gn:dem":412,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10364234,
-    "gn:latitude":36.32439,
-    "gn:longitude":113.88303,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Wangmu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.86303,36.30439,113.90303,36.34439",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u76ee"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.88303,36.32439,113.88303,36.32439",
+    "geom:latitude": 36.32439,
+    "geom:longitude": 113.88303,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Wangmu",
+    "gn:country_code": "CN",
+    "gn:dem": 412,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10364234,
+    "gn:latitude": 36.32439,
+    "gn:longitude": 113.88303,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Wangmu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.86303,36.30439,113.90303,36.34439",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王目"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890513077
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513077,
+      1127410581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10364234
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10364234
     },
-    "wof:country":"CN",
-    "wof:geomhash":"143cfffd522ac63df1bb2e7847260adf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513077,
-            "empire_id":136253041,
-            "locality_id":1243258259,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "143cfffd522ac63df1bb2e7847260adf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513077,
+        "empire_id": 136253041,
+        "locality_id": 1243258259,
+        "region_id": 85669801,
+        "localadmin_id": 1127410581
+      }
     ],
-    "wof:id":1243258259,
-    "wof:lastmodified":1566695840,
-    "wof:name":"Wangmu",
-    "wof:parent_id":890513077,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243258259,
+    "wof:lastmodified": 1768669450,
+    "wof:name": "Wangmu",
+    "wof:parent_id": 1127410581,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.88303,
     36.32439,
     113.88303,
     36.32439
-],
-  "geometry": {"coordinates":[113.88303000000001,36.32439],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.88303,
+      36.32439
+    ],
+    "type": "Point"
+  }
 }

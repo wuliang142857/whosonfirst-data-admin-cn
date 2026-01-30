@@ -2,75 +2,83 @@
   "id": 1259373471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.35498,45.91884,124.35498,45.91884",
-    "geom:latitude":45.91884,
-    "geom:longitude":124.35498,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Hongfacun",
-    "gn:country_code":"CN",
-    "gn:dem":130,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11580424,
-    "gn:latitude":45.91884,
-    "gn:longitude":124.35498,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Hongfacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.33498,45.89884,124.37498,45.93884",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b8f\u53d1\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.35498,45.91884,124.35498,45.91884",
+    "geom:latitude": 45.91884,
+    "geom:longitude": 124.35498,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Hongfacun",
+    "gn:country_code": "CN",
+    "gn:dem": 130,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11580424,
+    "gn:latitude": 45.91884,
+    "gn:longitude": 124.35498,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Hongfacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.33498,45.89884,124.37498,45.93884",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宏发村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890513007
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890512579,
+      890513007
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11580424
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11580424
     },
-    "wof:country":"CN",
-    "wof:geomhash":"589a61bc5904bd515df97df9580171c8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513007,
-            "empire_id":136253041,
-            "locality_id":1259373471,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "589a61bc5904bd515df97df9580171c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513007,
+        "empire_id": 136253041,
+        "locality_id": 1259373471,
+        "region_id": 85669849,
+        "localadmin_id": 890512579
+      }
     ],
-    "wof:id":1259373471,
-    "wof:lastmodified":1566698359,
-    "wof:name":"Hongfacun",
-    "wof:parent_id":890513007,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259373471,
+    "wof:lastmodified": 1768669535,
+    "wof:name": "Hongfacun",
+    "wof:parent_id": 890512579,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.35498,
     45.91884,
     124.35498,
     45.91884
-],
-  "geometry": {"coordinates":[124.35498,45.91884],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.35498,
+      45.91884
+    ],
+    "type": "Point"
+  }
 }

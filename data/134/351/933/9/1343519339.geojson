@@ -2,82 +2,90 @@
   "id": 1343519339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.145,39.9982,113.145,39.9982",
-    "geom:latitude":39.9982,
-    "geom:longitude":113.145,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Kouquan",
-    "gn:country_code":"CN",
-    "gn:dem":1078,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":2036289,
-    "gn:latitude":39.9982,
-    "gn:longitude":113.145,
-    "gn:modification_date":"2014-04-06",
-    "gn:name":"Kouquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.125,39.9782,113.165,40.0182",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "K\u2019ou-ch\u2019\u00fcan",
-        "K\u2019ou-ch\u2019\u00fcan-chen",
-        "Kouquan",
-        "\u53e3\u6cc9",
-        "Kouquan Zhen",
-        "\u53e3\u6cc9\u9547",
-        "Nanjiao Qu",
-        "\u5357\u90ca\u533a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.145,39.9982,113.145,39.9982",
+    "geom:latitude": 39.9982,
+    "geom:longitude": 113.145,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Kouquan",
+    "gn:country_code": "CN",
+    "gn:dem": 1078,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 2036289,
+    "gn:latitude": 39.9982,
+    "gn:longitude": 113.145,
+    "gn:modification_date": "2014-04-06",
+    "gn:name": "Kouquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.125,39.9782,113.165,40.0182",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "K’ou-ch’üan",
+      "K’ou-ch’üan-chen",
+      "Kouquan",
+      "口泉",
+      "Kouquan Zhen",
+      "口泉镇",
+      "Nanjiao Qu",
+      "南郊区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890516415
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890516415,
+      1127140214
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2036289
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2036289
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9aa838fa07287bbb20fe210f318a5496",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516415,
-            "empire_id":136253041,
-            "locality_id":1343519339,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9aa838fa07287bbb20fe210f318a5496",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516415,
+        "empire_id": 136253041,
+        "locality_id": 1343519339,
+        "region_id": 85669773,
+        "localadmin_id": 1127140214
+      }
     ],
-    "wof:id":1343519339,
-    "wof:lastmodified":1566661585,
-    "wof:name":"Kouquan",
-    "wof:parent_id":890516415,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343519339,
+    "wof:lastmodified": 1768668675,
+    "wof:name": "Kouquan",
+    "wof:parent_id": 1127140214,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.145,
     39.9982,
     113.145,
     39.9982
-],
-  "geometry": {"coordinates":[113.145,39.9982],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.145,
+      39.9982
+    ],
+    "type": "Point"
+  }
 }

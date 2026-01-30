@@ -2,75 +2,83 @@
   "id": 1326711881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.544,22.3794,110.544,22.3794",
-    "geom:latitude":22.3794,
-    "geom:longitude":110.544,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Cangtian",
-    "gn:country_code":"CN",
-    "gn:dem":158,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9898990,
-    "gn:latitude":22.3794,
-    "gn:longitude":110.544,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Cangtian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.524,22.3594,110.564,22.3994",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4ed3\u7530"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.544,22.3794,110.544,22.3794",
+    "geom:latitude": 22.3794,
+    "geom:longitude": 110.544,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Cangtian",
+    "gn:country_code": "CN",
+    "gn:dem": 158,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9898990,
+    "gn:latitude": 22.3794,
+    "gn:longitude": 110.544,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Cangtian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.524,22.3594,110.564,22.3994",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "仓田"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9898990
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9898990
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5ed05d93eb0eba07c9600e5257b7f02f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1326711881,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5ed05d93eb0eba07c9600e5257b7f02f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1326711881,
+        "region_id": 85669717,
+        "localadmin_id": 1127450981
+      }
     ],
-    "wof:id":1326711881,
-    "wof:lastmodified":1566651924,
-    "wof:name":"Cangtian",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326711881,
+    "wof:lastmodified": 1768665517,
+    "wof:name": "Cangtian",
+    "wof:parent_id": 1127450981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.544,
     22.3794,
     110.544,
     22.3794
-],
-  "geometry": {"coordinates":[110.544,22.3794],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.544,
+      22.3794
+    ],
+    "type": "Point"
+  }
 }

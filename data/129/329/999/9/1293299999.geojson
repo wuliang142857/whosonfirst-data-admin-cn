@@ -2,75 +2,83 @@
   "id": 1293299999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.528,25.679,114.528,25.679",
-    "geom:latitude":25.679,
-    "geom:longitude":114.528,
-    "gn:admin1_code":"3",
-    "gn:asciiname":"Zhongmenkeng",
-    "gn:country_code":"CN",
-    "gn:dem":221,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9615014,
-    "gn:latitude":25.679,
-    "gn:longitude":114.528,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Zhongmenkeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.508,25.659,114.548,25.699",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u95e8\u5751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.528,25.679,114.528,25.679",
+    "geom:latitude": 25.679,
+    "geom:longitude": 114.528,
+    "gn:admin1_code": "3",
+    "gn:asciiname": "Zhongmenkeng",
+    "gn:country_code": "CN",
+    "gn:dem": 221,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9615014,
+    "gn:latitude": 25.679,
+    "gn:longitude": 114.528,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Zhongmenkeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.508,25.659,114.548,25.699",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中门坑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890511835
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890511835,
+      1127360725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9615014
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9615014
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3fa85d7302f0b4ff1593560d30b649ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511835,
-            "empire_id":136253041,
-            "locality_id":1293299999,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3fa85d7302f0b4ff1593560d30b649ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511835,
+        "empire_id": 136253041,
+        "locality_id": 1293299999,
+        "region_id": 85669823,
+        "localadmin_id": 1127360725
+      }
     ],
-    "wof:id":1293299999,
-    "wof:lastmodified":1566670731,
-    "wof:name":"Zhongmenkeng",
-    "wof:parent_id":890511835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293299999,
+    "wof:lastmodified": 1768669693,
+    "wof:name": "Zhongmenkeng",
+    "wof:parent_id": 1127360725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.528,
     25.679,
     114.528,
     25.679
-],
-  "geometry": {"coordinates":[114.52800000000001,25.679],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.528,
+      25.679
+    ],
+    "type": "Point"
+  }
 }

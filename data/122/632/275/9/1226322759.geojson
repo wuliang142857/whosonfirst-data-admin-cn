@@ -2,80 +2,88 @@
   "id": 1226322759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.59025,30.45534,112.59025,30.45534",
-    "geom:latitude":30.45534,
-    "geom:longitude":112.59025,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Jiyukou",
-    "gn:country_code":"CN",
-    "gn:dem":32,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7661841,
-    "gn:latitude":30.45534,
-    "gn:longitude":112.59025,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Jiyukou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.57025,30.43534,112.61025,30.47534",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Jiyukou Zhen",
-        "Jiyukou",
-        "\u79ef\u7389\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.59025,30.45534,112.59025,30.45534",
+    "geom:latitude": 30.45534,
+    "geom:longitude": 112.59025,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Jiyukou",
+    "gn:country_code": "CN",
+    "gn:dem": 32,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7661841,
+    "gn:latitude": 30.45534,
+    "gn:longitude": 112.59025,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Jiyukou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.57025,30.43534,112.61025,30.47534",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Jiyukou Zhen",
+      "Jiyukou",
+      "积玉口"
     ],
-    "name:zho_x_preferred":[
-        "\u79ef\u7389\u53e3\u9547"
+    "name:zho_x_preferred": [
+      "积玉口镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732471
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890516363,
+      1108732471
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7661841
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7661841
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a409e395c9432754b5dd346f0978cab3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732471,
-            "empire_id":136253041,
-            "locality_id":1226322759,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a409e395c9432754b5dd346f0978cab3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732471,
+        "empire_id": 136253041,
+        "locality_id": 1226322759,
+        "region_id": 85669777,
+        "localadmin_id": 890516363
+      }
     ],
-    "wof:id":1226322759,
-    "wof:lastmodified":1566702384,
-    "wof:name":"Jiyukou",
-    "wof:parent_id":1108732471,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226322759,
+    "wof:lastmodified": 1768670642,
+    "wof:name": "Jiyukou",
+    "wof:parent_id": 890516363,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.59025,
     30.45534,
     112.59025,
     30.45534
-],
-  "geometry": {"coordinates":[112.59025,30.45534],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.59025,
+      30.45534
+    ],
+    "type": "Point"
+  }
 }

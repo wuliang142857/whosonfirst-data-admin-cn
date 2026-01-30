@@ -2,78 +2,86 @@
   "id": 890516981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.170555,20.331575,110.170555,20.331575",
-    "geom:latitude":20.331575,
-    "geom:longitude":110.170555,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"110.150555,20.311575,110.190555,20.351575",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Xucheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.170555,20.331575,110.170555,20.331575",
+    "geom:latitude": 20.331575,
+    "geom:longitude": 110.170555,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "110.150555,20.311575,110.190555,20.351575",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Xucheng"
     ],
-    "name:zho_x_preferred":[
-        "\u5f90\u57ce\u9547"
+    "name:zho_x_preferred": [
+      "徐城镇"
     ],
-    "qs:name":"\u5f90\u57ce\u9547",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5e7f\u4e1c\u7701",
-    "qs:photos":47,
-    "qs:photos_1k":10,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":47,
-    "qs:photos_sr":2,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890514753,
-        136253041,
-        85669743
+    "qs:name": "徐城镇",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "广东省",
+    "qs:photos": 47,
+    "qs:photos_1k": 10,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 47,
+    "qs:photos_sr": 2,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514753,
+      890514947
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2161784,
-        "qs_pg:id":1195731
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2161784,
+      "qs_pg:id": 1195731
     },
-    "wof:country":"CN",
-    "wof:created":1469055989,
-    "wof:geomhash":"d2a7b2912ca51529de52f7d0f5402362",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514753,
-            "empire_id":136253041,
-            "locality_id":890516981,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055989,
+    "wof:geomhash": "d2a7b2912ca51529de52f7d0f5402362",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514753,
+        "empire_id": 136253041,
+        "locality_id": 890516981,
+        "region_id": 85669743,
+        "localadmin_id": 890514947
+      }
     ],
-    "wof:id":890516981,
-    "wof:lastmodified":1601423071,
-    "wof:name":"Xucheng",
-    "wof:parent_id":890514753,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516981,
+    "wof:lastmodified": 1768668826,
+    "wof:name": "Xucheng",
+    "wof:parent_id": 890514947,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.170555,
     20.331575,
     110.170555,
     20.331575
-],
-  "geometry": {"coordinates":[110.17055499999999,20.331575],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.170555,
+      20.331575
+    ],
+    "type": "Point"
+  }
 }

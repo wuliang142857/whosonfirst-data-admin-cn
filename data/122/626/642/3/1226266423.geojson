@@ -2,81 +2,89 @@
   "id": 1226266423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.92029,33.02692,119.92029,33.02692",
-    "geom:latitude":33.02692,
-    "geom:longitude":119.92029,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Zaochencun",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1547715,
-    "gn:latitude":33.02692,
-    "gn:longitude":119.92029,
-    "gn:modification_date":"2017-05-07",
-    "gn:name":"Zaochencun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.90029,33.00692,119.94029,33.04692",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zaochen",
-        "\u7076\u9648",
-        "Zaochenzhuang",
-        "Zaochencun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.92029,33.02692,119.92029,33.02692",
+    "geom:latitude": 33.02692,
+    "geom:longitude": 119.92029,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Zaochencun",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1547715,
+    "gn:latitude": 33.02692,
+    "gn:longitude": 119.92029,
+    "gn:modification_date": "2017-05-07",
+    "gn:name": "Zaochencun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.90029,33.00692,119.94029,33.04692",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zaochen",
+      "灶陈",
+      "Zaochenzhuang",
+      "Zaochencun"
     ],
-    "name:zho_x_preferred":[
-        "\u7076\u9648\u6751"
+    "name:zho_x_preferred": [
+      "灶陈村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514283,
+      890516237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1547715
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1547715
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5d581030b6064dea8d016b16ae587ba7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1226266423,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5d581030b6064dea8d016b16ae587ba7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1226266423,
+        "region_id": 85669827,
+        "localadmin_id": 890514283
+      }
     ],
-    "wof:id":1226266423,
-    "wof:lastmodified":1566701383,
-    "wof:name":"Zaochencun",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226266423,
+    "wof:lastmodified": 1768670650,
+    "wof:name": "Zaochencun",
+    "wof:parent_id": 890514283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.92029,
     33.02692,
     119.92029,
     33.02692
-],
-  "geometry": {"coordinates":[119.92028999999999,33.02692],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.92029,
+      33.02692
+    ],
+    "type": "Point"
+  }
 }

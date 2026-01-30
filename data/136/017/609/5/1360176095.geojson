@@ -2,75 +2,83 @@
   "id": 1360176095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.49862,24.7647,118.49862,24.7647",
-    "geom:latitude":24.7647,
-    "geom:longitude":118.49862,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Gongqian",
-    "gn:country_code":"CN",
-    "gn:dem":61,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8420161,
-    "gn:latitude":24.7647,
-    "gn:longitude":118.49862,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Gongqian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.47862,24.7447,118.51862,24.7847",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5bab\u524d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.49862,24.7647,118.49862,24.7647",
+    "geom:latitude": 24.7647,
+    "geom:longitude": 118.49862,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Gongqian",
+    "gn:country_code": "CN",
+    "gn:dem": 61,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8420161,
+    "gn:latitude": 24.7647,
+    "gn:longitude": 118.49862,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Gongqian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.47862,24.7447,118.51862,24.7847",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宫前"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514127,
+      890515367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8420161
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8420161
     },
-    "wof:country":"CN",
-    "wof:geomhash":"609328eb9b9b086f21ba1cc7e6f87c10",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1360176095,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "609328eb9b9b086f21ba1cc7e6f87c10",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1360176095,
+        "region_id": 85669735,
+        "localadmin_id": 890515367
+      }
     ],
-    "wof:id":1360176095,
-    "wof:lastmodified":1566691897,
-    "wof:name":"Gongqian",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360176095,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Gongqian",
+    "wof:parent_id": 890515367,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.49862,
     24.7647,
     118.49862,
     24.7647
-],
-  "geometry": {"coordinates":[118.49862,24.7647],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.49862,
+      24.7647
+    ],
+    "type": "Point"
+  }
 }

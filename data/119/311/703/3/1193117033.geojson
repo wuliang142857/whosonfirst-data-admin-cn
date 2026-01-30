@@ -2,75 +2,83 @@
   "id": 1193117033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.72758,32.10905,112.72758,32.10905",
-    "geom:latitude":32.10905,
-    "geom:longitude":112.72758,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Wangwan",
-    "gn:country_code":"CN",
-    "gn:dem":109,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8525135,
-    "gn:latitude":32.10905,
-    "gn:longitude":112.72758,
-    "gn:modification_date":"2013-05-10",
-    "gn:name":"Wangwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.70758,32.08905,112.74758,32.12905",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.72758,32.10905,112.72758,32.10905",
+    "geom:latitude": 32.10905,
+    "geom:longitude": 112.72758,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Wangwan",
+    "gn:country_code": "CN",
+    "gn:dem": 109,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8525135,
+    "gn:latitude": 32.10905,
+    "gn:longitude": 112.72758,
+    "gn:modification_date": "2013-05-10",
+    "gn:name": "Wangwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.70758,32.08905,112.74758,32.12905",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512025,
+      1108732497
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8525135
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8525135
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8efb3c0f5bd4797683fd9c1fe86941b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1193117033,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8efb3c0f5bd4797683fd9c1fe86941b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1193117033,
+        "region_id": 85669777,
+        "localadmin_id": 890512025
+      }
     ],
-    "wof:id":1193117033,
-    "wof:lastmodified":1566685907,
-    "wof:name":"Wangwan",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193117033,
+    "wof:lastmodified": 1768665620,
+    "wof:name": "Wangwan",
+    "wof:parent_id": 890512025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.72758,
     32.10905,
     112.72758,
     32.10905
-],
-  "geometry": {"coordinates":[112.72758,32.10905],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.72758,
+      32.10905
+    ],
+    "type": "Point"
+  }
 }

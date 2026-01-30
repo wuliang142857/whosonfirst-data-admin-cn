@@ -2,75 +2,83 @@
   "id": 1310464779,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.601,25.6873,108.601,25.6873",
-    "geom:latitude":25.6873,
-    "geom:longitude":108.601,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Yinguo",
-    "gn:country_code":"CN",
-    "gn:dem":469,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10051682,
-    "gn:latitude":25.6873,
-    "gn:longitude":108.601,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Yinguo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.581,25.6673,108.621,25.7073",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f15\u679c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.601,25.6873,108.601,25.6873",
+    "geom:latitude": 25.6873,
+    "geom:longitude": 108.601,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Yinguo",
+    "gn:country_code": "CN",
+    "gn:dem": 469,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10051682,
+    "gn:latitude": 25.6873,
+    "gn:longitude": 108.601,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Yinguo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.581,25.6673,108.621,25.7073",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "引果"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794067
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516015,
+      1108794067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10051682
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10051682
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a6e31c6bf4d90a6699e40fc2be817318",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794067,
-            "empire_id":136253041,
-            "locality_id":1310464779,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a6e31c6bf4d90a6699e40fc2be817318",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794067,
+        "empire_id": 136253041,
+        "locality_id": 1310464779,
+        "region_id": 85669781,
+        "localadmin_id": 890516015
+      }
     ],
-    "wof:id":1310464779,
-    "wof:lastmodified":1566688124,
-    "wof:name":"Yinguo",
-    "wof:parent_id":1108794067,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310464779,
+    "wof:lastmodified": 1768664981,
+    "wof:name": "Yinguo",
+    "wof:parent_id": 890516015,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.601,
     25.6873,
     108.601,
     25.6873
-],
-  "geometry": {"coordinates":[108.601,25.6873],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.601,
+      25.6873
+    ],
+    "type": "Point"
+  }
 }

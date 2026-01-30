@@ -2,75 +2,83 @@
   "id": 1343334053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.056,24.7268,105.056,24.7268",
-    "geom:latitude":24.7268,
-    "geom:longitude":105.056,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Linghao",
-    "gn:country_code":"CN",
-    "gn:dem":813,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9911291,
-    "gn:latitude":24.7268,
-    "gn:longitude":105.056,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Linghao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.036,24.7068,105.076,24.7468",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9886\u597d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.056,24.7268,105.056,24.7268",
+    "geom:latitude": 24.7268,
+    "geom:longitude": 105.056,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Linghao",
+    "gn:country_code": "CN",
+    "gn:dem": 813,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9911291,
+    "gn:latitude": 24.7268,
+    "gn:longitude": 105.056,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Linghao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.036,24.7068,105.076,24.7468",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "领好"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9911291
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9911291
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1efd3fc6443886a5055a6d78f6d9b53c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1343334053,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1efd3fc6443886a5055a6d78f6d9b53c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1343334053,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1343334053,
-    "wof:lastmodified":1566662256,
-    "wof:name":"Linghao",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343334053,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Linghao",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.056,
     24.7268,
     105.056,
     24.7268
-],
-  "geometry": {"coordinates":[105.056,24.7268],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.056,
+      24.7268
+    ],
+    "type": "Point"
+  }
 }

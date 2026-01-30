@@ -2,75 +2,83 @@
   "id": 1293790323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.31284,27.95896,115.31284,27.95896",
-    "geom:latitude":27.95896,
-    "geom:longitude":115.31284,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Pengjia",
-    "gn:country_code":"CN",
-    "gn:dem":51,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7685100,
-    "gn:latitude":27.95896,
-    "gn:longitude":115.31284,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Pengjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.29284,27.93896,115.33284,27.97896",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5f6d\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.31284,27.95896,115.31284,27.95896",
+    "geom:latitude": 27.95896,
+    "geom:longitude": 115.31284,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Pengjia",
+    "gn:country_code": "CN",
+    "gn:dem": 51,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7685100,
+    "gn:latitude": 27.95896,
+    "gn:longitude": 115.31284,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Pengjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.29284,27.93896,115.33284,27.97896",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "彭家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890513499,
+      890514553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7685100
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7685100
     },
-    "wof:country":"CN",
-    "wof:geomhash":"325309d60579b8bc2983ae8995e9769e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1293790323,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "325309d60579b8bc2983ae8995e9769e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1293790323,
+        "region_id": 85669823,
+        "localadmin_id": 890513499
+      }
     ],
-    "wof:id":1293790323,
-    "wof:lastmodified":1566667386,
-    "wof:name":"Pengjia",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293790323,
+    "wof:lastmodified": 1768669929,
+    "wof:name": "Pengjia",
+    "wof:parent_id": 890513499,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.31284,
     27.95896,
     115.31284,
     27.95896
-],
-  "geometry": {"coordinates":[115.31283999999999,27.95896],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.31284,
+      27.95896
+    ],
+    "type": "Point"
+  }
 }

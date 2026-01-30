@@ -2,75 +2,83 @@
   "id": 1226704075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.26656,29.71372,107.26656,29.71372",
-    "geom:latitude":29.71372,
-    "geom:longitude":107.26656,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Dongbu",
-    "gn:country_code":"CN",
-    "gn:dem":179,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416452,
-    "gn:latitude":29.71372,
-    "gn:longitude":107.26656,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Dongbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.24656,29.69372,107.28656,29.73372",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u5821"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.26656,29.71372,107.26656,29.71372",
+    "geom:latitude": 29.71372,
+    "geom:longitude": 107.26656,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Dongbu",
+    "gn:country_code": "CN",
+    "gn:dem": 179,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416452,
+    "gn:latitude": 29.71372,
+    "gn:longitude": 107.26656,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Dongbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.24656,29.69372,107.28656,29.73372",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416452
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416452
     },
-    "wof:country":"CN",
-    "wof:geomhash":"69776979806b0c35a0692a0e929de080",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1226704075,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "69776979806b0c35a0692a0e929de080",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1226704075,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1226704075,
-    "wof:lastmodified":1566704660,
-    "wof:name":"Dongbu",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226704075,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Dongbu",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.26656,
     29.71372,
     107.26656,
     29.71372
-],
-  "geometry": {"coordinates":[107.26656,29.71372],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.26656,
+      29.71372
+    ],
+    "type": "Point"
+  }
 }

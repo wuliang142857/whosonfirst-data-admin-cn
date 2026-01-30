@@ -2,82 +2,90 @@
   "id": 1326696177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.35,26.18333,107.35,26.18333",
-    "geom:latitude":26.18333,
-    "geom:longitude":107.35,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Jiangzhou",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1036,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1806194,
-    "gn:latitude":26.18333,
-    "gn:longitude":107.35,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Jiangzhou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.33,26.16333,107.37,26.20333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Jiangzhou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.35,26.18333,107.35,26.18333",
+    "geom:latitude": 26.18333,
+    "geom:longitude": 107.35,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Jiangzhou",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1036,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1806194,
+    "gn:latitude": 26.18333,
+    "gn:longitude": 107.35,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Jiangzhou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.33,26.16333,107.37,26.20333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Jiangzhou"
     ],
-    "name:deu_x_preferred":[
-        "Jiangzhou"
+    "name:deu_x_preferred": [
+      "Jiangzhou"
     ],
-    "name:und_x_variant":[
-        "Chiang-chou"
+    "name:und_x_variant": [
+      "Chiang-chou"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732557
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890514367,
+      1108732557
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1806194
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1806194
     },
-    "wof:country":"CN",
-    "wof:geomhash":"db93286f82f3619d3887d0284bf3f987",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732557,
-            "empire_id":136253041,
-            "locality_id":1326696177,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "db93286f82f3619d3887d0284bf3f987",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732557,
+        "empire_id": 136253041,
+        "locality_id": 1326696177,
+        "region_id": 85669721,
+        "localadmin_id": 890514367
+      }
     ],
-    "wof:id":1326696177,
-    "wof:lastmodified":1566648613,
-    "wof:name":"Jiangzhou",
-    "wof:parent_id":1108732557,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326696177,
+    "wof:lastmodified": 1768664927,
+    "wof:name": "Jiangzhou",
+    "wof:parent_id": 890514367,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.35,
     26.18333,
     107.35,
     26.18333
-],
-  "geometry": {"coordinates":[107.34999999999999,26.18333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.35,
+      26.18333
+    ],
+    "type": "Point"
+  }
 }

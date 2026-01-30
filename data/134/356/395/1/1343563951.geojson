@@ -2,80 +2,88 @@
   "id": 1343563951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.76556,28.47056,120.76556,28.47056",
-    "geom:latitude":28.47056,
-    "geom:longitude":120.76556,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Jiangtancun",
-    "gn:country_code":"CN",
-    "gn:dem":129,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1883213,
-    "gn:latitude":28.47056,
-    "gn:longitude":120.76556,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Jiangtancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.74556,28.45056,120.78556,28.49056",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chiang-t\u2019ou",
-        "Jiangtan",
-        "Jiangtancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.76556,28.47056,120.76556,28.47056",
+    "geom:latitude": 28.47056,
+    "geom:longitude": 120.76556,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Jiangtancun",
+    "gn:country_code": "CN",
+    "gn:dem": 129,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1883213,
+    "gn:latitude": 28.47056,
+    "gn:longitude": 120.76556,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Jiangtancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.74556,28.45056,120.78556,28.49056",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chiang-t’ou",
+      "Jiangtan",
+      "Jiangtancun"
     ],
-    "name:zho_x_preferred":[
-        "\u6c5f\u6f6d\u6751"
+    "name:zho_x_preferred": [
+      "江潭村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330324
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1883213
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1883213
     },
-    "wof:country":"CN",
-    "wof:geomhash":"58efe7b218f4a2bcfd763f0d402d066e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1343563951,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "58efe7b218f4a2bcfd763f0d402d066e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1343563951,
+        "region_id": 85669835,
+        "localadmin_id": 1127330324
+      }
     ],
-    "wof:id":1343563951,
-    "wof:lastmodified":1566661461,
-    "wof:name":"Jiangtancun",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343563951,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Jiangtancun",
+    "wof:parent_id": 1127330324,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.76556,
     28.47056,
     120.76556,
     28.47056
-],
-  "geometry": {"coordinates":[120.76555999999999,28.47056],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.76556,
+      28.47056
+    ],
+    "type": "Point"
+  }
 }

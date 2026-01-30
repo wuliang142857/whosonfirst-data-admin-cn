@@ -2,75 +2,83 @@
   "id": 1276823507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.8193,33.3567,108.8193,33.3567",
-    "geom:latitude":33.3567,
-    "geom:longitude":108.8193,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Guanjiashan",
-    "gn:country_code":"CN",
-    "gn:dem":1183,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11337840,
-    "gn:latitude":33.3567,
-    "gn:longitude":108.8193,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Guanjiashan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.7993,33.3367,108.8393,33.3767",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u89c2\u5bb6\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.8193,33.3567,108.8193,33.3567",
+    "geom:latitude": 33.3567,
+    "geom:longitude": 108.8193,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Guanjiashan",
+    "gn:country_code": "CN",
+    "gn:dem": 1183,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11337840,
+    "gn:latitude": 33.3567,
+    "gn:longitude": 108.8193,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Guanjiashan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.7993,33.3367,108.8393,33.3767",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "观家山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11337840
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11337840
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3cf82f165cb3c2df42e1f1bb305c12f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1276823507,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3cf82f165cb3c2df42e1f1bb305c12f3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1276823507,
+        "region_id": 85669769,
+        "localadmin_id": 1127611025
+      }
     ],
-    "wof:id":1276823507,
-    "wof:lastmodified":1566676185,
-    "wof:name":"Guanjiashan",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276823507,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Guanjiashan",
+    "wof:parent_id": 1127611025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.8193,
     33.3567,
     108.8193,
     33.3567
-],
-  "geometry": {"coordinates":[108.8193,33.3567],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.8193,
+      33.3567
+    ],
+    "type": "Point"
+  }
 }

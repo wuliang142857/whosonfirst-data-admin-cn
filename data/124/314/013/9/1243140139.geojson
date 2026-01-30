@@ -2,75 +2,83 @@
   "id": 1243140139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.68122,37.78443,111.68122,37.78443",
-    "geom:latitude":37.78443,
-    "geom:longitude":111.68122,
-    "gn:admin1_code":"24.0",
-    "gn:asciiname":"Hejiagou",
-    "gn:country_code":"CN",
-    "gn:dem":1459,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11447457,
-    "gn:latitude":37.78443,
-    "gn:longitude":111.68122,
-    "gn:modification_date":"2017-02-05",
-    "gn:name":"Hejiagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.66122,37.76443,111.70122,37.80443",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d3a\u5bb6\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.68122,37.78443,111.68122,37.78443",
+    "geom:latitude": 37.78443,
+    "geom:longitude": 111.68122,
+    "gn:admin1_code": "24.0",
+    "gn:asciiname": "Hejiagou",
+    "gn:country_code": "CN",
+    "gn:dem": 1459,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11447457,
+    "gn:latitude": 37.78443,
+    "gn:longitude": 111.68122,
+    "gn:modification_date": "2017-02-05",
+    "gn:name": "Hejiagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.66122,37.76443,111.70122,37.80443",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "贺家沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        1108732379
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890514239,
+      1108732379
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11447457
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11447457
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6d43e93e7c475a28ab63c6e293ca054c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732379,
-            "empire_id":136253041,
-            "locality_id":1243140139,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6d43e93e7c475a28ab63c6e293ca054c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732379,
+        "empire_id": 136253041,
+        "locality_id": 1243140139,
+        "region_id": 85669773,
+        "localadmin_id": 890514239
+      }
     ],
-    "wof:id":1243140139,
-    "wof:lastmodified":1566695695,
-    "wof:name":"Hejiagou",
-    "wof:parent_id":1108732379,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243140139,
+    "wof:lastmodified": 1768667525,
+    "wof:name": "Hejiagou",
+    "wof:parent_id": 890514239,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.68122,
     37.78443,
     111.68122,
     37.78443
-],
-  "geometry": {"coordinates":[111.68122,37.78443],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.68122,
+      37.78443
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1226088725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.133,22.9275,102.133,22.9275",
-    "geom:latitude":22.9275,
-    "geom:longitude":102.133,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Hayu",
-    "gn:country_code":"CN",
-    "gn:dem":1432,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9931043,
-    "gn:latitude":22.9275,
-    "gn:longitude":102.133,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Hayu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.113,22.9075,102.153,22.9475",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nep_x_preferred":[
-        "\u0939\u093e\u092f\u0942 \u091c\u093e\u0924\u093f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.133,22.9275,102.133,22.9275",
+    "geom:latitude": 22.9275,
+    "geom:longitude": 102.133,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Hayu",
+    "gn:country_code": "CN",
+    "gn:dem": 1432,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9931043,
+    "gn:latitude": 22.9275,
+    "gn:longitude": 102.133,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Hayu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.113,22.9075,102.153,22.9475",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nep_x_preferred": [
+      "हायू जाति"
     ],
-    "name:new_x_preferred":[
-        "\u0939\u093e\u092f\u0942"
+    "name:new_x_preferred": [
+      "हायू"
     ],
-    "name:zho_x_preferred":[
-        "\u54c8\u80b2"
+    "name:zho_x_preferred": [
+      "哈育"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      1108794063,
+      1127532531
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9931043
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9931043
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5fe70cdee00f8e4efc37a84b39124167",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1226088725,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5fe70cdee00f8e4efc37a84b39124167",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1226088725,
+        "region_id": 85669791,
+        "localadmin_id": 1127532531
+      }
     ],
-    "wof:id":1226088725,
-    "wof:lastmodified":1566704998,
-    "wof:name":"Hayu",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226088725,
+    "wof:lastmodified": 1768668218,
+    "wof:name": "Hayu",
+    "wof:parent_id": 1127532531,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.133,
     22.9275,
     102.133,
     22.9275
-],
-  "geometry": {"coordinates":[102.133,22.9275],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.133,
+      22.9275
+    ],
+    "type": "Point"
+  }
 }

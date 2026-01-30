@@ -2,84 +2,92 @@
   "id": 1327011185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.878,24.5655,105.878,24.5655",
-    "geom:latitude":24.5655,
-    "geom:longitude":105.878,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Naxi",
-    "gn:country_code":"CN",
-    "gn:dem":718,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9912042,
-    "gn:latitude":24.5655,
-    "gn:longitude":105.878,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Naxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.858,24.5455,105.898,24.5855",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fra_x_preferred":[
-        "Naxi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.878,24.5655,105.878,24.5655",
+    "geom:latitude": 24.5655,
+    "geom:longitude": 105.878,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Naxi",
+    "gn:country_code": "CN",
+    "gn:dem": 718,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9912042,
+    "gn:latitude": 24.5655,
+    "gn:longitude": 105.878,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Naxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.858,24.5455,105.898,24.5855",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fra_x_preferred": [
+      "Naxi"
     ],
-    "name:nld_x_preferred":[
-        "Naxi"
+    "name:nld_x_preferred": [
+      "Naxi"
     ],
-    "name:nor_x_preferred":[
-        "Naxi"
+    "name:nor_x_preferred": [
+      "Naxi"
     ],
-    "name:zho_x_preferred":[
-        "\u90a3\u6614"
+    "name:zho_x_preferred": [
+      "那昔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451029
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9912042
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9912042
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ff3d0f5d81b369d837db3c16bf77067f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1327011185,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ff3d0f5d81b369d837db3c16bf77067f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1327011185,
+        "region_id": 85669717,
+        "localadmin_id": 1127451029
+      }
     ],
-    "wof:id":1327011185,
-    "wof:lastmodified":1566646560,
-    "wof:name":"Naxi",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327011185,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Naxi",
+    "wof:parent_id": 1127451029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.878,
     24.5655,
     105.878,
     24.5655
-],
-  "geometry": {"coordinates":[105.878,24.5655],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.878,
+      24.5655
+    ],
+    "type": "Point"
+  }
 }

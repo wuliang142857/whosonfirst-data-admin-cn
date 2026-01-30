@@ -2,81 +2,89 @@
   "id": 1209765511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.69459,22.19397,111.69459,22.19397",
-    "geom:latitude":22.19397,
-    "geom:longitude":111.69459,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Dakeng",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6851193,
-    "gn:latitude":22.19397,
-    "gn:longitude":111.69459,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Dakeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.67459,22.17397,111.71459,22.21397",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Dakeng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.69459,22.19397,111.69459,22.19397",
+    "geom:latitude": 22.19397,
+    "geom:longitude": 111.69459,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Dakeng",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6851193,
+    "gn:latitude": 22.19397,
+    "gn:longitude": 111.69459,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Dakeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.67459,22.17397,111.71459,22.21397",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Dakeng"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5751"
+    "name:zho_x_preferred": [
+      "大坑"
     ],
-    "name:zho_x_variant":[
-        "\u5927\u5751\u98a8\u666f\u5340"
+    "name:zho_x_variant": [
+      "大坑風景區"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516345
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516345,
+      1127441781
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6851193
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6851193
     },
-    "wof:country":"CN",
-    "wof:geomhash":"99f503fd13551527199389a7b80e1ff6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516345,
-            "empire_id":136253041,
-            "locality_id":1209765511,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "99f503fd13551527199389a7b80e1ff6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516345,
+        "empire_id": 136253041,
+        "locality_id": 1209765511,
+        "region_id": 85669743,
+        "localadmin_id": 1127441781
+      }
     ],
-    "wof:id":1209765511,
-    "wof:lastmodified":1566681300,
-    "wof:name":"Dakeng",
-    "wof:parent_id":890516345,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209765511,
+    "wof:lastmodified": 1768668283,
+    "wof:name": "Dakeng",
+    "wof:parent_id": 1127441781,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.69459,
     22.19397,
     111.69459,
     22.19397
-],
-  "geometry": {"coordinates":[111.69459000000001,22.19397],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.69459,
+      22.19397
+    ],
+    "type": "Point"
+  }
 }

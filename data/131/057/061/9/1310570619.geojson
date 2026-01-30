@@ -2,75 +2,83 @@
   "id": 1310570619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.482,24.4079,105.482,24.4079",
-    "geom:latitude":24.4079,
-    "geom:longitude":105.482,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Babiao",
-    "gn:country_code":"CN",
-    "gn:dem":845,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9912628,
-    "gn:latitude":24.4079,
-    "gn:longitude":105.482,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Babiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.462,24.3879,105.502,24.4279",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u516b\u6807"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.482,24.4079,105.482,24.4079",
+    "geom:latitude": 24.4079,
+    "geom:longitude": 105.482,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Babiao",
+    "gn:country_code": "CN",
+    "gn:dem": 845,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9912628,
+    "gn:latitude": 24.4079,
+    "gn:longitude": 105.482,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Babiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.462,24.3879,105.502,24.4279",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "八标"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9912628
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9912628
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eb029e7ac76fa212d12ed91e6dce0e8d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1310570619,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eb029e7ac76fa212d12ed91e6dce0e8d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1310570619,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1310570619,
-    "wof:lastmodified":1566690616,
-    "wof:name":"Babiao",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310570619,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Babiao",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.482,
     24.4079,
     105.482,
     24.4079
-],
-  "geometry": {"coordinates":[105.482,24.4079],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.482,
+      24.4079
+    ],
+    "type": "Point"
+  }
 }

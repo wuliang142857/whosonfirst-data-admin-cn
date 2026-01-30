@@ -2,75 +2,83 @@
   "id": 1259482139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.77502,42.09898,125.77502,42.09898",
-    "geom:latitude":42.09898,
-    "geom:longitude":125.77502,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Xiaochengzi",
-    "gn:country_code":"CN",
-    "gn:dem":404,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10983066,
-    "gn:latitude":42.09898,
-    "gn:longitude":125.77502,
-    "gn:modification_date":"2015-12-08",
-    "gn:name":"Xiaochengzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.75502,42.07898,125.79502,42.11898",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u57ce\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.77502,42.09898,125.77502,42.09898",
+    "geom:latitude": 42.09898,
+    "geom:longitude": 125.77502,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Xiaochengzi",
+    "gn:country_code": "CN",
+    "gn:dem": 404,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10983066,
+    "gn:latitude": 42.09898,
+    "gn:longitude": 125.77502,
+    "gn:modification_date": "2015-12-08",
+    "gn:name": "Xiaochengzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.75502,42.07898,125.79502,42.11898",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小城子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516249
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890512963,
+      890516249
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10983066
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10983066
     },
-    "wof:country":"CN",
-    "wof:geomhash":"da0d14a1e236753ff968b2f99d56ccab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516249,
-            "empire_id":136253041,
-            "locality_id":1259482139,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "da0d14a1e236753ff968b2f99d56ccab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516249,
+        "empire_id": 136253041,
+        "locality_id": 1259482139,
+        "region_id": 85669843,
+        "localadmin_id": 890512963
+      }
     ],
-    "wof:id":1259482139,
-    "wof:lastmodified":1566698698,
-    "wof:name":"Xiaochengzi",
-    "wof:parent_id":890516249,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259482139,
+    "wof:lastmodified": 1768671033,
+    "wof:name": "Xiaochengzi",
+    "wof:parent_id": 890512963,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.77502,
     42.09898,
     125.77502,
     42.09898
-],
-  "geometry": {"coordinates":[125.77502,42.09898],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.77502,
+      42.09898
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1243323043,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.259,29.3325,105.259,29.3325",
-    "geom:latitude":29.3325,
-    "geom:longitude":105.259,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Gongnong",
-    "gn:country_code":"CN",
-    "gn:dem":358,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183703,
-    "gn:latitude":29.3325,
-    "gn:longitude":105.259,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Gongnong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.239,29.3125,105.279,29.3525",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Gongnong"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.259,29.3325,105.259,29.3325",
+    "geom:latitude": 29.3325,
+    "geom:longitude": 105.259,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Gongnong",
+    "gn:country_code": "CN",
+    "gn:dem": 358,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183703,
+    "gn:latitude": 29.3325,
+    "gn:longitude": 105.259,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Gongnong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.239,29.3125,105.279,29.3525",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Gongnong"
     ],
-    "name:deu_x_preferred":[
-        "Gongnong"
+    "name:deu_x_preferred": [
+      "Gongnong"
     ],
-    "name:zho_x_preferred":[
-        "\u5de5\u519c"
+    "name:zho_x_preferred": [
+      "工农"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183703
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183703
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0bfa3e6533dea1f15469054191a96c3f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1243323043,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0bfa3e6533dea1f15469054191a96c3f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1243323043,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1243323043,
-    "wof:lastmodified":1566696080,
-    "wof:name":"Gongnong",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243323043,
+    "wof:lastmodified": 1768668256,
+    "wof:name": "Gongnong",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.259,
     29.3325,
     105.259,
     29.3325
-],
-  "geometry": {"coordinates":[105.259,29.3325],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.259,
+      29.3325
+    ],
+    "type": "Point"
+  }
 }

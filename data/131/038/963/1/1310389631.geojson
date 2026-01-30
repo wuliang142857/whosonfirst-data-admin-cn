@@ -2,75 +2,83 @@
   "id": 1310389631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.20688,32.0511,115.20688,32.0511",
-    "geom:latitude":32.0511,
-    "geom:longitude":115.20688,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Wangying",
-    "gn:country_code":"CN",
-    "gn:dem":50,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10421694,
-    "gn:latitude":32.0511,
-    "gn:longitude":115.20688,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Wangying",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.18688,32.0311,115.22688,32.0711",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u8425"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.20688,32.0511,115.20688,32.0511",
+    "geom:latitude": 32.0511,
+    "geom:longitude": 115.20688,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Wangying",
+    "gn:country_code": "CN",
+    "gn:dem": 50,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10421694,
+    "gn:latitude": 32.0511,
+    "gn:longitude": 115.20688,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Wangying",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.18688,32.0311,115.22688,32.0711",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王营"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890512239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890512239,
+      1127411526
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10421694
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10421694
     },
-    "wof:country":"CN",
-    "wof:geomhash":"887d751550a839b6b5973a017d0d4c6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512239,
-            "empire_id":136253041,
-            "locality_id":1310389631,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "887d751550a839b6b5973a017d0d4c6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512239,
+        "empire_id": 136253041,
+        "locality_id": 1310389631,
+        "region_id": 85669801,
+        "localadmin_id": 1127411526
+      }
     ],
-    "wof:id":1310389631,
-    "wof:lastmodified":1566688760,
-    "wof:name":"Wangying",
-    "wof:parent_id":890512239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310389631,
+    "wof:lastmodified": 1768669286,
+    "wof:name": "Wangying",
+    "wof:parent_id": 1127411526,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.20688,
     32.0511,
     115.20688,
     32.0511
-],
-  "geometry": {"coordinates":[115.20688,32.0511],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.20688,
+      32.0511
+    ],
+    "type": "Point"
+  }
 }

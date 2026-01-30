@@ -2,75 +2,83 @@
   "id": 1226211067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.39682,40.04464,116.39682,40.04464",
-    "geom:latitude":40.04464,
-    "geom:longitude":116.39682,
-    "gn:admin1_code":"22.0",
-    "gn:asciiname":"Chenying",
-    "gn:country_code":"CN",
-    "gn:dem":38,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9865567,
-    "gn:latitude":40.04464,
-    "gn:longitude":116.39682,
-    "gn:modification_date":"2014-12-04",
-    "gn:name":"Chenying",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.37682,40.02464,116.41682,40.06464",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u8425"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.39682,40.04464,116.39682,40.04464",
+    "geom:latitude": 40.04464,
+    "geom:longitude": 116.39682,
+    "gn:admin1_code": "22.0",
+    "gn:asciiname": "Chenying",
+    "gn:country_code": "CN",
+    "gn:dem": 38,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9865567,
+    "gn:latitude": 40.04464,
+    "gn:longitude": 116.39682,
+    "gn:modification_date": "2014-12-04",
+    "gn:name": "Chenying",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.37682,40.02464,116.41682,40.06464",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈营"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890515303,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9865567
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9865567
     },
-    "wof:country":"CN",
-    "wof:geomhash":"82d3d46c57dc8eea173929f5e574ae11",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1226211067,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "82d3d46c57dc8eea173929f5e574ae11",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1226211067,
+        "region_id": 85669727,
+        "localadmin_id": 890515303
+      }
     ],
-    "wof:id":1226211067,
-    "wof:lastmodified":1566701295,
-    "wof:name":"Chenying",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226211067,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Chenying",
+    "wof:parent_id": 890515303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.39682,
     40.04464,
     116.39682,
     40.04464
-],
-  "geometry": {"coordinates":[116.39682000000001,40.04464],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.39682,
+      40.04464
+    ],
+    "type": "Point"
+  }
 }

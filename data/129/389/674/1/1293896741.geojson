@@ -2,85 +2,93 @@
   "id": 1293896741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.57381,32.45994,118.57381,32.45994",
-    "geom:latitude":32.45994,
-    "geom:longitude":118.57381,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Shiguan",
-    "gn:country_code":"CN",
-    "gn:dem":37,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1795356,
-    "gn:latitude":32.45994,
-    "gn:longitude":118.57381,
-    "gn:modification_date":"2012-05-05",
-    "gn:name":"Shiguan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.55381,32.43994,118.59381,32.47994",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shih-kuan-chi",
-        "Shiguanji",
-        "Shih-kuan",
-        "Shiguan",
-        "Shiguan Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.57381,32.45994,118.57381,32.45994",
+    "geom:latitude": 32.45994,
+    "geom:longitude": 118.57381,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Shiguan",
+    "gn:country_code": "CN",
+    "gn:dem": 37,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1795356,
+    "gn:latitude": 32.45994,
+    "gn:longitude": 118.57381,
+    "gn:modification_date": "2012-05-05",
+    "gn:name": "Shiguan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.55381,32.43994,118.59381,32.47994",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shih-kuan-chi",
+      "Shiguanji",
+      "Shih-kuan",
+      "Shiguan",
+      "Shiguan Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u65bd\u5b98"
+    "name:zho_x_preferred": [
+      "施官"
     ],
-    "name:zho_x_variant":[
-        "\u65bd\u5b98\u9547"
+    "name:zho_x_variant": [
+      "施官镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513329
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513329,
+      1127341122
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795356
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795356
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3e7fafe46e6f762efc184976bf0dd126",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513329,
-            "empire_id":136253041,
-            "locality_id":1293896741,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3e7fafe46e6f762efc184976bf0dd126",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513329,
+        "empire_id": 136253041,
+        "locality_id": 1293896741,
+        "region_id": 85669739,
+        "localadmin_id": 1127341122
+      }
     ],
-    "wof:id":1293896741,
-    "wof:lastmodified":1566670921,
-    "wof:name":"Shiguan",
-    "wof:parent_id":890513329,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293896741,
+    "wof:lastmodified": 1768669862,
+    "wof:name": "Shiguan",
+    "wof:parent_id": 1127341122,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.57381,
     32.45994,
     118.57381,
     32.45994
-],
-  "geometry": {"coordinates":[118.57380999999999,32.45994],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.57381,
+      32.45994
+    ],
+    "type": "Point"
+  }
 }

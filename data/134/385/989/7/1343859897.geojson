@@ -2,75 +2,83 @@
   "id": 1343859897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.898,25.7541,115.898,25.7541",
-    "geom:latitude":25.7541,
-    "geom:longitude":115.898,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Shangmao",
-    "gn:country_code":"CN",
-    "gn:dem":203,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9877328,
-    "gn:latitude":25.7541,
-    "gn:longitude":115.898,
-    "gn:modification_date":"2014-12-05",
-    "gn:name":"Shangmao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.878,25.7341,115.918,25.7741",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u8305"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.898,25.7541,115.898,25.7541",
+    "geom:latitude": 25.7541,
+    "geom:longitude": 115.898,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Shangmao",
+    "gn:country_code": "CN",
+    "gn:dem": 203,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9877328,
+    "gn:latitude": 25.7541,
+    "gn:longitude": 115.898,
+    "gn:modification_date": "2014-12-05",
+    "gn:name": "Shangmao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.878,25.7341,115.918,25.7741",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上茅"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890511835
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890511835,
+      1127360781
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9877328
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9877328
     },
-    "wof:country":"CN",
-    "wof:geomhash":"720e207888d8f3534bb2078ccf29814c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511835,
-            "empire_id":136253041,
-            "locality_id":1343859897,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "720e207888d8f3534bb2078ccf29814c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511835,
+        "empire_id": 136253041,
+        "locality_id": 1343859897,
+        "region_id": 85669823,
+        "localadmin_id": 1127360781
+      }
     ],
-    "wof:id":1343859897,
-    "wof:lastmodified":1566659927,
-    "wof:name":"Shangmao",
-    "wof:parent_id":890511835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343859897,
+    "wof:lastmodified": 1768669692,
+    "wof:name": "Shangmao",
+    "wof:parent_id": 1127360781,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.898,
     25.7541,
     115.898,
     25.7541
-],
-  "geometry": {"coordinates":[115.898,25.7541],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.898,
+      25.7541
+    ],
+    "type": "Point"
+  }
 }

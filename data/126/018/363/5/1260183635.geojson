@@ -2,77 +2,85 @@
   "id": 1260183635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.7241,27.82162,115.7241,27.82162",
-    "geom:latitude":27.82162,
-    "geom:longitude":115.7241,
-    "gn:admin1_code":"03",
-    "gn:asciiname":"Shijiang",
-    "gn:country_code":"CN",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1795303,
-    "gn:latitude":27.82162,
-    "gn:longitude":115.7241,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Shijiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.7041,27.80162,115.7441,27.84162",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u77f3\u6c5f",
-        "Shijiang Xiang",
-        "\u77f3\u6c5f\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.7241,27.82162,115.7241,27.82162",
+    "geom:latitude": 27.82162,
+    "geom:longitude": 115.7241,
+    "gn:admin1_code": "03",
+    "gn:asciiname": "Shijiang",
+    "gn:country_code": "CN",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1795303,
+    "gn:latitude": 27.82162,
+    "gn:longitude": 115.7241,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Shijiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.7041,27.80162,115.7441,27.84162",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "石江",
+      "Shijiang Xiang",
+      "石江乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514553,
+      1127360981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795303
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795303
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5dfca74fb78ff8e3a223575859db675f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1260183635,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5dfca74fb78ff8e3a223575859db675f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1260183635,
+        "region_id": 85669823,
+        "localadmin_id": 1127360981
+      }
     ],
-    "wof:id":1260183635,
-    "wof:lastmodified":1566687117,
-    "wof:name":"Shijiang",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260183635,
+    "wof:lastmodified": 1768669928,
+    "wof:name": "Shijiang",
+    "wof:parent_id": 1127360981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.7241,
     27.82162000000001,
     115.7241,
     27.82162000000001
-],
-  "geometry": {"coordinates":[115.72410000000001,27.82162000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.7241,
+      27.82162000000001
+    ],
+    "type": "Point"
+  }
 }

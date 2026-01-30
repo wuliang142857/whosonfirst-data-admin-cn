@@ -2,75 +2,83 @@
   "id": 1343620889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.05,29.8627,101.05,29.8627",
-    "geom:latitude":29.8627,
-    "geom:longitude":101.05,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Malangcuo",
-    "gn:country_code":"CN",
-    "gn:dem":3586,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10208154,
-    "gn:latitude":29.8627,
-    "gn:longitude":101.05,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Malangcuo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.03,29.8427,101.07,29.8827",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ebb\u6717\u9519"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.05,29.8627,101.05,29.8627",
+    "geom:latitude": 29.8627,
+    "geom:longitude": 101.05,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Malangcuo",
+    "gn:country_code": "CN",
+    "gn:dem": 3586,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10208154,
+    "gn:latitude": 29.8627,
+    "gn:longitude": 101.05,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Malangcuo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.03,29.8427,101.07,29.8827",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "麻朗错"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10208154
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10208154
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ba353d63b5d5ed460aa6a19973d73908",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1343620889,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ba353d63b5d5ed460aa6a19973d73908",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1343620889,
+        "region_id": 85669787,
+        "localadmin_id": 1127513325
+      }
     ],
-    "wof:id":1343620889,
-    "wof:lastmodified":1566656500,
-    "wof:name":"Malangcuo",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343620889,
+    "wof:lastmodified": 1768668578,
+    "wof:name": "Malangcuo",
+    "wof:parent_id": 1127513325,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.05,
     29.8627,
     101.05,
     29.8627
-],
-  "geometry": {"coordinates":[101.05,29.8627],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.05,
+      29.8627
+    ],
+    "type": "Point"
+  }
 }

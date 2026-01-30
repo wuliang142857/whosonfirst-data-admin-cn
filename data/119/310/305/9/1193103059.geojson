@@ -2,75 +2,83 @@
   "id": 1193103059,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.374,27.3842,107.374,27.3842",
-    "geom:latitude":27.3842,
-    "geom:longitude":107.374,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Aoshang",
-    "gn:country_code":"CN",
-    "gn:dem":858,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10032500,
-    "gn:latitude":27.3842,
-    "gn:longitude":107.374,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Aoshang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.354,27.3642,107.394,27.4042",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5773\u4e0a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.374,27.3842,107.374,27.3842",
+    "geom:latitude": 27.3842,
+    "geom:longitude": 107.374,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Aoshang",
+    "gn:country_code": "CN",
+    "gn:dem": 858,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10032500,
+    "gn:latitude": 27.3842,
+    "gn:longitude": 107.374,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Aoshang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.354,27.3642,107.394,27.4042",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坳上"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516473
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890516473,
+      1127520328
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10032500
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10032500
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2aa5987c4ee5132eb0d418f79a9e20c1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516473,
-            "empire_id":136253041,
-            "locality_id":1193103059,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2aa5987c4ee5132eb0d418f79a9e20c1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516473,
+        "empire_id": 136253041,
+        "locality_id": 1193103059,
+        "region_id": 85669721,
+        "localadmin_id": 1127520328
+      }
     ],
-    "wof:id":1193103059,
-    "wof:lastmodified":1566685993,
-    "wof:name":"Aoshang",
-    "wof:parent_id":890516473,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193103059,
+    "wof:lastmodified": 1768664929,
+    "wof:name": "Aoshang",
+    "wof:parent_id": 1127520328,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.374,
     27.3842,
     107.374,
     27.3842
-],
-  "geometry": {"coordinates":[107.374,27.3842],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.374,
+      27.3842
+    ],
+    "type": "Point"
+  }
 }

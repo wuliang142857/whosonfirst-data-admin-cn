@@ -2,75 +2,83 @@
   "id": 1242855887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.214,22.7421,110.214,22.7421",
-    "geom:latitude":22.7421,
-    "geom:longitude":110.214,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Songcun",
-    "gn:country_code":"CN",
-    "gn:dem":98,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9896907,
-    "gn:latitude":22.7421,
-    "gn:longitude":110.214,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Songcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.194,22.7221,110.234,22.7621",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b8b\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.214,22.7421,110.214,22.7421",
+    "geom:latitude": 22.7421,
+    "geom:longitude": 110.214,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Songcun",
+    "gn:country_code": "CN",
+    "gn:dem": 98,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9896907,
+    "gn:latitude": 22.7421,
+    "gn:longitude": 110.214,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Songcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.194,22.7221,110.234,22.7621",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宋村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9896907
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9896907
     },
-    "wof:country":"CN",
-    "wof:geomhash":"47bc29c5f8b4c1b68093dedbea5ee573",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1242855887,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "47bc29c5f8b4c1b68093dedbea5ee573",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1242855887,
+        "region_id": 85669717,
+        "localadmin_id": 1127450981
+      }
     ],
-    "wof:id":1242855887,
-    "wof:lastmodified":1566696874,
-    "wof:name":"Songcun",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242855887,
+    "wof:lastmodified": 1768665518,
+    "wof:name": "Songcun",
+    "wof:parent_id": 1127450981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.214,
     22.7421,
     110.214,
     22.7421
-],
-  "geometry": {"coordinates":[110.214,22.7421],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.214,
+      22.7421
+    ],
+    "type": "Point"
+  }
 }

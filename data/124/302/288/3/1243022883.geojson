@@ -2,75 +2,83 @@
   "id": 1243022883,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.8102,33.39766,109.8102,33.39766",
-    "geom:latitude":33.39766,
-    "geom:longitude":109.8102,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Loufanggou",
-    "gn:country_code":"CN",
-    "gn:dem":758,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11337746,
-    "gn:latitude":33.39766,
-    "gn:longitude":109.8102,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Loufanggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.7902,33.37766,109.8302,33.41766",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u697c\u623f\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.8102,33.39766,109.8102,33.39766",
+    "geom:latitude": 33.39766,
+    "geom:longitude": 109.8102,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Loufanggou",
+    "gn:country_code": "CN",
+    "gn:dem": 758,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11337746,
+    "gn:latitude": 33.39766,
+    "gn:longitude": 109.8102,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Loufanggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.7902,33.37766,109.8302,33.41766",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "楼房沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611024
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11337746
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11337746
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1285455d77f3cb8ef12e83a71732d4d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1243022883,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1285455d77f3cb8ef12e83a71732d4d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1243022883,
+        "region_id": 85669769,
+        "localadmin_id": 1127611024
+      }
     ],
-    "wof:id":1243022883,
-    "wof:lastmodified":1566696480,
-    "wof:name":"Loufanggou",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243022883,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Loufanggou",
+    "wof:parent_id": 1127611024,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.8102,
     33.39765999999999,
     109.8102,
     33.39765999999999
-],
-  "geometry": {"coordinates":[109.81019999999999,33.39765999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.8102,
+      33.39765999999999
+    ],
+    "type": "Point"
+  }
 }

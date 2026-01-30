@@ -2,75 +2,83 @@
   "id": 1276412557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.126,25.9201,110.126,25.9201",
-    "geom:latitude":25.9201,
-    "geom:longitude":110.126,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Daguchong",
-    "gn:country_code":"CN",
-    "gn:dem":635,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1993724,
-    "gn:latitude":25.9201,
-    "gn:longitude":110.126,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Daguchong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.106,25.9001,110.146,25.9401",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u8c37\u51b2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.126,25.9201,110.126,25.9201",
+    "geom:latitude": 25.9201,
+    "geom:longitude": 110.126,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Daguchong",
+    "gn:country_code": "CN",
+    "gn:dem": 635,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1993724,
+    "gn:latitude": 25.9201,
+    "gn:longitude": 110.126,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Daguchong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.106,25.9001,110.146,25.9401",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大谷冲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732443
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516075,
+      1108732443
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1993724
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1993724
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8bd3d2346e2ecfb08a57bd6aed61158d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":1276412557,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8bd3d2346e2ecfb08a57bd6aed61158d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 1276412557,
+        "region_id": 85669717,
+        "localadmin_id": 890516075
+      }
     ],
-    "wof:id":1276412557,
-    "wof:lastmodified":1566676851,
-    "wof:name":"Daguchong",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276412557,
+    "wof:lastmodified": 1768665551,
+    "wof:name": "Daguchong",
+    "wof:parent_id": 890516075,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.126,
     25.9201,
     110.126,
     25.9201
-],
-  "geometry": {"coordinates":[110.126,25.9201],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.126,
+      25.9201
+    ],
+    "type": "Point"
+  }
 }

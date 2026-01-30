@@ -2,76 +2,84 @@
   "id": 890515751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.93307,33.8963,117.93307,33.8963",
-    "geom:latitude":33.8963,
-    "geom:longitude":117.93307,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":61430,
-    "iso:country":"CN",
-    "lbl:bbox":"117.91307,33.8763,117.95307,33.9163",
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":8.0,
-    "name:und_x_variant":[
-        "Sui-ch\u2019eng-chen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.93307,33.8963,117.93307,33.8963",
+    "geom:latitude": 33.8963,
+    "geom:longitude": 117.93307,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 61430,
+    "iso:country": "CN",
+    "lbl:bbox": "117.91307,33.8763,117.95307,33.9163",
+    "lbl:max_zoom": 14.0,
+    "lbl:min_zoom": 9.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 8.0,
+    "name:und_x_variant": [
+      "Sui-ch’eng-chen"
     ],
-    "qs:name":"Suicheng",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"8",
-    "src:population":"geonames",
-    "wd:wordcount":35,
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "qs:name": "Suicheng",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "8",
+    "src:population": "geonames",
+    "wd:wordcount": 35,
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516045,
+      890516333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1793899,
-        "gp:id":2137125,
-        "qs_pg:id":88892,
-        "wk:page":"Suicheng"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1793899,
+      "gp:id": 2137125,
+      "qs_pg:id": 88892,
+      "wk:page": "Suicheng"
     },
-    "wof:country":"CN",
-    "wof:created":1469055929,
-    "wof:geomhash":"a17b34177baa3189ba1baad79666d156",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":890515751,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055929,
+    "wof:geomhash": "a17b34177baa3189ba1baad79666d156",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 890515751,
+        "region_id": 85669827,
+        "localadmin_id": 890516045
+      }
     ],
-    "wof:id":890515751,
-    "wof:lastmodified":1566693783,
-    "wof:name":"Suicheng",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:population":61430,
-    "wof:population_rank":8,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515751,
+    "wof:lastmodified": 1768670915,
+    "wof:name": "Suicheng",
+    "wof:parent_id": 890516045,
+    "wof:placetype": "locality",
+    "wof:population": 61430,
+    "wof:population_rank": 8,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.93307,
     33.8963,
     117.93307,
     33.8963
-],
-  "geometry": {"coordinates":[117.93307,33.8963],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.93307,
+      33.8963
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1360239527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.56073,37.66127,110.56073,37.66127",
-    "geom:latitude":37.66127,
-    "geom:longitude":110.56073,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Miaogoucun",
-    "gn:country_code":"CN",
-    "gn:dem":1054,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11122795,
-    "gn:latitude":37.66127,
-    "gn:longitude":110.56073,
-    "gn:modification_date":"2016-12-06",
-    "gn:name":"Miaogoucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.54073,37.64127,110.58073,37.68127",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e99\u6c9f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.56073,37.66127,110.56073,37.66127",
+    "geom:latitude": 37.66127,
+    "geom:longitude": 110.56073,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Miaogoucun",
+    "gn:country_code": "CN",
+    "gn:dem": 1054,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11122795,
+    "gn:latitude": 37.66127,
+    "gn:longitude": 110.56073,
+    "gn:modification_date": "2016-12-06",
+    "gn:name": "Miaogoucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.54073,37.64127,110.58073,37.68127",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "庙沟村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515097
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890514301,
+      890515097
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11122795
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11122795
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4f63b59b6df9bd5fa329a2a908b9a5cd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515097,
-            "empire_id":136253041,
-            "locality_id":1360239527,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4f63b59b6df9bd5fa329a2a908b9a5cd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515097,
+        "empire_id": 136253041,
+        "locality_id": 1360239527,
+        "region_id": 85669769,
+        "localadmin_id": 890514301
+      }
     ],
-    "wof:id":1360239527,
-    "wof:lastmodified":1566691129,
-    "wof:name":"Miaogoucun",
-    "wof:parent_id":890515097,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360239527,
+    "wof:lastmodified": 1768667150,
+    "wof:name": "Miaogoucun",
+    "wof:parent_id": 890514301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.56073,
     37.66127,
     110.56073,
     37.66127
-],
-  "geometry": {"coordinates":[110.56073000000001,37.66127],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.56073,
+      37.66127
+    ],
+    "type": "Point"
+  }
 }

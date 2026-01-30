@@ -2,75 +2,83 @@
   "id": 1343862087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.87329,33.18487,115.87329,33.18487",
-    "geom:latitude":33.18487,
-    "geom:longitude":115.87329,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Chezhaicun",
-    "gn:country_code":"CN",
-    "gn:dem":30,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11440403,
-    "gn:latitude":33.18487,
-    "gn:longitude":115.87329,
-    "gn:modification_date":"2017-02-05",
-    "gn:name":"Chezhaicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.85329,33.16487,115.89329,33.20487",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8f66\u5be8\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.87329,33.18487,115.87329,33.18487",
+    "geom:latitude": 33.18487,
+    "geom:longitude": 115.87329,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Chezhaicun",
+    "gn:country_code": "CN",
+    "gn:dem": 30,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11440403,
+    "gn:latitude": 33.18487,
+    "gn:longitude": 115.87329,
+    "gn:modification_date": "2017-02-05",
+    "gn:name": "Chezhaicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.85329,33.16487,115.89329,33.20487",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "车寨村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11440403
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11440403
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e96a05724d8a5bc3543819df0286068c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1343862087,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e96a05724d8a5bc3543819df0286068c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1343862087,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1343862087,
-    "wof:lastmodified":1566664569,
-    "wof:name":"Chezhaicun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343862087,
+    "wof:lastmodified": 1768669756,
+    "wof:name": "Chezhaicun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.87329,
     33.18487,
     115.87329,
     33.18487
-],
-  "geometry": {"coordinates":[115.87329,33.18487],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.87329,
+      33.18487
+    ],
+    "type": "Point"
+  }
 }

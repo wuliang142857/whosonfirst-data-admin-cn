@@ -2,75 +2,83 @@
   "id": 1260134663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.06843,32.41026,109.06843,32.41026",
-    "geom:latitude":32.41026,
-    "geom:longitude":109.06843,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Dagou",
-    "gn:country_code":"CN",
-    "gn:dem":1000,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11332756,
-    "gn:latitude":32.41026,
-    "gn:longitude":109.06843,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Dagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.04843,32.39026,109.08843,32.43026",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.06843,32.41026,109.06843,32.41026",
+    "geom:latitude": 32.41026,
+    "geom:longitude": 109.06843,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Dagou",
+    "gn:country_code": "CN",
+    "gn:dem": 1000,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11332756,
+    "gn:latitude": 32.41026,
+    "gn:longitude": 109.06843,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Dagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.04843,32.39026,109.08843,32.43026",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11332756
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11332756
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9d326a71086020bf7c6b98810fac0d4d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1260134663,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9d326a71086020bf7c6b98810fac0d4d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1260134663,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1260134663,
-    "wof:lastmodified":1566686420,
-    "wof:name":"Dagou",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260134663,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Dagou",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.06843,
     32.41026,
     109.06843,
     32.41026
-],
-  "geometry": {"coordinates":[109.06843000000001,32.41026],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.06843,
+      32.41026
+    ],
+    "type": "Point"
+  }
 }

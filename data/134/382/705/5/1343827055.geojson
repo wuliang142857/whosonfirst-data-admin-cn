@@ -2,81 +2,89 @@
   "id": 1343827055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.222,24.0966,111.222,24.0966",
-    "geom:latitude":24.0966,
-    "geom:longitude":111.222,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Gulian",
-    "gn:country_code":"CN",
-    "gn:dem":144,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9917909,
-    "gn:latitude":24.0966,
-    "gn:longitude":111.222,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Gulian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.202,24.0766,111.242,24.1166",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Gulian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.222,24.0966,111.222,24.0966",
+    "geom:latitude": 24.0966,
+    "geom:longitude": 111.222,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Gulian",
+    "gn:country_code": "CN",
+    "gn:dem": 144,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9917909,
+    "gn:latitude": 24.0966,
+    "gn:longitude": 111.222,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Gulian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.202,24.0766,111.242,24.1166",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Gulian"
     ],
-    "name:ron_x_preferred":[
-        "Gulian"
+    "name:ron_x_preferred": [
+      "Gulian"
     ],
-    "name:zho_x_preferred":[
-        "\u53e4\u83b2"
+    "name:zho_x_preferred": [
+      "古莲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515189
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515189,
+      1127451121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9917909
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9917909
     },
-    "wof:country":"CN",
-    "wof:geomhash":"edb474a356a33c77f8a72a652a40b168",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515189,
-            "empire_id":136253041,
-            "locality_id":1343827055,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "edb474a356a33c77f8a72a652a40b168",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515189,
+        "empire_id": 136253041,
+        "locality_id": 1343827055,
+        "region_id": 85669717,
+        "localadmin_id": 1127451121
+      }
     ],
-    "wof:id":1343827055,
-    "wof:lastmodified":1566660232,
-    "wof:name":"Gulian",
-    "wof:parent_id":890515189,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343827055,
+    "wof:lastmodified": 1768665752,
+    "wof:name": "Gulian",
+    "wof:parent_id": 1127451121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.222,
     24.0966,
     111.222,
     24.0966
-],
-  "geometry": {"coordinates":[111.22199999999999,24.0966],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.222,
+      24.0966
+    ],
+    "type": "Point"
+  }
 }

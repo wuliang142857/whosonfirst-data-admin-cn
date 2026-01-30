@@ -2,75 +2,83 @@
   "id": 1277142423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.70534,41.15732,121.70534,41.15732",
-    "geom:latitude":41.15732,
-    "geom:longitude":121.70534,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wangjiahuang Weitianguanqu",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7399858,
-    "gn:latitude":41.15732,
-    "gn:longitude":121.70534,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Wangjiahuang Weitianguanqu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.68534,41.13732,121.72534,41.17732",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u5bb6\u8352\u82c7\u7530\u7ba1\u533a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.70534,41.15732,121.70534,41.15732",
+    "geom:latitude": 41.15732,
+    "geom:longitude": 121.70534,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wangjiahuang Weitianguanqu",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7399858,
+    "gn:latitude": 41.15732,
+    "gn:longitude": 121.70534,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Wangjiahuang Weitianguanqu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.68534,41.13732,121.72534,41.17732",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王家荒苇田管区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890516569
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890516275,
+      890516569
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7399858
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7399858
     },
-    "wof:country":"CN",
-    "wof:geomhash":"52e923a1b398a345a4064c1fa86da9e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516569,
-            "empire_id":136253041,
-            "locality_id":1277142423,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "52e923a1b398a345a4064c1fa86da9e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516569,
+        "empire_id": 136253041,
+        "locality_id": 1277142423,
+        "region_id": 85669807,
+        "localadmin_id": 890516275
+      }
     ],
-    "wof:id":1277142423,
-    "wof:lastmodified":1566675334,
-    "wof:name":"Wangjiahuang Weitianguanqu",
-    "wof:parent_id":890516569,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277142423,
+    "wof:lastmodified": 1768666792,
+    "wof:name": "Wangjiahuang Weitianguanqu",
+    "wof:parent_id": 890516275,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.70534,
     41.15732,
     121.70534,
     41.15732
-],
-  "geometry": {"coordinates":[121.70534000000001,41.15732],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.70534,
+      41.15732
+    ],
+    "type": "Point"
+  }
 }

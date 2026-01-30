@@ -2,75 +2,83 @@
   "id": 1326820817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"127.16109,49.57299,127.16109,49.57299",
-    "geom:latitude":49.57299,
-    "geom:longitude":127.16109,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Guanshancun",
-    "gn:country_code":"CN",
-    "gn:dem":309,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11590820,
-    "gn:latitude":49.57299,
-    "gn:longitude":127.16109,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Guanshancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"127.14109,49.55299,127.18109,49.59299",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u89c2\u5c71\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "127.16109,49.57299,127.16109,49.57299",
+    "geom:latitude": 49.57299,
+    "geom:longitude": 127.16109,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Guanshancun",
+    "gn:country_code": "CN",
+    "gn:dem": 309,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11590820,
+    "gn:latitude": 49.57299,
+    "gn:longitude": 127.16109,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Guanshancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "127.14109,49.55299,127.18109,49.59299",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "观山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        1108732555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514215,
+      1108732555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11590820
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11590820
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c079efd97959df83c9825d80652a5dc9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732555,
-            "empire_id":136253041,
-            "locality_id":1326820817,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c079efd97959df83c9825d80652a5dc9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732555,
+        "empire_id": 136253041,
+        "locality_id": 1326820817,
+        "region_id": 85669849,
+        "localadmin_id": 890514215
+      }
     ],
-    "wof:id":1326820817,
-    "wof:lastmodified":1566651677,
-    "wof:name":"Guanshancun",
-    "wof:parent_id":1108732555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326820817,
+    "wof:lastmodified": 1768668887,
+    "wof:name": "Guanshancun",
+    "wof:parent_id": 890514215,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     127.16109,
     49.57299,
     127.16109,
     49.57299
-],
-  "geometry": {"coordinates":[127.16109,49.57299],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      127.16109,
+      49.57299
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1192987885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.918,21.9859,109.918,21.9859",
-    "geom:latitude":21.9859,
-    "geom:longitude":109.918,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Dalanshan",
-    "gn:country_code":"CN",
-    "gn:dem":125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9901526,
-    "gn:latitude":21.9859,
-    "gn:longitude":109.918,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Dalanshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.898,21.9659,109.938,22.0059",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5170\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.918,21.9859,109.918,21.9859",
+    "geom:latitude": 21.9859,
+    "geom:longitude": 109.918,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Dalanshan",
+    "gn:country_code": "CN",
+    "gn:dem": 125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9901526,
+    "gn:latitude": 21.9859,
+    "gn:longitude": 109.918,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Dalanshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.898,21.9659,109.938,22.0059",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大兰山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9901526
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9901526
     },
-    "wof:country":"CN",
-    "wof:geomhash":"14592baccb887a9de8941f130e385597",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1192987885,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "14592baccb887a9de8941f130e385597",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1192987885,
+        "region_id": 85669717,
+        "localadmin_id": 1127450923
+      }
     ],
-    "wof:id":1192987885,
-    "wof:lastmodified":1566685561,
-    "wof:name":"Dalanshan",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192987885,
+    "wof:lastmodified": 1768665518,
+    "wof:name": "Dalanshan",
+    "wof:parent_id": 1127450923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.918,
     21.9859,
     109.918,
     21.9859
-],
-  "geometry": {"coordinates":[109.91800000000001,21.9859],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.918,
+      21.9859
+    ],
+    "type": "Point"
+  }
 }

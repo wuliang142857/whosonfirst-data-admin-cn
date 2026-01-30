@@ -2,75 +2,83 @@
   "id": 1360147813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.866,25.9746,105.866,25.9746",
-    "geom:latitude":25.9746,
-    "geom:longitude":105.866,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Luojiawan",
-    "gn:country_code":"CN",
-    "gn:dem":1131,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10020710,
-    "gn:latitude":25.9746,
-    "gn:longitude":105.866,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Luojiawan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.846,25.9546,105.886,25.9946",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a86\u5bb6\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.866,25.9746,105.866,25.9746",
+    "geom:latitude": 25.9746,
+    "geom:longitude": 105.866,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Luojiawan",
+    "gn:country_code": "CN",
+    "gn:dem": 1131,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10020710,
+    "gn:latitude": 25.9746,
+    "gn:longitude": 105.866,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Luojiawan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.846,25.9546,105.886,25.9946",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "骆家湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516579
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890511689,
+      890516579
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10020710
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10020710
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bff9b32fb009dddb62a829682f39cd25",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516579,
-            "empire_id":136253041,
-            "locality_id":1360147813,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bff9b32fb009dddb62a829682f39cd25",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516579,
+        "empire_id": 136253041,
+        "locality_id": 1360147813,
+        "region_id": 85669721,
+        "localadmin_id": 890511689
+      }
     ],
-    "wof:id":1360147813,
-    "wof:lastmodified":1566691362,
-    "wof:name":"Luojiawan",
-    "wof:parent_id":890516579,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360147813,
+    "wof:lastmodified": 1768667094,
+    "wof:name": "Luojiawan",
+    "wof:parent_id": 890511689,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.866,
     25.9746,
     105.866,
     25.9746
-],
-  "geometry": {"coordinates":[105.866,25.9746],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.866,
+      25.9746
+    ],
+    "type": "Point"
+  }
 }

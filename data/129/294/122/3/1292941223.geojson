@@ -2,88 +2,96 @@
   "id": 1292941223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.06806,18.70778,110.06806,18.70778",
-    "geom:latitude":18.70778,
-    "geom:longitude":110.06806,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Xinfeng",
-    "gn:country_code":"CN",
-    "gn:dem":550,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1917580,
-    "gn:latitude":18.70778,
-    "gn:longitude":110.06806,
-    "gn:modification_date":"2001-04-04",
-    "gn:name":"Xinfeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.04806,18.68778,110.08806,18.72778",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Xinfeng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.06806,18.70778,110.06806,18.70778",
+    "geom:latitude": 18.70778,
+    "geom:longitude": 110.06806,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Xinfeng",
+    "gn:country_code": "CN",
+    "gn:dem": 550,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1917580,
+    "gn:latitude": 18.70778,
+    "gn:longitude": 110.06806,
+    "gn:modification_date": "2001-04-04",
+    "gn:name": "Xinfeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.04806,18.68778,110.08806,18.72778",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Xinfeng"
     ],
-    "name:deu_x_preferred":[
-        "Xinfeng"
+    "name:deu_x_preferred": [
+      "Xinfeng"
     ],
-    "name:fra_x_preferred":[
-        "Xinfeng"
+    "name:fra_x_preferred": [
+      "Xinfeng"
     ],
-    "name:kor_x_preferred":[
-        "\uc2e0\ud391\ud604"
+    "name:kor_x_preferred": [
+      "신펑현"
     ],
-    "name:nor_x_preferred":[
-        "Xinfeng"
+    "name:nor_x_preferred": [
+      "Xinfeng"
     ],
-    "name:swe_x_preferred":[
-        "Xinfeng"
+    "name:swe_x_preferred": [
+      "Xinfeng"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732331
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890513893,
+      1108732331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917580
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917580
     },
-    "wof:country":"CN",
-    "wof:geomhash":"346de4ee918fc9ba0e62a0500ff5727e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732331,
-            "locality_id":1292941223,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "346de4ee918fc9ba0e62a0500ff5727e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732331,
+        "locality_id": 1292941223,
+        "region_id": 85669759,
+        "localadmin_id": 890513893
+      }
     ],
-    "wof:id":1292941223,
-    "wof:lastmodified":1566667217,
-    "wof:name":"Xinfeng",
-    "wof:parent_id":1108732331,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292941223,
+    "wof:lastmodified": 1768671220,
+    "wof:name": "Xinfeng",
+    "wof:parent_id": 890513893,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.06806,
     18.70778,
     110.06806,
     18.70778
-],
-  "geometry": {"coordinates":[110.06806,18.70778],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.06806,
+      18.70778
+    ],
+    "type": "Point"
+  }
 }

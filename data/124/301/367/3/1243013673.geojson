@@ -2,75 +2,83 @@
   "id": 1243013673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.611,31.3268,104.611,31.3268",
-    "geom:latitude":31.3268,
-    "geom:longitude":104.611,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Hongtudi",
-    "gn:country_code":"CN",
-    "gn:dem":528,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161479,
-    "gn:latitude":31.3268,
-    "gn:longitude":104.611,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Hongtudi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.591,31.3068,104.631,31.3468",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7ea2\u571f\u5730"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.611,31.3268,104.611,31.3268",
+    "geom:latitude": 31.3268,
+    "geom:longitude": 104.611,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Hongtudi",
+    "gn:country_code": "CN",
+    "gn:dem": 528,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161479,
+    "gn:latitude": 31.3268,
+    "gn:longitude": 104.611,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Hongtudi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.591,31.3068,104.631,31.3468",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "红土地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890515169
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890515169,
+      1127510604
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161479
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161479
     },
-    "wof:country":"CN",
-    "wof:geomhash":"56df6bdf517b7abb6536b843f6085b50",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515169,
-            "empire_id":136253041,
-            "locality_id":1243013673,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "56df6bdf517b7abb6536b843f6085b50",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515169,
+        "empire_id": 136253041,
+        "locality_id": 1243013673,
+        "region_id": 85669787,
+        "localadmin_id": 1127510604
+      }
     ],
-    "wof:id":1243013673,
-    "wof:lastmodified":1566694171,
-    "wof:name":"Hongtudi",
-    "wof:parent_id":890515169,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243013673,
+    "wof:lastmodified": 1768668805,
+    "wof:name": "Hongtudi",
+    "wof:parent_id": 1127510604,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.611,
     31.3268,
     104.611,
     31.3268
-],
-  "geometry": {"coordinates":[104.611,31.3268],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.611,
+      31.3268
+    ],
+    "type": "Point"
+  }
 }

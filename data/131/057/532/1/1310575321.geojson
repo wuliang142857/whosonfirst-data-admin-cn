@@ -2,78 +2,86 @@
   "id": 1310575321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.51083,40.9025,108.51083,40.9025",
-    "geom:latitude":40.9025,
-    "geom:longitude":108.51083,
-    "gn:admin1_code":"20",
-    "gn:asciiname":"Beigedu",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1022,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2051330,
-    "gn:latitude":40.9025,
-    "gn:longitude":108.51083,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Beigedu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.49083,40.8825,108.53083,40.9225",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pei-ko-tu",
-        "Beigedu Xiang",
-        "Beigedu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.51083,40.9025,108.51083,40.9025",
+    "geom:latitude": 40.9025,
+    "geom:longitude": 108.51083,
+    "gn:admin1_code": "20",
+    "gn:asciiname": "Beigedu",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1022,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2051330,
+    "gn:latitude": 40.9025,
+    "gn:longitude": 108.51083,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Beigedu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.49083,40.8825,108.53083,40.9225",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pei-ko-tu",
+      "Beigedu Xiang",
+      "Beigedu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        1108732415
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890512201,
+      1108732415
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2051330
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2051330
     },
-    "wof:country":"CN",
-    "wof:geomhash":"24656c27f78aa89d3090a4108bafad3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732415,
-            "empire_id":136253041,
-            "locality_id":1310575321,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "24656c27f78aa89d3090a4108bafad3a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732415,
+        "empire_id": 136253041,
+        "locality_id": 1310575321,
+        "region_id": 85669847,
+        "localadmin_id": 890512201
+      }
     ],
-    "wof:id":1310575321,
-    "wof:lastmodified":1566690575,
-    "wof:name":"Beigedu",
-    "wof:parent_id":1108732415,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310575321,
+    "wof:lastmodified": 1768670747,
+    "wof:name": "Beigedu",
+    "wof:parent_id": 890512201,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.51083,
     40.9025,
     108.51083,
     40.9025
-],
-  "geometry": {"coordinates":[108.51083,40.9025],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.51083,
+      40.9025
+    ],
+    "type": "Point"
+  }
 }

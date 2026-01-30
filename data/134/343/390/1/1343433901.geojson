@@ -2,75 +2,83 @@
   "id": 1343433901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.26656,35.4262,105.26656,35.4262",
-    "geom:latitude":35.4262,
-    "geom:longitude":105.26656,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Dongnan",
-    "gn:country_code":"CN",
-    "gn:dem":1831,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7349092,
-    "gn:latitude":35.4262,
-    "gn:longitude":105.26656,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Dongnan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.24656,35.4062,105.28656,35.4462",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e1c\u5357"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.26656,35.4262,105.26656,35.4262",
+    "geom:latitude": 35.4262,
+    "geom:longitude": 105.26656,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Dongnan",
+    "gn:country_code": "CN",
+    "gn:dem": 1831,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7349092,
+    "gn:latitude": 35.4262,
+    "gn:longitude": 105.26656,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Dongnan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.24656,35.4062,105.28656,35.4462",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "东南"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7349092
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7349092
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8fc8ae0f54a25c11802f3e417730fc2d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1343433901,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8fc8ae0f54a25c11802f3e417730fc2d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1343433901,
+        "region_id": 85669711,
+        "localadmin_id": 1127621121
+      }
     ],
-    "wof:id":1343433901,
-    "wof:lastmodified":1566664871,
-    "wof:name":"Dongnan",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343433901,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Dongnan",
+    "wof:parent_id": 1127621121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.26656,
     35.4262,
     105.26656,
     35.4262
-],
-  "geometry": {"coordinates":[105.26656,35.4262],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.26656,
+      35.4262
+    ],
+    "type": "Point"
+  }
 }

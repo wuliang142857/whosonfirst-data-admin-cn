@@ -2,81 +2,89 @@
   "id": 1276464913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.53145,25.44159,119.53145,25.44159",
-    "geom:latitude":25.44159,
-    "geom:longitude":119.53145,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Guanting",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1907521,
-    "gn:latitude":25.44159,
-    "gn:longitude":119.53145,
-    "gn:modification_date":"2013-07-07",
-    "gn:name":"Guanting",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.51145,25.42159,119.55145,25.46159",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Guanting"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.53145,25.44159,119.53145,25.44159",
+    "geom:latitude": 25.44159,
+    "geom:longitude": 119.53145,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Guanting",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1907521,
+    "gn:latitude": 25.44159,
+    "gn:longitude": 119.53145,
+    "gn:modification_date": "2013-07-07",
+    "gn:name": "Guanting",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.51145,25.42159,119.55145,25.46159",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Guanting"
     ],
-    "name:und_x_variant":[
-        "Kuan-so"
+    "name:und_x_variant": [
+      "Kuan-so"
     ],
-    "name:zho_x_preferred":[
-        "\u5b98\u5385"
+    "name:zho_x_preferred": [
+      "官厅"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513967,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1907521
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1907521
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0174e206a957559a6575b19067562598",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1276464913,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0174e206a957559a6575b19067562598",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1276464913,
+        "region_id": 85669735,
+        "localadmin_id": 890513967
+      }
     ],
-    "wof:id":1276464913,
-    "wof:lastmodified":1566676870,
-    "wof:name":"Guanting",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276464913,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Guanting",
+    "wof:parent_id": 890513967,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.53145,
     25.44159,
     119.53145,
     25.44159
-],
-  "geometry": {"coordinates":[119.53145000000001,25.44159],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.53145,
+      25.44159
+    ],
+    "type": "Point"
+  }
 }

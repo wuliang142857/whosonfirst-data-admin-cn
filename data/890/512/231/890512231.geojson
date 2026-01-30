@@ -2,74 +2,82 @@
   "id": 890512231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.46088,30.41587,103.46088,30.41587",
-    "geom:latitude":30.41587,
-    "geom:longitude":103.46088,
-    "gn:country":"CN",
-    "gn:fcode":"PPLS",
-    "gn:population":55587,
-    "iso:country":"CN",
-    "lbl:bbox":"103.44088,30.39587,103.48088,30.43587",
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":8.0,
-    "name:und_x_variant":[
-        "Chiung-lai-hsien"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.46088,30.41587,103.46088,30.41587",
+    "geom:latitude": 30.41587,
+    "geom:longitude": 103.46088,
+    "gn:country": "CN",
+    "gn:fcode": "PPLS",
+    "gn:population": 55587,
+    "iso:country": "CN",
+    "lbl:bbox": "103.44088,30.39587,103.48088,30.43587",
+    "lbl:max_zoom": 14.0,
+    "lbl:min_zoom": 9.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 8.0,
+    "name:und_x_variant": [
+      "Chiung-lai-hsien"
     ],
-    "qs:name":"Linqiong",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"8",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516567
+    "qs:name": "Linqiong",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "8",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511949,
+      890516567
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1803365,
-        "gp:id":2158482,
-        "qs_pg:id":136601
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1803365,
+      "gp:id": 2158482,
+      "qs_pg:id": 136601
     },
-    "wof:country":"CN",
-    "wof:created":1469055763,
-    "wof:geomhash":"2bd458163103fc16ed47f3d6d372c7de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516567,
-            "empire_id":136253041,
-            "locality_id":890512231,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055763,
+    "wof:geomhash": "2bd458163103fc16ed47f3d6d372c7de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516567,
+        "empire_id": 136253041,
+        "locality_id": 890512231,
+        "region_id": 85669787,
+        "localadmin_id": 890511949
+      }
     ],
-    "wof:id":890512231,
-    "wof:lastmodified":1566693754,
-    "wof:name":"Linqiong",
-    "wof:parent_id":890516567,
-    "wof:placetype":"locality",
-    "wof:population":55587,
-    "wof:population_rank":8,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890512231,
+    "wof:lastmodified": 1768668425,
+    "wof:name": "Linqiong",
+    "wof:parent_id": 890511949,
+    "wof:placetype": "locality",
+    "wof:population": 55587,
+    "wof:population_rank": 8,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.46088,
     30.41587,
     103.46088,
     30.41587
-],
-  "geometry": {"coordinates":[103.46088,30.41587],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.46088,
+      30.41587
+    ],
+    "type": "Point"
+  }
 }

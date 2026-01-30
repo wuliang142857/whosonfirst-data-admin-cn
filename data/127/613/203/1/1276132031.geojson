@@ -2,80 +2,88 @@
   "id": 1276132031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.48441,29.9579,118.48441,29.9579",
-    "geom:latitude":29.9579,
-    "geom:longitude":118.48441,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Songkou",
-    "gn:country_code":"CN",
-    "gn:dem":134,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1794015,
-    "gn:latitude":29.9579,
-    "gn:longitude":118.48441,
-    "gn:modification_date":"2015-10-04",
-    "gn:name":"Songkou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.46441,29.9379,118.50441,29.9779",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sung-k\u2019ou",
-        "Sung-k\u2019ou-chen",
-        "Songkou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.48441,29.9579,118.48441,29.9579",
+    "geom:latitude": 29.9579,
+    "geom:longitude": 118.48441,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Songkou",
+    "gn:country_code": "CN",
+    "gn:dem": 134,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1794015,
+    "gn:latitude": 29.9579,
+    "gn:longitude": 118.48441,
+    "gn:modification_date": "2015-10-04",
+    "gn:name": "Songkou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.46441,29.9379,118.50441,29.9779",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sung-k’ou",
+      "Sung-k’ou-chen",
+      "Songkou"
     ],
-    "name:zho_x_preferred":[
-        "\u7ae6\u53e3"
+    "name:zho_x_preferred": [
+      "竦口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515709,
+      1108732553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1794015
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1794015
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9f491bf4409453d821f105c0040cb2a8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732553,
-            "empire_id":136253041,
-            "locality_id":1276132031,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9f491bf4409453d821f105c0040cb2a8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732553,
+        "empire_id": 136253041,
+        "locality_id": 1276132031,
+        "region_id": 85669739,
+        "localadmin_id": 890515709
+      }
     ],
-    "wof:id":1276132031,
-    "wof:lastmodified":1566675976,
-    "wof:name":"Songkou",
-    "wof:parent_id":1108732553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276132031,
+    "wof:lastmodified": 1768670021,
+    "wof:name": "Songkou",
+    "wof:parent_id": 890515709,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.48441,
     29.9579,
     118.48441,
     29.9579
-],
-  "geometry": {"coordinates":[118.48441,29.9579],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.48441,
+      29.9579
+    ],
+    "type": "Point"
+  }
 }

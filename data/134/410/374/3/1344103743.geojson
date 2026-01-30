@@ -2,75 +2,83 @@
   "id": 1344103743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.364,25.5664,103.364,25.5664",
-    "geom:latitude":25.5664,
-    "geom:longitude":103.364,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Fada Dacun",
-    "gn:country_code":"CN",
-    "gn:dem":1974,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10157944,
-    "gn:latitude":25.5664,
-    "gn:longitude":103.364,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Fada Dacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.344,25.5464,103.384,25.5864",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53d1\u8fbe\u5927\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.364,25.5664,103.364,25.5664",
+    "geom:latitude": 25.5664,
+    "geom:longitude": 103.364,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Fada Dacun",
+    "gn:country_code": "CN",
+    "gn:dem": 1974,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10157944,
+    "gn:latitude": 25.5664,
+    "gn:longitude": 103.364,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Fada Dacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.344,25.5464,103.384,25.5864",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "发达大村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513129,
+      890513777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10157944
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10157944
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4d4ab27038bc3354179e31239d93457d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1344103743,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4d4ab27038bc3354179e31239d93457d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1344103743,
+        "region_id": 85669791,
+        "localadmin_id": 890513129
+      }
     ],
-    "wof:id":1344103743,
-    "wof:lastmodified":1566662681,
-    "wof:name":"Fada Dacun",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344103743,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Fada Dacun",
+    "wof:parent_id": 890513129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.364,
     25.5664,
     103.364,
     25.5664
-],
-  "geometry": {"coordinates":[103.364,25.5664],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.364,
+      25.5664
+    ],
+    "type": "Point"
+  }
 }

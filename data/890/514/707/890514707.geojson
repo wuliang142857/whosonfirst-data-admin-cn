@@ -2,82 +2,213 @@
   "id": 890514707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.74754,40.85158,122.74754,40.85158",
-    "geom:latitude":40.85158,
-    "geom:longitude":122.74754,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":191651,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"122.64754,40.75158,122.84754,40.95158",
-    "lbl:max_zoom":14.0,
-    "lbl:min_zoom":9.0,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":7.0,
-    "name:und_x_variant":[
-        "Haitsch\u00f6ng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000740969386,
+    "geom:area_square_m": 740969386.46,
+    "geom:bbox": "109.048828,21.018748,109.208034,21.597976",
+    "geom:latitude": 21.308362,
+    "geom:longitude": 109.128431,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 191651,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "109.02843,21.20836,109.22843,21.40836",
+    "lbl:max_zoom": 14.0,
+    "lbl:min_zoom": 9.0,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 7.0,
+    "name:und_x_variant": [
+      "Haitschöng"
     ],
-    "qs:name":"\u6d77\u57ce\u5e02",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u8fbd\u5b81\u7701",
-    "qs:photos":1,
-    "qs:photos_1k":1,
-    "qs:photos_9k":1,
-    "qs:photos_9r":1,
-    "qs:photos_all":1,
-    "qs:photos_sr":1,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"9",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514231
+    "qs:name": "海城市",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "辽宁省",
+    "qs:photos": 1,
+    "qs:photos_1k": 1,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 1,
+    "qs:photos_all": 1,
+    "qs:photos_sr": 1,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "9",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85669807,
+      102191569,
+      85632695,
+      136253041,
+      890514231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2037086,
-        "gp:id":12686772,
-        "qs_pg:id":498973
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2037086,
+      "gp:id": 12686772,
+      "qs_pg:id": 498973,
+      "gb:id": "156450502"
     },
-    "wof:country":"CN",
-    "wof:created":1469055873,
-    "wof:geomhash":"c06ea6fb39a7f17b545bf77ad2e0079c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514231,
-            "empire_id":136253041,
-            "localadmin_id":890514707,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055873,
+    "wof:geomhash": "c06ea6fb39a7f17b545bf77ad2e0079c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514231,
+        "empire_id": 136253041,
+        "localadmin_id": 890514707,
+        "region_id": 85669807
+      }
     ],
-    "wof:id":890514707,
-    "wof:lastmodified":1566693660,
-    "wof:name":"\u6d77\u57ce\u5e02",
-    "wof:parent_id":890514231,
-    "wof:placetype":"localadmin",
-    "wof:population":191651,
-    "wof:population_rank":9,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890514707,
+    "wof:lastmodified": 1768664150,
+    "wof:name": "海城区",
+    "wof:parent_id": 890514231,
+    "wof:placetype": "localadmin",
+    "wof:population": 191651,
+    "wof:population_rank": 9,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    122.74754,
-    40.85158,
-    122.74754,
-    40.85158
-],
-  "geometry": {"coordinates":[122.74754,40.85158],"type":"Point"}
+    109.048828,
+    21.018748,
+    109.208034,
+    21.597976
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            109.138925,
+            21.047827
+          ],
+          [
+            109.12366,
+            21.018748
+          ],
+          [
+            109.087748,
+            21.033417
+          ],
+          [
+            109.083064,
+            21.049064
+          ],
+          [
+            109.122017,
+            21.070775
+          ],
+          [
+            109.138925,
+            21.047827
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            109.195702,
+            21.597976
+          ],
+          [
+            109.208034,
+            21.540796
+          ],
+          [
+            109.20588,
+            21.518206
+          ],
+          [
+            109.181448,
+            21.480192
+          ],
+          [
+            109.16436,
+            21.470754
+          ],
+          [
+            109.167277,
+            21.456872
+          ],
+          [
+            109.162567,
+            21.450035
+          ],
+          [
+            109.156191,
+            21.446039
+          ],
+          [
+            109.150473,
+            21.462134
+          ],
+          [
+            109.094474,
+            21.44663
+          ],
+          [
+            109.083223,
+            21.449996
+          ],
+          [
+            109.074385,
+            21.447528
+          ],
+          [
+            109.048828,
+            21.457822
+          ],
+          [
+            109.071621,
+            21.478925
+          ],
+          [
+            109.100935,
+            21.483289
+          ],
+          [
+            109.142288,
+            21.50012
+          ],
+          [
+            109.161217,
+            21.517449
+          ],
+          [
+            109.167736,
+            21.540229
+          ],
+          [
+            109.158336,
+            21.557127
+          ],
+          [
+            109.162106,
+            21.56726
+          ],
+          [
+            109.173825,
+            21.563041
+          ],
+          [
+            109.188724,
+            21.581736
+          ],
+          [
+            109.195702,
+            21.597976
+          ]
+        ]
+      ]
+    ]
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1344138505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.655,24.7747,107.655,24.7747",
-    "geom:latitude":24.7747,
-    "geom:longitude":107.655,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Kendan",
-    "gn:country_code":"CN",
-    "gn:dem":608,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9924858,
-    "gn:latitude":24.7747,
-    "gn:longitude":107.655,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Kendan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.635,24.7547,107.675,24.7947",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u80af\u65e6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.655,24.7747,107.655,24.7747",
+    "geom:latitude": 24.7747,
+    "geom:longitude": 107.655,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Kendan",
+    "gn:country_code": "CN",
+    "gn:dem": 608,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9924858,
+    "gn:latitude": 24.7747,
+    "gn:longitude": 107.655,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Kendan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.635,24.7547,107.675,24.7947",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "肯旦"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9924858
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9924858
     },
-    "wof:country":"CN",
-    "wof:geomhash":"becf320905c0c04df8ad513063891056",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1344138505,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "becf320905c0c04df8ad513063891056",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1344138505,
+        "region_id": 85669717,
+        "localadmin_id": 1127451221
+      }
     ],
-    "wof:id":1344138505,
-    "wof:lastmodified":1566657980,
-    "wof:name":"Kendan",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344138505,
+    "wof:lastmodified": 1768665535,
+    "wof:name": "Kendan",
+    "wof:parent_id": 1127451221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.655,
     24.7747,
     107.655,
     24.7747
-],
-  "geometry": {"coordinates":[107.655,24.7747],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.655,
+      24.7747
+    ],
+    "type": "Point"
+  }
 }

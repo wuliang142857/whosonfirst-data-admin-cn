@@ -2,75 +2,83 @@
   "id": 1344138493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.193,24.7411,109.193,24.7411",
-    "geom:latitude":24.7411,
-    "geom:longitude":109.193,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Wayao",
-    "gn:country_code":"CN",
-    "gn:dem":104,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1909562,
-    "gn:latitude":24.7411,
-    "gn:longitude":109.193,
-    "gn:modification_date":"2015-01-07",
-    "gn:name":"Wayao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.173,24.7211,109.213,24.7611",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u74e6\u7a91"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.193,24.7411,109.193,24.7411",
+    "geom:latitude": 24.7411,
+    "geom:longitude": 109.193,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Wayao",
+    "gn:country_code": "CN",
+    "gn:dem": 104,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1909562,
+    "gn:latitude": 24.7411,
+    "gn:longitude": 109.193,
+    "gn:modification_date": "2015-01-07",
+    "gn:name": "Wayao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.173,24.7211,109.213,24.7611",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "瓦窑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1909562
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1909562
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1bca8afa19b8374a90ee6823aa236880",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1344138493,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1bca8afa19b8374a90ee6823aa236880",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1344138493,
+        "region_id": 85669717,
+        "localadmin_id": 1127450222
+      }
     ],
-    "wof:id":1344138493,
-    "wof:lastmodified":1566658031,
-    "wof:name":"Wayao",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344138493,
+    "wof:lastmodified": 1768665481,
+    "wof:name": "Wayao",
+    "wof:parent_id": 1127450222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.193,
     24.7411,
     109.193,
     24.7411
-],
-  "geometry": {"coordinates":[109.193,24.7411],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.193,
+      24.7411
+    ],
+    "type": "Point"
+  }
 }

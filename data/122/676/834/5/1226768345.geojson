@@ -2,75 +2,83 @@
   "id": 1226768345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.86192,32.5832,111.86192,32.5832",
-    "geom:latitude":32.5832,
-    "geom:longitude":111.86192,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Houzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":137,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10403024,
-    "gn:latitude":32.5832,
-    "gn:longitude":111.86192,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Houzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.84192,32.5632,111.88192,32.6032",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.86192,32.5832,111.86192,32.5832",
+    "geom:latitude": 32.5832,
+    "geom:longitude": 111.86192,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Houzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 137,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10403024,
+    "gn:latitude": 32.5832,
+    "gn:longitude": 111.86192,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Houzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.84192,32.5632,111.88192,32.6032",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890516339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890516339,
+      1127411381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10403024
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10403024
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3de985ab79adb97f2753dd6dc0a6705a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516339,
-            "empire_id":136253041,
-            "locality_id":1226768345,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3de985ab79adb97f2753dd6dc0a6705a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516339,
+        "empire_id": 136253041,
+        "locality_id": 1226768345,
+        "region_id": 85669801,
+        "localadmin_id": 1127411381
+      }
     ],
-    "wof:id":1226768345,
-    "wof:lastmodified":1566703933,
-    "wof:name":"Houzhuang",
-    "wof:parent_id":890516339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226768345,
+    "wof:lastmodified": 1768669372,
+    "wof:name": "Houzhuang",
+    "wof:parent_id": 1127411381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.86192,
     32.5832,
     111.86192,
     32.5832
-],
-  "geometry": {"coordinates":[111.86192,32.5832],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.86192,
+      32.5832
+    ],
+    "type": "Point"
+  }
 }

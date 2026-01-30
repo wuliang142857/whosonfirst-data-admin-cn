@@ -2,75 +2,83 @@
   "id": 1309775063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.495,37.4458,105.495,37.4458",
-    "geom:latitude":37.4458,
-    "geom:longitude":105.495,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Wangyuan",
-    "gn:country_code":"CN",
-    "gn:dem":1241,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10188982,
-    "gn:latitude":37.4458,
-    "gn:longitude":105.495,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Wangyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.475,37.4258,105.515,37.4658",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c6a\u56ed"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.495,37.4458,105.495,37.4458",
+    "geom:latitude": 37.4458,
+    "geom:longitude": 105.495,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Wangyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 1241,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10188982,
+    "gn:latitude": 37.4458,
+    "gn:longitude": 105.495,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Wangyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.475,37.4258,105.515,37.4658",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "汪园"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890512733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890512733,
+      1127640502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10188982
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10188982
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e937b9175580ecb86ad0b6894dc32136",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512733,
-            "empire_id":136253041,
-            "locality_id":1309775063,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e937b9175580ecb86ad0b6894dc32136",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512733,
+        "empire_id": 136253041,
+        "locality_id": 1309775063,
+        "region_id": 85669763,
+        "localadmin_id": 1127640502
+      }
     ],
-    "wof:id":1309775063,
-    "wof:lastmodified":1566692597,
-    "wof:name":"Wangyuan",
-    "wof:parent_id":890512733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309775063,
+    "wof:lastmodified": 1768667214,
+    "wof:name": "Wangyuan",
+    "wof:parent_id": 1127640502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.495,
     37.4458,
     105.495,
     37.4458
-],
-  "geometry": {"coordinates":[105.495,37.4458],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.495,
+      37.4458
+    ],
+    "type": "Point"
+  }
 }

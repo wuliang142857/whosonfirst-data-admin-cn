@@ -2,75 +2,83 @@
   "id": 1344113617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.7421,33.8005,107.7421,33.8005",
-    "geom:latitude":33.8005,
-    "geom:longitude":107.7421,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Songshuping",
-    "gn:country_code":"CN",
-    "gn:dem":1742,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7445952,
-    "gn:latitude":33.8005,
-    "gn:longitude":107.7421,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Songshuping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.7221,33.7805,107.7621,33.8205",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u677e\u6811\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.7421,33.8005,107.7421,33.8005",
+    "geom:latitude": 33.8005,
+    "geom:longitude": 107.7421,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Songshuping",
+    "gn:country_code": "CN",
+    "gn:dem": 1742,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7445952,
+    "gn:latitude": 33.8005,
+    "gn:longitude": 107.7421,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Songshuping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.7221,33.7805,107.7621,33.8205",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "松树坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7445952
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7445952
     },
-    "wof:country":"CN",
-    "wof:geomhash":"624e185ddc98e0c4deb4fd72219c6b76",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1344113617,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "624e185ddc98e0c4deb4fd72219c6b76",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1344113617,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1344113617,
-    "wof:lastmodified":1566662762,
-    "wof:name":"Songshuping",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344113617,
+    "wof:lastmodified": 1768668691,
+    "wof:name": "Songshuping",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.7421,
     33.8005,
     107.7421,
     33.8005
-],
-  "geometry": {"coordinates":[107.74209999999999,33.8005],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.7421,
+      33.8005
+    ],
+    "type": "Point"
+  }
 }

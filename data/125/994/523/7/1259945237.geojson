@@ -2,75 +2,83 @@
   "id": 1259945237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.64741,40.64164,120.64741,40.64164",
-    "geom:latitude":40.64164,
-    "geom:longitude":120.64741,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wangbaoshanzi",
-    "gn:country_code":"CN",
-    "gn:dem":23,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7401317,
-    "gn:latitude":40.64164,
-    "gn:longitude":120.64741,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Wangbaoshanzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.62741,40.62164,120.66741,40.66164",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u671b\u5b9d\u5c71\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.64741,40.64164,120.64741,40.64164",
+    "geom:latitude": 40.64164,
+    "geom:longitude": 120.64741,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wangbaoshanzi",
+    "gn:country_code": "CN",
+    "gn:dem": 23,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7401317,
+    "gn:latitude": 40.64164,
+    "gn:longitude": 120.64741,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Wangbaoshanzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.62741,40.62164,120.66741,40.66164",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "望宝山子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514399,
+      890515659
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7401317
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7401317
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7a9f775ed0647096a7b51a5fa13b09d7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514399,
-            "empire_id":136253041,
-            "locality_id":1259945237,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7a9f775ed0647096a7b51a5fa13b09d7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514399,
+        "empire_id": 136253041,
+        "locality_id": 1259945237,
+        "region_id": 85669807,
+        "localadmin_id": 890515659
+      }
     ],
-    "wof:id":1259945237,
-    "wof:lastmodified":1566699938,
-    "wof:name":"Wangbaoshanzi",
-    "wof:parent_id":890514399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259945237,
+    "wof:lastmodified": 1768666814,
+    "wof:name": "Wangbaoshanzi",
+    "wof:parent_id": 890515659,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.64741,
     40.64164,
     120.64741,
     40.64164
-],
-  "geometry": {"coordinates":[120.64740999999999,40.64164],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.64741,
+      40.64164
+    ],
+    "type": "Point"
+  }
 }

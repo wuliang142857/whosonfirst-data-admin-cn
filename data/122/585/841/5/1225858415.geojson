@@ -2,78 +2,86 @@
   "id": 1225858415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.94066,30.11747,116.94066,30.11747",
-    "geom:latitude":30.11747,
-    "geom:longitude":116.94066,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Wangcun",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10811060,
-    "gn:latitude":30.11747,
-    "gn:longitude":116.94066,
-    "gn:modification_date":"2015-10-07",
-    "gn:name":"Wangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.92066,30.09747,116.96066,30.13747",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Wangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.94066,30.11747,116.94066,30.11747",
+    "geom:latitude": 30.11747,
+    "geom:longitude": 116.94066,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Wangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10811060,
+    "gn:latitude": 30.11747,
+    "gn:longitude": 116.94066,
+    "gn:modification_date": "2015-10-07",
+    "gn:name": "Wangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.92066,30.09747,116.96066,30.13747",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Wangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u6c6a\u6751"
+    "name:zho_x_preferred": [
+      "汪村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513323
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513323,
+      1127341721
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10811060
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10811060
     },
-    "wof:country":"CN",
-    "wof:geomhash":"03881cace13996b9867e79e7c5153b97",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513323,
-            "empire_id":136253041,
-            "locality_id":1225858415,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "03881cace13996b9867e79e7c5153b97",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513323,
+        "empire_id": 136253041,
+        "locality_id": 1225858415,
+        "region_id": 85669739,
+        "localadmin_id": 1127341721
+      }
     ],
-    "wof:id":1225858415,
-    "wof:lastmodified":1566705840,
-    "wof:name":"Wangcun",
-    "wof:parent_id":890513323,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225858415,
+    "wof:lastmodified": 1768669912,
+    "wof:name": "Wangcun",
+    "wof:parent_id": 1127341721,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.94066,
     30.11747,
     116.94066,
     30.11747
-],
-  "geometry": {"coordinates":[116.94065999999999,30.11747],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.94066,
+      30.11747
+    ],
+    "type": "Point"
+  }
 }

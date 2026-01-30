@@ -2,75 +2,83 @@
   "id": 1192968863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.386,24.7255,103.386,24.7255",
-    "geom:latitude":24.7255,
-    "geom:longitude":103.386,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Dapingdi",
-    "gn:country_code":"CN",
-    "gn:dem":1896,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10015903,
-    "gn:latitude":24.7255,
-    "gn:longitude":103.386,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Dapingdi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.366,24.7055,103.406,24.7455",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5e73\u5730"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.386,24.7255,103.386,24.7255",
+    "geom:latitude": 24.7255,
+    "geom:longitude": 103.386,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Dapingdi",
+    "gn:country_code": "CN",
+    "gn:dem": 1896,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10015903,
+    "gn:latitude": 24.7255,
+    "gn:longitude": 103.386,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Dapingdi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.366,24.7055,103.406,24.7455",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大平地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530126
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10015903
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10015903
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5fe4f1a6382e73561f3f9d0439008701",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1192968863,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5fe4f1a6382e73561f3f9d0439008701",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1192968863,
+        "region_id": 85669791,
+        "localadmin_id": 1127530126
+      }
     ],
-    "wof:id":1192968863,
-    "wof:lastmodified":1566685583,
-    "wof:name":"Dapingdi",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192968863,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Dapingdi",
+    "wof:parent_id": 1127530126,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.386,
     24.7255,
     103.386,
     24.7255
-],
-  "geometry": {"coordinates":[103.386,24.7255],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.386,
+      24.7255
+    ],
+    "type": "Point"
+  }
 }

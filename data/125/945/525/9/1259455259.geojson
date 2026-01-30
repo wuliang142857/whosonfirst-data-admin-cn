@@ -2,75 +2,83 @@
   "id": 1259455259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.28,23.4005,109.28,23.4005",
-    "geom:latitude":23.4005,
-    "geom:longitude":109.28,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Zhouluo",
-    "gn:country_code":"CN",
-    "gn:dem":128,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9935751,
-    "gn:latitude":23.4005,
-    "gn:longitude":109.28,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Zhouluo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.26,23.3805,109.3,23.4205",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5468\u7f57"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.28,23.4005,109.28,23.4005",
+    "geom:latitude": 23.4005,
+    "geom:longitude": 109.28,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Zhouluo",
+    "gn:country_code": "CN",
+    "gn:dem": 128,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9935751,
+    "gn:latitude": 23.4005,
+    "gn:longitude": 109.28,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Zhouluo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.26,23.3805,109.3,23.4205",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "周罗"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732439
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732439,
+      1127451302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9935751
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9935751
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6e923c14618b04d84da057c848c1d37a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732439,
-            "empire_id":136253041,
-            "locality_id":1259455259,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6e923c14618b04d84da057c848c1d37a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732439,
+        "empire_id": 136253041,
+        "locality_id": 1259455259,
+        "region_id": 85669717,
+        "localadmin_id": 1127451302
+      }
     ],
-    "wof:id":1259455259,
-    "wof:lastmodified":1566700373,
-    "wof:name":"Zhouluo",
-    "wof:parent_id":1108732439,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259455259,
+    "wof:lastmodified": 1768665493,
+    "wof:name": "Zhouluo",
+    "wof:parent_id": 1127451302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.28,
     23.4005,
     109.28,
     23.4005
-],
-  "geometry": {"coordinates":[109.28,23.4005],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.28,
+      23.4005
+    ],
+    "type": "Point"
+  }
 }

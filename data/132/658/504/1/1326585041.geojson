@@ -2,75 +2,83 @@
   "id": 1326585041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.805,37.0336,118.805,37.0336",
-    "geom:latitude":37.0336,
-    "geom:longitude":118.805,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Lijia Zhuangzi",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9124374,
-    "gn:latitude":37.0336,
-    "gn:longitude":118.805,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Lijia Zhuangzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.785,37.0136,118.825,37.0536",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u5bb6\u5e84\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.805,37.0336,118.805,37.0336",
+    "geom:latitude": 37.0336,
+    "geom:longitude": 118.805,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Lijia Zhuangzi",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9124374,
+    "gn:latitude": 37.0336,
+    "gn:longitude": 118.805,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Lijia Zhuangzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.785,37.0136,118.825,37.0536",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李家庄子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514755
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514109,
+      890514755
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9124374
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9124374
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f7aeb519e637410fe53aceb9487fbce9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514755,
-            "empire_id":136253041,
-            "locality_id":1326585041,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f7aeb519e637410fe53aceb9487fbce9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514755,
+        "empire_id": 136253041,
+        "locality_id": 1326585041,
+        "region_id": 85669813,
+        "localadmin_id": 890514109
+      }
     ],
-    "wof:id":1326585041,
-    "wof:lastmodified":1566648906,
-    "wof:name":"Lijia Zhuangzi",
-    "wof:parent_id":890514755,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326585041,
+    "wof:lastmodified": 1768667968,
+    "wof:name": "Lijia Zhuangzi",
+    "wof:parent_id": 890514109,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.805,
     37.0336,
     118.805,
     37.0336
-],
-  "geometry": {"coordinates":[118.80500000000001,37.0336],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.805,
+      37.0336
+    ],
+    "type": "Point"
+  }
 }

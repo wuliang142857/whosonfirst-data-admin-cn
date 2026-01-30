@@ -2,82 +2,90 @@
   "id": 1309908767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.98125,28.47983,120.98125,28.47983",
-    "geom:latitude":28.47983,
-    "geom:longitude":120.98125,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Linglicun",
-    "gn:country_code":"CN",
-    "gn:dem":405,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1883264,
-    "gn:latitude":28.47983,
-    "gn:longitude":120.98125,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Linglicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.96125,28.45983,121.00125,28.49983",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lingli",
-        "Linglicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.98125,28.47983,120.98125,28.47983",
+    "geom:latitude": 28.47983,
+    "geom:longitude": 120.98125,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Linglicun",
+    "gn:country_code": "CN",
+    "gn:dem": 405,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1883264,
+    "gn:latitude": 28.47983,
+    "gn:longitude": 120.98125,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Linglicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.96125,28.45983,121.00125,28.49983",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lingli",
+      "Linglicun"
     ],
-    "name:zho_x_preferred":[
-        "\u5cad\u91cc"
+    "name:zho_x_preferred": [
+      "岭里"
     ],
-    "name:zho_x_variant":[
-        "\u5cad\u91cc\u6751"
+    "name:zho_x_variant": [
+      "岭里村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890511847,
+      890514289
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1883264
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1883264
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a01773443a1483f0cee663270956005d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1309908767,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a01773443a1483f0cee663270956005d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1309908767,
+        "region_id": 85669835,
+        "localadmin_id": 890511847
+      }
     ],
-    "wof:id":1309908767,
-    "wof:lastmodified":1566692505,
-    "wof:name":"Linglicun",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309908767,
+    "wof:lastmodified": 1768669612,
+    "wof:name": "Linglicun",
+    "wof:parent_id": 890511847,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.98125,
     28.47983,
     120.98125,
     28.47983
-],
-  "geometry": {"coordinates":[120.98125,28.47983],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.98125,
+      28.47983
+    ],
+    "type": "Point"
+  }
 }

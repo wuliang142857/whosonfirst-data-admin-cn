@@ -2,75 +2,83 @@
   "id": 1243542011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.23529,27.42678,112.23529,27.42678",
-    "geom:latitude":27.42678,
-    "geom:longitude":112.23529,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Shibanchong",
-    "gn:country_code":"CN",
-    "gn:dem":144,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1989443,
-    "gn:latitude":27.42678,
-    "gn:longitude":112.23529,
-    "gn:modification_date":"2015-06-08",
-    "gn:name":"Shibanchong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.21529,27.40678,112.25529,27.44678",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u677f\u51b2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.23529,27.42678,112.23529,27.42678",
+    "geom:latitude": 27.42678,
+    "geom:longitude": 112.23529,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Shibanchong",
+    "gn:country_code": "CN",
+    "gn:dem": 144,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1989443,
+    "gn:latitude": 27.42678,
+    "gn:longitude": 112.23529,
+    "gn:modification_date": "2015-06-08",
+    "gn:name": "Shibanchong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.21529,27.40678,112.25529,27.44678",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石板冲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516409
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514107,
+      890516409
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1989443
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1989443
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8662051b7fab480cc9d788689452caae",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516409,
-            "empire_id":136253041,
-            "locality_id":1243542011,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8662051b7fab480cc9d788689452caae",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516409,
+        "empire_id": 136253041,
+        "locality_id": 1243542011,
+        "region_id": 85669781,
+        "localadmin_id": 890514107
+      }
     ],
-    "wof:id":1243542011,
-    "wof:lastmodified":1566694013,
-    "wof:name":"Shibanchong",
-    "wof:parent_id":890516409,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243542011,
+    "wof:lastmodified": 1768670307,
+    "wof:name": "Shibanchong",
+    "wof:parent_id": 890514107,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.23529,
     27.42678,
     112.23529,
     27.42678
-],
-  "geometry": {"coordinates":[112.23529000000001,27.42678],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.23529,
+      27.42678
+    ],
+    "type": "Point"
+  }
 }

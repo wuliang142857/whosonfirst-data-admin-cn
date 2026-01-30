@@ -2,75 +2,83 @@
   "id": 1243335641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.791,22.6644,109.791,22.6644",
-    "geom:latitude":22.6644,
-    "geom:longitude":109.791,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Lishi",
-    "gn:country_code":"CN",
-    "gn:dem":173,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9897353,
-    "gn:latitude":22.6644,
-    "gn:longitude":109.791,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Lishi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.771,22.6444,109.811,22.6844",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7acb\u77f3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.791,22.6644,109.791,22.6644",
+    "geom:latitude": 22.6644,
+    "geom:longitude": 109.791,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Lishi",
+    "gn:country_code": "CN",
+    "gn:dem": 173,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9897353,
+    "gn:latitude": 22.6644,
+    "gn:longitude": 109.791,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Lishi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.771,22.6444,109.811,22.6844",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "立石"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9897353
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9897353
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e8c1bf929e1ae75daa41a6206787dc2c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1243335641,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e8c1bf929e1ae75daa41a6206787dc2c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1243335641,
+        "region_id": 85669717,
+        "localadmin_id": 1127450924
+      }
     ],
-    "wof:id":1243335641,
-    "wof:lastmodified":1566696393,
-    "wof:name":"Lishi",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243335641,
+    "wof:lastmodified": 1768665518,
+    "wof:name": "Lishi",
+    "wof:parent_id": 1127450924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.791,
     22.6644,
     109.791,
     22.6644
-],
-  "geometry": {"coordinates":[109.791,22.6644],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.791,
+      22.6644
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1193260827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.27012,35.21725,105.27012,35.21725",
-    "geom:latitude":35.21725,
-    "geom:longitude":105.27012,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Caopo",
-    "gn:country_code":"CN",
-    "gn:dem":1780,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7348735,
-    "gn:latitude":35.21725,
-    "gn:longitude":105.27012,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Caopo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.25012,35.19725,105.29012,35.23725",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u66f9\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.27012,35.21725,105.27012,35.21725",
+    "geom:latitude": 35.21725,
+    "geom:longitude": 105.27012,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Caopo",
+    "gn:country_code": "CN",
+    "gn:dem": 1780,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7348735,
+    "gn:latitude": 35.21725,
+    "gn:longitude": 105.27012,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Caopo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.25012,35.19725,105.29012,35.23725",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "曹坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7348735
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7348735
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b22c4c11047bcd2471358075ebb31e41",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1193260827,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b22c4c11047bcd2471358075ebb31e41",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1193260827,
+        "region_id": 85669711,
+        "localadmin_id": 1127621121
+      }
     ],
-    "wof:id":1193260827,
-    "wof:lastmodified":1566686057,
-    "wof:name":"Caopo",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193260827,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Caopo",
+    "wof:parent_id": 1127621121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.27012,
     35.21725,
     105.27012,
     35.21725
-],
-  "geometry": {"coordinates":[105.27012000000001,35.21725],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.27012,
+      35.21725
+    ],
+    "type": "Point"
+  }
 }

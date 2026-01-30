@@ -2,75 +2,83 @@
   "id": 1243333769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.58666,35.23808,105.58666,35.23808",
-    "geom:latitude":35.23808,
-    "geom:longitude":105.58666,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Meiding",
-    "gn:country_code":"CN",
-    "gn:dem":1830,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7348764,
-    "gn:latitude":35.23808,
-    "gn:longitude":105.58666,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Meiding",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.56666,35.21808,105.60666,35.25808",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u7f8e\u9876"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.58666,35.23808,105.58666,35.23808",
+    "geom:latitude": 35.23808,
+    "geom:longitude": 105.58666,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Meiding",
+    "gn:country_code": "CN",
+    "gn:dem": 1830,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7348764,
+    "gn:latitude": 35.23808,
+    "gn:longitude": 105.58666,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Meiding",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.56666,35.21808,105.60666,35.25808",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "美顶"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516253
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516253,
+      1127620826
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7348764
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7348764
     },
-    "wof:country":"CN",
-    "wof:geomhash":"319fe550c8fa8a3ac43f174646aaa2d2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516253,
-            "empire_id":136253041,
-            "locality_id":1243333769,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "319fe550c8fa8a3ac43f174646aaa2d2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516253,
+        "empire_id": 136253041,
+        "locality_id": 1243333769,
+        "region_id": 85669711,
+        "localadmin_id": 1127620826
+      }
     ],
-    "wof:id":1243333769,
-    "wof:lastmodified":1566696389,
-    "wof:name":"Meiding",
-    "wof:parent_id":890516253,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243333769,
+    "wof:lastmodified": 1768666732,
+    "wof:name": "Meiding",
+    "wof:parent_id": 1127620826,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.58666,
     35.23808,
     105.58666,
     35.23808
-],
-  "geometry": {"coordinates":[105.58665999999999,35.23808],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.58666,
+      35.23808
+    ],
+    "type": "Point"
+  }
 }

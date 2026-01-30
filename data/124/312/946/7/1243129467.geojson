@@ -2,75 +2,83 @@
   "id": 1243129467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.81799,37.0635,121.81799,37.0635",
-    "geom:latitude":37.0635,
-    "geom:longitude":121.81799,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Nanshishantou",
-    "gn:country_code":"CN",
-    "gn:dem":53,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8651600,
-    "gn:latitude":37.0635,
-    "gn:longitude":121.81799,
-    "gn:modification_date":"2013-12-17",
-    "gn:name":"Nanshishantou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.79799,37.0435,121.83799,37.0835",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u77f3\u5c71\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.81799,37.0635,121.81799,37.0635",
+    "geom:latitude": 37.0635,
+    "geom:longitude": 121.81799,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Nanshishantou",
+    "gn:country_code": "CN",
+    "gn:dem": 53,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8651600,
+    "gn:latitude": 37.0635,
+    "gn:longitude": 121.81799,
+    "gn:modification_date": "2013-12-17",
+    "gn:name": "Nanshishantou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.79799,37.0435,121.83799,37.0835",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南石山头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514771
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512841,
+      890514771
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8651600
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8651600
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e474644325b810b18ff115dce425bcb8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514771,
-            "empire_id":136253041,
-            "locality_id":1243129467,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e474644325b810b18ff115dce425bcb8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514771,
+        "empire_id": 136253041,
+        "locality_id": 1243129467,
+        "region_id": 85669813,
+        "localadmin_id": 890512841
+      }
     ],
-    "wof:id":1243129467,
-    "wof:lastmodified":1566695517,
-    "wof:name":"Nanshishantou",
-    "wof:parent_id":890514771,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243129467,
+    "wof:lastmodified": 1768668334,
+    "wof:name": "Nanshishantou",
+    "wof:parent_id": 890512841,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.81799,
     37.0635,
     121.81799,
     37.0635
-],
-  "geometry": {"coordinates":[121.81798999999999,37.0635],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.81799,
+      37.0635
+    ],
+    "type": "Point"
+  }
 }

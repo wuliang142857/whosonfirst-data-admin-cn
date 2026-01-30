@@ -2,77 +2,85 @@
   "id": 1226658039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.41218,30.54318,120.41218,30.54318",
-    "geom:latitude":30.54318,
-    "geom:longitude":120.41218,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Zhicun",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7735193,
-    "gn:latitude":30.54318,
-    "gn:longitude":120.41218,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.39218,30.52318,120.43218,30.56318",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u829d\u6751",
-        "Zhicunxiang",
-        "\u829d\u6751\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.41218,30.54318,120.41218,30.54318",
+    "geom:latitude": 30.54318,
+    "geom:longitude": 120.41218,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Zhicun",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7735193,
+    "gn:latitude": 30.54318,
+    "gn:longitude": 120.41218,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.39218,30.52318,120.43218,30.56318",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "芝村",
+      "Zhicunxiang",
+      "芝村乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514635
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514635,
+      1125373819
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7735193
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7735193
     },
-    "wof:country":"CN",
-    "wof:geomhash":"99e231619a6a813388fbb2f2cac8fabe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514635,
-            "empire_id":136253041,
-            "locality_id":1226658039,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "99e231619a6a813388fbb2f2cac8fabe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514635,
+        "empire_id": 136253041,
+        "locality_id": 1226658039,
+        "region_id": 85669835,
+        "localadmin_id": 1125373819
+      }
     ],
-    "wof:id":1226658039,
-    "wof:lastmodified":1566705343,
-    "wof:name":"Zhicun",
-    "wof:parent_id":890514635,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226658039,
+    "wof:lastmodified": 1768670200,
+    "wof:name": "Zhicun",
+    "wof:parent_id": 1125373819,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.41218,
     30.54318,
     120.41218,
     30.54318
-],
-  "geometry": {"coordinates":[120.41218000000001,30.54318],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.41218,
+      30.54318
+    ],
+    "type": "Point"
+  }
 }

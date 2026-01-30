@@ -2,82 +2,90 @@
   "id": 1209814323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.34816,41.8798,126.34816,41.8798",
-    "geom:latitude":41.8798,
-    "geom:longitude":126.34816,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Zhangjiacun",
-    "gn:country_code":"CN",
-    "gn:dem":457,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8627476,
-    "gn:latitude":41.8798,
-    "gn:longitude":126.34816,
-    "gn:modification_date":"2015-12-07",
-    "gn:name":"Zhangjiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.32816,41.8598,126.36816,41.8998",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhangjia",
-        "Zhangjiacun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.34816,41.8798,126.34816,41.8798",
+    "geom:latitude": 41.8798,
+    "geom:longitude": 126.34816,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Zhangjiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 457,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8627476,
+    "gn:latitude": 41.8798,
+    "gn:longitude": 126.34816,
+    "gn:modification_date": "2015-12-07",
+    "gn:name": "Zhangjiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.32816,41.8598,126.36816,41.8998",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhangjia",
+      "Zhangjiacun"
     ],
-    "name:zho_x_preferred":[
-        "\u5f20\u5bb6"
+    "name:zho_x_preferred": [
+      "张家"
     ],
-    "name:zho_x_variant":[
-        "\u5f20\u5bb6\u6751"
+    "name:zho_x_variant": [
+      "张家村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516621
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890516621,
+      1127220602
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8627476
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8627476
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fb09b70115f279c398ecf5a0bb7ac7dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516621,
-            "empire_id":136253041,
-            "locality_id":1209814323,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fb09b70115f279c398ecf5a0bb7ac7dc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516621,
+        "empire_id": 136253041,
+        "locality_id": 1209814323,
+        "region_id": 85669843,
+        "localadmin_id": 1127220602
+      }
     ],
-    "wof:id":1209814323,
-    "wof:lastmodified":1566684272,
-    "wof:name":"Zhangjiacun",
-    "wof:parent_id":890516621,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209814323,
+    "wof:lastmodified": 1768670749,
+    "wof:name": "Zhangjiacun",
+    "wof:parent_id": 1127220602,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.34816,
     41.8798,
     126.34816,
     41.8798
-],
-  "geometry": {"coordinates":[126.34815999999999,41.8798],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.34816,
+      41.8798
+    ],
+    "type": "Point"
+  }
 }

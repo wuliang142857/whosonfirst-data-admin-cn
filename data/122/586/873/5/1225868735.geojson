@@ -2,81 +2,89 @@
   "id": 1225868735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.91538,32.74014,119.91538,32.74014",
-    "geom:latitude":32.74014,
-    "geom:longitude":119.91538,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Zenancun",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8262090,
-    "gn:latitude":32.74014,
-    "gn:longitude":119.91538,
-    "gn:modification_date":"2012-05-06",
-    "gn:name":"Zenancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.89538,32.72014,119.93538,32.76014",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhouze"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.91538,32.74014,119.91538,32.74014",
+    "geom:latitude": 32.74014,
+    "geom:longitude": 119.91538,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Zenancun",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8262090,
+    "gn:latitude": 32.74014,
+    "gn:longitude": 119.91538,
+    "gn:modification_date": "2012-05-06",
+    "gn:name": "Zenancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.89538,32.72014,119.93538,32.76014",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhouze"
     ],
-    "name:zho_x_preferred":[
-        "\u6cfd\u5357\u6751"
+    "name:zho_x_preferred": [
+      "泽南村"
     ],
-    "name:zho_x_variant":[
-        "\u5468\u6cfd"
+    "name:zho_x_variant": [
+      "周泽"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514283,
+      890516237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8262090
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8262090
     },
-    "wof:country":"CN",
-    "wof:geomhash":"155c8b69d4007f89cd98ed27f2eef570",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1225868735,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "155c8b69d4007f89cd98ed27f2eef570",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1225868735,
+        "region_id": 85669827,
+        "localadmin_id": 890514283
+      }
     ],
-    "wof:id":1225868735,
-    "wof:lastmodified":1566702674,
-    "wof:name":"Zenancun",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225868735,
+    "wof:lastmodified": 1768670650,
+    "wof:name": "Zenancun",
+    "wof:parent_id": 890514283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.91538,
     32.74014,
     119.91538,
     32.74014
-],
-  "geometry": {"coordinates":[119.91538,32.74014],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.91538,
+      32.74014
+    ],
+    "type": "Point"
+  }
 }

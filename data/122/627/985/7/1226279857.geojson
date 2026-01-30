@@ -2,75 +2,83 @@
   "id": 1226279857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.725,18.39222,109.725,18.39222",
-    "geom:latitude":18.39222,
-    "geom:longitude":109.725,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Tian'an",
-    "gn:country_code":"CN",
-    "gn:dem":14,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1887478,
-    "gn:latitude":18.39222,
-    "gn:longitude":109.725,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Tian\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.705,18.37222,109.745,18.41222",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tien-an",
-        "Tian\u2019an",
-        "\u7530\u5cb8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.725,18.39222,109.725,18.39222",
+    "geom:latitude": 18.39222,
+    "geom:longitude": 109.725,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Tian'an",
+    "gn:country_code": "CN",
+    "gn:dem": 14,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1887478,
+    "gn:latitude": 18.39222,
+    "gn:longitude": 109.725,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Tian’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.705,18.37222,109.745,18.41222",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tien-an",
+      "Tian’an",
+      "田岸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      1108732333,
+      1127460202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1887478
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1887478
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a43ec68bad4255a7a73b75aa4aa7a30a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732333,
-            "locality_id":1226279857,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a43ec68bad4255a7a73b75aa4aa7a30a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732333,
+        "locality_id": 1226279857,
+        "region_id": 85669759,
+        "localadmin_id": 1127460202
+      }
     ],
-    "wof:id":1226279857,
-    "wof:lastmodified":1566701665,
-    "wof:name":"Tian'an",
-    "wof:parent_id":1108732333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226279857,
+    "wof:lastmodified": 1768671239,
+    "wof:name": "Tian'an",
+    "wof:parent_id": 1127460202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.725,
     18.39222,
     109.725,
     18.39222
-],
-  "geometry": {"coordinates":[109.72499999999999,18.39222],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.725,
+      18.39222
+    ],
+    "type": "Point"
+  }
 }

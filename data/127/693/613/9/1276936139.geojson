@@ -2,75 +2,83 @@
   "id": 1276936139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"98.3242,32.5606,98.3242,32.5606",
-    "geom:latitude":32.5606,
-    "geom:longitude":98.3242,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhagan",
-    "gn:country_code":"CN",
-    "gn:dem":4253,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10208277,
-    "gn:latitude":32.5606,
-    "gn:longitude":98.3242,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Zhagan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"98.3042,32.5406,98.3442,32.5806",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u624e\u5e72"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "98.3242,32.5606,98.3242,32.5606",
+    "geom:latitude": 32.5606,
+    "geom:longitude": 98.3242,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhagan",
+    "gn:country_code": "CN",
+    "gn:dem": 4253,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10208277,
+    "gn:latitude": 32.5606,
+    "gn:longitude": 98.3242,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Zhagan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "98.3042,32.5406,98.3442,32.5806",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "扎干"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513161,
+      890514703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10208277
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10208277
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ba85a6c9e3b97cc6123c20c2499d5d42",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1276936139,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ba85a6c9e3b97cc6123c20c2499d5d42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1276936139,
+        "region_id": 85669787,
+        "localadmin_id": 890513161
+      }
     ],
-    "wof:id":1276936139,
-    "wof:lastmodified":1566674565,
-    "wof:name":"Zhagan",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276936139,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Zhagan",
+    "wof:parent_id": 890513161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     98.3242,
     32.5606,
     98.3242,
     32.5606
-],
-  "geometry": {"coordinates":[98.3242,32.5606],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      98.3242,
+      32.5606
+    ],
+    "type": "Point"
+  }
 }

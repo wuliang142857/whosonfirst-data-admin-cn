@@ -2,73 +2,81 @@
   "id": 1276695007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.0015,18.58381,110.0015,18.58381",
-    "geom:latitude":18.58381,
-    "geom:longitude":110.0015,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Yuanjing",
-    "gn:country_code":"CN",
-    "gn:dem":35,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7763075,
-    "gn:latitude":18.58381,
-    "gn:longitude":110.0015,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yuanjing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.9815,18.56381,110.0215,18.60381",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u8fdc\u666f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.0015,18.58381,110.0015,18.58381",
+    "geom:latitude": 18.58381,
+    "geom:longitude": 110.0015,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Yuanjing",
+    "gn:country_code": "CN",
+    "gn:dem": 35,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7763075,
+    "gn:latitude": 18.58381,
+    "gn:longitude": 110.0015,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yuanjing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.9815,18.56381,110.0215,18.60381",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "远景"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732539
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515213,
+      1108732539
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7763075
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7763075
     },
-    "wof:country":"CN",
-    "wof:geomhash":"940bb75ab67d105dd224e7bae8f2b607",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732539,
-            "locality_id":1276695007,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "940bb75ab67d105dd224e7bae8f2b607",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732539,
+        "locality_id": 1276695007,
+        "region_id": 85669759,
+        "localadmin_id": 890515213
+      }
     ],
-    "wof:id":1276695007,
-    "wof:lastmodified":1566674280,
-    "wof:name":"Yuanjing",
-    "wof:parent_id":1108732539,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276695007,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Yuanjing",
+    "wof:parent_id": 890515213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.0015,
     18.58381,
     110.0015,
     18.58381
-],
-  "geometry": {"coordinates":[110.00149999999999,18.58381],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.0015,
+      18.58381
+    ],
+    "type": "Point"
+  }
 }

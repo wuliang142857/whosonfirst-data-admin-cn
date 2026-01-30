@@ -2,84 +2,92 @@
   "id": 1260092357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.7375,27.43101,119.7375,27.43101",
-    "geom:latitude":27.43101,
-    "geom:longitude":119.7375,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Zhouling",
-    "gn:country_code":"CN",
-    "gn:dem":465,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1918548,
-    "gn:latitude":27.43101,
-    "gn:longitude":119.7375,
-    "gn:modification_date":"2012-08-05",
-    "gn:name":"Zhouling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.7175,27.41101,119.7575,27.45101",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhoubian",
-        "\u6d32\u5cad",
-        "Zhouling",
-        "Zhouling Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.7375,27.43101,119.7375,27.43101",
+    "geom:latitude": 27.43101,
+    "geom:longitude": 119.7375,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Zhouling",
+    "gn:country_code": "CN",
+    "gn:dem": 465,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1918548,
+    "gn:latitude": 27.43101,
+    "gn:longitude": 119.7375,
+    "gn:modification_date": "2012-08-05",
+    "gn:name": "Zhouling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.7175,27.41101,119.7575,27.45101",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhoubian",
+      "洲岭",
+      "Zhouling",
+      "Zhouling Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u6d32\u8fb9"
+    "name:zho_x_preferred": [
+      "洲边"
     ],
-    "name:zho_x_variant":[
-        "\u6d32\u5cad\u4e61"
+    "name:zho_x_variant": [
+      "洲岭乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1918548
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1918548
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3c31cd8f00edc80c4f82b3951bae26e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1260092357,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3c31cd8f00edc80c4f82b3951bae26e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1260092357,
+        "region_id": 85669835,
+        "localadmin_id": 1127330329
+      }
     ],
-    "wof:id":1260092357,
-    "wof:lastmodified":1566686718,
-    "wof:name":"Zhouling",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260092357,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Zhouling",
+    "wof:parent_id": 1127330329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.7375,
     27.43101,
     119.7375,
     27.43101
-],
-  "geometry": {"coordinates":[119.7375,27.43101],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.7375,
+      27.43101
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1344113601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.69412,34.4788,108.69412,34.4788",
-    "geom:latitude":34.4788,
-    "geom:longitude":108.69412,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Longyancun",
-    "gn:country_code":"CN",
-    "gn:dem":484,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2001149,
-    "gn:latitude":34.4788,
-    "gn:longitude":108.69412,
-    "gn:modification_date":"2016-11-23",
-    "gn:name":"Longyancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.67412,34.4588,108.71412,34.4988",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Longyan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.69412,34.4788,108.69412,34.4788",
+    "geom:latitude": 34.4788,
+    "geom:longitude": 108.69412,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Longyancun",
+    "gn:country_code": "CN",
+    "gn:dem": 484,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2001149,
+    "gn:latitude": 34.4788,
+    "gn:longitude": 108.69412,
+    "gn:modification_date": "2016-11-23",
+    "gn:name": "Longyancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.67412,34.4588,108.71412,34.4988",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Longyan"
     ],
-    "name:zho_x_preferred":[
-        "\u9f99\u5ca9"
+    "name:zho_x_preferred": [
+      "龙岩"
     ],
-    "name:zho_x_variant":[
-        "\u9f99\u5ca9\u6751"
+    "name:zho_x_variant": [
+      "龙岩村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515689,
+      1127610404
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2001149
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2001149
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e452969843417f016f0dbefa25a0b26d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1344113601,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e452969843417f016f0dbefa25a0b26d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1344113601,
+        "region_id": 85669769,
+        "localadmin_id": 1127610404
+      }
     ],
-    "wof:id":1344113601,
-    "wof:lastmodified":1566662774,
-    "wof:name":"Longyancun",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344113601,
+    "wof:lastmodified": 1768667722,
+    "wof:name": "Longyancun",
+    "wof:parent_id": 1127610404,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.69412,
     34.4788,
     108.69412,
     34.4788
-],
-  "geometry": {"coordinates":[108.69412,34.4788],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.69412,
+      34.4788
+    ],
+    "type": "Point"
+  }
 }

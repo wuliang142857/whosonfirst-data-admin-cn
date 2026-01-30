@@ -2,75 +2,83 @@
   "id": 1259629741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.42949,24.5544,113.42949,24.5544",
-    "geom:latitude":24.5544,
-    "geom:longitude":113.42949,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Zhugaotan",
-    "gn:country_code":"CN",
-    "gn:dem":103,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8201115,
-    "gn:latitude":24.5544,
-    "gn:longitude":113.42949,
-    "gn:modification_date":"2012-02-29",
-    "gn:name":"Zhugaotan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.40949,24.5344,113.44949,24.5744",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7af9\u7bd9\u6f6d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.42949,24.5544,113.42949,24.5544",
+    "geom:latitude": 24.5544,
+    "geom:longitude": 113.42949,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Zhugaotan",
+    "gn:country_code": "CN",
+    "gn:dem": 103,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8201115,
+    "gn:latitude": 24.5544,
+    "gn:longitude": 113.42949,
+    "gn:modification_date": "2012-02-29",
+    "gn:name": "Zhugaotan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.40949,24.5344,113.44949,24.5744",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "竹篙潭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890515641,
+      890516559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8201115
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8201115
     },
-    "wof:country":"CN",
-    "wof:geomhash":"91d76c95110654570621859bbe9623cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516559,
-            "empire_id":136253041,
-            "locality_id":1259629741,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "91d76c95110654570621859bbe9623cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516559,
+        "empire_id": 136253041,
+        "locality_id": 1259629741,
+        "region_id": 85669743,
+        "localadmin_id": 890515641
+      }
     ],
-    "wof:id":1259629741,
-    "wof:lastmodified":1566698308,
-    "wof:name":"Zhugaotan",
-    "wof:parent_id":890516559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259629741,
+    "wof:lastmodified": 1768667808,
+    "wof:name": "Zhugaotan",
+    "wof:parent_id": 890515641,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.42949,
     24.5544,
     113.42949,
     24.5544
-],
-  "geometry": {"coordinates":[113.42949,24.5544],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.42949,
+      24.5544
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1193016055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.31815,32.10642,120.31815,32.10642",
-    "geom:latitude":32.10642,
-    "geom:longitude":120.31815,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Bao'andian",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8359593,
-    "gn:latitude":32.10642,
-    "gn:longitude":120.31815,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Bao\u2019andian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.29815,32.08642,120.33815,32.12642",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Bao\u2019andian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.31815,32.10642,120.31815,32.10642",
+    "geom:latitude": 32.10642,
+    "geom:longitude": 120.31815,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Bao'andian",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8359593,
+    "gn:latitude": 32.10642,
+    "gn:longitude": 120.31815,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Bao’andian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.29815,32.08642,120.33815,32.12642",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Bao’andian"
     ],
-    "name:zho_x_preferred":[
-        "\u4fdd\u5b89\u6bbf"
+    "name:zho_x_preferred": [
+      "保安殿"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515841,
+      890516237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8359593
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8359593
     },
-    "wof:country":"CN",
-    "wof:geomhash":"009f229f7932823f2f9e668015d523f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1193016055,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "009f229f7932823f2f9e668015d523f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1193016055,
+        "region_id": 85669827,
+        "localadmin_id": 890515841
+      }
     ],
-    "wof:id":1193016055,
-    "wof:lastmodified":1566684872,
-    "wof:name":"Bao'andian",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193016055,
+    "wof:lastmodified": 1768670651,
+    "wof:name": "Bao'andian",
+    "wof:parent_id": 890515841,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.31815,
     32.10642,
     120.31815,
     32.10642
-],
-  "geometry": {"coordinates":[120.31815,32.10642],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.31815,
+      32.10642
+    ],
+    "type": "Point"
+  }
 }

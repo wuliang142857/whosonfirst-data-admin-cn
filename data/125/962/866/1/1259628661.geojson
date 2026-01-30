@@ -2,75 +2,83 @@
   "id": 1259628661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.688,29.6084,103.688,29.6084",
-    "geom:latitude":29.6084,
-    "geom:longitude":103.688,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Cansang",
-    "gn:country_code":"CN",
-    "gn:dem":377,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10184797,
-    "gn:latitude":29.6084,
-    "gn:longitude":103.688,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Cansang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.668,29.5884,103.708,29.6284",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8695\u6851"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.688,29.6084,103.688,29.6084",
+    "geom:latitude": 29.6084,
+    "geom:longitude": 103.688,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Cansang",
+    "gn:country_code": "CN",
+    "gn:dem": 377,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10184797,
+    "gn:latitude": 29.6084,
+    "gn:longitude": 103.688,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Cansang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.668,29.5884,103.708,29.6284",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "蚕桑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512711
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512711,
+      1127511102
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10184797
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10184797
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ee5019f1be3acc1729368ea8bb9cb268",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512711,
-            "empire_id":136253041,
-            "locality_id":1259628661,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ee5019f1be3acc1729368ea8bb9cb268",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512711,
+        "empire_id": 136253041,
+        "locality_id": 1259628661,
+        "region_id": 85669787,
+        "localadmin_id": 1127511102
+      }
     ],
-    "wof:id":1259628661,
-    "wof:lastmodified":1566698298,
-    "wof:name":"Cansang",
-    "wof:parent_id":890512711,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259628661,
+    "wof:lastmodified": 1768668485,
+    "wof:name": "Cansang",
+    "wof:parent_id": 1127511102,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.688,
     29.6084,
     103.688,
     29.6084
-],
-  "geometry": {"coordinates":[103.688,29.6084],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.688,
+      29.6084
+    ],
+    "type": "Point"
+  }
 }

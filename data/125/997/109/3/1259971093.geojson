@@ -2,81 +2,89 @@
   "id": 1259971093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.94141,24.39168,116.94141,24.39168",
-    "geom:latitude":24.39168,
-    "geom:longitude":116.94141,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Batou",
-    "gn:country_code":"CN",
-    "gn:dem":292,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8382827,
-    "gn:latitude":24.39168,
-    "gn:longitude":116.94141,
-    "gn:modification_date":"2012-09-08",
-    "gn:name":"Batou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.92141,24.37168,116.96141,24.41168",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:jpn_x_preferred":[
-        "\u30d0\u30c8\u30fc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.94141,24.39168,116.94141,24.39168",
+    "geom:latitude": 24.39168,
+    "geom:longitude": 116.94141,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Batou",
+    "gn:country_code": "CN",
+    "gn:dem": 292,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8382827,
+    "gn:latitude": 24.39168,
+    "gn:longitude": 116.94141,
+    "gn:modification_date": "2012-09-08",
+    "gn:name": "Batou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.92141,24.37168,116.96141,24.41168",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:jpn_x_preferred": [
+      "バトー"
     ],
-    "name:spa_x_preferred":[
-        "Batou"
+    "name:spa_x_preferred": [
+      "Batou"
     ],
-    "name:zho_x_preferred":[
-        "\u575d\u5934"
+    "name:zho_x_preferred": [
+      "坝头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890513339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513339,
+      1127350628
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8382827
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8382827
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6ef8aa19858e72554a8cc591f2067a68",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513339,
-            "empire_id":136253041,
-            "locality_id":1259971093,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6ef8aa19858e72554a8cc591f2067a68",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513339,
+        "empire_id": 136253041,
+        "locality_id": 1259971093,
+        "region_id": 85669735,
+        "localadmin_id": 1127350628
+      }
     ],
-    "wof:id":1259971093,
-    "wof:lastmodified":1566698459,
-    "wof:name":"Batou",
-    "wof:parent_id":890513339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259971093,
+    "wof:lastmodified": 1768669260,
+    "wof:name": "Batou",
+    "wof:parent_id": 1127350628,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.94141,
     24.39168,
     116.94141,
     24.39168
-],
-  "geometry": {"coordinates":[116.94141,24.39168],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.94141,
+      24.39168
+    ],
+    "type": "Point"
+  }
 }

@@ -2,79 +2,87 @@
   "id": 1343965159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.36198,27.99976,116.36198,27.99976",
-    "geom:latitude":27.99976,
-    "geom:longitude":116.36198,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Qiaodong",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7738998,
-    "gn:latitude":27.99976,
-    "gn:longitude":116.36198,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Qiaodong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.34198,27.97976,116.38198,28.01976",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6865\u4e1c",
-        "Yangzhou Zhen",
-        "Qiaodong Jiedao",
-        "\u6d0b\u6d32\u9547",
-        "\u6865\u4e1c\u8857\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.36198,27.99976,116.36198,27.99976",
+    "geom:latitude": 27.99976,
+    "geom:longitude": 116.36198,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Qiaodong",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7738998,
+    "gn:latitude": 27.99976,
+    "gn:longitude": 116.36198,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Qiaodong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.34198,27.97976,116.38198,28.01976",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "桥东",
+      "Yangzhou Zhen",
+      "Qiaodong Jiedao",
+      "洋洲镇",
+      "桥东街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516617
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516617,
+      1127361002
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7738998
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7738998
     },
-    "wof:country":"CN",
-    "wof:geomhash":"48b442d5b56c165f94f815ff02ad1e3e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516617,
-            "empire_id":136253041,
-            "locality_id":1343965159,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "48b442d5b56c165f94f815ff02ad1e3e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516617,
+        "empire_id": 136253041,
+        "locality_id": 1343965159,
+        "region_id": 85669823,
+        "localadmin_id": 1127361002
+      }
     ],
-    "wof:id":1343965159,
-    "wof:lastmodified":1566656617,
-    "wof:name":"Qiaodong",
-    "wof:parent_id":890516617,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343965159,
+    "wof:lastmodified": 1768669902,
+    "wof:name": "Qiaodong",
+    "wof:parent_id": 1127361002,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.36198,
     27.99976,
     116.36198,
     27.99976
-],
-  "geometry": {"coordinates":[116.36198,27.99976],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.36198,
+      27.99976
+    ],
+    "type": "Point"
+  }
 }

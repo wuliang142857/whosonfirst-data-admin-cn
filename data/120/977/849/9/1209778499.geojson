@@ -2,78 +2,86 @@
   "id": 1209778499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.36667,25.86667,105.36667,25.86667",
-    "geom:latitude":25.86667,
-    "geom:longitude":105.36667,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Panjiangqiao",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":779,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1799065,
-    "gn:latitude":25.86667,
-    "gn:longitude":105.36667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Panjiangqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.34667,25.84667,105.38667,25.88667",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ieh-so-ch\u2019iao",
-        "P\u2019an-chiang-ch\u2019iao",
-        "Panjiangqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.36667,25.86667,105.36667,25.86667",
+    "geom:latitude": 25.86667,
+    "geom:longitude": 105.36667,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Panjiangqiao",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 779,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1799065,
+    "gn:latitude": 25.86667,
+    "gn:longitude": 105.36667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Panjiangqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.34667,25.84667,105.38667,25.88667",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ieh-so-ch’iao",
+      "P’an-chiang-ch’iao",
+      "Panjiangqiao"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890513357,
+      1108732559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1799065
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1799065
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7d4fe5913f0a41fa5fb500be9f1101be",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732559,
-            "empire_id":136253041,
-            "locality_id":1209778499,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7d4fe5913f0a41fa5fb500be9f1101be",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732559,
+        "empire_id": 136253041,
+        "locality_id": 1209778499,
+        "region_id": 85669721,
+        "localadmin_id": 890513357
+      }
     ],
-    "wof:id":1209778499,
-    "wof:lastmodified":1566680345,
-    "wof:name":"Panjiangqiao",
-    "wof:parent_id":1108732559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209778499,
+    "wof:lastmodified": 1768665767,
+    "wof:name": "Panjiangqiao",
+    "wof:parent_id": 890513357,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.36667,
     25.86667000000001,
     105.36667,
     25.86667000000001
-],
-  "geometry": {"coordinates":[105.36667,25.86667000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.36667,
+      25.86667000000001
+    ],
+    "type": "Point"
+  }
 }

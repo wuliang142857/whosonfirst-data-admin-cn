@@ -2,75 +2,83 @@
   "id": 1226700181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.19312,22.25136,113.19312,22.25136",
-    "geom:latitude":22.25136,
-    "geom:longitude":113.19312,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Shizui",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6895478,
-    "gn:latitude":22.25136,
-    "gn:longitude":113.19312,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Shizui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.17312,22.23136,113.21312,22.27136",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u5480"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.19312,22.25136,113.19312,22.25136",
+    "geom:latitude": 22.25136,
+    "geom:longitude": 113.19312,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Shizui",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6895478,
+    "gn:latitude": 22.25136,
+    "gn:longitude": 113.19312,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Shizui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.17312,22.23136,113.21312,22.27136",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石咀"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516343
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513259,
+      890516343
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6895478
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6895478
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fee8326181012794a6c5ee8db75f0241",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516343,
-            "empire_id":136253041,
-            "locality_id":1226700181,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fee8326181012794a6c5ee8db75f0241",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516343,
+        "empire_id": 136253041,
+        "locality_id": 1226700181,
+        "region_id": 85669743,
+        "localadmin_id": 890513259
+      }
     ],
-    "wof:id":1226700181,
-    "wof:lastmodified":1566704685,
-    "wof:name":"Shizui",
-    "wof:parent_id":890516343,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226700181,
+    "wof:lastmodified": 1768668878,
+    "wof:name": "Shizui",
+    "wof:parent_id": 890513259,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.19312,
     22.25136,
     113.19312,
     22.25136
-],
-  "geometry": {"coordinates":[113.19311999999999,22.25136],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.19312,
+      22.25136
+    ],
+    "type": "Point"
+  }
 }

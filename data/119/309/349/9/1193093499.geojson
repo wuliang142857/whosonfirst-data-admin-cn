@@ -2,75 +2,83 @@
   "id": 1193093499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.45582,39.53753,116.45582,39.53753",
-    "geom:latitude":39.53753,
-    "geom:longitude":116.45582,
-    "gn:admin1_code":"22.0",
-    "gn:asciiname":"Baishuzhuangcun",
-    "gn:country_code":"CN",
-    "gn:dem":29,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10313651,
-    "gn:latitude":39.53753,
-    "gn:longitude":116.45582,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Baishuzhuangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.43582,39.51753,116.47582,39.55753",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u67cf\u6811\u5e84\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.45582,39.53753,116.45582,39.53753",
+    "geom:latitude": 39.53753,
+    "geom:longitude": 116.45582,
+    "gn:admin1_code": "22.0",
+    "gn:asciiname": "Baishuzhuangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 29,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10313651,
+    "gn:latitude": 39.53753,
+    "gn:longitude": 116.45582,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Baishuzhuangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.43582,39.51753,116.47582,39.55753",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "柏树庄村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890513985,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10313651
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10313651
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e740d71016c5df51f7413716076cdd56",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1193093499,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e740d71016c5df51f7413716076cdd56",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1193093499,
+        "region_id": 85669727,
+        "localadmin_id": 890513985
+      }
     ],
-    "wof:id":1193093499,
-    "wof:lastmodified":1566684765,
-    "wof:name":"Baishuzhuangcun",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193093499,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Baishuzhuangcun",
+    "wof:parent_id": 890513985,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.45582,
     39.53753,
     116.45582,
     39.53753
-],
-  "geometry": {"coordinates":[116.45582,39.53753],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.45582,
+      39.53753
+    ],
+    "type": "Point"
+  }
 }

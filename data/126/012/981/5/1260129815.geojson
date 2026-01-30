@@ -2,81 +2,89 @@
   "id": 1260129815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.0328,23.0564,113.0328,23.0564",
-    "geom:latitude":23.0564,
-    "geom:longitude":113.0328,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Luocun",
-    "gn:country_code":"CN",
-    "gn:dem":1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1801976,
-    "gn:latitude":23.0564,
-    "gn:longitude":113.0328,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Luocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.0128,23.0364,113.0528,23.0764",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lo-ts\u2019un",
-        "Luocun",
-        "Luocun Jiedao",
-        "\u7f57\u6751\u8857\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.0328,23.0564,113.0328,23.0564",
+    "geom:latitude": 23.0564,
+    "geom:longitude": 113.0328,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Luocun",
+    "gn:country_code": "CN",
+    "gn:dem": 1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1801976,
+    "gn:latitude": 23.0564,
+    "gn:longitude": 113.0328,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Luocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.0128,23.0364,113.0528,23.0764",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lo-ts’un",
+      "Luocun",
+      "Luocun Jiedao",
+      "罗村街道"
     ],
-    "name:zho_x_preferred":[
-        "\u7f57\u6751"
+    "name:zho_x_preferred": [
+      "罗村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513089
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513089,
+      890516753
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1801976
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1801976
     },
-    "wof:country":"CN",
-    "wof:geomhash":"26f8bb5edb8f0bf4183c6c83187516ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513089,
-            "empire_id":136253041,
-            "locality_id":1260129815,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "26f8bb5edb8f0bf4183c6c83187516ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513089,
+        "empire_id": 136253041,
+        "locality_id": 1260129815,
+        "region_id": 85669743,
+        "localadmin_id": 890516753
+      }
     ],
-    "wof:id":1260129815,
-    "wof:lastmodified":1566686366,
-    "wof:name":"Luocun",
-    "wof:parent_id":890513089,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260129815,
+    "wof:lastmodified": 1768668382,
+    "wof:name": "Luocun",
+    "wof:parent_id": 890516753,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.0328,
     23.0564,
     113.0328,
     23.0564
-],
-  "geometry": {"coordinates":[113.03279999999999,23.0564],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.0328,
+      23.0564
+    ],
+    "type": "Point"
+  }
 }

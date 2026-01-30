@@ -2,75 +2,83 @@
   "id": 1259983571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.47562,30.7636,118.47562,30.7636",
-    "geom:latitude":30.7636,
-    "geom:longitude":118.47562,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Xiaoqin",
-    "gn:country_code":"CN",
-    "gn:dem":25,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7638141,
-    "gn:latitude":30.7636,
-    "gn:longitude":118.47562,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xiaoqin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.45562,30.7436,118.49562,30.7836",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u7434"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.47562,30.7636,118.47562,30.7636",
+    "geom:latitude": 30.7636,
+    "geom:longitude": 118.47562,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Xiaoqin",
+    "gn:country_code": "CN",
+    "gn:dem": 25,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7638141,
+    "gn:latitude": 30.7636,
+    "gn:longitude": 118.47562,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xiaoqin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.45562,30.7436,118.49562,30.7836",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小琴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515063,
+      1127341823
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7638141
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7638141
     },
-    "wof:country":"CN",
-    "wof:geomhash":"27eb4275805b464bfedd9f4a676d88fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515063,
-            "empire_id":136253041,
-            "locality_id":1259983571,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "27eb4275805b464bfedd9f4a676d88fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515063,
+        "empire_id": 136253041,
+        "locality_id": 1259983571,
+        "region_id": 85669739,
+        "localadmin_id": 1127341823
+      }
     ],
-    "wof:id":1259983571,
-    "wof:lastmodified":1566698145,
-    "wof:name":"Xiaoqin",
-    "wof:parent_id":890515063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259983571,
+    "wof:lastmodified": 1768670065,
+    "wof:name": "Xiaoqin",
+    "wof:parent_id": 1127341823,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.47562,
     30.7636,
     118.47562,
     30.7636
-],
-  "geometry": {"coordinates":[118.47562000000001,30.7636],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.47562,
+      30.7636
+    ],
+    "type": "Point"
+  }
 }

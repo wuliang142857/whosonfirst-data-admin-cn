@@ -2,75 +2,83 @@
   "id": 1243441627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.72666,29.53538,112.72666,29.53538",
-    "geom:latitude":29.53538,
-    "geom:longitude":112.72666,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Moshanpu",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1927632,
-    "gn:latitude":29.53538,
-    "gn:longitude":112.72666,
-    "gn:modification_date":"2015-06-08",
-    "gn:name":"Moshanpu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.70666,29.51538,112.74666,29.55538",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u58a8\u5c71\u94fa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.72666,29.53538,112.72666,29.53538",
+    "geom:latitude": 29.53538,
+    "geom:longitude": 112.72666,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Moshanpu",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1927632,
+    "gn:latitude": 29.53538,
+    "gn:longitude": 112.72666,
+    "gn:modification_date": "2015-06-08",
+    "gn:name": "Moshanpu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.70666,29.51538,112.74666,29.55538",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "墨山铺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516479
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516479,
+      1127430623
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1927632
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1927632
     },
-    "wof:country":"CN",
-    "wof:geomhash":"918aede4f19ec6914a66fa66290d1518",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516479,
-            "empire_id":136253041,
-            "locality_id":1243441627,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "918aede4f19ec6914a66fa66290d1518",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516479,
+        "empire_id": 136253041,
+        "locality_id": 1243441627,
+        "region_id": 85669781,
+        "localadmin_id": 1127430623
+      }
     ],
-    "wof:id":1243441627,
-    "wof:lastmodified":1566697791,
-    "wof:name":"Moshanpu",
-    "wof:parent_id":890516479,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243441627,
+    "wof:lastmodified": 1768670325,
+    "wof:name": "Moshanpu",
+    "wof:parent_id": 1127430623,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.72666,
     29.53538,
     112.72666,
     29.53538
-],
-  "geometry": {"coordinates":[112.72666,29.53538],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.72666,
+      29.53538
+    ],
+    "type": "Point"
+  }
 }

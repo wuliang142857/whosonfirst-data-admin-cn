@@ -2,72 +2,80 @@
   "id": 1360191797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.705,29.32083,117.705,29.32083",
-    "geom:latitude":29.32083,
-    "geom:longitude":117.705,
-    "gn:admin1_code":"3",
-    "gn:asciiname":"Yinfeng",
-    "gn:country_code":"CN",
-    "gn:dem":220,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1924529,
-    "gn:latitude":29.32083,
-    "gn:longitude":117.705,
-    "gn:modification_date":"2001-08-15",
-    "gn:name":"Yinfeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.685,29.30083,117.725,29.34083",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890515869
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.705,29.32083,117.705,29.32083",
+    "geom:latitude": 29.32083,
+    "geom:longitude": 117.705,
+    "gn:admin1_code": "3",
+    "gn:asciiname": "Yinfeng",
+    "gn:country_code": "CN",
+    "gn:dem": 220,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1924529,
+    "gn:latitude": 29.32083,
+    "gn:longitude": 117.705,
+    "gn:modification_date": "2001-08-15",
+    "gn:name": "Yinfeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.685,29.30083,117.725,29.34083",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890515149,
+      890515869
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1924529
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1924529
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2bd5b1a953e1c9448780faa052ed3da8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515869,
-            "empire_id":136253041,
-            "locality_id":1360191797,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2bd5b1a953e1c9448780faa052ed3da8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515869,
+        "empire_id": 136253041,
+        "locality_id": 1360191797,
+        "region_id": 85669823,
+        "localadmin_id": 890515149
+      }
     ],
-    "wof:id":1360191797,
-    "wof:lastmodified":1566692051,
-    "wof:name":"Yinfeng",
-    "wof:parent_id":890515869,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360191797,
+    "wof:lastmodified": 1768670033,
+    "wof:name": "Yinfeng",
+    "wof:parent_id": 890515149,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.705,
     29.32083,
     117.705,
     29.32083
-],
-  "geometry": {"coordinates":[117.705,29.32083],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.705,
+      29.32083
+    ],
+    "type": "Point"
+  }
 }

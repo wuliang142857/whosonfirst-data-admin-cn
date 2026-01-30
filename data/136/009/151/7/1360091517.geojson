@@ -2,75 +2,83 @@
   "id": 1360091517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.93271,29.36041,114.93271,29.36041",
-    "geom:latitude":29.36041,
-    "geom:longitude":114.93271,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Xujiaping",
-    "gn:country_code":"CN",
-    "gn:dem":717,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7744897,
-    "gn:latitude":29.36041,
-    "gn:longitude":114.93271,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xujiaping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.91271,29.34041,114.95271,29.38041",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u8bb8\u5bb6\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.93271,29.36041,114.93271,29.36041",
+    "geom:latitude": 29.36041,
+    "geom:longitude": 114.93271,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Xujiaping",
+    "gn:country_code": "CN",
+    "gn:dem": 717,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7744897,
+    "gn:latitude": 29.36041,
+    "gn:longitude": 114.93271,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xujiaping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.91271,29.34041,114.95271,29.38041",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "许家坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7744897
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7744897
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aad539223b5218eeff41e4ec933867d7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1360091517,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aad539223b5218eeff41e4ec933867d7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1360091517,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1360091517,
-    "wof:lastmodified":1566691500,
-    "wof:name":"Xujiaping",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360091517,
+    "wof:lastmodified": 1768669674,
+    "wof:name": "Xujiaping",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.93271,
     29.36041,
     114.93271,
     29.36041
-],
-  "geometry": {"coordinates":[114.93271,29.36041],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.93271,
+      29.36041
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1259973807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.19458,34.86307,114.19458,34.86307",
-    "geom:latitude":34.86307,
-    "geom:longitude":114.19458,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Donglang Chenggang",
-    "gn:country_code":"CN",
-    "gn:dem":88,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10362093,
-    "gn:latitude":34.86307,
-    "gn:longitude":114.19458,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Donglang Chenggang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.17458,34.84307,114.21458,34.88307",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u72fc\u57ce\u5c97"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.19458,34.86307,114.19458,34.86307",
+    "geom:latitude": 34.86307,
+    "geom:longitude": 114.19458,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Donglang Chenggang",
+    "gn:country_code": "CN",
+    "gn:dem": 88,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10362093,
+    "gn:latitude": 34.86307,
+    "gn:longitude": 114.19458,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Donglang Chenggang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.17458,34.84307,114.21458,34.88307",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东狼城岗"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515627
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513849,
+      890515627
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10362093
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10362093
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a77dba4cd9e842d93f3854a4b299d0c6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515627,
-            "empire_id":136253041,
-            "locality_id":1259973807,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a77dba4cd9e842d93f3854a4b299d0c6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515627,
+        "empire_id": 136253041,
+        "locality_id": 1259973807,
+        "region_id": 85669801,
+        "localadmin_id": 890513849
+      }
     ],
-    "wof:id":1259973807,
-    "wof:lastmodified":1566698474,
-    "wof:name":"Donglang Chenggang",
-    "wof:parent_id":890515627,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259973807,
+    "wof:lastmodified": 1768669309,
+    "wof:name": "Donglang Chenggang",
+    "wof:parent_id": 890513849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.19458,
     34.86307,
     114.19458,
     34.86307
-],
-  "geometry": {"coordinates":[114.19458,34.86307],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.19458,
+      34.86307
+    ],
+    "type": "Point"
+  }
 }

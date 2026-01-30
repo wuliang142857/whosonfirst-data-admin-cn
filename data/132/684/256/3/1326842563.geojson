@@ -2,80 +2,88 @@
   "id": 1326842563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.37408,28.3385,121.37408,28.3385",
-    "geom:latitude":28.3385,
-    "geom:longitude":121.37408,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Pengjiacun",
-    "gn:country_code":"CN",
-    "gn:dem":71,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1897786,
-    "gn:latitude":28.3385,
-    "gn:longitude":121.37408,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Pengjiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.35408,28.3185,121.39408,28.3585",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "P\u2019eng-chia",
-        "Pengjia",
-        "Pengjiacun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.37408,28.3385,121.37408,28.3385",
+    "geom:latitude": 28.3385,
+    "geom:longitude": 121.37408,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Pengjiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 71,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1897786,
+    "gn:latitude": 28.3385,
+    "gn:longitude": 121.37408,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Pengjiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.35408,28.3185,121.39408,28.3585",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "P’eng-chia",
+      "Pengjia",
+      "Pengjiacun"
     ],
-    "name:zho_x_preferred":[
-        "\u5f6d\u5bb6\u6751"
+    "name:zho_x_preferred": [
+      "彭家村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515273,
+      890515633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1897786
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1897786
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9a3f0354ca4e9e9b6f2002a93556c45e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1326842563,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9a3f0354ca4e9e9b6f2002a93556c45e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1326842563,
+        "region_id": 85669835,
+        "localadmin_id": 890515273
+      }
     ],
-    "wof:id":1326842563,
-    "wof:lastmodified":1566652503,
-    "wof:name":"Pengjiacun",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326842563,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Pengjiacun",
+    "wof:parent_id": 890515273,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.37408,
     28.3385,
     121.37408,
     28.3385
-],
-  "geometry": {"coordinates":[121.37408000000001,28.3385],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.37408,
+      28.3385
+    ],
+    "type": "Point"
+  }
 }

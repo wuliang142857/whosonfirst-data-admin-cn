@@ -2,75 +2,83 @@
   "id": 1343903485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.30952,29.45632,105.30952,29.45632",
-    "geom:latitude":29.45632,
-    "geom:longitude":105.30952,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Caijiasi",
-    "gn:country_code":"CN",
-    "gn:dem":402,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6921175,
-    "gn:latitude":29.45632,
-    "gn:longitude":105.30952,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Caijiasi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.28952,29.43632,105.32952,29.47632",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8521\u5bb6\u5bfa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.30952,29.45632,105.30952,29.45632",
+    "geom:latitude": 29.45632,
+    "geom:longitude": 105.30952,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Caijiasi",
+    "gn:country_code": "CN",
+    "gn:dem": 402,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6921175,
+    "gn:latitude": 29.45632,
+    "gn:longitude": 105.30952,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Caijiasi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.28952,29.43632,105.32952,29.47632",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "蔡家寺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6921175
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6921175
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d16d0d13b961d1e8171377f1eabbf4b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1343903485,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d16d0d13b961d1e8171377f1eabbf4b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1343903485,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1343903485,
-    "wof:lastmodified":1566657663,
-    "wof:name":"Caijiasi",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343903485,
+    "wof:lastmodified": 1768668255,
+    "wof:name": "Caijiasi",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.30952,
     29.45632,
     105.30952,
     29.45632
-],
-  "geometry": {"coordinates":[105.30952000000001,29.45632],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.30952,
+      29.45632
+    ],
+    "type": "Point"
+  }
 }

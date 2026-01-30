@@ -2,78 +2,86 @@
   "id": 890515621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.5158,39.821853,119.5158,39.821853",
-    "geom:latitude":39.821853,
-    "geom:longitude":119.5158,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"119.4958,39.801853,119.5358,39.841853",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Jitushan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.5158,39.821853,119.5158,39.821853",
+    "geom:latitude": 39.821853,
+    "geom:longitude": 119.5158,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "119.4958,39.801853,119.5358,39.841853",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Jitushan"
     ],
-    "name:zho_x_preferred":[
-        "\u5409\u571f\u5c71"
+    "name:zho_x_preferred": [
+      "吉土山"
     ],
-    "qs:name":"\u5409\u571f\u5c71",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u6cb3\u5317\u7701",
-    "qs:photos":378,
-    "qs:photos_1k":77,
-    "qs:photos_9k":2,
-    "qs:photos_9r":5,
-    "qs:photos_all":378,
-    "qs:photos_sr":6,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890513075,
-        136253041,
-        85669797
+    "qs:name": "吉土山",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "河北省",
+    "qs:photos": 378,
+    "qs:photos_1k": 77,
+    "qs:photos_9k": 2,
+    "qs:photos_9r": 5,
+    "qs:photos_all": 378,
+    "qs:photos_sr": 6,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513075,
+      1127130304
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2171329,
-        "qs_pg:id":1130040
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2171329,
+      "qs_pg:id": 1130040
     },
-    "wof:country":"CN",
-    "wof:created":1469055924,
-    "wof:geomhash":"1a9ce63d457a71200dae28c40c06f407",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513075,
-            "empire_id":136253041,
-            "locality_id":890515621,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055924,
+    "wof:geomhash": "1a9ce63d457a71200dae28c40c06f407",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513075,
+        "empire_id": 136253041,
+        "locality_id": 890515621,
+        "region_id": 85669797,
+        "localadmin_id": 1127130304
+      }
     ],
-    "wof:id":890515621,
-    "wof:lastmodified":1601423012,
-    "wof:name":"Jitushan",
-    "wof:parent_id":890513075,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515621,
+    "wof:lastmodified": 1768669315,
+    "wof:name": "Jitushan",
+    "wof:parent_id": 1127130304,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.5158,
     39.821853,
     119.5158,
     39.821853
-],
-  "geometry": {"coordinates":[119.5158,39.821853],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.5158,
+      39.821853
+    ],
+    "type": "Point"
+  }
 }

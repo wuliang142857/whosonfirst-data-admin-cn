@@ -2,75 +2,83 @@
   "id": 1293167587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.84529,35.88788,108.84529,35.88788",
-    "geom:latitude":35.88788,
-    "geom:longitude":108.84529,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Hancun",
-    "gn:country_code":"CN",
-    "gn:dem":1117,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1910807,
-    "gn:latitude":35.88788,
-    "gn:longitude":108.84529,
-    "gn:modification_date":"2017-01-05",
-    "gn:name":"Hancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.82529,35.86788,108.86529,35.90788",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u97e9\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.84529,35.88788,108.84529,35.88788",
+    "geom:latitude": 35.88788,
+    "geom:longitude": 108.84529,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Hancun",
+    "gn:country_code": "CN",
+    "gn:dem": 1117,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1910807,
+    "gn:latitude": 35.88788,
+    "gn:longitude": 108.84529,
+    "gn:modification_date": "2017-01-05",
+    "gn:name": "Hancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.82529,35.86788,108.86529,35.90788",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "韩村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516587
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516587,
+      1127610628
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1910807
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1910807
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b39fb822527bc648faf673f00b078014",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516587,
-            "empire_id":136253041,
-            "locality_id":1293167587,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b39fb822527bc648faf673f00b078014",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516587,
+        "empire_id": 136253041,
+        "locality_id": 1293167587,
+        "region_id": 85669769,
+        "localadmin_id": 1127610628
+      }
     ],
-    "wof:id":1293167587,
-    "wof:lastmodified":1566670852,
-    "wof:name":"Hancun",
-    "wof:parent_id":890516587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293167587,
+    "wof:lastmodified": 1768667665,
+    "wof:name": "Hancun",
+    "wof:parent_id": 1127610628,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.84529,
     35.88788,
     108.84529,
     35.88788
-],
-  "geometry": {"coordinates":[108.84529000000001,35.88788],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.84529,
+      35.88788
+    ],
+    "type": "Point"
+  }
 }

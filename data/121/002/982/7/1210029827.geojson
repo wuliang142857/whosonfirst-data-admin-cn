@@ -2,90 +2,98 @@
   "id": 1210029827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.65,31.49167,118.65,31.49167",
-    "geom:latitude":31.49167,
-    "geom:longitude":118.65,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Guangming",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1552849,
-    "gn:latitude":31.49167,
-    "gn:longitude":118.65,
-    "gn:modification_date":"2012-01-16",
-    "gn:name":"Guangming",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.63,31.47167,118.67,31.51167",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Guangming"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.65,31.49167,118.65,31.49167",
+    "geom:latitude": 31.49167,
+    "geom:longitude": 118.65,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Guangming",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1552849,
+    "gn:latitude": 31.49167,
+    "gn:longitude": 118.65,
+    "gn:modification_date": "2012-01-16",
+    "gn:name": "Guangming",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.63,31.47167,118.67,31.51167",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Guangming"
     ],
-    "name:deu_x_preferred":[
-        "Guangming"
+    "name:deu_x_preferred": [
+      "Guangming"
     ],
-    "name:jpn_x_preferred":[
-        "\u5149\u660e"
+    "name:jpn_x_preferred": [
+      "光明"
     ],
-    "name:mlg_x_preferred":[
-        "Guangming"
+    "name:mlg_x_preferred": [
+      "Guangming"
     ],
-    "name:swe_x_preferred":[
-        "Guangming"
+    "name:swe_x_preferred": [
+      "Guangming"
     ],
-    "name:zho_x_preferred":[
-        "\u5149\u660e"
+    "name:zho_x_preferred": [
+      "光明"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732543
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515255,
+      1108732543
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1552849
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1552849
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e389291976ada68c9359022f038954db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732543,
-            "empire_id":136253041,
-            "locality_id":1210029827,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e389291976ada68c9359022f038954db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732543,
+        "empire_id": 136253041,
+        "locality_id": 1210029827,
+        "region_id": 85669739,
+        "localadmin_id": 890515255
+      }
     ],
-    "wof:id":1210029827,
-    "wof:lastmodified":1566684611,
-    "wof:name":"Guangming",
-    "wof:parent_id":1108732543,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1210029827,
+    "wof:lastmodified": 1768669727,
+    "wof:name": "Guangming",
+    "wof:parent_id": 890515255,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.65,
     31.49167000000001,
     118.65,
     31.49167000000001
-],
-  "geometry": {"coordinates":[118.65000000000001,31.49167000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.65,
+      31.49167000000001
+    ],
+    "type": "Point"
+  }
 }

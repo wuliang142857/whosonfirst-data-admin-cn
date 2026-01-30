@@ -2,75 +2,83 @@
   "id": 1343707255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.586,32.1696,100.586,32.1696",
-    "geom:latitude":32.1696,
-    "geom:longitude":100.586,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Quxicun",
-    "gn:country_code":"CN",
-    "gn:dem":3860,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10202952,
-    "gn:latitude":32.1696,
-    "gn:longitude":100.586,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Quxicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.566,32.1496,100.606,32.1896",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u66f2\u897f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.586,32.1696,100.586,32.1696",
+    "geom:latitude": 32.1696,
+    "geom:longitude": 100.586,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Quxicun",
+    "gn:country_code": "CN",
+    "gn:dem": 3860,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10202952,
+    "gn:latitude": 32.1696,
+    "gn:longitude": 100.586,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Quxicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.566,32.1496,100.606,32.1896",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "曲西村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10202952
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10202952
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9fe9b5126d6b9ce849ddbf2b4699a77a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1343707255,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9fe9b5126d6b9ce849ddbf2b4699a77a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1343707255,
+        "region_id": 85669787,
+        "localadmin_id": 1127513333
+      }
     ],
-    "wof:id":1343707255,
-    "wof:lastmodified":1566659464,
-    "wof:name":"Quxicun",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343707255,
+    "wof:lastmodified": 1768668578,
+    "wof:name": "Quxicun",
+    "wof:parent_id": 1127513333,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.586,
     32.1696,
     100.586,
     32.1696
-],
-  "geometry": {"coordinates":[100.586,32.1696],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.586,
+      32.1696
+    ],
+    "type": "Point"
+  }
 }

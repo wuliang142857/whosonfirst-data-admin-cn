@@ -2,75 +2,83 @@
   "id": 1242833909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.349,29.7541,103.349,29.7541",
-    "geom:latitude":29.7541,
-    "geom:longitude":103.349,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Maliulin",
-    "gn:country_code":"CN",
-    "gn:dem":804,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10182819,
-    "gn:latitude":29.7541,
-    "gn:longitude":103.349,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Maliulin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.329,29.7341,103.369,29.7741",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ebb\u67f3\u6797"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.349,29.7541,103.349,29.7541",
+    "geom:latitude": 29.7541,
+    "geom:longitude": 103.349,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Maliulin",
+    "gn:country_code": "CN",
+    "gn:dem": 804,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10182819,
+    "gn:latitude": 29.7541,
+    "gn:longitude": 103.349,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Maliulin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.329,29.7341,103.369,29.7741",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "麻柳林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512711
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512711,
+      890513945
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10182819
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10182819
     },
-    "wof:country":"CN",
-    "wof:geomhash":"43db70284280ed9f05db41da1e36ac68",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512711,
-            "empire_id":136253041,
-            "locality_id":1242833909,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "43db70284280ed9f05db41da1e36ac68",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512711,
+        "empire_id": 136253041,
+        "locality_id": 1242833909,
+        "region_id": 85669787,
+        "localadmin_id": 890513945
+      }
     ],
-    "wof:id":1242833909,
-    "wof:lastmodified":1566696604,
-    "wof:name":"Maliulin",
-    "wof:parent_id":890512711,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242833909,
+    "wof:lastmodified": 1768668485,
+    "wof:name": "Maliulin",
+    "wof:parent_id": 890513945,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.349,
     29.7541,
     103.349,
     29.7541
-],
-  "geometry": {"coordinates":[103.349,29.7541],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.349,
+      29.7541
+    ],
+    "type": "Point"
+  }
 }

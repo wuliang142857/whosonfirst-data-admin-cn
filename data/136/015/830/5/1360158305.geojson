@@ -2,83 +2,91 @@
   "id": 1360158305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"93.601,33.501,93.601,33.501",
-    "geom:latitude":33.501,
-    "geom:longitude":93.601,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Xiqia",
-    "gn:country_code":"CN",
-    "gn:dem":4668,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8059019,
-    "gn:latitude":33.501,
-    "gn:longitude":93.601,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Xiqia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"93.581,33.481,93.621,33.521",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "X\u00eaqag"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "93.601,33.501,93.601,33.501",
+    "geom:latitude": 33.501,
+    "geom:longitude": 93.601,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Xiqia",
+    "gn:country_code": "CN",
+    "gn:dem": 4668,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8059019,
+    "gn:latitude": 33.501,
+    "gn:longitude": 93.601,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Xiqia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "93.581,33.481,93.621,33.521",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Xêqag"
     ],
-    "name:zho_x_preferred":[
-        "Xiqia"
+    "name:zho_x_preferred": [
+      "Xiqia"
     ],
-    "name:zho_x_variant":[
-        "\u897f\u6070",
-        "Duoma Gongshe",
-        "\u591a\u739b\u516c\u793e"
+    "name:zho_x_variant": [
+      "西恰",
+      "Duoma Gongshe",
+      "多玛公社"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669715,
-        102191569,
-        85632695,
-        136253041,
-        890513781
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669715,
+      102191569,
+      136253041,
+      890513781,
+      1127632722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8059019
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8059019
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3261f6ca40a7afbe9f7125018fed1478",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513781,
-            "empire_id":136253041,
-            "locality_id":1360158305,
-            "region_id":85669715
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3261f6ca40a7afbe9f7125018fed1478",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513781,
+        "empire_id": 136253041,
+        "locality_id": 1360158305,
+        "region_id": 85669715,
+        "localadmin_id": 1127632722
+      }
     ],
-    "wof:id":1360158305,
-    "wof:lastmodified":1566691234,
-    "wof:name":"Xiqia",
-    "wof:parent_id":890513781,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360158305,
+    "wof:lastmodified": 1768669581,
+    "wof:name": "Xiqia",
+    "wof:parent_id": 1127632722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     93.601,
     33.501,
     93.601,
     33.501
-],
-  "geometry": {"coordinates":[93.601,33.501],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      93.601,
+      33.501
+    ],
+    "type": "Point"
+  }
 }

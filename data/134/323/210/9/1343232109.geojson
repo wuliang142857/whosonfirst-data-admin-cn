@@ -2,75 +2,83 @@
   "id": 1343232109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.004,35.4437,103.004,35.4437",
-    "geom:latitude":35.4437,
-    "geom:longitude":103.004,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Shijiatai",
-    "gn:country_code":"CN",
-    "gn:dem":2126,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7413743,
-    "gn:latitude":35.4437,
-    "gn:longitude":103.004,
-    "gn:modification_date":"2015-09-07",
-    "gn:name":"Shijiatai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.984,35.4237,103.024,35.4637",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u77f3\u5bb6\u53f0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.004,35.4437,103.004,35.4437",
+    "geom:latitude": 35.4437,
+    "geom:longitude": 103.004,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Shijiatai",
+    "gn:country_code": "CN",
+    "gn:dem": 2126,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7413743,
+    "gn:latitude": 35.4437,
+    "gn:longitude": 103.004,
+    "gn:modification_date": "2015-09-07",
+    "gn:name": "Shijiatai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.984,35.4237,103.024,35.4637",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "石家台"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890513773
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890513773,
+      1127622921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7413743
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7413743
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e1c18584fc33646c133b4e73aade6deb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513773,
-            "empire_id":136253041,
-            "locality_id":1343232109,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e1c18584fc33646c133b4e73aade6deb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513773,
+        "empire_id": 136253041,
+        "locality_id": 1343232109,
+        "region_id": 85669711,
+        "localadmin_id": 1127622921
+      }
     ],
-    "wof:id":1343232109,
-    "wof:lastmodified":1566659759,
-    "wof:name":"Shijiatai",
-    "wof:parent_id":890513773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343232109,
+    "wof:lastmodified": 1768666660,
+    "wof:name": "Shijiatai",
+    "wof:parent_id": 1127622921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.004,
     35.4437,
     103.004,
     35.4437
-],
-  "geometry": {"coordinates":[103.004,35.4437],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.004,
+      35.4437
+    ],
+    "type": "Point"
+  }
 }

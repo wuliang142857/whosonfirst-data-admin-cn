@@ -2,75 +2,83 @@
   "id": 1327088301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.09847,30.71406,108.09847,30.71406",
-    "geom:latitude":30.71406,
-    "geom:longitude":108.09847,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Saijin",
-    "gn:country_code":"CN",
-    "gn:dem":614,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8404309,
-    "gn:latitude":30.71406,
-    "gn:longitude":108.09847,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Saijin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.07847,30.69406,108.11847,30.73406",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d5b\u91d1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.09847,30.71406,108.09847,30.71406",
+    "geom:latitude": 30.71406,
+    "geom:longitude": 108.09847,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Saijin",
+    "gn:country_code": "CN",
+    "gn:dem": 614,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8404309,
+    "gn:latitude": 30.71406,
+    "gn:longitude": 108.09847,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Saijin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.07847,30.69406,108.11847,30.73406",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赛金"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8404309
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8404309
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7f185337ef8ae5c5863b8133f3ef861d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1327088301,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7f185337ef8ae5c5863b8133f3ef861d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1327088301,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1327088301,
-    "wof:lastmodified":1566646995,
-    "wof:name":"Saijin",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327088301,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Saijin",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.09847,
     30.71406,
     108.09847,
     30.71406
-],
-  "geometry": {"coordinates":[108.09847000000001,30.71406],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.09847,
+      30.71406
+    ],
+    "type": "Point"
+  }
 }

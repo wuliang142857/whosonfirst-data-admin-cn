@@ -2,78 +2,317 @@
   "id": 890514299,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.12783,31.56678,121.12783,31.56678",
-    "geom:latitude":31.56678,
-    "geom:longitude":121.12783,
-    "gn:country":"CN",
-    "gn:fcode":"ADM3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"121.02783,31.46678,121.22783,31.66678",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ai-ts\u2019ang Hsien"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.001203249747,
+    "geom:area_square_m": 1203249747.15,
+    "geom:bbox": "120.973058,31.360598,121.382355,31.760625",
+    "geom:latitude": 31.560612,
+    "geom:longitude": 121.177706,
+    "gn:country": "CN",
+    "gn:fcode": "ADM3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "121.07771,31.46061,121.27771,31.66061",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ai-ts’ang Hsien"
     ],
-    "name:zho_x_preferred":[
-        "\u592a\u4ed3\u5e02"
+    "name:zho_x_preferred": [
+      "太仓市"
     ],
-    "name:zho_x_variant":[
-        "\u592a\u4ed3"
+    "name:zho_x_variant": [
+      "太仓"
     ],
-    "qs:name":"Taicang Shi",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515879
+    "qs:name": "Taicang Shi",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85669827,
+      102191569,
+      85632695,
+      136253041,
+      890515879
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1793702,
-        "qs_pg:id":1031504
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1793702,
+      "qs_pg:id": 1031504,
+      "gb:id": "156320585"
     },
-    "wof:country":"CN",
-    "wof:created":1469055855,
-    "wof:geomhash":"78a8f9d1f5c3f1d2df495c97f9cec314",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515879,
-            "empire_id":136253041,
-            "localadmin_id":890514299,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055855,
+    "wof:geomhash": "78a8f9d1f5c3f1d2df495c97f9cec314",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515879,
+        "empire_id": 136253041,
+        "localadmin_id": 890514299,
+        "region_id": 85669827
+      }
     ],
-    "wof:id":890514299,
-    "wof:lastmodified":1566693691,
-    "wof:name":"Taicang Shi",
-    "wof:parent_id":890515879,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890514299,
+    "wof:lastmodified": 1768664148,
+    "wof:name": "Taicang Shi",
+    "wof:parent_id": 890515879,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    121.12783,
-    31.56678,
-    121.12783,
-    31.56678
-],
-  "geometry": {"coordinates":[121.12783,31.56678],"type":"Point"}
+    120.973058,
+    31.360598,
+    121.382355,
+    31.760625
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            121.335267,
+            31.508766
+          ],
+          [
+            121.332901,
+            31.50695
+          ],
+          [
+            121.320999,
+            31.502085
+          ],
+          [
+            121.303818,
+            31.510864
+          ],
+          [
+            121.298551,
+            31.498998
+          ],
+          [
+            121.290001,
+            31.490805
+          ],
+          [
+            121.249443,
+            31.477226
+          ],
+          [
+            121.23291,
+            31.490833
+          ],
+          [
+            121.191132,
+            31.473993
+          ],
+          [
+            121.178047,
+            31.448889
+          ],
+          [
+            121.14885,
+            31.440832
+          ],
+          [
+            121.164833,
+            31.427912
+          ],
+          [
+            121.146683,
+            31.418058
+          ],
+          [
+            121.153984,
+            31.408136
+          ],
+          [
+            121.141342,
+            31.38648
+          ],
+          [
+            121.111893,
+            31.378639
+          ],
+          [
+            121.106354,
+            31.360598
+          ],
+          [
+            121.094207,
+            31.393356
+          ],
+          [
+            121.089382,
+            31.38846
+          ],
+          [
+            121.082374,
+            31.39585
+          ],
+          [
+            121.094035,
+            31.425233
+          ],
+          [
+            121.088702,
+            31.43287
+          ],
+          [
+            121.080341,
+            31.437449
+          ],
+          [
+            121.065719,
+            31.42483
+          ],
+          [
+            121.054542,
+            31.435386
+          ],
+          [
+            121.050584,
+            31.435076
+          ],
+          [
+            121.048129,
+            31.427687
+          ],
+          [
+            121.035614,
+            31.435879
+          ],
+          [
+            121.022452,
+            31.434926
+          ],
+          [
+            121.015705,
+            31.443589
+          ],
+          [
+            121.016925,
+            31.455662
+          ],
+          [
+            121.00863,
+            31.46029
+          ],
+          [
+            121.006906,
+            31.466608
+          ],
+          [
+            121.015525,
+            31.4859
+          ],
+          [
+            121.009802,
+            31.495503
+          ],
+          [
+            120.974686,
+            31.497675
+          ],
+          [
+            121.002237,
+            31.522091
+          ],
+          [
+            120.993979,
+            31.544875
+          ],
+          [
+            120.981728,
+            31.543139
+          ],
+          [
+            120.973058,
+            31.547826
+          ],
+          [
+            120.978062,
+            31.556691
+          ],
+          [
+            120.990363,
+            31.565691
+          ],
+          [
+            121.003239,
+            31.595852
+          ],
+          [
+            121.033548,
+            31.611581
+          ],
+          [
+            121.054723,
+            31.638468
+          ],
+          [
+            121.011833,
+            31.66172
+          ],
+          [
+            121.048059,
+            31.684487
+          ],
+          [
+            121.050795,
+            31.68999
+          ],
+          [
+            121.045456,
+            31.695219
+          ],
+          [
+            121.058934,
+            31.722639
+          ],
+          [
+            121.098499,
+            31.760625
+          ],
+          [
+            121.234139,
+            31.670788
+          ],
+          [
+            121.258118,
+            31.652081
+          ],
+          [
+            121.313949,
+            31.585772
+          ],
+          [
+            121.364998,
+            31.559324
+          ],
+          [
+            121.382355,
+            31.545032
+          ],
+          [
+            121.335267,
+            31.508766
+          ]
+        ]
+      ]
+    ]
+  }
 }

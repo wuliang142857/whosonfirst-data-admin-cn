@@ -2,75 +2,83 @@
   "id": 1327084915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.924,25.8792,102.924,25.8792",
-    "geom:latitude":25.8792,
-    "geom:longitude":102.924,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Mayang",
-    "gn:country_code":"CN",
-    "gn:dem":2049,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10158567,
-    "gn:latitude":25.8792,
-    "gn:longitude":102.924,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Mayang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.904,25.8592,102.944,25.8992",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a82\u79e7"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.924,25.8792,102.924,25.8792",
+    "geom:latitude": 25.8792,
+    "geom:longitude": 102.924,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Mayang",
+    "gn:country_code": "CN",
+    "gn:dem": 2049,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10158567,
+    "gn:latitude": 25.8792,
+    "gn:longitude": 102.924,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Mayang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.904,25.8592,102.944,25.8992",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "骂秧"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513129,
+      890513777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10158567
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10158567
     },
-    "wof:country":"CN",
-    "wof:geomhash":"43ea70db1b59e62768886e8536bdc44e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1327084915,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "43ea70db1b59e62768886e8536bdc44e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1327084915,
+        "region_id": 85669791,
+        "localadmin_id": 890513129
+      }
     ],
-    "wof:id":1327084915,
-    "wof:lastmodified":1566646943,
-    "wof:name":"Mayang",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327084915,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Mayang",
+    "wof:parent_id": 890513129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.924,
     25.8792,
     102.924,
     25.8792
-],
-  "geometry": {"coordinates":[102.92400000000001,25.8792],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.924,
+      25.8792
+    ],
+    "type": "Point"
+  }
 }

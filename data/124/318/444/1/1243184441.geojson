@@ -2,75 +2,83 @@
   "id": 1243184441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.68256,29.97585,120.68256,29.97585",
-    "geom:latitude":29.97585,
-    "geom:longitude":120.68256,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Shangjiang",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7071640,
-    "gn:latitude":29.97585,
-    "gn:longitude":120.68256,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Shangjiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.66256,29.95585,120.70256,29.99585",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u848b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.68256,29.97585,120.68256,29.97585",
+    "geom:latitude": 29.97585,
+    "geom:longitude": 120.68256,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Shangjiang",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7071640,
+    "gn:latitude": 29.97585,
+    "gn:longitude": 120.68256,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Shangjiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.66256,29.95585,120.70256,29.99585",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上蒋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513785
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513785,
+      1127330602
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7071640
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7071640
     },
-    "wof:country":"CN",
-    "wof:geomhash":"842b1977cc130106bb9ea835bf421d43",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "locality_id":1243184441,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "842b1977cc130106bb9ea835bf421d43",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "locality_id": 1243184441,
+        "region_id": 85669835,
+        "localadmin_id": 1127330602
+      }
     ],
-    "wof:id":1243184441,
-    "wof:lastmodified":1566697306,
-    "wof:name":"Shangjiang",
-    "wof:parent_id":890513785,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243184441,
+    "wof:lastmodified": 1768669996,
+    "wof:name": "Shangjiang",
+    "wof:parent_id": 1127330602,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.68256,
     29.97585,
     120.68256,
     29.97585
-],
-  "geometry": {"coordinates":[120.68256,29.97585],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.68256,
+      29.97585
+    ],
+    "type": "Point"
+  }
 }

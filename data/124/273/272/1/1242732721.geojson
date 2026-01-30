@@ -2,75 +2,83 @@
   "id": 1242732721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.98039,38.08632,109.98039,38.08632",
-    "geom:latitude":38.08632,
-    "geom:longitude":109.98039,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Shagouliangcun",
-    "gn:country_code":"CN",
-    "gn:dem":1144,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11084032,
-    "gn:latitude":38.08632,
-    "gn:longitude":109.98039,
-    "gn:modification_date":"2016-12-06",
-    "gn:name":"Shagouliangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.96039,38.06632,110.00039,38.10632",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c99\u6c9f\u6881\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.98039,38.08632,109.98039,38.08632",
+    "geom:latitude": 38.08632,
+    "geom:longitude": 109.98039,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Shagouliangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 1144,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11084032,
+    "gn:latitude": 38.08632,
+    "gn:longitude": 109.98039,
+    "gn:modification_date": "2016-12-06",
+    "gn:name": "Shagouliangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.96039,38.06632,110.00039,38.10632",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沙沟梁村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515097
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515097,
+      1127610802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11084032
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11084032
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ed9cf5edfad561f4e4116c2101c12415",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515097,
-            "empire_id":136253041,
-            "locality_id":1242732721,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ed9cf5edfad561f4e4116c2101c12415",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515097,
+        "empire_id": 136253041,
+        "locality_id": 1242732721,
+        "region_id": 85669769,
+        "localadmin_id": 1127610802
+      }
     ],
-    "wof:id":1242732721,
-    "wof:lastmodified":1566694422,
-    "wof:name":"Shagouliangcun",
-    "wof:parent_id":890515097,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242732721,
+    "wof:lastmodified": 1768667149,
+    "wof:name": "Shagouliangcun",
+    "wof:parent_id": 1127610802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.98039,
     38.08632,
     109.98039,
     38.08632
-],
-  "geometry": {"coordinates":[109.98039,38.08632],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.98039,
+      38.08632
+    ],
+    "type": "Point"
+  }
 }

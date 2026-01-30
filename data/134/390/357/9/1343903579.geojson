@@ -2,75 +2,83 @@
   "id": 1343903579,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"101.074,29.3263,101.074,29.3263",
-    "geom:latitude":29.3263,
-    "geom:longitude":101.074,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shiluobu",
-    "gn:country_code":"CN",
-    "gn:dem":3444,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10211228,
-    "gn:latitude":29.3263,
-    "gn:longitude":101.074,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shiluobu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"101.054,29.3063,101.094,29.3463",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u7f57\u5821"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "101.074,29.3263,101.074,29.3263",
+    "geom:latitude": 29.3263,
+    "geom:longitude": 101.074,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shiluobu",
+    "gn:country_code": "CN",
+    "gn:dem": 3444,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10211228,
+    "gn:latitude": 29.3263,
+    "gn:longitude": 101.074,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shiluobu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "101.054,29.3063,101.094,29.3463",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石罗堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513301
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10211228
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10211228
     },
-    "wof:country":"CN",
-    "wof:geomhash":"863b928a29488032575b0ec1e16fb709",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1343903579,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "863b928a29488032575b0ec1e16fb709",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1343903579,
+        "region_id": 85669787,
+        "localadmin_id": 1127513301
+      }
     ],
-    "wof:id":1343903579,
-    "wof:lastmodified":1566657671,
-    "wof:name":"Shiluobu",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343903579,
+    "wof:lastmodified": 1768668578,
+    "wof:name": "Shiluobu",
+    "wof:parent_id": 1127513301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     101.074,
     29.3263,
     101.074,
     29.3263
-],
-  "geometry": {"coordinates":[101.074,29.3263],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      101.074,
+      29.3263
+    ],
+    "type": "Point"
+  }
 }

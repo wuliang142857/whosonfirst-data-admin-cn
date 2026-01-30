@@ -2,75 +2,83 @@
   "id": 1309959789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.68266,30.66278,108.68266,30.66278",
-    "geom:latitude":30.66278,
-    "geom:longitude":108.68266,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Xiangdong",
-    "gn:country_code":"CN",
-    "gn:dem":510,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8404122,
-    "gn:latitude":30.66278,
-    "gn:longitude":108.68266,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Xiangdong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.66266,30.64278,108.70266,30.68278",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5411\u4e1c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.68266,30.66278,108.68266,30.66278",
+    "geom:latitude": 30.66278,
+    "geom:longitude": 108.68266,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Xiangdong",
+    "gn:country_code": "CN",
+    "gn:dem": 510,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8404122,
+    "gn:latitude": 30.66278,
+    "gn:longitude": 108.68266,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Xiangdong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.66266,30.64278,108.70266,30.68278",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "向东"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8404122
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8404122
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0d1de2d29d9eed49902fa3f91a64940e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1309959789,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0d1de2d29d9eed49902fa3f91a64940e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1309959789,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1309959789,
-    "wof:lastmodified":1566693044,
-    "wof:name":"Xiangdong",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309959789,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Xiangdong",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.68266,
     30.66278,
     108.68266,
     30.66278
-],
-  "geometry": {"coordinates":[108.68266,30.66278],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.68266,
+      30.66278
+    ],
+    "type": "Point"
+  }
 }

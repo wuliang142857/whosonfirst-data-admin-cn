@@ -2,81 +2,89 @@
   "id": 1343561221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.90271,32.68724,119.90271,32.68724",
-    "geom:latitude":32.68724,
-    "geom:longitude":119.90271,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Jiangzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8539357,
-    "gn:latitude":32.68724,
-    "gn:longitude":119.90271,
-    "gn:modification_date":"2013-06-05",
-    "gn:name":"Jiangzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.88271,32.66724,119.92271,32.70724",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Jiangsunzhuang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.90271,32.68724,119.90271,32.68724",
+    "geom:latitude": 32.68724,
+    "geom:longitude": 119.90271,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Jiangzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8539357,
+    "gn:latitude": 32.68724,
+    "gn:longitude": 119.90271,
+    "gn:modification_date": "2013-06-05",
+    "gn:name": "Jiangzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.88271,32.66724,119.92271,32.70724",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Jiangsunzhuang"
     ],
-    "name:zho_x_preferred":[
-        "\u6c5f\u5e84"
+    "name:zho_x_preferred": [
+      "江庄"
     ],
-    "name:zho_x_variant":[
-        "\u6c5f\u5b59\u5e84"
+    "name:zho_x_variant": [
+      "江孙庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514283,
+      890516237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8539357
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8539357
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ce55ce46d1ed4429c242b10e9f3f7349",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1343561221,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ce55ce46d1ed4429c242b10e9f3f7349",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1343561221,
+        "region_id": 85669827,
+        "localadmin_id": 890514283
+      }
     ],
-    "wof:id":1343561221,
-    "wof:lastmodified":1566661508,
-    "wof:name":"Jiangzhuang",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343561221,
+    "wof:lastmodified": 1768670650,
+    "wof:name": "Jiangzhuang",
+    "wof:parent_id": 890514283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.90271,
     32.68724,
     119.90271,
     32.68724
-],
-  "geometry": {"coordinates":[119.90271,32.68724],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.90271,
+      32.68724
+    ],
+    "type": "Point"
+  }
 }

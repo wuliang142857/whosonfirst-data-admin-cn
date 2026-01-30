@@ -2,75 +2,83 @@
   "id": 1327495741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.775,41.877,121.775,41.877",
-    "geom:latitude":41.877,
-    "geom:longitude":121.775,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Majiahuang",
-    "gn:country_code":"CN",
-    "gn:dem":351,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11521481,
-    "gn:latitude":41.877,
-    "gn:longitude":121.775,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Majiahuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.755,41.857,121.795,41.897",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u5bb6\u8352"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.775,41.877,121.775,41.877",
+    "geom:latitude": 41.877,
+    "geom:longitude": 121.775,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Majiahuang",
+    "gn:country_code": "CN",
+    "gn:dem": 351,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11521481,
+    "gn:latitude": 41.877,
+    "gn:longitude": 121.775,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Majiahuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.755,41.857,121.795,41.897",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马家荒"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514709
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514709,
+      1127210921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11521481
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11521481
     },
-    "wof:country":"CN",
-    "wof:geomhash":"31407a129647d35c6a652dc2f06589f1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514709,
-            "empire_id":136253041,
-            "locality_id":1327495741,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "31407a129647d35c6a652dc2f06589f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514709,
+        "empire_id": 136253041,
+        "locality_id": 1327495741,
+        "region_id": 85669807,
+        "localadmin_id": 1127210921
+      }
     ],
-    "wof:id":1327495741,
-    "wof:lastmodified":1566650449,
-    "wof:name":"Majiahuang",
-    "wof:parent_id":890514709,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327495741,
+    "wof:lastmodified": 1768666899,
+    "wof:name": "Majiahuang",
+    "wof:parent_id": 1127210921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.775,
     41.877,
     121.775,
     41.877
-],
-  "geometry": {"coordinates":[121.77500000000001,41.877],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.775,
+      41.877
+    ],
+    "type": "Point"
+  }
 }

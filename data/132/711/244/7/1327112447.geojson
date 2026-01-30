@@ -2,78 +2,86 @@
   "id": 1327112447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.18599,28.52491,113.18599,28.52491",
-    "geom:latitude":28.52491,
-    "geom:longitude":113.18599,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Dapoli",
-    "gn:country_code":"CN",
-    "gn:dem":317,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10325144,
-    "gn:latitude":28.52491,
-    "gn:longitude":113.18599,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Dapoli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.16599,28.50491,113.20599,28.54491",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:hin_x_preferred":[
-        "\u0926\u093e\u092a\u094b\u0932\u0940"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.18599,28.52491,113.18599,28.52491",
+    "geom:latitude": 28.52491,
+    "geom:longitude": 113.18599,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Dapoli",
+    "gn:country_code": "CN",
+    "gn:dem": 317,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10325144,
+    "gn:latitude": 28.52491,
+    "gn:longitude": 113.18599,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Dapoli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.16599,28.50491,113.20599,28.54491",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:hin_x_preferred": [
+      "दापोली"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5761\u91cc"
+    "name:zho_x_preferred": [
+      "大坡里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890513085
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513085,
+      890513989
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10325144
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10325144
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9d421a1ca9b644fcd251275edc015353",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513085,
-            "empire_id":136253041,
-            "locality_id":1327112447,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9d421a1ca9b644fcd251275edc015353",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513085,
+        "empire_id": 136253041,
+        "locality_id": 1327112447,
+        "region_id": 85669781,
+        "localadmin_id": 890513989
+      }
     ],
-    "wof:id":1327112447,
-    "wof:lastmodified":1566654946,
-    "wof:name":"Dapoli",
-    "wof:parent_id":890513085,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327112447,
+    "wof:lastmodified": 1768670508,
+    "wof:name": "Dapoli",
+    "wof:parent_id": 890513989,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.18599,
     28.52491,
     113.18599,
     28.52491
-],
-  "geometry": {"coordinates":[113.18599,28.52491],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.18599,
+      28.52491
+    ],
+    "type": "Point"
+  }
 }

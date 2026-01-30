@@ -2,75 +2,83 @@
   "id": 1343923321,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.885,42.6882,124.885,42.6882",
-    "geom:latitude":42.6882,
-    "geom:longitude":124.885,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wenjiajie",
-    "gn:country_code":"CN",
-    "gn:dem":298,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7401656,
-    "gn:latitude":42.6882,
-    "gn:longitude":124.885,
-    "gn:modification_date":"2017-03-05",
-    "gn:name":"Wenjiajie",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.865,42.6682,124.905,42.7082",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e29\u5bb6\u8857"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.885,42.6882,124.885,42.6882",
+    "geom:latitude": 42.6882,
+    "geom:longitude": 124.885,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wenjiajie",
+    "gn:country_code": "CN",
+    "gn:dem": 298,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7401656,
+    "gn:latitude": 42.6882,
+    "gn:longitude": 124.885,
+    "gn:modification_date": "2017-03-05",
+    "gn:name": "Wenjiajie",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.865,42.6682,124.905,42.7082",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "温家街"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514741,
+      1127211223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7401656
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7401656
     },
-    "wof:country":"CN",
-    "wof:geomhash":"647a1c498a674b013a2a53fa0e14ff85",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1343923321,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "647a1c498a674b013a2a53fa0e14ff85",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1343923321,
+        "region_id": 85669807,
+        "localadmin_id": 1127211223
+      }
     ],
-    "wof:id":1343923321,
-    "wof:lastmodified":1566660871,
-    "wof:name":"Wenjiajie",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343923321,
+    "wof:lastmodified": 1768666117,
+    "wof:name": "Wenjiajie",
+    "wof:parent_id": 1127211223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.885,
     42.6882,
     124.885,
     42.6882
-],
-  "geometry": {"coordinates":[124.88500000000001,42.6882],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.885,
+      42.6882
+    ],
+    "type": "Point"
+  }
 }

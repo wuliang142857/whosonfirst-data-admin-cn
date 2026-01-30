@@ -2,75 +2,83 @@
   "id": 1259903599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.80921,31.85069,119.80921,31.85069",
-    "geom:latitude":31.85069,
-    "geom:longitude":119.80921,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Bashang",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8395014,
-    "gn:latitude":31.85069,
-    "gn:longitude":119.80921,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Bashang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.78921,31.83069,119.82921,31.87069",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u575d\u4e0a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.80921,31.85069,119.80921,31.85069",
+    "geom:latitude": 31.85069,
+    "geom:longitude": 119.80921,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Bashang",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8395014,
+    "gn:latitude": 31.85069,
+    "gn:longitude": 119.80921,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Bashang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.78921,31.83069,119.82921,31.87069",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坝上"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514735,
+      1127320411
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8395014
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8395014
     },
-    "wof:country":"CN",
-    "wof:geomhash":"11d3ace73e6c4ea9bf869a5203b5dcaf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514735,
-            "empire_id":136253041,
-            "locality_id":1259903599,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "11d3ace73e6c4ea9bf869a5203b5dcaf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514735,
+        "empire_id": 136253041,
+        "locality_id": 1259903599,
+        "region_id": 85669827,
+        "localadmin_id": 1127320411
+      }
     ],
-    "wof:id":1259903599,
-    "wof:lastmodified":1566698487,
-    "wof:name":"Bashang",
-    "wof:parent_id":890514735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259903599,
+    "wof:lastmodified": 1768671038,
+    "wof:name": "Bashang",
+    "wof:parent_id": 1127320411,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.80921,
     31.85069,
     119.80921,
     31.85069
-],
-  "geometry": {"coordinates":[119.80920999999999,31.85069],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.80921,
+      31.85069
+    ],
+    "type": "Point"
+  }
 }

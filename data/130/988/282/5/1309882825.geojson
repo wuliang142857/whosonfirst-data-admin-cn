@@ -2,79 +2,87 @@
   "id": 1309882825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.7543,31.43477,113.7543,31.43477",
-    "geom:latitude":31.43477,
-    "geom:longitude":113.7543,
-    "gn:admin1_code":"12",
-    "gn:asciiname":"Jieguan",
-    "gn:country_code":"CN",
-    "gn:dem":75,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1940915,
-    "gn:latitude":31.43477,
-    "gn:longitude":113.7543,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Jieguan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.7343,31.41477,113.7743,31.45477",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chieh-kuan-t\u2019ing",
-        "Jieguan",
-        "\u63a5\u5b98",
-        "Jieguan Xiang",
-        "\u63a5\u5b98\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.7543,31.43477,113.7543,31.43477",
+    "geom:latitude": 31.43477,
+    "geom:longitude": 113.7543,
+    "gn:admin1_code": "12",
+    "gn:asciiname": "Jieguan",
+    "gn:country_code": "CN",
+    "gn:dem": 75,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1940915,
+    "gn:latitude": 31.43477,
+    "gn:longitude": 113.7543,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Jieguan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.7343,31.41477,113.7743,31.45477",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chieh-kuan-t’ing",
+      "Jieguan",
+      "接官",
+      "Jieguan Xiang",
+      "接官乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732407
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890511905,
+      1108732407
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1940915
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1940915
     },
-    "wof:country":"CN",
-    "wof:geomhash":"770dcfd716e10459dc12d07501d267a7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732407,
-            "empire_id":136253041,
-            "locality_id":1309882825,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "770dcfd716e10459dc12d07501d267a7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732407,
+        "empire_id": 136253041,
+        "locality_id": 1309882825,
+        "region_id": 85669777,
+        "localadmin_id": 890511905
+      }
     ],
-    "wof:id":1309882825,
-    "wof:lastmodified":1566693407,
-    "wof:name":"Jieguan",
-    "wof:parent_id":1108732407,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309882825,
+    "wof:lastmodified": 1768667192,
+    "wof:name": "Jieguan",
+    "wof:parent_id": 890511905,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.7543,
     31.43477,
     113.7543,
     31.43477
-],
-  "geometry": {"coordinates":[113.7543,31.43477],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.7543,
+      31.43477
+    ],
+    "type": "Point"
+  }
 }

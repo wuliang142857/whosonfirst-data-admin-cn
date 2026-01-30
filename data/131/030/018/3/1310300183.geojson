@@ -2,75 +2,83 @@
   "id": 1310300183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.76336,47.62977,124.76336,47.62977",
-    "geom:latitude":47.62977,
-    "geom:longitude":124.76336,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Changxing",
-    "gn:country_code":"CN",
-    "gn:dem":163,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8470313,
-    "gn:latitude":47.62977,
-    "gn:longitude":124.76336,
-    "gn:modification_date":"2013-03-06",
-    "gn:name":"Changxing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.74336,47.60977,124.78336,47.64977",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u957f\u5174"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.76336,47.62977,124.76336,47.62977",
+    "geom:latitude": 47.62977,
+    "geom:longitude": 124.76336,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Changxing",
+    "gn:country_code": "CN",
+    "gn:dem": 163,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8470313,
+    "gn:latitude": 47.62977,
+    "gn:longitude": 124.76336,
+    "gn:modification_date": "2013-03-06",
+    "gn:name": "Changxing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.74336,47.60977,124.78336,47.64977",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "长兴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890512583,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8470313
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8470313
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8f8f885f14796e14925a24884a9f2ed0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1310300183,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8f8f885f14796e14925a24884a9f2ed0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1310300183,
+        "region_id": 85669849,
+        "localadmin_id": 890512583
+      }
     ],
-    "wof:id":1310300183,
-    "wof:lastmodified":1566689269,
-    "wof:name":"Changxing",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310300183,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Changxing",
+    "wof:parent_id": 890512583,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.76336,
     47.62977,
     124.76336,
     47.62977
-],
-  "geometry": {"coordinates":[124.76336000000001,47.62977],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.76336,
+      47.62977
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1193247815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.627,23.6663,108.627,23.6663",
-    "geom:latitude":23.6663,
-    "geom:longitude":108.627,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Basen",
-    "gn:country_code":"CN",
-    "gn:dem":253,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9934707,
-    "gn:latitude":23.6663,
-    "gn:longitude":108.627,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Basen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.607,23.6463,108.647,23.6863",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Basen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.627,23.6663,108.627,23.6663",
+    "geom:latitude": 23.6663,
+    "geom:longitude": 108.627,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Basen",
+    "gn:country_code": "CN",
+    "gn:dem": 253,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9934707,
+    "gn:latitude": 23.6663,
+    "gn:longitude": 108.627,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Basen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.607,23.6463,108.647,23.6863",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Basen"
     ],
-    "name:hye_x_preferred":[
-        "\u0532\u0561\u057d\u0565\u0576"
+    "name:hye_x_preferred": [
+      "Բասեն"
     ],
-    "name:pol_x_preferred":[
-        "Basen"
+    "name:pol_x_preferred": [
+      "Basen"
     ],
-    "name:zho_x_preferred":[
-        "\u5c9c\u68ee"
+    "name:zho_x_preferred": [
+      "岜森"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9934707
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9934707
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6ef1a430b112a66dcbaf1a4b55ae86a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1193247815,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6ef1a430b112a66dcbaf1a4b55ae86a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1193247815,
+        "region_id": 85669717,
+        "localadmin_id": 1127450125
+      }
     ],
-    "wof:id":1193247815,
-    "wof:lastmodified":1566684984,
-    "wof:name":"Basen",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193247815,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Basen",
+    "wof:parent_id": 1127450125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.627,
     23.6663,
     108.627,
     23.6663
-],
-  "geometry": {"coordinates":[108.627,23.6663],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.627,
+      23.6663
+    ],
+    "type": "Point"
+  }
 }

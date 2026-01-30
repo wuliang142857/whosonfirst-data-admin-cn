@@ -2,75 +2,83 @@
   "id": 1226423987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.408,24.6468,105.408,24.6468",
-    "geom:latitude":24.6468,
-    "geom:longitude":105.408,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Longbianyao",
-    "gn:country_code":"CN",
-    "gn:dem":1093,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9911636,
-    "gn:latitude":24.6468,
-    "gn:longitude":105.408,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Longbianyao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.388,24.6268,105.428,24.6668",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9f99\u8fb9\u8981"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.408,24.6468,105.408,24.6468",
+    "geom:latitude": 24.6468,
+    "geom:longitude": 105.408,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Longbianyao",
+    "gn:country_code": "CN",
+    "gn:dem": 1093,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9911636,
+    "gn:latitude": 24.6468,
+    "gn:longitude": 105.408,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Longbianyao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.388,24.6268,105.428,24.6668",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "龙边要"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451031
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9911636
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9911636
     },
-    "wof:country":"CN",
-    "wof:geomhash":"09807e3a8b5e5d84034dc4fb47650cc8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226423987,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "09807e3a8b5e5d84034dc4fb47650cc8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226423987,
+        "region_id": 85669717,
+        "localadmin_id": 1127451031
+      }
     ],
-    "wof:id":1226423987,
-    "wof:lastmodified":1566701424,
-    "wof:name":"Longbianyao",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226423987,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Longbianyao",
+    "wof:parent_id": 1127451031,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.408,
     24.6468,
     105.408,
     24.6468
-],
-  "geometry": {"coordinates":[105.408,24.6468],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.408,
+      24.6468
+    ],
+    "type": "Point"
+  }
 }

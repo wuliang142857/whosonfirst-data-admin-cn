@@ -2,75 +2,83 @@
   "id": 1209902857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.67019,30.55203,108.67019,30.55203",
-    "geom:latitude":30.55203,
-    "geom:longitude":108.67019,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Chuantou",
-    "gn:country_code":"CN",
-    "gn:dem":1240,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8516532,
-    "gn:latitude":30.55203,
-    "gn:longitude":108.67019,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Chuantou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.65019,30.53203,108.69019,30.57203",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8239\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.67019,30.55203,108.67019,30.55203",
+    "geom:latitude": 30.55203,
+    "geom:longitude": 108.67019,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Chuantou",
+    "gn:country_code": "CN",
+    "gn:dem": 1240,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8516532,
+    "gn:latitude": 30.55203,
+    "gn:longitude": 108.67019,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Chuantou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.65019,30.53203,108.69019,30.57203",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "船头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512637,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8516532
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8516532
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0623527b953e3d93df65a8bfeca6a153",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1209902857,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0623527b953e3d93df65a8bfeca6a153",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1209902857,
+        "region_id": 85669777,
+        "localadmin_id": 890512637
+      }
     ],
-    "wof:id":1209902857,
-    "wof:lastmodified":1566679979,
-    "wof:name":"Chuantou",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209902857,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Chuantou",
+    "wof:parent_id": 890512637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.67019,
     30.55203,
     108.67019,
     30.55203
-],
-  "geometry": {"coordinates":[108.67019000000001,30.55203],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.67019,
+      30.55203
+    ],
+    "type": "Point"
+  }
 }

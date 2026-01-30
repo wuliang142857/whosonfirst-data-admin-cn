@@ -2,78 +2,86 @@
   "id": 1259345159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.64204,42.71868,123.64204,42.71868",
-    "geom:latitude":42.71868,
-    "geom:longitude":123.64204,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Hongxincun",
-    "gn:country_code":"CN",
-    "gn:dem":78,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11485712,
-    "gn:latitude":42.71868,
-    "gn:longitude":123.64204,
-    "gn:modification_date":"2018-03-10",
-    "gn:name":"Hongxincun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.62204,42.69868,123.66204,42.73868",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7ea2\u5fc3\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.64204,42.71868,123.64204,42.71868",
+    "geom:latitude": 42.71868,
+    "geom:longitude": 123.64204,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Hongxincun",
+    "gn:country_code": "CN",
+    "gn:dem": 78,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11485712,
+    "gn:latitude": 42.71868,
+    "gn:longitude": 123.64204,
+    "gn:modification_date": "2018-03-10",
+    "gn:name": "Hongxincun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.62204,42.69868,123.66204,42.73868",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "红心村"
     ],
-    "name:zho_x_variant":[
-        "\u7ea2\u65b0\u6751"
+    "name:zho_x_variant": [
+      "红新村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890512563,
+      890514741
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11485712
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11485712
     },
-    "wof:country":"CN",
-    "wof:geomhash":"270167fbf031eed0670792320cbea086",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1259345159,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "270167fbf031eed0670792320cbea086",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1259345159,
+        "region_id": 85669807,
+        "localadmin_id": 890512563
+      }
     ],
-    "wof:id":1259345159,
-    "wof:lastmodified":1566700116,
-    "wof:name":"Hongxincun",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259345159,
+    "wof:lastmodified": 1768666117,
+    "wof:name": "Hongxincun",
+    "wof:parent_id": 890512563,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.64204,
     42.71868,
     123.64204,
     42.71868
-],
-  "geometry": {"coordinates":[123.64203999999999,42.71868],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.64204,
+      42.71868
+    ],
+    "type": "Point"
+  }
 }

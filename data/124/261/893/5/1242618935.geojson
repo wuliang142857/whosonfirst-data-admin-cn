@@ -2,75 +2,83 @@
   "id": 1242618935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.781,31.182,105.781,31.182",
-    "geom:latitude":31.182,
-    "geom:longitude":105.781,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shuangbaishu",
-    "gn:country_code":"CN",
-    "gn:dem":386,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163890,
-    "gn:latitude":31.182,
-    "gn:longitude":105.781,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shuangbaishu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.761,31.162,105.801,31.202",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53cc\u67cf\u6811"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.781,31.182,105.781,31.182",
+    "geom:latitude": 31.182,
+    "geom:longitude": 105.781,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shuangbaishu",
+    "gn:country_code": "CN",
+    "gn:dem": 386,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163890,
+    "gn:latitude": 31.182,
+    "gn:longitude": 105.781,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shuangbaishu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.761,31.162,105.801,31.202",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "双柏树"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      1127511325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163890
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163890
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e051fcd7e96231c3807f7565638ef2c8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1242618935,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e051fcd7e96231c3807f7565638ef2c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1242618935,
+        "region_id": 85669787,
+        "localadmin_id": 1127511325
+      }
     ],
-    "wof:id":1242618935,
-    "wof:lastmodified":1566694904,
-    "wof:name":"Shuangbaishu",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242618935,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Shuangbaishu",
+    "wof:parent_id": 1127511325,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.781,
     31.182,
     105.781,
     31.182
-],
-  "geometry": {"coordinates":[105.78100000000001,31.182],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.781,
+      31.182
+    ],
+    "type": "Point"
+  }
 }

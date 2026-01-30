@@ -2,79 +2,87 @@
   "id": 1243252353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.15904,40.02681,119.15904,40.02681",
-    "geom:latitude":40.02681,
-    "geom:longitude":119.15904,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Maguying",
-    "gn:country_code":"CN",
-    "gn:dem":75,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2035879,
-    "gn:latitude":40.02681,
-    "gn:longitude":119.15904,
-    "gn:modification_date":"2015-01-07",
-    "gn:name":"Maguying",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.13904,40.00681,119.17904,40.04681",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ma-ku-ying",
-        "Maguying"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.15904,40.02681,119.15904,40.02681",
+    "geom:latitude": 40.02681,
+    "geom:longitude": 119.15904,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Maguying",
+    "gn:country_code": "CN",
+    "gn:dem": 75,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2035879,
+    "gn:latitude": 40.02681,
+    "gn:longitude": 119.15904,
+    "gn:modification_date": "2015-01-07",
+    "gn:name": "Maguying",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.13904,40.00681,119.17904,40.04681",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ma-ku-ying",
+      "Maguying"
     ],
-    "name:zho_x_preferred":[
-        "\u9ebb\u59d1\u8425"
+    "name:zho_x_preferred": [
+      "麻姑营"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513075
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513075,
+      1127130306
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2035879
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2035879
     },
-    "wof:country":"CN",
-    "wof:geomhash":"290862812e3ff3f1ba81b66b90375ac3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513075,
-            "empire_id":136253041,
-            "locality_id":1243252353,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "290862812e3ff3f1ba81b66b90375ac3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513075,
+        "empire_id": 136253041,
+        "locality_id": 1243252353,
+        "region_id": 85669797,
+        "localadmin_id": 1127130306
+      }
     ],
-    "wof:id":1243252353,
-    "wof:lastmodified":1566695820,
-    "wof:name":"Maguying",
-    "wof:parent_id":890513075,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243252353,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Maguying",
+    "wof:parent_id": 1127130306,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.15904,
     40.02681,
     119.15904,
     40.02681
-],
-  "geometry": {"coordinates":[119.15904,40.02681],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.15904,
+      40.02681
+    ],
+    "type": "Point"
+  }
 }

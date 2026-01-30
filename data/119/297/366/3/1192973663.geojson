@@ -2,78 +2,86 @@
   "id": 1192973663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.39453,36.04303,119.39453,36.04303",
-    "geom:latitude":36.04303,
-    "geom:longitude":119.39453,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Ludui",
-    "gn:country_code":"CN",
-    "gn:dem":58,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8719077,
-    "gn:latitude":36.04303,
-    "gn:longitude":119.39453,
-    "gn:modification_date":"2014-03-11",
-    "gn:name":"L\u00fcdui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.37453,36.02303,119.41453,36.06303",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "L\u00fcdui"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.39453,36.04303,119.39453,36.04303",
+    "geom:latitude": 36.04303,
+    "geom:longitude": 119.39453,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Ludui",
+    "gn:country_code": "CN",
+    "gn:dem": 58,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8719077,
+    "gn:latitude": 36.04303,
+    "gn:longitude": 119.39453,
+    "gn:modification_date": "2014-03-11",
+    "gn:name": "Lüdui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.37453,36.02303,119.41453,36.06303",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lüdui"
     ],
-    "name:zho_x_preferred":[
-        "\u5415\u5151"
+    "name:zho_x_preferred": [
+      "吕兑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514755
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890513353,
+      890514755
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8719077
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8719077
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7f2106a7c35af2d08964d229c65a10d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514755,
-            "empire_id":136253041,
-            "locality_id":1192973663,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7f2106a7c35af2d08964d229c65a10d0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514755,
+        "empire_id": 136253041,
+        "locality_id": 1192973663,
+        "region_id": 85669813,
+        "localadmin_id": 890513353
+      }
     ],
-    "wof:id":1192973663,
-    "wof:lastmodified":1566685663,
-    "wof:name":"Ludui",
-    "wof:parent_id":890514755,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192973663,
+    "wof:lastmodified": 1768667969,
+    "wof:name": "Ludui",
+    "wof:parent_id": 890513353,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.39453,
     36.04303,
     119.39453,
     36.04303
-],
-  "geometry": {"coordinates":[119.39453,36.04303],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.39453,
+      36.04303
+    ],
+    "type": "Point"
+  }
 }

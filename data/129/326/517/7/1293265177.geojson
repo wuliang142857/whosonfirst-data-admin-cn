@@ -2,84 +2,92 @@
   "id": 1293265177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.13544,33.82147,106.13544,33.82147",
-    "geom:latitude":33.82147,
-    "geom:longitude":106.13544,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Taibo",
-    "gn:country_code":"CN",
-    "gn:dem":943,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7407772,
-    "gn:latitude":33.82147,
-    "gn:longitude":106.13544,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Taibo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.11544,33.80147,106.15544,33.84147",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:jpn_x_preferred":[
-        "\u592a\u4f2f\u30fb\u865e\u4ef2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.13544,33.82147,106.13544,33.82147",
+    "geom:latitude": 33.82147,
+    "geom:longitude": 106.13544,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Taibo",
+    "gn:country_code": "CN",
+    "gn:dem": 943,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7407772,
+    "gn:latitude": 33.82147,
+    "gn:longitude": 106.13544,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Taibo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.11544,33.80147,106.15544,33.84147",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:jpn_x_preferred": [
+      "太伯・虞仲"
     ],
-    "name:kor_x_preferred":[
-        "\uc624 \ud0dc\ubc31"
+    "name:kor_x_preferred": [
+      "오 태백"
     ],
-    "name:tha_x_preferred":[
-        "\u0e2d\u0e39\u0e4b\u0e44\u0e17\u0e48\u0e1b\u0e31\u0e4b\u0e27"
+    "name:tha_x_preferred": [
+      "อู๋ไท่ปั๋ว"
     ],
-    "name:und_x_variant":[
-        "\u6cf0\u4f2f"
+    "name:und_x_variant": [
+      "泰伯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621227
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7407772
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7407772
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f3d61eddf4ea35426c75084bdbc8e160",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1293265177,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f3d61eddf4ea35426c75084bdbc8e160",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1293265177,
+        "region_id": 85669711,
+        "localadmin_id": 1127621227
+      }
     ],
-    "wof:id":1293265177,
-    "wof:lastmodified":1566671718,
-    "wof:name":"Taibo",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293265177,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Taibo",
+    "wof:parent_id": 1127621227,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.13544,
     33.82147,
     106.13544,
     33.82147
-],
-  "geometry": {"coordinates":[106.13544,33.82147],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.13544,
+      33.82147
+    ],
+    "type": "Point"
+  }
 }

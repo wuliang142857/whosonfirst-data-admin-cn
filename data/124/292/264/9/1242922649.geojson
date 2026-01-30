@@ -2,75 +2,83 @@
   "id": 1242922649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.542,28.3464,105.542,28.3464",
-    "geom:latitude":28.3464,
-    "geom:longitude":105.542,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yangcunkan",
-    "gn:country_code":"CN",
-    "gn:dem":385,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183570,
-    "gn:latitude":28.3464,
-    "gn:longitude":105.542,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Yangcunkan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.522,28.3264,105.562,28.3664",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9633\u6751\u574e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.542,28.3464,105.542,28.3464",
+    "geom:latitude": 28.3464,
+    "geom:longitude": 105.542,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yangcunkan",
+    "gn:country_code": "CN",
+    "gn:dem": 385,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183570,
+    "gn:latitude": 28.3464,
+    "gn:longitude": 105.542,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Yangcunkan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.522,28.3264,105.562,28.3664",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "阳村坎"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183570
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183570
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9c586d6ae98e95392a931362c78de743",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1242922649,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9c586d6ae98e95392a931362c78de743",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1242922649,
+        "region_id": 85669787,
+        "localadmin_id": 1127510524
+      }
     ],
-    "wof:id":1242922649,
-    "wof:lastmodified":1566694835,
-    "wof:name":"Yangcunkan",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242922649,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Yangcunkan",
+    "wof:parent_id": 1127510524,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.542,
     28.3464,
     105.542,
     28.3464
-],
-  "geometry": {"coordinates":[105.542,28.3464],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.542,
+      28.3464
+    ],
+    "type": "Point"
+  }
 }

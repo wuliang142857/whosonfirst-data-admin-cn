@@ -2,73 +2,81 @@
   "id": 1327065433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.53404,19.91217,109.53404,19.91217",
-    "geom:latitude":19.91217,
-    "geom:longitude":109.53404,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Kunshe",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7642697,
-    "gn:latitude":19.91217,
-    "gn:longitude":109.53404,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Kunshe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.51404,19.89217,109.55404,19.93217",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6606\u793e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.53404,19.91217,109.53404,19.91217",
+    "geom:latitude": 19.91217,
+    "geom:longitude": 109.53404,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Kunshe",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7642697,
+    "gn:latitude": 19.91217,
+    "gn:longitude": 109.53404,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Kunshe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.51404,19.89217,109.55404,19.93217",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "昆社"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732341
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890516733,
+      1108732341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7642697
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7642697
     },
-    "wof:country":"CN",
-    "wof:geomhash":"816eadc1ad629424c66550197c039879",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732341,
-            "locality_id":1327065433,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "816eadc1ad629424c66550197c039879",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732341,
+        "locality_id": 1327065433,
+        "region_id": 85669759,
+        "localadmin_id": 890516733
+      }
     ],
-    "wof:id":1327065433,
-    "wof:lastmodified":1566646761,
-    "wof:name":"Kunshe",
-    "wof:parent_id":1108732341,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327065433,
+    "wof:lastmodified": 1768671261,
+    "wof:name": "Kunshe",
+    "wof:parent_id": 890516733,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.53404,
     19.91217,
     109.53404,
     19.91217
-],
-  "geometry": {"coordinates":[109.53404,19.91217],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.53404,
+      19.91217
+    ],
+    "type": "Point"
+  }
 }

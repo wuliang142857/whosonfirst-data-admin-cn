@@ -2,75 +2,83 @@
   "id": 1276735637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.728,35.3882,104.728,35.3882",
-    "geom:latitude":35.3882,
-    "geom:longitude":104.728,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Qianxia",
-    "gn:country_code":"CN",
-    "gn:dem":2164,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10755322,
-    "gn:latitude":35.3882,
-    "gn:longitude":104.728,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Qianxia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.708,35.3682,104.748,35.4082",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u524d\u5ce1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.728,35.3882,104.728,35.3882",
+    "geom:latitude": 35.3882,
+    "geom:longitude": 104.728,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Qianxia",
+    "gn:country_code": "CN",
+    "gn:dem": 2164,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10755322,
+    "gn:latitude": 35.3882,
+    "gn:longitude": 104.728,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Qianxia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.708,35.3682,104.748,35.4082",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "前峡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621102
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10755322
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10755322
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fa76233fa10190550bbeb4857d8c3ffc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1276735637,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fa76233fa10190550bbeb4857d8c3ffc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1276735637,
+        "region_id": 85669711,
+        "localadmin_id": 1127621102
+      }
     ],
-    "wof:id":1276735637,
-    "wof:lastmodified":1566673540,
-    "wof:name":"Qianxia",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276735637,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Qianxia",
+    "wof:parent_id": 1127621102,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.728,
     35.3882,
     104.728,
     35.3882
-],
-  "geometry": {"coordinates":[104.72799999999999,35.3882],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.728,
+      35.3882
+    ],
+    "type": "Point"
+  }
 }

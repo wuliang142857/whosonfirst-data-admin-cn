@@ -2,79 +2,87 @@
   "id": 1293934047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.6386,26.28377,103.6386,26.28377",
-    "geom:latitude":26.28377,
-    "geom:longitude":103.6386,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Xiaotiechang",
-    "gn:country_code":"CN",
-    "gn:dem":2023,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":9076183,
-    "gn:latitude":26.28377,
-    "gn:longitude":103.6386,
-    "gn:modification_date":"2014-06-06",
-    "gn:name":"Xiaotiechang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.6186,26.26377,103.6586,26.30377",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5c0f\u94c1\u5382",
-        "Luna",
-        "Luna Xiang",
-        "\u9c81\u7eb3",
-        "\u9c81\u7eb3\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.6386,26.28377,103.6386,26.28377",
+    "geom:latitude": 26.28377,
+    "geom:longitude": 103.6386,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Xiaotiechang",
+    "gn:country_code": "CN",
+    "gn:dem": 2023,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 9076183,
+    "gn:latitude": 26.28377,
+    "gn:longitude": 103.6386,
+    "gn:modification_date": "2014-06-06",
+    "gn:name": "Xiaotiechang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.6186,26.26377,103.6586,26.30377",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "小铁厂",
+      "Luna",
+      "Luna Xiang",
+      "鲁纳",
+      "鲁纳乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890515167
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890515167,
+      1127530326
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9076183
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9076183
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cf3dd95c523e6bc1b88d3b1ac0987527",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515167,
-            "empire_id":136253041,
-            "locality_id":1293934047,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cf3dd95c523e6bc1b88d3b1ac0987527",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515167,
+        "empire_id": 136253041,
+        "locality_id": 1293934047,
+        "region_id": 85669791,
+        "localadmin_id": 1127530326
+      }
     ],
-    "wof:id":1293934047,
-    "wof:lastmodified":1566669602,
-    "wof:name":"Xiaotiechang",
-    "wof:parent_id":890515167,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293934047,
+    "wof:lastmodified": 1768668182,
+    "wof:name": "Xiaotiechang",
+    "wof:parent_id": 1127530326,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.6386,
     26.28377,
     103.6386,
     26.28377
-],
-  "geometry": {"coordinates":[103.6386,26.28377],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.6386,
+      26.28377
+    ],
+    "type": "Point"
+  }
 }

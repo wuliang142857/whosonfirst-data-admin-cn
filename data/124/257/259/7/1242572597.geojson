@@ -2,75 +2,83 @@
   "id": 1242572597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.948,37.7413,114.948,37.7413",
-    "geom:latitude":37.7413,
-    "geom:longitude":114.948,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Yanghu",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1911819,
-    "gn:latitude":37.7413,
-    "gn:longitude":114.948,
-    "gn:modification_date":"2014-09-06",
-    "gn:name":"Yanghu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.928,37.7213,114.968,37.7613",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u6248"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.948,37.7413,114.948,37.7413",
+    "geom:latitude": 37.7413,
+    "geom:longitude": 114.948,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Yanghu",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1911819,
+    "gn:latitude": 37.7413,
+    "gn:longitude": 114.948,
+    "gn:modification_date": "2014-09-06",
+    "gn:name": "Yanghu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.928,37.7213,114.968,37.7613",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨扈"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890515171
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890512757,
+      890515171
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1911819
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1911819
     },
-    "wof:country":"CN",
-    "wof:geomhash":"61e51cf7159c2f0d711f28f4f80fc247",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515171,
-            "empire_id":136253041,
-            "locality_id":1242572597,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "61e51cf7159c2f0d711f28f4f80fc247",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515171,
+        "empire_id": 136253041,
+        "locality_id": 1242572597,
+        "region_id": 85669797,
+        "localadmin_id": 890512757
+      }
     ],
-    "wof:id":1242572597,
-    "wof:lastmodified":1566694725,
-    "wof:name":"Yanghu",
-    "wof:parent_id":890515171,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242572597,
+    "wof:lastmodified": 1768669476,
+    "wof:name": "Yanghu",
+    "wof:parent_id": 890512757,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.948,
     37.7413,
     114.948,
     37.7413
-],
-  "geometry": {"coordinates":[114.94799999999999,37.7413],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.948,
+      37.7413
+    ],
+    "type": "Point"
+  }
 }

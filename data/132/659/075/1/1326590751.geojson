@@ -2,75 +2,83 @@
   "id": 1326590751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.56478,25.56746,102.56478,25.56746",
-    "geom:latitude":25.56746,
-    "geom:longitude":102.56478,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Xinhua",
-    "gn:country_code":"CN",
-    "gn:dem":1918,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9079891,
-    "gn:latitude":25.56746,
-    "gn:longitude":102.56478,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Xinhua",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.54478,25.54746,102.58478,25.58746",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u65b0\u534e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.56478,25.56746,102.56478,25.56746",
+    "geom:latitude": 25.56746,
+    "geom:longitude": 102.56478,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Xinhua",
+    "gn:country_code": "CN",
+    "gn:dem": 1918,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9079891,
+    "gn:latitude": 25.56746,
+    "gn:longitude": 102.56478,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Xinhua",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.54478,25.54746,102.58478,25.58746",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "新华"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530128
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9079891
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9079891
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d668c13205573653d78f15f6fa800e6a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1326590751,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d668c13205573653d78f15f6fa800e6a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1326590751,
+        "region_id": 85669791,
+        "localadmin_id": 1127530128
+      }
     ],
-    "wof:id":1326590751,
-    "wof:lastmodified":1566649307,
-    "wof:name":"Xinhua",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326590751,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Xinhua",
+    "wof:parent_id": 1127530128,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.56478,
     25.56746,
     102.56478,
     25.56746
-],
-  "geometry": {"coordinates":[102.56478,25.56746],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.56478,
+      25.56746
+    ],
+    "type": "Point"
+  }
 }

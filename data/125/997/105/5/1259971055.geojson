@@ -2,78 +2,86 @@
   "id": 1259971055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.09295,26.04956,118.09295,26.04956",
-    "geom:latitude":26.04956,
-    "geom:longitude":118.09295,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Taizi",
-    "gn:country_code":"CN",
-    "gn:dem":240,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7623123,
-    "gn:latitude":26.04956,
-    "gn:longitude":118.09295,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Taizi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.07295,26.02956,118.11295,26.06956",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53f0\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.09295,26.04956,118.09295,26.04956",
+    "geom:latitude": 26.04956,
+    "geom:longitude": 118.09295,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Taizi",
+    "gn:country_code": "CN",
+    "gn:dem": 240,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7623123,
+    "gn:latitude": 26.04956,
+    "gn:longitude": 118.09295,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Taizi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.07295,26.02956,118.11295,26.06956",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "台子"
     ],
-    "name:zho_x_variant":[
-        "\u592a\u5b50#\u4e2d\u56fd"
+    "name:zho_x_variant": [
+      "太子#中国"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516573
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516573,
+      1127350426
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7623123
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7623123
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4267e82ee387086f27238ea238a4098d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516573,
-            "empire_id":136253041,
-            "locality_id":1259971055,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4267e82ee387086f27238ea238a4098d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516573,
+        "empire_id": 136253041,
+        "locality_id": 1259971055,
+        "region_id": 85669735,
+        "localadmin_id": 1127350426
+      }
     ],
-    "wof:id":1259971055,
-    "wof:lastmodified":1566698439,
-    "wof:name":"Taizi",
-    "wof:parent_id":890516573,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259971055,
+    "wof:lastmodified": 1768669088,
+    "wof:name": "Taizi",
+    "wof:parent_id": 1127350426,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.09295,
     26.04956,
     118.09295,
     26.04956
-],
-  "geometry": {"coordinates":[118.09295,26.04956],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.09295,
+      26.04956
+    ],
+    "type": "Point"
+  }
 }

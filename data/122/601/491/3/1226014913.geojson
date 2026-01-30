@@ -2,81 +2,89 @@
   "id": 1226014913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.53333,35.53333,105.53333,35.53333",
-    "geom:latitude":35.53333,
-    "geom:longitude":105.53333,
-    "gn:admin1_code":"15",
-    "gn:asciiname":"Jieshipu",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1900,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1805852,
-    "gn:latitude":35.53333,
-    "gn:longitude":105.53333,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Jieshipu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.51333,35.51333,105.55333,35.55333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chieh-shih-p\u2019u",
-        "Chai-shih-p\u2019u",
-        "Chieh-shih-pao",
-        "Tszyayshipu",
-        "Tszvayshipu",
-        "Jieshipu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.53333,35.53333,105.53333,35.53333",
+    "geom:latitude": 35.53333,
+    "geom:longitude": 105.53333,
+    "gn:admin1_code": "15",
+    "gn:asciiname": "Jieshipu",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1900,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1805852,
+    "gn:latitude": 35.53333,
+    "gn:longitude": 105.53333,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Jieshipu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.51333,35.51333,105.55333,35.55333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chieh-shih-p’u",
+      "Chai-shih-p’u",
+      "Chieh-shih-pao",
+      "Tszyayshipu",
+      "Tszvayshipu",
+      "Jieshipu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516253
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516253,
+      1127620826
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1805852
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1805852
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b3328fc5e85ec429f7f2492356b51e6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516253,
-            "empire_id":136253041,
-            "locality_id":1226014913,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b3328fc5e85ec429f7f2492356b51e6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516253,
+        "empire_id": 136253041,
+        "locality_id": 1226014913,
+        "region_id": 85669711,
+        "localadmin_id": 1127620826
+      }
     ],
-    "wof:id":1226014913,
-    "wof:lastmodified":1566705217,
-    "wof:name":"Jieshipu",
-    "wof:parent_id":890516253,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226014913,
+    "wof:lastmodified": 1768666732,
+    "wof:name": "Jieshipu",
+    "wof:parent_id": 1127620826,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.53333,
     35.53333,
     105.53333,
     35.53333
-],
-  "geometry": {"coordinates":[105.53333000000001,35.53333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.53333,
+      35.53333
+    ],
+    "type": "Point"
+  }
 }

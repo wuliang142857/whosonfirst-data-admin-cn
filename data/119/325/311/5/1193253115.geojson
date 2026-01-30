@@ -2,80 +2,88 @@
   "id": 1193253115,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.58333,42.46667,123.58333,42.46667",
-    "geom:latitude":42.46667,
-    "geom:longitude":123.58333,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Sanjiazi",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":83,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2035126,
-    "gn:latitude":42.46667,
-    "gn:longitude":123.58333,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Sanjiazi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.56333,42.44667,123.60333,42.48667",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "San-chia-tzu",
-        "Sanjiazi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.58333,42.46667,123.58333,42.46667",
+    "geom:latitude": 42.46667,
+    "geom:longitude": 123.58333,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Sanjiazi",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 83,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2035126,
+    "gn:latitude": 42.46667,
+    "gn:longitude": 123.58333,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Sanjiazi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.56333,42.44667,123.60333,42.48667",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "San-chia-tzu",
+      "Sanjiazi"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u5bb6\u5b50\u6751"
+    "name:zho_x_preferred": [
+      "三家子村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514741,
+      1127211281
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2035126
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2035126
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e8f9e253f6060a35e8e39494f41a9578",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1193253115,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e8f9e253f6060a35e8e39494f41a9578",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1193253115,
+        "region_id": 85669807,
+        "localadmin_id": 1127211281
+      }
     ],
-    "wof:id":1193253115,
-    "wof:lastmodified":1566685391,
-    "wof:name":"Sanjiazi",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193253115,
+    "wof:lastmodified": 1768666118,
+    "wof:name": "Sanjiazi",
+    "wof:parent_id": 1127211281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.58333,
     42.46667,
     123.58333,
     42.46667
-],
-  "geometry": {"coordinates":[123.58333,42.46667],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.58333,
+      42.46667
+    ],
+    "type": "Point"
+  }
 }

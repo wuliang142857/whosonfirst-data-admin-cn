@@ -2,77 +2,85 @@
   "id": 1276610417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.16972,34.00611,108.16972,34.00611",
-    "geom:latitude":34.00611,
-    "geom:longitude":108.16972,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Ganguwan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":928,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1810723,
-    "gn:latitude":34.00611,
-    "gn:longitude":108.16972,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Ganguwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.14972,33.98611,108.18972,34.02611",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Kan-ku-wan",
-        "Ganguwan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.16972,34.00611,108.16972,34.00611",
+    "geom:latitude": 34.00611,
+    "geom:longitude": 108.16972,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Ganguwan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 928,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1810723,
+    "gn:latitude": 34.00611,
+    "gn:longitude": 108.16972,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Ganguwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.14972,33.98611,108.18972,34.02611",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Kan-ku-wan",
+      "Ganguwan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810723
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810723
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2a768dd9673e29746b3dede8203b9a59",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1276610417,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2a768dd9673e29746b3dede8203b9a59",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1276610417,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1276610417,
-    "wof:lastmodified":1566674890,
-    "wof:name":"Ganguwan",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276610417,
+    "wof:lastmodified": 1768668692,
+    "wof:name": "Ganguwan",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.16972,
     34.00611,
     108.16972,
     34.00611
-],
-  "geometry": {"coordinates":[108.16972,34.00611],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.16972,
+      34.00611
+    ],
+    "type": "Point"
+  }
 }

@@ -2,93 +2,101 @@
   "id": 1243545943,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.64099,26.007,119.64099,26.007",
-    "geom:latitude":26.007,
-    "geom:longitude":119.64099,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Fushan",
-    "gn:country_code":"CN",
-    "gn:dem":10,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8575304,
-    "gn:latitude":26.007,
-    "gn:longitude":119.64099,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Fushan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.62099,25.987,119.66099,26.027",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Fushan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.64099,26.007,119.64099,26.007",
+    "geom:latitude": 26.007,
+    "geom:longitude": 119.64099,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Fushan",
+    "gn:country_code": "CN",
+    "gn:dem": 10,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8575304,
+    "gn:latitude": 26.007,
+    "gn:longitude": 119.64099,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Fushan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.62099,25.987,119.66099,26.027",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Fushan"
     ],
-    "name:deu_x_preferred":[
-        "Fushan"
+    "name:deu_x_preferred": [
+      "Fushan"
     ],
-    "name:fra_x_preferred":[
-        "Fushan"
+    "name:fra_x_preferred": [
+      "Fushan"
     ],
-    "name:nor_x_preferred":[
-        "Fushan"
+    "name:nor_x_preferred": [
+      "Fushan"
     ],
-    "name:rus_x_preferred":[
-        "\u0424\u0443\u0448\u0430\u043d\u044c"
+    "name:rus_x_preferred": [
+      "Фушань"
     ],
-    "name:swe_x_preferred":[
-        "Fushan"
+    "name:swe_x_preferred": [
+      "Fushan"
     ],
-    "name:zho_x_preferred":[
-        "\u961c\u5c71"
+    "name:zho_x_preferred": [
+      "阜山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513115,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8575304
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8575304
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bcd647a7f491a61905ae8376cbaa0da3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1243545943,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bcd647a7f491a61905ae8376cbaa0da3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1243545943,
+        "region_id": 85669735,
+        "localadmin_id": 890513115
+      }
     ],
-    "wof:id":1243545943,
-    "wof:lastmodified":1566693981,
-    "wof:name":"Fushan",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243545943,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Fushan",
+    "wof:parent_id": 890513115,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.64099,
     26.007,
     119.64099,
     26.007
-],
-  "geometry": {"coordinates":[119.64099,26.007],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.64099,
+      26.007
+    ],
+    "type": "Point"
+  }
 }

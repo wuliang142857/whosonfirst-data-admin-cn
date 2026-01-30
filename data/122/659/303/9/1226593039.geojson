@@ -2,75 +2,83 @@
   "id": 1226593039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.354,29.3319,105.354,29.3319",
-    "geom:latitude":29.3319,
-    "geom:longitude":105.354,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shangliu",
-    "gn:country_code":"CN",
-    "gn:dem":338,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10187242,
-    "gn:latitude":29.3319,
-    "gn:longitude":105.354,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shangliu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.334,29.3119,105.374,29.3519",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u6d41"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.354,29.3319,105.354,29.3319",
+    "geom:latitude": 29.3319,
+    "geom:longitude": 105.354,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shangliu",
+    "gn:country_code": "CN",
+    "gn:dem": 338,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10187242,
+    "gn:latitude": 29.3319,
+    "gn:longitude": 105.354,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shangliu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.334,29.3119,105.374,29.3519",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上流"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10187242
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10187242
     },
-    "wof:country":"CN",
-    "wof:geomhash":"33b36a7b5986561963a3aec565136da8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1226593039,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "33b36a7b5986561963a3aec565136da8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1226593039,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1226593039,
-    "wof:lastmodified":1566702469,
-    "wof:name":"Shangliu",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226593039,
+    "wof:lastmodified": 1768668256,
+    "wof:name": "Shangliu",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.354,
     29.3319,
     105.354,
     29.3319
-],
-  "geometry": {"coordinates":[105.354,29.3319],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.354,
+      29.3319
+    ],
+    "type": "Point"
+  }
 }

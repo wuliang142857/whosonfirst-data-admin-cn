@@ -2,75 +2,83 @@
   "id": 1293264573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.823,22.9311,108.823,22.9311",
-    "geom:latitude":22.9311,
-    "geom:longitude":108.823,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Nadong",
-    "gn:country_code":"CN",
-    "gn:dem":186,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9895883,
-    "gn:latitude":22.9311,
-    "gn:longitude":108.823,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Nadong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.803,22.9111,108.843,22.9511",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a3\u5cbd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.823,22.9311,108.823,22.9311",
+    "geom:latitude": 22.9311,
+    "geom:longitude": 108.823,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Nadong",
+    "gn:country_code": "CN",
+    "gn:dem": 186,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9895883,
+    "gn:latitude": 22.9311,
+    "gn:longitude": 108.823,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Nadong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.803,22.9111,108.843,22.9511",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "那岽"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450181
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9895883
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9895883
     },
-    "wof:country":"CN",
-    "wof:geomhash":"db1cc4d19519abf5856c6ecd341c4bb5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1293264573,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "db1cc4d19519abf5856c6ecd341c4bb5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1293264573,
+        "region_id": 85669717,
+        "localadmin_id": 1127450181
+      }
     ],
-    "wof:id":1293264573,
-    "wof:lastmodified":1566671758,
-    "wof:name":"Nadong",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293264573,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Nadong",
+    "wof:parent_id": 1127450181,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.823,
     22.9311,
     108.823,
     22.9311
-],
-  "geometry": {"coordinates":[108.82299999999999,22.9311],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.823,
+      22.9311
+    ],
+    "type": "Point"
+  }
 }

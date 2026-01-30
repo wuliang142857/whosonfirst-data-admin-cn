@@ -2,78 +2,86 @@
   "id": 1276662507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.59659,31.73535,119.59659,31.73535",
-    "geom:latitude":31.73535,
-    "geom:longitude":119.59659,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Wutong",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8394846,
-    "gn:latitude":31.73535,
-    "gn:longitude":119.59659,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Wutong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.57659,31.71535,119.61659,31.75535",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Wutong"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.59659,31.73535,119.59659,31.73535",
+    "geom:latitude": 31.73535,
+    "geom:longitude": 119.59659,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Wutong",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8394846,
+    "gn:latitude": 31.73535,
+    "gn:longitude": 119.59659,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Wutong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.57659,31.71535,119.61659,31.75535",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Wutong"
     ],
-    "name:zho_x_preferred":[
-        "\u68a7\u6850"
+    "name:zho_x_preferred": [
+      "梧桐"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513141,
+      890514735
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8394846
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8394846
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e1765f3bbf2d804e0f5d7a8dd266bcff",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514735,
-            "empire_id":136253041,
-            "locality_id":1276662507,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e1765f3bbf2d804e0f5d7a8dd266bcff",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514735,
+        "empire_id": 136253041,
+        "locality_id": 1276662507,
+        "region_id": 85669827,
+        "localadmin_id": 890513141
+      }
     ],
-    "wof:id":1276662507,
-    "wof:lastmodified":1566674824,
-    "wof:name":"Wutong",
-    "wof:parent_id":890514735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276662507,
+    "wof:lastmodified": 1768671038,
+    "wof:name": "Wutong",
+    "wof:parent_id": 890513141,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.59659,
     31.73535,
     119.59659,
     31.73535
-],
-  "geometry": {"coordinates":[119.59659000000001,31.73535],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.59659,
+      31.73535
+    ],
+    "type": "Point"
+  }
 }

@@ -2,80 +2,88 @@
   "id": 890512053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.81667,29.59583,120.81667,29.59583",
-    "geom:latitude":29.59583,
-    "geom:longitude":120.81667,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"120.79667,29.57583,120.83667,29.61583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019eng-hsien"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.81667,29.59583,120.81667,29.59583",
+    "geom:latitude": 29.59583,
+    "geom:longitude": 120.81667,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "120.79667,29.57583,120.83667,29.61583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’eng-hsien"
     ],
-    "name:zho_x_preferred":[
-        "\u5d4a\u5dde\u5e02"
+    "name:zho_x_preferred": [
+      "嵊州市"
     ],
-    "name:zho_x_variant":[
-        "\u5261\u6e56",
-        "\u5261\u6e56\u8857\u9053"
+    "name:zho_x_variant": [
+      "剡湖",
+      "剡湖街道"
     ],
-    "qs:name":"Shengzhou Shi",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513785
+    "qs:name": "Shengzhou Shi",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513785,
+      1127330683
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795647,
-        "gp:id":2132610,
-        "qs_pg:id":903665
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795647,
+      "gp:id": 2132610,
+      "qs_pg:id": 903665
     },
-    "wof:country":"CN",
-    "wof:created":1469055756,
-    "wof:geomhash":"98250d6717f7486c160352befbd5578f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "locality_id":890512053,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055756,
+    "wof:geomhash": "98250d6717f7486c160352befbd5578f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "locality_id": 890512053,
+        "region_id": 85669835,
+        "localadmin_id": 1127330683
+      }
     ],
-    "wof:id":890512053,
-    "wof:lastmodified":1566693741,
-    "wof:name":"Shengzhou Shi",
-    "wof:parent_id":890513785,
-    "wof:placetype":"locality",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890512053,
+    "wof:lastmodified": 1768669996,
+    "wof:name": "Shengzhou Shi",
+    "wof:parent_id": 1127330683,
+    "wof:placetype": "locality",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.81667,
     29.59583,
     120.81667,
     29.59583
-],
-  "geometry": {"coordinates":[120.81667,29.59583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.81667,
+      29.59583
+    ],
+    "type": "Point"
+  }
 }

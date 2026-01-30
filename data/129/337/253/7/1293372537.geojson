@@ -2,75 +2,83 @@
   "id": 1293372537,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.11,34.8985,105.11,34.8985",
-    "geom:latitude":34.8985,
-    "geom:longitude":105.11,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Weijiaping",
-    "gn:country_code":"CN",
-    "gn:dem":1567,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10428498,
-    "gn:latitude":34.8985,
-    "gn:longitude":105.11,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Weijiaping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.09,34.8785,105.13,34.9185",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c09\u5bb6\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.11,34.8985,105.11,34.8985",
+    "geom:latitude": 34.8985,
+    "geom:longitude": 105.11,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Weijiaping",
+    "gn:country_code": "CN",
+    "gn:dem": 1567,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10428498,
+    "gn:latitude": 34.8985,
+    "gn:longitude": 105.11,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Weijiaping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.09,34.8785,105.13,34.9185",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "尉家坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620523
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10428498
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10428498
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0057f660aaa3f8c4e93f97582d906912",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1293372537,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0057f660aaa3f8c4e93f97582d906912",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1293372537,
+        "region_id": 85669711,
+        "localadmin_id": 1127620523
+      }
     ],
-    "wof:id":1293372537,
-    "wof:lastmodified":1566666184,
-    "wof:name":"Weijiaping",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293372537,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Weijiaping",
+    "wof:parent_id": 1127620523,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.11,
     34.8985,
     105.11,
     34.8985
-],
-  "geometry": {"coordinates":[105.11,34.8985],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.11,
+      34.8985
+    ],
+    "type": "Point"
+  }
 }

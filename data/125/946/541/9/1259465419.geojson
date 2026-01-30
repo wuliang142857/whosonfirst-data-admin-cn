@@ -2,75 +2,83 @@
   "id": 1259465419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.795,34.7776,105.795,34.7776",
-    "geom:latitude":34.7776,
-    "geom:longitude":105.795,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Huoli",
-    "gn:country_code":"CN",
-    "gn:dem":1632,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10428752,
-    "gn:latitude":34.7776,
-    "gn:longitude":105.795,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Huoli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.775,34.7576,105.815,34.7976",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u85ff\u674e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.795,34.7776,105.795,34.7776",
+    "geom:latitude": 34.7776,
+    "geom:longitude": 105.795,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Huoli",
+    "gn:country_code": "CN",
+    "gn:dem": 1632,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10428752,
+    "gn:latitude": 34.7776,
+    "gn:longitude": 105.795,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Huoli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.775,34.7576,105.815,34.7976",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "藿李"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10428752
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10428752
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0554611ea13349beefdb4dd9c06aaef7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1259465419,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0554611ea13349beefdb4dd9c06aaef7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1259465419,
+        "region_id": 85669711,
+        "localadmin_id": 1127620522
+      }
     ],
-    "wof:id":1259465419,
-    "wof:lastmodified":1566698992,
-    "wof:name":"Huoli",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259465419,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Huoli",
+    "wof:parent_id": 1127620522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.795,
     34.7776,
     105.795,
     34.7776
-],
-  "geometry": {"coordinates":[105.795,34.7776],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.795,
+      34.7776
+    ],
+    "type": "Point"
+  }
 }

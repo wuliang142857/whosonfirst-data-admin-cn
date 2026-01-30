@@ -2,77 +2,85 @@
   "id": 1343648969,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.65876,29.04497,111.65876,29.04497",
-    "geom:latitude":29.04497,
-    "geom:longitude":111.65876,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Hucheng",
-    "gn:country_code":"CN",
-    "gn:dem":35,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8139247,
-    "gn:latitude":29.04497,
-    "gn:longitude":111.65876,
-    "gn:modification_date":"2012-01-22",
-    "gn:name":"Hucheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.63876,29.02497,111.67876,29.06497",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u62a4\u57ce",
-        "Hucheng Xiang",
-        "\u62a4\u57ce\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.65876,29.04497,111.65876,29.04497",
+    "geom:latitude": 29.04497,
+    "geom:longitude": 111.65876,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Hucheng",
+    "gn:country_code": "CN",
+    "gn:dem": 35,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8139247,
+    "gn:latitude": 29.04497,
+    "gn:longitude": 111.65876,
+    "gn:modification_date": "2012-01-22",
+    "gn:name": "Hucheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.63876,29.02497,111.67876,29.06497",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "护城",
+      "Hucheng Xiang",
+      "护城乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515867,
+      1127430702
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8139247
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8139247
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4206e7e457d04319e657c8cad71398cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1343648969,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4206e7e457d04319e657c8cad71398cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1343648969,
+        "region_id": 85669781,
+        "localadmin_id": 1127430702
+      }
     ],
-    "wof:id":1343648969,
-    "wof:lastmodified":1566657585,
-    "wof:name":"Hucheng",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343648969,
+    "wof:lastmodified": 1768670428,
+    "wof:name": "Hucheng",
+    "wof:parent_id": 1127430702,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.65876000000002,
     29.04497000000001,
     111.65876000000002,
     29.04497000000001
-],
-  "geometry": {"coordinates":[111.65876000000002,29.04497000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.65876000000002,
+      29.04497000000001
+    ],
+    "type": "Point"
+  }
 }

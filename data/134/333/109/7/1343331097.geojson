@@ -2,75 +2,83 @@
   "id": 1343331097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.893,23.4706,108.893,23.4706",
-    "geom:latitude":23.4706,
-    "geom:longitude":108.893,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Mingtang",
-    "gn:country_code":"CN",
-    "gn:dem":95,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9935496,
-    "gn:latitude":23.4706,
-    "gn:longitude":108.893,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Mingtang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.873,23.4506,108.913,23.4906",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u660e\u5802"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.893,23.4706,108.893,23.4706",
+    "geom:latitude": 23.4706,
+    "geom:longitude": 108.893,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Mingtang",
+    "gn:country_code": "CN",
+    "gn:dem": 95,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9935496,
+    "gn:latitude": 23.4706,
+    "gn:longitude": 108.893,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Mingtang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.873,23.4506,108.913,23.4906",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "明堂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732439
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732439,
+      1127451302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9935496
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9935496
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4ab11515f8c715d52df0b89228ff6650",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732439,
-            "empire_id":136253041,
-            "locality_id":1343331097,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4ab11515f8c715d52df0b89228ff6650",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732439,
+        "empire_id": 136253041,
+        "locality_id": 1343331097,
+        "region_id": 85669717,
+        "localadmin_id": 1127451302
+      }
     ],
-    "wof:id":1343331097,
-    "wof:lastmodified":1566662232,
-    "wof:name":"Mingtang",
-    "wof:parent_id":1108732439,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343331097,
+    "wof:lastmodified": 1768665493,
+    "wof:name": "Mingtang",
+    "wof:parent_id": 1127451302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.893,
     23.4706,
     108.893,
     23.4706
-],
-  "geometry": {"coordinates":[108.893,23.4706],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.893,
+      23.4706
+    ],
+    "type": "Point"
+  }
 }

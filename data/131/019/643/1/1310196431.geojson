@@ -2,78 +2,86 @@
   "id": 1310196431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.0865,27.0628,120.0865,27.0628",
-    "geom:latitude":27.0628,
-    "geom:longitude":120.0865,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Xiaoxi",
-    "gn:country_code":"CN",
-    "gn:dem":98,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6672021,
-    "gn:latitude":27.0628,
-    "gn:longitude":120.0865,
-    "gn:modification_date":"2013-07-07",
-    "gn:name":"Xiaoxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.0665,27.0428,120.1065,27.0828",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u6eaa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.0865,27.0628,120.0865,27.0628",
+    "geom:latitude": 27.0628,
+    "geom:longitude": 120.0865,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Xiaoxi",
+    "gn:country_code": "CN",
+    "gn:dem": 98,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6672021,
+    "gn:latitude": 27.0628,
+    "gn:longitude": 120.0865,
+    "gn:modification_date": "2013-07-07",
+    "gn:name": "Xiaoxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.0665,27.0428,120.1065,27.0828",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小溪"
     ],
-    "name:zho_x_variant":[
-        "\u5c0f\u6eaa\u9547"
+    "name:zho_x_variant": [
+      "小溪镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516577
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513971,
+      890516577
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6672021
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6672021
     },
-    "wof:country":"CN",
-    "wof:geomhash":"784adb65760d9c0f6ac3fa453c05508f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516577,
-            "empire_id":136253041,
-            "locality_id":1310196431,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "784adb65760d9c0f6ac3fa453c05508f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516577,
+        "empire_id": 136253041,
+        "locality_id": 1310196431,
+        "region_id": 85669735,
+        "localadmin_id": 890513971
+      }
     ],
-    "wof:id":1310196431,
-    "wof:lastmodified":1566690254,
-    "wof:name":"Xiaoxi",
-    "wof:parent_id":890516577,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310196431,
+    "wof:lastmodified": 1768669104,
+    "wof:name": "Xiaoxi",
+    "wof:parent_id": 890513971,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.0865,
     27.0628,
     120.0865,
     27.0628
-],
-  "geometry": {"coordinates":[120.0865,27.0628],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.0865,
+      27.0628
+    ],
+    "type": "Point"
+  }
 }

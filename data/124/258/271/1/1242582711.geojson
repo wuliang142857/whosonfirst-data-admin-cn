@@ -2,75 +2,83 @@
   "id": 1242582711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.72,34.562,116.72,34.562",
-    "geom:latitude":34.562,
-    "geom:longitude":116.72,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Jurenzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11089216,
-    "gn:latitude":34.562,
-    "gn:longitude":116.72,
-    "gn:modification_date":"2016-03-12",
-    "gn:name":"Jurenzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.7,34.542,116.74,34.582",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e3e\u4eba\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.72,34.562,116.72,34.562",
+    "geom:latitude": 34.562,
+    "geom:longitude": 116.72,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Jurenzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11089216,
+    "gn:latitude": 34.562,
+    "gn:longitude": 116.72,
+    "gn:modification_date": "2016-03-12",
+    "gn:name": "Jurenzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.7,34.542,116.74,34.582",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "举人庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516333,
+      1127320321
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11089216
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11089216
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9c43495fdc2f24adb0de817f8309e845",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1242582711,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9c43495fdc2f24adb0de817f8309e845",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1242582711,
+        "region_id": 85669827,
+        "localadmin_id": 1127320321
+      }
     ],
-    "wof:id":1242582711,
-    "wof:lastmodified":1566695153,
-    "wof:name":"Jurenzhuang",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242582711,
+    "wof:lastmodified": 1768670915,
+    "wof:name": "Jurenzhuang",
+    "wof:parent_id": 1127320321,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.72,
     34.562,
     116.72,
     34.562
-],
-  "geometry": {"coordinates":[116.72,34.562],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.72,
+      34.562
+    ],
+    "type": "Point"
+  }
 }

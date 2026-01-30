@@ -2,75 +2,83 @@
   "id": 1243411003,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.72056,34.39306,108.72056,34.39306",
-    "geom:latitude":34.39306,
-    "geom:longitude":108.72056,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Lingzhao",
-    "gn:country_code":"CN",
-    "gn:dem":468,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2001094,
-    "gn:latitude":34.39306,
-    "gn:longitude":108.72056,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Lingzhao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.70056,34.37306,108.74056,34.41306",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9675\u7167"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.72056,34.39306,108.72056,34.39306",
+    "geom:latitude": 34.39306,
+    "geom:longitude": 108.72056,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Lingzhao",
+    "gn:country_code": "CN",
+    "gn:dem": 468,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2001094,
+    "gn:latitude": 34.39306,
+    "gn:longitude": 108.72056,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Lingzhao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.70056,34.37306,108.74056,34.41306",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陵照"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515689,
+      1127610404
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2001094
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2001094
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f8161e9da005c73d3eff35320a0ceb75",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1243411003,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f8161e9da005c73d3eff35320a0ceb75",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1243411003,
+        "region_id": 85669769,
+        "localadmin_id": 1127610404
+      }
     ],
-    "wof:id":1243411003,
-    "wof:lastmodified":1566695286,
-    "wof:name":"Lingzhao",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243411003,
+    "wof:lastmodified": 1768667723,
+    "wof:name": "Lingzhao",
+    "wof:parent_id": 1127610404,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.72056,
     34.39306,
     108.72056,
     34.39306
-],
-  "geometry": {"coordinates":[108.72056000000001,34.39306],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.72056,
+      34.39306
+    ],
+    "type": "Point"
+  }
 }

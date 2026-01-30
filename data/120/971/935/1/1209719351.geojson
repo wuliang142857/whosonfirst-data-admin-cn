@@ -2,82 +2,90 @@
   "id": 1209719351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.90112,31.17871,115.90112,31.17871",
-    "geom:latitude":31.17871,
-    "geom:longitude":115.90112,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Changshanchongcun",
-    "gn:country_code":"CN",
-    "gn:dem":456,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1815564,
-    "gn:latitude":31.17871,
-    "gn:longitude":115.90112,
-    "gn:modification_date":"2017-04-06",
-    "gn:name":"Changshanchongcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.88112,31.15871,115.92112,31.19871",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019ang-ling",
-        "Ch\u2019ang-shan-ch\u2019ung-chieh",
-        "Ch\u2019ang-shan-ch\u2019ung",
-        "Changshanchong",
-        "Changshanchongcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.90112,31.17871,115.90112,31.17871",
+    "geom:latitude": 31.17871,
+    "geom:longitude": 115.90112,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Changshanchongcun",
+    "gn:country_code": "CN",
+    "gn:dem": 456,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1815564,
+    "gn:latitude": 31.17871,
+    "gn:longitude": 115.90112,
+    "gn:modification_date": "2017-04-06",
+    "gn:name": "Changshanchongcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.88112,31.15871,115.92112,31.19871",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’ang-ling",
+      "Ch’ang-shan-ch’ung-chieh",
+      "Ch’ang-shan-ch’ung",
+      "Changshanchong",
+      "Changshanchongcun"
     ],
-    "name:zho_x_preferred":[
-        "\u957f\u5c71\u51b2\u6751"
+    "name:zho_x_preferred": [
+      "长山冲村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513745
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513745,
+      1127341524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1815564
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1815564
     },
-    "wof:country":"CN",
-    "wof:geomhash":"afea60bdd659c8e299d86529dd9d5927",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513745,
-            "empire_id":136253041,
-            "locality_id":1209719351,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "afea60bdd659c8e299d86529dd9d5927",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513745,
+        "empire_id": 136253041,
+        "locality_id": 1209719351,
+        "region_id": 85669739,
+        "localadmin_id": 1127341524
+      }
     ],
-    "wof:id":1209719351,
-    "wof:lastmodified":1566681101,
-    "wof:name":"Changshanchongcun",
-    "wof:parent_id":890513745,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209719351,
+    "wof:lastmodified": 1768669927,
+    "wof:name": "Changshanchongcun",
+    "wof:parent_id": 1127341524,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.90112,
     31.17871,
     115.90112,
     31.17871
-],
-  "geometry": {"coordinates":[115.90112000000001,31.17871],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.90112,
+      31.17871
+    ],
+    "type": "Point"
+  }
 }

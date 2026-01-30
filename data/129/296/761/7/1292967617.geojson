@@ -2,78 +2,86 @@
   "id": 1292967617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.07576,33.75394,108.07576,33.75394",
-    "geom:latitude":33.75394,
-    "geom:longitude":108.07576,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Lijia",
-    "gn:country_code":"CN",
-    "gn:dem":1877,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7445915,
-    "gn:latitude":33.75394,
-    "gn:longitude":108.07576,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Lijia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.05576,33.73394,108.09576,33.77394",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Lijia"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.07576,33.75394,108.07576,33.75394",
+    "geom:latitude": 33.75394,
+    "geom:longitude": 108.07576,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Lijia",
+    "gn:country_code": "CN",
+    "gn:dem": 1877,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7445915,
+    "gn:latitude": 33.75394,
+    "gn:longitude": 108.07576,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Lijia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.05576,33.73394,108.09576,33.77394",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Lijia"
     ],
-    "name:und_x_variant":[
-        "\u674e\u5bb6"
+    "name:und_x_variant": [
+      "李家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7445915
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7445915
     },
-    "wof:country":"CN",
-    "wof:geomhash":"42969f12a71e11038e0233469a8fd54f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1292967617,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "42969f12a71e11038e0233469a8fd54f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1292967617,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1292967617,
-    "wof:lastmodified":1566670085,
-    "wof:name":"Lijia",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292967617,
+    "wof:lastmodified": 1768668692,
+    "wof:name": "Lijia",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.07576,
     33.75394,
     108.07576,
     33.75394
-],
-  "geometry": {"coordinates":[108.07576,33.75394],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.07576,
+      33.75394
+    ],
+    "type": "Point"
+  }
 }

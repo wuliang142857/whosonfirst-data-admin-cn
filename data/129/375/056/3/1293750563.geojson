@@ -2,79 +2,87 @@
   "id": 1293750563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.76694,34.52584,108.76694,34.52584",
-    "geom:latitude":34.52584,
-    "geom:longitude":108.76694,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Xijiao",
-    "gn:country_code":"CN",
-    "gn:dem":407,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1999688,
-    "gn:latitude":34.52584,
-    "gn:longitude":108.76694,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Xijiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.74694,34.50584,108.78694,34.54584",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Xijiaocun",
-        "Xijiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.76694,34.52584,108.76694,34.52584",
+    "geom:latitude": 34.52584,
+    "geom:longitude": 108.76694,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Xijiao",
+    "gn:country_code": "CN",
+    "gn:dem": 407,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1999688,
+    "gn:latitude": 34.52584,
+    "gn:longitude": 108.76694,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Xijiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.74694,34.50584,108.78694,34.54584",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Xijiaocun",
+      "Xijiao"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u7126"
+    "name:zho_x_preferred": [
+      "西焦"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513225,
+      890515689
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1999688
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1999688
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d2e5ac81bbdb3c969141cf183e7d7d06",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1293750563,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d2e5ac81bbdb3c969141cf183e7d7d06",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1293750563,
+        "region_id": 85669769,
+        "localadmin_id": 890513225
+      }
     ],
-    "wof:id":1293750563,
-    "wof:lastmodified":1566671886,
-    "wof:name":"Xijiao",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293750563,
+    "wof:lastmodified": 1768667723,
+    "wof:name": "Xijiao",
+    "wof:parent_id": 890513225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.76694,
     34.52584,
     108.76694,
     34.52584
-],
-  "geometry": {"coordinates":[108.76694000000001,34.52584],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.76694,
+      34.52584
+    ],
+    "type": "Point"
+  }
 }

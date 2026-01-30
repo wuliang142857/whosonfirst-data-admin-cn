@@ -2,75 +2,83 @@
   "id": 1276343803,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.27924,28.80288,121.27924,28.80288",
-    "geom:latitude":28.80288,
-    "geom:longitude":121.27924,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Waishan",
-    "gn:country_code":"CN",
-    "gn:dem":447,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8400984,
-    "gn:latitude":28.80288,
-    "gn:longitude":121.27924,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Waishan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.25924,28.78288,121.29924,28.82288",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5916\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.27924,28.80288,121.27924,28.80288",
+    "geom:latitude": 28.80288,
+    "geom:longitude": 121.27924,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Waishan",
+    "gn:country_code": "CN",
+    "gn:dem": 447,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8400984,
+    "gn:latitude": 28.80288,
+    "gn:longitude": 121.27924,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Waishan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.25924,28.78288,121.29924,28.82288",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "外山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515263,
+      890515633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8400984
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8400984
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e2316fd55e596392c9157576f23ff508",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1276343803,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e2316fd55e596392c9157576f23ff508",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1276343803,
+        "region_id": 85669835,
+        "localadmin_id": 890515263
+      }
     ],
-    "wof:id":1276343803,
-    "wof:lastmodified":1566674176,
-    "wof:name":"Waishan",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276343803,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Waishan",
+    "wof:parent_id": 890515263,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.27924,
     28.80288,
     121.27924,
     28.80288
-],
-  "geometry": {"coordinates":[121.27924,28.80288],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.27924,
+      28.80288
+    ],
+    "type": "Point"
+  }
 }

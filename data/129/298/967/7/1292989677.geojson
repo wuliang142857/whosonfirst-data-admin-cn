@@ -2,75 +2,83 @@
   "id": 1292989677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.786,37.2324,114.786,37.2324",
-    "geom:latitude":37.2324,
-    "geom:longitude":114.786,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Huanshui",
-    "gn:country_code":"CN",
-    "gn:dem":35,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9527746,
-    "gn:latitude":37.2324,
-    "gn:longitude":114.786,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Huanshui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.766,37.2124,114.806,37.2524",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u73af\u6c34"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.786,37.2324,114.786,37.2324",
+    "geom:latitude": 37.2324,
+    "geom:longitude": 114.786,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Huanshui",
+    "gn:country_code": "CN",
+    "gn:dem": 35,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9527746,
+    "gn:latitude": 37.2324,
+    "gn:longitude": 114.786,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Huanshui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.766,37.2124,114.806,37.2524",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "环水"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513015
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513015,
+      1127130505
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9527746
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9527746
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cfeecf434570826e31e7ae0a2f1a1a98",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513015,
-            "empire_id":136253041,
-            "locality_id":1292989677,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cfeecf434570826e31e7ae0a2f1a1a98",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513015,
+        "empire_id": 136253041,
+        "locality_id": 1292989677,
+        "region_id": 85669797,
+        "localadmin_id": 1127130505
+      }
     ],
-    "wof:id":1292989677,
-    "wof:lastmodified":1566669988,
-    "wof:name":"Huanshui",
-    "wof:parent_id":890513015,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292989677,
+    "wof:lastmodified": 1768669463,
+    "wof:name": "Huanshui",
+    "wof:parent_id": 1127130505,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.786,
     37.2324,
     114.786,
     37.2324
-],
-  "geometry": {"coordinates":[114.786,37.2324],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.786,
+      37.2324
+    ],
+    "type": "Point"
+  }
 }

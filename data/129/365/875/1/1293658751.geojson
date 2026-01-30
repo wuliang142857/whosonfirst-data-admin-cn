@@ -2,75 +2,83 @@
   "id": 1293658751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.211,24.2577,107.211,24.2577",
-    "geom:latitude":24.2577,
-    "geom:longitude":107.211,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Jiangpo",
-    "gn:country_code":"CN",
-    "gn:dem":531,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9926396,
-    "gn:latitude":24.2577,
-    "gn:longitude":107.211,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Jiangpo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.191,24.2377,107.231,24.2777",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c5f\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.211,24.2577,107.211,24.2577",
+    "geom:latitude": 24.2577,
+    "geom:longitude": 107.211,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Jiangpo",
+    "gn:country_code": "CN",
+    "gn:dem": 531,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9926396,
+    "gn:latitude": 24.2577,
+    "gn:longitude": 107.211,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Jiangpo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.191,24.2377,107.231,24.2777",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "江坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514011,
+      1108732453
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9926396
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9926396
     },
-    "wof:country":"CN",
-    "wof:geomhash":"25bc7f3b17aede4dbf8b37171b97abc8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1293658751,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "25bc7f3b17aede4dbf8b37171b97abc8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1293658751,
+        "region_id": 85669717,
+        "localadmin_id": 890514011
+      }
     ],
-    "wof:id":1293658751,
-    "wof:lastmodified":1566665708,
-    "wof:name":"Jiangpo",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293658751,
+    "wof:lastmodified": 1768665537,
+    "wof:name": "Jiangpo",
+    "wof:parent_id": 890514011,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.211,
     24.2577,
     107.211,
     24.2577
-],
-  "geometry": {"coordinates":[107.211,24.2577],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.211,
+      24.2577
+    ],
+    "type": "Point"
+  }
 }

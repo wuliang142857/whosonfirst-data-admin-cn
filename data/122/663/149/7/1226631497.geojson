@@ -2,78 +2,86 @@
   "id": 1226631497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.21667,49.1,125.21667,49.1",
-    "geom:latitude":49.1,
-    "geom:longitude":125.21667,
-    "gn:admin1_code":"08",
-    "gn:asciiname":"Qianguantun",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":258,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2035400,
-    "gn:latitude":49.1,
-    "gn:longitude":125.21667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Qianguantun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.19667,49.08,125.23667,49.12",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019ien-kuan-t\u2019un",
-        "Ch\u2019ien-kuan-ti",
-        "Qianguantun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.21667,49.1,125.21667,49.1",
+    "geom:latitude": 49.1,
+    "geom:longitude": 125.21667,
+    "gn:admin1_code": "08",
+    "gn:asciiname": "Qianguantun",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 258,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2035400,
+    "gn:latitude": 49.1,
+    "gn:longitude": 125.21667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Qianguantun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.19667,49.08,125.23667,49.12",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’ien-kuan-t’un",
+      "Ch’ien-kuan-ti",
+      "Qianguantun"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        1108732555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      1108732555,
+      1127231183
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2035400
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2035400
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c360fbe734b4dca808939ac505ce674d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732555,
-            "empire_id":136253041,
-            "locality_id":1226631497,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c360fbe734b4dca808939ac505ce674d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732555,
+        "empire_id": 136253041,
+        "locality_id": 1226631497,
+        "region_id": 85669849,
+        "localadmin_id": 1127231183
+      }
     ],
-    "wof:id":1226631497,
-    "wof:lastmodified":1566704987,
-    "wof:name":"Qianguantun",
-    "wof:parent_id":1108732555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226631497,
+    "wof:lastmodified": 1768668887,
+    "wof:name": "Qianguantun",
+    "wof:parent_id": 1127231183,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.21667,
     49.1,
     125.21667,
     49.1
-],
-  "geometry": {"coordinates":[125.21666999999999,49.1],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.21667,
+      49.1
+    ],
+    "type": "Point"
+  }
 }

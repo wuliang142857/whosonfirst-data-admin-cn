@@ -2,83 +2,91 @@
   "id": 1343646847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"128.79277,47.72348,128.79277,47.72348",
-    "geom:latitude":47.72348,
-    "geom:longitude":128.79277,
-    "gn:admin1_code":"08",
-    "gn:asciiname":"Wumahe",
-    "gn:country_code":"CN",
-    "gn:dem":244,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":2034090,
-    "gn:latitude":47.72348,
-    "gn:longitude":128.79277,
-    "gn:modification_date":"2013-05-07",
-    "gn:name":"Wumahe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"128.77277,47.70348,128.81277,47.74348",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wumahe Jiedao",
-        "Wumahe Qu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "128.79277,47.72348,128.79277,47.72348",
+    "geom:latitude": 47.72348,
+    "geom:longitude": 128.79277,
+    "gn:admin1_code": "08",
+    "gn:asciiname": "Wumahe",
+    "gn:country_code": "CN",
+    "gn:dem": 244,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 2034090,
+    "gn:latitude": 47.72348,
+    "gn:longitude": 128.79277,
+    "gn:modification_date": "2013-05-07",
+    "gn:name": "Wumahe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "128.77277,47.70348,128.81277,47.74348",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wumahe Jiedao",
+      "Wumahe Qu"
     ],
-    "name:zho_x_preferred":[
-        "\u4e4c\u9a6c\u6cb3"
+    "name:zho_x_preferred": [
+      "乌马河"
     ],
-    "name:zho_x_variant":[
-        "\u4e4c\u9a6c\u6cb3\u8857\u9053",
-        "\u4e4c\u9a6c\u6cb3\u533a"
+    "name:zho_x_variant": [
+      "乌马河街道",
+      "乌马河区"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890515199
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890515199,
+      1127230718
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2034090
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2034090
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f3eec9b30fd73d996e0b0479fe2af93b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515199,
-            "empire_id":136253041,
-            "locality_id":1343646847,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f3eec9b30fd73d996e0b0479fe2af93b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515199,
+        "empire_id": 136253041,
+        "locality_id": 1343646847,
+        "region_id": 85669849,
+        "localadmin_id": 1127230718
+      }
     ],
-    "wof:id":1343646847,
-    "wof:lastmodified":1566657577,
-    "wof:name":"Wumahe",
-    "wof:parent_id":890515199,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343646847,
+    "wof:lastmodified": 1768669571,
+    "wof:name": "Wumahe",
+    "wof:parent_id": 1127230718,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     128.79277,
     47.72348,
     128.79277,
     47.72348
-],
-  "geometry": {"coordinates":[128.79276999999999,47.72348],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      128.79277,
+      47.72348
+    ],
+    "type": "Point"
+  }
 }

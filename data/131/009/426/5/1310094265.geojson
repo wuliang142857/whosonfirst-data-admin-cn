@@ -2,75 +2,83 @@
   "id": 1310094265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.95,38.7717,115.95,38.7717",
-    "geom:latitude":38.7717,
-    "geom:longitude":115.95,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Dongbaizhuang",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9629742,
-    "gn:latitude":38.7717,
-    "gn:longitude":115.95,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Dongbaizhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.93,38.7517,115.97,38.7917",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u767d\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.95,38.7717,115.95,38.7717",
+    "geom:latitude": 38.7717,
+    "geom:longitude": 115.95,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Dongbaizhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9629742,
+    "gn:latitude": 38.7717,
+    "gn:longitude": 115.95,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Dongbaizhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.93,38.7517,115.97,38.7917",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东白庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513095
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513095,
+      1127130632
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9629742
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9629742
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f816dc8c12d45061835a90fc1cdc7bb6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513095,
-            "empire_id":136253041,
-            "locality_id":1310094265,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f816dc8c12d45061835a90fc1cdc7bb6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513095,
+        "empire_id": 136253041,
+        "locality_id": 1310094265,
+        "region_id": 85669797,
+        "localadmin_id": 1127130632
+      }
     ],
-    "wof:id":1310094265,
-    "wof:lastmodified":1566688970,
-    "wof:name":"Dongbaizhuang",
-    "wof:parent_id":890513095,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310094265,
+    "wof:lastmodified": 1768669442,
+    "wof:name": "Dongbaizhuang",
+    "wof:parent_id": 1127130632,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.95,
     38.7717,
     115.95,
     38.7717
-],
-  "geometry": {"coordinates":[115.95,38.7717],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.95,
+      38.7717
+    ],
+    "type": "Point"
+  }
 }

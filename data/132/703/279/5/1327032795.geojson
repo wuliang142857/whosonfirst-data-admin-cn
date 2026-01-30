@@ -2,84 +2,92 @@
   "id": 1327032795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.92915,28.951,120.92915,28.951",
-    "geom:latitude":28.951,
-    "geom:longitude":120.92915,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Dianqiancun",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1812926,
-    "gn:latitude":28.951,
-    "gn:longitude":120.92915,
-    "gn:modification_date":"2017-11-07",
-    "gn:name":"Dianqiancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.90915,28.931,120.94915,28.971",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tien-ch\u2019ien-shih",
-        "Tien-ch\u2019ien",
-        "Dianqian",
-        "Dianqiancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.92915,28.951,120.92915,28.951",
+    "geom:latitude": 28.951,
+    "geom:longitude": 120.92915,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Dianqiancun",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1812926,
+    "gn:latitude": 28.951,
+    "gn:longitude": 120.92915,
+    "gn:modification_date": "2017-11-07",
+    "gn:name": "Dianqiancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.90915,28.931,120.94915,28.971",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tien-ch’ien-shih",
+      "Tien-ch’ien",
+      "Dianqian",
+      "Dianqiancun"
     ],
-    "name:zho_x_preferred":[
-        "\u5e97\u524d"
+    "name:zho_x_preferred": [
+      "店前"
     ],
-    "name:zho_x_variant":[
-        "\u5e97\u524d\u6751"
+    "name:zho_x_variant": [
+      "店前村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515263,
+      890515633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1812926
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1812926
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9607a4aaa7ad78c84e1e2db39d3e342d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1327032795,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9607a4aaa7ad78c84e1e2db39d3e342d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1327032795,
+        "region_id": 85669835,
+        "localadmin_id": 890515263
+      }
     ],
-    "wof:id":1327032795,
-    "wof:lastmodified":1566651551,
-    "wof:name":"Dianqiancun",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327032795,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Dianqiancun",
+    "wof:parent_id": 890515263,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.92915,
     28.951,
     120.92915,
     28.951
-],
-  "geometry": {"coordinates":[120.92915000000001,28.951],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.92915,
+      28.951
+    ],
+    "type": "Point"
+  }
 }

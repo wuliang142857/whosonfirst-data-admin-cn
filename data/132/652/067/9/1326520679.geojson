@@ -2,78 +2,86 @@
   "id": 1326520679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.38271,47.20926,123.38271,47.20926",
-    "geom:latitude":47.20926,
-    "geom:longitude":123.38271,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Sanjiazi",
-    "gn:country_code":"CN",
-    "gn:dem":160,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8505171,
-    "gn:latitude":47.20926,
-    "gn:longitude":123.38271,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Sanjiazi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.36271,47.18926,123.40271,47.22926",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u5bb6\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.38271,47.20926,123.38271,47.20926",
+    "geom:latitude": 47.20926,
+    "geom:longitude": 123.38271,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Sanjiazi",
+    "gn:country_code": "CN",
+    "gn:dem": 160,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8505171,
+    "gn:latitude": 47.20926,
+    "gn:longitude": 123.38271,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Sanjiazi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.36271,47.18926,123.40271,47.22926",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三家子"
     ],
-    "name:zho_x_variant":[
-        "\u4e09\u5bb6\u5b50\u6751"
+    "name:zho_x_variant": [
+      "三家子村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8505171
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8505171
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0fa65923bb4a80552019a39ff9b2a330",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1326520679,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0fa65923bb4a80552019a39ff9b2a330",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1326520679,
+        "region_id": 85669849,
+        "localadmin_id": 1127230221
+      }
     ],
-    "wof:id":1326520679,
-    "wof:lastmodified":1566653109,
-    "wof:name":"Sanjiazi",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326520679,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Sanjiazi",
+    "wof:parent_id": 1127230221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.38271,
     47.20926,
     123.38271,
     47.20926
-],
-  "geometry": {"coordinates":[123.38271,47.20926],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.38271,
+      47.20926
+    ],
+    "type": "Point"
+  }
 }

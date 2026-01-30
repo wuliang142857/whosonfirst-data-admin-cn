@@ -2,76 +2,84 @@
   "id": 1343660717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.70094,40.97854,125.70094,40.97854",
-    "geom:latitude":40.97854,
-    "geom:longitude":125.70094,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Liaohuangdi",
-    "gn:country_code":"CN",
-    "gn:dem":279,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2055086,
-    "gn:latitude":40.97854,
-    "gn:longitude":125.70094,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Liaohuangdi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.68094,40.95854,125.72094,40.99854",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6482\u8352\u5730",
-        "Liao-huang-ti"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.70094,40.97854,125.70094,40.97854",
+    "geom:latitude": 40.97854,
+    "geom:longitude": 125.70094,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Liaohuangdi",
+    "gn:country_code": "CN",
+    "gn:dem": 279,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2055086,
+    "gn:latitude": 40.97854,
+    "gn:longitude": 125.70094,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Liaohuangdi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.68094,40.95854,125.72094,40.99854",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "撂荒地",
+      "Liao-huang-ti"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516249
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514705,
+      890516249
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2055086
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2055086
     },
-    "wof:country":"CN",
-    "wof:geomhash":"405f6fb38774e6e68f28f61b2eb0a753",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516249,
-            "empire_id":136253041,
-            "locality_id":1343660717,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "405f6fb38774e6e68f28f61b2eb0a753",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516249,
+        "empire_id": 136253041,
+        "locality_id": 1343660717,
+        "region_id": 85669843,
+        "localadmin_id": 890514705
+      }
     ],
-    "wof:id":1343660717,
-    "wof:lastmodified":1566660951,
-    "wof:name":"Liaohuangdi",
-    "wof:parent_id":890516249,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343660717,
+    "wof:lastmodified": 1768671033,
+    "wof:name": "Liaohuangdi",
+    "wof:parent_id": 890514705,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.70094,
     40.97854,
     125.70094,
     40.97854
-],
-  "geometry": {"coordinates":[125.70094,40.97854],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.70094,
+      40.97854
+    ],
+    "type": "Point"
+  }
 }

@@ -2,80 +2,88 @@
   "id": 1192991295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.734,34.4011,105.734,34.4011",
-    "geom:latitude":34.4011,
-    "geom:longitude":105.734,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xinglongzhen",
-    "gn:country_code":"CN",
-    "gn:dem":1526,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1788964,
-    "gn:latitude":34.4011,
-    "gn:longitude":105.734,
-    "gn:modification_date":"2015-08-07",
-    "gn:name":"Xinglongzhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.714,34.3811,105.754,34.4211",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsing-lung",
-        "Xinglong",
-        "Xinglongzhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.734,34.4011,105.734,34.4011",
+    "geom:latitude": 34.4011,
+    "geom:longitude": 105.734,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xinglongzhen",
+    "gn:country_code": "CN",
+    "gn:dem": 1526,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1788964,
+    "gn:latitude": 34.4011,
+    "gn:longitude": 105.734,
+    "gn:modification_date": "2015-08-07",
+    "gn:name": "Xinglongzhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.714,34.3811,105.754,34.4211",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsing-lung",
+      "Xinglong",
+      "Xinglongzhen"
     ],
-    "name:zho_x_preferred":[
-        "\u5174\u9686\u9547"
+    "name:zho_x_preferred": [
+      "兴隆镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1788964
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1788964
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9502577a0b6000688feabf3648e4118b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1192991295,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9502577a0b6000688feabf3648e4118b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1192991295,
+        "region_id": 85669711,
+        "localadmin_id": 1127620502
+      }
     ],
-    "wof:id":1192991295,
-    "wof:lastmodified":1566685727,
-    "wof:name":"Xinglongzhen",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192991295,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Xinglongzhen",
+    "wof:parent_id": 1127620502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.734,
     34.4011,
     105.734,
     34.4011
-],
-  "geometry": {"coordinates":[105.73399999999999,34.4011],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.734,
+      34.4011
+    ],
+    "type": "Point"
+  }
 }

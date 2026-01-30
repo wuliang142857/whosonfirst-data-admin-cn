@@ -2,75 +2,83 @@
   "id": 1344017467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.873,28.662,105.873,28.662",
-    "geom:latitude":28.662,
-    "geom:longitude":105.873,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Dawuji",
-    "gn:country_code":"CN",
-    "gn:dem":337,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186424,
-    "gn:latitude":28.662,
-    "gn:longitude":105.873,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Dawuji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.853,28.642,105.893,28.682",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5c4b\u57fa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.873,28.662,105.873,28.662",
+    "geom:latitude": 28.662,
+    "geom:longitude": 105.873,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Dawuji",
+    "gn:country_code": "CN",
+    "gn:dem": 337,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186424,
+    "gn:latitude": 28.662,
+    "gn:longitude": 105.873,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Dawuji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.853,28.642,105.893,28.682",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大屋基"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510522
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186424
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186424
     },
-    "wof:country":"CN",
-    "wof:geomhash":"062df1762e5daac32bc5d0929f8cecf4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1344017467,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "062df1762e5daac32bc5d0929f8cecf4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1344017467,
+        "region_id": 85669787,
+        "localadmin_id": 1127510522
+      }
     ],
-    "wof:id":1344017467,
-    "wof:lastmodified":1566658640,
-    "wof:name":"Dawuji",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344017467,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Dawuji",
+    "wof:parent_id": 1127510522,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.873,
     28.662,
     105.873,
     28.662
-],
-  "geometry": {"coordinates":[105.873,28.662],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.873,
+      28.662
+    ],
+    "type": "Point"
+  }
 }

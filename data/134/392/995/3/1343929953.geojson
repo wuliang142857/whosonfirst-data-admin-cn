@@ -2,81 +2,89 @@
   "id": 1343929953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.935,23.0278,107.935,23.0278",
-    "geom:latitude":23.0278,
-    "geom:longitude":107.935,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Fangcun",
-    "gn:country_code":"CN",
-    "gn:dem":86,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9906672,
-    "gn:latitude":23.0278,
-    "gn:longitude":107.935,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Fangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.915,23.0078,107.955,23.0478",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Fangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.935,23.0278,107.935,23.0278",
+    "geom:latitude": 23.0278,
+    "geom:longitude": 107.935,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Fangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 86,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9906672,
+    "gn:latitude": 23.0278,
+    "gn:longitude": 107.935,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Fangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.915,23.0078,107.955,23.0478",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Fangcun"
     ],
-    "name:swe_x_preferred":[
-        "Fangcun"
+    "name:swe_x_preferred": [
+      "Fangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u65b9\u6751"
+    "name:zho_x_preferred": [
+      "方村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450123
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9906672
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9906672
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c3fd9ca1d5ad7c56a8bb959f92eca5bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1343929953,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c3fd9ca1d5ad7c56a8bb959f92eca5bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1343929953,
+        "region_id": 85669717,
+        "localadmin_id": 1127450123
+      }
     ],
-    "wof:id":1343929953,
-    "wof:lastmodified":1566660867,
-    "wof:name":"Fangcun",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343929953,
+    "wof:lastmodified": 1768666366,
+    "wof:name": "Fangcun",
+    "wof:parent_id": 1127450123,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.935,
     23.0278,
     107.935,
     23.0278
-],
-  "geometry": {"coordinates":[107.935,23.0278],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.935,
+      23.0278
+    ],
+    "type": "Point"
+  }
 }

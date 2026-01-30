@@ -2,87 +2,95 @@
   "id": 1226251181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.41994,30.86902,120.41994,30.86902",
-    "geom:latitude":30.86902,
-    "geom:longitude":120.41994,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Nanxun",
-    "gn:country_code":"CN",
-    "gn:dem":10,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1799642,
-    "gn:latitude":30.86902,
-    "gn:longitude":120.41994,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Nanxun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.39994,30.84902,120.43994,30.88902",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Han-hs\u00fcn",
-        "Nan-hs\u00fcn-chen",
-        "Nanzin",
-        "Nan-hs\u00fcn",
-        "Nanxun",
-        "\u5357\u6d54",
-        "Nanxun Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.41994,30.86902,120.41994,30.86902",
+    "geom:latitude": 30.86902,
+    "geom:longitude": 120.41994,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Nanxun",
+    "gn:country_code": "CN",
+    "gn:dem": 10,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1799642,
+    "gn:latitude": 30.86902,
+    "gn:longitude": 120.41994,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Nanxun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.39994,30.84902,120.43994,30.88902",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Han-hsün",
+      "Nan-hsün-chen",
+      "Nanzin",
+      "Nan-hsün",
+      "Nanxun",
+      "南浔",
+      "Nanxun Zhen"
     ],
-    "name:wuu_x_preferred":[
-        "\u5357\u6d54\u9547"
+    "name:wuu_x_preferred": [
+      "南浔镇"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u6d54\u9547"
+    "name:zho_x_preferred": [
+      "南浔镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516975,
+      1127330503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1799642
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1799642
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8d9f81dfba8a14d80269f29ef49d8c95",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1226251181,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8d9f81dfba8a14d80269f29ef49d8c95",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1226251181,
+        "region_id": 85669835,
+        "localadmin_id": 1127330503
+      }
     ],
-    "wof:id":1226251181,
-    "wof:lastmodified":1566703757,
-    "wof:name":"Nanxun",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226251181,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Nanxun",
+    "wof:parent_id": 1127330503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.41994,
     30.86902000000001,
     120.41994,
     30.86902000000001
-],
-  "geometry": {"coordinates":[120.41994,30.86902000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.41994,
+      30.86902000000001
+    ],
+    "type": "Point"
+  }
 }

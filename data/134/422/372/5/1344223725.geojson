@@ -2,84 +2,92 @@
   "id": 1344223725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.17171,36.92631,108.17171,36.92631",
-    "geom:latitude":36.92631,
-    "geom:longitude":108.17171,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Wuqi",
-    "gn:country_code":"CN",
-    "gn:dem":1298,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1791043,
-    "gn:latitude":36.92631,
-    "gn:longitude":108.17171,
-    "gn:modification_date":"2013-08-05",
-    "gn:name":"Wuqi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.15171,36.90631,108.19171,36.94631",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wu-ch\u2019i-chen",
-        "Wu-ch\u2019i",
-        "Wuqi",
-        "Wuqi Xian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.17171,36.92631,108.17171,36.92631",
+    "geom:latitude": 36.92631,
+    "geom:longitude": 108.17171,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Wuqi",
+    "gn:country_code": "CN",
+    "gn:dem": 1298,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1791043,
+    "gn:latitude": 36.92631,
+    "gn:longitude": 108.17171,
+    "gn:modification_date": "2013-08-05",
+    "gn:name": "Wuqi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.15171,36.90631,108.19171,36.94631",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wu-ch’i-chen",
+      "Wu-ch’i",
+      "Wuqi",
+      "Wuqi Xian"
     ],
-    "name:zho_x_preferred":[
-        "\u5434\u8d77"
+    "name:zho_x_preferred": [
+      "吴起"
     ],
-    "name:zho_x_variant":[
-        "\u5434\u8d77\u53bf"
+    "name:zho_x_variant": [
+      "吴起县"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516587
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890516587,
+      1127610626
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791043
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791043
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6d3cc1aeb74c3a527ee806d5a4e4cbb2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516587,
-            "empire_id":136253041,
-            "locality_id":1344223725,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6d3cc1aeb74c3a527ee806d5a4e4cbb2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516587,
+        "empire_id": 136253041,
+        "locality_id": 1344223725,
+        "region_id": 85669769,
+        "localadmin_id": 1127610626
+      }
     ],
-    "wof:id":1344223725,
-    "wof:lastmodified":1566657846,
-    "wof:name":"Wuqi",
-    "wof:parent_id":890516587,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344223725,
+    "wof:lastmodified": 1768667665,
+    "wof:name": "Wuqi",
+    "wof:parent_id": 1127610626,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.17171,
     36.92631,
     108.17171,
     36.92631
-],
-  "geometry": {"coordinates":[108.17171,36.92631],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.17171,
+      36.92631
+    ],
+    "type": "Point"
+  }
 }

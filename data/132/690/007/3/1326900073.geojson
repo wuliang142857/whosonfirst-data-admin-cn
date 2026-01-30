@@ -2,75 +2,83 @@
   "id": 1326900073,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.48,23.5366,108.48,23.5366",
-    "geom:latitude":23.5366,
-    "geom:longitude":108.48,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Liulian",
-    "gn:country_code":"CN",
-    "gn:dem":320,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9929620,
-    "gn:latitude":23.5366,
-    "gn:longitude":108.48,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Liulian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.46,23.5166,108.5,23.5566",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u516d\u8fde"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.48,23.5366,108.48,23.5366",
+    "geom:latitude": 23.5366,
+    "geom:longitude": 108.48,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Liulian",
+    "gn:country_code": "CN",
+    "gn:dem": 320,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9929620,
+    "gn:latitude": 23.5366,
+    "gn:longitude": 108.48,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Liulian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.46,23.5166,108.5,23.5566",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "六连"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9929620
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9929620
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2748c84a7c9d606a3d3b0783614ad68f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1326900073,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2748c84a7c9d606a3d3b0783614ad68f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1326900073,
+        "region_id": 85669717,
+        "localadmin_id": 1127450125
+      }
     ],
-    "wof:id":1326900073,
-    "wof:lastmodified":1566653186,
-    "wof:name":"Liulian",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326900073,
+    "wof:lastmodified": 1768666367,
+    "wof:name": "Liulian",
+    "wof:parent_id": 1127450125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.48,
     23.5366,
     108.48,
     23.5366
-],
-  "geometry": {"coordinates":[108.48,23.5366],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.48,
+      23.5366
+    ],
+    "type": "Point"
+  }
 }

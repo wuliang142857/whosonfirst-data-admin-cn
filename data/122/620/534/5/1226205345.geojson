@@ -2,75 +2,83 @@
   "id": 1226205345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.538,25.3947,105.538,25.3947",
-    "geom:latitude":25.3947,
-    "geom:longitude":105.538,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Niuchangpo",
-    "gn:country_code":"CN",
-    "gn:dem":1073,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10005015,
-    "gn:latitude":25.3947,
-    "gn:longitude":105.538,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Niuchangpo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.518,25.3747,105.558,25.4147",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u725b\u573a\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.538,25.3947,105.538,25.3947",
+    "geom:latitude": 25.3947,
+    "geom:longitude": 105.538,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Niuchangpo",
+    "gn:country_code": "CN",
+    "gn:dem": 1073,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10005015,
+    "gn:latitude": 25.3947,
+    "gn:longitude": 105.538,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Niuchangpo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.518,25.3747,105.558,25.4147",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "牛场坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890513853,
+      1108732559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10005015
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10005015
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e1f494dace7c110813440744e1b258cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732559,
-            "empire_id":136253041,
-            "locality_id":1226205345,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e1f494dace7c110813440744e1b258cc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732559,
+        "empire_id": 136253041,
+        "locality_id": 1226205345,
+        "region_id": 85669721,
+        "localadmin_id": 890513853
+      }
     ],
-    "wof:id":1226205345,
-    "wof:lastmodified":1566701669,
-    "wof:name":"Niuchangpo",
-    "wof:parent_id":1108732559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226205345,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Niuchangpo",
+    "wof:parent_id": 890513853,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.538,
     25.3947,
     105.538,
     25.3947
-],
-  "geometry": {"coordinates":[105.538,25.3947],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.538,
+      25.3947
+    ],
+    "type": "Point"
+  }
 }

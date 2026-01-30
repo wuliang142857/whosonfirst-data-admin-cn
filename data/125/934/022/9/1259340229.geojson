@@ -2,75 +2,83 @@
   "id": 1259340229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.06198,36.73955,121.06198,36.73955",
-    "geom:latitude":36.73955,
-    "geom:longitude":121.06198,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Xilankou",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8670679,
-    "gn:latitude":36.73955,
-    "gn:longitude":121.06198,
-    "gn:modification_date":"2014-01-18",
-    "gn:name":"Xilankou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.04198,36.71955,121.08198,36.75955",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u5c9a\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.06198,36.73955,121.06198,36.73955",
+    "geom:latitude": 36.73955,
+    "geom:longitude": 121.06198,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Xilankou",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8670679,
+    "gn:latitude": 36.73955,
+    "gn:longitude": 121.06198,
+    "gn:modification_date": "2014-01-18",
+    "gn:name": "Xilankou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.04198,36.71955,121.08198,36.75955",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西岚口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890513457,
+      890516301
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8670679
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8670679
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cef4154aa26b1e36b787a05094a8bbe5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1259340229,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cef4154aa26b1e36b787a05094a8bbe5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1259340229,
+        "region_id": 85669813,
+        "localadmin_id": 890513457
+      }
     ],
-    "wof:id":1259340229,
-    "wof:lastmodified":1566700062,
-    "wof:name":"Xilankou",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259340229,
+    "wof:lastmodified": 1768668014,
+    "wof:name": "Xilankou",
+    "wof:parent_id": 890513457,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.06198,
     36.73955,
     121.06198,
     36.73955
-],
-  "geometry": {"coordinates":[121.06198000000001,36.73955],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.06198,
+      36.73955
+    ],
+    "type": "Point"
+  }
 }

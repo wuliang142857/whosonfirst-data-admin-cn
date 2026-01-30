@@ -2,81 +2,89 @@
   "id": 1192964725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.45963,22.54431,112.45963,22.54431",
-    "geom:latitude":22.54431,
-    "geom:longitude":112.45963,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Longsheng",
-    "gn:country_code":"CN",
-    "gn:dem":18,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1802432,
-    "gn:latitude":22.54431,
-    "gn:longitude":112.45963,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Longsheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.43963,22.52431,112.47963,22.56431",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Lung-sheng",
-        "Longsheng",
-        "Longsheng Zhen",
-        "\u9f99\u80dc\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.45963,22.54431,112.45963,22.54431",
+    "geom:latitude": 22.54431,
+    "geom:longitude": 112.45963,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Longsheng",
+    "gn:country_code": "CN",
+    "gn:dem": 18,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1802432,
+    "gn:latitude": 22.54431,
+    "gn:longitude": 112.45963,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Longsheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.43963,22.52431,112.47963,22.56431",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lung-sheng",
+      "Longsheng",
+      "Longsheng Zhen",
+      "龙胜镇"
     ],
-    "name:zho_x_preferred":[
-        "\u9f99\u80dc"
+    "name:zho_x_preferred": [
+      "龙胜"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514541,
+      890514609
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1802432
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1802432
     },
-    "wof:country":"CN",
-    "wof:geomhash":"52561b1f83ff66137e174e5566f07e78",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1192964725,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "52561b1f83ff66137e174e5566f07e78",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1192964725,
+        "region_id": 85669743,
+        "localadmin_id": 890514541
+      }
     ],
-    "wof:id":1192964725,
-    "wof:lastmodified":1566685612,
-    "wof:name":"Longsheng",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192964725,
+    "wof:lastmodified": 1768667874,
+    "wof:name": "Longsheng",
+    "wof:parent_id": 890514541,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.45963,
     22.54431,
     112.45963,
     22.54431
-],
-  "geometry": {"coordinates":[112.45963,22.54431],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.45963,
+      22.54431
+    ],
+    "type": "Point"
+  }
 }

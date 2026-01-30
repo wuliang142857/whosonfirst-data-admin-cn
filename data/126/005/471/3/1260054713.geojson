@@ -2,75 +2,83 @@
   "id": 1260054713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.962,39.5366,122.962,39.5366",
-    "geom:latitude":39.5366,
-    "geom:longitude":122.962,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Yangjialou",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11480839,
-    "gn:latitude":39.5366,
-    "gn:longitude":122.962,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Yangjialou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.942,39.5166,122.982,39.5566",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u5bb6\u697c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.962,39.5366,122.962,39.5366",
+    "geom:latitude": 39.5366,
+    "geom:longitude": 122.962,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Yangjialou",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11480839,
+    "gn:latitude": 39.5366,
+    "gn:longitude": 122.962,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Yangjialou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.942,39.5166,122.982,39.5566",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨家楼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11480839
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11480839
     },
-    "wof:country":"CN",
-    "wof:geomhash":"769fb100903d116fb272c4812cc7cfa0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1260054713,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "769fb100903d116fb272c4812cc7cfa0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1260054713,
+        "region_id": 85669807,
+        "localadmin_id": 1127210283
+      }
     ],
-    "wof:id":1260054713,
-    "wof:lastmodified":1566687865,
-    "wof:name":"Yangjialou",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260054713,
+    "wof:lastmodified": 1768665991,
+    "wof:name": "Yangjialou",
+    "wof:parent_id": 1127210283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.962,
     39.5366,
     122.962,
     39.5366
-],
-  "geometry": {"coordinates":[122.962,39.5366],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.962,
+      39.5366
+    ],
+    "type": "Point"
+  }
 }

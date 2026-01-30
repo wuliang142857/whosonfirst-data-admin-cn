@@ -2,75 +2,83 @@
   "id": 1293866437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.798,34.6209,105.798,34.6209",
-    "geom:latitude":34.6209,
-    "geom:longitude":105.798,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Shenhe",
-    "gn:country_code":"CN",
-    "gn:dem":1125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429064,
-    "gn:latitude":34.6209,
-    "gn:longitude":105.798,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Shenhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.778,34.6009,105.818,34.6409",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c88\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.798,34.6209,105.798,34.6209",
+    "geom:latitude": 34.6209,
+    "geom:longitude": 105.798,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Shenhe",
+    "gn:country_code": "CN",
+    "gn:dem": 1125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429064,
+    "gn:latitude": 34.6209,
+    "gn:longitude": 105.798,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Shenhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.778,34.6009,105.818,34.6409",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沈河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429064
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429064
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d46a40258b11e0652a3857d1d6bafcd0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1293866437,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d46a40258b11e0652a3857d1d6bafcd0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1293866437,
+        "region_id": 85669711,
+        "localadmin_id": 1127620503
+      }
     ],
-    "wof:id":1293866437,
-    "wof:lastmodified":1566671917,
-    "wof:name":"Shenhe",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293866437,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Shenhe",
+    "wof:parent_id": 1127620503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.798,
     34.6209,
     105.798,
     34.6209
-],
-  "geometry": {"coordinates":[105.798,34.6209],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.798,
+      34.6209
+    ],
+    "type": "Point"
+  }
 }

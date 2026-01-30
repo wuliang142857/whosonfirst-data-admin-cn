@@ -2,75 +2,83 @@
   "id": 1310155625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.89612,23.89171,116.89612,23.89171",
-    "geom:latitude":23.89171,
-    "geom:longitude":116.89612,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Pinglin",
-    "gn:country_code":"CN",
-    "gn:dem":49,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6683297,
-    "gn:latitude":23.89171,
-    "gn:longitude":116.89612,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Pinglin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.87612,23.87171,116.91612,23.91171",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u576a\u6797"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.89612,23.89171,116.89612,23.89171",
+    "geom:latitude": 23.89171,
+    "geom:longitude": 116.89612,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Pinglin",
+    "gn:country_code": "CN",
+    "gn:dem": 49,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6683297,
+    "gn:latitude": 23.89171,
+    "gn:longitude": 116.89612,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Pinglin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.87612,23.87171,116.91612,23.91171",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "坪林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890513033
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513033,
+      1127445122
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6683297
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6683297
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f89878024dcdd3f40234df79b2504df1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513033,
-            "empire_id":136253041,
-            "locality_id":1310155625,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f89878024dcdd3f40234df79b2504df1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513033,
+        "empire_id": 136253041,
+        "locality_id": 1310155625,
+        "region_id": 85669743,
+        "localadmin_id": 1127445122
+      }
     ],
-    "wof:id":1310155625,
-    "wof:lastmodified":1566688064,
-    "wof:name":"Pinglin",
-    "wof:parent_id":890513033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310155625,
+    "wof:lastmodified": 1768667785,
+    "wof:name": "Pinglin",
+    "wof:parent_id": 1127445122,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.89612,
     23.89171,
     116.89612,
     23.89171
-],
-  "geometry": {"coordinates":[116.89612,23.89171],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.89612,
+      23.89171
+    ],
+    "type": "Point"
+  }
 }

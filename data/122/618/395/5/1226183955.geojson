@@ -2,84 +2,92 @@
   "id": 1226183955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.073,31.0071,105.073,31.0071",
-    "geom:latitude":31.0071,
-    "geom:longitude":105.073,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhonghe",
-    "gn:country_code":"CN",
-    "gn:dem":397,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161587,
-    "gn:latitude":31.0071,
-    "gn:longitude":105.073,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Zhonghe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.053,30.9871,105.093,31.0271",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Zhonghe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.073,31.0071,105.073,31.0071",
+    "geom:latitude": 31.0071,
+    "geom:longitude": 105.073,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhonghe",
+    "gn:country_code": "CN",
+    "gn:dem": 397,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161587,
+    "gn:latitude": 31.0071,
+    "gn:longitude": 105.073,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Zhonghe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.053,30.9871,105.093,31.0271",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Zhonghe"
     ],
-    "name:deu_x_preferred":[
-        "Zhonghe"
+    "name:deu_x_preferred": [
+      "Zhonghe"
     ],
-    "name:swe_x_preferred":[
-        "Zhonghe"
+    "name:swe_x_preferred": [
+      "Zhonghe"
     ],
-    "name:zho_x_preferred":[
-        "\u4e2d\u548c"
+    "name:zho_x_preferred": [
+      "中和"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513911,
+      890514157
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161587
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161587
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6dcaef935cda5cdf24b5bb9d89c4773a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1226183955,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6dcaef935cda5cdf24b5bb9d89c4773a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1226183955,
+        "region_id": 85669787,
+        "localadmin_id": 890513911
+      }
     ],
-    "wof:id":1226183955,
-    "wof:lastmodified":1566701651,
-    "wof:name":"Zhonghe",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226183955,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Zhonghe",
+    "wof:parent_id": 890513911,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.073,
     31.0071,
     105.073,
     31.0071
-],
-  "geometry": {"coordinates":[105.07299999999999,31.0071],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.073,
+      31.0071
+    ],
+    "type": "Point"
+  }
 }

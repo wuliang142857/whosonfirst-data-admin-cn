@@ -2,75 +2,83 @@
   "id": 1309899443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.60202,24.90136,118.60202,24.90136",
-    "geom:latitude":24.90136,
-    "geom:longitude":118.60202,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Huaikou",
-    "gn:country_code":"CN",
-    "gn:dem":14,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1932919,
-    "gn:latitude":24.90136,
-    "gn:longitude":118.60202,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Huaikou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.58202,24.88136,118.62202,24.92136",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6dee\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.60202,24.90136,118.60202,24.90136",
+    "geom:latitude": 24.90136,
+    "geom:longitude": 118.60202,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Huaikou",
+    "gn:country_code": "CN",
+    "gn:dem": 14,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1932919,
+    "gn:latitude": 24.90136,
+    "gn:longitude": 118.60202,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Huaikou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.58202,24.88136,118.62202,24.92136",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "淮口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514127,
+      1127350503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1932919
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1932919
     },
-    "wof:country":"CN",
-    "wof:geomhash":"75f906661c4142504ea4721ffaf4a14b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1309899443,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "75f906661c4142504ea4721ffaf4a14b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1309899443,
+        "region_id": 85669735,
+        "localadmin_id": 1127350503
+      }
     ],
-    "wof:id":1309899443,
-    "wof:lastmodified":1566693363,
-    "wof:name":"Huaikou",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309899443,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Huaikou",
+    "wof:parent_id": 1127350503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.60202,
     24.90136,
     118.60202,
     24.90136
-],
-  "geometry": {"coordinates":[118.60202,24.90136],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.60202,
+      24.90136
+    ],
+    "type": "Point"
+  }
 }

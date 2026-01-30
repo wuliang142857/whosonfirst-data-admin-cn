@@ -2,75 +2,83 @@
   "id": 1310607663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.956,27.4515,114.956,27.4515",
-    "geom:latitude":27.4515,
-    "geom:longitude":114.956,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Xiafu",
-    "gn:country_code":"CN",
-    "gn:dem":60,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9874451,
-    "gn:latitude":27.4515,
-    "gn:longitude":114.956,
-    "gn:modification_date":"2014-12-04",
-    "gn:name":"Xiafu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.936,27.4315,114.976,27.4715",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0b\u7b26"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.956,27.4515,114.956,27.4515",
+    "geom:latitude": 27.4515,
+    "geom:longitude": 114.956,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Xiafu",
+    "gn:country_code": "CN",
+    "gn:dem": 60,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9874451,
+    "gn:latitude": 27.4515,
+    "gn:longitude": 114.956,
+    "gn:modification_date": "2014-12-04",
+    "gn:name": "Xiafu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.936,27.4315,114.976,27.4715",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "下符"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514607
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514607,
+      1127360822
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9874451
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9874451
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1f799f7f2721abcde218098b03fa2dfc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514607,
-            "empire_id":136253041,
-            "locality_id":1310607663,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1f799f7f2721abcde218098b03fa2dfc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514607,
+        "empire_id": 136253041,
+        "locality_id": 1310607663,
+        "region_id": 85669823,
+        "localadmin_id": 1127360822
+      }
     ],
-    "wof:id":1310607663,
-    "wof:lastmodified":1566691039,
-    "wof:name":"Xiafu",
-    "wof:parent_id":890514607,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310607663,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Xiafu",
+    "wof:parent_id": 1127360822,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.956,
     27.4515,
     114.956,
     27.4515
-],
-  "geometry": {"coordinates":[114.956,27.4515],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.956,
+      27.4515
+    ],
+    "type": "Point"
+  }
 }

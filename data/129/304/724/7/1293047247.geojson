@@ -2,79 +2,87 @@
   "id": 1293047247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.87405,21.93087,110.87405,21.93087",
-    "geom:latitude":21.93087,
-    "geom:longitude":110.87405,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Shanmei",
-    "gn:country_code":"CN",
-    "gn:dem":47,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":6846435,
-    "gn:latitude":21.93087,
-    "gn:longitude":110.87405,
-    "gn:modification_date":"2012-06-06",
-    "gn:name":"Shanmei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"110.85405,21.91087,110.89405,21.95087",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shanmei Jiedao",
-        "\u5c71\u7f8e\u8857\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.87405,21.93087,110.87405,21.93087",
+    "geom:latitude": 21.93087,
+    "geom:longitude": 110.87405,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Shanmei",
+    "gn:country_code": "CN",
+    "gn:dem": 47,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 6846435,
+    "gn:latitude": 21.93087,
+    "gn:longitude": 110.87405,
+    "gn:modification_date": "2012-06-06",
+    "gn:name": "Shanmei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "110.85405,21.91087,110.89405,21.95087",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shanmei Jiedao",
+      "山美街道"
     ],
-    "name:zho_x_preferred":[
-        "\u5c71\u7f8e"
+    "name:zho_x_preferred": [
+      "山美"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        1108732487
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513525,
+      1108732487
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6846435
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6846435
     },
-    "wof:country":"CN",
-    "wof:geomhash":"12a10ddbe355c438d7ac23c02a227bde",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732487,
-            "empire_id":136253041,
-            "locality_id":1293047247,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "12a10ddbe355c438d7ac23c02a227bde",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732487,
+        "empire_id": 136253041,
+        "locality_id": 1293047247,
+        "region_id": 85669743,
+        "localadmin_id": 890513525
+      }
     ],
-    "wof:id":1293047247,
-    "wof:lastmodified":1566669095,
-    "wof:name":"Shanmei",
-    "wof:parent_id":1108732487,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293047247,
+    "wof:lastmodified": 1768668219,
+    "wof:name": "Shanmei",
+    "wof:parent_id": 890513525,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.87405,
     21.93087,
     110.87405,
     21.93087
-],
-  "geometry": {"coordinates":[110.87405,21.93087],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.87405,
+      21.93087
+    ],
+    "type": "Point"
+  }
 }

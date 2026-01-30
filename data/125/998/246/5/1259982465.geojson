@@ -2,78 +2,86 @@
   "id": 1259982465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.31189,28.41528,121.31189,28.41528",
-    "geom:latitude":28.41528,
-    "geom:longitude":121.31189,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Shangduncun",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1897906,
-    "gn:latitude":28.41528,
-    "gn:longitude":121.31189,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Shangduncun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.29189,28.39528,121.33189,28.43528",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shangdun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.31189,28.41528,121.31189,28.41528",
+    "geom:latitude": 28.41528,
+    "geom:longitude": 121.31189,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Shangduncun",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1897906,
+    "gn:latitude": 28.41528,
+    "gn:longitude": 121.31189,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Shangduncun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.29189,28.39528,121.33189,28.43528",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shangdun"
     ],
-    "name:zho_x_preferred":[
-        "\u4e0a\u58a9\u6751"
+    "name:zho_x_preferred": [
+      "上墩村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515273,
+      890515633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1897906
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1897906
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fa6839ac69da9c6bdfd21946cf10ad7f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1259982465,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fa6839ac69da9c6bdfd21946cf10ad7f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1259982465,
+        "region_id": 85669835,
+        "localadmin_id": 890515273
+      }
     ],
-    "wof:id":1259982465,
-    "wof:lastmodified":1566698150,
-    "wof:name":"Shangduncun",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259982465,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Shangduncun",
+    "wof:parent_id": 890515273,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.31189,
     28.41528,
     121.31189,
     28.41528
-],
-  "geometry": {"coordinates":[121.31189000000001,28.41528],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.31189,
+      28.41528
+    ],
+    "type": "Point"
+  }
 }

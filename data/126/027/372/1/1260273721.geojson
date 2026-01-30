@@ -2,78 +2,86 @@
   "id": 1260273721,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.14886,46.55203,123.14886,46.55203",
-    "geom:latitude":46.55203,
-    "geom:longitude":123.14886,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Zhangguo'en",
-    "gn:country_code":"CN",
-    "gn:dem":151,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11582813,
-    "gn:latitude":46.55203,
-    "gn:longitude":123.14886,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Zhangguo\u2019en",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.12886,46.53203,123.16886,46.57203",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhangguo\u2019en"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.14886,46.55203,123.14886,46.55203",
+    "geom:latitude": 46.55203,
+    "geom:longitude": 123.14886,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Zhangguo'en",
+    "gn:country_code": "CN",
+    "gn:dem": 151,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11582813,
+    "gn:latitude": 46.55203,
+    "gn:longitude": 123.14886,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Zhangguo’en",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.12886,46.53203,123.16886,46.57203",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhangguo’en"
     ],
-    "name:zho_x_preferred":[
-        "\u5f20\u56fd\u6069"
+    "name:zho_x_preferred": [
+      "张国恩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890513429,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11582813
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11582813
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3232251d9dd89d3cb066c0a49125abea",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1260273721,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3232251d9dd89d3cb066c0a49125abea",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1260273721,
+        "region_id": 85669849,
+        "localadmin_id": 890513429
+      }
     ],
-    "wof:id":1260273721,
-    "wof:lastmodified":1566687111,
-    "wof:name":"Zhangguo'en",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260273721,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Zhangguo'en",
+    "wof:parent_id": 890513429,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.14886,
     46.55203,
     123.14886,
     46.55203
-],
-  "geometry": {"coordinates":[123.14886,46.55203],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.14886,
+      46.55203
+    ],
+    "type": "Point"
+  }
 }

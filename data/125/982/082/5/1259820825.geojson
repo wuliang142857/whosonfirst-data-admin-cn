@@ -2,73 +2,81 @@
   "id": 1259820825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.70941,18.51074,109.70941,18.51074",
-    "geom:latitude":18.51074,
-    "geom:longitude":109.70941,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Gongcun",
-    "gn:country_code":"CN",
-    "gn:dem":71,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1917749,
-    "gn:latitude":18.51074,
-    "gn:longitude":109.70941,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Gongcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.68941,18.49074,109.72941,18.53074",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5171\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.70941,18.51074,109.70941,18.51074",
+    "geom:latitude": 18.51074,
+    "geom:longitude": 109.70941,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Gongcun",
+    "gn:country_code": "CN",
+    "gn:dem": 71,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1917749,
+    "gn:latitude": 18.51074,
+    "gn:longitude": 109.70941,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Gongcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.68941,18.49074,109.72941,18.53074",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "共村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732357
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515211,
+      1108732357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917749
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917749
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cd79e9c40882981d9e339cc852038699",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732357,
-            "locality_id":1259820825,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cd79e9c40882981d9e339cc852038699",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732357,
+        "locality_id": 1259820825,
+        "region_id": 85669759,
+        "localadmin_id": 890515211
+      }
     ],
-    "wof:id":1259820825,
-    "wof:lastmodified":1566699208,
-    "wof:name":"Gongcun",
-    "wof:parent_id":1108732357,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259820825,
+    "wof:lastmodified": 1768671214,
+    "wof:name": "Gongcun",
+    "wof:parent_id": 890515211,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.70941,
     18.51074,
     109.70941,
     18.51074
-],
-  "geometry": {"coordinates":[109.70941000000001,18.51074],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.70941,
+      18.51074
+    ],
+    "type": "Point"
+  }
 }

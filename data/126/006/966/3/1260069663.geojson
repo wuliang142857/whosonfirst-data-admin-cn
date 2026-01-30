@@ -2,88 +2,96 @@
   "id": 1260069663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.15969,33.32543,113.15969,33.32543",
-    "geom:latitude":33.32543,
-    "geom:longitude":113.15969,
-    "gn:admin1_code":"09",
-    "gn:asciiname":"Dushu",
-    "gn:country_code":"CN",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1811783,
-    "gn:latitude":33.32543,
-    "gn:longitude":113.15969,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Dushu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.13969,33.30543,113.17969,33.34543",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nor_x_preferred":[
-        "Dushu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.15969,33.32543,113.15969,33.32543",
+    "geom:latitude": 33.32543,
+    "geom:longitude": 113.15969,
+    "gn:admin1_code": "09",
+    "gn:asciiname": "Dushu",
+    "gn:country_code": "CN",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1811783,
+    "gn:latitude": 33.32543,
+    "gn:longitude": 113.15969,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Dushu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.13969,33.30543,113.17969,33.34543",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nor_x_preferred": [
+      "Dushu"
     ],
-    "name:spa_x_preferred":[
-        "Dushu"
+    "name:spa_x_preferred": [
+      "Dushu"
     ],
-    "name:und_x_variant":[
-        "Tu-shu-chen",
-        "Tu-shu",
-        "\u72ec\u6811",
-        "Dushu Zhen",
-        "\u72ec\u6811\u9547"
+    "name:und_x_variant": [
+      "Tu-shu-chen",
+      "Tu-shu",
+      "独树",
+      "Dushu Zhen",
+      "独树镇"
     ],
-    "name:zho_x_preferred":[
-        "\u8bfb\u4e66"
+    "name:zho_x_preferred": [
+      "读书"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890516339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890516339,
+      1127411322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811783
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811783
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4e2c9d679038bb258cc1844600a9ce5e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516339,
-            "empire_id":136253041,
-            "locality_id":1260069663,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4e2c9d679038bb258cc1844600a9ce5e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516339,
+        "empire_id": 136253041,
+        "locality_id": 1260069663,
+        "region_id": 85669801,
+        "localadmin_id": 1127411322
+      }
     ],
-    "wof:id":1260069663,
-    "wof:lastmodified":1566686998,
-    "wof:name":"Dushu",
-    "wof:parent_id":890516339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260069663,
+    "wof:lastmodified": 1768669371,
+    "wof:name": "Dushu",
+    "wof:parent_id": 1127411322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.15969,
     33.32543,
     113.15969,
     33.32543
-],
-  "geometry": {"coordinates":[113.15969,33.32543],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.15969,
+      33.32543
+    ],
+    "type": "Point"
+  }
 }

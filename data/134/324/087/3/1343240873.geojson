@@ -2,75 +2,83 @@
   "id": 1343240873,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.59986,40.84017,118.59986,40.84017",
-    "geom:latitude":40.84017,
-    "geom:longitude":118.59986,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Shenzhangzi",
-    "gn:country_code":"CN",
-    "gn:dem":508,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9992920,
-    "gn:latitude":40.84017,
-    "gn:longitude":118.59986,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Shenzhangzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.57986,40.82017,118.61986,40.86017",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c88\u6756\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.59986,40.84017,118.59986,40.84017",
+    "geom:latitude": 40.84017,
+    "geom:longitude": 118.59986,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Shenzhangzi",
+    "gn:country_code": "CN",
+    "gn:dem": 508,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9992920,
+    "gn:latitude": 40.84017,
+    "gn:longitude": 118.59986,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Shenzhangzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.57986,40.82017,118.61986,40.86017",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沈杖子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513327
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513327,
+      1127130881
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9992920
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9992920
     },
-    "wof:country":"CN",
-    "wof:geomhash":"769fcec096d78fc552f3ed92658afa43",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513327,
-            "empire_id":136253041,
-            "locality_id":1343240873,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "769fcec096d78fc552f3ed92658afa43",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513327,
+        "empire_id": 136253041,
+        "locality_id": 1343240873,
+        "region_id": 85669797,
+        "localadmin_id": 1127130881
+      }
     ],
-    "wof:id":1343240873,
-    "wof:lastmodified":1566659680,
-    "wof:name":"Shenzhangzi",
-    "wof:parent_id":890513327,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343240873,
+    "wof:lastmodified": 1768668998,
+    "wof:name": "Shenzhangzi",
+    "wof:parent_id": 1127130881,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.59986,
     40.84017,
     118.59986,
     40.84017
-],
-  "geometry": {"coordinates":[118.59986000000001,40.84017],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.59986,
+      40.84017
+    ],
+    "type": "Point"
+  }
 }

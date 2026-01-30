@@ -2,78 +2,86 @@
   "id": 890515535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.983605,37.874853,105.983605,37.874853",
-    "geom:latitude":37.874853,
-    "geom:longitude":105.983605,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"105.963605,37.854853,106.003605,37.894853",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Qingtongxia"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.983605,37.874853,105.983605,37.874853",
+    "geom:latitude": 37.874853,
+    "geom:longitude": 105.983605,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "105.963605,37.854853,106.003605,37.894853",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Qingtongxia"
     ],
-    "name:zho_x_preferred":[
-        "\u9752\u94dc\u5ce1\u5e02"
+    "name:zho_x_preferred": [
+      "青铜峡市"
     ],
-    "qs:name":"\u9752\u94dc\u5ce1\u5e02",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
-    "qs:photos":140,
-    "qs:photos_1k":28,
-    "qs:photos_9k":1,
-    "qs:photos_9r":3,
-    "qs:photos_all":140,
-    "qs:photos_sr":3,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        1108732381,
-        136253041,
-        85669763
+    "qs:name": "青铜峡市",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "宁夏回族自治区",
+    "qs:photos": 140,
+    "qs:photos_1k": 28,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 3,
+    "qs:photos_all": 140,
+    "qs:photos_sr": 3,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515661,
+      1108732381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2150369,
-        "qs_pg:id":1129818
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2150369,
+      "qs_pg:id": 1129818
     },
-    "wof:country":"CN",
-    "wof:created":1469055910,
-    "wof:geomhash":"a21ab4fe94c64b93443376ddd90cbd72",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732381,
-            "empire_id":136253041,
-            "locality_id":890515535,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055910,
+    "wof:geomhash": "a21ab4fe94c64b93443376ddd90cbd72",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732381,
+        "empire_id": 136253041,
+        "locality_id": 890515535,
+        "region_id": 85669763,
+        "localadmin_id": 890515661
+      }
     ],
-    "wof:id":890515535,
-    "wof:lastmodified":1601423042,
-    "wof:name":"Qingtongxia",
-    "wof:parent_id":1108732381,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515535,
+    "wof:lastmodified": 1768667273,
+    "wof:name": "Qingtongxia",
+    "wof:parent_id": 890515661,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.983605,
     37.874853,
     105.983605,
     37.874853
-],
-  "geometry": {"coordinates":[105.983605,37.874853],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.983605,
+      37.874853
+    ],
+    "type": "Point"
+  }
 }

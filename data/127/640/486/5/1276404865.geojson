@@ -2,80 +2,88 @@
   "id": 1276404865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.18419,40.29345,123.18419,40.29345",
-    "geom:latitude":40.29345,
-    "geom:longitude":123.18419,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Tangchicun",
-    "gn:country_code":"CN",
-    "gn:dem":107,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2034536,
-    "gn:latitude":40.29345,
-    "gn:longitude":123.18419,
-    "gn:modification_date":"2018-05-09",
-    "gn:name":"Tangchicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.16419,40.27345,123.20419,40.31345",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tangchi",
-        "\u6c64\u6c60",
-        "Tangchicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.18419,40.29345,123.18419,40.29345",
+    "geom:latitude": 40.29345,
+    "geom:longitude": 123.18419,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Tangchicun",
+    "gn:country_code": "CN",
+    "gn:dem": 107,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2034536,
+    "gn:latitude": 40.29345,
+    "gn:longitude": 123.18419,
+    "gn:modification_date": "2018-05-09",
+    "gn:name": "Tangchicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.16419,40.27345,123.20419,40.31345",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tangchi",
+      "汤池",
+      "Tangchicun"
     ],
-    "name:zho_x_preferred":[
-        "\u6c64\u6c60\u6751"
+    "name:zho_x_preferred": [
+      "汤池村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514231
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514231,
+      1127210323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2034536
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2034536
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a0a0713794cf09ff35d4cfc2489dc724",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514231,
-            "empire_id":136253041,
-            "locality_id":1276404865,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a0a0713794cf09ff35d4cfc2489dc724",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514231,
+        "empire_id": 136253041,
+        "locality_id": 1276404865,
+        "region_id": 85669807,
+        "localadmin_id": 1127210323
+      }
     ],
-    "wof:id":1276404865,
-    "wof:lastmodified":1566676561,
-    "wof:name":"Tangchicun",
-    "wof:parent_id":890514231,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276404865,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Tangchicun",
+    "wof:parent_id": 1127210323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.18419,
     40.29345,
     123.18419,
     40.29345
-],
-  "geometry": {"coordinates":[123.18419,40.29345],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.18419,
+      40.29345
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1276486617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.057,30.82778,108.057,30.82778",
-    "geom:latitude":30.82778,
-    "geom:longitude":108.057,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Dingyang",
-    "gn:country_code":"CN",
-    "gn:dem":642,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8404025,
-    "gn:latitude":30.82778,
-    "gn:longitude":108.057,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Dingyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.037,30.80778,108.077,30.84778",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e01\u9633"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.057,30.82778,108.057,30.82778",
+    "geom:latitude": 30.82778,
+    "geom:longitude": 108.057,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Dingyang",
+    "gn:country_code": "CN",
+    "gn:dem": 642,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8404025,
+    "gn:latitude": 30.82778,
+    "gn:longitude": 108.057,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Dingyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.037,30.80778,108.077,30.84778",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "丁阳"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8404025
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8404025
     },
-    "wof:country":"CN",
-    "wof:geomhash":"889d0550fce41a923996998b2a5a9f42",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1276486617,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "889d0550fce41a923996998b2a5a9f42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1276486617,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1276486617,
-    "wof:lastmodified":1566677185,
-    "wof:name":"Dingyang",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276486617,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Dingyang",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.057,
     30.82778,
     108.057,
     30.82778
-],
-  "geometry": {"coordinates":[108.057,30.82778],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.057,
+      30.82778
+    ],
+    "type": "Point"
+  }
 }

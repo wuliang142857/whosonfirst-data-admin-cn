@@ -2,80 +2,88 @@
   "id": 1260244211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.44966,40.43987,123.44966,40.43987",
-    "geom:latitude":40.43987,
-    "geom:longitude":123.44966,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Majia Buzi",
-    "gn:country_code":"CN",
-    "gn:dem":158,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7404381,
-    "gn:latitude":40.43987,
-    "gn:longitude":123.44966,
-    "gn:modification_date":"2014-03-10",
-    "gn:name":"Majia Buzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.42966,40.41987,123.46966,40.45987",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Majiabaozi",
-        "Majia Puzi",
-        "Majia Buzi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.44966,40.43987,123.44966,40.43987",
+    "geom:latitude": 40.43987,
+    "geom:longitude": 123.44966,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Majia Buzi",
+    "gn:country_code": "CN",
+    "gn:dem": 158,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7404381,
+    "gn:latitude": 40.43987,
+    "gn:longitude": 123.44966,
+    "gn:modification_date": "2014-03-10",
+    "gn:name": "Majia Buzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.42966,40.41987,123.46966,40.45987",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Majiabaozi",
+      "Majia Puzi",
+      "Majia Buzi"
     ],
-    "name:zho_x_preferred":[
-        "\u9a6c\u5bb6\u5821\u5b50"
+    "name:zho_x_preferred": [
+      "马家堡子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514231
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514231,
+      1127210323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7404381
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7404381
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7712b0361e28010da13a6865e45fa45a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514231,
-            "empire_id":136253041,
-            "locality_id":1260244211,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7712b0361e28010da13a6865e45fa45a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514231,
+        "empire_id": 136253041,
+        "locality_id": 1260244211,
+        "region_id": 85669807,
+        "localadmin_id": 1127210323
+      }
     ],
-    "wof:id":1260244211,
-    "wof:lastmodified":1566686158,
-    "wof:name":"Majia Buzi",
-    "wof:parent_id":890514231,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260244211,
+    "wof:lastmodified": 1768666786,
+    "wof:name": "Majia Buzi",
+    "wof:parent_id": 1127210323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.44966,
     40.43987,
     123.44966,
     40.43987
-],
-  "geometry": {"coordinates":[123.44965999999999,40.43987],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.44966,
+      40.43987
+    ],
+    "type": "Point"
+  }
 }

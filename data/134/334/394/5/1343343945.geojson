@@ -2,75 +2,83 @@
   "id": 1343343945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.446,36.0277,103.446,36.0277",
-    "geom:latitude":36.0277,
-    "geom:longitude":103.446,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Lijiagou",
-    "gn:country_code":"CN",
-    "gn:dem":2338,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10680980,
-    "gn:latitude":36.0277,
-    "gn:longitude":103.446,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Lijiagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.426,36.0077,103.466,36.0477",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u5bb6\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.446,36.0277,103.446,36.0277",
+    "geom:latitude": 36.0277,
+    "geom:longitude": 103.446,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Lijiagou",
+    "gn:country_code": "CN",
+    "gn:dem": 2338,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10680980,
+    "gn:latitude": 36.0277,
+    "gn:longitude": 103.446,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Lijiagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.426,36.0077,103.466,36.0477",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李家沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890513773
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890513773,
+      1127622923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10680980
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10680980
     },
-    "wof:country":"CN",
-    "wof:geomhash":"92ca94d273082242790b47447e24a8e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513773,
-            "empire_id":136253041,
-            "locality_id":1343343945,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "92ca94d273082242790b47447e24a8e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513773,
+        "empire_id": 136253041,
+        "locality_id": 1343343945,
+        "region_id": 85669711,
+        "localadmin_id": 1127622923
+      }
     ],
-    "wof:id":1343343945,
-    "wof:lastmodified":1566662110,
-    "wof:name":"Lijiagou",
-    "wof:parent_id":890513773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343343945,
+    "wof:lastmodified": 1768666660,
+    "wof:name": "Lijiagou",
+    "wof:parent_id": 1127622923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.446,
     36.0277,
     103.446,
     36.0277
-],
-  "geometry": {"coordinates":[103.446,36.0277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.446,
+      36.0277
+    ],
+    "type": "Point"
+  }
 }

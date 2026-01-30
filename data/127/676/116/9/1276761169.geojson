@@ -2,75 +2,83 @@
   "id": 1276761169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.67802,42.49484,125.67802,42.49484",
-    "geom:latitude":42.49484,
-    "geom:longitude":125.67802,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Zhangjiacun",
-    "gn:country_code":"CN",
-    "gn:dem":328,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10982552,
-    "gn:latitude":42.49484,
-    "gn:longitude":125.67802,
-    "gn:modification_date":"2015-12-08",
-    "gn:name":"Zhangjiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.65802,42.47484,125.69802,42.51484",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u5bb6\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.67802,42.49484,125.67802,42.49484",
+    "geom:latitude": 42.49484,
+    "geom:longitude": 125.67802,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Zhangjiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 328,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10982552,
+    "gn:latitude": 42.49484,
+    "gn:longitude": 125.67802,
+    "gn:modification_date": "2015-12-08",
+    "gn:name": "Zhangjiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.65802,42.47484,125.69802,42.51484",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张家村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516249
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890516249,
+      1127220581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10982552
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10982552
     },
-    "wof:country":"CN",
-    "wof:geomhash":"128ae9b195762d91201fc7b6a8d7829f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516249,
-            "empire_id":136253041,
-            "locality_id":1276761169,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "128ae9b195762d91201fc7b6a8d7829f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516249,
+        "empire_id": 136253041,
+        "locality_id": 1276761169,
+        "region_id": 85669843,
+        "localadmin_id": 1127220581
+      }
     ],
-    "wof:id":1276761169,
-    "wof:lastmodified":1566676099,
-    "wof:name":"Zhangjiacun",
-    "wof:parent_id":890516249,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276761169,
+    "wof:lastmodified": 1768671033,
+    "wof:name": "Zhangjiacun",
+    "wof:parent_id": 1127220581,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.67802,
     42.49484,
     125.67802,
     42.49484
-],
-  "geometry": {"coordinates":[125.67802,42.49484],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.67802,
+      42.49484
+    ],
+    "type": "Point"
+  }
 }

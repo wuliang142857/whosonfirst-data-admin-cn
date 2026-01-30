@@ -2,78 +2,86 @@
   "id": 1344122327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.28056,41.85083,125.28056,41.85083",
-    "geom:latitude":41.85083,
-    "geom:longitude":125.28056,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Shabaotangcun",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":459,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2046630,
-    "gn:latitude":41.85083,
-    "gn:longitude":125.28056,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Shabaotangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.26056,41.83083,125.30056,41.87083",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Baotang",
-        "Sha-pao-t\u2019ang",
-        "Shabaotangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.28056,41.85083,125.28056,41.85083",
+    "geom:latitude": 41.85083,
+    "geom:longitude": 125.28056,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Shabaotangcun",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 459,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2046630,
+    "gn:latitude": 41.85083,
+    "gn:longitude": 125.28056,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Shabaotangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.26056,41.83083,125.30056,41.87083",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Baotang",
+      "Sha-pao-t’ang",
+      "Shabaotangcun"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890513011
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890513011,
+      1127210422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2046630
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2046630
     },
-    "wof:country":"CN",
-    "wof:geomhash":"17470bfdb8c1c7a09854eade7babc34a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513011,
-            "empire_id":136253041,
-            "locality_id":1344122327,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "17470bfdb8c1c7a09854eade7babc34a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513011,
+        "empire_id": 136253041,
+        "locality_id": 1344122327,
+        "region_id": 85669807,
+        "localadmin_id": 1127210422
+      }
     ],
-    "wof:id":1344122327,
-    "wof:lastmodified":1566658285,
-    "wof:name":"Shabaotangcun",
-    "wof:parent_id":890513011,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344122327,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Shabaotangcun",
+    "wof:parent_id": 1127210422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.28056,
     41.85083,
     125.28056,
     41.85083
-],
-  "geometry": {"coordinates":[125.28055999999999,41.85083],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.28056,
+      41.85083
+    ],
+    "type": "Point"
+  }
 }

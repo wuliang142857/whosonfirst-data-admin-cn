@@ -2,75 +2,83 @@
   "id": 1259345183,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.218,39.9175,122.218,39.9175",
-    "geom:latitude":39.9175,
-    "geom:longitude":122.218,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Huangyangkou",
-    "gn:country_code":"CN",
-    "gn:dem":408,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11480224,
-    "gn:latitude":39.9175,
-    "gn:longitude":122.218,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Huangyangkou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.198,39.8975,122.238,39.9375",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ec4\u7f8a\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.218,39.9175,122.218,39.9175",
+    "geom:latitude": 39.9175,
+    "geom:longitude": 122.218,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Huangyangkou",
+    "gn:country_code": "CN",
+    "gn:dem": 408,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11480224,
+    "gn:latitude": 39.9175,
+    "gn:longitude": 122.218,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Huangyangkou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.198,39.8975,122.238,39.9375",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黄羊口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11480224
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11480224
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c00720b5a71b9d21765a37e54abea53b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1259345183,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c00720b5a71b9d21765a37e54abea53b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1259345183,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1259345183,
-    "wof:lastmodified":1566700077,
-    "wof:name":"Huangyangkou",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259345183,
+    "wof:lastmodified": 1768665991,
+    "wof:name": "Huangyangkou",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.218,
     39.9175,
     122.218,
     39.9175
-],
-  "geometry": {"coordinates":[122.218,39.9175],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.218,
+      39.9175
+    ],
+    "type": "Point"
+  }
 }

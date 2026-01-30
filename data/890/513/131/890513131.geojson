@@ -2,80 +2,335 @@
   "id": 890513131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.22153,31.36637,121.22153,31.36637",
-    "geom:latitude":31.36637,
-    "geom:longitude":121.22153,
-    "gn:country":"CN",
-    "gn:fcode":"ADM3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"121.12153,31.26637,121.32153,31.46637",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chia-ting Hsien"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000536107934,
+    "geom:area_square_m": 536107934.13,
+    "geom:bbox": "121.106354,31.229195,121.376169,31.498998",
+    "geom:latitude": 31.364097,
+    "geom:longitude": 121.241262,
+    "gn:country": "CN",
+    "gn:fcode": "ADM3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "121.14126,31.2641,121.34126,31.4641",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chia-ting Hsien"
     ],
-    "name:zho_x_preferred":[
-        "\u5609\u5b9a\u533a"
+    "name:zho_x_preferred": [
+      "嘉定区"
     ],
-    "name:zho_x_variant":[
-        "\u5609\u5b9a"
+    "name:zho_x_variant": [
+      "嘉定"
     ],
-    "qs:name":"Jiading Qu",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wd:wordcount":688,
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "qs:name": "Jiading Qu",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wd:wordcount": 688,
+    "wof:belongsto": [
+      85669831,
+      102191569,
+      85632695,
+      136253041,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1806507,
-        "qs_pg:id":372211,
-        "wk:page":"Cheting District"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1806507,
+      "qs_pg:id": 372211,
+      "wk:page": "Cheting District",
+      "gb:id": "156310114"
     },
-    "wof:country":"CN",
-    "wof:created":1469055803,
-    "wof:geomhash":"7f7dd7bdd2c7000877544a2a614aa882",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "localadmin_id":890513131,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055803,
+    "wof:geomhash": "7f7dd7bdd2c7000877544a2a614aa882",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "localadmin_id": 890513131,
+        "region_id": 85669831
+      }
     ],
-    "wof:id":890513131,
-    "wof:lastmodified":1566693717,
-    "wof:name":"Jiading Qu",
-    "wof:parent_id":890514815,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890513131,
+    "wof:lastmodified": 1768664148,
+    "wof:name": "Jiading Qu",
+    "wof:parent_id": 890514815,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    121.22153,
-    31.36637,
-    121.22153,
-    31.36637
-],
-  "geometry": {"coordinates":[121.22153,31.36637],"type":"Point"}
+    121.106354,
+    31.229195,
+    121.376169,
+    31.498998
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            121.33178,
+            31.296832
+          ],
+          [
+            121.32139,
+            31.289227
+          ],
+          [
+            121.333616,
+            31.274838
+          ],
+          [
+            121.362744,
+            31.271556
+          ],
+          [
+            121.3551,
+            31.268904
+          ],
+          [
+            121.35717,
+            31.261877
+          ],
+          [
+            121.376169,
+            31.259311
+          ],
+          [
+            121.371098,
+            31.246233
+          ],
+          [
+            121.349603,
+            31.23909
+          ],
+          [
+            121.341498,
+            31.245865
+          ],
+          [
+            121.333816,
+            31.239526
+          ],
+          [
+            121.329464,
+            31.23391
+          ],
+          [
+            121.311543,
+            31.229195
+          ],
+          [
+            121.293219,
+            31.232839
+          ],
+          [
+            121.277119,
+            31.249825
+          ],
+          [
+            121.279777,
+            31.253742
+          ],
+          [
+            121.249934,
+            31.261619
+          ],
+          [
+            121.224411,
+            31.26476
+          ],
+          [
+            121.209593,
+            31.25629
+          ],
+          [
+            121.206,
+            31.263203
+          ],
+          [
+            121.179514,
+            31.253893
+          ],
+          [
+            121.164744,
+            31.259934
+          ],
+          [
+            121.145463,
+            31.285577
+          ],
+          [
+            121.145554,
+            31.302572
+          ],
+          [
+            121.124321,
+            31.305494
+          ],
+          [
+            121.117104,
+            31.312891
+          ],
+          [
+            121.125732,
+            31.326645
+          ],
+          [
+            121.133957,
+            31.328686
+          ],
+          [
+            121.12986,
+            31.346718
+          ],
+          [
+            121.114319,
+            31.347023
+          ],
+          [
+            121.106354,
+            31.360598
+          ],
+          [
+            121.111893,
+            31.378639
+          ],
+          [
+            121.141342,
+            31.38648
+          ],
+          [
+            121.153984,
+            31.408136
+          ],
+          [
+            121.146683,
+            31.418058
+          ],
+          [
+            121.164833,
+            31.427912
+          ],
+          [
+            121.14885,
+            31.440832
+          ],
+          [
+            121.178047,
+            31.448889
+          ],
+          [
+            121.191132,
+            31.473993
+          ],
+          [
+            121.23291,
+            31.490833
+          ],
+          [
+            121.249443,
+            31.477226
+          ],
+          [
+            121.290001,
+            31.490805
+          ],
+          [
+            121.298551,
+            31.498998
+          ],
+          [
+            121.313053,
+            31.476266
+          ],
+          [
+            121.309631,
+            31.474147
+          ],
+          [
+            121.314171,
+            31.458607
+          ],
+          [
+            121.331795,
+            31.435213
+          ],
+          [
+            121.332889,
+            31.421075
+          ],
+          [
+            121.328583,
+            31.412512
+          ],
+          [
+            121.309599,
+            31.408952
+          ],
+          [
+            121.310704,
+            31.400111
+          ],
+          [
+            121.318317,
+            31.397788
+          ],
+          [
+            121.322096,
+            31.382753
+          ],
+          [
+            121.331713,
+            31.371575
+          ],
+          [
+            121.335943,
+            31.359653
+          ],
+          [
+            121.331045,
+            31.352986
+          ],
+          [
+            121.340314,
+            31.338364
+          ],
+          [
+            121.337024,
+            31.33526
+          ],
+          [
+            121.340799,
+            31.318743
+          ],
+          [
+            121.327765,
+            31.304043
+          ],
+          [
+            121.33178,
+            31.296832
+          ]
+        ]
+      ]
+    ]
+  }
 }

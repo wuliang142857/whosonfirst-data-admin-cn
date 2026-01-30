@@ -2,81 +2,89 @@
   "id": 1327188153,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.59545,30.5247,108.59545,30.5247",
-    "geom:latitude":30.5247,
-    "geom:longitude":108.59545,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Yongping",
-    "gn:country_code":"CN",
-    "gn:dem":997,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8404219,
-    "gn:latitude":30.5247,
-    "gn:longitude":108.59545,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Yongping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.57545,30.5047,108.61545,30.5447",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Yongping"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.59545,30.5247,108.59545,30.5247",
+    "geom:latitude": 30.5247,
+    "geom:longitude": 108.59545,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Yongping",
+    "gn:country_code": "CN",
+    "gn:dem": 997,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8404219,
+    "gn:latitude": 30.5247,
+    "gn:longitude": 108.59545,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Yongping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.57545,30.5047,108.61545,30.5447",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Yongping"
     ],
-    "name:vie_x_preferred":[
-        "V\u0129nh B\u00ecnh"
+    "name:vie_x_preferred": [
+      "Vĩnh Bình"
     ],
-    "name:zho_x_preferred":[
-        "\u7528\u576a"
+    "name:zho_x_preferred": [
+      "用坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8404219
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8404219
     },
-    "wof:country":"CN",
-    "wof:geomhash":"35eccd1e597c1ffb9d16e4460ddc6057",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1327188153,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "35eccd1e597c1ffb9d16e4460ddc6057",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1327188153,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1327188153,
-    "wof:lastmodified":1566655562,
-    "wof:name":"Yongping",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327188153,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Yongping",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.59545,
     30.5247,
     108.59545,
     30.5247
-],
-  "geometry": {"coordinates":[108.59545,30.5247],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.59545,
+      30.5247
+    ],
+    "type": "Point"
+  }
 }

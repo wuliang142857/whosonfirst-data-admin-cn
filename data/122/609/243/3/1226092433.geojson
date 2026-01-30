@@ -2,75 +2,83 @@
   "id": 1226092433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.653,23.768,102.653,23.768",
-    "geom:latitude":23.768,
-    "geom:longitude":102.653,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Nichong",
-    "gn:country_code":"CN",
-    "gn:dem":1614,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10007768,
-    "gn:latitude":23.768,
-    "gn:longitude":102.653,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Nichong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.633,23.748,102.673,23.788",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6ce5\u51b2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.653,23.768,102.653,23.768",
+    "geom:latitude": 23.768,
+    "geom:longitude": 102.653,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Nichong",
+    "gn:country_code": "CN",
+    "gn:dem": 1614,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10007768,
+    "gn:latitude": 23.768,
+    "gn:longitude": 102.653,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Nichong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.633,23.748,102.673,23.788",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "泥冲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      1108794063,
+      1127532524
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10007768
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10007768
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e4fb90d2b69eedb893026221f39e0b26",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1226092433,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e4fb90d2b69eedb893026221f39e0b26",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1226092433,
+        "region_id": 85669791,
+        "localadmin_id": 1127532524
+      }
     ],
-    "wof:id":1226092433,
-    "wof:lastmodified":1566705694,
-    "wof:name":"Nichong",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226092433,
+    "wof:lastmodified": 1768668218,
+    "wof:name": "Nichong",
+    "wof:parent_id": 1127532524,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.653,
     23.768,
     102.653,
     23.768
-],
-  "geometry": {"coordinates":[102.65300000000001,23.768],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.653,
+      23.768
+    ],
+    "type": "Point"
+  }
 }

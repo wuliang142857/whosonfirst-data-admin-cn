@@ -2,82 +2,90 @@
   "id": 1343732343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"95.592,40.8454,95.592,40.8454",
-    "geom:latitude":40.8454,
-    "geom:longitude":95.592,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Baidunzi",
-    "gn:country_code":"CN",
-    "gn:dem":1456,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1529627,
-    "gn:latitude":40.8454,
-    "gn:longitude":95.592,
-    "gn:modification_date":"2015-08-07",
-    "gn:name":"Baidunzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"95.572,40.8254,95.612,40.8654",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pitingtzu",
-        "Bitin\u2019dzy",
-        "Pai-tun-tzu",
-        "Bitin\u2019dz\u00f6",
-        "Baidunzi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "95.592,40.8454,95.592,40.8454",
+    "geom:latitude": 40.8454,
+    "geom:longitude": 95.592,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Baidunzi",
+    "gn:country_code": "CN",
+    "gn:dem": 1456,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1529627,
+    "gn:latitude": 40.8454,
+    "gn:longitude": 95.592,
+    "gn:modification_date": "2015-08-07",
+    "gn:name": "Baidunzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "95.572,40.8254,95.612,40.8654",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pitingtzu",
+      "Bitin’dzy",
+      "Pai-tun-tzu",
+      "Bitin’dzö",
+      "Baidunzi"
     ],
-    "name:zho_x_preferred":[
-        "\u767d\u58a9\u5b50"
+    "name:zho_x_preferred": [
+      "白墩子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890515159
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515159,
+      1127620922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1529627
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1529627
     },
-    "wof:country":"CN",
-    "wof:geomhash":"86dd429f1fe3f2b7bc7b3bc27e6068df",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515159,
-            "empire_id":136253041,
-            "locality_id":1343732343,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "86dd429f1fe3f2b7bc7b3bc27e6068df",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515159,
+        "empire_id": 136253041,
+        "locality_id": 1343732343,
+        "region_id": 85669711,
+        "localadmin_id": 1127620922
+      }
     ],
-    "wof:id":1343732343,
-    "wof:lastmodified":1566663771,
-    "wof:name":"Baidunzi",
-    "wof:parent_id":890515159,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343732343,
+    "wof:lastmodified": 1768666723,
+    "wof:name": "Baidunzi",
+    "wof:parent_id": 1127620922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     95.592,
     40.8454,
     95.592,
     40.8454
-],
-  "geometry": {"coordinates":[95.592,40.8454],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      95.592,
+      40.8454
+    ],
+    "type": "Point"
+  }
 }

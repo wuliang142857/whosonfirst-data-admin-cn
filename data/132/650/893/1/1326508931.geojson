@@ -2,78 +2,86 @@
   "id": 1326508931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.29472,39.43083,116.29472,39.43083",
-    "geom:latitude":39.43083,
-    "geom:longitude":116.29472,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Gu'an",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1810021,
-    "gn:latitude":39.43083,
-    "gn:longitude":116.29472,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Gu\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.27472,39.41083,116.31472,39.45083",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ku-an-ch\u2019eng-kuan",
-        "Ku-an",
-        "Ku-an-hsien",
-        "Gu\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.29472,39.43083,116.29472,39.43083",
+    "geom:latitude": 39.43083,
+    "geom:longitude": 116.29472,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Gu'an",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1810021,
+    "gn:latitude": 39.43083,
+    "gn:longitude": 116.29472,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Gu’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.27472,39.41083,116.31472,39.45083",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ku-an-ch’eng-kuan",
+      "Ku-an",
+      "Ku-an-hsien",
+      "Gu’an"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516977
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516977,
+      1127131022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810021
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810021
     },
-    "wof:country":"CN",
-    "wof:geomhash":"45f7ad1c907156f15e38be9e70c77c98",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516977,
-            "empire_id":136253041,
-            "locality_id":1326508931,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "45f7ad1c907156f15e38be9e70c77c98",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516977,
+        "empire_id": 136253041,
+        "locality_id": 1326508931,
+        "region_id": 85669797,
+        "localadmin_id": 1127131022
+      }
     ],
-    "wof:id":1326508931,
-    "wof:lastmodified":1566649846,
-    "wof:name":"Gu'an",
-    "wof:parent_id":890516977,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326508931,
+    "wof:lastmodified": 1768669016,
+    "wof:name": "Gu'an",
+    "wof:parent_id": 1127131022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.29472,
     39.43083,
     116.29472,
     39.43083
-],
-  "geometry": {"coordinates":[116.29472,39.43083],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.29472,
+      39.43083
+    ],
+    "type": "Point"
+  }
 }

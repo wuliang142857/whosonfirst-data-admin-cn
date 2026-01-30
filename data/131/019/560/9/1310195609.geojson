@@ -2,78 +2,86 @@
   "id": 1310195609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.18486,47.50479,123.18486,47.50479",
-    "geom:latitude":47.50479,
-    "geom:longitude":123.18486,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Xinglonggou",
-    "gn:country_code":"CN",
-    "gn:dem":200,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8505196,
-    "gn:latitude":47.50479,
-    "gn:longitude":123.18486,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Xinglonggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.16486,47.48479,123.20486,47.52479",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5174\u9686\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.18486,47.50479,123.18486,47.50479",
+    "geom:latitude": 47.50479,
+    "geom:longitude": 123.18486,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Xinglonggou",
+    "gn:country_code": "CN",
+    "gn:dem": 200,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8505196,
+    "gn:latitude": 47.50479,
+    "gn:longitude": 123.18486,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Xinglonggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.16486,47.48479,123.20486,47.52479",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "兴隆沟"
     ],
-    "name:zho_x_variant":[
-        "\u5174\u9686\u6c9f\u9057\u5740"
+    "name:zho_x_variant": [
+      "兴隆沟遗址"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8505196
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8505196
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a7826d899c3d339878526f8401c6f3d2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1310195609,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a7826d899c3d339878526f8401c6f3d2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1310195609,
+        "region_id": 85669849,
+        "localadmin_id": 1127230221
+      }
     ],
-    "wof:id":1310195609,
-    "wof:lastmodified":1566690249,
-    "wof:name":"Xinglonggou",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310195609,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Xinglonggou",
+    "wof:parent_id": 1127230221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.18486,
     47.50479,
     123.18486,
     47.50479
-],
-  "geometry": {"coordinates":[123.18486,47.50479],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.18486,
+      47.50479
+    ],
+    "type": "Point"
+  }
 }

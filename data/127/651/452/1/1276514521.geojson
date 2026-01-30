@@ -2,75 +2,83 @@
   "id": 1276514521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.038,35.7767,119.038,35.7767",
-    "geom:latitude":35.7767,
-    "geom:longitude":119.038,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Xipoxi",
-    "gn:country_code":"CN",
-    "gn:dem":171,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9121770,
-    "gn:latitude":35.7767,
-    "gn:longitude":119.038,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Xipoxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.018,35.7567,119.058,35.7967",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u5761\u897f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.038,35.7767,119.038,35.7767",
+    "geom:latitude": 35.7767,
+    "geom:longitude": 119.038,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Xipoxi",
+    "gn:country_code": "CN",
+    "gn:dem": 171,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9121770,
+    "gn:latitude": 35.7767,
+    "gn:longitude": 119.038,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Xipoxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.018,35.7567,119.058,35.7967",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西坡西"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514757
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512685,
+      890514757
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9121770
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9121770
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3f74d44a11e848b6606ea2252c1d3355",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514757,
-            "empire_id":136253041,
-            "locality_id":1276514521,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3f74d44a11e848b6606ea2252c1d3355",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514757,
+        "empire_id": 136253041,
+        "locality_id": 1276514521,
+        "region_id": 85669813,
+        "localadmin_id": 890512685
+      }
     ],
-    "wof:id":1276514521,
-    "wof:lastmodified":1566674208,
-    "wof:name":"Xipoxi",
-    "wof:parent_id":890514757,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276514521,
+    "wof:lastmodified": 1768668352,
+    "wof:name": "Xipoxi",
+    "wof:parent_id": 890512685,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.038,
     35.7767,
     119.038,
     35.7767
-],
-  "geometry": {"coordinates":[119.038,35.7767],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.038,
+      35.7767
+    ],
+    "type": "Point"
+  }
 }

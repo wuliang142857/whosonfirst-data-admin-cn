@@ -2,77 +2,85 @@
   "id": 1225827743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.26485,33.06775,105.26485,33.06775",
-    "geom:latitude":33.06775,
-    "geom:longitude":105.26485,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Luotang",
-    "gn:country_code":"CN",
-    "gn:dem":1182,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7372475,
-    "gn:latitude":33.06775,
-    "gn:longitude":105.26485,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Luotang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.24485,33.04775,105.28485,33.08775",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6d1b\u5858",
-        "Luotang Zhen",
-        "\u6d1b\u5858\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.26485,33.06775,105.26485,33.06775",
+    "geom:latitude": 33.06775,
+    "geom:longitude": 105.26485,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Luotang",
+    "gn:country_code": "CN",
+    "gn:dem": 1182,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7372475,
+    "gn:latitude": 33.06775,
+    "gn:longitude": 105.26485,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Luotang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.24485,33.04775,105.28485,33.08775",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "洛塘",
+      "Luotang Zhen",
+      "洛塘镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7372475
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7372475
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3ec3642153b97a709fac7d0c2d094a89",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1225827743,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3ec3642153b97a709fac7d0c2d094a89",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1225827743,
+        "region_id": 85669711,
+        "localadmin_id": 1127621202
+      }
     ],
-    "wof:id":1225827743,
-    "wof:lastmodified":1566705812,
-    "wof:name":"Luotang",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225827743,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Luotang",
+    "wof:parent_id": 1127621202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.26485,
     33.06775,
     105.26485,
     33.06775
-],
-  "geometry": {"coordinates":[105.26485,33.06775],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.26485,
+      33.06775
+    ],
+    "type": "Point"
+  }
 }

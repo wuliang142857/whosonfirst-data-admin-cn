@@ -2,75 +2,83 @@
   "id": 1343814801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.29245,32.5239,108.29245,32.5239",
-    "geom:latitude":32.5239,
-    "geom:longitude":108.29245,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Caomenkou",
-    "gn:country_code":"CN",
-    "gn:dem":968,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11332407,
-    "gn:latitude":32.5239,
-    "gn:longitude":108.29245,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Caomenkou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.27245,32.5039,108.31245,32.5439",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u69fd\u95e8\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.29245,32.5239,108.29245,32.5239",
+    "geom:latitude": 32.5239,
+    "geom:longitude": 108.29245,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Caomenkou",
+    "gn:country_code": "CN",
+    "gn:dem": 968,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11332407,
+    "gn:latitude": 32.5239,
+    "gn:longitude": 108.29245,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Caomenkou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.27245,32.5039,108.31245,32.5439",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "槽门口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515101,
+      1127610924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11332407
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11332407
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1a1fe527d6101948839894a36db8176c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1343814801,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1a1fe527d6101948839894a36db8176c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1343814801,
+        "region_id": 85669769,
+        "localadmin_id": 1127610924
+      }
     ],
-    "wof:id":1343814801,
-    "wof:lastmodified":1566664465,
-    "wof:name":"Caomenkou",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343814801,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Caomenkou",
+    "wof:parent_id": 1127610924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.29245,
     32.5239,
     108.29245,
     32.5239
-],
-  "geometry": {"coordinates":[108.29245,32.5239],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.29245,
+      32.5239
+    ],
+    "type": "Point"
+  }
 }

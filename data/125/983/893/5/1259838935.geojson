@@ -2,75 +2,83 @@
   "id": 1259838935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.201,31.8218,105.201,31.8218",
-    "geom:latitude":31.8218,
-    "geom:longitude":105.201,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Xiaoting",
-    "gn:country_code":"CN",
-    "gn:dem":541,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10161504,
-    "gn:latitude":31.8218,
-    "gn:longitude":105.201,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Xiaoting",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.181,31.8018,105.221,31.8418",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u4ead"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.201,31.8218,105.201,31.8218",
+    "geom:latitude": 31.8218,
+    "geom:longitude": 105.201,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Xiaoting",
+    "gn:country_code": "CN",
+    "gn:dem": 541,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10161504,
+    "gn:latitude": 31.8218,
+    "gn:longitude": 105.201,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Xiaoting",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.181,31.8018,105.221,31.8418",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小亭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      1127510725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10161504
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10161504
     },
-    "wof:country":"CN",
-    "wof:geomhash":"629075bae1c7f5d9fcda51a783c33d2f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1259838935,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "629075bae1c7f5d9fcda51a783c33d2f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1259838935,
+        "region_id": 85669787,
+        "localadmin_id": 1127510725
+      }
     ],
-    "wof:id":1259838935,
-    "wof:lastmodified":1566698783,
-    "wof:name":"Xiaoting",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259838935,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Xiaoting",
+    "wof:parent_id": 1127510725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.201,
     31.8218,
     105.201,
     31.8218
-],
-  "geometry": {"coordinates":[105.20099999999999,31.8218],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.201,
+      31.8218
+    ],
+    "type": "Point"
+  }
 }

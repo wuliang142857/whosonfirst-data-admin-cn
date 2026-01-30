@@ -2,78 +2,86 @@
   "id": 1260284199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.09959,32.25838,119.09959,32.25838",
-    "geom:latitude":32.25838,
-    "geom:longitude":119.09959,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Shawo",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8273040,
-    "gn:latitude":32.25838,
-    "gn:longitude":119.09959,
-    "gn:modification_date":"2012-05-07",
-    "gn:name":"Shawo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.07959,32.23838,119.11959,32.27838",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Shawo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.09959,32.25838,119.09959,32.25838",
+    "geom:latitude": 32.25838,
+    "geom:longitude": 119.09959,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Shawo",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8273040,
+    "gn:latitude": 32.25838,
+    "gn:longitude": 119.09959,
+    "gn:modification_date": "2012-05-07",
+    "gn:name": "Shawo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.07959,32.23838,119.11959,32.27838",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Shawo"
     ],
-    "name:zho_x_preferred":[
-        "\u6c99\u7a9d"
+    "name:zho_x_preferred": [
+      "沙窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516397
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516397,
+      1127321081
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8273040
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8273040
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ad0c97475fb4c186e465cd5e0140c1f4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516397,
-            "empire_id":136253041,
-            "locality_id":1260284199,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ad0c97475fb4c186e465cd5e0140c1f4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516397,
+        "empire_id": 136253041,
+        "locality_id": 1260284199,
+        "region_id": 85669827,
+        "localadmin_id": 1127321081
+      }
     ],
-    "wof:id":1260284199,
-    "wof:lastmodified":1566687360,
-    "wof:name":"Shawo",
-    "wof:parent_id":890516397,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260284199,
+    "wof:lastmodified": 1768670913,
+    "wof:name": "Shawo",
+    "wof:parent_id": 1127321081,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.09959,
     32.25838,
     119.09959,
     32.25838
-],
-  "geometry": {"coordinates":[119.09959000000001,32.25838],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.09959,
+      32.25838
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1360159455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.004,41.8446,121.004,41.8446",
-    "geom:latitude":41.8446,
-    "geom:longitude":121.004,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Dezhengou",
-    "gn:country_code":"CN",
-    "gn:dem":236,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11508806,
-    "gn:latitude":41.8446,
-    "gn:longitude":121.004,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Dezhengou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.984,41.8246,121.024,41.8646",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5fb7\u73cd\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.004,41.8446,121.004,41.8446",
+    "geom:latitude": 41.8446,
+    "geom:longitude": 121.004,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Dezhengou",
+    "gn:country_code": "CN",
+    "gn:dem": 236,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11508806,
+    "gn:latitude": 41.8446,
+    "gn:longitude": 121.004,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Dezhengou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.984,41.8246,121.024,41.8646",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "德珍沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515907,
+      1127211381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11508806
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11508806
     },
-    "wof:country":"CN",
-    "wof:geomhash":"916c29da6ebe04a4611084d6034e6aec",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515907,
-            "empire_id":136253041,
-            "locality_id":1360159455,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "916c29da6ebe04a4611084d6034e6aec",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515907,
+        "empire_id": 136253041,
+        "locality_id": 1360159455,
+        "region_id": 85669807,
+        "localadmin_id": 1127211381
+      }
     ],
-    "wof:id":1360159455,
-    "wof:lastmodified":1566691241,
-    "wof:name":"Dezhengou",
-    "wof:parent_id":890515907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360159455,
+    "wof:lastmodified": 1768667055,
+    "wof:name": "Dezhengou",
+    "wof:parent_id": 1127211381,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.004,
     41.8446,
     121.004,
     41.8446
-],
-  "geometry": {"coordinates":[121.004,41.8446],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.004,
+      41.8446
+    ],
+    "type": "Point"
+  }
 }

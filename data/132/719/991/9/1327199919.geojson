@@ -2,75 +2,83 @@
   "id": 1327199919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.181,26.0021,105.181,26.0021",
-    "geom:latitude":26.0021,
-    "geom:longitude":105.181,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Yanjiaoping",
-    "gn:country_code":"CN",
-    "gn:dem":1199,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10003533,
-    "gn:latitude":26.0021,
-    "gn:longitude":105.181,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Yanjiaoping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.161,25.9821,105.201,26.0221",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5ca9\u811a\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.181,26.0021,105.181,26.0021",
+    "geom:latitude": 26.0021,
+    "geom:longitude": 105.181,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Yanjiaoping",
+    "gn:country_code": "CN",
+    "gn:dem": 1199,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10003533,
+    "gn:latitude": 26.0021,
+    "gn:longitude": 105.181,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Yanjiaoping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.161,25.9821,105.201,26.0221",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "岩脚坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890513357,
+      1108732559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10003533
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10003533
     },
-    "wof:country":"CN",
-    "wof:geomhash":"21b8fd4bf8cc7a9f6cdd7b3c4b4a8c65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732559,
-            "empire_id":136253041,
-            "locality_id":1327199919,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "21b8fd4bf8cc7a9f6cdd7b3c4b4a8c65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732559,
+        "empire_id": 136253041,
+        "locality_id": 1327199919,
+        "region_id": 85669721,
+        "localadmin_id": 890513357
+      }
     ],
-    "wof:id":1327199919,
-    "wof:lastmodified":1566654173,
-    "wof:name":"Yanjiaoping",
-    "wof:parent_id":1108732559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327199919,
+    "wof:lastmodified": 1768665767,
+    "wof:name": "Yanjiaoping",
+    "wof:parent_id": 890513357,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.181,
     26.0021,
     105.181,
     26.0021
-],
-  "geometry": {"coordinates":[105.181,26.0021],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.181,
+      26.0021
+    ],
+    "type": "Point"
+  }
 }

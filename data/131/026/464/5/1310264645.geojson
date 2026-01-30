@@ -2,81 +2,89 @@
   "id": 1310264645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.825,23.50778,112.825,23.50778",
-    "geom:latitude":23.50778,
-    "geom:longitude":112.825,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Jingkou",
-    "gn:country_code":"CN",
-    "gn:dem":14,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1805626,
-    "gn:latitude":23.50778,
-    "gn:longitude":112.825,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Jingkou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.805,23.48778,112.845,23.52778",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ching-k\u2019ou",
-        "Jingkou",
-        "Jingkou Zhen",
-        "\u8ff3\u53e3\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.825,23.50778,112.825,23.50778",
+    "geom:latitude": 23.50778,
+    "geom:longitude": 112.825,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Jingkou",
+    "gn:country_code": "CN",
+    "gn:dem": 14,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1805626,
+    "gn:latitude": 23.50778,
+    "gn:longitude": 112.825,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Jingkou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.805,23.48778,112.845,23.52778",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ching-k’ou",
+      "Jingkou",
+      "Jingkou Zhen",
+      "迳口镇"
     ],
-    "name:zho_x_preferred":[
-        "\u8ff3\u53e3"
+    "name:zho_x_preferred": [
+      "迳口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514727
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514727,
+      890515109
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1805626
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1805626
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d4915cde283a4f729843ba7a029a805d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514727,
-            "empire_id":136253041,
-            "locality_id":1310264645,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d4915cde283a4f729843ba7a029a805d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514727,
+        "empire_id": 136253041,
+        "locality_id": 1310264645,
+        "region_id": 85669743,
+        "localadmin_id": 890515109
+      }
     ],
-    "wof:id":1310264645,
-    "wof:lastmodified":1566690204,
-    "wof:name":"Jingkou",
-    "wof:parent_id":890514727,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310264645,
+    "wof:lastmodified": 1768667906,
+    "wof:name": "Jingkou",
+    "wof:parent_id": 890515109,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.825,
     23.50778,
     112.825,
     23.50778
-],
-  "geometry": {"coordinates":[112.825,23.50778],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.825,
+      23.50778
+    ],
+    "type": "Point"
+  }
 }

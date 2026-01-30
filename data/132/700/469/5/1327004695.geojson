@@ -2,75 +2,83 @@
   "id": 1327004695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.21174,39.75135,122.21174,39.75135",
-    "geom:latitude":39.75135,
-    "geom:longitude":122.21174,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Sandaogou",
-    "gn:country_code":"CN",
-    "gn:dem":111,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7403113,
-    "gn:latitude":39.75135,
-    "gn:longitude":122.21174,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Sandaogou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.19174,39.73135,122.23174,39.77135",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u9053\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.21174,39.75135,122.21174,39.75135",
+    "geom:latitude": 39.75135,
+    "geom:longitude": 122.21174,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Sandaogou",
+    "gn:country_code": "CN",
+    "gn:dem": 111,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7403113,
+    "gn:latitude": 39.75135,
+    "gn:longitude": 122.21174,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Sandaogou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.19174,39.73135,122.23174,39.77135",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三道沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210214
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7403113
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7403113
     },
-    "wof:country":"CN",
-    "wof:geomhash":"35106f8b47c11106aa10ac55606e6bc1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1327004695,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "35106f8b47c11106aa10ac55606e6bc1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1327004695,
+        "region_id": 85669807,
+        "localadmin_id": 1127210214
+      }
     ],
-    "wof:id":1327004695,
-    "wof:lastmodified":1566647564,
-    "wof:name":"Sandaogou",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327004695,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Sandaogou",
+    "wof:parent_id": 1127210214,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.21174,
     39.75135,
     122.21174,
     39.75135
-],
-  "geometry": {"coordinates":[122.21174000000001,39.75135],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.21174,
+      39.75135
+    ],
+    "type": "Point"
+  }
 }

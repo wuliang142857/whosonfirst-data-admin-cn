@@ -2,75 +2,83 @@
   "id": 1226354617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.89198,28.107,120.89198,28.107",
-    "geom:latitude":28.107,
-    "geom:longitude":120.89198,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Yaokeng",
-    "gn:country_code":"CN",
-    "gn:dem":254,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8401904,
-    "gn:latitude":28.107,
-    "gn:longitude":120.89198,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Yaokeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.87198,28.087,120.91198,28.127",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7476\u5751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.89198,28.107,120.89198,28.107",
+    "geom:latitude": 28.107,
+    "geom:longitude": 120.89198,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Yaokeng",
+    "gn:country_code": "CN",
+    "gn:dem": 254,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8401904,
+    "gn:latitude": 28.107,
+    "gn:longitude": 120.89198,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Yaokeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.87198,28.087,120.91198,28.127",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "瑶坑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890511847,
+      890514289
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8401904
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8401904
     },
-    "wof:country":"CN",
-    "wof:geomhash":"35fb9ea0bbcccf81d55322857d754542",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1226354617,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "35fb9ea0bbcccf81d55322857d754542",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1226354617,
+        "region_id": 85669835,
+        "localadmin_id": 890511847
+      }
     ],
-    "wof:id":1226354617,
-    "wof:lastmodified":1566702361,
-    "wof:name":"Yaokeng",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226354617,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Yaokeng",
+    "wof:parent_id": 890511847,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.89198,
     28.107,
     120.89198,
     28.107
-],
-  "geometry": {"coordinates":[120.89198,28.107],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.89198,
+      28.107
+    ],
+    "type": "Point"
+  }
 }

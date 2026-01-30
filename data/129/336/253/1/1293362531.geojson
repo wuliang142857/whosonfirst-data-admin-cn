@@ -2,75 +2,83 @@
   "id": 1293362531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.019,25.7644,110.019,25.7644",
-    "geom:latitude":25.7644,
-    "geom:longitude":110.019,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Jinjie",
-    "gn:country_code":"CN",
-    "gn:dem":304,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1993660,
-    "gn:latitude":25.7644,
-    "gn:longitude":110.019,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Jinjie",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.999,25.7444,110.039,25.7844",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u91d1\u7ed3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.019,25.7644,110.019,25.7644",
+    "geom:latitude": 25.7644,
+    "geom:longitude": 110.019,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Jinjie",
+    "gn:country_code": "CN",
+    "gn:dem": 304,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1993660,
+    "gn:latitude": 25.7644,
+    "gn:longitude": 110.019,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Jinjie",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.999,25.7444,110.039,25.7844",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "金结"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732443
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516075,
+      1108732443
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1993660
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1993660
     },
-    "wof:country":"CN",
-    "wof:geomhash":"173ec239613006f740f5195cd2a34f60",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":1293362531,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "173ec239613006f740f5195cd2a34f60",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 1293362531,
+        "region_id": 85669717,
+        "localadmin_id": 890516075
+      }
     ],
-    "wof:id":1293362531,
-    "wof:lastmodified":1566665528,
-    "wof:name":"Jinjie",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293362531,
+    "wof:lastmodified": 1768665551,
+    "wof:name": "Jinjie",
+    "wof:parent_id": 890516075,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.019,
     25.7644,
     110.019,
     25.7644
-],
-  "geometry": {"coordinates":[110.01900000000001,25.7644],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.019,
+      25.7644
+    ],
+    "type": "Point"
+  }
 }

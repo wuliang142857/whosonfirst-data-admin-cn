@@ -2,77 +2,85 @@
   "id": 1310312317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.96811,28.30127,116.96811,28.30127",
-    "geom:latitude":28.30127,
-    "geom:longitude":116.96811,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Zhongtong",
-    "gn:country_code":"CN",
-    "gn:dem":39,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1784292,
-    "gn:latitude":28.30127,
-    "gn:longitude":116.96811,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhongtong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.94811,28.28127,116.98811,28.32127",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e2d\u7ae5",
-        "Zhongtong Zhen",
-        "\u4e2d\u7ae5\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.96811,28.30127,116.96811,28.30127",
+    "geom:latitude": 28.30127,
+    "geom:longitude": 116.96811,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Zhongtong",
+    "gn:country_code": "CN",
+    "gn:dem": 39,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1784292,
+    "gn:latitude": 28.30127,
+    "gn:longitude": 116.96811,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhongtong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.94811,28.28127,116.98811,28.32127",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "中童",
+      "Zhongtong Zhen",
+      "中童镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514939
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514939,
+      1127360603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784292
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784292
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b79bdad5c1212709036f8e687f802aa0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514939,
-            "empire_id":136253041,
-            "locality_id":1310312317,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b79bdad5c1212709036f8e687f802aa0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514939,
+        "empire_id": 136253041,
+        "locality_id": 1310312317,
+        "region_id": 85669823,
+        "localadmin_id": 1127360603
+      }
     ],
-    "wof:id":1310312317,
-    "wof:lastmodified":1566689088,
-    "wof:name":"Zhongtong",
-    "wof:parent_id":890514939,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310312317,
+    "wof:lastmodified": 1768670190,
+    "wof:name": "Zhongtong",
+    "wof:parent_id": 1127360603,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.96811,
     28.30127,
     116.96811,
     28.30127
-],
-  "geometry": {"coordinates":[116.96811,28.30127],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.96811,
+      28.30127
+    ],
+    "type": "Point"
+  }
 }

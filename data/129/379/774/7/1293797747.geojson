@@ -2,75 +2,83 @@
   "id": 1293797747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.24563,30.4207,116.24563,30.4207",
-    "geom:latitude":30.4207,
-    "geom:longitude":116.24563,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Chunguangcun",
-    "gn:country_code":"CN",
-    "gn:dem":75,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10799655,
-    "gn:latitude":30.4207,
-    "gn:longitude":116.24563,
-    "gn:modification_date":"2015-10-07",
-    "gn:name":"Chunguangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.22563,30.4007,116.26563,30.4407",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6625\u5149\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.24563,30.4207,116.24563,30.4207",
+    "geom:latitude": 30.4207,
+    "geom:longitude": 116.24563,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Chunguangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 75,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10799655,
+    "gn:latitude": 30.4207,
+    "gn:longitude": 116.24563,
+    "gn:modification_date": "2015-10-07",
+    "gn:name": "Chunguangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.22563,30.4007,116.26563,30.4407",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "春光村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890516201
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890516201,
+      1127340825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10799655
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10799655
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f415480a5a44e8f9303ddefde8a8b72b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516201,
-            "empire_id":136253041,
-            "locality_id":1293797747,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f415480a5a44e8f9303ddefde8a8b72b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516201,
+        "empire_id": 136253041,
+        "locality_id": 1293797747,
+        "region_id": 85669739,
+        "localadmin_id": 1127340825
+      }
     ],
-    "wof:id":1293797747,
-    "wof:lastmodified":1566667398,
-    "wof:name":"Chunguangcun",
-    "wof:parent_id":890516201,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293797747,
+    "wof:lastmodified": 1768670158,
+    "wof:name": "Chunguangcun",
+    "wof:parent_id": 1127340825,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.24563,
     30.4207,
     116.24563,
     30.4207
-],
-  "geometry": {"coordinates":[116.24563000000001,30.4207],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.24563,
+      30.4207
+    ],
+    "type": "Point"
+  }
 }

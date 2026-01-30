@@ -2,87 +2,95 @@
   "id": 1242758689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.17028,25.22389,112.17028,25.22389",
-    "geom:latitude":25.22389,
-    "geom:longitude":112.17028,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Banshan",
-    "gn:country_code":"CN",
-    "gn:dem":721,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6420206,
-    "gn:latitude":25.22389,
-    "gn:longitude":112.17028,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Banshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.15028,25.20389,112.19028,25.24389",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Banshan-Machang-Kultur"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.17028,25.22389,112.17028,25.22389",
+    "geom:latitude": 25.22389,
+    "geom:longitude": 112.17028,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Banshan",
+    "gn:country_code": "CN",
+    "gn:dem": 721,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6420206,
+    "gn:latitude": 25.22389,
+    "gn:longitude": 112.17028,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Banshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.15028,25.20389,112.19028,25.24389",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Banshan-Machang-Kultur"
     ],
-    "name:swe_x_preferred":[
-        "Banshankulturen"
+    "name:swe_x_preferred": [
+      "Banshankulturen"
     ],
-    "name:ukr_x_preferred":[
-        "\u0411\u0430\u043d\u044c\u0448\u0430\u043d\u044c"
+    "name:ukr_x_preferred": [
+      "Баньшань"
     ],
-    "name:und_x_variant":[
-        "\u534a\u5c71"
+    "name:und_x_variant": [
+      "半山"
     ],
-    "name:zho_x_preferred":[
-        "\u534a\u5c71\u907a\u5740"
+    "name:zho_x_preferred": [
+      "半山遺址"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515001
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515001,
+      1127431127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6420206
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6420206
     },
-    "wof:country":"CN",
-    "wof:geomhash":"056b52c64f281bdf952ed086e7effd4a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515001,
-            "empire_id":136253041,
-            "locality_id":1242758689,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "056b52c64f281bdf952ed086e7effd4a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515001,
+        "empire_id": 136253041,
+        "locality_id": 1242758689,
+        "region_id": 85669781,
+        "localadmin_id": 1127431127
+      }
     ],
-    "wof:id":1242758689,
-    "wof:lastmodified":1566694655,
-    "wof:name":"Banshan",
-    "wof:parent_id":890515001,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242758689,
+    "wof:lastmodified": 1768670294,
+    "wof:name": "Banshan",
+    "wof:parent_id": 1127431127,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.17028,
     25.22389,
     112.17028,
     25.22389
-],
-  "geometry": {"coordinates":[112.17028000000001,25.22389],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.17028,
+      25.22389
+    ],
+    "type": "Point"
+  }
 }

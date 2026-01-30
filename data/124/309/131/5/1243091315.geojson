@@ -2,75 +2,83 @@
   "id": 1243091315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.03668,34.35497,119.03668,34.35497",
-    "geom:latitude":34.35497,
-    "geom:longitude":119.03668,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Gangyao",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9802761,
-    "gn:latitude":34.35497,
-    "gn:longitude":119.03668,
-    "gn:modification_date":"2014-11-07",
-    "gn:name":"Gangyao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.01668,34.33497,119.05668,34.37497",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7eb2\u8981"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.03668,34.35497,119.03668,34.35497",
+    "geom:latitude": 34.35497,
+    "geom:longitude": 119.03668,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Gangyao",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9802761,
+    "gn:latitude": 34.35497,
+    "gn:longitude": 119.03668,
+    "gn:modification_date": "2014-11-07",
+    "gn:name": "Gangyao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.01668,34.33497,119.05668,34.37497",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "纲要"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890512205
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890512205,
+      890514101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9802761
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9802761
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9da11d2a1a90af9f30341d7e99801dcb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512205,
-            "empire_id":136253041,
-            "locality_id":1243091315,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9da11d2a1a90af9f30341d7e99801dcb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512205,
+        "empire_id": 136253041,
+        "locality_id": 1243091315,
+        "region_id": 85669827,
+        "localadmin_id": 890514101
+      }
     ],
-    "wof:id":1243091315,
-    "wof:lastmodified":1566693922,
-    "wof:name":"Gangyao",
-    "wof:parent_id":890512205,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243091315,
+    "wof:lastmodified": 1768671012,
+    "wof:name": "Gangyao",
+    "wof:parent_id": 890514101,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.03668,
     34.35497,
     119.03668,
     34.35497
-],
-  "geometry": {"coordinates":[119.03668,34.35497],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.03668,
+      34.35497
+    ],
+    "type": "Point"
+  }
 }

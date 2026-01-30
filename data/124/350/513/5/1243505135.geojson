@@ -2,75 +2,83 @@
   "id": 1243505135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.24,23.299,102.24,23.299",
-    "geom:latitude":23.299,
-    "geom:longitude":102.24,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Along",
-    "gn:country_code":"CN",
-    "gn:dem":1826,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9931578,
-    "gn:latitude":23.299,
-    "gn:longitude":102.24,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Along",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.22,23.279,102.26,23.319",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u963f\u9f99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.24,23.299,102.24,23.299",
+    "geom:latitude": 23.299,
+    "geom:longitude": 102.24,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Along",
+    "gn:country_code": "CN",
+    "gn:dem": 1826,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9931578,
+    "gn:latitude": 23.299,
+    "gn:longitude": 102.24,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Along",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.22,23.279,102.26,23.319",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "阿龙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      1108794063,
+      1127532529
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9931578
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9931578
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a1776dcea43151447cd7e38f42f6e760",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1243505135,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a1776dcea43151447cd7e38f42f6e760",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1243505135,
+        "region_id": 85669791,
+        "localadmin_id": 1127532529
+      }
     ],
-    "wof:id":1243505135,
-    "wof:lastmodified":1566695913,
-    "wof:name":"Along",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243505135,
+    "wof:lastmodified": 1768668218,
+    "wof:name": "Along",
+    "wof:parent_id": 1127532529,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.24,
     23.299,
     102.24,
     23.299
-],
-  "geometry": {"coordinates":[102.23999999999999,23.299],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.24,
+      23.299
+    ],
+    "type": "Point"
+  }
 }

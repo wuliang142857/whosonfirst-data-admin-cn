@@ -2,75 +2,83 @@
   "id": 1344159761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.73167,27.39556,119.73167,27.39556",
-    "geom:latitude":27.39556,
-    "geom:longitude":119.73167,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Majiling",
-    "gn:country_code":"CN",
-    "gn:dem":411,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1985286,
-    "gn:latitude":27.39556,
-    "gn:longitude":119.73167,
-    "gn:modification_date":"2012-08-05",
-    "gn:name":"Majiling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.71167,27.37556,119.75167,27.41556",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u8ff9\u5cad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.73167,27.39556,119.73167,27.39556",
+    "geom:latitude": 27.39556,
+    "geom:longitude": 119.73167,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Majiling",
+    "gn:country_code": "CN",
+    "gn:dem": 411,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1985286,
+    "gn:latitude": 27.39556,
+    "gn:longitude": 119.73167,
+    "gn:modification_date": "2012-08-05",
+    "gn:name": "Majiling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.71167,27.37556,119.75167,27.41556",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马迹岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1985286
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1985286
     },
-    "wof:country":"CN",
-    "wof:geomhash":"939dd0226146a2583670ecd9be620d50",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1344159761,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "939dd0226146a2583670ecd9be620d50",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1344159761,
+        "region_id": 85669835,
+        "localadmin_id": 1127330329
+      }
     ],
-    "wof:id":1344159761,
-    "wof:lastmodified":1566658201,
-    "wof:name":"Majiling",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344159761,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Majiling",
+    "wof:parent_id": 1127330329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.73167,
     27.39556,
     119.73167,
     27.39556
-],
-  "geometry": {"coordinates":[119.73166999999999,27.39556],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.73167,
+      27.39556
+    ],
+    "type": "Point"
+  }
 }

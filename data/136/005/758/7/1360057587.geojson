@@ -2,84 +2,92 @@
   "id": 1360057587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.704,23.2903,105.704,23.2903",
-    "geom:latitude":23.2903,
-    "geom:longitude":105.704,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Gemen",
-    "gn:country_code":"CN",
-    "gn:dem":860,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9907733,
-    "gn:latitude":23.2903,
-    "gn:longitude":105.704,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Gemen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.684,23.2703,105.724,23.3103",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bul_x_preferred":[
-        "\u0413\u043e\u0441\u043f\u043e\u0434\u0441\u0442\u0432\u043e \u0413\u0435\u043c\u0435\u043d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.704,23.2903,105.704,23.2903",
+    "geom:latitude": 23.2903,
+    "geom:longitude": 105.704,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Gemen",
+    "gn:country_code": "CN",
+    "gn:dem": 860,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9907733,
+    "gn:latitude": 23.2903,
+    "gn:longitude": 105.704,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Gemen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.684,23.2703,105.724,23.3103",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bul_x_preferred": [
+      "Господство Гемен"
     ],
-    "name:deu_x_preferred":[
-        "Herrschaft Gemen"
+    "name:deu_x_preferred": [
+      "Herrschaft Gemen"
     ],
-    "name:nld_x_preferred":[
-        "Rijksheerlijkheid Gemen"
+    "name:nld_x_preferred": [
+      "Rijksheerlijkheid Gemen"
     ],
-    "name:zho_x_preferred":[
-        "\u5404\u95e8"
+    "name:zho_x_preferred": [
+      "各门"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451026
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9907733
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9907733
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ac706547546358372bf5dc508c9d092c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1360057587,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ac706547546358372bf5dc508c9d092c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1360057587,
+        "region_id": 85669717,
+        "localadmin_id": 1127451026
+      }
     ],
-    "wof:id":1360057587,
-    "wof:lastmodified":1566692213,
-    "wof:name":"Gemen",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360057587,
+    "wof:lastmodified": 1768665072,
+    "wof:name": "Gemen",
+    "wof:parent_id": 1127451026,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.704,
     23.2903,
     105.704,
     23.2903
-],
-  "geometry": {"coordinates":[105.70399999999999,23.2903],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.704,
+      23.2903
+    ],
+    "type": "Point"
+  }
 }

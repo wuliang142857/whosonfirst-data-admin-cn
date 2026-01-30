@@ -2,82 +2,90 @@
   "id": 1226026345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.17315,25.04,107.17315,25.04",
-    "geom:latitude":25.04,
-    "geom:longitude":107.17315,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Liupai",
-    "gn:country_code":"CN",
-    "gn:dem":697,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1802965,
-    "gn:latitude":25.04,
-    "gn:longitude":107.17315,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Liupai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.15315,25.02,107.19315,25.06",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "T\u2019ien-o"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.17315,25.04,107.17315,25.04",
+    "geom:latitude": 25.04,
+    "geom:longitude": 107.17315,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Liupai",
+    "gn:country_code": "CN",
+    "gn:dem": 697,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1802965,
+    "gn:latitude": 25.04,
+    "gn:longitude": 107.17315,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Liupai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.15315,25.02,107.19315,25.06",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "T’ien-o"
     ],
-    "name:zho_x_variant":[
-        "Liu-p\u2019ai-hsiang",
-        "Tian\u2019e",
-        "Liu-p\u2019ai-chen",
-        "Liu-p\u2019ai-hs\u00fc",
-        "\u516d\u6392"
+    "name:zho_x_variant": [
+      "Liu-p’ai-hsiang",
+      "Tian’e",
+      "Liu-p’ai-chen",
+      "Liu-p’ai-hsü",
+      "六排"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1802965
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1802965
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4f173777eefe7a6c3b96bb03898235af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1226026345,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4f173777eefe7a6c3b96bb03898235af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1226026345,
+        "region_id": 85669717,
+        "localadmin_id": 1127451222
+      }
     ],
-    "wof:id":1226026345,
-    "wof:lastmodified":1566701984,
-    "wof:name":"Liupai",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226026345,
+    "wof:lastmodified": 1768665536,
+    "wof:name": "Liupai",
+    "wof:parent_id": 1127451222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.17315,
     25.04,
     107.17315,
     25.04
-],
-  "geometry": {"coordinates":[107.17315000000001,25.04],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.17315,
+      25.04
+    ],
+    "type": "Point"
+  }
 }

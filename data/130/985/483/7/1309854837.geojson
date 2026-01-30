@@ -2,75 +2,83 @@
   "id": 1309854837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.487,29.7603,105.487,29.7603",
-    "geom:latitude":29.7603,
-    "geom:longitude":105.487,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Yangyin",
-    "gn:country_code":"CN",
-    "gn:dem":412,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186693,
-    "gn:latitude":29.7603,
-    "gn:longitude":105.487,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Yangyin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.467,29.7403,105.507,29.7803",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u5370"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.487,29.7603,105.487,29.7603",
+    "geom:latitude": 29.7603,
+    "geom:longitude": 105.487,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Yangyin",
+    "gn:country_code": "CN",
+    "gn:dem": 412,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186693,
+    "gn:latitude": 29.7603,
+    "gn:longitude": 105.487,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Yangyin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.467,29.7403,105.507,29.7803",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨印"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186693
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186693
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9b64f0fa631f9040fd0dbc14547ebaf0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1309854837,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9b64f0fa631f9040fd0dbc14547ebaf0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1309854837,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1309854837,
-    "wof:lastmodified":1566692840,
-    "wof:name":"Yangyin",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309854837,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Yangyin",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.487,
     29.7603,
     105.487,
     29.7603
-],
-  "geometry": {"coordinates":[105.48699999999999,29.7603],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.487,
+      29.7603
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1309859727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.41675,28.85828,106.41675,28.85828",
-    "geom:latitude":28.85828,
-    "geom:longitude":106.41675,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Yejia",
-    "gn:country_code":"CN",
-    "gn:dem":656,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8422035,
-    "gn:latitude":28.85828,
-    "gn:longitude":106.41675,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Yejia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.39675,28.83828,106.43675,28.87828",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53f6\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.41675,28.85828,106.41675,28.85828",
+    "geom:latitude": 28.85828,
+    "geom:longitude": 106.41675,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Yejia",
+    "gn:country_code": "CN",
+    "gn:dem": 656,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8422035,
+    "gn:latitude": 28.85828,
+    "gn:longitude": 106.41675,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Yejia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.39675,28.83828,106.43675,28.87828",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "叶家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890512859,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8422035
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8422035
     },
-    "wof:country":"CN",
-    "wof:geomhash":"07caa6520e73029b8ba93236d3c271a4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1309859727,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "07caa6520e73029b8ba93236d3c271a4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1309859727,
+        "region_id": 85669725,
+        "localadmin_id": 890512859
+      }
     ],
-    "wof:id":1309859727,
-    "wof:lastmodified":1566692876,
-    "wof:name":"Yejia",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309859727,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Yejia",
+    "wof:parent_id": 890512859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.41675,
     28.85828,
     106.41675,
     28.85828
-],
-  "geometry": {"coordinates":[106.41674999999999,28.85828],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.41675,
+      28.85828
+    ],
+    "type": "Point"
+  }
 }

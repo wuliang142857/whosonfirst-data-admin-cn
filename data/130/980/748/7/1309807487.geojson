@@ -2,75 +2,83 @@
   "id": 1309807487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.27782,30.45977,117.27782,30.45977",
-    "geom:latitude":30.45977,
-    "geom:longitude":117.27782,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Yangcun",
-    "gn:country_code":"CN",
-    "gn:dem":43,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10799915,
-    "gn:latitude":30.45977,
-    "gn:longitude":117.27782,
-    "gn:modification_date":"2015-10-07",
-    "gn:name":"Yangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.25782,30.43977,117.29782,30.47977",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.27782,30.45977,117.27782,30.45977",
+    "geom:latitude": 30.45977,
+    "geom:longitude": 117.27782,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Yangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 43,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10799915,
+    "gn:latitude": 30.45977,
+    "gn:longitude": 117.27782,
+    "gn:modification_date": "2015-10-07",
+    "gn:name": "Yangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.25782,30.43977,117.29782,30.47977",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890513323
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513323,
+      1127341702
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10799915
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10799915
     },
-    "wof:country":"CN",
-    "wof:geomhash":"299c7a3ebcd5f12b39762021da7e1786",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513323,
-            "empire_id":136253041,
-            "locality_id":1309807487,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "299c7a3ebcd5f12b39762021da7e1786",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513323,
+        "empire_id": 136253041,
+        "locality_id": 1309807487,
+        "region_id": 85669739,
+        "localadmin_id": 1127341702
+      }
     ],
-    "wof:id":1309807487,
-    "wof:lastmodified":1566693304,
-    "wof:name":"Yangcun",
-    "wof:parent_id":890513323,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309807487,
+    "wof:lastmodified": 1768669912,
+    "wof:name": "Yangcun",
+    "wof:parent_id": 1127341702,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.27782,
     30.45977,
     117.27782,
     30.45977
-],
-  "geometry": {"coordinates":[117.27782000000001,30.45977],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.27782,
+      30.45977
+    ],
+    "type": "Point"
+  }
 }

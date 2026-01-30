@@ -2,83 +2,91 @@
   "id": 1226049739,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.29633,28.84619,117.29633,28.84619",
-    "geom:latitude":28.84619,
-    "geom:longitude":117.29633,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Zhongbu",
-    "gn:country_code":"CN",
-    "gn:dem":55,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1784457,
-    "gn:latitude":28.84619,
-    "gn:longitude":117.29633,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhongbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.27633,28.82619,117.31633,28.86619",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chung-pu",
-        "Chung-fou-chieh",
-        "Chung-pu-chieh",
-        "Chung-fou",
-        "Zhongbujie",
-        "Zhongbu",
-        "\u4f17\u57e0",
-        "Zhongbu Zhen",
-        "\u4f17\u57e0\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.29633,28.84619,117.29633,28.84619",
+    "geom:latitude": 28.84619,
+    "geom:longitude": 117.29633,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Zhongbu",
+    "gn:country_code": "CN",
+    "gn:dem": 55,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1784457,
+    "gn:latitude": 28.84619,
+    "gn:longitude": 117.29633,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhongbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.27633,28.82619,117.31633,28.86619",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chung-pu",
+      "Chung-fou-chieh",
+      "Chung-pu-chieh",
+      "Chung-fou",
+      "Zhongbujie",
+      "Zhongbu",
+      "众埠",
+      "Zhongbu Zhen",
+      "众埠镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514599
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514599,
+      1127360281
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784457
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784457
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bc9d515d7b1566f72892d496e18e907f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514599,
-            "empire_id":136253041,
-            "locality_id":1226049739,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bc9d515d7b1566f72892d496e18e907f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514599,
+        "empire_id": 136253041,
+        "locality_id": 1226049739,
+        "region_id": 85669823,
+        "localadmin_id": 1127360281
+      }
     ],
-    "wof:id":1226049739,
-    "wof:lastmodified":1566702294,
-    "wof:name":"Zhongbu",
-    "wof:parent_id":890514599,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226049739,
+    "wof:lastmodified": 1768670180,
+    "wof:name": "Zhongbu",
+    "wof:parent_id": 1127360281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.29633,
     28.84619,
     117.29633,
     28.84619
-],
-  "geometry": {"coordinates":[117.29633,28.84619],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.29633,
+      28.84619
+    ],
+    "type": "Point"
+  }
 }

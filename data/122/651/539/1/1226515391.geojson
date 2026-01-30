@@ -2,77 +2,85 @@
   "id": 1226515391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.54889,34.56333,105.54889,34.56333",
-    "geom:latitude":34.56333,
-    "geom:longitude":105.54889,
-    "gn:admin1_code":"15",
-    "gn:asciiname":"Taijing",
-    "gn:country_code":"CN",
-    "gn:dem":1299,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1899315,
-    "gn:latitude":34.56333,
-    "gn:longitude":105.54889,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Taijing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.52889,34.54333,105.56889,34.58333",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u592a\u4eac",
-        "Taijing Zhen",
-        "\u592a\u4eac\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.54889,34.56333,105.54889,34.56333",
+    "geom:latitude": 34.56333,
+    "geom:longitude": 105.54889,
+    "gn:admin1_code": "15",
+    "gn:asciiname": "Taijing",
+    "gn:country_code": "CN",
+    "gn:dem": 1299,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1899315,
+    "gn:latitude": 34.56333,
+    "gn:longitude": 105.54889,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Taijing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.52889,34.54333,105.56889,34.58333",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "太京",
+      "Taijing Zhen",
+      "太京镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1899315
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1899315
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8f25258bdf9c64deec5b79ebb2a14b32",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1226515391,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8f25258bdf9c64deec5b79ebb2a14b32",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1226515391,
+        "region_id": 85669711,
+        "localadmin_id": 1127620502
+      }
     ],
-    "wof:id":1226515391,
-    "wof:lastmodified":1566702082,
-    "wof:name":"Taijing",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226515391,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Taijing",
+    "wof:parent_id": 1127620502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.54889,
     34.56333,
     105.54889,
     34.56333
-],
-  "geometry": {"coordinates":[105.54889,34.56333],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.54889,
+      34.56333
+    ],
+    "type": "Point"
+  }
 }

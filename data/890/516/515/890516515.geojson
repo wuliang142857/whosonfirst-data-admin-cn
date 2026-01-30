@@ -2,87 +2,95 @@
   "id": 890516515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.0,23.566699,102.0,23.566699",
-    "geom:latitude":23.566699,
-    "geom:longitude":102.0,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"101.98,23.546699,102.02,23.586699",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ell_x_preferred":[
-        "\u039b\u03b9\u03c4\u03b6\u03b9\u03ac\u03bd\u03b3\u03ba"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.0,23.566699,102.0,23.566699",
+    "geom:latitude": 23.566699,
+    "geom:longitude": 102.0,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "101.98,23.546699,102.02,23.586699",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ell_x_preferred": [
+      "Λιτζιάνγκ"
     ],
-    "name:eng_x_preferred":[
-        "Lijiang"
+    "name:eng_x_preferred": [
+      "Lijiang"
     ],
-    "name:hun_x_preferred":[
-        "Lijiang"
+    "name:hun_x_preferred": [
+      "Lijiang"
     ],
-    "name:jpn_x_preferred":[
-        "\u9e97\u6c5f"
+    "name:jpn_x_preferred": [
+      "麗江"
     ],
-    "name:zho_x_preferred":[
-        "\u4e3d\u6c5f"
+    "name:zho_x_preferred": [
+      "丽江"
     ],
-    "qs:name":"\u4e3d\u6c5f",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u4e91\u5357\u7701",
-    "qs:photos":808,
-    "qs:photos_1k":164,
-    "qs:photos_9k":4,
-    "qs:photos_9r":6,
-    "qs:photos_all":808,
-    "qs:photos_sr":9,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890512033
+    "qs:name": "丽江",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "云南省",
+    "qs:photos": 808,
+    "qs:photos_1k": 164,
+    "qs:photos_9k": 4,
+    "qs:photos_9r": 6,
+    "qs:photos_all": 808,
+    "qs:photos_sr": 9,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890512033,
+      890513257
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2160239,
-        "qs_pg:id":215747
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2160239,
+      "qs_pg:id": 215747
     },
-    "wof:country":"CN",
-    "wof:created":1469055961,
-    "wof:geomhash":"d4c87e2d741d0fc98ea46bf59a9ba083",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512033,
-            "empire_id":136253041,
-            "locality_id":890516515,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055961,
+    "wof:geomhash": "d4c87e2d741d0fc98ea46bf59a9ba083",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512033,
+        "empire_id": 136253041,
+        "locality_id": 890516515,
+        "region_id": 85669791,
+        "localadmin_id": 890513257
+      }
     ],
-    "wof:id":890516515,
-    "wof:lastmodified":1636504298,
-    "wof:name":"Lijiang",
-    "wof:parent_id":890512033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516515,
+    "wof:lastmodified": 1768668616,
+    "wof:name": "Lijiang",
+    "wof:parent_id": 890513257,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.0,
     23.566699,
     102.0,
     23.566699
-],
-  "geometry": {"coordinates":[102.0,23.566699],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.0,
+      23.566699
+    ],
+    "type": "Point"
+  }
 }

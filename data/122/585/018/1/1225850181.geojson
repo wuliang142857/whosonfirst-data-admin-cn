@@ -2,81 +2,89 @@
   "id": 1225850181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.348,34.1745,118.348,34.1745",
-    "geom:latitude":34.1745,
-    "geom:longitude":118.348,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Qiaobei",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1798196,
-    "gn:latitude":34.1745,
-    "gn:longitude":118.348,
-    "gn:modification_date":"2016-04-10",
-    "gn:name":"Qiaobei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.328,34.1545,118.368,34.1945",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019iao-pei-chen",
-        "Ch\u2019iao-pei",
-        "Ch\u2019iao-pai-chen",
-        "Qiaobei"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.348,34.1745,118.348,34.1745",
+    "geom:latitude": 34.1745,
+    "geom:longitude": 118.348,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Qiaobei",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1798196,
+    "gn:latitude": 34.1745,
+    "gn:longitude": 118.348,
+    "gn:modification_date": "2016-04-10",
+    "gn:name": "Qiaobei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.328,34.1545,118.368,34.1945",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’iao-pei-chen",
+      "Ch’iao-pei",
+      "Ch’iao-pai-chen",
+      "Qiaobei"
     ],
-    "name:zho_x_preferred":[
-        "\u6865\u5317"
+    "name:zho_x_preferred": [
+      "桥北"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516333,
+      890517003
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1798196
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1798196
     },
-    "wof:country":"CN",
-    "wof:geomhash":"366fcc82e096105e58ac8bce758e1b63",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1225850181,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "366fcc82e096105e58ac8bce758e1b63",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1225850181,
+        "region_id": 85669827,
+        "localadmin_id": 890517003
+      }
     ],
-    "wof:id":1225850181,
-    "wof:lastmodified":1566705844,
-    "wof:name":"Qiaobei",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225850181,
+    "wof:lastmodified": 1768670915,
+    "wof:name": "Qiaobei",
+    "wof:parent_id": 890517003,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.348,
     34.1745,
     118.348,
     34.1745
-],
-  "geometry": {"coordinates":[118.348,34.1745],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.348,
+      34.1745
+    ],
+    "type": "Point"
+  }
 }

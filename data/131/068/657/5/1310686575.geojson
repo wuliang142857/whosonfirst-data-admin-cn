@@ -2,75 +2,83 @@
   "id": 1310686575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"129.50155,48.46727,129.50155,48.46727",
-    "geom:latitude":48.46727,
-    "geom:longitude":129.50155,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Zhongxin Miaopu",
-    "gn:country_code":"CN",
-    "gn:dem":445,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8524026,
-    "gn:latitude":48.46727,
-    "gn:longitude":129.50155,
-    "gn:modification_date":"2013-05-10",
-    "gn:name":"Zhongxin Miaopu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"129.48155,48.44727,129.52155,48.48727",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u5fc3\u82d7\u5703"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "129.50155,48.46727,129.50155,48.46727",
+    "geom:latitude": 48.46727,
+    "geom:longitude": 129.50155,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Zhongxin Miaopu",
+    "gn:country_code": "CN",
+    "gn:dem": 445,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8524026,
+    "gn:latitude": 48.46727,
+    "gn:longitude": 129.50155,
+    "gn:modification_date": "2013-05-10",
+    "gn:name": "Zhongxin Miaopu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "129.48155,48.44727,129.52155,48.48727",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中心苗圃"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890515199
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890515199,
+      1127230723
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8524026
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8524026
     },
-    "wof:country":"CN",
-    "wof:geomhash":"18e4a064ea7592b4444d330f71f5d602",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515199,
-            "empire_id":136253041,
-            "locality_id":1310686575,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "18e4a064ea7592b4444d330f71f5d602",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515199,
+        "empire_id": 136253041,
+        "locality_id": 1310686575,
+        "region_id": 85669849,
+        "localadmin_id": 1127230723
+      }
     ],
-    "wof:id":1310686575,
-    "wof:lastmodified":1566690652,
-    "wof:name":"Zhongxin Miaopu",
-    "wof:parent_id":890515199,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310686575,
+    "wof:lastmodified": 1768669571,
+    "wof:name": "Zhongxin Miaopu",
+    "wof:parent_id": 1127230723,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     129.50155,
     48.46727,
     129.50155,
     48.46727
-],
-  "geometry": {"coordinates":[129.50155000000001,48.46727],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      129.50155,
+      48.46727
+    ],
+    "type": "Point"
+  }
 }

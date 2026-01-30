@@ -2,78 +2,86 @@
   "id": 1310405997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.77389,31.62167,120.77389,31.62167",
-    "geom:latitude":31.62167,
-    "geom:longitude":120.77389,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Wuqu",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1791021,
-    "gn:latitude":31.62167,
-    "gn:longitude":120.77389,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Wuqu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.75389,31.60167,120.79389,31.64167",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wu-ch\u2019\u00fc-chen",
-        "Wu-ch\u2019\u00fc",
-        "Wuqu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.77389,31.62167,120.77389,31.62167",
+    "geom:latitude": 31.62167,
+    "geom:longitude": 120.77389,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Wuqu",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1791021,
+    "gn:latitude": 31.62167,
+    "gn:longitude": 120.77389,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Wuqu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.75389,31.60167,120.79389,31.64167",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wu-ch’ü-chen",
+      "Wu-ch’ü",
+      "Wuqu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515879
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515879,
+      890515979
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791021
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791021
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ede1eba618a3a0c9c1c37f347f0fe1a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515879,
-            "empire_id":136253041,
-            "locality_id":1310405997,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ede1eba618a3a0c9c1c37f347f0fe1a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515879,
+        "empire_id": 136253041,
+        "locality_id": 1310405997,
+        "region_id": 85669827,
+        "localadmin_id": 890515979
+      }
     ],
-    "wof:id":1310405997,
-    "wof:lastmodified":1566688569,
-    "wof:name":"Wuqu",
-    "wof:parent_id":890515879,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310405997,
+    "wof:lastmodified": 1768670872,
+    "wof:name": "Wuqu",
+    "wof:parent_id": 890515979,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.77389,
     31.62167,
     120.77389,
     31.62167
-],
-  "geometry": {"coordinates":[120.77388999999999,31.62167],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.77389,
+      31.62167
+    ],
+    "type": "Point"
+  }
 }

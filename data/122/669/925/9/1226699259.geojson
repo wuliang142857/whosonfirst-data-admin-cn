@@ -2,75 +2,83 @@
   "id": 1226699259,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.32663,31.2552,105.32663,31.2552",
-    "geom:latitude":31.2552,
-    "geom:longitude":105.32663,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhangbangsi",
-    "gn:country_code":"CN",
-    "gn:dem":433,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6868482,
-    "gn:latitude":31.2552,
-    "gn:longitude":105.32663,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Zhangbangsi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.30663,31.2352,105.34663,31.2752",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7ae0\u5e2e\u5bfa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.32663,31.2552,105.32663,31.2552",
+    "geom:latitude": 31.2552,
+    "geom:longitude": 105.32663,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhangbangsi",
+    "gn:country_code": "CN",
+    "gn:dem": 433,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6868482,
+    "gn:latitude": 31.2552,
+    "gn:longitude": 105.32663,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Zhangbangsi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.30663,31.2352,105.34663,31.2752",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "章帮寺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      1127510723
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6868482
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6868482
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0110358dbaba03c6f96b778f626c8e01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1226699259,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0110358dbaba03c6f96b778f626c8e01",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1226699259,
+        "region_id": 85669787,
+        "localadmin_id": 1127510723
+      }
     ],
-    "wof:id":1226699259,
-    "wof:lastmodified":1566702130,
-    "wof:name":"Zhangbangsi",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226699259,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Zhangbangsi",
+    "wof:parent_id": 1127510723,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.32663,
     31.2552,
     105.32663,
     31.2552
-],
-  "geometry": {"coordinates":[105.32662999999999,31.2552],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.32663,
+      31.2552
+    ],
+    "type": "Point"
+  }
 }

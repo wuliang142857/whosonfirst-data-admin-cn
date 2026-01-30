@@ -2,75 +2,83 @@
   "id": 1344003403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.326,31.0472,105.326,31.0472",
-    "geom:latitude":31.0472,
-    "geom:longitude":105.326,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Laosong",
-    "gn:country_code":"CN",
-    "gn:dem":478,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10162474,
-    "gn:latitude":31.0472,
-    "gn:longitude":105.326,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Laosong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.306,31.0272,105.346,31.0672",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8001\u677e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.326,31.0472,105.326,31.0472",
+    "geom:latitude": 31.0472,
+    "geom:longitude": 105.326,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Laosong",
+    "gn:country_code": "CN",
+    "gn:dem": 478,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10162474,
+    "gn:latitude": 31.0472,
+    "gn:longitude": 105.326,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Laosong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.306,31.0272,105.346,31.0672",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "老松"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514641
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514641,
+      1127510981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10162474
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10162474
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fc31f1e13ec328b7b481a744785fa81a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514641,
-            "empire_id":136253041,
-            "locality_id":1344003403,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fc31f1e13ec328b7b481a744785fa81a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514641,
+        "empire_id": 136253041,
+        "locality_id": 1344003403,
+        "region_id": 85669787,
+        "localadmin_id": 1127510981
+      }
     ],
-    "wof:id":1344003403,
-    "wof:lastmodified":1566658915,
-    "wof:name":"Laosong",
-    "wof:parent_id":890514641,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344003403,
+    "wof:lastmodified": 1768668066,
+    "wof:name": "Laosong",
+    "wof:parent_id": 1127510981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.326,
     31.0472,
     105.326,
     31.0472
-],
-  "geometry": {"coordinates":[105.32599999999999,31.0472],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.326,
+      31.0472
+    ],
+    "type": "Point"
+  }
 }

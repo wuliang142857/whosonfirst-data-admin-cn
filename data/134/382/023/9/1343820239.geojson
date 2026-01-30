@@ -2,72 +2,80 @@
   "id": 1343820239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.20444,40.8625,123.20444,40.8625",
-    "geom:latitude":40.8625,
-    "geom:longitude":123.20444,
-    "gn:admin1_code":"19",
-    "gn:asciiname":"Xigan",
-    "gn:country_code":"CN",
-    "gn:dem":465,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2053339,
-    "gn:latitude":40.8625,
-    "gn:longitude":123.20444,
-    "gn:modification_date":"2001-06-06",
-    "gn:name":"Xigan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.18444,40.8425,123.22444,40.8825",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514643
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.20444,40.8625,123.20444,40.8625",
+    "geom:latitude": 40.8625,
+    "geom:longitude": 123.20444,
+    "gn:admin1_code": "19",
+    "gn:asciiname": "Xigan",
+    "gn:country_code": "CN",
+    "gn:dem": 465,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2053339,
+    "gn:latitude": 40.8625,
+    "gn:longitude": 123.20444,
+    "gn:modification_date": "2001-06-06",
+    "gn:name": "Xigan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.18444,40.8425,123.22444,40.8825",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514643,
+      1127211021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2053339
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2053339
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b7786203e5de55b39c3507f6f236f423",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514643,
-            "empire_id":136253041,
-            "locality_id":1343820239,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b7786203e5de55b39c3507f6f236f423",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514643,
+        "empire_id": 136253041,
+        "locality_id": 1343820239,
+        "region_id": 85669807,
+        "localadmin_id": 1127211021
+      }
     ],
-    "wof:id":1343820239,
-    "wof:lastmodified":1566660185,
-    "wof:name":"Xigan",
-    "wof:parent_id":890514643,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343820239,
+    "wof:lastmodified": 1768666776,
+    "wof:name": "Xigan",
+    "wof:parent_id": 1127211021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.20444,
     40.8625,
     123.20444,
     40.8625
-],
-  "geometry": {"coordinates":[123.20444000000001,40.8625],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.20444,
+      40.8625
+    ],
+    "type": "Point"
+  }
 }

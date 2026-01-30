@@ -2,75 +2,83 @@
   "id": 1242930801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.43652,37.35196,120.43652,37.35196",
-    "geom:latitude":37.35196,
-    "geom:longitude":120.43652,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Beipenhe",
-    "gn:country_code":"CN",
-    "gn:dem":77,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8631241,
-    "gn:latitude":37.35196,
-    "gn:longitude":120.43652,
-    "gn:modification_date":"2013-11-14",
-    "gn:name":"Beipenhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.41652,37.33196,120.45652,37.37196",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u76c6\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.43652,37.35196,120.43652,37.35196",
+    "geom:latitude": 37.35196,
+    "geom:longitude": 120.43652,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Beipenhe",
+    "gn:country_code": "CN",
+    "gn:dem": 77,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8631241,
+    "gn:latitude": 37.35196,
+    "gn:longitude": 120.43652,
+    "gn:modification_date": "2013-11-14",
+    "gn:name": "Beipenhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.41652,37.33196,120.45652,37.37196",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北盆河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512679,
+      890516301
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8631241
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8631241
     },
-    "wof:country":"CN",
-    "wof:geomhash":"813a56eb7fd28efb7bfb37000fb38153",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1242930801,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "813a56eb7fd28efb7bfb37000fb38153",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1242930801,
+        "region_id": 85669813,
+        "localadmin_id": 890512679
+      }
     ],
-    "wof:id":1242930801,
-    "wof:lastmodified":1566695101,
-    "wof:name":"Beipenhe",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242930801,
+    "wof:lastmodified": 1768668015,
+    "wof:name": "Beipenhe",
+    "wof:parent_id": 890512679,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.43652,
     37.35196,
     120.43652,
     37.35196
-],
-  "geometry": {"coordinates":[120.43652,37.35196],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.43652,
+      37.35196
+    ],
+    "type": "Point"
+  }
 }

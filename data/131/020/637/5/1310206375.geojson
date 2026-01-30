@@ -2,80 +2,88 @@
   "id": 1310206375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.38329,28.25803,114.38329,28.25803",
-    "geom:latitude":28.25803,
-    "geom:longitude":114.38329,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Jiaohu",
-    "gn:country_code":"CN",
-    "gn:dem":178,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7690178,
-    "gn:latitude":28.25803,
-    "gn:longitude":114.38329,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Jiaohu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.36329,28.23803,114.40329,28.27803",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nor_x_preferred":[
-        "Jiaohu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.38329,28.25803,114.38329,28.25803",
+    "geom:latitude": 28.25803,
+    "geom:longitude": 114.38329,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Jiaohu",
+    "gn:country_code": "CN",
+    "gn:dem": 178,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7690178,
+    "gn:latitude": 28.25803,
+    "gn:longitude": 114.38329,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Jiaohu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.36329,28.23803,114.40329,28.27803",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nor_x_preferred": [
+      "Jiaohu"
     ],
-    "name:und_x_variant":[
-        "\u832d\u6e56",
-        "Jiaohu Xiang",
-        "\u832d\u6e56\u4e61"
+    "name:und_x_variant": [
+      "茭湖",
+      "Jiaohu Xiang",
+      "茭湖乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514553,
+      1127360922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7690178
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7690178
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a06bcba05ca11f21cb2bb1b6e4d37059",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1310206375,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a06bcba05ca11f21cb2bb1b6e4d37059",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1310206375,
+        "region_id": 85669823,
+        "localadmin_id": 1127360922
+      }
     ],
-    "wof:id":1310206375,
-    "wof:lastmodified":1566689695,
-    "wof:name":"Jiaohu",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310206375,
+    "wof:lastmodified": 1768669928,
+    "wof:name": "Jiaohu",
+    "wof:parent_id": 1127360922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.38329,
     28.25803,
     114.38329,
     28.25803
-],
-  "geometry": {"coordinates":[114.38329,28.25803],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.38329,
+      28.25803
+    ],
+    "type": "Point"
+  }
 }

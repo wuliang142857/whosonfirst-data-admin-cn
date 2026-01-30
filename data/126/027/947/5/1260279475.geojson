@@ -2,83 +2,91 @@
   "id": 1260279475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.22584,25.25803,119.22584,25.25803",
-    "geom:latitude":25.25803,
-    "geom:longitude":119.22584,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Daitou",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1814225,
-    "gn:latitude":25.25803,
-    "gn:longitude":119.22584,
-    "gn:modification_date":"2013-07-05",
-    "gn:name":"Daitou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.20584,25.23803,119.24584,25.27803",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tai-t\u2019ou",
-        "Daitou",
-        "Daitou Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.22584,25.25803,119.22584,25.25803",
+    "geom:latitude": 25.25803,
+    "geom:longitude": 119.22584,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Daitou",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1814225,
+    "gn:latitude": 25.25803,
+    "gn:longitude": 119.22584,
+    "gn:modification_date": "2013-07-05",
+    "gn:name": "Daitou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.20584,25.23803,119.24584,25.27803",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tai-t’ou",
+      "Daitou",
+      "Daitou Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u57ed\u5934"
+    "name:zho_x_preferred": [
+      "埭头"
     ],
-    "name:zho_x_variant":[
-        "\u57ed\u5934\u9547"
+    "name:zho_x_variant": [
+      "埭头镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516865
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516865,
+      1127350305
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1814225
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1814225
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0a66fdb8cce9810662b5e2be9bce7991",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516865,
-            "empire_id":136253041,
-            "locality_id":1260279475,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0a66fdb8cce9810662b5e2be9bce7991",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516865,
+        "empire_id": 136253041,
+        "locality_id": 1260279475,
+        "region_id": 85669735,
+        "localadmin_id": 1127350305
+      }
     ],
-    "wof:id":1260279475,
-    "wof:lastmodified":1566687080,
-    "wof:name":"Daitou",
-    "wof:parent_id":890516865,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260279475,
+    "wof:lastmodified": 1768669538,
+    "wof:name": "Daitou",
+    "wof:parent_id": 1127350305,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.22584,
     25.25803,
     119.22584,
     25.25803
-],
-  "geometry": {"coordinates":[119.22584000000001,25.25803],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.22584,
+      25.25803
+    ],
+    "type": "Point"
+  }
 }

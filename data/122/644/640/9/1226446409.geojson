@@ -2,78 +2,86 @@
   "id": 1226446409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.27583,30.31861,118.27583,30.31861",
-    "geom:latitude":30.31861,
-    "geom:longitude":118.27583,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Zhutianpu",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":223,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1783806,
-    "gn:latitude":30.31861,
-    "gn:longitude":118.27583,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhutianpu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.25583,30.29861,118.29583,30.33861",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ien-p\u2019u",
-        "Chu-t\u2019ien-p\u2019u",
-        "Zhutianpu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.27583,30.31861,118.27583,30.31861",
+    "geom:latitude": 30.31861,
+    "geom:longitude": 118.27583,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Zhutianpu",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 223,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1783806,
+    "gn:latitude": 30.31861,
+    "gn:longitude": 118.27583,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhutianpu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.25583,30.29861,118.29583,30.33861",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ien-p’u",
+      "Chu-t’ien-p’u",
+      "Zhutianpu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515267,
+      1108732553
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1783806
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1783806
     },
-    "wof:country":"CN",
-    "wof:geomhash":"da2133a979502809deb797964259ec9c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732553,
-            "empire_id":136253041,
-            "locality_id":1226446409,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "da2133a979502809deb797964259ec9c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732553,
+        "empire_id": 136253041,
+        "locality_id": 1226446409,
+        "region_id": 85669739,
+        "localadmin_id": 890515267
+      }
     ],
-    "wof:id":1226446409,
-    "wof:lastmodified":1566701142,
-    "wof:name":"Zhutianpu",
-    "wof:parent_id":1108732553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226446409,
+    "wof:lastmodified": 1768670021,
+    "wof:name": "Zhutianpu",
+    "wof:parent_id": 890515267,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.27583,
     30.31861,
     118.27583,
     30.31861
-],
-  "geometry": {"coordinates":[118.27583,30.31861],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.27583,
+      30.31861
+    ],
+    "type": "Point"
+  }
 }

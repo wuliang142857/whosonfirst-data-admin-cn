@@ -2,84 +2,92 @@
   "id": 1310703449,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.023,28.7802,117.023,28.7802",
-    "geom:latitude":28.7802,
-    "geom:longitude":117.023,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Fenglin",
-    "gn:country_code":"CN",
-    "gn:dem":66,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9879151,
-    "gn:latitude":28.7802,
-    "gn:longitude":117.023,
-    "gn:modification_date":"2014-12-05",
-    "gn:name":"Fenglin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.003,28.7602,117.043,28.8002",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Fenglin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.023,28.7802,117.023,28.7802",
+    "geom:latitude": 28.7802,
+    "geom:longitude": 117.023,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Fenglin",
+    "gn:country_code": "CN",
+    "gn:dem": 66,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9879151,
+    "gn:latitude": 28.7802,
+    "gn:longitude": 117.023,
+    "gn:modification_date": "2014-12-05",
+    "gn:name": "Fenglin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.003,28.7602,117.043,28.8002",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Fenglin"
     ],
-    "name:deu_x_preferred":[
-        "Fenglin"
+    "name:deu_x_preferred": [
+      "Fenglin"
     ],
-    "name:swe_x_preferred":[
-        "Fenglin"
+    "name:swe_x_preferred": [
+      "Fenglin"
     ],
-    "name:zho_x_preferred":[
-        "\u4e30\u6797"
+    "name:zho_x_preferred": [
+      "丰林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890515869
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890515869,
+      1127361129
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9879151
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9879151
     },
-    "wof:country":"CN",
-    "wof:geomhash":"737949b20aa70a1fc2dc8889cee124a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515869,
-            "empire_id":136253041,
-            "locality_id":1310703449,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "737949b20aa70a1fc2dc8889cee124a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515869,
+        "empire_id": 136253041,
+        "locality_id": 1310703449,
+        "region_id": 85669823,
+        "localadmin_id": 1127361129
+      }
     ],
-    "wof:id":1310703449,
-    "wof:lastmodified":1566688369,
-    "wof:name":"Fenglin",
-    "wof:parent_id":890515869,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310703449,
+    "wof:lastmodified": 1768670031,
+    "wof:name": "Fenglin",
+    "wof:parent_id": 1127361129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.023,
     28.7802,
     117.023,
     28.7802
-],
-  "geometry": {"coordinates":[117.023,28.7802],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.023,
+      28.7802
+    ],
+    "type": "Point"
+  }
 }

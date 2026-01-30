@@ -2,81 +2,89 @@
   "id": 1259837933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.04242,40.09584,117.04242,40.09584",
-    "geom:latitude":40.09584,
-    "geom:longitude":117.04242,
-    "gn:admin1_code":"22",
-    "gn:asciiname":"Beizhangdai",
-    "gn:country_code":"CN",
-    "gn:dem":28,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2038307,
-    "gn:latitude":40.09584,
-    "gn:longitude":117.04242,
-    "gn:modification_date":"2015-06-07",
-    "gn:name":"Beizhangdai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.02242,40.07584,117.06242,40.11584",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Beizhangdaicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.04242,40.09584,117.04242,40.09584",
+    "geom:latitude": 40.09584,
+    "geom:longitude": 117.04242,
+    "gn:admin1_code": "22",
+    "gn:asciiname": "Beizhangdai",
+    "gn:country_code": "CN",
+    "gn:dem": 28,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2038307,
+    "gn:latitude": 40.09584,
+    "gn:longitude": 117.04242,
+    "gn:modification_date": "2015-06-07",
+    "gn:name": "Beizhangdai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.02242,40.07584,117.06242,40.11584",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Beizhangdaicun"
     ],
-    "name:zho_x_preferred":[
-        "\u5317\u5f20\u5cb1"
+    "name:zho_x_preferred": [
+      "北张岱"
     ],
-    "name:zho_x_variant":[
-        "\u5317\u5f20\u5cb1\u6751"
+    "name:zho_x_variant": [
+      "北张岱村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890514219,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2038307
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2038307
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f01dbe1521772afb8f132c22dfb4a7c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1259837933,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f01dbe1521772afb8f132c22dfb4a7c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1259837933,
+        "region_id": 85669727,
+        "localadmin_id": 890514219
+      }
     ],
-    "wof:id":1259837933,
-    "wof:lastmodified":1566698789,
-    "wof:name":"Beizhangdai",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259837933,
+    "wof:lastmodified": 1768667324,
+    "wof:name": "Beizhangdai",
+    "wof:parent_id": 890514219,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.04242,
     40.09584,
     117.04242,
     40.09584
-],
-  "geometry": {"coordinates":[117.04242000000001,40.09584],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.04242,
+      40.09584
+    ],
+    "type": "Point"
+  }
 }

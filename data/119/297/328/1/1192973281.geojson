@@ -2,75 +2,83 @@
   "id": 1192973281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.94155,33.30101,105.94155,33.30101",
-    "geom:latitude":33.30101,
-    "geom:longitude":105.94155,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Zhuangzishang",
-    "gn:country_code":"CN",
-    "gn:dem":1112,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7371689,
-    "gn:latitude":33.30101,
-    "gn:longitude":105.94155,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhuangzishang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.92155,33.28101,105.96155,33.32101",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5e84\u5b50\u4e0a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.94155,33.30101,105.94155,33.30101",
+    "geom:latitude": 33.30101,
+    "geom:longitude": 105.94155,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Zhuangzishang",
+    "gn:country_code": "CN",
+    "gn:dem": 1112,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7371689,
+    "gn:latitude": 33.30101,
+    "gn:longitude": 105.94155,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhuangzishang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.92155,33.28101,105.96155,33.32101",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "庄子上"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515085,
+      890515099
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7371689
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7371689
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c88fe94a53ec3bfb4a5173cbd0f495c8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1192973281,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c88fe94a53ec3bfb4a5173cbd0f495c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1192973281,
+        "region_id": 85669769,
+        "localadmin_id": 890515085
+      }
     ],
-    "wof:id":1192973281,
-    "wof:lastmodified":1566685688,
-    "wof:name":"Zhuangzishang",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192973281,
+    "wof:lastmodified": 1768667987,
+    "wof:name": "Zhuangzishang",
+    "wof:parent_id": 890515085,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.94155,
     33.30101,
     105.94155,
     33.30101
-],
-  "geometry": {"coordinates":[105.94155000000001,33.30101],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.94155,
+      33.30101
+    ],
+    "type": "Point"
+  }
 }

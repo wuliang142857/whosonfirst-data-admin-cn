@@ -2,75 +2,83 @@
   "id": 1276530519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.051,37.0526,107.051,37.0526",
-    "geom:latitude":37.0526,
-    "geom:longitude":107.051,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhaike",
-    "gn:country_code":"CN",
-    "gn:dem":1465,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10737306,
-    "gn:latitude":37.0526,
-    "gn:longitude":107.051,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Zhaike",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.031,37.0326,107.071,37.0726",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5be8\u67ef"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.051,37.0526,107.051,37.0526",
+    "geom:latitude": 37.0526,
+    "geom:longitude": 107.051,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhaike",
+    "gn:country_code": "CN",
+    "gn:dem": 1465,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10737306,
+    "gn:latitude": 37.0526,
+    "gn:longitude": 107.051,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Zhaike",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.031,37.0326,107.071,37.0726",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "寨柯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10737306
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10737306
     },
-    "wof:country":"CN",
-    "wof:geomhash":"27e162f5c66109e9d014065b0b1a9643",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1276530519,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "27e162f5c66109e9d014065b0b1a9643",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1276530519,
+        "region_id": 85669711,
+        "localadmin_id": 1127621022
+      }
     ],
-    "wof:id":1276530519,
-    "wof:lastmodified":1566678204,
-    "wof:name":"Zhaike",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276530519,
+    "wof:lastmodified": 1768666481,
+    "wof:name": "Zhaike",
+    "wof:parent_id": 1127621022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.051,
     37.0526,
     107.051,
     37.0526
-],
-  "geometry": {"coordinates":[107.051,37.0526],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.051,
+      37.0526
+    ],
+    "type": "Point"
+  }
 }

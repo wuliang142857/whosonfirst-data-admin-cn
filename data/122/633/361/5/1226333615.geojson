@@ -2,75 +2,83 @@
   "id": 1226333615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.47138,26.565,118.47138,26.565",
-    "geom:latitude":26.565,
-    "geom:longitude":118.47138,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Houpingdi",
-    "gn:country_code":"CN",
-    "gn:dem":450,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7623038,
-    "gn:latitude":26.565,
-    "gn:longitude":118.47138,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Houpingdi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.45138,26.545,118.49138,26.585",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u576a\u5e95"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.47138,26.565,118.47138,26.565",
+    "geom:latitude": 26.565,
+    "geom:longitude": 118.47138,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Houpingdi",
+    "gn:country_code": "CN",
+    "gn:dem": 450,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7623038,
+    "gn:latitude": 26.565,
+    "gn:longitude": 118.47138,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Houpingdi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.45138,26.545,118.49138,26.585",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后坪底"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516651
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516651,
+      1127350702
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7623038
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7623038
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d5fe3f737db8efec919f00bca22d6d31",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516651,
-            "empire_id":136253041,
-            "locality_id":1226333615,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d5fe3f737db8efec919f00bca22d6d31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516651,
+        "empire_id": 136253041,
+        "locality_id": 1226333615,
+        "region_id": 85669735,
+        "localadmin_id": 1127350702
+      }
     ],
-    "wof:id":1226333615,
-    "wof:lastmodified":1566701884,
-    "wof:name":"Houpingdi",
-    "wof:parent_id":890516651,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226333615,
+    "wof:lastmodified": 1768669417,
+    "wof:name": "Houpingdi",
+    "wof:parent_id": 1127350702,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.47138,
     26.565,
     118.47138,
     26.565
-],
-  "geometry": {"coordinates":[118.47138,26.565],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.47138,
+      26.565
+    ],
+    "type": "Point"
+  }
 }

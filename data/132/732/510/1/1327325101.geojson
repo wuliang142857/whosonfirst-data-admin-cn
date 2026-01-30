@@ -2,90 +2,98 @@
   "id": 1327325101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.69836,25.35602,118.69836,25.35602",
-    "geom:latitude":25.35602,
-    "geom:longitude":118.69836,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Nanda",
-    "gn:country_code":"CN",
-    "gn:dem":57,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1979540,
-    "gn:latitude":25.35602,
-    "gn:longitude":118.69836,
-    "gn:modification_date":"2013-07-07",
-    "gn:name":"Nanda",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.67836,25.33602,118.71836,25.37602",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Nanda"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.69836,25.35602,118.69836,25.35602",
+    "geom:latitude": 25.35602,
+    "geom:longitude": 118.69836,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Nanda",
+    "gn:country_code": "CN",
+    "gn:dem": 57,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1979540,
+    "gn:latitude": 25.35602,
+    "gn:longitude": 118.69836,
+    "gn:modification_date": "2013-07-07",
+    "gn:name": "Nanda",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.67836,25.33602,118.71836,25.37602",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Nanda"
     ],
-    "name:deu_x_preferred":[
-        "Nanda"
+    "name:deu_x_preferred": [
+      "Nanda"
     ],
-    "name:por_x_preferred":[
-        "Nanda"
+    "name:por_x_preferred": [
+      "Nanda"
     ],
-    "name:rus_x_preferred":[
-        "\u041d\u0430\u043d\u0434\u0430"
+    "name:rus_x_preferred": [
+      "Нанда"
     ],
-    "name:swe_x_preferred":[
-        "Nanda"
+    "name:swe_x_preferred": [
+      "Nanda"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u5927"
+    "name:zho_x_preferred": [
+      "南大"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516865
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513173,
+      890516865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1979540
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1979540
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5ffbead00773308aa08337e96e55b838",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516865,
-            "empire_id":136253041,
-            "locality_id":1327325101,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5ffbead00773308aa08337e96e55b838",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516865,
+        "empire_id": 136253041,
+        "locality_id": 1327325101,
+        "region_id": 85669735,
+        "localadmin_id": 890513173
+      }
     ],
-    "wof:id":1327325101,
-    "wof:lastmodified":1566651378,
-    "wof:name":"Nanda",
-    "wof:parent_id":890516865,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327325101,
+    "wof:lastmodified": 1768669538,
+    "wof:name": "Nanda",
+    "wof:parent_id": 890513173,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.69836,
     25.35602,
     118.69836,
     25.35602
-],
-  "geometry": {"coordinates":[118.69835999999999,25.35602],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.69836,
+      25.35602
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1192972343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.10093,29.48122,107.10093,29.48122",
-    "geom:latitude":29.48122,
-    "geom:longitude":107.10093,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Wanfeng",
-    "gn:country_code":"CN",
-    "gn:dem":820,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416436,
-    "gn:latitude":29.48122,
-    "gn:longitude":107.10093,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Wanfeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.08093,29.46122,107.12093,29.50122",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e07\u5cf0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.10093,29.48122,107.10093,29.48122",
+    "geom:latitude": 29.48122,
+    "geom:longitude": 107.10093,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Wanfeng",
+    "gn:country_code": "CN",
+    "gn:dem": 820,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416436,
+    "gn:latitude": 29.48122,
+    "gn:longitude": 107.10093,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Wanfeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.08093,29.46122,107.12093,29.50122",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "万峰"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416436
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416436
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f963bd19aac73717ee913c71630dcca5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1192972343,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f963bd19aac73717ee913c71630dcca5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1192972343,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1192972343,
-    "wof:lastmodified":1566685646,
-    "wof:name":"Wanfeng",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192972343,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Wanfeng",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.10093,
     29.48122,
     107.10093,
     29.48122
-],
-  "geometry": {"coordinates":[107.10093000000001,29.48122],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.10093,
+      29.48122
+    ],
+    "type": "Point"
+  }
 }

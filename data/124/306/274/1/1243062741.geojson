@@ -2,75 +2,83 @@
   "id": 1243062741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.173,37.7583,114.173,37.7583",
-    "geom:latitude":37.7583,
-    "geom:longitude":114.173,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Baichengkou",
-    "gn:country_code":"CN",
-    "gn:dem":585,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9526957,
-    "gn:latitude":37.7583,
-    "gn:longitude":114.173,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Baichengkou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.153,37.7383,114.193,37.7783",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u767d\u57ce\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.173,37.7583,114.173,37.7583",
+    "geom:latitude": 37.7583,
+    "geom:longitude": 114.173,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Baichengkou",
+    "gn:country_code": "CN",
+    "gn:dem": 585,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9526957,
+    "gn:latitude": 37.7583,
+    "gn:longitude": 114.173,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Baichengkou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.153,37.7383,114.193,37.7783",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "白城口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890515171
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890515171,
+      1127130129
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9526957
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9526957
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0bee00e3d81b38978eb145fb137578eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515171,
-            "empire_id":136253041,
-            "locality_id":1243062741,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0bee00e3d81b38978eb145fb137578eb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515171,
+        "empire_id": 136253041,
+        "locality_id": 1243062741,
+        "region_id": 85669797,
+        "localadmin_id": 1127130129
+      }
     ],
-    "wof:id":1243062741,
-    "wof:lastmodified":1566694197,
-    "wof:name":"Baichengkou",
-    "wof:parent_id":890515171,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243062741,
+    "wof:lastmodified": 1768669476,
+    "wof:name": "Baichengkou",
+    "wof:parent_id": 1127130129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.173,
     37.7583,
     114.173,
     37.7583
-],
-  "geometry": {"coordinates":[114.173,37.7583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.173,
+      37.7583
+    ],
+    "type": "Point"
+  }
 }

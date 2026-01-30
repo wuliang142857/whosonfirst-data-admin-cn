@@ -2,75 +2,83 @@
   "id": 1260028795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.773,28.5447,103.773,28.5447",
-    "geom:latitude":28.5447,
-    "geom:longitude":103.773,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Houshan",
-    "gn:country_code":"CN",
-    "gn:dem":863,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10198846,
-    "gn:latitude":28.5447,
-    "gn:longitude":103.773,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Houshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.753,28.5247,103.793,28.5647",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.773,28.5447,103.773,28.5447",
+    "geom:latitude": 28.5447,
+    "geom:longitude": 103.773,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Houshan",
+    "gn:country_code": "CN",
+    "gn:dem": 863,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10198846,
+    "gn:latitude": 28.5447,
+    "gn:longitude": 103.773,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Houshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.753,28.5247,103.793,28.5647",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516537,
+      1127511529
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10198846
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10198846
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a7adca1efe63ca835c5989c80145f5d8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1260028795,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a7adca1efe63ca835c5989c80145f5d8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1260028795,
+        "region_id": 85669787,
+        "localadmin_id": 1127511529
+      }
     ],
-    "wof:id":1260028795,
-    "wof:lastmodified":1566687955,
-    "wof:name":"Houshan",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260028795,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Houshan",
+    "wof:parent_id": 1127511529,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.773,
     28.5447,
     103.773,
     28.5447
-],
-  "geometry": {"coordinates":[103.773,28.5447],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.773,
+      28.5447
+    ],
+    "type": "Point"
+  }
 }

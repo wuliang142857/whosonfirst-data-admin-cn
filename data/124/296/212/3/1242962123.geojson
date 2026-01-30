@@ -2,75 +2,83 @@
   "id": 1242962123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.715,37.5484,115.715,37.5484",
-    "geom:latitude":37.5484,
-    "geom:longitude":115.715,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Duyan",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9527275,
-    "gn:latitude":37.5484,
-    "gn:longitude":115.715,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Duyan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.695,37.5284,115.735,37.5684",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u675c\u70df"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.715,37.5484,115.715,37.5484",
+    "geom:latitude": 37.5484,
+    "geom:longitude": 115.715,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Duyan",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9527275,
+    "gn:latitude": 37.5484,
+    "gn:longitude": 115.715,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Duyan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.695,37.5284,115.735,37.5684",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杜烟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516595
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516595,
+      1127131121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9527275
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9527275
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c2d4f518a23a609b72daf8671a84d52b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516595,
-            "empire_id":136253041,
-            "locality_id":1242962123,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c2d4f518a23a609b72daf8671a84d52b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516595,
+        "empire_id": 136253041,
+        "locality_id": 1242962123,
+        "region_id": 85669797,
+        "localadmin_id": 1127131121
+      }
     ],
-    "wof:id":1242962123,
-    "wof:lastmodified":1566697000,
-    "wof:name":"Duyan",
-    "wof:parent_id":890516595,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242962123,
+    "wof:lastmodified": 1768669433,
+    "wof:name": "Duyan",
+    "wof:parent_id": 1127131121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.715,
     37.5484,
     115.715,
     37.5484
-],
-  "geometry": {"coordinates":[115.715,37.5484],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.715,
+      37.5484
+    ],
+    "type": "Point"
+  }
 }

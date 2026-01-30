@@ -2,75 +2,83 @@
   "id": 1360263853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.156,37.294,114.156,37.294",
-    "geom:latitude":37.294,
-    "geom:longitude":114.156,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Quezhai",
-    "gn:country_code":"CN",
-    "gn:dem":384,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9527661,
-    "gn:latitude":37.294,
-    "gn:longitude":114.156,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Quezhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.136,37.274,114.176,37.314",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u96c0\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.156,37.294,114.156,37.294",
+    "geom:latitude": 37.294,
+    "geom:longitude": 114.156,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Quezhai",
+    "gn:country_code": "CN",
+    "gn:dem": 384,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9527661,
+    "gn:latitude": 37.294,
+    "gn:longitude": 114.156,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Quezhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.136,37.274,114.176,37.314",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "雀寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513015
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513015,
+      1127130503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9527661
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9527661
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c0ecc3c6c4b2a05b9b5d47dbf3cacc91",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513015,
-            "empire_id":136253041,
-            "locality_id":1360263853,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c0ecc3c6c4b2a05b9b5d47dbf3cacc91",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513015,
+        "empire_id": 136253041,
+        "locality_id": 1360263853,
+        "region_id": 85669797,
+        "localadmin_id": 1127130503
+      }
     ],
-    "wof:id":1360263853,
-    "wof:lastmodified":1566691987,
-    "wof:name":"Quezhai",
-    "wof:parent_id":890513015,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360263853,
+    "wof:lastmodified": 1768669463,
+    "wof:name": "Quezhai",
+    "wof:parent_id": 1127130503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.156,
     37.294,
     114.156,
     37.294
-],
-  "geometry": {"coordinates":[114.15600000000001,37.294],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.156,
+      37.294
+    ],
+    "type": "Point"
+  }
 }

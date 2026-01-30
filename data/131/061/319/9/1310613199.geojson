@@ -2,78 +2,86 @@
   "id": 1310613199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.99803,28.6103,118.99803,28.6103",
-    "geom:latitude":28.6103,
-    "geom:longitude":118.99803,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Tang'an",
-    "gn:country_code":"CN",
-    "gn:dem":252,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11151728,
-    "gn:latitude":28.6103,
-    "gn:longitude":118.99803,
-    "gn:modification_date":"2016-05-10",
-    "gn:name":"Tang\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.97803,28.5903,119.01803,28.6303",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tang\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.99803,28.6103,118.99803,28.6103",
+    "geom:latitude": 28.6103,
+    "geom:longitude": 118.99803,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Tang'an",
+    "gn:country_code": "CN",
+    "gn:dem": 252,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11151728,
+    "gn:latitude": 28.6103,
+    "gn:longitude": 118.99803,
+    "gn:modification_date": "2016-05-10",
+    "gn:name": "Tang’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.97803,28.5903,119.01803,28.6303",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tang’an"
     ],
-    "name:zho_x_preferred":[
-        "\u5858\u57b5"
+    "name:zho_x_preferred": [
+      "塘垵"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516399,
+      1127331123
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11151728
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11151728
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d5f8f6937db362fee4524c580c680116",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516399,
-            "empire_id":136253041,
-            "locality_id":1310613199,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d5f8f6937db362fee4524c580c680116",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516399,
+        "empire_id": 136253041,
+        "locality_id": 1310613199,
+        "region_id": 85669835,
+        "localadmin_id": 1127331123
+      }
     ],
-    "wof:id":1310613199,
-    "wof:lastmodified":1566690409,
-    "wof:name":"Tang'an",
-    "wof:parent_id":890516399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310613199,
+    "wof:lastmodified": 1768669966,
+    "wof:name": "Tang'an",
+    "wof:parent_id": 1127331123,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.99803,
     28.6103,
     118.99803,
     28.6103
-],
-  "geometry": {"coordinates":[118.99803,28.6103],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.99803,
+      28.6103
+    ],
+    "type": "Point"
+  }
 }

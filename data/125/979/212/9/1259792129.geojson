@@ -2,83 +2,91 @@
   "id": 1259792129,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.24833,30.77451,120.24833,30.77451",
-    "geom:latitude":30.77451,
-    "geom:longitude":120.24833,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Zhongzhaocun",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1784204,
-    "gn:latitude":30.77451,
-    "gn:longitude":120.24833,
-    "gn:modification_date":"2017-10-04",
-    "gn:name":"Zhongzhaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.22833,30.75451,120.26833,30.79451",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chung-chao",
-        "Chung-chao-shih",
-        "Zhongzhao",
-        "\u91cd\u5146",
-        "Zhongzhaocun",
-        "Chongzhao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.24833,30.77451,120.24833,30.77451",
+    "geom:latitude": 30.77451,
+    "geom:longitude": 120.24833,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Zhongzhaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1784204,
+    "gn:latitude": 30.77451,
+    "gn:longitude": 120.24833,
+    "gn:modification_date": "2017-10-04",
+    "gn:name": "Zhongzhaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.22833,30.75451,120.26833,30.79451",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chung-chao",
+      "Chung-chao-shih",
+      "Zhongzhao",
+      "重兆",
+      "Zhongzhaocun",
+      "Chongzhao"
     ],
-    "name:zho_x_preferred":[
-        "\u91cd\u5146\u6751"
+    "name:zho_x_preferred": [
+      "重兆村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516975,
+      1127330503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784204
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784204
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c313cb3c9c8893cfb6e32bacdabddca6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1259792129,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c313cb3c9c8893cfb6e32bacdabddca6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1259792129,
+        "region_id": 85669835,
+        "localadmin_id": 1127330503
+      }
     ],
-    "wof:id":1259792129,
-    "wof:lastmodified":1566698923,
-    "wof:name":"Zhongzhaocun",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259792129,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Zhongzhaocun",
+    "wof:parent_id": 1127330503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.24833,
     30.77451,
     120.24833,
     30.77451
-],
-  "geometry": {"coordinates":[120.24833,30.77451],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.24833,
+      30.77451
+    ],
+    "type": "Point"
+  }
 }

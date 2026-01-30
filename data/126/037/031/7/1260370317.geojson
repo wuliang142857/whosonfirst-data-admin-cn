@@ -2,81 +2,89 @@
   "id": 1260370317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.69379,30.27181,108.69379,30.27181",
-    "geom:latitude":30.27181,
-    "geom:longitude":108.69379,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Wangying",
-    "gn:country_code":"CN",
-    "gn:dem":1117,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8516556,
-    "gn:latitude":30.27181,
-    "gn:longitude":108.69379,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Wangying",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.67379,30.25181,108.71379,30.29181",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wangying Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.69379,30.27181,108.69379,30.27181",
+    "geom:latitude": 30.27181,
+    "geom:longitude": 108.69379,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Wangying",
+    "gn:country_code": "CN",
+    "gn:dem": 1117,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8516556,
+    "gn:latitude": 30.27181,
+    "gn:longitude": 108.69379,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Wangying",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.67379,30.25181,108.71379,30.29181",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wangying Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u6c6a\u8425"
+    "name:zho_x_preferred": [
+      "汪营"
     ],
-    "name:zho_x_variant":[
-        "\u6c6a\u8425\u9547"
+    "name:zho_x_variant": [
+      "汪营镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512637,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8516556
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8516556
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dedc23b8aff2751b4d4f391044fe0e26",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1260370317,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dedc23b8aff2751b4d4f391044fe0e26",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1260370317,
+        "region_id": 85669777,
+        "localadmin_id": 890512637
+      }
     ],
-    "wof:id":1260370317,
-    "wof:lastmodified":1566686901,
-    "wof:name":"Wangying",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260370317,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Wangying",
+    "wof:parent_id": 890512637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.69379,
     30.27181,
     108.69379,
     30.27181
-],
-  "geometry": {"coordinates":[108.69379000000001,30.27181],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.69379,
+      30.27181
+    ],
+    "type": "Point"
+  }
 }

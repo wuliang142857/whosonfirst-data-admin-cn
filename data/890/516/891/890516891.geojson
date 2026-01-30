@@ -2,81 +2,244 @@
   "id": 890516891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.764755,23.471906,116.764755,23.471906",
-    "geom:latitude":23.471906,
-    "geom:longitude":116.764755,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"116.664755,23.371906,116.864755,23.571906",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Chenghai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.000448842483,
+    "geom:area_square_m": 448842483.06,
+    "geom:bbox": "116.698669,23.382023,116.911982,23.648086",
+    "geom:latitude": 23.515054,
+    "geom:longitude": 116.805325,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "116.70533,23.41505,116.90532,23.61505",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Chenghai"
     ],
-    "name:eng_x_variant":[
-        "Chenghai District"
+    "name:eng_x_variant": [
+      "Chenghai District"
     ],
-    "name:zho_x_preferred":[
-        "\u6f84\u6d77\u533a"
+    "name:zho_x_preferred": [
+      "澄海区"
     ],
-    "qs:name":"\u6f84\u6d77\u533a",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5e7f\u4e1c\u7701",
-    "qs:photos":2,
-    "qs:photos_1k":1,
-    "qs:photos_9k":1,
-    "qs:photos_9r":4,
-    "qs:photos_all":189,
-    "qs:photos_sr":1,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        1108732449,
-        136253041,
-        85669743
+    "qs:name": "澄海区",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "广东省",
+    "qs:photos": 2,
+    "qs:photos_1k": 1,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 4,
+    "qs:photos_all": 189,
+    "qs:photos_sr": 1,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      102191569,
+      85632695,
+      1108732449,
+      136253041,
+      85669743
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":12687595,
-        "qs_pg:id":248163
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 12687595,
+      "qs_pg:id": 248163,
+      "gb:id": "156440515"
     },
-    "wof:country":"CN",
-    "wof:created":1469055982,
-    "wof:geomhash":"e6a423ecb5c51f36f1e092ba95f9ee14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732449,
-            "empire_id":136253041,
-            "localadmin_id":890516891,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055982,
+    "wof:geomhash": "e6a423ecb5c51f36f1e092ba95f9ee14",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732449,
+        "empire_id": 136253041,
+        "localadmin_id": 890516891,
+        "region_id": 85669743
+      }
     ],
-    "wof:id":890516891,
-    "wof:lastmodified":1601422983,
-    "wof:name":"Chenghai",
-    "wof:parent_id":1108732449,
-    "wof:placetype":"localadmin",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516891,
+    "wof:lastmodified": 1768664150,
+    "wof:name": "Chenghai",
+    "wof:parent_id": 1108732449,
+    "wof:placetype": "localadmin",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    116.764755,
-    23.471906,
-    116.764755,
-    23.471906
-],
-  "geometry": {"coordinates":[116.76475499999999,23.471906],"type":"Point"}
+    116.698669,
+    23.382023,
+    116.911982,
+    23.648086
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            116.911923,
+            23.569696
+          ],
+          [
+            116.911982,
+            23.552224
+          ],
+          [
+            116.895576,
+            23.544073
+          ],
+          [
+            116.859561,
+            23.479217
+          ],
+          [
+            116.874439,
+            23.468784
+          ],
+          [
+            116.871082,
+            23.450252
+          ],
+          [
+            116.821684,
+            23.382023
+          ],
+          [
+            116.809807,
+            23.396524
+          ],
+          [
+            116.801389,
+            23.429119
+          ],
+          [
+            116.712002,
+            23.474583
+          ],
+          [
+            116.700975,
+            23.508233
+          ],
+          [
+            116.700063,
+            23.546646
+          ],
+          [
+            116.70684,
+            23.554133
+          ],
+          [
+            116.714711,
+            23.554867
+          ],
+          [
+            116.713983,
+            23.56487
+          ],
+          [
+            116.698669,
+            23.576661
+          ],
+          [
+            116.714807,
+            23.605033
+          ],
+          [
+            116.734259,
+            23.604237
+          ],
+          [
+            116.750046,
+            23.583644
+          ],
+          [
+            116.75019,
+            23.576223
+          ],
+          [
+            116.757174,
+            23.575779
+          ],
+          [
+            116.767578,
+            23.586558
+          ],
+          [
+            116.781577,
+            23.587036
+          ],
+          [
+            116.787487,
+            23.591661
+          ],
+          [
+            116.791151,
+            23.612973
+          ],
+          [
+            116.823626,
+            23.615164
+          ],
+          [
+            116.826726,
+            23.625057
+          ],
+          [
+            116.819546,
+            23.629074
+          ],
+          [
+            116.816894,
+            23.638212
+          ],
+          [
+            116.820202,
+            23.644597
+          ],
+          [
+            116.830532,
+            23.648086
+          ],
+          [
+            116.837029,
+            23.642141
+          ],
+          [
+            116.853806,
+            23.639153
+          ],
+          [
+            116.858769,
+            23.624724
+          ],
+          [
+            116.869586,
+            23.617455
+          ],
+          [
+            116.887365,
+            23.625045
+          ],
+          [
+            116.894752,
+            23.621702
+          ],
+          [
+            116.911923,
+            23.569696
+          ]
+        ]
+      ]
+    ]
+  }
 }

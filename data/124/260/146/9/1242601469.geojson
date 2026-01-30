@@ -2,80 +2,88 @@
   "id": 1242601469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.13208,34.76709,119.13208,34.76709",
-    "geom:latitude":34.76709,
-    "geom:longitude":119.13208,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Liuhangcun",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1803127,
-    "gn:latitude":34.76709,
-    "gn:longitude":119.13208,
-    "gn:modification_date":"2017-05-07",
-    "gn:name":"Liuhangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.11208,34.74709,119.15208,34.78709",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Liuhang",
-        "\u67f3\u676d",
-        "Liuhangcun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.13208,34.76709,119.13208,34.76709",
+    "geom:latitude": 34.76709,
+    "geom:longitude": 119.13208,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Liuhangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1803127,
+    "gn:latitude": 34.76709,
+    "gn:longitude": 119.13208,
+    "gn:modification_date": "2017-05-07",
+    "gn:name": "Liuhangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.11208,34.74709,119.15208,34.78709",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Liuhang",
+      "柳杭",
+      "Liuhangcun"
     ],
-    "name:zho_x_preferred":[
-        "\u67f3\u676d\u6751"
+    "name:zho_x_preferred": [
+      "柳杭村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514777,
+      1127320707
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1803127
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1803127
     },
-    "wof:country":"CN",
-    "wof:geomhash":"582186399b430e356ea96119d9e52d20",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514777,
-            "empire_id":136253041,
-            "locality_id":1242601469,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "582186399b430e356ea96119d9e52d20",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514777,
+        "empire_id": 136253041,
+        "locality_id": 1242601469,
+        "region_id": 85669827,
+        "localadmin_id": 1127320707
+      }
     ],
-    "wof:id":1242601469,
-    "wof:lastmodified":1566695025,
-    "wof:name":"Liuhangcun",
-    "wof:parent_id":890514777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242601469,
+    "wof:lastmodified": 1768670858,
+    "wof:name": "Liuhangcun",
+    "wof:parent_id": 1127320707,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.13208,
     34.76709,
     119.13208,
     34.76709
-],
-  "geometry": {"coordinates":[119.13208,34.76709],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.13208,
+      34.76709
+    ],
+    "type": "Point"
+  }
 }

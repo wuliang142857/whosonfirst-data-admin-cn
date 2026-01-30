@@ -2,75 +2,83 @@
   "id": 1259556495,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.495,37.3593,103.495,37.3593",
-    "geom:latitude":37.3593,
-    "geom:longitude":103.495,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Yanwazuo",
-    "gn:country_code":"CN",
-    "gn:dem":2459,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10648159,
-    "gn:latitude":37.3593,
-    "gn:longitude":103.495,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Yanwazuo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.475,37.3393,103.515,37.3793",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u781a\u6d3c\u5ea7"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.495,37.3593,103.495,37.3593",
+    "geom:latitude": 37.3593,
+    "geom:longitude": 103.495,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Yanwazuo",
+    "gn:country_code": "CN",
+    "gn:dem": 2459,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10648159,
+    "gn:latitude": 37.3593,
+    "gn:longitude": 103.495,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Yanwazuo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.475,37.3393,103.515,37.3793",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "砚洼座"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515301,
+      890516467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10648159
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10648159
     },
-    "wof:country":"CN",
-    "wof:geomhash":"872aa2d68ca57fa73a4f14c083fc69eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1259556495,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "872aa2d68ca57fa73a4f14c083fc69eb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1259556495,
+        "region_id": 85669711,
+        "localadmin_id": 890515301
+      }
     ],
-    "wof:id":1259556495,
-    "wof:lastmodified":1566698645,
-    "wof:name":"Yanwazuo",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259556495,
+    "wof:lastmodified": 1768665872,
+    "wof:name": "Yanwazuo",
+    "wof:parent_id": 890515301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.495,
     37.3593,
     103.495,
     37.3593
-],
-  "geometry": {"coordinates":[103.495,37.3593],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.495,
+      37.3593
+    ],
+    "type": "Point"
+  }
 }

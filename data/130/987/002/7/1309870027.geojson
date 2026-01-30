@@ -2,75 +2,83 @@
   "id": 1309870027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.419,37.0022,105.419,37.0022",
-    "geom:latitude":37.0022,
-    "geom:longitude":105.419,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Zhongquan Kouzi",
-    "gn:country_code":"CN",
-    "gn:dem":1649,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10203622,
-    "gn:latitude":37.0022,
-    "gn:longitude":105.419,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Zhongquan Kouzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.399,36.9822,105.439,37.0222",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u5708\u53e3\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.419,37.0022,105.419,37.0022",
+    "geom:latitude": 37.0022,
+    "geom:longitude": 105.419,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Zhongquan Kouzi",
+    "gn:country_code": "CN",
+    "gn:dem": 1649,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10203622,
+    "gn:latitude": 37.0022,
+    "gn:longitude": 105.419,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Zhongquan Kouzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.399,36.9822,105.439,37.0222",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中圈口子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890512733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890512733,
+      1127640521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10203622
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10203622
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a08e1b88a0898e6810e5d8f4e4107df2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512733,
-            "empire_id":136253041,
-            "locality_id":1309870027,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a08e1b88a0898e6810e5d8f4e4107df2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512733,
+        "empire_id": 136253041,
+        "locality_id": 1309870027,
+        "region_id": 85669763,
+        "localadmin_id": 1127640521
+      }
     ],
-    "wof:id":1309870027,
-    "wof:lastmodified":1566693254,
-    "wof:name":"Zhongquan Kouzi",
-    "wof:parent_id":890512733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309870027,
+    "wof:lastmodified": 1768667214,
+    "wof:name": "Zhongquan Kouzi",
+    "wof:parent_id": 1127640521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.419,
     37.0022,
     105.419,
     37.0022
-],
-  "geometry": {"coordinates":[105.419,37.0022],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.419,
+      37.0022
+    ],
+    "type": "Point"
+  }
 }

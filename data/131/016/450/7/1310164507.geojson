@@ -2,75 +2,83 @@
   "id": 1310164507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.017,35.724,106.017,35.724",
-    "geom:latitude":35.724,
-    "geom:longitude":106.017,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Huanggou",
-    "gn:country_code":"CN",
-    "gn:dem":1972,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10203646,
-    "gn:latitude":35.724,
-    "gn:longitude":106.017,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Huanggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.997,35.704,106.037,35.744",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ec4\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.017,35.724,106.017,35.724",
+    "geom:latitude": 35.724,
+    "geom:longitude": 106.017,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Huanggou",
+    "gn:country_code": "CN",
+    "gn:dem": 1972,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10203646,
+    "gn:latitude": 35.724,
+    "gn:longitude": 106.017,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Huanggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.997,35.704,106.037,35.744",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黄沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890515165
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515165,
+      1127640422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10203646
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10203646
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d85403429bd311833a658a2e8176e454",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515165,
-            "empire_id":136253041,
-            "locality_id":1310164507,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d85403429bd311833a658a2e8176e454",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515165,
+        "empire_id": 136253041,
+        "locality_id": 1310164507,
+        "region_id": 85669763,
+        "localadmin_id": 1127640422
+      }
     ],
-    "wof:id":1310164507,
-    "wof:lastmodified":1566689931,
-    "wof:name":"Huanggou",
-    "wof:parent_id":890515165,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310164507,
+    "wof:lastmodified": 1768667192,
+    "wof:name": "Huanggou",
+    "wof:parent_id": 1127640422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.017,
     35.72400000000001,
     106.017,
     35.72400000000001
-],
-  "geometry": {"coordinates":[106.017,35.72400000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.017,
+      35.72400000000001
+    ],
+    "type": "Point"
+  }
 }

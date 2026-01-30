@@ -2,117 +2,472 @@
   "id": 890512723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.93333,36.35,114.93333,36.35",
-    "geom:latitude":36.35,
-    "geom:longitude":114.93333,
-    "gn:country":"CN",
-    "gn:fcode":"ADM3",
-    "gn:population":0,
-    "iso:country":"CN",
-    "lbl:bbox":"114.83333,36.25,115.03333,36.45",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Wei"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.001072475392,
+    "geom:area_square_m": 1072475391.52,
+    "geom:bbox": "114.728206,36.046318,115.118746,36.44111",
+    "geom:latitude": 36.243714,
+    "geom:longitude": 114.923476,
+    "gn:country": "CN",
+    "gn:fcode": "ADM3",
+    "gn:population": 0,
+    "iso:country": "CN",
+    "lbl:bbox": "114.82348,36.14371,115.02348,36.34371",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Wei"
     ],
-    "name:eng_x_preferred":[
-        "Wei County"
+    "name:eng_x_preferred": [
+      "Wei County"
     ],
-    "name:fas_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0648\u06cc"
+    "name:fas_x_preferred": [
+      "شهرستان وی"
     ],
-    "name:gan_x_preferred":[
-        "\u9b4f\u53bf"
+    "name:gan_x_preferred": [
+      "魏县"
     ],
-    "name:jpn_x_preferred":[
-        "\u9b4f\u770c"
+    "name:jpn_x_preferred": [
+      "魏県"
     ],
-    "name:kor_x_preferred":[
-        "\uc6e8\uc774\ud604"
+    "name:kor_x_preferred": [
+      "웨이현"
     ],
-    "name:nan_x_preferred":[
-        "G\u016bi-ko\u0101n"
+    "name:nan_x_preferred": [
+      "Gūi-koān"
     ],
-    "name:nld_x_preferred":[
-        "Wei"
+    "name:nld_x_preferred": [
+      "Wei"
     ],
-    "name:nob_x_preferred":[
-        "Wei"
+    "name:nob_x_preferred": [
+      "Wei"
     ],
-    "name:rus_x_preferred":[
-        "\u0412\u044d\u0439\u0441\u044f\u043d\u044c"
+    "name:rus_x_preferred": [
+      "Вэйсянь"
     ],
-    "name:swe_x_preferred":[
-        "Wei"
+    "name:swe_x_preferred": [
+      "Wei"
     ],
-    "name:und_x_variant":[
-        "Wei Hsien"
+    "name:und_x_variant": [
+      "Wei Hsien"
     ],
-    "name:vie_x_preferred":[
-        "Ng\u1ee5y"
+    "name:vie_x_preferred": [
+      "Ngụy"
     ],
-    "name:wuu_x_preferred":[
-        "\u9b4f\u53bf"
+    "name:wuu_x_preferred": [
+      "魏县"
     ],
-    "name:zho_x_preferred":[
-        "\u9b4f\u53bf"
+    "name:zho_x_preferred": [
+      "魏县"
     ],
-    "qs:name":"Wei Xian",
-    "qs:photos_9r":0,
-    "qs:photos_sr":0,
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wd:wordcount":164,
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890511887
+    "qs:name": "Wei Xian",
+    "qs:photos_9r": 0,
+    "qs:photos_sr": 0,
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wd:wordcount": 164,
+    "wof:belongsto": [
+      85669797,
+      102191569,
+      85632695,
+      136253041,
+      890511887
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791591,
-        "qs_pg:id":903660,
-        "wd:id":"Q1196685",
-        "wk:page":"Wei County, Handan"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791591,
+      "qs_pg:id": 903660,
+      "wd:id": "Q1196685",
+      "wk:page": "Wei County, Handan",
+      "gb:id": "156130434"
     },
-    "wof:country":"CN",
-    "wof:created":1469055783,
-    "wof:geomhash":"4d3ba82875adc55f537c8b187510e59d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511887,
-            "empire_id":136253041,
-            "localadmin_id":890512723,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055783,
+    "wof:geomhash": "4d3ba82875adc55f537c8b187510e59d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511887,
+        "empire_id": 136253041,
+        "localadmin_id": 890512723,
+        "region_id": 85669797
+      }
     ],
-    "wof:id":890512723,
-    "wof:lastmodified":1566693746,
-    "wof:name":"Wei Xian",
-    "wof:parent_id":890511887,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890512723,
+    "wof:lastmodified": 1768664147,
+    "wof:name": "Wei Xian",
+    "wof:parent_id": 890511887,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tianditu-import"
+    ]
+  },
   "bbox": [
-    114.93333,
-    36.35,
-    114.93333,
-    36.35
-],
-  "geometry": {"coordinates":[114.93333,36.35],"type":"Point"}
+    114.728206,
+    36.046318,
+    115.118746,
+    36.44111
+  ],
+  "geometry": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            114.970556,
+            36.432029
+          ],
+          [
+            114.985234,
+            36.41295
+          ],
+          [
+            114.983868,
+            36.405983
+          ],
+          [
+            115.010292,
+            36.396091
+          ],
+          [
+            115.016903,
+            36.38731
+          ],
+          [
+            115.019506,
+            36.372138
+          ],
+          [
+            115.042353,
+            36.3576
+          ],
+          [
+            115.070683,
+            36.32247
+          ],
+          [
+            115.076346,
+            36.306491
+          ],
+          [
+            115.070419,
+            36.289333
+          ],
+          [
+            115.070497,
+            36.274295
+          ],
+          [
+            115.082902,
+            36.266983
+          ],
+          [
+            115.077853,
+            36.227519
+          ],
+          [
+            115.092975,
+            36.217026
+          ],
+          [
+            115.107706,
+            36.228545
+          ],
+          [
+            115.117176,
+            36.220354
+          ],
+          [
+            115.118746,
+            36.208961
+          ],
+          [
+            115.105995,
+            36.191708
+          ],
+          [
+            115.103638,
+            36.171772
+          ],
+          [
+            115.061211,
+            36.175377
+          ],
+          [
+            115.052498,
+            36.170052
+          ],
+          [
+            115.04335,
+            36.152588
+          ],
+          [
+            115.043739,
+            36.114353
+          ],
+          [
+            115.035103,
+            36.11129
+          ],
+          [
+            115.037193,
+            36.10107
+          ],
+          [
+            115.019707,
+            36.100311
+          ],
+          [
+            115.022835,
+            36.091515
+          ],
+          [
+            115.002792,
+            36.086746
+          ],
+          [
+            114.99894,
+            36.080849
+          ],
+          [
+            115.001865,
+            36.078458
+          ],
+          [
+            115.008637,
+            36.075314
+          ],
+          [
+            114.976822,
+            36.069115
+          ],
+          [
+            114.938751,
+            36.067665
+          ],
+          [
+            114.922391,
+            36.055027
+          ],
+          [
+            114.917931,
+            36.046318
+          ],
+          [
+            114.90184,
+            36.049072
+          ],
+          [
+            114.894585,
+            36.060204
+          ],
+          [
+            114.913178,
+            36.098244
+          ],
+          [
+            114.895516,
+            36.134731
+          ],
+          [
+            114.876839,
+            36.137093
+          ],
+          [
+            114.773308,
+            36.127007
+          ],
+          [
+            114.762215,
+            36.132626
+          ],
+          [
+            114.752472,
+            36.142147
+          ],
+          [
+            114.739708,
+            36.145691
+          ],
+          [
+            114.743227,
+            36.154053
+          ],
+          [
+            114.747736,
+            36.157123
+          ],
+          [
+            114.754887,
+            36.154282
+          ],
+          [
+            114.760161,
+            36.163437
+          ],
+          [
+            114.766743,
+            36.163476
+          ],
+          [
+            114.770667,
+            36.169254
+          ],
+          [
+            114.76194,
+            36.179099
+          ],
+          [
+            114.765655,
+            36.19614
+          ],
+          [
+            114.761874,
+            36.206509
+          ],
+          [
+            114.754571,
+            36.214791
+          ],
+          [
+            114.742301,
+            36.206539
+          ],
+          [
+            114.748582,
+            36.229769
+          ],
+          [
+            114.747329,
+            36.241767
+          ],
+          [
+            114.728206,
+            36.25482
+          ],
+          [
+            114.744382,
+            36.289039
+          ],
+          [
+            114.755351,
+            36.288279
+          ],
+          [
+            114.759617,
+            36.306334
+          ],
+          [
+            114.775685,
+            36.307284
+          ],
+          [
+            114.778466,
+            36.320313
+          ],
+          [
+            114.79846,
+            36.327062
+          ],
+          [
+            114.803792,
+            36.340012
+          ],
+          [
+            114.815501,
+            36.346124
+          ],
+          [
+            114.820207,
+            36.359737
+          ],
+          [
+            114.816389,
+            36.360417
+          ],
+          [
+            114.817466,
+            36.365881
+          ],
+          [
+            114.826947,
+            36.382101
+          ],
+          [
+            114.827017,
+            36.378492
+          ],
+          [
+            114.834237,
+            36.376715
+          ],
+          [
+            114.849409,
+            36.385185
+          ],
+          [
+            114.863426,
+            36.382766
+          ],
+          [
+            114.866041,
+            36.375402
+          ],
+          [
+            114.886632,
+            36.37088
+          ],
+          [
+            114.902034,
+            36.381801
+          ],
+          [
+            114.909353,
+            36.393281
+          ],
+          [
+            114.911334,
+            36.407939
+          ],
+          [
+            114.902504,
+            36.409807
+          ],
+          [
+            114.90171,
+            36.421905
+          ],
+          [
+            114.924608,
+            36.421813
+          ],
+          [
+            114.929546,
+            36.434161
+          ],
+          [
+            114.94452,
+            36.429385
+          ],
+          [
+            114.961739,
+            36.44111
+          ],
+          [
+            114.970556,
+            36.432029
+          ]
+        ]
+      ]
+    ]
+  }
 }

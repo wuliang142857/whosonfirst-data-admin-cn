@@ -2,81 +2,89 @@
   "id": 1276705897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.51622,28.43701,104.51622,28.43701",
-    "geom:latitude":28.43701,
-    "geom:longitude":104.51622,
-    "gn:admin1_code":"32",
-    "gn:asciiname":"Qingfu",
-    "gn:country_code":"CN",
-    "gn:dem":339,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1797915,
-    "gn:latitude":28.43701,
-    "gn:longitude":104.51622,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Qingfu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.49622,28.41701,104.53622,28.45701",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019ing-fu",
-        "Kingfu-hsien",
-        "Ch\u2019ing-fu-hsien",
-        "Qingfu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.51622,28.43701,104.51622,28.43701",
+    "geom:latitude": 28.43701,
+    "geom:longitude": 104.51622,
+    "gn:admin1_code": "32",
+    "gn:asciiname": "Qingfu",
+    "gn:country_code": "CN",
+    "gn:dem": 339,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1797915,
+    "gn:latitude": 28.43701,
+    "gn:longitude": 104.51622,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Qingfu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.49622,28.41701,104.53622,28.45701",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’ing-fu",
+      "Kingfu-hsien",
+      "Ch’ing-fu-hsien",
+      "Qingfu"
     ],
-    "name:zho_x_preferred":[
-        "\u5e86\u7b26"
+    "name:zho_x_preferred": [
+      "庆符"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516537,
+      1127511525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1797915
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1797915
     },
-    "wof:country":"CN",
-    "wof:geomhash":"73a455b2f2b799b6f9e20c7430ba85c6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1276705897,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "73a455b2f2b799b6f9e20c7430ba85c6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1276705897,
+        "region_id": 85669787,
+        "localadmin_id": 1127511525
+      }
     ],
-    "wof:id":1276705897,
-    "wof:lastmodified":1566676915,
-    "wof:name":"Qingfu",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276705897,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Qingfu",
+    "wof:parent_id": 1127511525,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.51622,
     28.43701,
     104.51622,
     28.43701
-],
-  "geometry": {"coordinates":[104.51622,28.43701],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.51622,
+      28.43701
+    ],
+    "type": "Point"
+  }
 }

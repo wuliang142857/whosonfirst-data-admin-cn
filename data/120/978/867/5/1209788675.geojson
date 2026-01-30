@@ -2,75 +2,83 @@
   "id": 1209788675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.033,37.3936,103.033,37.3936",
-    "geom:latitude":37.3936,
-    "geom:longitude":103.033,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhoujiazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":2384,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10648103,
-    "gn:latitude":37.3936,
-    "gn:longitude":103.033,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Zhoujiazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.013,37.3736,103.053,37.4136",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5468\u5bb6\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.033,37.3936,103.033,37.3936",
+    "geom:latitude": 37.3936,
+    "geom:longitude": 103.033,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhoujiazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 2384,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10648103,
+    "gn:latitude": 37.3936,
+    "gn:longitude": 103.033,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Zhoujiazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.013,37.3736,103.053,37.4136",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "周家庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515301,
+      890516467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10648103
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10648103
     },
-    "wof:country":"CN",
-    "wof:geomhash":"afe7a60222582fa56c159b53614bcb96",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1209788675,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "afe7a60222582fa56c159b53614bcb96",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1209788675,
+        "region_id": 85669711,
+        "localadmin_id": 890515301
+      }
     ],
-    "wof:id":1209788675,
-    "wof:lastmodified":1566680892,
-    "wof:name":"Zhoujiazhuang",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209788675,
+    "wof:lastmodified": 1768665872,
+    "wof:name": "Zhoujiazhuang",
+    "wof:parent_id": 890515301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.033,
     37.3936,
     103.033,
     37.3936
-],
-  "geometry": {"coordinates":[103.033,37.3936],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.033,
+      37.3936
+    ],
+    "type": "Point"
+  }
 }

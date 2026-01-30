@@ -2,75 +2,83 @@
   "id": 1242644107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.4719,32.39885,109.4719,32.39885",
-    "geom:latitude":32.39885,
-    "geom:longitude":109.4719,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Shuimohe",
-    "gn:country_code":"CN",
-    "gn:dem":974,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11332790,
-    "gn:latitude":32.39885,
-    "gn:longitude":109.4719,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Shuimohe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.4519,32.37885,109.4919,32.41885",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c34\u78e8\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.4719,32.39885,109.4719,32.39885",
+    "geom:latitude": 32.39885,
+    "geom:longitude": 109.4719,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Shuimohe",
+    "gn:country_code": "CN",
+    "gn:dem": 974,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11332790,
+    "gn:latitude": 32.39885,
+    "gn:longitude": 109.4719,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Shuimohe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.4519,32.37885,109.4919,32.41885",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "水磨河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515101
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512669,
+      890515101
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11332790
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11332790
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3fdd8e4c3215e9d1b07ccc87bb6df76e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515101,
-            "empire_id":136253041,
-            "locality_id":1242644107,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3fdd8e4c3215e9d1b07ccc87bb6df76e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515101,
+        "empire_id": 136253041,
+        "locality_id": 1242644107,
+        "region_id": 85669769,
+        "localadmin_id": 890512669
+      }
     ],
-    "wof:id":1242644107,
-    "wof:lastmodified":1566697125,
-    "wof:name":"Shuimohe",
-    "wof:parent_id":890515101,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242644107,
+    "wof:lastmodified": 1768667642,
+    "wof:name": "Shuimohe",
+    "wof:parent_id": 890512669,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.4719,
     32.39885,
     109.4719,
     32.39885
-],
-  "geometry": {"coordinates":[109.47190000000001,32.39885],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.4719,
+      32.39885
+    ],
+    "type": "Point"
+  }
 }

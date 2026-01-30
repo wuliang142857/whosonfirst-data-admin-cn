@@ -2,75 +2,83 @@
   "id": 1343549967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.348,38.3421,117.348,38.3421",
-    "geom:latitude":38.3421,
-    "geom:longitude":117.348,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Suncun",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630666,
-    "gn:latitude":38.3421,
-    "gn:longitude":117.348,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Suncun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.328,38.3221,117.368,38.3621",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b59\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.348,38.3421,117.348,38.3421",
+    "geom:latitude": 38.3421,
+    "geom:longitude": 117.348,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Suncun",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630666,
+    "gn:latitude": 38.3421,
+    "gn:longitude": 117.348,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Suncun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.328,38.3221,117.368,38.3621",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "孙村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130983
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630666
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630666
     },
-    "wof:country":"CN",
-    "wof:geomhash":"94e6f8abd6e7d76497e7549d1405849a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1343549967,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "94e6f8abd6e7d76497e7549d1405849a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1343549967,
+        "region_id": 85669797,
+        "localadmin_id": 1127130983
+      }
     ],
-    "wof:id":1343549967,
-    "wof:lastmodified":1566656624,
-    "wof:name":"Suncun",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343549967,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Suncun",
+    "wof:parent_id": 1127130983,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.348,
     38.3421,
     117.348,
     38.3421
-],
-  "geometry": {"coordinates":[117.348,38.3421],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.348,
+      38.3421
+    ],
+    "type": "Point"
+  }
 }

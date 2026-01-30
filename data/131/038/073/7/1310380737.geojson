@@ -2,75 +2,83 @@
   "id": 1310380737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.641,25.655,108.641,25.655",
-    "geom:latitude":25.655,
-    "geom:longitude":108.641,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Jialu",
-    "gn:country_code":"CN",
-    "gn:dem":431,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10051701,
-    "gn:latitude":25.655,
-    "gn:longitude":108.641,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Jialu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.621,25.635,108.661,25.675",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u52a0\u8def"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.641,25.655,108.641,25.655",
+    "geom:latitude": 25.655,
+    "geom:longitude": 108.641,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Jialu",
+    "gn:country_code": "CN",
+    "gn:dem": 431,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10051701,
+    "gn:latitude": 25.655,
+    "gn:longitude": 108.641,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Jialu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.621,25.635,108.661,25.675",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "加路"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794067
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516015,
+      1108794067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10051701
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10051701
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4396ee958e64c8224148430ea358d7b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794067,
-            "empire_id":136253041,
-            "locality_id":1310380737,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4396ee958e64c8224148430ea358d7b2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794067,
+        "empire_id": 136253041,
+        "locality_id": 1310380737,
+        "region_id": 85669781,
+        "localadmin_id": 890516015
+      }
     ],
-    "wof:id":1310380737,
-    "wof:lastmodified":1566688799,
-    "wof:name":"Jialu",
-    "wof:parent_id":1108794067,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310380737,
+    "wof:lastmodified": 1768664981,
+    "wof:name": "Jialu",
+    "wof:parent_id": 890516015,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.641,
     25.655,
     108.641,
     25.655
-],
-  "geometry": {"coordinates":[108.64100000000001,25.655],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.641,
+      25.655
+    ],
+    "type": "Point"
+  }
 }

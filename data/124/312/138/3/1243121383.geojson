@@ -2,75 +2,83 @@
   "id": 1243121383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.975,31.0815,107.975,31.0815",
-    "geom:latitude":31.0815,
-    "geom:longitude":107.975,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhangjiachong",
-    "gn:country_code":"CN",
-    "gn:dem":505,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10155888,
-    "gn:latitude":31.0815,
-    "gn:longitude":107.975,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Zhangjiachong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.955,31.0615,107.995,31.1015",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f20\u5bb6\u51b2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.975,31.0815,107.975,31.0815",
+    "geom:latitude": 31.0815,
+    "geom:longitude": 107.975,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhangjiachong",
+    "gn:country_code": "CN",
+    "gn:dem": 505,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10155888,
+    "gn:latitude": 31.0815,
+    "gn:longitude": 107.975,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Zhangjiachong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.955,31.0615,107.995,31.1015",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "张家冲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513987
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513987,
+      1127511723
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10155888
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10155888
     },
-    "wof:country":"CN",
-    "wof:geomhash":"52f1bc120173892367b949c242185585",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513987,
-            "empire_id":136253041,
-            "locality_id":1243121383,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "52f1bc120173892367b949c242185585",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513987,
+        "empire_id": 136253041,
+        "locality_id": 1243121383,
+        "region_id": 85669787,
+        "localadmin_id": 1127511723
+      }
     ],
-    "wof:id":1243121383,
-    "wof:lastmodified":1566695525,
-    "wof:name":"Zhangjiachong",
-    "wof:parent_id":890513987,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243121383,
+    "wof:lastmodified": 1768668149,
+    "wof:name": "Zhangjiachong",
+    "wof:parent_id": 1127511723,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.975,
     31.0815,
     107.975,
     31.0815
-],
-  "geometry": {"coordinates":[107.97499999999999,31.0815],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.975,
+      31.0815
+    ],
+    "type": "Point"
+  }
 }

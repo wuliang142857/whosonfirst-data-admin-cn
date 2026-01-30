@@ -2,80 +2,88 @@
   "id": 1326871655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.90086,28.95964,103.90086,28.95964",
-    "geom:latitude":28.95964,
-    "geom:longitude":103.90086,
-    "gn:admin1_code":"32",
-    "gn:asciiname":"Muxi",
-    "gn:country_code":"CN",
-    "gn:dem":400,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":1800268,
-    "gn:latitude":28.95964,
-    "gn:longitude":103.90086,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Muxi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.88086,28.93964,103.92086,28.97964",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Muchuan",
-        "Mu-ch\u2019uan-hsien",
-        "Muxi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.90086,28.95964,103.90086,28.95964",
+    "geom:latitude": 28.95964,
+    "geom:longitude": 103.90086,
+    "gn:admin1_code": "32",
+    "gn:asciiname": "Muxi",
+    "gn:country_code": "CN",
+    "gn:dem": 400,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 1800268,
+    "gn:latitude": 28.95964,
+    "gn:longitude": 103.90086,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Muxi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.88086,28.93964,103.92086,28.97964",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Muchuan",
+      "Mu-ch’uan-hsien",
+      "Muxi"
     ],
-    "name:zho_x_preferred":[
-        "\u6c90\u6eaa"
+    "name:zho_x_preferred": [
+      "沐溪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890512711
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512711,
+      1127511129
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800268
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800268
     },
-    "wof:country":"CN",
-    "wof:geomhash":"446848cbb6b5e00ba42f994fb133fe56",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512711,
-            "empire_id":136253041,
-            "locality_id":1326871655,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "446848cbb6b5e00ba42f994fb133fe56",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512711,
+        "empire_id": 136253041,
+        "locality_id": 1326871655,
+        "region_id": 85669787,
+        "localadmin_id": 1127511129
+      }
     ],
-    "wof:id":1326871655,
-    "wof:lastmodified":1566648424,
-    "wof:name":"Muxi",
-    "wof:parent_id":890512711,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326871655,
+    "wof:lastmodified": 1768668485,
+    "wof:name": "Muxi",
+    "wof:parent_id": 1127511129,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.90086,
     28.95964,
     103.90086,
     28.95964
-],
-  "geometry": {"coordinates":[103.90085999999999,28.95964],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.90086,
+      28.95964
+    ],
+    "type": "Point"
+  }
 }

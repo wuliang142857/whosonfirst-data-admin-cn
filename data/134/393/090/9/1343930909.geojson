@@ -2,75 +2,83 @@
   "id": 1343930909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.199,38.9396,100.199,38.9396",
-    "geom:latitude":38.9396,
-    "geom:longitude":100.199,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Gonglian Dadui",
-    "gn:country_code":"CN",
-    "gn:dem":1583,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":10644231,
-    "gn:latitude":38.9396,
-    "gn:longitude":100.199,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Gonglian Dadui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.179,38.9196,100.219,38.9596",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5de5\u8054\u5927\u961f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.199,38.9396,100.199,38.9396",
+    "geom:latitude": 38.9396,
+    "geom:longitude": 100.199,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Gonglian Dadui",
+    "gn:country_code": "CN",
+    "gn:dem": 1583,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 10644231,
+    "gn:latitude": 38.9396,
+    "gn:longitude": 100.199,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Gonglian Dadui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.179,38.9196,100.219,38.9596",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "工联大队"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890515163
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515163,
+      890516895
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10644231
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10644231
     },
-    "wof:country":"CN",
-    "wof:geomhash":"299f4be2bd29ae282416783cf192187c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515163,
-            "empire_id":136253041,
-            "locality_id":1343930909,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "299f4be2bd29ae282416783cf192187c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515163,
+        "empire_id": 136253041,
+        "locality_id": 1343930909,
+        "region_id": 85669711,
+        "localadmin_id": 890516895
+      }
     ],
-    "wof:id":1343930909,
-    "wof:lastmodified":1566661765,
-    "wof:name":"Gonglian Dadui",
-    "wof:parent_id":890515163,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343930909,
+    "wof:lastmodified": 1768666543,
+    "wof:name": "Gonglian Dadui",
+    "wof:parent_id": 890516895,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.199,
     38.9396,
     100.199,
     38.9396
-],
-  "geometry": {"coordinates":[100.199,38.9396],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.199,
+      38.9396
+    ],
+    "type": "Point"
+  }
 }

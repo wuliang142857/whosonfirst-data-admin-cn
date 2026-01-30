@@ -2,75 +2,83 @@
   "id": 1259836391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.67405,34.3629,107.67405,34.3629",
-    "geom:latitude":34.3629,
-    "geom:longitude":107.67405,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Hanjiacun",
-    "gn:country_code":"CN",
-    "gn:dem":667,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11417279,
-    "gn:latitude":34.3629,
-    "gn:longitude":107.67405,
-    "gn:modification_date":"2017-01-07",
-    "gn:name":"Hanjiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.65405,34.3429,107.69405,34.3829",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u97e9\u5bb6\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.67405,34.3629,107.67405,34.3629",
+    "geom:latitude": 34.3629,
+    "geom:longitude": 107.67405,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Hanjiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 667,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11417279,
+    "gn:latitude": 34.3629,
+    "gn:longitude": 107.67405,
+    "gn:modification_date": "2017-01-07",
+    "gn:name": "Hanjiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.65405,34.3429,107.69405,34.3829",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "韩家村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890516525
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890514317,
+      890516525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11417279
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11417279
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e5cff1735e9ca46ff26eb50dfbc4b546",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516525,
-            "empire_id":136253041,
-            "locality_id":1259836391,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e5cff1735e9ca46ff26eb50dfbc4b546",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516525,
+        "empire_id": 136253041,
+        "locality_id": 1259836391,
+        "region_id": 85669769,
+        "localadmin_id": 890514317
+      }
     ],
-    "wof:id":1259836391,
-    "wof:lastmodified":1566698806,
-    "wof:name":"Hanjiacun",
-    "wof:parent_id":890516525,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259836391,
+    "wof:lastmodified": 1768667752,
+    "wof:name": "Hanjiacun",
+    "wof:parent_id": 890514317,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.67405,
     34.3629,
     107.67405,
     34.3629
-],
-  "geometry": {"coordinates":[107.67404999999999,34.3629],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.67405,
+      34.3629
+    ],
+    "type": "Point"
+  }
 }

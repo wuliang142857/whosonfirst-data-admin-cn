@@ -2,75 +2,83 @@
   "id": 1344256991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.05987,31.27405,119.05987,31.27405",
-    "geom:latitude":31.27405,
-    "geom:longitude":119.05987,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Shijiubang",
-    "gn:country_code":"CN",
-    "gn:dem":36,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8395960,
-    "gn:latitude":31.27405,
-    "gn:longitude":119.05987,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Shijiubang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.03987,31.25405,119.07987,31.29405",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u81fc\u6d5c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.05987,31.27405,119.05987,31.27405",
+    "geom:latitude": 31.27405,
+    "geom:longitude": 119.05987,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Shijiubang",
+    "gn:country_code": "CN",
+    "gn:dem": 36,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8395960,
+    "gn:latitude": 31.27405,
+    "gn:longitude": 119.05987,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Shijiubang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.03987,31.25405,119.07987,31.29405",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石臼浜"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516425
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514191,
+      890516425
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8395960
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8395960
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4885677d0bc8a355057bc052c89405fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516425,
-            "empire_id":136253041,
-            "locality_id":1344256991,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4885677d0bc8a355057bc052c89405fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516425,
+        "empire_id": 136253041,
+        "locality_id": 1344256991,
+        "region_id": 85669827,
+        "localadmin_id": 890514191
+      }
     ],
-    "wof:id":1344256991,
-    "wof:lastmodified":1566657913,
-    "wof:name":"Shijiubang",
-    "wof:parent_id":890516425,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344256991,
+    "wof:lastmodified": 1768670271,
+    "wof:name": "Shijiubang",
+    "wof:parent_id": 890514191,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.05987,
     31.27405,
     119.05987,
     31.27405
-],
-  "geometry": {"coordinates":[119.05987,31.27405],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.05987,
+      31.27405
+    ],
+    "type": "Point"
+  }
 }

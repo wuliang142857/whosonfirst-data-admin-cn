@@ -2,75 +2,83 @@
   "id": 1327280311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.32403,22.32424,112.32403,22.32424",
-    "geom:latitude":22.32424,
-    "geom:longitude":112.32403,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Chengtou",
-    "gn:country_code":"CN",
-    "gn:dem":21,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6854967,
-    "gn:latitude":22.32424,
-    "gn:longitude":112.32403,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Chengtou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.30403,22.30424,112.34403,22.34424",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u57ce\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.32403,22.32424,112.32403,22.32424",
+    "geom:latitude": 22.32424,
+    "geom:longitude": 112.32403,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Chengtou",
+    "gn:country_code": "CN",
+    "gn:dem": 21,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6854967,
+    "gn:latitude": 22.32424,
+    "gn:longitude": 112.32403,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Chengtou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.30403,22.30424,112.34403,22.34424",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "城头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514609,
+      890515351
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6854967
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6854967
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7417ae4bd8f0af0a751e7d92f039c076",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1327280311,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7417ae4bd8f0af0a751e7d92f039c076",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1327280311,
+        "region_id": 85669743,
+        "localadmin_id": 890515351
+      }
     ],
-    "wof:id":1327280311,
-    "wof:lastmodified":1566654462,
-    "wof:name":"Chengtou",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327280311,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Chengtou",
+    "wof:parent_id": 890515351,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.32403,
     22.32424,
     112.32403,
     22.32424
-],
-  "geometry": {"coordinates":[112.32402999999999,22.32424],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.32403,
+      22.32424
+    ],
+    "type": "Point"
+  }
 }

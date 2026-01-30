@@ -2,75 +2,83 @@
   "id": 1343743729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.038,21.9636,108.038,21.9636",
-    "geom:latitude":21.9636,
-    "geom:longitude":108.038,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Sanliao",
-    "gn:country_code":"CN",
-    "gn:dem":254,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9901614,
-    "gn:latitude":21.9636,
-    "gn:longitude":108.038,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Sanliao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.018,21.9436,108.058,21.9836",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u6599"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.038,21.9636,108.038,21.9636",
+    "geom:latitude": 21.9636,
+    "geom:longitude": 108.038,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Sanliao",
+    "gn:country_code": "CN",
+    "gn:dem": 254,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9901614,
+    "gn:latitude": 21.9636,
+    "gn:longitude": 108.038,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Sanliao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.018,21.9436,108.058,21.9836",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三料"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512639
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512639,
+      1127450621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9901614
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9901614
     },
-    "wof:country":"CN",
-    "wof:geomhash":"04a48b21ddce68f943e5443bd75db349",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512639,
-            "empire_id":136253041,
-            "locality_id":1343743729,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "04a48b21ddce68f943e5443bd75db349",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512639,
+        "empire_id": 136253041,
+        "locality_id": 1343743729,
+        "region_id": 85669717,
+        "localadmin_id": 1127450621
+      }
     ],
-    "wof:id":1343743729,
-    "wof:lastmodified":1566664144,
-    "wof:name":"Sanliao",
-    "wof:parent_id":890512639,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343743729,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Sanliao",
+    "wof:parent_id": 1127450621,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.038,
     21.9636,
     108.038,
     21.9636
-],
-  "geometry": {"coordinates":[108.038,21.9636],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.038,
+      21.9636
+    ],
+    "type": "Point"
+  }
 }

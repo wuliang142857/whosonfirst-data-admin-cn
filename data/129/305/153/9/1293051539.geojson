@@ -2,81 +2,89 @@
   "id": 1293051539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.91312,27.93176,104.91312,27.93176",
-    "geom:latitude":27.93176,
-    "geom:longitude":104.91312,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Yudong",
-    "gn:country_code":"CN",
-    "gn:dem":718,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8999954,
-    "gn:latitude":27.93176,
-    "gn:longitude":104.91312,
-    "gn:modification_date":"2014-05-01",
-    "gn:name":"Yudong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.89312,27.91176,104.93312,27.95176",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Yudong"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.91312,27.93176,104.91312,27.93176",
+    "geom:latitude": 27.93176,
+    "geom:longitude": 104.91312,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Yudong",
+    "gn:country_code": "CN",
+    "gn:dem": 718,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8999954,
+    "gn:latitude": 27.93176,
+    "gn:longitude": 104.91312,
+    "gn:modification_date": "2014-05-01",
+    "gn:name": "Yudong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.89312,27.91176,104.93312,27.95176",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Yudong"
     ],
-    "name:swe_x_preferred":[
-        "Yudong"
+    "name:swe_x_preferred": [
+      "Yudong"
     ],
-    "name:und_x_variant":[
-        "\u9c7c\u6d1e"
+    "name:und_x_variant": [
+      "鱼洞"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514257,
+      1127530629
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8999954
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8999954
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1e64fd67434427e021f5cfe200e35e5c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1293051539,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1e64fd67434427e021f5cfe200e35e5c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1293051539,
+        "region_id": 85669791,
+        "localadmin_id": 1127530629
+      }
     ],
-    "wof:id":1293051539,
-    "wof:lastmodified":1566669858,
-    "wof:name":"Yudong",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293051539,
+    "wof:lastmodified": 1768668498,
+    "wof:name": "Yudong",
+    "wof:parent_id": 1127530629,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.91312,
     27.93176,
     104.91312,
     27.93176
-],
-  "geometry": {"coordinates":[104.91312000000001,27.93176],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.91312,
+      27.93176
+    ],
+    "type": "Point"
+  }
 }

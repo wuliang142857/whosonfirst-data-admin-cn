@@ -2,85 +2,93 @@
   "id": 1260135201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.09676,37.3637,120.09676,37.3637",
-    "geom:latitude":37.3637,
-    "geom:longitude":120.09676,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Zhuqiao",
-    "gn:country_code":"CN",
-    "gn:dem":30,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1783838,
-    "gn:latitude":37.3637,
-    "gn:longitude":120.09676,
-    "gn:modification_date":"2013-07-05",
-    "gn:name":"Zhuqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.07676,37.3437,120.11676,37.3837",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chu-ch\u2019iao-chen",
-        "Chukiao",
-        "Chu-ch\u2019iao",
-        "Zhuqiao",
-        "Zhuqiao Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.09676,37.3637,120.09676,37.3637",
+    "geom:latitude": 37.3637,
+    "geom:longitude": 120.09676,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Zhuqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 30,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1783838,
+    "gn:latitude": 37.3637,
+    "gn:longitude": 120.09676,
+    "gn:modification_date": "2013-07-05",
+    "gn:name": "Zhuqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.07676,37.3437,120.11676,37.3837",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chu-ch’iao-chen",
+      "Chukiao",
+      "Chu-ch’iao",
+      "Zhuqiao",
+      "Zhuqiao Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u6731\u6865"
+    "name:zho_x_preferred": [
+      "朱桥"
     ],
-    "name:zho_x_variant":[
-        "\u6731\u6865\u9547"
+    "name:zho_x_variant": [
+      "朱桥镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890516301,
+      1127370683
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1783838
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1783838
     },
-    "wof:country":"CN",
-    "wof:geomhash":"775c197625179b3e0fa7e46ea944cefd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1260135201,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "775c197625179b3e0fa7e46ea944cefd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1260135201,
+        "region_id": 85669813,
+        "localadmin_id": 1127370683
+      }
     ],
-    "wof:id":1260135201,
-    "wof:lastmodified":1566686394,
-    "wof:name":"Zhuqiao",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260135201,
+    "wof:lastmodified": 1768668014,
+    "wof:name": "Zhuqiao",
+    "wof:parent_id": 1127370683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.09676,
     37.3637,
     120.09676,
     37.3637
-],
-  "geometry": {"coordinates":[120.09676,37.3637],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.09676,
+      37.3637
+    ],
+    "type": "Point"
+  }
 }

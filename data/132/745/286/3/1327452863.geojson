@@ -2,75 +2,83 @@
   "id": 1327452863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.15023,47.65025,123.15023,47.65025",
-    "geom:latitude":47.65025,
-    "geom:longitude":123.15023,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Genghuoli",
-    "gn:country_code":"CN",
-    "gn:dem":256,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8475357,
-    "gn:latitude":47.65025,
-    "gn:longitude":123.15023,
-    "gn:modification_date":"2013-03-06",
-    "gn:name":"Genghuoli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.13023,47.63025,123.17023,47.67025",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u803f\u706b\u529b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.15023,47.65025,123.15023,47.65025",
+    "geom:latitude": 47.65025,
+    "geom:longitude": 123.15023,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Genghuoli",
+    "gn:country_code": "CN",
+    "gn:dem": 256,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8475357,
+    "gn:latitude": 47.65025,
+    "gn:longitude": 123.15023,
+    "gn:modification_date": "2013-03-06",
+    "gn:name": "Genghuoli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.13023,47.63025,123.17023,47.67025",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "耿火力"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8475357
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8475357
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ea6bab476b764591b3db77f2ce7a3ce7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1327452863,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ea6bab476b764591b3db77f2ce7a3ce7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1327452863,
+        "region_id": 85669849,
+        "localadmin_id": 1127230225
+      }
     ],
-    "wof:id":1327452863,
-    "wof:lastmodified":1566654871,
-    "wof:name":"Genghuoli",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327452863,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Genghuoli",
+    "wof:parent_id": 1127230225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.15023,
     47.65025,
     123.15023,
     47.65025
-],
-  "geometry": {"coordinates":[123.15022999999999,47.65025],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.15023,
+      47.65025
+    ],
+    "type": "Point"
+  }
 }

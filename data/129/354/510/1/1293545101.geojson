@@ -2,75 +2,83 @@
   "id": 1293545101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.39646,39.41989,112.39646,39.41989",
-    "geom:latitude":39.41989,
-    "geom:longitude":112.39646,
-    "gn:admin1_code":"24.0",
-    "gn:asciiname":"Liujiakou",
-    "gn:country_code":"CN",
-    "gn:dem":1192,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7509005,
-    "gn:latitude":39.41989,
-    "gn:longitude":112.39646,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Liujiakou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.37646,39.39989,112.41646,39.43989",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5218\u5bb6\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.39646,39.41989,112.39646,39.41989",
+    "geom:latitude": 39.41989,
+    "geom:longitude": 112.39646,
+    "gn:admin1_code": "24.0",
+    "gn:asciiname": "Liujiakou",
+    "gn:country_code": "CN",
+    "gn:dem": 1192,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7509005,
+    "gn:latitude": 39.41989,
+    "gn:longitude": 112.39646,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Liujiakou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.37646,39.39989,112.41646,39.43989",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "刘家口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513491
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513491,
+      1127140602
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7509005
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7509005
     },
-    "wof:country":"CN",
-    "wof:geomhash":"97bb15ddcef01e1da526a4362346ad71",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513491,
-            "empire_id":136253041,
-            "locality_id":1293545101,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "97bb15ddcef01e1da526a4362346ad71",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513491,
+        "empire_id": 136253041,
+        "locality_id": 1293545101,
+        "region_id": 85669773,
+        "localadmin_id": 1127140602
+      }
     ],
-    "wof:id":1293545101,
-    "wof:lastmodified":1566665867,
-    "wof:name":"Liujiakou",
-    "wof:parent_id":890513491,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293545101,
+    "wof:lastmodified": 1768666425,
+    "wof:name": "Liujiakou",
+    "wof:parent_id": 1127140602,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.39646,
     39.41989,
     112.39646,
     39.41989
-],
-  "geometry": {"coordinates":[112.39646,39.41989],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.39646,
+      39.41989
+    ],
+    "type": "Point"
+  }
 }

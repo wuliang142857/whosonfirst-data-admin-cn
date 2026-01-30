@@ -2,75 +2,83 @@
   "id": 1260263793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.78364,28.75482,113.78364,28.75482",
-    "geom:latitude":28.75482,
-    "geom:longitude":113.78364,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Shangchensidong",
-    "gn:country_code":"CN",
-    "gn:dem":266,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10324332,
-    "gn:latitude":28.75482,
-    "gn:longitude":113.78364,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Shangchensidong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.76364,28.73482,113.80364,28.77482",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u9648\u53f8\u6d1e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.78364,28.75482,113.78364,28.75482",
+    "geom:latitude": 28.75482,
+    "geom:longitude": 113.78364,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Shangchensidong",
+    "gn:country_code": "CN",
+    "gn:dem": 266,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10324332,
+    "gn:latitude": 28.75482,
+    "gn:longitude": 113.78364,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Shangchensidong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.76364,28.73482,113.80364,28.77482",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上陈司洞"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890516479
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516479,
+      1127430626
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10324332
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10324332
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bf57fd7ddb5a11ebbecf5a271a9fe184",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516479,
-            "empire_id":136253041,
-            "locality_id":1260263793,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bf57fd7ddb5a11ebbecf5a271a9fe184",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516479,
+        "empire_id": 136253041,
+        "locality_id": 1260263793,
+        "region_id": 85669781,
+        "localadmin_id": 1127430626
+      }
     ],
-    "wof:id":1260263793,
-    "wof:lastmodified":1566687427,
-    "wof:name":"Shangchensidong",
-    "wof:parent_id":890516479,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260263793,
+    "wof:lastmodified": 1768670325,
+    "wof:name": "Shangchensidong",
+    "wof:parent_id": 1127430626,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.78364,
     28.75482,
     113.78364,
     28.75482
-],
-  "geometry": {"coordinates":[113.78364000000001,28.75482],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.78364,
+      28.75482
+    ],
+    "type": "Point"
+  }
 }

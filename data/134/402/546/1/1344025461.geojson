@@ -2,75 +2,83 @@
   "id": 1344025461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.588,36.0363,117.588,36.0363",
-    "geom:latitude":36.0363,
-    "geom:longitude":117.588,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Shihezhuang",
-    "gn:country_code":"CN",
-    "gn:dem":193,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9121972,
-    "gn:latitude":36.0363,
-    "gn:longitude":117.588,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Shihezhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.568,36.0163,117.608,36.0563",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u6cb3\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.588,36.0363,117.588,36.0363",
+    "geom:latitude": 36.0363,
+    "geom:longitude": 117.588,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Shihezhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 193,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9121972,
+    "gn:latitude": 36.0363,
+    "gn:longitude": 117.588,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Shihezhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.568,36.0163,117.608,36.0563",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石河庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514275,
+      890515833
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9121972
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9121972
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3d06a88296cab8818595a98dc739b98e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515833,
-            "empire_id":136253041,
-            "locality_id":1344025461,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3d06a88296cab8818595a98dc739b98e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515833,
+        "empire_id": 136253041,
+        "locality_id": 1344025461,
+        "region_id": 85669813,
+        "localadmin_id": 890514275
+      }
     ],
-    "wof:id":1344025461,
-    "wof:lastmodified":1566663214,
-    "wof:name":"Shihezhuang",
-    "wof:parent_id":890515833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344025461,
+    "wof:lastmodified": 1768668331,
+    "wof:name": "Shihezhuang",
+    "wof:parent_id": 890514275,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.588,
     36.0363,
     117.588,
     36.0363
-],
-  "geometry": {"coordinates":[117.58799999999999,36.0363],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.588,
+      36.0363
+    ],
+    "type": "Point"
+  }
 }

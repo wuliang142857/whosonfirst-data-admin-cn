@@ -2,80 +2,88 @@
   "id": 1276629193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.16169,40.99849,111.16169,40.99849",
-    "geom:latitude":40.99849,
-    "geom:longitude":111.16169,
-    "gn:admin1_code":"20.0",
-    "gn:asciiname":"Nalinggou",
-    "gn:country_code":"CN",
-    "gn:dem":1681,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8469553,
-    "gn:latitude":40.99849,
-    "gn:longitude":111.16169,
-    "gn:modification_date":"2013-05-10",
-    "gn:name":"Nalinggou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.14169,40.97849,111.18169,41.01849",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Jiuguan",
-        "\u9152\u9986",
-        "\u7eb3\u4ee4\u6c9f",
-        "Nalinggou Xiang",
-        "Nalinggou",
-        "\u7eb3\u4ee4\u6c9f\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.16169,40.99849,111.16169,40.99849",
+    "geom:latitude": 40.99849,
+    "geom:longitude": 111.16169,
+    "gn:admin1_code": "20.0",
+    "gn:asciiname": "Nalinggou",
+    "gn:country_code": "CN",
+    "gn:dem": 1681,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8469553,
+    "gn:latitude": 40.99849,
+    "gn:longitude": 111.16169,
+    "gn:modification_date": "2013-05-10",
+    "gn:name": "Nalinggou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.14169,40.97849,111.18169,41.01849",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Jiuguan",
+      "酒馆",
+      "纳令沟",
+      "Nalinggou Xiang",
+      "Nalinggou",
+      "纳令沟乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        890513779
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890513779,
+      1127150125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8469553
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8469553
     },
-    "wof:country":"CN",
-    "wof:geomhash":"21887cc11b81d18220939a1e38399fb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513779,
-            "empire_id":136253041,
-            "locality_id":1276629193,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "21887cc11b81d18220939a1e38399fb0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513779,
+        "empire_id": 136253041,
+        "locality_id": 1276629193,
+        "region_id": 85669847,
+        "localadmin_id": 1127150125
+      }
     ],
-    "wof:id":1276629193,
-    "wof:lastmodified":1566677894,
-    "wof:name":"Nalinggou",
-    "wof:parent_id":890513779,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276629193,
+    "wof:lastmodified": 1768667028,
+    "wof:name": "Nalinggou",
+    "wof:parent_id": 1127150125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.16169,
     40.99849,
     111.16169,
     40.99849
-],
-  "geometry": {"coordinates":[111.16168999999999,40.99849],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.16169,
+      40.99849
+    ],
+    "type": "Point"
+  }
 }

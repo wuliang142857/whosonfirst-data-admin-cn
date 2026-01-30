@@ -2,75 +2,83 @@
   "id": 1343362751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.74432,30.1427,118.74432,30.1427",
-    "geom:latitude":30.1427,
-    "geom:longitude":118.74432,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Jiangnancun",
-    "gn:country_code":"CN",
-    "gn:dem":270,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11417373,
-    "gn:latitude":30.1427,
-    "gn:longitude":118.74432,
-    "gn:modification_date":"2017-01-07",
-    "gn:name":"Jiangnancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.72432,30.1227,118.76432,30.1627",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c5f\u5357\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.74432,30.1427,118.74432,30.1427",
+    "geom:latitude": 30.1427,
+    "geom:longitude": 118.74432,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Jiangnancun",
+    "gn:country_code": "CN",
+    "gn:dem": 270,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11417373,
+    "gn:latitude": 30.1427,
+    "gn:longitude": 118.74432,
+    "gn:modification_date": "2017-01-07",
+    "gn:name": "Jiangnancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.72432,30.1227,118.76432,30.1627",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "江南村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513943,
+      890515063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11417373
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11417373
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d51abf8f4930c827ab8ee39d2339476a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515063,
-            "empire_id":136253041,
-            "locality_id":1343362751,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d51abf8f4930c827ab8ee39d2339476a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515063,
+        "empire_id": 136253041,
+        "locality_id": 1343362751,
+        "region_id": 85669739,
+        "localadmin_id": 890513943
+      }
     ],
-    "wof:id":1343362751,
-    "wof:lastmodified":1566655814,
-    "wof:name":"Jiangnancun",
-    "wof:parent_id":890515063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343362751,
+    "wof:lastmodified": 1768670065,
+    "wof:name": "Jiangnancun",
+    "wof:parent_id": 890513943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.74432,
     30.1427,
     118.74432,
     30.1427
-],
-  "geometry": {"coordinates":[118.74432,30.1427],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.74432,
+      30.1427
+    ],
+    "type": "Point"
+  }
 }

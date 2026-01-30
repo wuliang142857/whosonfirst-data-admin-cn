@@ -2,75 +2,83 @@
   "id": 1226731301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.829,23.5194,106.829,23.5194",
-    "geom:latitude":23.5194,
-    "geom:longitude":106.829,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Tuobi",
-    "gn:country_code":"CN",
-    "gn:dem":650,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9908444,
-    "gn:latitude":23.5194,
-    "gn:longitude":106.829,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Tuobi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.809,23.4994,106.849,23.5394",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6e\u6bd5"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.829,23.5194,106.829,23.5194",
+    "geom:latitude": 23.5194,
+    "geom:longitude": 106.829,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Tuobi",
+    "gn:country_code": "CN",
+    "gn:dem": 650,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9908444,
+    "gn:latitude": 23.5194,
+    "gn:longitude": 106.829,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Tuobi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.809,23.4994,106.849,23.5394",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "驮毕"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513903,
+      890516485
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9908444
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9908444
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3e339e10ebca2b4ac87c6392bb2fd515",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226731301,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3e339e10ebca2b4ac87c6392bb2fd515",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226731301,
+        "region_id": 85669717,
+        "localadmin_id": 890513903
+      }
     ],
-    "wof:id":1226731301,
-    "wof:lastmodified":1566701612,
-    "wof:name":"Tuobi",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226731301,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Tuobi",
+    "wof:parent_id": 890513903,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.829,
     23.5194,
     106.829,
     23.5194
-],
-  "geometry": {"coordinates":[106.82899999999999,23.5194],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.829,
+      23.5194
+    ],
+    "type": "Point"
+  }
 }

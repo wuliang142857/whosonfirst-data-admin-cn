@@ -2,75 +2,83 @@
   "id": 1344105915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.044,31.5893,105.044,31.5893",
-    "geom:latitude":31.5893,
-    "geom:longitude":105.044,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shuangtang",
-    "gn:country_code":"CN",
-    "gn:dem":484,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163282,
-    "gn:latitude":31.5893,
-    "gn:longitude":105.044,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shuangtang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.024,31.5693,105.064,31.6093",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53cc\u5858"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.044,31.5893,105.044,31.5893",
+    "geom:latitude": 31.5893,
+    "geom:longitude": 105.044,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shuangtang",
+    "gn:country_code": "CN",
+    "gn:dem": 484,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163282,
+    "gn:latitude": 31.5893,
+    "gn:longitude": 105.044,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shuangtang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.024,31.5693,105.064,31.6093",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "双塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      1127510725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163282
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163282
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eba37cad84f4009a5f205423e80c09a0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1344105915,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eba37cad84f4009a5f205423e80c09a0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1344105915,
+        "region_id": 85669787,
+        "localadmin_id": 1127510725
+      }
     ],
-    "wof:id":1344105915,
-    "wof:lastmodified":1566662652,
-    "wof:name":"Shuangtang",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344105915,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Shuangtang",
+    "wof:parent_id": 1127510725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.044,
     31.5893,
     105.044,
     31.5893
-],
-  "geometry": {"coordinates":[105.044,31.5893],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.044,
+      31.5893
+    ],
+    "type": "Point"
+  }
 }

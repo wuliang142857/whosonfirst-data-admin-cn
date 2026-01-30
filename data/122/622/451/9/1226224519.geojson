@@ -2,75 +2,83 @@
   "id": 1226224519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.2564,35.05256,105.2564,35.05256",
-    "geom:latitude":35.05256,
-    "geom:longitude":105.2564,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhujiayao",
-    "gn:country_code":"CN",
-    "gn:dem":1855,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7348446,
-    "gn:latitude":35.05256,
-    "gn:longitude":105.2564,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhujiayao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.2364,35.03256,105.2764,35.07256",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6731\u5bb6\u7a91"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.2564,35.05256,105.2564,35.05256",
+    "geom:latitude": 35.05256,
+    "geom:longitude": 105.2564,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhujiayao",
+    "gn:country_code": "CN",
+    "gn:dem": 1855,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7348446,
+    "gn:latitude": 35.05256,
+    "gn:longitude": 105.2564,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhujiayao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.2364,35.03256,105.2764,35.07256",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "朱家窑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516337,
+      1127621121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7348446
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7348446
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b297af4b510faedf79f93390cb992c4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516337,
-            "empire_id":136253041,
-            "locality_id":1226224519,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b297af4b510faedf79f93390cb992c4f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516337,
+        "empire_id": 136253041,
+        "locality_id": 1226224519,
+        "region_id": 85669711,
+        "localadmin_id": 1127621121
+      }
     ],
-    "wof:id":1226224519,
-    "wof:lastmodified":1566703883,
-    "wof:name":"Zhujiayao",
-    "wof:parent_id":890516337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226224519,
+    "wof:lastmodified": 1768665918,
+    "wof:name": "Zhujiayao",
+    "wof:parent_id": 1127621121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.2564,
     35.05256,
     105.2564,
     35.05256
-],
-  "geometry": {"coordinates":[105.2564,35.05256],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.2564,
+      35.05256
+    ],
+    "type": "Point"
+  }
 }

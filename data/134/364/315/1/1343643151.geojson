@@ -2,75 +2,83 @@
   "id": 1343643151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.333,24.4582,106.333,24.4582",
-    "geom:latitude":24.4582,
-    "geom:longitude":106.333,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Weichang",
-    "gn:country_code":"CN",
-    "gn:dem":1271,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9912486,
-    "gn:latitude":24.4582,
-    "gn:longitude":106.333,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Weichang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.313,24.4382,106.353,24.4782",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c3e\u957f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.333,24.4582,106.333,24.4582",
+    "geom:latitude": 24.4582,
+    "geom:longitude": 106.333,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Weichang",
+    "gn:country_code": "CN",
+    "gn:dem": 1271,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9912486,
+    "gn:latitude": 24.4582,
+    "gn:longitude": 106.333,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Weichang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.313,24.4382,106.353,24.4782",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "尾长"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451029
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9912486
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9912486
     },
-    "wof:country":"CN",
-    "wof:geomhash":"93ef48ba373c4d12e3fc9b6a8bf2c55a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1343643151,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "93ef48ba373c4d12e3fc9b6a8bf2c55a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1343643151,
+        "region_id": 85669717,
+        "localadmin_id": 1127451029
+      }
     ],
-    "wof:id":1343643151,
-    "wof:lastmodified":1566657542,
-    "wof:name":"Weichang",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343643151,
+    "wof:lastmodified": 1768665070,
+    "wof:name": "Weichang",
+    "wof:parent_id": 1127451029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.333,
     24.4582,
     106.333,
     24.4582
-],
-  "geometry": {"coordinates":[106.333,24.4582],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.333,
+      24.4582
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1344139351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.387,35.4346,108.387,35.4346",
-    "geom:latitude":35.4346,
-    "geom:longitude":108.387,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Dianli",
-    "gn:country_code":"CN",
-    "gn:dem":1188,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10739475,
-    "gn:latitude":35.4346,
-    "gn:longitude":108.387,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Dianli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.367,35.4146,108.407,35.4546",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4f43\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.387,35.4346,108.387,35.4346",
+    "geom:latitude": 35.4346,
+    "geom:longitude": 108.387,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Dianli",
+    "gn:country_code": "CN",
+    "gn:dem": 1188,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10739475,
+    "gn:latitude": 35.4346,
+    "gn:longitude": 108.387,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Dianli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.367,35.4146,108.407,35.4546",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "佃里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10739475
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10739475
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fee0fdb9a14f90def7c87e127ba3f44b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1344139351,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fee0fdb9a14f90def7c87e127ba3f44b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1344139351,
+        "region_id": 85669711,
+        "localadmin_id": 1127621025
+      }
     ],
-    "wof:id":1344139351,
-    "wof:lastmodified":1566658012,
-    "wof:name":"Dianli",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344139351,
+    "wof:lastmodified": 1768666480,
+    "wof:name": "Dianli",
+    "wof:parent_id": 1127621025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.387,
     35.4346,
     108.387,
     35.4346
-],
-  "geometry": {"coordinates":[108.387,35.4346],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.387,
+      35.4346
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1226806415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.298,36.5277,117.298,36.5277",
-    "geom:latitude":36.5277,
-    "geom:longitude":117.298,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Daogou",
-    "gn:country_code":"CN",
-    "gn:dem":468,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9125861,
-    "gn:latitude":36.5277,
-    "gn:longitude":117.298,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Daogou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.278,36.5077,117.318,36.5477",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9053\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.298,36.5277,117.298,36.5277",
+    "geom:latitude": 36.5277,
+    "geom:longitude": 117.298,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Daogou",
+    "gn:country_code": "CN",
+    "gn:dem": 468,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9125861,
+    "gn:latitude": 36.5277,
+    "gn:longitude": 117.298,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Daogou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.278,36.5077,117.318,36.5477",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "道沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516325
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890516325,
+      1127370112
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9125861
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9125861
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9cdb4880fea22371032f74bb86ad0f01",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516325,
-            "empire_id":136253041,
-            "locality_id":1226806415,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9cdb4880fea22371032f74bb86ad0f01",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516325,
+        "empire_id": 136253041,
+        "locality_id": 1226806415,
+        "region_id": 85669813,
+        "localadmin_id": 1127370112
+      }
     ],
-    "wof:id":1226806415,
-    "wof:lastmodified":1566701523,
-    "wof:name":"Daogou",
-    "wof:parent_id":890516325,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226806415,
+    "wof:lastmodified": 1768668739,
+    "wof:name": "Daogou",
+    "wof:parent_id": 1127370112,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.298,
     36.5277,
     117.298,
     36.5277
-],
-  "geometry": {"coordinates":[117.298,36.5277],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.298,
+      36.5277
+    ],
+    "type": "Point"
+  }
 }

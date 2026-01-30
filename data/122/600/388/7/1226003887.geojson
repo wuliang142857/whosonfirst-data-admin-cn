@@ -2,75 +2,83 @@
   "id": 1226003887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.18425,32.0776,105.18425,32.0776",
-    "geom:latitude":32.0776,
-    "geom:longitude":105.18425,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Leijiahe",
-    "gn:country_code":"CN",
-    "gn:dem":749,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6868862,
-    "gn:latitude":32.0776,
-    "gn:longitude":105.18425,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Leijiahe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.16425,32.0576,105.20425,32.0976",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u96f7\u5bb6\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.18425,32.0776,105.18425,32.0776",
+    "geom:latitude": 32.0776,
+    "geom:longitude": 105.18425,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Leijiahe",
+    "gn:country_code": "CN",
+    "gn:dem": 749,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6868862,
+    "gn:latitude": 32.0776,
+    "gn:longitude": 105.18425,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Leijiahe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.16425,32.0576,105.20425,32.0976",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "雷家河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      890514341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6868862
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6868862
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fbee8efcc4bf1c137692c3339397ed2e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1226003887,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fbee8efcc4bf1c137692c3339397ed2e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1226003887,
+        "region_id": 85669787,
+        "localadmin_id": 890514341
+      }
     ],
-    "wof:id":1226003887,
-    "wof:lastmodified":1566705544,
-    "wof:name":"Leijiahe",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226003887,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Leijiahe",
+    "wof:parent_id": 890514341,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.18425,
     32.0776,
     105.18425,
     32.0776
-],
-  "geometry": {"coordinates":[105.18425000000001,32.0776],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.18425,
+      32.0776
+    ],
+    "type": "Point"
+  }
 }

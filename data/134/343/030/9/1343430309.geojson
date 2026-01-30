@@ -2,75 +2,83 @@
   "id": 1343430309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.45,25.2623,107.45,25.2623",
-    "geom:latitude":25.2623,
-    "geom:longitude":107.45,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Mocun",
-    "gn:country_code":"CN",
-    "gn:dem":881,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9909754,
-    "gn:latitude":25.2623,
-    "gn:longitude":107.45,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Mocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.43,25.2423,107.47,25.2823",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u58a8\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.45,25.2623,107.45,25.2623",
+    "geom:latitude": 25.2623,
+    "geom:longitude": 107.45,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Mocun",
+    "gn:country_code": "CN",
+    "gn:dem": 881,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9909754,
+    "gn:latitude": 25.2623,
+    "gn:longitude": 107.45,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Mocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.43,25.2423,107.47,25.2823",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "墨村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9909754
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9909754
     },
-    "wof:country":"CN",
-    "wof:geomhash":"753f484cad96572ceaebae8964a59b3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1343430309,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "753f484cad96572ceaebae8964a59b3a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1343430309,
+        "region_id": 85669717,
+        "localadmin_id": 1127451221
+      }
     ],
-    "wof:id":1343430309,
-    "wof:lastmodified":1566664898,
-    "wof:name":"Mocun",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343430309,
+    "wof:lastmodified": 1768665535,
+    "wof:name": "Mocun",
+    "wof:parent_id": 1127451221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.45,
     25.2623,
     107.45,
     25.2623
-],
-  "geometry": {"coordinates":[107.45,25.2623],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.45,
+      25.2623
+    ],
+    "type": "Point"
+  }
 }

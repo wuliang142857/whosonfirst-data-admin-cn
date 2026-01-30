@@ -2,78 +2,86 @@
   "id": 1309791193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.03174,47.75895,125.03174,47.75895",
-    "geom:latitude":47.75895,
-    "geom:longitude":125.03174,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Xinlitun",
-    "gn:country_code":"CN",
-    "gn:dem":175,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11573021,
-    "gn:latitude":47.75895,
-    "gn:longitude":125.03174,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Xinlitun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.01174,47.73895,125.05174,47.77895",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65b0\u7acb\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.03174,47.75895,125.03174,47.75895",
+    "geom:latitude": 47.75895,
+    "geom:longitude": 125.03174,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Xinlitun",
+    "gn:country_code": "CN",
+    "gn:dem": 175,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11573021,
+    "gn:latitude": 47.75895,
+    "gn:longitude": 125.03174,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Xinlitun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.01174,47.73895,125.05174,47.77895",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "新立屯"
     ],
-    "name:zho_x_variant":[
-        "\u65b0\u7acb\u5c6f\u9547"
+    "name:zho_x_variant": [
+      "新立屯镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11573021
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11573021
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9658cf19161ddd2b516510c50dcbe588",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1309791193,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9658cf19161ddd2b516510c50dcbe588",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1309791193,
+        "region_id": 85669849,
+        "localadmin_id": 1127230223
+      }
     ],
-    "wof:id":1309791193,
-    "wof:lastmodified":1566692700,
-    "wof:name":"Xinlitun",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309791193,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Xinlitun",
+    "wof:parent_id": 1127230223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.03174,
     47.75895,
     125.03174,
     47.75895
-],
-  "geometry": {"coordinates":[125.03174,47.75895],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.03174,
+      47.75895
+    ],
+    "type": "Point"
+  }
 }

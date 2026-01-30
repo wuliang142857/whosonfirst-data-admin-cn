@@ -2,78 +2,86 @@
   "id": 1344026347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.50277,31.01264,121.50277,31.01264",
-    "geom:latitude":31.01264,
-    "geom:longitude":121.50277,
-    "gn:admin1_code":"23.0",
-    "gn:asciiname":"Dongtao Jiazhai",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7843073,
-    "gn:latitude":31.01264,
-    "gn:longitude":121.50277,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Dongtao Jiazhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.48277,30.99264,121.52277,31.03264",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Dongtao Jiazhai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.50277,31.01264,121.50277,31.01264",
+    "geom:latitude": 31.01264,
+    "geom:longitude": 121.50277,
+    "gn:admin1_code": "23.0",
+    "gn:asciiname": "Dongtao Jiazhai",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7843073,
+    "gn:latitude": 31.01264,
+    "gn:longitude": 121.50277,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Dongtao Jiazhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.48277,30.99264,121.52277,31.03264",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Dongtao Jiazhai"
     ],
-    "name:zho_x_variant":[
-        "\u4e1c\u9676\u5bb6\u5b85"
+    "name:zho_x_variant": [
+      "东陶家宅"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514443,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7843073
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7843073
     },
-    "wof:country":"CN",
-    "wof:geomhash":"735105f8a8c597209d3f666a19455836",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1344026347,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "735105f8a8c597209d3f666a19455836",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1344026347,
+        "region_id": 85669831,
+        "localadmin_id": 890514443
+      }
     ],
-    "wof:id":1344026347,
-    "wof:lastmodified":1566663127,
-    "wof:name":"Dongtao Jiazhai",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344026347,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Dongtao Jiazhai",
+    "wof:parent_id": 890514443,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.50277,
     31.01264,
     121.50277,
     31.01264
-],
-  "geometry": {"coordinates":[121.50277,31.01264],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.50277,
+      31.01264
+    ],
+    "type": "Point"
+  }
 }

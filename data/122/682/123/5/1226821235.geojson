@@ -2,78 +2,86 @@
   "id": 1226821235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.401,23.0577,110.401,23.0577",
-    "geom:latitude":23.0577,
-    "geom:longitude":110.401,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"San'an",
-    "gn:country_code":"CN",
-    "gn:dem":112,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9895039,
-    "gn:latitude":23.0577,
-    "gn:longitude":110.401,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"San\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.381,23.0377,110.421,23.0777",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "San\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.401,23.0577,110.401,23.0577",
+    "geom:latitude": 23.0577,
+    "geom:longitude": 110.401,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "San'an",
+    "gn:country_code": "CN",
+    "gn:dem": 112,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9895039,
+    "gn:latitude": 23.0577,
+    "gn:longitude": 110.401,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "San’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.381,23.0377,110.421,23.0777",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "San’an"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u5cb8"
+    "name:zho_x_preferred": [
+      "三岸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890514591
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890514591,
+      1127450921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9895039
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9895039
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4edee4bc4d1d212544798282b567a01a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514591,
-            "empire_id":136253041,
-            "locality_id":1226821235,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4edee4bc4d1d212544798282b567a01a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514591,
+        "empire_id": 136253041,
+        "locality_id": 1226821235,
+        "region_id": 85669717,
+        "localadmin_id": 1127450921
+      }
     ],
-    "wof:id":1226821235,
-    "wof:lastmodified":1566704037,
-    "wof:name":"San'an",
-    "wof:parent_id":890514591,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226821235,
+    "wof:lastmodified": 1768665518,
+    "wof:name": "San'an",
+    "wof:parent_id": 1127450921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.401,
     23.0577,
     110.401,
     23.0577
-],
-  "geometry": {"coordinates":[110.401,23.0577],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.401,
+      23.0577
+    ],
+    "type": "Point"
+  }
 }

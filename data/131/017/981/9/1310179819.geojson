@@ -2,75 +2,83 @@
   "id": 1310179819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.797,42.7933,123.797,42.7933",
-    "geom:latitude":42.7933,
-    "geom:longitude":123.797,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wangjiatuncun",
-    "gn:country_code":"CN",
-    "gn:dem":128,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11486412,
-    "gn:latitude":42.7933,
-    "gn:longitude":123.797,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Wangjiatuncun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.777,42.7733,123.817,42.8133",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u5bb6\u5c6f\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.797,42.7933,123.797,42.7933",
+    "geom:latitude": 42.7933,
+    "geom:longitude": 123.797,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wangjiatuncun",
+    "gn:country_code": "CN",
+    "gn:dem": 128,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11486412,
+    "gn:latitude": 42.7933,
+    "gn:longitude": 123.797,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Wangjiatuncun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.777,42.7733,123.817,42.8133",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王家屯村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890512563,
+      890514741
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11486412
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11486412
     },
-    "wof:country":"CN",
-    "wof:geomhash":"211749ecef0b7a09b33293b778a615f8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1310179819,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "211749ecef0b7a09b33293b778a615f8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1310179819,
+        "region_id": 85669807,
+        "localadmin_id": 890512563
+      }
     ],
-    "wof:id":1310179819,
-    "wof:lastmodified":1566690088,
-    "wof:name":"Wangjiatuncun",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310179819,
+    "wof:lastmodified": 1768666117,
+    "wof:name": "Wangjiatuncun",
+    "wof:parent_id": 890512563,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.797,
     42.7933,
     123.797,
     42.7933
-],
-  "geometry": {"coordinates":[123.797,42.7933],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.797,
+      42.7933
+    ],
+    "type": "Point"
+  }
 }

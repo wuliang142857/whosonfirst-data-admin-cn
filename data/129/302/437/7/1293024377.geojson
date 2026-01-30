@@ -2,78 +2,86 @@
   "id": 1293024377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.65278,33.75111,119.65278,33.75111",
-    "geom:latitude":33.75111,
-    "geom:longitude":119.65278,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Chenji",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":-1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1815151,
-    "gn:latitude":33.75111,
-    "gn:longitude":119.65278,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Chenji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.63278,33.73111,119.67278,33.77111",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019en-chi",
-        "Ch\u2019en-chia-chi",
-        "Chenji"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.65278,33.75111,119.65278,33.75111",
+    "geom:latitude": 33.75111,
+    "geom:longitude": 119.65278,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Chenji",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": -1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1815151,
+    "gn:latitude": 33.75111,
+    "gn:longitude": 119.65278,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Chenji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.63278,33.73111,119.67278,33.77111",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’en-chi",
+      "Ch’en-chia-chi",
+      "Chenji"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1815151
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1815151
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7b38906f8e57ff2e8a7bcd615aedd62d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1293024377,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7b38906f8e57ff2e8a7bcd615aedd62d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1293024377,
+        "region_id": 85669827,
+        "localadmin_id": 1127320923
+      }
     ],
-    "wof:id":1293024377,
-    "wof:lastmodified":1566669914,
-    "wof:name":"Chenji",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293024377,
+    "wof:lastmodified": 1768670805,
+    "wof:name": "Chenji",
+    "wof:parent_id": 1127320923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.65278,
     33.75111,
     119.65278,
     33.75111
-],
-  "geometry": {"coordinates":[119.65278000000001,33.75111],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.65278,
+      33.75111
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1343520965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.33638,31.03646,105.33638,31.03646",
-    "geom:latitude":31.03646,
-    "geom:longitude":105.33638,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Zhaojiawan",
-    "gn:country_code":"CN",
-    "gn:dem":397,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6871126,
-    "gn:latitude":31.03646,
-    "gn:longitude":105.33638,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Zhaojiawan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.31638,31.01646,105.35638,31.05646",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d75\u5bb6\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.33638,31.03646,105.33638,31.03646",
+    "geom:latitude": 31.03646,
+    "geom:longitude": 105.33638,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Zhaojiawan",
+    "gn:country_code": "CN",
+    "gn:dem": 397,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6871126,
+    "gn:latitude": 31.03646,
+    "gn:longitude": 105.33638,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Zhaojiawan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.31638,31.01646,105.35638,31.05646",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赵家湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514641
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514641,
+      1127510981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6871126
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6871126
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d26ffa45ec617ad1af81e881d77b76e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514641,
-            "empire_id":136253041,
-            "locality_id":1343520965,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d26ffa45ec617ad1af81e881d77b76e4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514641,
+        "empire_id": 136253041,
+        "locality_id": 1343520965,
+        "region_id": 85669787,
+        "localadmin_id": 1127510981
+      }
     ],
-    "wof:id":1343520965,
-    "wof:lastmodified":1566657114,
-    "wof:name":"Zhaojiawan",
-    "wof:parent_id":890514641,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343520965,
+    "wof:lastmodified": 1768668066,
+    "wof:name": "Zhaojiawan",
+    "wof:parent_id": 1127510981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.33638,
     31.03646,
     105.33638,
     31.03646
-],
-  "geometry": {"coordinates":[105.33638000000001,31.03646],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.33638,
+      31.03646
+    ],
+    "type": "Point"
+  }
 }

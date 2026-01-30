@@ -2,77 +2,85 @@
   "id": 1193267027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.01944,37.22361,114.01944,37.22361",
-    "geom:latitude":37.22361,
-    "geom:longitude":114.01944,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Jiangjunmu",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":452,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1806337,
-    "gn:latitude":37.22361,
-    "gn:longitude":114.01944,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Jiangjunmu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.99944,37.20361,114.03944,37.24361",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chiang-ch\u00fcn-mu",
-        "Jiangjunmu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.01944,37.22361,114.01944,37.22361",
+    "geom:latitude": 37.22361,
+    "geom:longitude": 114.01944,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Jiangjunmu",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 452,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1806337,
+    "gn:latitude": 37.22361,
+    "gn:longitude": 114.01944,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Jiangjunmu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.99944,37.20361,114.03944,37.24361",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chiang-chün-mu",
+      "Jiangjunmu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513015
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513015,
+      1127130503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1806337
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1806337
     },
-    "wof:country":"CN",
-    "wof:geomhash":"891aafb2c0a52804326ab3df71ec591c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513015,
-            "empire_id":136253041,
-            "locality_id":1193267027,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "891aafb2c0a52804326ab3df71ec591c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513015,
+        "empire_id": 136253041,
+        "locality_id": 1193267027,
+        "region_id": 85669797,
+        "localadmin_id": 1127130503
+      }
     ],
-    "wof:id":1193267027,
-    "wof:lastmodified":1566686075,
-    "wof:name":"Jiangjunmu",
-    "wof:parent_id":890513015,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193267027,
+    "wof:lastmodified": 1768669463,
+    "wof:name": "Jiangjunmu",
+    "wof:parent_id": 1127130503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.01944,
     37.22361,
     114.01944,
     37.22361
-],
-  "geometry": {"coordinates":[114.01944,37.22361],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.01944,
+      37.22361
+    ],
+    "type": "Point"
+  }
 }

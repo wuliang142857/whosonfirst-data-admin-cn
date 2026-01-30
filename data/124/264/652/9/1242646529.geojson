@@ -2,75 +2,83 @@
   "id": 1242646529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.276,22.7384,107.276,22.7384",
-    "geom:latitude":22.7384,
-    "geom:longitude":107.276,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Yanhuai",
-    "gn:country_code":"CN",
-    "gn:dem":281,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9905966,
-    "gn:latitude":22.7384,
-    "gn:longitude":107.276,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Yanhuai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.256,22.7184,107.296,22.7584",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5ca9\u6000"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.276,22.7384,107.276,22.7384",
+    "geom:latitude": 22.7384,
+    "geom:longitude": 107.276,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Yanhuai",
+    "gn:country_code": "CN",
+    "gn:dem": 281,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9905966,
+    "gn:latitude": 22.7384,
+    "gn:longitude": 107.276,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Yanhuai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.256,22.7184,107.296,22.7584",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "岩怀"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890513103
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513103,
+      1127451424
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9905966
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9905966
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a833a94c473b1e90da4e67df2a4869ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513103,
-            "empire_id":136253041,
-            "locality_id":1242646529,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a833a94c473b1e90da4e67df2a4869ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513103,
+        "empire_id": 136253041,
+        "locality_id": 1242646529,
+        "region_id": 85669717,
+        "localadmin_id": 1127451424
+      }
     ],
-    "wof:id":1242646529,
-    "wof:lastmodified":1566697134,
-    "wof:name":"Yanhuai",
-    "wof:parent_id":890513103,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242646529,
+    "wof:lastmodified": 1768665574,
+    "wof:name": "Yanhuai",
+    "wof:parent_id": 1127451424,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.276,
     22.7384,
     107.276,
     22.7384
-],
-  "geometry": {"coordinates":[107.276,22.7384],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.276,
+      22.7384
+    ],
+    "type": "Point"
+  }
 }

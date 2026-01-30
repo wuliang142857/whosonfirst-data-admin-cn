@@ -2,87 +2,95 @@
   "id": 1343879223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.03905,25.55412,118.03905,25.55412",
-    "geom:latitude":25.55412,
-    "geom:longitude":118.03905,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Yangshan",
-    "gn:country_code":"CN",
-    "gn:dem":848,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1787337,
-    "gn:latitude":25.55412,
-    "gn:longitude":118.03905,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Yangshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.01905,25.53412,118.05905,25.57412",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Yangshan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.03905,25.55412,118.03905,25.55412",
+    "geom:latitude": 25.55412,
+    "geom:longitude": 118.03905,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Yangshan",
+    "gn:country_code": "CN",
+    "gn:dem": 848,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1787337,
+    "gn:latitude": 25.55412,
+    "gn:longitude": 118.03905,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Yangshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.01905,25.53412,118.05905,25.57412",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Yangshan"
     ],
-    "name:deu_x_preferred":[
-        "Yangshan"
+    "name:deu_x_preferred": [
+      "Yangshan"
     ],
-    "name:fra_x_preferred":[
-        "Yangshan"
+    "name:fra_x_preferred": [
+      "Yangshan"
     ],
-    "name:rus_x_preferred":[
-        "\u042f\u043d\u0448\u0430\u043d\u044c"
+    "name:rus_x_preferred": [
+      "Яншань"
     ],
-    "name:zho_x_preferred":[
-        "\u9633\u5c71"
+    "name:zho_x_preferred": [
+      "阳山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513979,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1787337
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1787337
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4f989d4cf575c1d89d17728037084905",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1343879223,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4f989d4cf575c1d89d17728037084905",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1343879223,
+        "region_id": 85669735,
+        "localadmin_id": 890513979
+      }
     ],
-    "wof:id":1343879223,
-    "wof:lastmodified":1566663876,
-    "wof:name":"Yangshan",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343879223,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Yangshan",
+    "wof:parent_id": 890513979,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.03905,
     25.55412,
     118.03905,
     25.55412
-],
-  "geometry": {"coordinates":[118.03905,25.55412],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.03905,
+      25.55412
+    ],
+    "type": "Point"
+  }
 }

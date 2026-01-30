@@ -2,82 +2,90 @@
   "id": 1242601471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.02447,31.49408,120.02447,31.49408",
-    "geom:latitude":31.49408,
-    "geom:longitude":120.02447,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Fenshuicun",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1811139,
-    "gn:latitude":31.49408,
-    "gn:longitude":120.02447,
-    "gn:modification_date":"2017-08-02",
-    "gn:name":"Fenshuicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.00447,31.47408,120.04447,31.51408",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Fenshuidun",
-        "Fen-shui-tun-chen",
-        "Fen-shui-tun",
-        "Fenshui Xiang",
-        "Fenshui",
-        "\u5206\u6c34",
-        "\u5206\u6c34\u6751",
-        "Fenshuicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.02447,31.49408,120.02447,31.49408",
+    "geom:latitude": 31.49408,
+    "geom:longitude": 120.02447,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Fenshuicun",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1811139,
+    "gn:latitude": 31.49408,
+    "gn:longitude": 120.02447,
+    "gn:modification_date": "2017-08-02",
+    "gn:name": "Fenshuicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.00447,31.47408,120.04447,31.51408",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Fenshuidun",
+      "Fen-shui-tun-chen",
+      "Fen-shui-tun",
+      "Fenshui Xiang",
+      "Fenshui",
+      "分水",
+      "分水村",
+      "Fenshuicun"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513135,
+      890514733
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811139
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811139
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b841a11a37e51ef1b771a532287c5a39",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514733,
-            "empire_id":136253041,
-            "locality_id":1242601471,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b841a11a37e51ef1b771a532287c5a39",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514733,
+        "empire_id": 136253041,
+        "locality_id": 1242601471,
+        "region_id": 85669827,
+        "localadmin_id": 890513135
+      }
     ],
-    "wof:id":1242601471,
-    "wof:lastmodified":1566695026,
-    "wof:name":"Fenshuicun",
-    "wof:parent_id":890514733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242601471,
+    "wof:lastmodified": 1768670836,
+    "wof:name": "Fenshuicun",
+    "wof:parent_id": 890513135,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.02447,
     31.49408,
     120.02447,
     31.49408
-],
-  "geometry": {"coordinates":[120.02446999999999,31.49408],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.02447,
+      31.49408
+    ],
+    "type": "Point"
+  }
 }

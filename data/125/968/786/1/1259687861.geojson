@@ -2,80 +2,88 @@
   "id": 1259687861,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.5675,33.03583,116.5675,33.03583",
-    "geom:latitude":33.03583,
-    "geom:longitude":116.5675,
-    "gn:admin1_code":"01",
-    "gn:asciiname":"Chucun",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":22,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1814813,
-    "gn:latitude":33.03583,
-    "gn:longitude":116.5675,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Chucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.5475,33.01583,116.5875,33.05583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019u-ts\u2019un-p\u2019u",
-        "Ch\u2019u-ts\u2019un-p\u2019ui",
-        "Ch\u2019u-ts\u2019un-chi",
-        "Ch\u2019u-ts\u2019un",
-        "Chucun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.5675,33.03583,116.5675,33.03583",
+    "geom:latitude": 33.03583,
+    "geom:longitude": 116.5675,
+    "gn:admin1_code": "01",
+    "gn:asciiname": "Chucun",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 22,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1814813,
+    "gn:latitude": 33.03583,
+    "gn:longitude": 116.5675,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Chucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.5475,33.01583,116.5875,33.05583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’u-ts’un-p’u",
+      "Ch’u-ts’un-p’ui",
+      "Ch’u-ts’un-chi",
+      "Ch’u-ts’un",
+      "Chucun"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890515239,
+      1127341622
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1814813
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1814813
     },
-    "wof:country":"CN",
-    "wof:geomhash":"97295f1b0ba386d23b386b08a22724f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1259687861,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "97295f1b0ba386d23b386b08a22724f3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1259687861,
+        "region_id": 85669739,
+        "localadmin_id": 1127341622
+      }
     ],
-    "wof:id":1259687861,
-    "wof:lastmodified":1566699407,
-    "wof:name":"Chucun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259687861,
+    "wof:lastmodified": 1768669756,
+    "wof:name": "Chucun",
+    "wof:parent_id": 1127341622,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.5675,
     33.03583,
     116.5675,
     33.03583
-],
-  "geometry": {"coordinates":[116.5675,33.03583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.5675,
+      33.03583
+    ],
+    "type": "Point"
+  }
 }

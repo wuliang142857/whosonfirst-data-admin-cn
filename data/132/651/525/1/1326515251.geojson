@@ -2,75 +2,83 @@
   "id": 1326515251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.47942,48.47994,125.47942,48.47994",
-    "geom:latitude":48.47994,
-    "geom:longitude":125.47942,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Sundifang",
-    "gn:country_code":"CN",
-    "gn:dem":227,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11574053,
-    "gn:latitude":48.47994,
-    "gn:longitude":125.47942,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Sundifang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.45942,48.45994,125.49942,48.49994",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b59\u5730\u623f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.47942,48.47994,125.47942,48.47994",
+    "geom:latitude": 48.47994,
+    "geom:longitude": 125.47942,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Sundifang",
+    "gn:country_code": "CN",
+    "gn:dem": 227,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11574053,
+    "gn:latitude": 48.47994,
+    "gn:longitude": 125.47942,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Sundifang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.45942,48.45994,125.49942,48.49994",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "孙地房"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514037,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11574053
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11574053
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dc81f9476e4f89c6dd41b7f72a94bfad",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1326515251,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dc81f9476e4f89c6dd41b7f72a94bfad",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1326515251,
+        "region_id": 85669849,
+        "localadmin_id": 890514037
+      }
     ],
-    "wof:id":1326515251,
-    "wof:lastmodified":1566648578,
-    "wof:name":"Sundifang",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326515251,
+    "wof:lastmodified": 1768669390,
+    "wof:name": "Sundifang",
+    "wof:parent_id": 890514037,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.47942,
     48.47994,
     125.47942,
     48.47994
-],
-  "geometry": {"coordinates":[125.47942,48.47994],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.47942,
+      48.47994
+    ],
+    "type": "Point"
+  }
 }

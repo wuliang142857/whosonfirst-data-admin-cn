@@ -2,82 +2,90 @@
   "id": 1310303839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"130.30556,42.84,130.30556,42.84",
-    "geom:latitude":42.84,
-    "geom:longitude":130.30556,
-    "gn:admin1_code":"05",
-    "gn:asciiname":"Sanjiazi",
-    "gn:country_code":"CN",
-    "gn:dem":34,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":2051070,
-    "gn:latitude":42.84,
-    "gn:longitude":130.30556,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Sanjiazi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"130.28556,42.82,130.32556,42.86",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "San-chia-tzu",
-        "Sanjiazi",
-        "\u4e09\u5bb6\u5b50",
-        "Sanjiazi Manzu Xiang",
-        "\u4e09\u5bb6\u5b50\u6ee1\u65cf\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "130.30556,42.84,130.30556,42.84",
+    "geom:latitude": 42.84,
+    "geom:longitude": 130.30556,
+    "gn:admin1_code": "05",
+    "gn:asciiname": "Sanjiazi",
+    "gn:country_code": "CN",
+    "gn:dem": 34,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 2051070,
+    "gn:latitude": 42.84,
+    "gn:longitude": 130.30556,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Sanjiazi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "130.28556,42.82,130.32556,42.86",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "San-chia-tzu",
+      "Sanjiazi",
+      "三家子",
+      "Sanjiazi Manzu Xiang",
+      "三家子满族乡"
     ],
-    "name:zho_x_preferred":[
-        "\u4e09\u5bb6\u5b50\u6751"
+    "name:zho_x_preferred": [
+      "三家子村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        1108732421
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      1108732421,
+      1125296113
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2051070
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2051070
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b3502302424bc9c89e83c70f3662560c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732421,
-            "empire_id":136253041,
-            "locality_id":1310303839,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b3502302424bc9c89e83c70f3662560c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732421,
+        "empire_id": 136253041,
+        "locality_id": 1310303839,
+        "region_id": 85669843,
+        "localadmin_id": 1125296113
+      }
     ],
-    "wof:id":1310303839,
-    "wof:lastmodified":1566689259,
-    "wof:name":"Sanjiazi",
-    "wof:parent_id":1108732421,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310303839,
+    "wof:lastmodified": 1768670802,
+    "wof:name": "Sanjiazi",
+    "wof:parent_id": 1125296113,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     130.30556,
     42.84,
     130.30556,
     42.84
-],
-  "geometry": {"coordinates":[130.30556000000001,42.84],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      130.30556,
+      42.84
+    ],
+    "type": "Point"
+  }
 }

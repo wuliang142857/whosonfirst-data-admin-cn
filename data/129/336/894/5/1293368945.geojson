@@ -2,75 +2,83 @@
   "id": 1293368945,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.3,38.356,116.3,38.356",
-    "geom:latitude":38.356,
-    "geom:longitude":116.3,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Zhongguandao",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630629,
-    "gn:latitude":38.356,
-    "gn:longitude":116.3,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Zhongguandao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.28,38.336,116.32,38.376",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u5b98\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.3,38.356,116.3,38.356",
+    "geom:latitude": 38.356,
+    "geom:longitude": 116.3,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Zhongguandao",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630629,
+    "gn:latitude": 38.356,
+    "gn:longitude": 116.3,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Zhongguandao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.28,38.336,116.32,38.376",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中官道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130984
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630629
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630629
     },
-    "wof:country":"CN",
-    "wof:geomhash":"49f121f3fcbf1e0b399345df46995531",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1293368945,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "49f121f3fcbf1e0b399345df46995531",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1293368945,
+        "region_id": 85669797,
+        "localadmin_id": 1127130984
+      }
     ],
-    "wof:id":1293368945,
-    "wof:lastmodified":1566665476,
-    "wof:name":"Zhongguandao",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293368945,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Zhongguandao",
+    "wof:parent_id": 1127130984,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.3,
     38.356,
     116.3,
     38.356
-],
-  "geometry": {"coordinates":[116.3,38.356],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.3,
+      38.356
+    ],
+    "type": "Point"
+  }
 }

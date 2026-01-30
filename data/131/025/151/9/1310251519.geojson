@@ -2,84 +2,92 @@
   "id": 1310251519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.982,22.9641,100.982,22.9641",
-    "geom:latitude":22.9641,
-    "geom:longitude":100.982,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Xintian",
-    "gn:country_code":"CN",
-    "gn:dem":1177,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9921098,
-    "gn:latitude":22.9641,
-    "gn:longitude":100.982,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Xintian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.962,22.9441,101.002,22.9841",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Xintian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.982,22.9641,100.982,22.9641",
+    "geom:latitude": 22.9641,
+    "geom:longitude": 100.982,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Xintian",
+    "gn:country_code": "CN",
+    "gn:dem": 1177,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9921098,
+    "gn:latitude": 22.9641,
+    "gn:longitude": 100.982,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Xintian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.962,22.9441,101.002,22.9841",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Xintian"
     ],
-    "name:deu_x_preferred":[
-        "Xintian"
+    "name:deu_x_preferred": [
+      "Xintian"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u7530"
+    "name:zho_x_preferred": [
+      "新田"
     ],
-    "name:zho_x_variant":[
-        "\u65b0\u7530\u9109"
+    "name:zho_x_variant": [
+      "新田鄉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514995
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514995,
+      1127530821
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9921098
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9921098
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f27adaef2febf1e4655b1bda7b79462e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514995,
-            "empire_id":136253041,
-            "locality_id":1310251519,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f27adaef2febf1e4655b1bda7b79462e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514995,
+        "empire_id": 136253041,
+        "locality_id": 1310251519,
+        "region_id": 85669791,
+        "localadmin_id": 1127530821
+      }
     ],
-    "wof:id":1310251519,
-    "wof:lastmodified":1566688408,
-    "wof:name":"Xintian",
-    "wof:parent_id":890514995,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310251519,
+    "wof:lastmodified": 1768668367,
+    "wof:name": "Xintian",
+    "wof:parent_id": 1127530821,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.982,
     22.9641,
     100.982,
     22.9641
-],
-  "geometry": {"coordinates":[100.982,22.9641],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.982,
+      22.9641
+    ],
+    "type": "Point"
+  }
 }

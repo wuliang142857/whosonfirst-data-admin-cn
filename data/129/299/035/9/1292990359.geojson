@@ -2,75 +2,83 @@
   "id": 1292990359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.55658,34.82104,114.55658,34.82104",
-    "geom:latitude":34.82104,
-    "geom:longitude":114.55658,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Mizhai",
-    "gn:country_code":"CN",
-    "gn:dem":68,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10633171,
-    "gn:latitude":34.82104,
-    "gn:longitude":114.55658,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Mizhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.53658,34.80104,114.57658,34.84104",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7c73\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.55658,34.82104,114.55658,34.82104",
+    "geom:latitude": 34.82104,
+    "geom:longitude": 114.55658,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Mizhai",
+    "gn:country_code": "CN",
+    "gn:dem": 68,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10633171,
+    "gn:latitude": 34.82104,
+    "gn:longitude": 114.55658,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Mizhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.53658,34.80104,114.57658,34.84104",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "米寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890515157,
+      1127410212
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10633171
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10633171
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7dda008b6981f2af8e8259e34e741fa2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515157,
-            "empire_id":136253041,
-            "locality_id":1292990359,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7dda008b6981f2af8e8259e34e741fa2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515157,
+        "empire_id": 136253041,
+        "locality_id": 1292990359,
+        "region_id": 85669801,
+        "localadmin_id": 1127410212
+      }
     ],
-    "wof:id":1292990359,
-    "wof:lastmodified":1566670404,
-    "wof:name":"Mizhai",
-    "wof:parent_id":890515157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292990359,
+    "wof:lastmodified": 1768669360,
+    "wof:name": "Mizhai",
+    "wof:parent_id": 1127410212,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.55658,
     34.82104,
     114.55658,
     34.82104
-],
-  "geometry": {"coordinates":[114.55658,34.82104],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.55658,
+      34.82104
+    ],
+    "type": "Point"
+  }
 }

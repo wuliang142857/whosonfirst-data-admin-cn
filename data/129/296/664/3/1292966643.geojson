@@ -2,75 +2,83 @@
   "id": 1292966643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.207,25.8939,105.207,25.8939",
-    "geom:latitude":25.8939,
-    "geom:longitude":105.207,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Laogengdi",
-    "gn:country_code":"CN",
-    "gn:dem":1325,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10003701,
-    "gn:latitude":25.8939,
-    "gn:longitude":105.207,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Laogengdi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.187,25.8739,105.227,25.9139",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8001\u6897\u5730"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.207,25.8939,105.207,25.8939",
+    "geom:latitude": 25.8939,
+    "geom:longitude": 105.207,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Laogengdi",
+    "gn:country_code": "CN",
+    "gn:dem": 1325,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10003701,
+    "gn:latitude": 25.8939,
+    "gn:longitude": 105.207,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Laogengdi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.187,25.8739,105.227,25.9139",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "老梗地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        1108732559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890513357,
+      1108732559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10003701
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10003701
     },
-    "wof:country":"CN",
-    "wof:geomhash":"357a11d0db7287c279918a5813ba77b8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732559,
-            "empire_id":136253041,
-            "locality_id":1292966643,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "357a11d0db7287c279918a5813ba77b8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732559,
+        "empire_id": 136253041,
+        "locality_id": 1292966643,
+        "region_id": 85669721,
+        "localadmin_id": 890513357
+      }
     ],
-    "wof:id":1292966643,
-    "wof:lastmodified":1566670111,
-    "wof:name":"Laogengdi",
-    "wof:parent_id":1108732559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292966643,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Laogengdi",
+    "wof:parent_id": 890513357,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.207,
     25.8939,
     105.207,
     25.8939
-],
-  "geometry": {"coordinates":[105.20699999999999,25.8939],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.207,
+      25.8939
+    ],
+    "type": "Point"
+  }
 }

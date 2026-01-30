@@ -2,83 +2,91 @@
   "id": 1242789749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.66163,29.00607,121.66163,29.00607",
-    "geom:latitude":29.00607,
-    "geom:longitude":121.66163,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Qianshancun",
-    "gn:country_code":"CN",
-    "gn:dem":18,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1887369,
-    "gn:latitude":29.00607,
-    "gn:longitude":121.66163,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Qianshancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.64163,28.98607,121.68163,29.02607",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Qianshan",
-        "Qianshancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.66163,29.00607,121.66163,29.00607",
+    "geom:latitude": 29.00607,
+    "geom:longitude": 121.66163,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Qianshancun",
+    "gn:country_code": "CN",
+    "gn:dem": 18,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1887369,
+    "gn:latitude": 29.00607,
+    "gn:longitude": 121.66163,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Qianshancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.64163,28.98607,121.68163,29.02607",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Qianshan",
+      "Qianshancun"
     ],
-    "name:zho_x_preferred":[
-        "Ch\u2019ien-shan"
+    "name:zho_x_preferred": [
+      "Ch’ien-shan"
     ],
-    "name:zho_x_variant":[
-        "\u524d\u5c71",
-        "\u524d\u5c71\u6751"
+    "name:zho_x_variant": [
+      "前山",
+      "前山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515633,
+      1127331022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1887369
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1887369
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e42d7bcd8014b508f41f908c415e4870",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1242789749,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e42d7bcd8014b508f41f908c415e4870",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1242789749,
+        "region_id": 85669835,
+        "localadmin_id": 1127331022
+      }
     ],
-    "wof:id":1242789749,
-    "wof:lastmodified":1566696752,
-    "wof:name":"Qianshancun",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242789749,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Qianshancun",
+    "wof:parent_id": 1127331022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.66163,
     29.00607,
     121.66163,
     29.00607
-],
-  "geometry": {"coordinates":[121.66163,29.00607],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.66163,
+      29.00607
+    ],
+    "type": "Point"
+  }
 }

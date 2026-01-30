@@ -2,75 +2,83 @@
   "id": 1276936351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.101,31.5776,105.101,31.5776",
-    "geom:latitude":31.5776,
-    "geom:longitude":105.101,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shiliu",
-    "gn:country_code":"CN",
-    "gn:dem":517,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10162241,
-    "gn:latitude":31.5776,
-    "gn:longitude":105.101,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Shiliu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.081,31.5576,105.121,31.5976",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u77f3\u69b4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.101,31.5776,105.101,31.5776",
+    "geom:latitude": 31.5776,
+    "geom:longitude": 105.101,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shiliu",
+    "gn:country_code": "CN",
+    "gn:dem": 517,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10162241,
+    "gn:latitude": 31.5776,
+    "gn:longitude": 105.101,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Shiliu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.081,31.5576,105.121,31.5976",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "石榴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      1127510725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10162241
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10162241
     },
-    "wof:country":"CN",
-    "wof:geomhash":"774ff6ebabf3b5bcb3bcea75a17f208c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1276936351,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "774ff6ebabf3b5bcb3bcea75a17f208c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1276936351,
+        "region_id": 85669787,
+        "localadmin_id": 1127510725
+      }
     ],
-    "wof:id":1276936351,
-    "wof:lastmodified":1566674529,
-    "wof:name":"Shiliu",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276936351,
+    "wof:lastmodified": 1768668243,
+    "wof:name": "Shiliu",
+    "wof:parent_id": 1127510725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.101,
     31.5776,
     105.101,
     31.5776
-],
-  "geometry": {"coordinates":[105.101,31.5776],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.101,
+      31.5776
+    ],
+    "type": "Point"
+  }
 }

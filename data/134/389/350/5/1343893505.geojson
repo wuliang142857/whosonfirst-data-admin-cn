@@ -2,73 +2,81 @@
   "id": 1343893505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.16775,18.85879,110.16775,18.85879",
-    "geom:latitude":18.85879,
-    "geom:longitude":110.16775,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Niuqi",
-    "gn:country_code":"CN",
-    "gn:dem":182,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7635305,
-    "gn:latitude":18.85879,
-    "gn:longitude":110.16775,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Niuqi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.14775,18.83879,110.18775,18.87879",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u725b\u5951"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.16775,18.85879,110.16775,18.85879",
+    "geom:latitude": 18.85879,
+    "geom:longitude": 110.16775,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Niuqi",
+    "gn:country_code": "CN",
+    "gn:dem": 182,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7635305,
+    "gn:latitude": 18.85879,
+    "gn:longitude": 110.16775,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Niuqi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.14775,18.83879,110.18775,18.87879",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "牛契"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732331
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890513893,
+      1108732331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7635305
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7635305
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d53207e8d15ecc26dee9029fc6b7978e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732331,
-            "locality_id":1343893505,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d53207e8d15ecc26dee9029fc6b7978e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732331,
+        "locality_id": 1343893505,
+        "region_id": 85669759,
+        "localadmin_id": 890513893
+      }
     ],
-    "wof:id":1343893505,
-    "wof:lastmodified":1566663645,
-    "wof:name":"Niuqi",
-    "wof:parent_id":1108732331,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343893505,
+    "wof:lastmodified": 1768671220,
+    "wof:name": "Niuqi",
+    "wof:parent_id": 890513893,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.16775,
     18.85879,
     110.16775,
     18.85879
-],
-  "geometry": {"coordinates":[110.16775,18.85879],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.16775,
+      18.85879
+    ],
+    "type": "Point"
+  }
 }

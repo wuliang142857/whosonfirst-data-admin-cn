@@ -2,75 +2,83 @@
   "id": 1276664147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.05183,29.05425,115.05183,29.05425",
-    "geom:latitude":29.05425,
-    "geom:longitude":115.05183,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Xiawan",
-    "gn:country_code":"CN",
-    "gn:dem":658,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7746754,
-    "gn:latitude":29.05425,
-    "gn:longitude":115.05183,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Xiawan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.03183,29.03425,115.07183,29.07425",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e0b\u5846"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.05183,29.05425,115.05183,29.05425",
+    "geom:latitude": 29.05425,
+    "geom:longitude": 115.05183,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Xiawan",
+    "gn:country_code": "CN",
+    "gn:dem": 658,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7746754,
+    "gn:latitude": 29.05425,
+    "gn:longitude": 115.05183,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Xiawan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.03183,29.03425,115.07183,29.07425",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "下塆"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7746754
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7746754
     },
-    "wof:country":"CN",
-    "wof:geomhash":"734181fa136bdf10e1d9be245eed9054",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1276664147,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "734181fa136bdf10e1d9be245eed9054",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1276664147,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1276664147,
-    "wof:lastmodified":1566674816,
-    "wof:name":"Xiawan",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276664147,
+    "wof:lastmodified": 1768669674,
+    "wof:name": "Xiawan",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.05183,
     29.05425,
     115.05183,
     29.05425
-],
-  "geometry": {"coordinates":[115.05183,29.05425],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.05183,
+      29.05425
+    ],
+    "type": "Point"
+  }
 }

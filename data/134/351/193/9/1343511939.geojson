@@ -2,75 +2,83 @@
   "id": 1343511939,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.751,27.563,103.751,27.563",
-    "geom:latitude":27.563,
-    "geom:longitude":103.751,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Xiaobuzi",
-    "gn:country_code":"CN",
-    "gn:dem":1858,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10142590,
-    "gn:latitude":27.563,
-    "gn:longitude":103.751,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Xiaobuzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.731,27.543,103.771,27.583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u5821\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.751,27.563,103.751,27.563",
+    "geom:latitude": 27.563,
+    "geom:longitude": 103.751,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Xiaobuzi",
+    "gn:country_code": "CN",
+    "gn:dem": 1858,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10142590,
+    "gn:latitude": 27.563,
+    "gn:longitude": 103.751,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Xiaobuzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.731,27.543,103.771,27.583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小堡子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513465,
+      890514257
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10142590
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10142590
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e72793de19723af3838a8ca72dd72ad1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1343511939,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e72793de19723af3838a8ca72dd72ad1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1343511939,
+        "region_id": 85669791,
+        "localadmin_id": 890513465
+      }
     ],
-    "wof:id":1343511939,
-    "wof:lastmodified":1566661522,
-    "wof:name":"Xiaobuzi",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343511939,
+    "wof:lastmodified": 1768668497,
+    "wof:name": "Xiaobuzi",
+    "wof:parent_id": 890513465,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.751,
     27.563,
     103.751,
     27.563
-],
-  "geometry": {"coordinates":[103.751,27.563],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.751,
+      27.563
+    ],
+    "type": "Point"
+  }
 }

@@ -2,82 +2,90 @@
   "id": 1343467147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.52961,28.89407,121.52961,28.89407",
-    "geom:latitude":28.89407,
-    "geom:longitude":121.52961,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Li'aocun",
-    "gn:country_code":"CN",
-    "gn:dem":67,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1896147,
-    "gn:latitude":28.89407,
-    "gn:longitude":121.52961,
-    "gn:modification_date":"2017-11-08",
-    "gn:name":"Li\u2019aocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.50961,28.87407,121.54961,28.91407",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Li\u2019aocun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.52961,28.89407,121.52961,28.89407",
+    "geom:latitude": 28.89407,
+    "geom:longitude": 121.52961,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Li'aocun",
+    "gn:country_code": "CN",
+    "gn:dem": 67,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1896147,
+    "gn:latitude": 28.89407,
+    "gn:longitude": 121.52961,
+    "gn:modification_date": "2017-11-08",
+    "gn:name": "Li’aocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.50961,28.87407,121.54961,28.91407",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Li’aocun"
     ],
-    "name:zho_x_preferred":[
-        "\u674e\u5c99"
+    "name:zho_x_preferred": [
+      "李岙"
     ],
-    "name:zho_x_variant":[
-        "Li\u2019ao",
-        "\u674e\u5c99\u6751"
+    "name:zho_x_variant": [
+      "Li’ao",
+      "李岙村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890515633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515633,
+      1127331022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1896147
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1896147
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fd8e7e057cfe5410ee9b43a14ef0375d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515633,
-            "empire_id":136253041,
-            "locality_id":1343467147,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fd8e7e057cfe5410ee9b43a14ef0375d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515633,
+        "empire_id": 136253041,
+        "locality_id": 1343467147,
+        "region_id": 85669835,
+        "localadmin_id": 1127331022
+      }
     ],
-    "wof:id":1343467147,
-    "wof:lastmodified":1566659006,
-    "wof:name":"Li'aocun",
-    "wof:parent_id":890515633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343467147,
+    "wof:lastmodified": 1768669671,
+    "wof:name": "Li'aocun",
+    "wof:parent_id": 1127331022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.52961,
     28.89407000000001,
     121.52961,
     28.89407000000001
-],
-  "geometry": {"coordinates":[121.52961000000001,28.89407000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.52961,
+      28.89407000000001
+    ],
+    "type": "Point"
+  }
 }

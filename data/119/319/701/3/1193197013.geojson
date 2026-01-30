@@ -2,81 +2,89 @@
   "id": 1193197013,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.0509,29.73127,107.0509,29.73127",
-    "geom:latitude":29.73127,
-    "geom:longitude":107.0509,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Shihe",
-    "gn:country_code":"CN",
-    "gn:dem":515,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8416214,
-    "gn:latitude":29.73127,
-    "gn:longitude":107.0509,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Shihe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.0309,29.71127,107.0709,29.75127",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shihe Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.0509,29.73127,107.0509,29.73127",
+    "geom:latitude": 29.73127,
+    "geom:longitude": 107.0509,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Shihe",
+    "gn:country_code": "CN",
+    "gn:dem": 515,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8416214,
+    "gn:latitude": 29.73127,
+    "gn:longitude": 107.0509,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Shihe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.0309,29.71127,107.0709,29.75127",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shihe Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u77f3\u548c"
+    "name:zho_x_preferred": [
+      "石和"
     ],
-    "name:zho_x_variant":[
-        "\u77f3\u548c\u4e61"
+    "name:zho_x_variant": [
+      "石和乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416214
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416214
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e7c6513c036b82fe1c25dcb7c9b1f21a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1193197013,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e7c6513c036b82fe1c25dcb7c9b1f21a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1193197013,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1193197013,
-    "wof:lastmodified":1566686022,
-    "wof:name":"Shihe",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193197013,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Shihe",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.0509,
     29.73127,
     107.0509,
     29.73127
-],
-  "geometry": {"coordinates":[107.0509,29.73127],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.0509,
+      29.73127
+    ],
+    "type": "Point"
+  }
 }

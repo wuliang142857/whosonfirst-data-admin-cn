@@ -2,75 +2,83 @@
   "id": 1193121385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.83594,34.14,113.83594,34.14",
-    "geom:latitude":34.14,
-    "geom:longitude":113.83594,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Hanzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":83,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10405481,
-    "gn:latitude":34.14,
-    "gn:longitude":113.83594,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Hanzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.81594,34.12,113.85594,34.16",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u97e9\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.83594,34.14,113.83594,34.14",
+    "geom:latitude": 34.14,
+    "geom:longitude": 113.83594,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Hanzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 83,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10405481,
+    "gn:latitude": 34.14,
+    "gn:longitude": 113.83594,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Hanzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.81594,34.12,113.85594,34.16",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "韩庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890511873
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890511873,
+      1127411003
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10405481
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10405481
     },
-    "wof:country":"CN",
-    "wof:geomhash":"223c69c5fe74e1e108654dc994f9b92e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511873,
-            "empire_id":136253041,
-            "locality_id":1193121385,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "223c69c5fe74e1e108654dc994f9b92e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511873,
+        "empire_id": 136253041,
+        "locality_id": 1193121385,
+        "region_id": 85669801,
+        "localadmin_id": 1127411003
+      }
     ],
-    "wof:id":1193121385,
-    "wof:lastmodified":1566685123,
-    "wof:name":"Hanzhuang",
-    "wof:parent_id":890511873,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193121385,
+    "wof:lastmodified": 1768669505,
+    "wof:name": "Hanzhuang",
+    "wof:parent_id": 1127411003,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.83594,
     34.14,
     113.83594,
     34.14
-],
-  "geometry": {"coordinates":[113.83593999999999,34.14],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.83594,
+      34.14
+    ],
+    "type": "Point"
+  }
 }

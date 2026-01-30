@@ -2,83 +2,91 @@
   "id": 1226546543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.09737,29.23922,115.09737,29.23922",
-    "geom:latitude":29.23922,
-    "geom:longitude":115.09737,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Xinning",
-    "gn:country_code":"CN",
-    "gn:dem":73,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1788707,
-    "gn:latitude":29.23922,
-    "gn:longitude":115.09737,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Xinning",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.07737,29.21922,115.11737,29.25922",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Xinning"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.09737,29.23922,115.09737,29.23922",
+    "geom:latitude": 29.23922,
+    "geom:longitude": 115.09737,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Xinning",
+    "gn:country_code": "CN",
+    "gn:dem": 73,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1788707,
+    "gn:latitude": 29.23922,
+    "gn:longitude": 115.09737,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Xinning",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.07737,29.21922,115.11737,29.25922",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Xinning"
     ],
-    "name:und_x_variant":[
-        "Wu-ning-hsien-ch\u2019eng",
-        "Wu-ning-hsien",
-        "Wuning",
-        "\u65b0\u5b81",
-        "Xinning Zhen",
-        "\u65b0\u5b81\u9547"
+    "name:und_x_variant": [
+      "Wu-ning-hsien-ch’eng",
+      "Wu-ning-hsien",
+      "Wuning",
+      "新宁",
+      "Xinning Zhen",
+      "新宁镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890512683,
+      890516935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1788707
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1788707
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4cd49800986f5edf25000fdf00029836",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1226546543,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4cd49800986f5edf25000fdf00029836",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1226546543,
+        "region_id": 85669823,
+        "localadmin_id": 890512683
+      }
     ],
-    "wof:id":1226546543,
-    "wof:lastmodified":1566705464,
-    "wof:name":"Xinning",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226546543,
+    "wof:lastmodified": 1768669674,
+    "wof:name": "Xinning",
+    "wof:parent_id": 890512683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.09737,
     29.23922,
     115.09737,
     29.23922
-],
-  "geometry": {"coordinates":[115.09737,29.23922],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.09737,
+      29.23922
+    ],
+    "type": "Point"
+  }
 }

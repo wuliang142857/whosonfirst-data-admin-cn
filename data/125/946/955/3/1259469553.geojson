@@ -2,77 +2,85 @@
   "id": 1259469553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.56083,32.2,112.56083,32.2",
-    "geom:latitude":32.2,
-    "geom:longitude":112.56083,
-    "gn:admin1_code":"12",
-    "gn:asciiname":"Qifanggang",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":135,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1798068,
-    "gn:latitude":32.2,
-    "gn:longitude":112.56083,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Qifanggang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.54083,32.18,112.58083,32.22",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019i-fang-kang",
-        "Qifanggang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.56083,32.2,112.56083,32.2",
+    "geom:latitude": 32.2,
+    "geom:longitude": 112.56083,
+    "gn:admin1_code": "12",
+    "gn:asciiname": "Qifanggang",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 135,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1798068,
+    "gn:latitude": 32.2,
+    "gn:longitude": 112.56083,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Qifanggang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.54083,32.18,112.58083,32.22",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’i-fang-kang",
+      "Qifanggang"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512025,
+      1108732497
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1798068
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1798068
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e3b25e09b192f03c742d74878493d459",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1259469553,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e3b25e09b192f03c742d74878493d459",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1259469553,
+        "region_id": 85669777,
+        "localadmin_id": 890512025
+      }
     ],
-    "wof:id":1259469553,
-    "wof:lastmodified":1566698943,
-    "wof:name":"Qifanggang",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259469553,
+    "wof:lastmodified": 1768665619,
+    "wof:name": "Qifanggang",
+    "wof:parent_id": 890512025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.56083,
     32.2,
     112.56083,
     32.2
-],
-  "geometry": {"coordinates":[112.56083,32.2],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.56083,
+      32.2
+    ],
+    "type": "Point"
+  }
 }

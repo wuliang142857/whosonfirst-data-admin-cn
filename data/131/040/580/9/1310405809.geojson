@@ -2,82 +2,90 @@
   "id": 1310405809,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.73932,32.63391,119.73932,32.63391",
-    "geom:latitude":32.63391,
-    "geom:longitude":119.73932,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Zhuduncun",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1548802,
-    "gn:latitude":32.63391,
-    "gn:longitude":119.73932,
-    "gn:modification_date":"2017-05-07",
-    "gn:name":"Zhuduncun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.71932,32.61391,119.75932,32.65391",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhudun",
-        "Zhuduncun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.73932,32.63391,119.73932,32.63391",
+    "geom:latitude": 32.63391,
+    "geom:longitude": 119.73932,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Zhuduncun",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1548802,
+    "gn:latitude": 32.63391,
+    "gn:longitude": 119.73932,
+    "gn:modification_date": "2017-05-07",
+    "gn:name": "Zhuduncun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.71932,32.61391,119.75932,32.65391",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhudun",
+      "Zhuduncun"
     ],
-    "name:zho_x_preferred":[
-        "\u7af9\u58a9"
+    "name:zho_x_preferred": [
+      "竹墩"
     ],
-    "name:zho_x_variant":[
-        "\u7af9\u58a9\u6751"
+    "name:zho_x_variant": [
+      "竹墩村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516397
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890512717,
+      890516397
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1548802
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1548802
     },
-    "wof:country":"CN",
-    "wof:geomhash":"066c607bc1a8a170b387ef5927074081",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516397,
-            "empire_id":136253041,
-            "locality_id":1310405809,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "066c607bc1a8a170b387ef5927074081",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516397,
+        "empire_id": 136253041,
+        "locality_id": 1310405809,
+        "region_id": 85669827,
+        "localadmin_id": 890512717
+      }
     ],
-    "wof:id":1310405809,
-    "wof:lastmodified":1566688565,
-    "wof:name":"Zhuduncun",
-    "wof:parent_id":890516397,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310405809,
+    "wof:lastmodified": 1768670913,
+    "wof:name": "Zhuduncun",
+    "wof:parent_id": 890512717,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.73932,
     32.63391,
     119.73932,
     32.63391
-],
-  "geometry": {"coordinates":[119.73932000000001,32.63391],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.73932,
+      32.63391
+    ],
+    "type": "Point"
+  }
 }

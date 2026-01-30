@@ -2,80 +2,88 @@
   "id": 1327142795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.23468,27.64008,120.23468,27.64008",
-    "geom:latitude":27.64008,
-    "geom:longitude":120.23468,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Shanmen",
-    "gn:country_code":"CN",
-    "gn:dem":65,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1795968,
-    "gn:latitude":27.64008,
-    "gn:longitude":120.23468,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Shanmen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.21468,27.62008,120.25468,27.66008",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shan-men-chieh",
-        "Shan-men",
-        "Shanmen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.23468,27.64008,120.23468,27.64008",
+    "geom:latitude": 27.64008,
+    "geom:longitude": 120.23468,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Shanmen",
+    "gn:country_code": "CN",
+    "gn:dem": 65,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1795968,
+    "gn:latitude": 27.64008,
+    "gn:longitude": 120.23468,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Shanmen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.21468,27.62008,120.25468,27.66008",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shan-men-chieh",
+      "Shan-men",
+      "Shanmen"
     ],
-    "name:zho_x_preferred":[
-        "\u5c71\u95e8"
+    "name:zho_x_preferred": [
+      "山门"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890512663,
+      890514289
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795968
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795968
     },
-    "wof:country":"CN",
-    "wof:geomhash":"71294e70aaf6914e77afff787e763d82",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1327142795,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "71294e70aaf6914e77afff787e763d82",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1327142795,
+        "region_id": 85669835,
+        "localadmin_id": 890512663
+      }
     ],
-    "wof:id":1327142795,
-    "wof:lastmodified":1566650196,
-    "wof:name":"Shanmen",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327142795,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Shanmen",
+    "wof:parent_id": 890512663,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.23468,
     27.64008,
     120.23468,
     27.64008
-],
-  "geometry": {"coordinates":[120.23468,27.64008],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.23468,
+      27.64008
+    ],
+    "type": "Point"
+  }
 }

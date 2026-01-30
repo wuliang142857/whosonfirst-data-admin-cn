@@ -2,84 +2,92 @@
   "id": 1259975497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.25358,25.28199,118.25358,25.28199",
-    "geom:latitude":25.28199,
-    "geom:longitude":118.25358,
-    "gn:admin1_code":"07",
-    "gn:asciiname":"Hushan",
-    "gn:country_code":"CN",
-    "gn:dem":177,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1806606,
-    "gn:latitude":25.28199,
-    "gn:longitude":118.25358,
-    "gn:modification_date":"2013-07-05",
-    "gn:name":"Hushan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.23358,25.26199,118.27358,25.30199",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Dongshanyuan",
-        "Hushan",
-        "Hushan Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.25358,25.28199,118.25358,25.28199",
+    "geom:latitude": 25.28199,
+    "geom:longitude": 118.25358,
+    "gn:admin1_code": "07",
+    "gn:asciiname": "Hushan",
+    "gn:country_code": "CN",
+    "gn:dem": 177,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1806606,
+    "gn:latitude": 25.28199,
+    "gn:longitude": 118.25358,
+    "gn:modification_date": "2013-07-05",
+    "gn:name": "Hushan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.23358,25.26199,118.27358,25.30199",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Dongshanyuan",
+      "Hushan",
+      "Hushan Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u5cb5\u5c71"
+    "name:zho_x_preferred": [
+      "岵山"
     ],
-    "name:zho_x_variant":[
-        "\u4e1c\u5c71\u56ed",
-        "\u5cb5\u5c71\u9547"
+    "name:zho_x_variant": [
+      "东山园",
+      "岵山镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512849,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1806606
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1806606
     },
-    "wof:country":"CN",
-    "wof:geomhash":"586da91a70bc62835eb0eb205b28d065",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1259975497,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "586da91a70bc62835eb0eb205b28d065",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1259975497,
+        "region_id": 85669735,
+        "localadmin_id": 890512849
+      }
     ],
-    "wof:id":1259975497,
-    "wof:lastmodified":1566698471,
-    "wof:name":"Hushan",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259975497,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Hushan",
+    "wof:parent_id": 890512849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.25358,
     25.28199,
     118.25358,
     25.28199
-],
-  "geometry": {"coordinates":[118.25358,25.28199],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.25358,
+      25.28199
+    ],
+    "type": "Point"
+  }
 }

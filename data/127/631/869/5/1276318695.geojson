@@ -2,75 +2,83 @@
   "id": 1276318695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"129.56875,49.26306,129.56875,49.26306",
-    "geom:latitude":49.26306,
-    "geom:longitude":129.56875,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Heyan",
-    "gn:country_code":"CN",
-    "gn:dem":96,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8525888,
-    "gn:latitude":49.26306,
-    "gn:longitude":129.56875,
-    "gn:modification_date":"2013-05-10",
-    "gn:name":"Heyan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"129.54875,49.24306,129.58875,49.28306",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6cb3\u6cbf"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "129.56875,49.26306,129.56875,49.26306",
+    "geom:latitude": 49.26306,
+    "geom:longitude": 129.56875,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Heyan",
+    "gn:country_code": "CN",
+    "gn:dem": 96,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8525888,
+    "gn:latitude": 49.26306,
+    "gn:longitude": 129.56875,
+    "gn:modification_date": "2013-05-10",
+    "gn:name": "Heyan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "129.54875,49.24306,129.58875,49.28306",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "河沿"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890515199
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890515199,
+      1127230722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8525888
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8525888
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3760e2d8ea78abe7dc96bc438645720a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515199,
-            "empire_id":136253041,
-            "locality_id":1276318695,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3760e2d8ea78abe7dc96bc438645720a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515199,
+        "empire_id": 136253041,
+        "locality_id": 1276318695,
+        "region_id": 85669849,
+        "localadmin_id": 1127230722
+      }
     ],
-    "wof:id":1276318695,
-    "wof:lastmodified":1566678367,
-    "wof:name":"Heyan",
-    "wof:parent_id":890515199,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276318695,
+    "wof:lastmodified": 1768669571,
+    "wof:name": "Heyan",
+    "wof:parent_id": 1127230722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     129.56875,
     49.26306,
     129.56875,
     49.26306
-],
-  "geometry": {"coordinates":[129.56874999999999,49.26306],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      129.56875,
+      49.26306
+    ],
+    "type": "Point"
+  }
 }

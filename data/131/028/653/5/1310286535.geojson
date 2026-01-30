@@ -2,75 +2,83 @@
   "id": 1310286535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.548,24.67,107.548,24.67",
-    "geom:latitude":24.67,
-    "geom:longitude":107.548,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Ceshanding",
-    "gn:country_code":"CN",
-    "gn:dem":799,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9925095,
-    "gn:latitude":24.67,
-    "gn:longitude":107.548,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Ceshanding",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.528,24.65,107.568,24.69",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4fa7\u5c71\u9876"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.548,24.67,107.548,24.67",
+    "geom:latitude": 24.67,
+    "geom:longitude": 107.548,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Ceshanding",
+    "gn:country_code": "CN",
+    "gn:dem": 799,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9925095,
+    "gn:latitude": 24.67,
+    "gn:longitude": 107.548,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Ceshanding",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.528,24.65,107.568,24.69",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "侧山顶"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451224
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9925095
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9925095
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2beefebc707094836ae7c05c19c69e8e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1310286535,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2beefebc707094836ae7c05c19c69e8e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1310286535,
+        "region_id": 85669717,
+        "localadmin_id": 1127451224
+      }
     ],
-    "wof:id":1310286535,
-    "wof:lastmodified":1566690136,
-    "wof:name":"Ceshanding",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310286535,
+    "wof:lastmodified": 1768665535,
+    "wof:name": "Ceshanding",
+    "wof:parent_id": 1127451224,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.548,
     24.67,
     107.548,
     24.67
-],
-  "geometry": {"coordinates":[107.548,24.67],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.548,
+      24.67
+    ],
+    "type": "Point"
+  }
 }

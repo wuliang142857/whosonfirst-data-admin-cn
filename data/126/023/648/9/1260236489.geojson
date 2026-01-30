@@ -2,82 +2,90 @@
   "id": 1260236489,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.26,36.16583,116.26,36.16583",
-    "geom:latitude":36.16583,
-    "geom:longitude":116.26,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Dong'e",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1812592,
-    "gn:latitude":36.16583,
-    "gn:longitude":116.26,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Dong\u2019e",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.24,36.14583,116.28,36.18583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tung-a-hsien",
-        "Chiu-tung-a",
-        "Tung-o-chen",
-        "Dong\u2019ezhen",
-        "Tung-o",
-        "Tung-a-chen",
-        "Tung-a",
-        "Dong\u2019e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.26,36.16583,116.26,36.16583",
+    "geom:latitude": 36.16583,
+    "geom:longitude": 116.26,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Dong'e",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1812592,
+    "gn:latitude": 36.16583,
+    "gn:longitude": 116.26,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Dong’e",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.24,36.14583,116.28,36.18583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tung-a-hsien",
+      "Chiu-tung-a",
+      "Tung-o-chen",
+      "Dong’ezhen",
+      "Tung-o",
+      "Tung-a-chen",
+      "Tung-a",
+      "Dong’e"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516325
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890516325,
+      1127370124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1812592
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1812592
     },
-    "wof:country":"CN",
-    "wof:geomhash":"40d19a4ec94af5b18a9a16c21e0fe34a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516325,
-            "empire_id":136253041,
-            "locality_id":1260236489,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "40d19a4ec94af5b18a9a16c21e0fe34a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516325,
+        "empire_id": 136253041,
+        "locality_id": 1260236489,
+        "region_id": 85669813,
+        "localadmin_id": 1127370124
+      }
     ],
-    "wof:id":1260236489,
-    "wof:lastmodified":1566686228,
-    "wof:name":"Dong'e",
-    "wof:parent_id":890516325,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260236489,
+    "wof:lastmodified": 1768668739,
+    "wof:name": "Dong'e",
+    "wof:parent_id": 1127370124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.26,
     36.16583,
     116.26,
     36.16583
-],
-  "geometry": {"coordinates":[116.26000000000001,36.16583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.26,
+      36.16583
+    ],
+    "type": "Point"
+  }
 }

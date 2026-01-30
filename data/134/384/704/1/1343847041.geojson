@@ -2,75 +2,83 @@
   "id": 1343847041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.506,38.0286,115.506,38.0286",
-    "geom:latitude":38.0286,
-    "geom:longitude":115.506,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Mazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9631531,
-    "gn:latitude":38.0286,
-    "gn:longitude":115.506,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Mazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.486,38.0086,115.526,38.0486",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.506,38.0286,115.506,38.0286",
+    "geom:latitude": 38.0286,
+    "geom:longitude": 115.506,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Mazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9631531,
+    "gn:latitude": 38.0286,
+    "gn:longitude": 115.506,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Mazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.486,38.0086,115.526,38.0486",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516595
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890516595,
+      1127131182
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9631531
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9631531
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ff9e00fd9536a02d491ddad743595303",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516595,
-            "empire_id":136253041,
-            "locality_id":1343847041,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ff9e00fd9536a02d491ddad743595303",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516595,
+        "empire_id": 136253041,
+        "locality_id": 1343847041,
+        "region_id": 85669797,
+        "localadmin_id": 1127131182
+      }
     ],
-    "wof:id":1343847041,
-    "wof:lastmodified":1566659556,
-    "wof:name":"Mazhuang",
-    "wof:parent_id":890516595,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343847041,
+    "wof:lastmodified": 1768669429,
+    "wof:name": "Mazhuang",
+    "wof:parent_id": 1127131182,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.506,
     38.0286,
     115.506,
     38.0286
-],
-  "geometry": {"coordinates":[115.506,38.0286],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.506,
+      38.0286
+    ],
+    "type": "Point"
+  }
 }

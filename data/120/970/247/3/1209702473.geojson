@@ -2,75 +2,83 @@
   "id": 1209702473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.63064,30.97329,112.63064,30.97329",
-    "geom:latitude":30.97329,
-    "geom:longitude":112.63064,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Caotai",
-    "gn:country_code":"CN",
-    "gn:dem":41,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7660490,
-    "gn:latitude":30.97329,
-    "gn:longitude":112.63064,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Caotai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.61064,30.95329,112.65064,30.99329",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u66f9\u53f0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.63064,30.97329,112.63064,30.97329",
+    "geom:latitude": 30.97329,
+    "geom:longitude": 112.63064,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Caotai",
+    "gn:country_code": "CN",
+    "gn:dem": 41,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7660490,
+    "gn:latitude": 30.97329,
+    "gn:longitude": 112.63064,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Caotai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.61064,30.95329,112.65064,30.99329",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "曹台"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514731
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890513845,
+      890514731
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7660490
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7660490
     },
-    "wof:country":"CN",
-    "wof:geomhash":"449c4cee3b3f6b898f0e62246c0dca6f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514731,
-            "empire_id":136253041,
-            "locality_id":1209702473,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "449c4cee3b3f6b898f0e62246c0dca6f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514731,
+        "empire_id": 136253041,
+        "locality_id": 1209702473,
+        "region_id": 85669777,
+        "localadmin_id": 890513845
+      }
     ],
-    "wof:id":1209702473,
-    "wof:lastmodified":1566680456,
-    "wof:name":"Caotai",
-    "wof:parent_id":890514731,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209702473,
+    "wof:lastmodified": 1768665639,
+    "wof:name": "Caotai",
+    "wof:parent_id": 890513845,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.63064,
     30.97329,
     112.63064,
     30.97329
-],
-  "geometry": {"coordinates":[112.63064,30.97329],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.63064,
+      30.97329
+    ],
+    "type": "Point"
+  }
 }

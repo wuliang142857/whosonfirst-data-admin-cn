@@ -2,75 +2,83 @@
   "id": 1243403331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.833,31.3213,106.833,31.3213",
-    "geom:latitude":31.3213,
-    "geom:longitude":106.833,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Fangzhai",
-    "gn:country_code":"CN",
-    "gn:dem":451,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10155412,
-    "gn:latitude":31.3213,
-    "gn:longitude":106.833,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Fangzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.813,31.3013,106.853,31.3413",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65b9\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.833,31.3213,106.833,31.3213",
+    "geom:latitude": 31.3213,
+    "geom:longitude": 106.833,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Fangzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 451,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10155412,
+    "gn:latitude": 31.3213,
+    "gn:longitude": 106.833,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Fangzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.813,31.3013,106.853,31.3413",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "方寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890511853
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890511853,
+      1127511322
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10155412
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10155412
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ed207953a210a6e3ea9ea645f74bd257",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511853,
-            "empire_id":136253041,
-            "locality_id":1243403331,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ed207953a210a6e3ea9ea645f74bd257",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511853,
+        "empire_id": 136253041,
+        "locality_id": 1243403331,
+        "region_id": 85669787,
+        "localadmin_id": 1127511322
+      }
     ],
-    "wof:id":1243403331,
-    "wof:lastmodified":1566695587,
-    "wof:name":"Fangzhai",
-    "wof:parent_id":890511853,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243403331,
+    "wof:lastmodified": 1768668855,
+    "wof:name": "Fangzhai",
+    "wof:parent_id": 1127511322,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.833,
     31.3213,
     106.833,
     31.3213
-],
-  "geometry": {"coordinates":[106.833,31.3213],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.833,
+      31.3213
+    ],
+    "type": "Point"
+  }
 }

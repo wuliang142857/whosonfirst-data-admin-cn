@@ -2,75 +2,83 @@
   "id": 1243601173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.527,24.0803,100.527,24.0803",
-    "geom:latitude":24.0803,
-    "geom:longitude":100.527,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Qincaitang",
-    "gn:country_code":"CN",
-    "gn:dem":1702,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9989484,
-    "gn:latitude":24.0803,
-    "gn:longitude":100.527,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Qincaitang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.507,24.0603,100.547,24.1003",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u82b9\u83dc\u5858"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.527,24.0803,100.527,24.0803",
+    "geom:latitude": 24.0803,
+    "geom:longitude": 100.527,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Qincaitang",
+    "gn:country_code": "CN",
+    "gn:dem": 1702,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9989484,
+    "gn:latitude": 24.0803,
+    "gn:longitude": 100.527,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Qincaitang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.507,24.0603,100.547,24.1003",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "芹菜塘"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514995
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514995,
+      1127530823
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9989484
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9989484
     },
-    "wof:country":"CN",
-    "wof:geomhash":"842b750534d1438dad44457557ea6e44",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514995,
-            "empire_id":136253041,
-            "locality_id":1243601173,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "842b750534d1438dad44457557ea6e44",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514995,
+        "empire_id": 136253041,
+        "locality_id": 1243601173,
+        "region_id": 85669791,
+        "localadmin_id": 1127530823
+      }
     ],
-    "wof:id":1243601173,
-    "wof:lastmodified":1566696279,
-    "wof:name":"Qincaitang",
-    "wof:parent_id":890514995,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243601173,
+    "wof:lastmodified": 1768668367,
+    "wof:name": "Qincaitang",
+    "wof:parent_id": 1127530823,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.527,
     24.0803,
     100.527,
     24.0803
-],
-  "geometry": {"coordinates":[100.527,24.0803],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.527,
+      24.0803
+    ],
+    "type": "Point"
+  }
 }

@@ -2,77 +2,85 @@
   "id": 1343842261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.13778,33.785,113.13778,33.785",
-    "geom:latitude":33.785,
-    "geom:longitude":113.13778,
-    "gn:admin1_code":"09",
-    "gn:asciiname":"Xuezhuang",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":111,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1895260,
-    "gn:latitude":33.785,
-    "gn:longitude":113.13778,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Xuezhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.11778,33.765,113.15778,33.805",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsieh-chuang",
-        "Xuezhuang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.13778,33.785,113.13778,33.785",
+    "geom:latitude": 33.785,
+    "geom:longitude": 113.13778,
+    "gn:admin1_code": "09",
+    "gn:asciiname": "Xuezhuang",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 111,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1895260,
+    "gn:latitude": 33.785,
+    "gn:longitude": 113.13778,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Xuezhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.11778,33.765,113.15778,33.805",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsieh-chuang",
+      "Xuezhuang"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890512655
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890512655,
+      1127410402
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1895260
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1895260
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0f129273a71ea6cde32f4a56ce01f804",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512655,
-            "empire_id":136253041,
-            "locality_id":1343842261,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0f129273a71ea6cde32f4a56ce01f804",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512655,
+        "empire_id": 136253041,
+        "locality_id": 1343842261,
+        "region_id": 85669801,
+        "localadmin_id": 1127410402
+      }
     ],
-    "wof:id":1343842261,
-    "wof:lastmodified":1566659522,
-    "wof:name":"Xuezhuang",
-    "wof:parent_id":890512655,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343842261,
+    "wof:lastmodified": 1768669038,
+    "wof:name": "Xuezhuang",
+    "wof:parent_id": 1127410402,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.13778,
     33.785,
     113.13778,
     33.785
-],
-  "geometry": {"coordinates":[113.13778000000001,33.785],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.13778,
+      33.785
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1193118123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.61893,26.36427,109.61893,26.36427",
-    "geom:latitude":26.36427,
-    "geom:longitude":109.61893,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Huangjiabang",
-    "gn:country_code":"CN",
-    "gn:dem":378,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10366210,
-    "gn:latitude":26.36427,
-    "gn:longitude":109.61893,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Huangjiabang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.59893,26.34427,109.63893,26.38427",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ec4\u5bb6\u699c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.61893,26.36427,109.61893,26.36427",
+    "geom:latitude": 26.36427,
+    "geom:longitude": 109.61893,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Huangjiabang",
+    "gn:country_code": "CN",
+    "gn:dem": 378,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10366210,
+    "gn:latitude": 26.36427,
+    "gn:longitude": 109.61893,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Huangjiabang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.59893,26.34427,109.63893,26.38427",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黄家榜"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514349
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514349,
+      1127431230
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10366210
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10366210
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b2cc51789640e30a8454dc670be8165f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514349,
-            "empire_id":136253041,
-            "locality_id":1193118123,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b2cc51789640e30a8454dc670be8165f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514349,
+        "empire_id": 136253041,
+        "locality_id": 1193118123,
+        "region_id": 85669781,
+        "localadmin_id": 1127431230
+      }
     ],
-    "wof:id":1193118123,
-    "wof:lastmodified":1566685915,
-    "wof:name":"Huangjiabang",
-    "wof:parent_id":890514349,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193118123,
+    "wof:lastmodified": 1768670357,
+    "wof:name": "Huangjiabang",
+    "wof:parent_id": 1127431230,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.61893,
     26.36427,
     109.61893,
     26.36427
-],
-  "geometry": {"coordinates":[109.61893000000001,26.36427],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.61893,
+      26.36427
+    ],
+    "type": "Point"
+  }
 }

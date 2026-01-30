@@ -2,78 +2,86 @@
   "id": 890515957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.316467,25.381253,110.316467,25.381253",
-    "geom:latitude":25.381253,
-    "geom:longitude":110.316467,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"110.296467,25.361253,110.336467,25.401253",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Gantang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.316467,25.381253,110.316467,25.381253",
+    "geom:latitude": 25.381253,
+    "geom:longitude": 110.316467,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "110.296467,25.361253,110.336467,25.401253",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Gantang"
     ],
-    "name:zho_x_preferred":[
-        "\u7518\u5858"
+    "name:zho_x_preferred": [
+      "甘塘"
     ],
-    "qs:name":"\u7518\u5858",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5e7f\u897f\u7701",
-    "qs:photos":100,
-    "qs:photos_1k":20,
-    "qs:photos_9k":1,
-    "qs:photos_9r":3,
-    "qs:photos_all":100,
-    "qs:photos_sr":3,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        1108732443,
-        136253041,
-        85669717
+    "qs:name": "甘塘",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "广西省",
+    "qs:photos": 100,
+    "qs:photos_1k": 20,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 3,
+    "qs:photos_all": 100,
+    "qs:photos_sr": 3,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516221,
+      1108732443
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2165673,
-        "qs_pg:id":978075
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2165673,
+      "qs_pg:id": 978075
     },
-    "wof:country":"CN",
-    "wof:created":1469055937,
-    "wof:geomhash":"d52910d29dc8441afde3491580062d1f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732443,
-            "empire_id":136253041,
-            "locality_id":890515957,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055937,
+    "wof:geomhash": "d52910d29dc8441afde3491580062d1f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732443,
+        "empire_id": 136253041,
+        "locality_id": 890515957,
+        "region_id": 85669717,
+        "localadmin_id": 890516221
+      }
     ],
-    "wof:id":890515957,
-    "wof:lastmodified":1601422997,
-    "wof:name":"Gantang",
-    "wof:parent_id":1108732443,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515957,
+    "wof:lastmodified": 1768665550,
+    "wof:name": "Gantang",
+    "wof:parent_id": 890516221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.316467,
     25.381253,
     110.316467,
     25.381253
-],
-  "geometry": {"coordinates":[110.316467,25.381253],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.316467,
+      25.381253
+    ],
+    "type": "Point"
+  }
 }

@@ -2,77 +2,85 @@
   "id": 1343456727,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.86009,41.25197,125.86009,41.25197",
-    "geom:latitude":41.25197,
-    "geom:longitude":125.86009,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Huangweizi",
-    "gn:country_code":"CN",
-    "gn:dem":403,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7553721,
-    "gn:latitude":41.25197,
-    "gn:longitude":125.86009,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Huangweizi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.84009,41.23197,125.88009,41.27197",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u8352\u5d34\u5b50",
-        "Huangwei",
-        "\u8352\u5d34"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.86009,41.25197,125.86009,41.25197",
+    "geom:latitude": 41.25197,
+    "geom:longitude": 125.86009,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Huangweizi",
+    "gn:country_code": "CN",
+    "gn:dem": 403,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7553721,
+    "gn:latitude": 41.25197,
+    "gn:longitude": 125.86009,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Huangweizi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.84009,41.23197,125.88009,41.27197",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "荒崴子",
+      "Huangwei",
+      "荒崴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890516249
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514705,
+      890516249
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7553721
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7553721
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fab9d065c34604d93df65e7f6e81787b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516249,
-            "empire_id":136253041,
-            "locality_id":1343456727,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fab9d065c34604d93df65e7f6e81787b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516249,
+        "empire_id": 136253041,
+        "locality_id": 1343456727,
+        "region_id": 85669843,
+        "localadmin_id": 890514705
+      }
     ],
-    "wof:id":1343456727,
-    "wof:lastmodified":1566663656,
-    "wof:name":"Huangweizi",
-    "wof:parent_id":890516249,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343456727,
+    "wof:lastmodified": 1768671033,
+    "wof:name": "Huangweizi",
+    "wof:parent_id": 890514705,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.86009,
     41.25197,
     125.86009,
     41.25197
-],
-  "geometry": {"coordinates":[125.86009,41.25197],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.86009,
+      41.25197
+    ],
+    "type": "Point"
+  }
 }

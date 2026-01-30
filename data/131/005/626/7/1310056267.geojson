@@ -2,75 +2,83 @@
   "id": 1310056267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.206,27.9758,105.206,27.9758",
-    "geom:latitude":27.9758,
-    "geom:longitude":105.206,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Haojiayan",
-    "gn:country_code":"CN",
-    "gn:dem":1239,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10145374,
-    "gn:latitude":27.9758,
-    "gn:longitude":105.206,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Haojiayan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.186,27.9558,105.226,27.9958",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90dd\u5bb6\u5ca9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.206,27.9758,105.206,27.9758",
+    "geom:latitude": 27.9758,
+    "geom:longitude": 105.206,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Haojiayan",
+    "gn:country_code": "CN",
+    "gn:dem": 1239,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10145374,
+    "gn:latitude": 27.9758,
+    "gn:longitude": 105.206,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Haojiayan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.186,27.9558,105.226,27.9958",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "郝家岩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514257,
+      1127530629
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10145374
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10145374
     },
-    "wof:country":"CN",
-    "wof:geomhash":"617b4823402ffd97f9140dea49859125",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1310056267,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "617b4823402ffd97f9140dea49859125",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1310056267,
+        "region_id": 85669791,
+        "localadmin_id": 1127530629
+      }
     ],
-    "wof:id":1310056267,
-    "wof:lastmodified":1566690712,
-    "wof:name":"Haojiayan",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310056267,
+    "wof:lastmodified": 1768668496,
+    "wof:name": "Haojiayan",
+    "wof:parent_id": 1127530629,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.206,
     27.9758,
     105.206,
     27.9758
-],
-  "geometry": {"coordinates":[105.206,27.9758],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.206,
+      27.9758
+    ],
+    "type": "Point"
+  }
 }

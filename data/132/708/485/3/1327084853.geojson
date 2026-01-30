@@ -2,75 +2,83 @@
   "id": 1327084853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.618,23.0345,102.618,23.0345",
-    "geom:latitude":23.0345,
-    "geom:longitude":102.618,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Tulaozhai",
-    "gn:country_code":"CN",
-    "gn:dem":1332,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10036838,
-    "gn:latitude":23.0345,
-    "gn:longitude":102.618,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Tulaozhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.598,23.0145,102.638,23.0545",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u571f\u8001\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.618,23.0345,102.618,23.0345",
+    "geom:latitude": 23.0345,
+    "geom:longitude": 102.618,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Tulaozhai",
+    "gn:country_code": "CN",
+    "gn:dem": 1332,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10036838,
+    "gn:latitude": 23.0345,
+    "gn:longitude": 102.618,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Tulaozhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.598,23.0145,102.638,23.0545",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "土老寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890515337,
+      1108794063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10036838
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10036838
     },
-    "wof:country":"CN",
-    "wof:geomhash":"95ff37a667196513ab548ef842a5a3cd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1327084853,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "95ff37a667196513ab548ef842a5a3cd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1327084853,
+        "region_id": 85669791,
+        "localadmin_id": 890515337
+      }
     ],
-    "wof:id":1327084853,
-    "wof:lastmodified":1566646916,
-    "wof:name":"Tulaozhai",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327084853,
+    "wof:lastmodified": 1768668217,
+    "wof:name": "Tulaozhai",
+    "wof:parent_id": 890515337,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.618,
     23.0345,
     102.618,
     23.0345
-],
-  "geometry": {"coordinates":[102.61799999999999,23.0345],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.618,
+      23.0345
+    ],
+    "type": "Point"
+  }
 }

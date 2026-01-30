@@ -2,73 +2,81 @@
   "id": 1209949827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.9555,18.4282,109.9555,18.4282",
-    "geom:latitude":18.4282,
-    "geom:longitude":109.9555,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Changcheng",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1917724,
-    "gn:latitude":18.4282,
-    "gn:longitude":109.9555,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Changcheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.9355,18.4082,109.9755,18.4482",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u957f\u57ce"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.9555,18.4282,109.9555,18.4282",
+    "geom:latitude": 18.4282,
+    "geom:longitude": 109.9555,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Changcheng",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1917724,
+    "gn:latitude": 18.4282,
+    "gn:longitude": 109.9555,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Changcheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.9355,18.4082,109.9755,18.4482",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "长城"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732539
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515213,
+      1108732539
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917724
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917724
     },
-    "wof:country":"CN",
-    "wof:geomhash":"27a4b11907c32a73084231df98317975",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732539,
-            "locality_id":1209949827,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "27a4b11907c32a73084231df98317975",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732539,
+        "locality_id": 1209949827,
+        "region_id": 85669759,
+        "localadmin_id": 890515213
+      }
     ],
-    "wof:id":1209949827,
-    "wof:lastmodified":1566682465,
-    "wof:name":"Changcheng",
-    "wof:parent_id":1108732539,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209949827,
+    "wof:lastmodified": 1768671212,
+    "wof:name": "Changcheng",
+    "wof:parent_id": 890515213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.9555,
     18.4282,
     109.9555,
     18.4282
-],
-  "geometry": {"coordinates":[109.9555,18.4282],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.9555,
+      18.4282
+    ],
+    "type": "Point"
+  }
 }

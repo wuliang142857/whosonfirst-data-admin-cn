@@ -2,75 +2,83 @@
   "id": 1293611599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.49046,44.05998,123.49046,44.05998",
-    "geom:latitude":44.05998,
-    "geom:longitude":123.49046,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Sanhetun",
-    "gn:country_code":"CN",
-    "gn:dem":145,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10906246,
-    "gn:latitude":44.05998,
-    "gn:longitude":123.49046,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Sanhetun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.47046,44.03998,123.51046,44.07998",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u5408\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.49046,44.05998,123.49046,44.05998",
+    "geom:latitude": 44.05998,
+    "geom:longitude": 123.49046,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Sanhetun",
+    "gn:country_code": "CN",
+    "gn:dem": 145,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10906246,
+    "gn:latitude": 44.05998,
+    "gn:longitude": 123.49046,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Sanhetun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.47046,44.03998,123.51046,44.07998",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三合屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890514217
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890514217,
+      1127220382
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10906246
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10906246
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e46a551cbca43d63d2a2deca9cadea23",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514217,
-            "empire_id":136253041,
-            "locality_id":1293611599,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e46a551cbca43d63d2a2deca9cadea23",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514217,
+        "empire_id": 136253041,
+        "locality_id": 1293611599,
+        "region_id": 85669843,
+        "localadmin_id": 1127220382
+      }
     ],
-    "wof:id":1293611599,
-    "wof:lastmodified":1566668666,
-    "wof:name":"Sanhetun",
-    "wof:parent_id":890514217,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293611599,
+    "wof:lastmodified": 1768671068,
+    "wof:name": "Sanhetun",
+    "wof:parent_id": 1127220382,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.49046,
     44.05998,
     123.49046,
     44.05998
-],
-  "geometry": {"coordinates":[123.49046,44.05998],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.49046,
+      44.05998
+    ],
+    "type": "Point"
+  }
 }

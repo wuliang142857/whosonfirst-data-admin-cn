@@ -2,77 +2,85 @@
   "id": 1276866055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.26352,38.58117,114.26352,38.58117",
-    "geom:latitude":38.58117,
-    "geom:longitude":114.26352,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Shangyanzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":211,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8562069,
-    "gn:latitude":38.58117,
-    "gn:longitude":114.26352,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Shangyanzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.24352,38.56117,114.28352,38.60117",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e0a\u960e\u5e84",
-        "Shangyanzhuang Xiang",
-        "\u4e0a\u960e\u5e84\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.26352,38.58117,114.26352,38.58117",
+    "geom:latitude": 38.58117,
+    "geom:longitude": 114.26352,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Shangyanzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 211,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8562069,
+    "gn:latitude": 38.58117,
+    "gn:longitude": 114.26352,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Shangyanzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.24352,38.56117,114.28352,38.60117",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "上阎庄",
+      "Shangyanzhuang Xiang",
+      "上阎庄乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890515171
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890515171,
+      1127130125
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8562069
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8562069
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fbb627ffdd11ed7fd7650dc594c4ce93",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515171,
-            "empire_id":136253041,
-            "locality_id":1276866055,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fbb627ffdd11ed7fd7650dc594c4ce93",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515171,
+        "empire_id": 136253041,
+        "locality_id": 1276866055,
+        "region_id": 85669797,
+        "localadmin_id": 1127130125
+      }
     ],
-    "wof:id":1276866055,
-    "wof:lastmodified":1566672441,
-    "wof:name":"Shangyanzhuang",
-    "wof:parent_id":890515171,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276866055,
+    "wof:lastmodified": 1768669476,
+    "wof:name": "Shangyanzhuang",
+    "wof:parent_id": 1127130125,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.26352,
     38.58117,
     114.26352,
     38.58117
-],
-  "geometry": {"coordinates":[114.26352,38.58117],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.26352,
+      38.58117
+    ],
+    "type": "Point"
+  }
 }

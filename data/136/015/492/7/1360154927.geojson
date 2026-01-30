@@ -2,75 +2,83 @@
   "id": 1360154927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.66008,35.70553,105.66008,35.70553",
-    "geom:latitude":35.70553,
-    "geom:longitude":105.66008,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Yuantou",
-    "gn:country_code":"CN",
-    "gn:dem":1892,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7349524,
-    "gn:latitude":35.70553,
-    "gn:longitude":105.66008,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Yuantou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.64008,35.68553,105.68008,35.72553",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u539f\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.66008,35.70553,105.66008,35.70553",
+    "geom:latitude": 35.70553,
+    "geom:longitude": 105.66008,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Yuantou",
+    "gn:country_code": "CN",
+    "gn:dem": 1892,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7349524,
+    "gn:latitude": 35.70553,
+    "gn:longitude": 105.66008,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Yuantou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.64008,35.68553,105.68008,35.72553",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "原头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516253
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516253,
+      1127620826
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7349524
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7349524
     },
-    "wof:country":"CN",
-    "wof:geomhash":"48fc7d062ada2443f3dd00fad0576fd0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516253,
-            "empire_id":136253041,
-            "locality_id":1360154927,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "48fc7d062ada2443f3dd00fad0576fd0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516253,
+        "empire_id": 136253041,
+        "locality_id": 1360154927,
+        "region_id": 85669711,
+        "localadmin_id": 1127620826
+      }
     ],
-    "wof:id":1360154927,
-    "wof:lastmodified":1566691236,
-    "wof:name":"Yuantou",
-    "wof:parent_id":890516253,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360154927,
+    "wof:lastmodified": 1768666733,
+    "wof:name": "Yuantou",
+    "wof:parent_id": 1127620826,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.66008,
     35.70553,
     105.66008,
     35.70553
-],
-  "geometry": {"coordinates":[105.66007999999999,35.70553],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.66008,
+      35.70553
+    ],
+    "type": "Point"
+  }
 }

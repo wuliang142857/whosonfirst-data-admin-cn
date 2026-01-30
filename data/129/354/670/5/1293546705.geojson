@@ -2,75 +2,83 @@
   "id": 1293546705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.572,35.7648,118.572,35.7648",
-    "geom:latitude":35.7648,
-    "geom:longitude":118.572,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Gangbukou",
-    "gn:country_code":"CN",
-    "gn:dem":136,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9121747,
-    "gn:latitude":35.7648,
-    "gn:longitude":118.572,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Gangbukou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.552,35.7448,118.592,35.7848",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6e2f\u57e0\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.572,35.7648,118.572,35.7648",
+    "geom:latitude": 35.7648,
+    "geom:longitude": 118.572,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Gangbukou",
+    "gn:country_code": "CN",
+    "gn:dem": 136,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9121747,
+    "gn:latitude": 35.7648,
+    "gn:longitude": 118.572,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Gangbukou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.552,35.7448,118.592,35.7848",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "港埠口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514267,
+      1108732339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9121747
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9121747
     },
-    "wof:country":"CN",
-    "wof:geomhash":"03c386d349a9e55517592bf0dd0e3308",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1293546705,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "03c386d349a9e55517592bf0dd0e3308",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1293546705,
+        "region_id": 85669813,
+        "localadmin_id": 890514267
+      }
     ],
-    "wof:id":1293546705,
-    "wof:lastmodified":1566665897,
-    "wof:name":"Gangbukou",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293546705,
+    "wof:lastmodified": 1768668426,
+    "wof:name": "Gangbukou",
+    "wof:parent_id": 890514267,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.572,
     35.7648,
     118.572,
     35.7648
-],
-  "geometry": {"coordinates":[118.572,35.7648],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.572,
+      35.7648
+    ],
+    "type": "Point"
+  }
 }

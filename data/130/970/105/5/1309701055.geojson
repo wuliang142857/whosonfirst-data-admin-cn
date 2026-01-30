@@ -2,80 +2,88 @@
   "id": 1309701055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.58137,40.12127,119.58137,40.12127",
-    "geom:latitude":40.12127,
-    "geom:longitude":119.58137,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Shangzhuangtuo",
-    "gn:country_code":"CN",
-    "gn:dem":95,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2034997,
-    "gn:latitude":40.12127,
-    "gn:longitude":119.58137,
-    "gn:modification_date":"2015-01-07",
-    "gn:name":"Shangzhuangtuo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.56137,40.10127,119.60137,40.14127",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsi-shang-t\u2019o",
-        "Shang-chuang-t\u2019o",
-        "Shangzhuangtuo"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.58137,40.12127,119.58137,40.12127",
+    "geom:latitude": 40.12127,
+    "geom:longitude": 119.58137,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Shangzhuangtuo",
+    "gn:country_code": "CN",
+    "gn:dem": 95,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2034997,
+    "gn:latitude": 40.12127,
+    "gn:longitude": 119.58137,
+    "gn:modification_date": "2015-01-07",
+    "gn:name": "Shangzhuangtuo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.56137,40.10127,119.60137,40.14127",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsi-shang-t’o",
+      "Shang-chuang-t’o",
+      "Shangzhuangtuo"
     ],
-    "name:zho_x_preferred":[
-        "\u4e0a\u5e84\u5768"
+    "name:zho_x_preferred": [
+      "上庄坨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513075
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513075,
+      1127130302
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2034997
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2034997
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b303d3613d46a458ee5c4cbffb787081",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513075,
-            "empire_id":136253041,
-            "locality_id":1309701055,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b303d3613d46a458ee5c4cbffb787081",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513075,
+        "empire_id": 136253041,
+        "locality_id": 1309701055,
+        "region_id": 85669797,
+        "localadmin_id": 1127130302
+      }
     ],
-    "wof:id":1309701055,
-    "wof:lastmodified":1566692644,
-    "wof:name":"Shangzhuangtuo",
-    "wof:parent_id":890513075,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309701055,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Shangzhuangtuo",
+    "wof:parent_id": 1127130302,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.58137,
     40.12127,
     119.58137,
     40.12127
-],
-  "geometry": {"coordinates":[119.58137000000001,40.12127],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.58137,
+      40.12127
+    ],
+    "type": "Point"
+  }
 }

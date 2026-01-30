@@ -2,82 +2,90 @@
   "id": 1226155157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.12439,29.90683,120.12439,29.90683",
-    "geom:latitude":29.90683,
-    "geom:longitude":120.12439,
-    "gn:admin1_code":"2",
-    "gn:asciiname":"Louta",
-    "gn:country_code":"CN",
-    "gn:dem":52,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1918986,
-    "gn:latitude":29.90683,
-    "gn:longitude":120.12439,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Louta",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.10439,29.88683,120.14439,29.92683",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Louta Zhen",
-        "Louta"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.12439,29.90683,120.12439,29.90683",
+    "geom:latitude": 29.90683,
+    "geom:longitude": 120.12439,
+    "gn:admin1_code": "2",
+    "gn:asciiname": "Louta",
+    "gn:country_code": "CN",
+    "gn:dem": 52,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1918986,
+    "gn:latitude": 29.90683,
+    "gn:longitude": 120.12439,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Louta",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.10439,29.88683,120.14439,29.92683",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Louta Zhen",
+      "Louta"
     ],
-    "name:zho_x_preferred":[
-        "\u697c\u5854\u9547"
+    "name:zho_x_preferred": [
+      "楼塔镇"
     ],
-    "name:zho_x_variant":[
-        "\u697c\u5854"
+    "name:zho_x_variant": [
+      "楼塔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514617,
+      890516555
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1918986
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1918986
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cb82509165345dc7dea908cb4623a37a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1226155157,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cb82509165345dc7dea908cb4623a37a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1226155157,
+        "region_id": 85669835,
+        "localadmin_id": 890514617
+      }
     ],
-    "wof:id":1226155157,
-    "wof:lastmodified":1566704480,
-    "wof:name":"Louta",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226155157,
+    "wof:lastmodified": 1768663108,
+    "wof:name": "Louta",
+    "wof:parent_id": 890514617,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.12439,
     29.90683,
     120.12439,
     29.90683
-],
-  "geometry": {"coordinates":[120.12439000000001,29.90683],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.12439,
+      29.90683
+    ],
+    "type": "Point"
+  }
 }

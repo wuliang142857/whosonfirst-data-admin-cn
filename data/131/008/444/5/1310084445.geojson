@@ -2,75 +2,83 @@
   "id": 1310084445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.178,38.5539,116.178,38.5539",
-    "geom:latitude":38.5539,
-    "geom:longitude":116.178,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Beiwangzhuang",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630147,
-    "gn:latitude":38.5539,
-    "gn:longitude":116.178,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Beiwangzhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.158,38.5339,116.198,38.5739",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u738b\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.178,38.5539,116.178,38.5539",
+    "geom:latitude": 38.5539,
+    "geom:longitude": 116.178,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Beiwangzhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630147,
+    "gn:latitude": 38.5539,
+    "gn:longitude": 116.178,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Beiwangzhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.158,38.5339,116.198,38.5739",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北王庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130984
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630147
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630147
     },
-    "wof:country":"CN",
-    "wof:geomhash":"77eca6e66e1ba75d2c7ea0e4c81f3529",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1310084445,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "77eca6e66e1ba75d2c7ea0e4c81f3529",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1310084445,
+        "region_id": 85669797,
+        "localadmin_id": 1127130984
+      }
     ],
-    "wof:id":1310084445,
-    "wof:lastmodified":1566689329,
-    "wof:name":"Beiwangzhuang",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310084445,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Beiwangzhuang",
+    "wof:parent_id": 1127130984,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.178,
     38.5539,
     116.178,
     38.5539
-],
-  "geometry": {"coordinates":[116.178,38.5539],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.178,
+      38.5539
+    ],
+    "type": "Point"
+  }
 }

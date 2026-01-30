@@ -2,84 +2,92 @@
   "id": 1225914951,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"88.301,29.701,88.301,29.701",
-    "geom:latitude":29.701,
-    "geom:longitude":88.301,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Chabu",
-    "gn:country_code":"CN",
-    "gn:dem":4927,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8357702,
-    "gn:latitude":29.701,
-    "gn:longitude":88.301,
-    "gn:modification_date":"2012-08-05",
-    "gn:name":"Chabu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"88.281,29.681,88.321,29.721",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Cap\u00fc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "88.301,29.701,88.301,29.701",
+    "geom:latitude": 29.701,
+    "geom:longitude": 88.301,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Chabu",
+    "gn:country_code": "CN",
+    "gn:dem": 4927,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8357702,
+    "gn:latitude": 29.701,
+    "gn:longitude": 88.301,
+    "gn:modification_date": "2012-08-05",
+    "gn:name": "Chabu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "88.281,29.681,88.321,29.721",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Capü"
     ],
-    "name:und_x_variant":[
-        "Bo\u2019erba"
+    "name:und_x_variant": [
+      "Bo’erba"
     ],
-    "name:zho_x_preferred":[
-        "\u67e5\u5e03"
+    "name:zho_x_preferred": [
+      "查布"
     ],
-    "name:zho_x_variant":[
-        "\u62e8\u5c14\u5df4"
+    "name:zho_x_variant": [
+      "拨尔巴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890516395,
+      1127540227
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8357702
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8357702
     },
-    "wof:country":"CN",
-    "wof:geomhash":"45d8db670c3c7025ace368247548d983",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1225914951,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "45d8db670c3c7025ace368247548d983",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1225914951,
+        "region_id": 85669747,
+        "localadmin_id": 1127540227
+      }
     ],
-    "wof:id":1225914951,
-    "wof:lastmodified":1566703515,
-    "wof:name":"Chabu",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225914951,
+    "wof:lastmodified": 1768665596,
+    "wof:name": "Chabu",
+    "wof:parent_id": 1127540227,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     88.301,
     29.701,
     88.301,
     29.701
-],
-  "geometry": {"coordinates":[88.301,29.701],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      88.301,
+      29.701
+    ],
+    "type": "Point"
+  }
 }

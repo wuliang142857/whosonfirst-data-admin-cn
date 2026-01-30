@@ -2,78 +2,86 @@
   "id": 1343602703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.17712,29.13462,106.17712,29.13462",
-    "geom:latitude":29.13462,
-    "geom:longitude":106.17712,
-    "gn:admin1_code":"33",
-    "gn:asciiname":"Luoba",
-    "gn:country_code":"CN",
-    "gn:dem":311,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1914241,
-    "gn:latitude":29.13462,
-    "gn:longitude":106.17712,
-    "gn:modification_date":"2012-11-09",
-    "gn:name":"Luoba",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.15712,29.11462,106.19712,29.15462",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ces_x_preferred":[
-        "Luoba"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.17712,29.13462,106.17712,29.13462",
+    "geom:latitude": 29.13462,
+    "geom:longitude": 106.17712,
+    "gn:admin1_code": "33",
+    "gn:asciiname": "Luoba",
+    "gn:country_code": "CN",
+    "gn:dem": 311,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1914241,
+    "gn:latitude": 29.13462,
+    "gn:longitude": 106.17712,
+    "gn:modification_date": "2012-11-09",
+    "gn:name": "Luoba",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.15712,29.11462,106.19712,29.15462",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ces_x_preferred": [
+      "Luoba"
     ],
-    "name:zho_x_preferred":[
-        "\u7f57\u575d"
+    "name:zho_x_preferred": [
+      "罗坝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890512859,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1914241
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1914241
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3230e13f7e3277fb1e48cca5df8888de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1343602703,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3230e13f7e3277fb1e48cca5df8888de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1343602703,
+        "region_id": 85669725,
+        "localadmin_id": 890512859
+      }
     ],
-    "wof:id":1343602703,
-    "wof:lastmodified":1566662013,
-    "wof:name":"Luoba",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343602703,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Luoba",
+    "wof:parent_id": 890512859,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.17712,
     29.13462,
     106.17712,
     29.13462
-],
-  "geometry": {"coordinates":[106.17712,29.13462],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.17712,
+      29.13462
+    ],
+    "type": "Point"
+  }
 }

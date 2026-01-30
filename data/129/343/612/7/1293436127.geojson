@@ -2,75 +2,83 @@
   "id": 1293436127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.19507,22.63021,113.19507,22.63021",
-    "geom:latitude":22.63021,
-    "geom:longitude":113.19507,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Caobu",
-    "gn:country_code":"CN",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1913111,
-    "gn:latitude":22.63021,
-    "gn:longitude":113.19507,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Caobu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.17507,22.61021,113.21507,22.65021",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u66f9\u6b65"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.19507,22.63021,113.19507,22.63021",
+    "geom:latitude": 22.63021,
+    "geom:longitude": 113.19507,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Caobu",
+    "gn:country_code": "CN",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1913111,
+    "gn:latitude": 22.63021,
+    "gn:longitude": 113.19507,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Caobu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.17507,22.61021,113.21507,22.65021",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "曹步"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516323
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516323,
+      1127442000
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1913111
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1913111
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cf8dafc9222b887efa4445657b8b357f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516323,
-            "empire_id":136253041,
-            "locality_id":1293436127,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cf8dafc9222b887efa4445657b8b357f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516323,
+        "empire_id": 136253041,
+        "locality_id": 1293436127,
+        "region_id": 85669743,
+        "localadmin_id": 1127442000
+      }
     ],
-    "wof:id":1293436127,
-    "wof:lastmodified":1566672142,
-    "wof:name":"Caobu",
-    "wof:parent_id":890516323,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293436127,
+    "wof:lastmodified": 1768668401,
+    "wof:name": "Caobu",
+    "wof:parent_id": 1127442000,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.19507,
     22.63021,
     113.19507,
     22.63021
-],
-  "geometry": {"coordinates":[113.19507,22.63021],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.19507,
+      22.63021
+    ],
+    "type": "Point"
+  }
 }

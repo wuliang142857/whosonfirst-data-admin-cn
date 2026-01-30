@@ -2,75 +2,83 @@
   "id": 1226524835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.196,36.0758,104.196,36.0758",
-    "geom:latitude":36.0758,
-    "geom:longitude":104.196,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Kongzicha",
-    "gn:country_code":"CN",
-    "gn:dem":2044,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10753974,
-    "gn:latitude":36.0758,
-    "gn:longitude":104.196,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Kongzicha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.176,36.0558,104.216,36.0958",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b54\u5b50\u5c94"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.196,36.0758,104.196,36.0758",
+    "geom:latitude": 36.0758,
+    "geom:longitude": 104.196,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Kongzicha",
+    "gn:country_code": "CN",
+    "gn:dem": 2044,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10753974,
+    "gn:latitude": 36.0758,
+    "gn:longitude": 104.196,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Kongzicha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.176,36.0558,104.216,36.0958",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "孔子岔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890513013
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512027,
+      890513013
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10753974
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10753974
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9d2625d5201d9a93ae189befb6d01ee6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513013,
-            "empire_id":136253041,
-            "locality_id":1226524835,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9d2625d5201d9a93ae189befb6d01ee6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513013,
+        "empire_id": 136253041,
+        "locality_id": 1226524835,
+        "region_id": 85669711,
+        "localadmin_id": 890512027
+      }
     ],
-    "wof:id":1226524835,
-    "wof:lastmodified":1566704818,
-    "wof:name":"Kongzicha",
-    "wof:parent_id":890513013,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226524835,
+    "wof:lastmodified": 1768667404,
+    "wof:name": "Kongzicha",
+    "wof:parent_id": 890512027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.196,
     36.0758,
     104.196,
     36.0758
-],
-  "geometry": {"coordinates":[104.196,36.0758],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.196,
+      36.0758
+    ],
+    "type": "Point"
+  }
 }

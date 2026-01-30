@@ -2,78 +2,86 @@
   "id": 1343240965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.523,38.2907,116.523,38.2907",
-    "geom:latitude":38.2907,
-    "geom:longitude":116.523,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Jingcheng",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630801,
-    "gn:latitude":38.2907,
-    "gn:longitude":116.523,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Jingcheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.503,38.2707,116.543,38.3107",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Jingcheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.523,38.2907,116.523,38.2907",
+    "geom:latitude": 38.2907,
+    "geom:longitude": 116.523,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Jingcheng",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630801,
+    "gn:latitude": 38.2907,
+    "gn:longitude": 116.523,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Jingcheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.503,38.2707,116.543,38.3107",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Jingcheng"
     ],
-    "name:zho_x_preferred":[
-        "\u666f\u57ce"
+    "name:zho_x_preferred": [
+      "景城"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630801
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630801
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1648ed2b08fa1fd0d71a95f595e7a58c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1343240965,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1648ed2b08fa1fd0d71a95f595e7a58c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1343240965,
+        "region_id": 85669797,
+        "localadmin_id": 1127130921
+      }
     ],
-    "wof:id":1343240965,
-    "wof:lastmodified":1566659629,
-    "wof:name":"Jingcheng",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343240965,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Jingcheng",
+    "wof:parent_id": 1127130921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.523,
     38.2907,
     116.523,
     38.2907
-],
-  "geometry": {"coordinates":[116.523,38.2907],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.523,
+      38.2907
+    ],
+    "type": "Point"
+  }
 }

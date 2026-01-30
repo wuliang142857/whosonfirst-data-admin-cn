@@ -2,75 +2,83 @@
   "id": 1193252665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.85953,48.78044,118.85953,48.78044",
-    "geom:latitude":48.78044,
-    "geom:longitude":118.85953,
-    "gn:admin1_code":"20.0",
-    "gn:asciiname":"Qingnian Weidian",
-    "gn:country_code":"CN",
-    "gn:dem":663,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8456918,
-    "gn:latitude":48.78044,
-    "gn:longitude":118.85953,
-    "gn:modification_date":"2013-02-10",
-    "gn:name":"Qingnian Weidian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.83953,48.76044,118.87953,48.80044",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9752\u5e74\u82c7\u70b9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.85953,48.78044,118.85953,48.78044",
+    "geom:latitude": 48.78044,
+    "geom:longitude": 118.85953,
+    "gn:admin1_code": "20.0",
+    "gn:asciiname": "Qingnian Weidian",
+    "gn:country_code": "CN",
+    "gn:dem": 663,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8456918,
+    "gn:latitude": 48.78044,
+    "gn:longitude": 118.85953,
+    "gn:modification_date": "2013-02-10",
+    "gn:name": "Qingnian Weidian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.83953,48.76044,118.87953,48.80044",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "青年苇点"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        1108732385
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890514393,
+      1108732385
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8456918
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8456918
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e7cc361f9ff5907ba672cf6a00a5ffb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732385,
-            "empire_id":136253041,
-            "locality_id":1193252665,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e7cc361f9ff5907ba672cf6a00a5ffb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732385,
+        "empire_id": 136253041,
+        "locality_id": 1193252665,
+        "region_id": 85669847,
+        "localadmin_id": 890514393
+      }
     ],
-    "wof:id":1193252665,
-    "wof:lastmodified":1566685345,
-    "wof:name":"Qingnian Weidian",
-    "wof:parent_id":1108732385,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193252665,
+    "wof:lastmodified": 1768666531,
+    "wof:name": "Qingnian Weidian",
+    "wof:parent_id": 890514393,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.85953,
     48.78044000000001,
     118.85953,
     48.78044000000001
-],
-  "geometry": {"coordinates":[118.85953000000001,48.78044000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.85953,
+      48.78044000000001
+    ],
+    "type": "Point"
+  }
 }

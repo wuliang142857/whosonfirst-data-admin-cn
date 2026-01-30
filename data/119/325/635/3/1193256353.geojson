@@ -2,77 +2,85 @@
   "id": 1193256353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.0517,28.9121,112.0517,28.9121",
-    "geom:latitude":28.9121,
-    "geom:longitude":112.0517,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Zhouwenmiao",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1927896,
-    "gn:latitude":28.9121,
-    "gn:longitude":112.0517,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Zhouwenmiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.0317,28.8921,112.0717,28.9321",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5468\u6587\u5e99",
-        "Zhouwenmiao Xiang",
-        "\u5468\u6587\u5e99\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.0517,28.9121,112.0517,28.9121",
+    "geom:latitude": 28.9121,
+    "geom:longitude": 112.0517,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Zhouwenmiao",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1927896,
+    "gn:latitude": 28.9121,
+    "gn:longitude": 112.0517,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Zhouwenmiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.0317,28.8921,112.0717,28.9321",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "周文庙",
+      "Zhouwenmiao Xiang",
+      "周文庙乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515867,
+      1127430722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1927896
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1927896
     },
-    "wof:country":"CN",
-    "wof:geomhash":"61afe13b68802e76e18e2ff15d628202",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1193256353,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "61afe13b68802e76e18e2ff15d628202",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1193256353,
+        "region_id": 85669781,
+        "localadmin_id": 1127430722
+      }
     ],
-    "wof:id":1193256353,
-    "wof:lastmodified":1566685348,
-    "wof:name":"Zhouwenmiao",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193256353,
+    "wof:lastmodified": 1768670429,
+    "wof:name": "Zhouwenmiao",
+    "wof:parent_id": 1127430722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.0517,
     28.9121,
     112.0517,
     28.9121
-],
-  "geometry": {"coordinates":[112.0517,28.9121],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.0517,
+      28.9121
+    ],
+    "type": "Point"
+  }
 }

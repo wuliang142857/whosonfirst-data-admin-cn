@@ -2,78 +2,86 @@
   "id": 1327383319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.05135,33.49993,104.05135,33.49993",
-    "geom:latitude":33.49993,
-    "geom:longitude":104.05135,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Wan'ershan",
-    "gn:country_code":"CN",
-    "gn:dem":2613,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6958253,
-    "gn:latitude":33.49993,
-    "gn:longitude":104.05135,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Wan\u2019ershan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.03135,33.47993,104.07135,33.51993",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7897\u513f\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.05135,33.49993,104.05135,33.49993",
+    "geom:latitude": 33.49993,
+    "geom:longitude": 104.05135,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Wan'ershan",
+    "gn:country_code": "CN",
+    "gn:dem": 2613,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6958253,
+    "gn:latitude": 33.49993,
+    "gn:longitude": 104.05135,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Wan’ershan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.03135,33.47993,104.07135,33.51993",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "碗儿山"
     ],
-    "name:zho_x_variant":[
-        "Wan\u2019ershan"
+    "name:zho_x_variant": [
+      "Wan’ershan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108794065
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514143,
+      1108794065
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6958253
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6958253
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d29391a2eff4939099f35e97e4ce2176",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794065,
-            "empire_id":136253041,
-            "locality_id":1327383319,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d29391a2eff4939099f35e97e4ce2176",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794065,
+        "empire_id": 136253041,
+        "locality_id": 1327383319,
+        "region_id": 85669787,
+        "localadmin_id": 890514143
+      }
     ],
-    "wof:id":1327383319,
-    "wof:lastmodified":1566647320,
-    "wof:name":"Wan'ershan",
-    "wof:parent_id":1108794065,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327383319,
+    "wof:lastmodified": 1768668872,
+    "wof:name": "Wan'ershan",
+    "wof:parent_id": 890514143,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.05135,
     33.49993,
     104.05135,
     33.49993
-],
-  "geometry": {"coordinates":[104.05135,33.49993],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.05135,
+      33.49993
+    ],
+    "type": "Point"
+  }
 }

@@ -2,83 +2,91 @@
   "id": 1226109667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.923,37.268,119.923,37.268",
-    "geom:latitude":37.268,
-    "geom:longitude":119.923,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Zhuyou",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1906773,
-    "gn:latitude":37.268,
-    "gn:longitude":119.923,
-    "gn:modification_date":"2014-09-06",
-    "gn:name":"Zhuyou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.903,37.248,119.943,37.288",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chu-t\u2019ien-ts\u2019un",
-        "Zhuyou",
-        "Zhujiacun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.923,37.268,119.923,37.268",
+    "geom:latitude": 37.268,
+    "geom:longitude": 119.923,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Zhuyou",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1906773,
+    "gn:latitude": 37.268,
+    "gn:longitude": 119.923,
+    "gn:modification_date": "2014-09-06",
+    "gn:name": "Zhuyou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.903,37.248,119.943,37.288",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chu-t’ien-ts’un",
+      "Zhuyou",
+      "Zhujiacun"
     ],
-    "name:zho_x_preferred":[
-        "\u6731\u7531"
+    "name:zho_x_preferred": [
+      "朱由"
     ],
-    "name:zho_x_variant":[
-        "\u6731\u5bb6\u6751"
+    "name:zho_x_variant": [
+      "朱家村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890516301,
+      1127370683
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1906773
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1906773
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1ff0569f500a67a82c85da74bf4a8fef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1226109667,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1ff0569f500a67a82c85da74bf4a8fef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1226109667,
+        "region_id": 85669813,
+        "localadmin_id": 1127370683
+      }
     ],
-    "wof:id":1226109667,
-    "wof:lastmodified":1566701195,
-    "wof:name":"Zhuyou",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226109667,
+    "wof:lastmodified": 1768668015,
+    "wof:name": "Zhuyou",
+    "wof:parent_id": 1127370683,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.923,
     37.268,
     119.923,
     37.268
-],
-  "geometry": {"coordinates":[119.923,37.268],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.923,
+      37.268
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243509695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.3396,37.406,121.3396,37.406",
-    "geom:latitude":37.406,
-    "geom:longitude":121.3396,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Ximotang",
-    "gn:country_code":"CN",
-    "gn:dem":21,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8632124,
-    "gn:latitude":37.406,
-    "gn:longitude":121.3396,
-    "gn:modification_date":"2013-11-14",
-    "gn:name":"Ximotang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.3196,37.386,121.3596,37.426",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u964c\u5802"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.3396,37.406,121.3396,37.406",
+    "geom:latitude": 37.406,
+    "geom:longitude": 121.3396,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Ximotang",
+    "gn:country_code": "CN",
+    "gn:dem": 21,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8632124,
+    "gn:latitude": 37.406,
+    "gn:longitude": 121.3396,
+    "gn:modification_date": "2013-11-14",
+    "gn:name": "Ximotang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.3196,37.386,121.3596,37.426",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西陌堂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890516301,
+      1127370611
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8632124
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8632124
     },
-    "wof:country":"CN",
-    "wof:geomhash":"28d1c9e22a3b17317fde7ef3b5c7218c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1243509695,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "28d1c9e22a3b17317fde7ef3b5c7218c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1243509695,
+        "region_id": 85669813,
+        "localadmin_id": 1127370611
+      }
     ],
-    "wof:id":1243509695,
-    "wof:lastmodified":1566695900,
-    "wof:name":"Ximotang",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243509695,
+    "wof:lastmodified": 1768668015,
+    "wof:name": "Ximotang",
+    "wof:parent_id": 1127370611,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.3396,
     37.406,
     121.3396,
     37.406
-],
-  "geometry": {"coordinates":[121.3396,37.406],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.3396,
+      37.406
+    ],
+    "type": "Point"
+  }
 }

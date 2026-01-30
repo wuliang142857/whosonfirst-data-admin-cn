@@ -2,75 +2,83 @@
   "id": 1293209877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.27783,32.99362,116.27783,32.99362",
-    "geom:latitude":32.99362,
-    "geom:longitude":116.27783,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Yangzhuangcun",
-    "gn:country_code":"CN",
-    "gn:dem":28,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10415726,
-    "gn:latitude":32.99362,
-    "gn:longitude":116.27783,
-    "gn:modification_date":"2015-08-08",
-    "gn:name":"Yangzhuangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.25783,32.97362,116.29783,33.01362",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u5e84\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.27783,32.99362,116.27783,32.99362",
+    "geom:latitude": 32.99362,
+    "geom:longitude": 116.27783,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Yangzhuangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 28,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10415726,
+    "gn:latitude": 32.99362,
+    "gn:longitude": 116.27783,
+    "gn:modification_date": "2015-08-08",
+    "gn:name": "Yangzhuangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.25783,32.97362,116.29783,33.01362",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨庄村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890511943,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10415726
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10415726
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c7c74ae20c51faa9503a456590c00b63",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1293209877,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c7c74ae20c51faa9503a456590c00b63",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1293209877,
+        "region_id": 85669739,
+        "localadmin_id": 890511943
+      }
     ],
-    "wof:id":1293209877,
-    "wof:lastmodified":1566670487,
-    "wof:name":"Yangzhuangcun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293209877,
+    "wof:lastmodified": 1768669757,
+    "wof:name": "Yangzhuangcun",
+    "wof:parent_id": 890511943,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.27783,
     32.99362,
     116.27783,
     32.99362
-],
-  "geometry": {"coordinates":[116.27782999999999,32.99362],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.27783,
+      32.99362
+    ],
+    "type": "Point"
+  }
 }

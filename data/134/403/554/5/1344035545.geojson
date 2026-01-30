@@ -2,75 +2,83 @@
   "id": 1344035545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.05249,27.67716,110.05249,27.67716",
-    "geom:latitude":27.67716,
-    "geom:longitude":110.05249,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Chenjia",
-    "gn:country_code":"CN",
-    "gn:dem":363,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10367903,
-    "gn:latitude":27.67716,
-    "gn:longitude":110.05249,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Chenjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.03249,27.65716,110.07249,27.69716",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.05249,27.67716,110.05249,27.67716",
+    "geom:latitude": 27.67716,
+    "geom:longitude": 110.05249,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Chenjia",
+    "gn:country_code": "CN",
+    "gn:dem": 363,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10367903,
+    "gn:latitude": 27.67716,
+    "gn:longitude": 110.05249,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Chenjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.03249,27.65716,110.07249,27.69716",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514349
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514349,
+      1127431221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10367903
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10367903
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e1a04ca132133a201f348693447b04f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514349,
-            "empire_id":136253041,
-            "locality_id":1344035545,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e1a04ca132133a201f348693447b04f5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514349,
+        "empire_id": 136253041,
+        "locality_id": 1344035545,
+        "region_id": 85669781,
+        "localadmin_id": 1127431221
+      }
     ],
-    "wof:id":1344035545,
-    "wof:lastmodified":1566663303,
-    "wof:name":"Chenjia",
-    "wof:parent_id":890514349,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344035545,
+    "wof:lastmodified": 1768670355,
+    "wof:name": "Chenjia",
+    "wof:parent_id": 1127431221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.05249,
     27.67716,
     110.05249,
     27.67716
-],
-  "geometry": {"coordinates":[110.05249000000001,27.67716],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.05249,
+      27.67716
+    ],
+    "type": "Point"
+  }
 }

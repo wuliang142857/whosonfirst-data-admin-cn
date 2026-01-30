@@ -2,75 +2,83 @@
   "id": 1243072691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.921,34.9057,118.921,34.9057",
-    "geom:latitude":34.9057,
-    "geom:longitude":118.921,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Dagebu",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11112783,
-    "gn:latitude":34.9057,
-    "gn:longitude":118.921,
-    "gn:modification_date":"2016-04-12",
-    "gn:name":"Dagebu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.901,34.8857,118.941,34.9257",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u845b\u57e0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.921,34.9057,118.921,34.9057",
+    "geom:latitude": 34.9057,
+    "geom:longitude": 118.921,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Dagebu",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11112783,
+    "gn:latitude": 34.9057,
+    "gn:longitude": 118.921,
+    "gn:modification_date": "2016-04-12",
+    "gn:name": "Dagebu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.901,34.8857,118.941,34.9257",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大葛埠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514777,
+      1127320707
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11112783
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11112783
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ab8e0cd2e78d8c942d53ce1efc9749bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514777,
-            "empire_id":136253041,
-            "locality_id":1243072691,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ab8e0cd2e78d8c942d53ce1efc9749bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514777,
+        "empire_id": 136253041,
+        "locality_id": 1243072691,
+        "region_id": 85669827,
+        "localadmin_id": 1127320707
+      }
     ],
-    "wof:id":1243072691,
-    "wof:lastmodified":1566693827,
-    "wof:name":"Dagebu",
-    "wof:parent_id":890514777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243072691,
+    "wof:lastmodified": 1768670858,
+    "wof:name": "Dagebu",
+    "wof:parent_id": 1127320707,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.921,
     34.9057,
     118.921,
     34.9057
-],
-  "geometry": {"coordinates":[118.92100000000001,34.9057],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.921,
+      34.9057
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1242979247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.89668,27.36845,119.89668,27.36845",
-    "geom:latitude":27.36845,
-    "geom:longitude":119.89668,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Shiyang",
-    "gn:country_code":"CN",
-    "gn:dem":298,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1794900,
-    "gn:latitude":27.36845,
-    "gn:longitude":119.89668,
-    "gn:modification_date":"2012-08-04",
-    "gn:name":"Shiyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.87668,27.34845,119.91668,27.38845",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shih-yang",
-        "\u4ed5\u9633",
-        "Shiyang",
-        "Shiyang Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.89668,27.36845,119.89668,27.36845",
+    "geom:latitude": 27.36845,
+    "geom:longitude": 119.89668,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Shiyang",
+    "gn:country_code": "CN",
+    "gn:dem": 298,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1794900,
+    "gn:latitude": 27.36845,
+    "gn:longitude": 119.89668,
+    "gn:modification_date": "2012-08-04",
+    "gn:name": "Shiyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.87668,27.34845,119.91668,27.38845",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shih-yang",
+      "仕阳",
+      "Shiyang",
+      "Shiyang Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u4ed5\u9633\u9547"
+    "name:zho_x_preferred": [
+      "仕阳镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514289
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514289,
+      1127330329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1794900
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1794900
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4057c60f405f71d5f5c54fe8b9fbf010",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514289,
-            "empire_id":136253041,
-            "locality_id":1242979247,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4057c60f405f71d5f5c54fe8b9fbf010",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514289,
+        "empire_id": 136253041,
+        "locality_id": 1242979247,
+        "region_id": 85669835,
+        "localadmin_id": 1127330329
+      }
     ],
-    "wof:id":1242979247,
-    "wof:lastmodified":1566697169,
-    "wof:name":"Shiyang",
-    "wof:parent_id":890514289,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242979247,
+    "wof:lastmodified": 1768669613,
+    "wof:name": "Shiyang",
+    "wof:parent_id": 1127330329,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.89668,
     27.36845,
     119.89668,
     27.36845
-],
-  "geometry": {"coordinates":[119.89668,27.36845],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.89668,
+      27.36845
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243253155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.37594,33.44999,114.37594,33.44999",
-    "geom:latitude":33.44999,
-    "geom:longitude":114.37594,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Shuanghezhai",
-    "gn:country_code":"CN",
-    "gn:dem":53,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10425612,
-    "gn:latitude":33.44999,
-    "gn:longitude":114.37594,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Shuanghezhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.35594,33.42999,114.39594,33.46999",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53cc\u6cb3\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.37594,33.44999,114.37594,33.44999",
+    "geom:latitude": 33.44999,
+    "geom:longitude": 114.37594,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Shuanghezhai",
+    "gn:country_code": "CN",
+    "gn:dem": 53,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10425612,
+    "gn:latitude": 33.44999,
+    "gn:longitude": 114.37594,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Shuanghezhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.35594,33.42999,114.39594,33.46999",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "双河寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514843
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514843,
+      1127411722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10425612
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10425612
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2d82910b9f7d8f1c8e9496233e7eb528",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514843,
-            "empire_id":136253041,
-            "locality_id":1243253155,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2d82910b9f7d8f1c8e9496233e7eb528",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514843,
+        "empire_id": 136253041,
+        "locality_id": 1243253155,
+        "region_id": 85669801,
+        "localadmin_id": 1127411722
+      }
     ],
-    "wof:id":1243253155,
-    "wof:lastmodified":1566695827,
-    "wof:name":"Shuanghezhai",
-    "wof:parent_id":890514843,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243253155,
+    "wof:lastmodified": 1768669304,
+    "wof:name": "Shuanghezhai",
+    "wof:parent_id": 1127411722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.37594,
     33.44999,
     114.37594,
     33.44999
-],
-  "geometry": {"coordinates":[114.37594,33.44999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.37594,
+      33.44999
+    ],
+    "type": "Point"
+  }
 }

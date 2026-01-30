@@ -2,75 +2,83 @@
   "id": 1193236799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.0111,39.68114,116.0111,39.68114",
-    "geom:latitude":39.68114,
-    "geom:longitude":116.0111,
-    "gn:admin1_code":"22.0",
-    "gn:asciiname":"Tiangezhuangcun",
-    "gn:country_code":"CN",
-    "gn:dem":39,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10312887,
-    "gn:latitude":39.68114,
-    "gn:longitude":116.0111,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Tiangezhuangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.9911,39.66114,116.0311,39.70114",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7530\u5404\u5e84\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.0111,39.68114,116.0111,39.68114",
+    "geom:latitude": 39.68114,
+    "geom:longitude": 116.0111,
+    "gn:admin1_code": "22.0",
+    "gn:asciiname": "Tiangezhuangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 39,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10312887,
+    "gn:latitude": 39.68114,
+    "gn:longitude": 116.0111,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Tiangezhuangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.9911,39.66114,116.0311,39.70114",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "田各庄村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669727,
-        102191569,
-        85632695,
-        136253041,
-        1108732371
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669727,
+      102191569,
+      136253041,
+      890514363,
+      1108732371
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10312887
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10312887
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6433116424c8696839e70e68769b45f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732371,
-            "empire_id":136253041,
-            "locality_id":1193236799,
-            "region_id":85669727
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6433116424c8696839e70e68769b45f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732371,
+        "empire_id": 136253041,
+        "locality_id": 1193236799,
+        "region_id": 85669727,
+        "localadmin_id": 890514363
+      }
     ],
-    "wof:id":1193236799,
-    "wof:lastmodified":1566685053,
-    "wof:name":"Tiangezhuangcun",
-    "wof:parent_id":1108732371,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193236799,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Tiangezhuangcun",
+    "wof:parent_id": 890514363,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.0111,
     39.68114,
     116.0111,
     39.68114
-],
-  "geometry": {"coordinates":[116.0111,39.68114],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.0111,
+      39.68114
+    ],
+    "type": "Point"
+  }
 }

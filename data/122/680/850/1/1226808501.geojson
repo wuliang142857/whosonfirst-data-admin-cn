@@ -2,75 +2,83 @@
   "id": 1226808501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.171,29.9802,105.171,29.9802",
-    "geom:latitude":29.9802,
-    "geom:longitude":105.171,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Liangshui",
-    "gn:country_code":"CN",
-    "gn:dem":397,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186107,
-    "gn:latitude":29.9802,
-    "gn:longitude":105.171,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Liangshui",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.151,29.9602,105.191,30.0002",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u51c9\u6c34"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.171,29.9802,105.171,29.9802",
+    "geom:latitude": 29.9802,
+    "geom:longitude": 105.171,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Liangshui",
+    "gn:country_code": "CN",
+    "gn:dem": 397,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186107,
+    "gn:latitude": 29.9802,
+    "gn:longitude": 105.171,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Liangshui",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.151,29.9602,105.191,30.0002",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "凉水"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186107
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186107
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aecde698552d8873bd2ee9ae3e5a131f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1226808501,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aecde698552d8873bd2ee9ae3e5a131f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1226808501,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1226808501,
-    "wof:lastmodified":1566701500,
-    "wof:name":"Liangshui",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226808501,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Liangshui",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.171,
     29.9802,
     105.171,
     29.9802
-],
-  "geometry": {"coordinates":[105.17100000000001,29.9802],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.171,
+      29.9802
+    ],
+    "type": "Point"
+  }
 }

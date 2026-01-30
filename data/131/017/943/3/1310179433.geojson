@@ -2,75 +2,83 @@
   "id": 1310179433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.65638,39.86645,111.65638,39.86645",
-    "geom:latitude":39.86645,
-    "geom:longitude":111.65638,
-    "gn:admin1_code":"20.0",
-    "gn:asciiname":"Linjiashan",
-    "gn:country_code":"CN",
-    "gn:dem":1459,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8417289,
-    "gn:latitude":39.86645,
-    "gn:longitude":111.65638,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Linjiashan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.63638,39.84645,111.67638,39.88645",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u853a\u5bb6\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.65638,39.86645,111.65638,39.86645",
+    "geom:latitude": 39.86645,
+    "geom:longitude": 111.65638,
+    "gn:admin1_code": "20.0",
+    "gn:asciiname": "Linjiashan",
+    "gn:country_code": "CN",
+    "gn:dem": 1459,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8417289,
+    "gn:latitude": 39.86645,
+    "gn:longitude": 111.65638,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Linjiashan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.63638,39.84645,111.67638,39.88645",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "蔺家山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        890513779
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890513779,
+      1127150124
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8417289
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8417289
     },
-    "wof:country":"CN",
-    "wof:geomhash":"47bf6975ea73e14b49e6fee4e07cebb6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513779,
-            "empire_id":136253041,
-            "locality_id":1310179433,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "47bf6975ea73e14b49e6fee4e07cebb6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513779,
+        "empire_id": 136253041,
+        "locality_id": 1310179433,
+        "region_id": 85669847,
+        "localadmin_id": 1127150124
+      }
     ],
-    "wof:id":1310179433,
-    "wof:lastmodified":1566690088,
-    "wof:name":"Linjiashan",
-    "wof:parent_id":890513779,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310179433,
+    "wof:lastmodified": 1768667028,
+    "wof:name": "Linjiashan",
+    "wof:parent_id": 1127150124,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.65638,
     39.86645,
     111.65638,
     39.86645
-],
-  "geometry": {"coordinates":[111.65638,39.86645],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.65638,
+      39.86645
+    ],
+    "type": "Point"
+  }
 }

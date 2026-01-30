@@ -2,84 +2,92 @@
   "id": 1226705435,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.618,37.136,118.618,37.136",
-    "geom:latitude":37.136,
-    "geom:longitude":118.618,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Wuzi",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9123904,
-    "gn:latitude":37.136,
-    "gn:longitude":118.618,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Wuzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.598,37.116,118.638,37.156",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:heb_x_preferred":[
-        "\u05d5\u05d5 \u05d3\u05d6\u05d4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.618,37.136,118.618,37.136",
+    "geom:latitude": 37.136,
+    "geom:longitude": 118.618,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Wuzi",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9123904,
+    "gn:latitude": 37.136,
+    "gn:longitude": 118.618,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Wuzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.598,37.116,118.638,37.156",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:heb_x_preferred": [
+      "וו דזה"
     ],
-    "name:hun_x_preferred":[
-        "Vu-ce"
+    "name:hun_x_preferred": [
+      "Vu-ce"
     ],
-    "name:kor_x_preferred":[
-        "\uc624\uc790\ubcd1\ubc95"
+    "name:kor_x_preferred": [
+      "오자병법"
     ],
-    "name:zho_x_preferred":[
-        "\u5c4b\u5b50"
+    "name:zho_x_preferred": [
+      "屋子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514773
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514183,
+      890514773
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9123904
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9123904
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b39054f046cec4631f5569a0459fdfd4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514773,
-            "empire_id":136253041,
-            "locality_id":1226705435,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b39054f046cec4631f5569a0459fdfd4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514773,
+        "empire_id": 136253041,
+        "locality_id": 1226705435,
+        "region_id": 85669813,
+        "localadmin_id": 890514183
+      }
     ],
-    "wof:id":1226705435,
-    "wof:lastmodified":1566704668,
-    "wof:name":"Wuzi",
-    "wof:parent_id":890514773,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226705435,
+    "wof:lastmodified": 1768667980,
+    "wof:name": "Wuzi",
+    "wof:parent_id": 890514183,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.618,
     37.136,
     118.618,
     37.136
-],
-  "geometry": {"coordinates":[118.61799999999999,37.136],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.618,
+      37.136
+    ],
+    "type": "Point"
+  }
 }

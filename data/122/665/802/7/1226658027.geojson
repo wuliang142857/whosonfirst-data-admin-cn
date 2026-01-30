@@ -2,78 +2,86 @@
   "id": 1226658027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.54389,30.77972,119.54389,30.77972",
-    "geom:latitude":30.77972,
-    "geom:longitude":119.54389,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Zhangwu",
-    "gn:country_code":"CN",
-    "gn:dem":68,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1785055,
-    "gn:latitude":30.77972,
-    "gn:longitude":119.54389,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Zhangwu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.52389,30.75972,119.56389,30.79972",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chang-wu-ts\u2019un",
-        "Chang-wu",
-        "Zhangwu",
-        "\u9123\u5434"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.54389,30.77972,119.54389,30.77972",
+    "geom:latitude": 30.77972,
+    "geom:longitude": 119.54389,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Zhangwu",
+    "gn:country_code": "CN",
+    "gn:dem": 68,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1785055,
+    "gn:latitude": 30.77972,
+    "gn:longitude": 119.54389,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Zhangwu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.52389,30.75972,119.56389,30.79972",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chang-wu-ts’un",
+      "Chang-wu",
+      "Zhangwu",
+      "鄣吴"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515259,
+      890516975
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1785055
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1785055
     },
-    "wof:country":"CN",
-    "wof:geomhash":"816a271df5bb842d7ed9a46417a739af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1226658027,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "816a271df5bb842d7ed9a46417a739af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1226658027,
+        "region_id": 85669835,
+        "localadmin_id": 890515259
+      }
     ],
-    "wof:id":1226658027,
-    "wof:lastmodified":1566705345,
-    "wof:name":"Zhangwu",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226658027,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Zhangwu",
+    "wof:parent_id": 890515259,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.54389,
     30.77972,
     119.54389,
     30.77972
-],
-  "geometry": {"coordinates":[119.54389,30.77972],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.54389,
+      30.77972
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1293671653,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.129,35.1305,106.129,35.1305",
-    "geom:latitude":35.1305,
-    "geom:longitude":106.129,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Zhongqu",
-    "gn:country_code":"CN",
-    "gn:dem":1861,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10740756,
-    "gn:latitude":35.1305,
-    "gn:longitude":106.129,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Zhongqu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.109,35.1105,106.149,35.1505",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u6e20"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.129,35.1305,106.129,35.1305",
+    "geom:latitude": 35.1305,
+    "geom:longitude": 106.129,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Zhongqu",
+    "gn:country_code": "CN",
+    "gn:dem": 1861,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10740756,
+    "gn:latitude": 35.1305,
+    "gn:longitude": 106.129,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Zhongqu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.109,35.1105,106.149,35.1505",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中渠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10740756
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10740756
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ff51ba6fd3acd7c3a769ede40abe8d6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1293671653,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ff51ba6fd3acd7c3a769ede40abe8d6b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1293671653,
+        "region_id": 85669711,
+        "localadmin_id": 1127620525
+      }
     ],
-    "wof:id":1293671653,
-    "wof:lastmodified":1566669485,
-    "wof:name":"Zhongqu",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293671653,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Zhongqu",
+    "wof:parent_id": 1127620525,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.129,
     35.1305,
     106.129,
     35.1305
-],
-  "geometry": {"coordinates":[106.129,35.1305],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.129,
+      35.1305
+    ],
+    "type": "Point"
+  }
 }

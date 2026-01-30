@@ -2,82 +2,90 @@
   "id": 1343415695,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.72056,37.4575,110.72056,37.4575",
-    "geom:latitude":37.4575,
-    "geom:longitude":110.72056,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Songjiachuan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":772,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1794038,
-    "gn:latitude":37.4575,
-    "gn:longitude":110.72056,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Songjiachuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.70056,37.4375,110.74056,37.4775",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wubu",
-        "Sung-chia",
-        "Wu-pao",
-        "Sung-chia-ch\u2019uan",
-        "Wu-pu",
-        "Wu-pao-hsien",
-        "Songjiachuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.72056,37.4575,110.72056,37.4575",
+    "geom:latitude": 37.4575,
+    "geom:longitude": 110.72056,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Songjiachuan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 772,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1794038,
+    "gn:latitude": 37.4575,
+    "gn:longitude": 110.72056,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Songjiachuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.70056,37.4375,110.74056,37.4775",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wubu",
+      "Sung-chia",
+      "Wu-pao",
+      "Sung-chia-ch’uan",
+      "Wu-pu",
+      "Wu-pao-hsien",
+      "Songjiachuan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515097
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515097,
+      1127610829
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1794038
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1794038
     },
-    "wof:country":"CN",
-    "wof:geomhash":"490fc70c5d560f0728237b600b279a71",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515097,
-            "empire_id":136253041,
-            "locality_id":1343415695,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "490fc70c5d560f0728237b600b279a71",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515097,
+        "empire_id": 136253041,
+        "locality_id": 1343415695,
+        "region_id": 85669769,
+        "localadmin_id": 1127610829
+      }
     ],
-    "wof:id":1343415695,
-    "wof:lastmodified":1566659096,
-    "wof:name":"Songjiachuan",
-    "wof:parent_id":890515097,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343415695,
+    "wof:lastmodified": 1768667149,
+    "wof:name": "Songjiachuan",
+    "wof:parent_id": 1127610829,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.72056,
     37.4575,
     110.72056,
     37.4575
-],
-  "geometry": {"coordinates":[110.72056000000001,37.4575],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.72056,
+      37.4575
+    ],
+    "type": "Point"
+  }
 }

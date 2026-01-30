@@ -2,75 +2,83 @@
   "id": 1226724603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.493,41.3718,122.493,41.3718",
-    "geom:latitude":41.3718,
-    "geom:longitude":122.493,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Beisidao",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11517520,
-    "gn:latitude":41.3718,
-    "gn:longitude":122.493,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Beisidao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.473,41.3518,122.513,41.3918",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5317\u56db\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.493,41.3718,122.493,41.3718",
+    "geom:latitude": 41.3718,
+    "geom:longitude": 122.493,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Beisidao",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11517520,
+    "gn:latitude": 41.3718,
+    "gn:longitude": 122.493,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Beisidao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.473,41.3518,122.513,41.3918",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "北四道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514231
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514231,
+      1127210321
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11517520
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11517520
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3a84fbbb70cc24253115963128e23582",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514231,
-            "empire_id":136253041,
-            "locality_id":1226724603,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3a84fbbb70cc24253115963128e23582",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514231,
+        "empire_id": 136253041,
+        "locality_id": 1226724603,
+        "region_id": 85669807,
+        "localadmin_id": 1127210321
+      }
     ],
-    "wof:id":1226724603,
-    "wof:lastmodified":1566700940,
-    "wof:name":"Beisidao",
-    "wof:parent_id":890514231,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226724603,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Beisidao",
+    "wof:parent_id": 1127210321,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.493,
     41.3718,
     122.493,
     41.3718
-],
-  "geometry": {"coordinates":[122.49299999999999,41.3718],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.493,
+      41.3718
+    ],
+    "type": "Point"
+  }
 }

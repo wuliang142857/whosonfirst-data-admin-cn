@@ -2,75 +2,83 @@
   "id": 1242853213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.715,38.0505,116.715,38.0505",
-    "geom:latitude":38.0505,
-    "geom:longitude":116.715,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Diguantun",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9631471,
-    "gn:latitude":38.0505,
-    "gn:longitude":116.715,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Diguantun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.695,38.0305,116.735,38.0705",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7fdf\u5b98\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.715,38.0505,116.715,38.0505",
+    "geom:latitude": 38.0505,
+    "geom:longitude": 116.715,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Diguantun",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9631471,
+    "gn:latitude": 38.0505,
+    "gn:longitude": 116.715,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Diguantun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.695,38.0305,116.735,38.0705",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "翟官屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130927
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9631471
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9631471
     },
-    "wof:country":"CN",
-    "wof:geomhash":"31096dbbad9ef2f7aa4b2c64ca1373cd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1242853213,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "31096dbbad9ef2f7aa4b2c64ca1373cd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1242853213,
+        "region_id": 85669797,
+        "localadmin_id": 1127130927
+      }
     ],
-    "wof:id":1242853213,
-    "wof:lastmodified":1566696905,
-    "wof:name":"Diguantun",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242853213,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Diguantun",
+    "wof:parent_id": 1127130927,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.715,
     38.0505,
     116.715,
     38.0505
-],
-  "geometry": {"coordinates":[116.715,38.0505],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.715,
+      38.0505
+    ],
+    "type": "Point"
+  }
 }

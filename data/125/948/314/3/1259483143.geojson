@@ -2,75 +2,83 @@
   "id": 1259483143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.326,33.0471,120.326,33.0471",
-    "geom:latitude":33.0471,
-    "geom:longitude":120.326,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Minyao",
-    "gn:country_code":"CN",
-    "gn:dem":1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11120168,
-    "gn:latitude":33.0471,
-    "gn:longitude":120.326,
-    "gn:modification_date":"2016-04-12",
-    "gn:name":"Minyao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.306,33.0271,120.346,33.0671",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c11\u7a91"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.326,33.0471,120.326,33.0471",
+    "geom:latitude": 33.0471,
+    "geom:longitude": 120.326,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Minyao",
+    "gn:country_code": "CN",
+    "gn:dem": 1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11120168,
+    "gn:latitude": 33.0471,
+    "gn:longitude": 120.326,
+    "gn:modification_date": "2016-04-12",
+    "gn:name": "Minyao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.306,33.0271,120.346,33.0671",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "民窑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515153
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515153,
+      1127320904
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11120168
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11120168
     },
-    "wof:country":"CN",
-    "wof:geomhash":"50b0dd0c75e05aa39dcdaeeca192a2ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515153,
-            "empire_id":136253041,
-            "locality_id":1259483143,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "50b0dd0c75e05aa39dcdaeeca192a2ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515153,
+        "empire_id": 136253041,
+        "locality_id": 1259483143,
+        "region_id": 85669827,
+        "localadmin_id": 1127320904
+      }
     ],
-    "wof:id":1259483143,
-    "wof:lastmodified":1566698688,
-    "wof:name":"Minyao",
-    "wof:parent_id":890515153,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259483143,
+    "wof:lastmodified": 1768670804,
+    "wof:name": "Minyao",
+    "wof:parent_id": 1127320904,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.326,
     33.0471,
     120.326,
     33.0471
-],
-  "geometry": {"coordinates":[120.32599999999999,33.0471],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.326,
+      33.0471
+    ],
+    "type": "Point"
+  }
 }

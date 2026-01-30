@@ -2,78 +2,86 @@
   "id": 890515545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.184452,38.48296,106.184452,38.48296",
-    "geom:latitude":38.48296,
-    "geom:longitude":106.184452,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"106.164452,38.46296,106.204452,38.50296",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Xincheng"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.184452,38.48296,106.184452,38.48296",
+    "geom:latitude": 38.48296,
+    "geom:longitude": 106.184452,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "106.164452,38.46296,106.204452,38.50296",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Xincheng"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u57ce"
+    "name:zho_x_preferred": [
+      "新城"
     ],
-    "qs:name":"\u65b0\u57ce",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5b81\u590f\u56de\u65cf\u81ea\u6cbb\u533a",
-    "qs:photos":37,
-    "qs:photos_1k":7,
-    "qs:photos_9k":1,
-    "qs:photos_9r":2,
-    "qs:photos_all":37,
-    "qs:photos_sr":2,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        1108732517,
-        136253041,
-        85669763
+    "qs:name": "新城",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "宁夏回族自治区",
+    "qs:photos": 37,
+    "qs:photos_1k": 7,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 2,
+    "qs:photos_all": 37,
+    "qs:photos_sr": 2,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890512735,
+      1108732517
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2150564,
-        "qs_pg:id":1129830
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2150564,
+      "qs_pg:id": 1129830
     },
-    "wof:country":"CN",
-    "wof:created":1469055911,
-    "wof:geomhash":"16134a74c9109238ec932808ef908aa9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732517,
-            "empire_id":136253041,
-            "locality_id":890515545,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055911,
+    "wof:geomhash": "16134a74c9109238ec932808ef908aa9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732517,
+        "empire_id": 136253041,
+        "locality_id": 890515545,
+        "region_id": 85669763,
+        "localadmin_id": 890512735
+      }
     ],
-    "wof:id":890515545,
-    "wof:lastmodified":1601423067,
-    "wof:name":"Xincheng",
-    "wof:parent_id":1108732517,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515545,
+    "wof:lastmodified": 1768667533,
+    "wof:name": "Xincheng",
+    "wof:parent_id": 890512735,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.184452,
     38.48296,
     106.184452,
     38.48296
-],
-  "geometry": {"coordinates":[106.18445199999999,38.48296],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.184452,
+      38.48296
+    ],
+    "type": "Point"
+  }
 }

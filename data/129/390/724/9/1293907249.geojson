@@ -2,81 +2,89 @@
   "id": 1293907249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.07092,31.54529,120.07092,31.54529",
-    "geom:latitude":31.54529,
-    "geom:longitude":120.07092,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Zhouqiaocun",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1881195,
-    "gn:latitude":31.54529,
-    "gn:longitude":120.07092,
-    "gn:modification_date":"2017-08-02",
-    "gn:name":"Zhouqiaocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.05092,31.52529,120.09092,31.56529",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhouqiao",
-        "\u5468\u6865",
-        "Chou-ch\u2019iao-chen",
-        "Zhouqiaocun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.07092,31.54529,120.07092,31.54529",
+    "geom:latitude": 31.54529,
+    "geom:longitude": 120.07092,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Zhouqiaocun",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1881195,
+    "gn:latitude": 31.54529,
+    "gn:longitude": 120.07092,
+    "gn:modification_date": "2017-08-02",
+    "gn:name": "Zhouqiaocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.05092,31.52529,120.09092,31.56529",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhouqiao",
+      "周桥",
+      "Chou-ch’iao-chen",
+      "Zhouqiaocun"
     ],
-    "name:zho_x_preferred":[
-        "\u5468\u6865\u6751"
+    "name:zho_x_preferred": [
+      "周桥村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514735,
+      890516731
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1881195
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1881195
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cf823c7c5c2c7092d8931918aec60ac1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514735,
-            "empire_id":136253041,
-            "locality_id":1293907249,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cf823c7c5c2c7092d8931918aec60ac1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514735,
+        "empire_id": 136253041,
+        "locality_id": 1293907249,
+        "region_id": 85669827,
+        "localadmin_id": 890516731
+      }
     ],
-    "wof:id":1293907249,
-    "wof:lastmodified":1566666975,
-    "wof:name":"Zhouqiaocun",
-    "wof:parent_id":890514735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293907249,
+    "wof:lastmodified": 1768671039,
+    "wof:name": "Zhouqiaocun",
+    "wof:parent_id": 890516731,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.07092,
     31.54529,
     120.07092,
     31.54529
-],
-  "geometry": {"coordinates":[120.07092,31.54529],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.07092,
+      31.54529
+    ],
+    "type": "Point"
+  }
 }

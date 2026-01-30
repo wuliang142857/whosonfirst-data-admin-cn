@@ -2,78 +2,86 @@
   "id": 1293355857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.688,42.7771,123.688,42.7771",
-    "geom:latitude":42.7771,
-    "geom:longitude":123.688,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Beiping'anbu",
-    "gn:country_code":"CN",
-    "gn:dem":100,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11485760,
-    "gn:latitude":42.7771,
-    "gn:longitude":123.688,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Beiping\u2019anbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.668,42.7571,123.708,42.7971",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Beiping\u2019anbu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.688,42.7771,123.688,42.7771",
+    "geom:latitude": 42.7771,
+    "geom:longitude": 123.688,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Beiping'anbu",
+    "gn:country_code": "CN",
+    "gn:dem": 100,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11485760,
+    "gn:latitude": 42.7771,
+    "gn:longitude": 123.688,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Beiping’anbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.668,42.7571,123.708,42.7971",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Beiping’anbu"
     ],
-    "name:zho_x_preferred":[
-        "\u5317\u5e73\u5b89\u5821"
+    "name:zho_x_preferred": [
+      "北平安堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890512563,
+      890514741
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11485760
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11485760
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ec9249f7e99ae6ec9d08c7e4d61709a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1293355857,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ec9249f7e99ae6ec9d08c7e4d61709a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1293355857,
+        "region_id": 85669807,
+        "localadmin_id": 890512563
+      }
     ],
-    "wof:id":1293355857,
-    "wof:lastmodified":1566669211,
-    "wof:name":"Beiping'anbu",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293355857,
+    "wof:lastmodified": 1768666118,
+    "wof:name": "Beiping'anbu",
+    "wof:parent_id": 890512563,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.688,
     42.7771,
     123.688,
     42.7771
-],
-  "geometry": {"coordinates":[123.688,42.7771],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.688,
+      42.7771
+    ],
+    "type": "Point"
+  }
 }

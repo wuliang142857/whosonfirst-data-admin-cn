@@ -2,75 +2,83 @@
   "id": 1344003535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.258,28.4059,105.258,28.4059",
-    "geom:latitude":28.4059,
-    "geom:longitude":105.258,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shangcun",
-    "gn:country_code":"CN",
-    "gn:dem":471,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183596,
-    "gn:latitude":28.4059,
-    "gn:longitude":105.258,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shangcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.238,28.3859,105.278,28.4259",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.258,28.4059,105.258,28.4059",
+    "geom:latitude": 28.4059,
+    "geom:longitude": 105.258,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shangcun",
+    "gn:country_code": "CN",
+    "gn:dem": 471,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183596,
+    "gn:latitude": 28.4059,
+    "gn:longitude": 105.258,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shangcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.238,28.3859,105.278,28.4259",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516537,
+      1127511528
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183596
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183596
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e6096e47c2de1d2ed8f2ed612a4f09ea",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1344003535,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e6096e47c2de1d2ed8f2ed612a4f09ea",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1344003535,
+        "region_id": 85669787,
+        "localadmin_id": 1127511528
+      }
     ],
-    "wof:id":1344003535,
-    "wof:lastmodified":1566658864,
-    "wof:name":"Shangcun",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344003535,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Shangcun",
+    "wof:parent_id": 1127511528,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.258,
     28.4059,
     105.258,
     28.4059
-],
-  "geometry": {"coordinates":[105.258,28.4059],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.258,
+      28.4059
+    ],
+    "type": "Point"
+  }
 }

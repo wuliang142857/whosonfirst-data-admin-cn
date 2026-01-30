@@ -2,75 +2,83 @@
   "id": 1343308855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.3116,22.436,99.3116,22.436",
-    "geom:latitude":22.436,
-    "geom:longitude":99.3116,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Mokou",
-    "gn:country_code":"CN",
-    "gn:dem":643,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9914451,
-    "gn:latitude":22.436,
-    "gn:longitude":99.3116,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Mokou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Yangon",
-    "iso:country":"CN",
-    "lbl:bbox":"99.2916,22.416,99.3316,22.456",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u83ab\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.3116,22.436,99.3116,22.436",
+    "geom:latitude": 22.436,
+    "geom:longitude": 99.3116,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Mokou",
+    "gn:country_code": "CN",
+    "gn:dem": 643,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9914451,
+    "gn:latitude": 22.436,
+    "gn:longitude": 99.3116,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Mokou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Yangon",
+    "iso:country": "CN",
+    "lbl:bbox": "99.2916,22.416,99.3316,22.456",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "莫口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514995
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514995,
+      1127530827
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9914451
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9914451
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c2034816b79f08be044004438924e58a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514995,
-            "empire_id":136253041,
-            "locality_id":1343308855,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c2034816b79f08be044004438924e58a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514995,
+        "empire_id": 136253041,
+        "locality_id": 1343308855,
+        "region_id": 85669791,
+        "localadmin_id": 1127530827
+      }
     ],
-    "wof:id":1343308855,
-    "wof:lastmodified":1566656966,
-    "wof:name":"Mokou",
-    "wof:parent_id":890514995,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343308855,
+    "wof:lastmodified": 1768668375,
+    "wof:name": "Mokou",
+    "wof:parent_id": 1127530827,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.3116,
     22.436,
     99.3116,
     22.436
-],
-  "geometry": {"coordinates":[99.3116,22.436],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.3116,
+      22.436
+    ],
+    "type": "Point"
+  }
 }

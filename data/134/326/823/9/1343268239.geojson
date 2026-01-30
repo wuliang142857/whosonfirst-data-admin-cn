@@ -2,76 +2,84 @@
   "id": 1343268239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.13167,27.46978,116.13167,27.46978",
-    "geom:latitude":27.46978,
-    "geom:longitude":116.13167,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"An'erli",
-    "gn:country_code":"CN",
-    "gn:dem":261,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7738989,
-    "gn:latitude":27.46978,
-    "gn:longitude":116.13167,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"An\u2019erli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.11167,27.44978,116.15167,27.48978",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "An\u2019erli",
-        "\u5eb5\u5c14\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.13167,27.46978,116.13167,27.46978",
+    "geom:latitude": 27.46978,
+    "geom:longitude": 116.13167,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "An'erli",
+    "gn:country_code": "CN",
+    "gn:dem": 261,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7738989,
+    "gn:latitude": 27.46978,
+    "gn:longitude": 116.13167,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "An’erli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.11167,27.44978,116.15167,27.48978",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "An’erli",
+      "庵尔里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516617
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516617,
+      1127361026
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7738989
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7738989
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bcc01db332e9f8bb2096441734cdc576",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516617,
-            "empire_id":136253041,
-            "locality_id":1343268239,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bcc01db332e9f8bb2096441734cdc576",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516617,
+        "empire_id": 136253041,
+        "locality_id": 1343268239,
+        "region_id": 85669823,
+        "localadmin_id": 1127361026
+      }
     ],
-    "wof:id":1343268239,
-    "wof:lastmodified":1566664251,
-    "wof:name":"An'erli",
-    "wof:parent_id":890516617,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343268239,
+    "wof:lastmodified": 1768669902,
+    "wof:name": "An'erli",
+    "wof:parent_id": 1127361026,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.13167,
     27.46978,
     116.13167,
     27.46978
-],
-  "geometry": {"coordinates":[116.13167,27.46978],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.13167,
+      27.46978
+    ],
+    "type": "Point"
+  }
 }

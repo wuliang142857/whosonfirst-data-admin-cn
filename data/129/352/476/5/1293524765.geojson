@@ -2,76 +2,84 @@
   "id": 1293524765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.39555,18.71554,110.39555,18.71554",
-    "geom:latitude":18.71554,
-    "geom:longitude":110.39555,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Dong'ao",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1812681,
-    "gn:latitude":18.71554,
-    "gn:longitude":110.39555,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Dong\u2019ao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.37555,18.69554,110.41555,18.73554",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Dong\u2019ao",
-        "\u4e1c\u6fb3",
-        "Dong\u2019ao Zhen",
-        "\u4e1c\u6fb3\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.39555,18.71554,110.39555,18.71554",
+    "geom:latitude": 18.71554,
+    "geom:longitude": 110.39555,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Dong'ao",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1812681,
+    "gn:latitude": 18.71554,
+    "gn:longitude": 110.39555,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Dong’ao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.37555,18.69554,110.41555,18.73554",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Dong’ao",
+      "东澳",
+      "Dong’ao Zhen",
+      "东澳镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732331
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890513893,
+      1108732331
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1812681
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1812681
     },
-    "wof:country":"CN",
-    "wof:geomhash":"66e90d14f1f8a0aa9b862b37ff28816e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732331,
-            "locality_id":1293524765,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "66e90d14f1f8a0aa9b862b37ff28816e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732331,
+        "locality_id": 1293524765,
+        "region_id": 85669759,
+        "localadmin_id": 890513893
+      }
     ],
-    "wof:id":1293524765,
-    "wof:lastmodified":1566666627,
-    "wof:name":"Dong'ao",
-    "wof:parent_id":1108732331,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293524765,
+    "wof:lastmodified": 1768671220,
+    "wof:name": "Dong'ao",
+    "wof:parent_id": 890513893,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.39555,
     18.71554,
     110.39555,
     18.71554
-],
-  "geometry": {"coordinates":[110.39555,18.71554],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.39555,
+      18.71554
+    ],
+    "type": "Point"
+  }
 }

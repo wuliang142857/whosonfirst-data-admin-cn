@@ -2,75 +2,83 @@
   "id": 1242779343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.56037,29.57645,117.56037,29.57645",
-    "geom:latitude":29.57645,
-    "geom:longitude":117.56037,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Changming",
-    "gn:country_code":"CN",
-    "gn:dem":187,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7652070,
-    "gn:latitude":29.57645,
-    "gn:longitude":117.56037,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Changming",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.54037,29.55645,117.58037,29.59645",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u957f\u660e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.56037,29.57645,117.56037,29.57645",
+    "geom:latitude": 29.57645,
+    "geom:longitude": 117.56037,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Changming",
+    "gn:country_code": "CN",
+    "gn:dem": 187,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7652070,
+    "gn:latitude": 29.57645,
+    "gn:longitude": 117.56037,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Changming",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.54037,29.55645,117.58037,29.59645",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "长明"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514599
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514599,
+      1127360222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7652070
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7652070
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1095cd55fcc96f8bd221deebd757044d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514599,
-            "empire_id":136253041,
-            "locality_id":1242779343,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1095cd55fcc96f8bd221deebd757044d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514599,
+        "empire_id": 136253041,
+        "locality_id": 1242779343,
+        "region_id": 85669823,
+        "localadmin_id": 1127360222
+      }
     ],
-    "wof:id":1242779343,
-    "wof:lastmodified":1566696689,
-    "wof:name":"Changming",
-    "wof:parent_id":890514599,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242779343,
+    "wof:lastmodified": 1768670180,
+    "wof:name": "Changming",
+    "wof:parent_id": 1127360222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.56037,
     29.57645,
     117.56037,
     29.57645
-],
-  "geometry": {"coordinates":[117.56037000000001,29.57645],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.56037,
+      29.57645
+    ],
+    "type": "Point"
+  }
 }

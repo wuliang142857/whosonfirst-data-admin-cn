@@ -2,81 +2,89 @@
   "id": 1327189937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.98496,38.95984,112.98496,38.95984",
-    "geom:latitude":38.95984,
-    "geom:longitude":112.98496,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Qingshecun",
-    "gn:country_code":"CN",
-    "gn:dem":1135,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1797763,
-    "gn:latitude":38.95984,
-    "gn:longitude":112.98496,
-    "gn:modification_date":"2017-02-04",
-    "gn:name":"Qingshecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.96496,38.93984,113.00496,38.97984",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019ing-she",
-        "Qingshe",
-        "\u9752\u793e",
-        "Qingshecun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.98496,38.95984,112.98496,38.95984",
+    "geom:latitude": 38.95984,
+    "geom:longitude": 112.98496,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Qingshecun",
+    "gn:country_code": "CN",
+    "gn:dem": 1135,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1797763,
+    "gn:latitude": 38.95984,
+    "gn:longitude": 112.98496,
+    "gn:modification_date": "2017-02-04",
+    "gn:name": "Qingshecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.96496,38.93984,113.00496,38.97984",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’ing-she",
+      "Qingshe",
+      "青社",
+      "Qingshecun"
     ],
-    "name:zho_x_preferred":[
-        "\u9752\u793e\u6751"
+    "name:zho_x_preferred": [
+      "青社村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513031
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513031,
+      1127140923
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1797763
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1797763
     },
-    "wof:country":"CN",
-    "wof:geomhash":"582b5eeab33b17a692d0657a9e81923f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513031,
-            "empire_id":136253041,
-            "locality_id":1327189937,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "582b5eeab33b17a692d0657a9e81923f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513031,
+        "empire_id": 136253041,
+        "locality_id": 1327189937,
+        "region_id": 85669773,
+        "localadmin_id": 1127140923
+      }
     ],
-    "wof:id":1327189937,
-    "wof:lastmodified":1566655548,
-    "wof:name":"Qingshecun",
-    "wof:parent_id":890513031,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327189937,
+    "wof:lastmodified": 1768666641,
+    "wof:name": "Qingshecun",
+    "wof:parent_id": 1127140923,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.98496000000002,
     38.95984,
     112.98496000000002,
     38.95984
-],
-  "geometry": {"coordinates":[112.98496000000002,38.95984],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.98496000000002,
+      38.95984
+    ],
+    "type": "Point"
+  }
 }

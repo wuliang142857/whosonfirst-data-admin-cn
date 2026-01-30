@@ -2,75 +2,83 @@
   "id": 1327210829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.92338,30.56673,108.92338,30.56673",
-    "geom:latitude":30.56673,
-    "geom:longitude":108.92338,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Houhe",
-    "gn:country_code":"CN",
-    "gn:dem":891,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8516787,
-    "gn:latitude":30.56673,
-    "gn:longitude":108.92338,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Houhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.90338,30.54673,108.94338,30.58673",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.92338,30.56673,108.92338,30.56673",
+    "geom:latitude": 30.56673,
+    "geom:longitude": 108.92338,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Houhe",
+    "gn:country_code": "CN",
+    "gn:dem": 891,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8516787,
+    "gn:latitude": 30.56673,
+    "gn:longitude": 108.92338,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Houhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.90338,30.54673,108.94338,30.58673",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512637,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8516787
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8516787
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4640bf5c50394c4d495acbf15ef868f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1327210829,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4640bf5c50394c4d495acbf15ef868f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1327210829,
+        "region_id": 85669777,
+        "localadmin_id": 890512637
+      }
     ],
-    "wof:id":1327210829,
-    "wof:lastmodified":1566654325,
-    "wof:name":"Houhe",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327210829,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Houhe",
+    "wof:parent_id": 890512637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.92338,
     30.56673,
     108.92338,
     30.56673
-],
-  "geometry": {"coordinates":[108.92337999999999,30.56673],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.92338,
+      30.56673
+    ],
+    "type": "Point"
+  }
 }

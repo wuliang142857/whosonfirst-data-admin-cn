@@ -2,75 +2,83 @@
   "id": 1226497683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.95377,36.94785,119.95377,36.94785",
-    "geom:latitude":36.94785,
-    "geom:longitude":119.95377,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Dongwujia",
-    "gn:country_code":"CN",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8656698,
-    "gn:latitude":36.94785,
-    "gn:longitude":119.95377,
-    "gn:modification_date":"2013-12-17",
-    "gn:name":"Dongwujia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.93377,36.92785,119.97377,36.96785",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u4e94\u7532"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.95377,36.94785,119.95377,36.94785",
+    "geom:latitude": 36.94785,
+    "geom:longitude": 119.95377,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Dongwujia",
+    "gn:country_code": "CN",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8656698,
+    "gn:latitude": 36.94785,
+    "gn:longitude": 119.95377,
+    "gn:modification_date": "2013-12-17",
+    "gn:name": "Dongwujia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.93377,36.92785,119.97377,36.96785",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东五甲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514775
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512675,
+      890514775
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8656698
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8656698
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6f08e2d375dce289242307374040c754",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514775,
-            "empire_id":136253041,
-            "locality_id":1226497683,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6f08e2d375dce289242307374040c754",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514775,
+        "empire_id": 136253041,
+        "locality_id": 1226497683,
+        "region_id": 85669813,
+        "localadmin_id": 890512675
+      }
     ],
-    "wof:id":1226497683,
-    "wof:lastmodified":1566704086,
-    "wof:name":"Dongwujia",
-    "wof:parent_id":890514775,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226497683,
+    "wof:lastmodified": 1768668016,
+    "wof:name": "Dongwujia",
+    "wof:parent_id": 890512675,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.95377,
     36.94785,
     119.95377,
     36.94785
-],
-  "geometry": {"coordinates":[119.95377000000001,36.94785],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.95377,
+      36.94785
+    ],
+    "type": "Point"
+  }
 }

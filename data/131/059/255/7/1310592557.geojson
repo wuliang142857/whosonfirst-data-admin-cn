@@ -2,84 +2,92 @@
   "id": 1310592557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.21473,25.43531,118.21473,25.43531",
-    "geom:latitude":25.43531,
-    "geom:longitude":118.21473,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Sukeng",
-    "gn:country_code":"CN",
-    "gn:dem":597,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1921078,
-    "gn:latitude":25.43531,
-    "gn:longitude":118.21473,
-    "gn:modification_date":"2012-06-06",
-    "gn:name":"Sukeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.19473,25.41531,118.23473,25.45531",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Daxiban",
-        "Sukeng",
-        "Sukeng Zhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.21473,25.43531,118.21473,25.43531",
+    "geom:latitude": 25.43531,
+    "geom:longitude": 118.21473,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Sukeng",
+    "gn:country_code": "CN",
+    "gn:dem": 597,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1921078,
+    "gn:latitude": 25.43531,
+    "gn:longitude": 118.21473,
+    "gn:modification_date": "2012-06-06",
+    "gn:name": "Sukeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.19473,25.41531,118.23473,25.45531",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Daxiban",
+      "Sukeng",
+      "Sukeng Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u82cf\u5751"
+    "name:zho_x_preferred": [
+      "苏坑"
     ],
-    "name:zho_x_variant":[
-        "\u5927\u6eaa\u5742",
-        "\u82cf\u5751\u9547"
+    "name:zho_x_variant": [
+      "大溪坂",
+      "苏坑镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512849,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1921078
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1921078
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d560067396849e023985a7e404d762e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1310592557,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d560067396849e023985a7e404d762e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1310592557,
+        "region_id": 85669735,
+        "localadmin_id": 890512849
+      }
     ],
-    "wof:id":1310592557,
-    "wof:lastmodified":1566690510,
-    "wof:name":"Sukeng",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310592557,
+    "wof:lastmodified": 1768669193,
+    "wof:name": "Sukeng",
+    "wof:parent_id": 890512849,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.21473,
     25.43531,
     118.21473,
     25.43531
-],
-  "geometry": {"coordinates":[118.21473,25.43531],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.21473,
+      25.43531
+    ],
+    "type": "Point"
+  }
 }

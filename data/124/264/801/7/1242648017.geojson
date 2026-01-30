@@ -2,83 +2,91 @@
   "id": 1242648017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"98.60486,29.0431,98.60486,29.0431",
-    "geom:latitude":29.0431,
-    "geom:longitude":98.60486,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Calhodoi",
-    "gn:country_code":"CN",
-    "gn:dem":2623,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8056092,
-    "gn:latitude":29.0431,
-    "gn:longitude":98.60486,
-    "gn:modification_date":"2013-09-11",
-    "gn:name":"Calhodoi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"98.58486,29.0231,98.62486,29.0631",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Calhodoi"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "98.60486,29.0431,98.60486,29.0431",
+    "geom:latitude": 29.0431,
+    "geom:longitude": 98.60486,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Calhodoi",
+    "gn:country_code": "CN",
+    "gn:dem": 2623,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8056092,
+    "gn:latitude": 29.0431,
+    "gn:longitude": 98.60486,
+    "gn:modification_date": "2013-09-11",
+    "gn:name": "Calhodoi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "98.58486,29.0231,98.62486,29.0631",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Calhodoi"
     ],
-    "name:zho_x_preferred":[
-        "Shang Yanjing"
+    "name:zho_x_preferred": [
+      "Shang Yanjing"
     ],
-    "name:zho_x_variant":[
-        "\u4e0a\u76d0\u4e95",
-        "Yakading",
-        "\u7259\u5361\u9876"
+    "name:zho_x_variant": [
+      "上盐井",
+      "Yakading",
+      "牙卡顶"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890514545
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890513715,
+      890514545
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8056092
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8056092
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c12e0869e9e17f55b7cca6184a41ea36",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514545,
-            "empire_id":136253041,
-            "locality_id":1242648017,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c12e0869e9e17f55b7cca6184a41ea36",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514545,
+        "empire_id": 136253041,
+        "locality_id": 1242648017,
+        "region_id": 85669747,
+        "localadmin_id": 890513715
+      }
     ],
-    "wof:id":1242648017,
-    "wof:lastmodified":1566697139,
-    "wof:name":"Calhodoi",
-    "wof:parent_id":890514545,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242648017,
+    "wof:lastmodified": 1768664895,
+    "wof:name": "Calhodoi",
+    "wof:parent_id": 890513715,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     98.60486,
     29.0431,
     98.60486,
     29.0431
-],
-  "geometry": {"coordinates":[98.60486,29.0431],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      98.60486,
+      29.0431
+    ],
+    "type": "Point"
+  }
 }

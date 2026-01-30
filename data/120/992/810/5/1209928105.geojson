@@ -2,75 +2,83 @@
   "id": 1209928105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.34207,30.32831,116.34207,30.32831",
-    "geom:latitude":30.32831,
-    "geom:longitude":116.34207,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Bilingcun",
-    "gn:country_code":"CN",
-    "gn:dem":45,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10800000,
-    "gn:latitude":30.32831,
-    "gn:longitude":116.34207,
-    "gn:modification_date":"2015-10-07",
-    "gn:name":"Bilingcun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.32207,30.30831,116.36207,30.34831",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6bd5\u5cad\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.34207,30.32831,116.34207,30.32831",
+    "geom:latitude": 30.32831,
+    "geom:longitude": 116.34207,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Bilingcun",
+    "gn:country_code": "CN",
+    "gn:dem": 45,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10800000,
+    "gn:latitude": 30.32831,
+    "gn:longitude": 116.34207,
+    "gn:modification_date": "2015-10-07",
+    "gn:name": "Bilingcun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.32207,30.30831,116.36207,30.34831",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "毕岭村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890516201
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890516201,
+      1127340825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10800000
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10800000
     },
-    "wof:country":"CN",
-    "wof:geomhash":"139fe878c672f717af23f46e7377b786",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516201,
-            "empire_id":136253041,
-            "locality_id":1209928105,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "139fe878c672f717af23f46e7377b786",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516201,
+        "empire_id": 136253041,
+        "locality_id": 1209928105,
+        "region_id": 85669739,
+        "localadmin_id": 1127340825
+      }
     ],
-    "wof:id":1209928105,
-    "wof:lastmodified":1566681905,
-    "wof:name":"Bilingcun",
-    "wof:parent_id":890516201,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209928105,
+    "wof:lastmodified": 1768670157,
+    "wof:name": "Bilingcun",
+    "wof:parent_id": 1127340825,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.34207,
     30.32831,
     116.34207,
     30.32831
-],
-  "geometry": {"coordinates":[116.34207000000001,30.32831],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.34207,
+      30.32831
+    ],
+    "type": "Point"
+  }
 }

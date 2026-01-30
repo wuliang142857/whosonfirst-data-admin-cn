@@ -2,89 +2,97 @@
   "id": 1310658447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.4,38.69583,113.4,38.69583",
-    "geom:latitude":38.69583,
-    "geom:longitude":113.4,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Tianhe",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1143,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1792979,
-    "gn:latitude":38.69583,
-    "gn:longitude":113.4,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Tianhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.38,38.67583,113.42,38.71583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Tianhe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.4,38.69583,113.4,38.69583",
+    "geom:latitude": 38.69583,
+    "geom:longitude": 113.4,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Tianhe",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1143,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1792979,
+    "gn:latitude": 38.69583,
+    "gn:longitude": 113.4,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Tianhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.38,38.67583,113.42,38.71583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Tianhe"
     ],
-    "name:deu_x_preferred":[
-        "Tianhe"
+    "name:deu_x_preferred": [
+      "Tianhe"
     ],
-    "name:fra_x_preferred":[
-        "Tianhe"
+    "name:fra_x_preferred": [
+      "Tianhe"
     ],
-    "name:rus_x_preferred":[
-        "\u0422\u044f\u043d\u044c\u0445\u044d"
+    "name:rus_x_preferred": [
+      "Тяньхэ"
     ],
-    "name:und_x_variant":[
-        "Hsi-t\u2019ien-ho",
-        "T\u2019ien-ho"
+    "name:und_x_variant": [
+      "Hsi-t’ien-ho",
+      "T’ien-ho"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513031
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513031,
+      890515369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1792979
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1792979
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8bc3d425be7d891bb6374975716355f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513031,
-            "empire_id":136253041,
-            "locality_id":1310658447,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8bc3d425be7d891bb6374975716355f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513031,
+        "empire_id": 136253041,
+        "locality_id": 1310658447,
+        "region_id": 85669773,
+        "localadmin_id": 890515369
+      }
     ],
-    "wof:id":1310658447,
-    "wof:lastmodified":1566688679,
-    "wof:name":"Tianhe",
-    "wof:parent_id":890513031,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310658447,
+    "wof:lastmodified": 1768666641,
+    "wof:name": "Tianhe",
+    "wof:parent_id": 890515369,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.4,
     38.69583,
     113.4,
     38.69583
-],
-  "geometry": {"coordinates":[113.40000000000001,38.69583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.4,
+      38.69583
+    ],
+    "type": "Point"
+  }
 }

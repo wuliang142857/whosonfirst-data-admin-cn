@@ -2,75 +2,83 @@
   "id": 1343448439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.44522,28.1589,112.44522,28.1589",
-    "geom:latitude":28.1589,
-    "geom:longitude":112.44522,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Nanpanshan",
-    "gn:country_code":"CN",
-    "gn:dem":99,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10326475,
-    "gn:latitude":28.1589,
-    "gn:longitude":112.44522,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Nanpanshan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.42522,28.1389,112.46522,28.1789",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u76d8\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.44522,28.1589,112.44522,28.1589",
+    "geom:latitude": 28.1589,
+    "geom:longitude": 112.44522,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Nanpanshan",
+    "gn:country_code": "CN",
+    "gn:dem": 99,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10326475,
+    "gn:latitude": 28.1589,
+    "gn:longitude": 112.44522,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Nanpanshan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.42522,28.1389,112.46522,28.1789",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南盘山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890513085
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513085,
+      890514325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10326475
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10326475
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b899d5c0bc8305ee8b127c6a2f319959",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513085,
-            "empire_id":136253041,
-            "locality_id":1343448439,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b899d5c0bc8305ee8b127c6a2f319959",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513085,
+        "empire_id": 136253041,
+        "locality_id": 1343448439,
+        "region_id": 85669781,
+        "localadmin_id": 890514325
+      }
     ],
-    "wof:id":1343448439,
-    "wof:lastmodified":1566664745,
-    "wof:name":"Nanpanshan",
-    "wof:parent_id":890513085,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343448439,
+    "wof:lastmodified": 1768670508,
+    "wof:name": "Nanpanshan",
+    "wof:parent_id": 890514325,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.44522,
     28.1589,
     112.44522,
     28.1589
-],
-  "geometry": {"coordinates":[112.44522000000001,28.1589],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.44522,
+      28.1589
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1343518725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.804,36.7932,118.804,36.7932",
-    "geom:latitude":36.7932,
-    "geom:longitude":118.804,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Lilewang",
-    "gn:country_code":"CN",
-    "gn:dem":27,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9124223,
-    "gn:latitude":36.7932,
-    "gn:longitude":118.804,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Lilewang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.784,36.7732,118.824,36.8132",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u793c\u4e50\u738b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.804,36.7932,118.804,36.7932",
+    "geom:latitude": 36.7932,
+    "geom:longitude": 118.804,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Lilewang",
+    "gn:country_code": "CN",
+    "gn:dem": 27,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9124223,
+    "gn:latitude": 36.7932,
+    "gn:longitude": 118.804,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Lilewang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.784,36.7732,118.824,36.8132",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "礼乐王"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514755
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514109,
+      890514755
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9124223
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9124223
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3631ced48e278bb7f74e0d0e1713fe11",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514755,
-            "empire_id":136253041,
-            "locality_id":1343518725,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3631ced48e278bb7f74e0d0e1713fe11",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514755,
+        "empire_id": 136253041,
+        "locality_id": 1343518725,
+        "region_id": 85669813,
+        "localadmin_id": 890514109
+      }
     ],
-    "wof:id":1343518725,
-    "wof:lastmodified":1566661543,
-    "wof:name":"Lilewang",
-    "wof:parent_id":890514755,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343518725,
+    "wof:lastmodified": 1768667968,
+    "wof:name": "Lilewang",
+    "wof:parent_id": 890514109,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.804,
     36.7932,
     118.804,
     36.7932
-],
-  "geometry": {"coordinates":[118.804,36.7932],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.804,
+      36.7932
+    ],
+    "type": "Point"
+  }
 }

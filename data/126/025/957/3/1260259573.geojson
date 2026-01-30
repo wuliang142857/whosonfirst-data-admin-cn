@@ -2,78 +2,86 @@
   "id": 1260259573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.79023,32.11715,112.79023,32.11715",
-    "geom:latitude":32.11715,
-    "geom:longitude":112.79023,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Chenjiagang",
-    "gn:country_code":"CN",
-    "gn:dem":147,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8525154,
-    "gn:latitude":32.11715,
-    "gn:longitude":112.79023,
-    "gn:modification_date":"2013-05-10",
-    "gn:name":"Chenjiagang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.77023,32.09715,112.81023,32.13715",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u5bb6\u5c97"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.79023,32.11715,112.79023,32.11715",
+    "geom:latitude": 32.11715,
+    "geom:longitude": 112.79023,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Chenjiagang",
+    "gn:country_code": "CN",
+    "gn:dem": 147,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8525154,
+    "gn:latitude": 32.11715,
+    "gn:longitude": 112.79023,
+    "gn:modification_date": "2013-05-10",
+    "gn:name": "Chenjiagang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.77023,32.09715,112.81023,32.13715",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈家岗"
     ],
-    "name:zho_x_variant":[
-        "\u9648\u5bb6\u6e2f\u9547"
+    "name:zho_x_variant": [
+      "陈家港镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512025,
+      1108732497
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8525154
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8525154
     },
-    "wof:country":"CN",
-    "wof:geomhash":"678a8ce2a841f6bbd4f1414920365140",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1260259573,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "678a8ce2a841f6bbd4f1414920365140",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1260259573,
+        "region_id": 85669777,
+        "localadmin_id": 890512025
+      }
     ],
-    "wof:id":1260259573,
-    "wof:lastmodified":1566686580,
-    "wof:name":"Chenjiagang",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260259573,
+    "wof:lastmodified": 1768665619,
+    "wof:name": "Chenjiagang",
+    "wof:parent_id": 890512025,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.79023,
     32.11715,
     112.79023,
     32.11715
-],
-  "geometry": {"coordinates":[112.79022999999999,32.11715],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.79023,
+      32.11715
+    ],
+    "type": "Point"
+  }
 }

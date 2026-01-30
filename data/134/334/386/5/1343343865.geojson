@@ -2,75 +2,83 @@
   "id": 1343343865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.746,34.5603,105.746,34.5603",
-    "geom:latitude":34.5603,
-    "geom:longitude":105.746,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Dujiaping",
-    "gn:country_code":"CN",
-    "gn:dem":1419,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429172,
-    "gn:latitude":34.5603,
-    "gn:longitude":105.746,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Dujiaping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.726,34.5403,105.766,34.5803",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u675c\u5bb6\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.746,34.5603,105.746,34.5603",
+    "geom:latitude": 34.5603,
+    "geom:longitude": 105.746,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Dujiaping",
+    "gn:country_code": "CN",
+    "gn:dem": 1419,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429172,
+    "gn:latitude": 34.5603,
+    "gn:longitude": 105.746,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Dujiaping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.726,34.5403,105.766,34.5803",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杜家坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429172
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429172
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f2a43a11d7628664e65cc9616ca47966",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1343343865,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f2a43a11d7628664e65cc9616ca47966",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1343343865,
+        "region_id": 85669711,
+        "localadmin_id": 1127620502
+      }
     ],
-    "wof:id":1343343865,
-    "wof:lastmodified":1566662164,
-    "wof:name":"Dujiaping",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343343865,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Dujiaping",
+    "wof:parent_id": 1127620502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.746,
     34.5603,
     105.746,
     34.5603
-],
-  "geometry": {"coordinates":[105.746,34.5603],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.746,
+      34.5603
+    ],
+    "type": "Point"
+  }
 }

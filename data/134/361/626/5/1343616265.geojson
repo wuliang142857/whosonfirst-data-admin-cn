@@ -2,80 +2,88 @@
   "id": 1343616265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.63611,33.60472,110.63611,33.60472",
-    "geom:latitude":33.60472,
-    "geom:longitude":110.63611,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Wuguan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":548,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1791257,
-    "gn:latitude":33.60472,
-    "gn:longitude":110.63611,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Wuguan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.61611,33.58472,110.65611,33.62472",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wu-kuan",
-        "Wukwan",
-        "Wu-kuan-ch\u2019eng",
-        "Wukwah",
-        "Wuguan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.63611,33.60472,110.63611,33.60472",
+    "geom:latitude": 33.60472,
+    "geom:longitude": 110.63611,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Wuguan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 548,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1791257,
+    "gn:latitude": 33.60472,
+    "gn:longitude": 110.63611,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Wuguan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.61611,33.58472,110.65611,33.62472",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wu-kuan",
+      "Wukwan",
+      "Wu-kuan-ch’eng",
+      "Wukwah",
+      "Wuguan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890513907
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513907,
+      1127611022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791257
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791257
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ae44407b19451b2124bc611b054af40b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513907,
-            "empire_id":136253041,
-            "locality_id":1343616265,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ae44407b19451b2124bc611b054af40b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513907,
+        "empire_id": 136253041,
+        "locality_id": 1343616265,
+        "region_id": 85669769,
+        "localadmin_id": 1127611022
+      }
     ],
-    "wof:id":1343616265,
-    "wof:lastmodified":1566660623,
-    "wof:name":"Wuguan",
-    "wof:parent_id":890513907,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343616265,
+    "wof:lastmodified": 1768667734,
+    "wof:name": "Wuguan",
+    "wof:parent_id": 1127611022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.63611000000002,
     33.60472,
     110.63611000000002,
     33.60472
-],
-  "geometry": {"coordinates":[110.63611000000002,33.60472],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.63611000000002,
+      33.60472
+    ],
+    "type": "Point"
+  }
 }

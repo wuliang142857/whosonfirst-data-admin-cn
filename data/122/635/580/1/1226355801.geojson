@@ -2,75 +2,83 @@
   "id": 1226355801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.1205,33.68044,116.1205,33.68044",
-    "geom:latitude":33.68044,
-    "geom:longitude":116.1205,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Xinloucun",
-    "gn:country_code":"CN",
-    "gn:dem":36,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10360124,
-    "gn:latitude":33.68044,
-    "gn:longitude":116.1205,
-    "gn:modification_date":"2015-07-05",
-    "gn:name":"Xinloucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.1005,33.66044,116.1405,33.70044",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65b0\u697c\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.1205,33.68044,116.1205,33.68044",
+    "geom:latitude": 33.68044,
+    "geom:longitude": 116.1205,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Xinloucun",
+    "gn:country_code": "CN",
+    "gn:dem": 36,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10360124,
+    "gn:latitude": 33.68044,
+    "gn:longitude": 116.1205,
+    "gn:modification_date": "2015-07-05",
+    "gn:name": "Xinloucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.1005,33.66044,116.1405,33.70044",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "新楼村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513461,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10360124
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10360124
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ee51d7827782d7c2c73afcb8e721a86c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1226355801,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ee51d7827782d7c2c73afcb8e721a86c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1226355801,
+        "region_id": 85669739,
+        "localadmin_id": 890513461
+      }
     ],
-    "wof:id":1226355801,
-    "wof:lastmodified":1566702355,
-    "wof:name":"Xinloucun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226355801,
+    "wof:lastmodified": 1768669757,
+    "wof:name": "Xinloucun",
+    "wof:parent_id": 890513461,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.1205,
     33.68044,
     116.1205,
     33.68044
-],
-  "geometry": {"coordinates":[116.12050000000001,33.68044],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.1205,
+      33.68044
+    ],
+    "type": "Point"
+  }
 }

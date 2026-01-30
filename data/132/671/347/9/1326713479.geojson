@@ -2,81 +2,89 @@
   "id": 1326713479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"91.106,29.106,91.106,29.106",
-    "geom:latitude":29.106,
-    "geom:longitude":91.106,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Puxar",
-    "gn:country_code":"CN",
-    "gn:dem":3896,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLF",
-    "gn:geonameid":8048283,
-    "gn:latitude":29.106,
-    "gn:longitude":91.106,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Puxar",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"91.086,29.086,91.126,29.126",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Puxar"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "91.106,29.106,91.106,29.106",
+    "geom:latitude": 29.106,
+    "geom:longitude": 91.106,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Puxar",
+    "gn:country_code": "CN",
+    "gn:dem": 3896,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLF",
+    "gn:geonameid": 8048283,
+    "gn:latitude": 29.106,
+    "gn:longitude": 91.106,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Puxar",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "91.086,29.086,91.126,29.126",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Puxar"
     ],
-    "name:zho_x_preferred":[
-        "Puxia"
+    "name:zho_x_preferred": [
+      "Puxia"
     ],
-    "name:zho_x_variant":[
-        "\u666e\u4e0b"
+    "name:zho_x_variant": [
+      "普下"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        1108794057
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890513195,
+      1108794057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8048283
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8048283
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f52e4f83504e2c196eac9e07096aaeb4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794057,
-            "empire_id":136253041,
-            "locality_id":1326713479,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f52e4f83504e2c196eac9e07096aaeb4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794057,
+        "empire_id": 136253041,
+        "locality_id": 1326713479,
+        "region_id": 85669747,
+        "localadmin_id": 890513195
+      }
     ],
-    "wof:id":1326713479,
-    "wof:lastmodified":1566651927,
-    "wof:name":"Puxar",
-    "wof:parent_id":1108794057,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326713479,
+    "wof:lastmodified": 1768666543,
+    "wof:name": "Puxar",
+    "wof:parent_id": 890513195,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     91.106,
     29.106,
     91.106,
     29.106
-],
-  "geometry": {"coordinates":[91.10599999999999,29.106],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      91.106,
+      29.106
+    ],
+    "type": "Point"
+  }
 }

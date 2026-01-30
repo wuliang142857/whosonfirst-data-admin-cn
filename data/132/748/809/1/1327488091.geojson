@@ -2,84 +2,92 @@
   "id": 1327488091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.18998,34.07026,108.18998,34.07026",
-    "geom:latitude":34.07026,
-    "geom:longitude":108.18998,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Mazhaozhen",
-    "gn:country_code":"CN",
-    "gn:dem":490,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1800912,
-    "gn:latitude":34.07026,
-    "gn:longitude":108.18998,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Mazhaozhen",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.16998,34.05026,108.20998,34.09026",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ma-chao",
-        "Ma-chao-chen",
-        "Mazhao Zhen",
-        "Mazhaozhen"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.18998,34.07026,108.18998,34.07026",
+    "geom:latitude": 34.07026,
+    "geom:longitude": 108.18998,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Mazhaozhen",
+    "gn:country_code": "CN",
+    "gn:dem": 490,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1800912,
+    "gn:latitude": 34.07026,
+    "gn:longitude": 108.18998,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Mazhaozhen",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.16998,34.05026,108.20998,34.09026",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ma-chao",
+      "Ma-chao-chen",
+      "Mazhao Zhen",
+      "Mazhaozhen"
     ],
-    "name:zho_x_preferred":[
-        "\u9a6c\u53ec"
+    "name:zho_x_preferred": [
+      "马召"
     ],
-    "name:zho_x_variant":[
-        "\u9a6c\u53ec\u9547"
+    "name:zho_x_variant": [
+      "马召镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1800912
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1800912
     },
-    "wof:country":"CN",
-    "wof:geomhash":"63b5c71449607d8b83faa8d4ce336eaf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1327488091,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "63b5c71449607d8b83faa8d4ce336eaf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1327488091,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1327488091,
-    "wof:lastmodified":1566650901,
-    "wof:name":"Mazhaozhen",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327488091,
+    "wof:lastmodified": 1768668691,
+    "wof:name": "Mazhaozhen",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.18998,
     34.07026,
     108.18998,
     34.07026
-],
-  "geometry": {"coordinates":[108.18998000000001,34.07026],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.18998,
+      34.07026
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1225891265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.6691,27.0038,99.6691,27.0038",
-    "geom:latitude":27.0038,
-    "geom:longitude":99.6691,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Liguang",
-    "gn:country_code":"CN",
-    "gn:dem":2350,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10138660,
-    "gn:latitude":27.0038,
-    "gn:longitude":99.6691,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Liguang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"99.6491,26.9838,99.6891,27.0238",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ece\u5149"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.6691,27.0038,99.6691,27.0038",
+    "geom:latitude": 27.0038,
+    "geom:longitude": 99.6691,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Liguang",
+    "gn:country_code": "CN",
+    "gn:dem": 2350,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10138660,
+    "gn:latitude": 27.0038,
+    "gn:longitude": 99.6691,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Liguang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "99.6491,26.9838,99.6891,27.0238",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黎光"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514701
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890512883,
+      890514701
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10138660
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10138660
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4f705110649c0e2da332216a230f4c71",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514701,
-            "empire_id":136253041,
-            "locality_id":1225891265,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4f705110649c0e2da332216a230f4c71",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514701,
+        "empire_id": 136253041,
+        "locality_id": 1225891265,
+        "region_id": 85669791,
+        "localadmin_id": 890512883
+      }
     ],
-    "wof:id":1225891265,
-    "wof:lastmodified":1566702868,
-    "wof:name":"Liguang",
-    "wof:parent_id":890514701,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225891265,
+    "wof:lastmodified": 1768668295,
+    "wof:name": "Liguang",
+    "wof:parent_id": 890512883,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.6691,
     27.0038,
     99.6691,
     27.0038
-],
-  "geometry": {"coordinates":[99.6691,27.0038],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.6691,
+      27.0038
+    ],
+    "type": "Point"
+  }
 }

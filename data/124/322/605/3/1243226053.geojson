@@ -2,75 +2,83 @@
   "id": 1243226053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"122.682,39.926,122.682,39.926",
-    "geom:latitude":39.926,
-    "geom:longitude":122.682,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Shangzhangtun",
-    "gn:country_code":"CN",
-    "gn:dem":146,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7397362,
-    "gn:latitude":39.926,
-    "gn:longitude":122.682,
-    "gn:modification_date":"2017-03-05",
-    "gn:name":"Shangzhangtun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"122.662,39.906,122.702,39.946",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u5f20\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "122.682,39.926,122.682,39.926",
+    "geom:latitude": 39.926,
+    "geom:longitude": 122.682,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Shangzhangtun",
+    "gn:country_code": "CN",
+    "gn:dem": 146,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7397362,
+    "gn:latitude": 39.926,
+    "gn:longitude": 122.682,
+    "gn:modification_date": "2017-03-05",
+    "gn:name": "Shangzhangtun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "122.662,39.906,122.702,39.946",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上张屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515891,
+      1127210283
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7397362
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7397362
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7420c0e03154a7655c2e4c38fd83799b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1243226053,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7420c0e03154a7655c2e4c38fd83799b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1243226053,
+        "region_id": 85669807,
+        "localadmin_id": 1127210283
+      }
     ],
-    "wof:id":1243226053,
-    "wof:lastmodified":1566695753,
-    "wof:name":"Shangzhangtun",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243226053,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Shangzhangtun",
+    "wof:parent_id": 1127210283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     122.682,
     39.926,
     122.682,
     39.926
-],
-  "geometry": {"coordinates":[122.682,39.926],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      122.682,
+      39.926
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1343234415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.05,24.5234,108.05,24.5234",
-    "geom:latitude":24.5234,
-    "geom:longitude":108.05,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Jiacha",
-    "gn:country_code":"CN",
-    "gn:dem":237,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9925470,
-    "gn:latitude":24.5234,
-    "gn:longitude":108.05,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Jiacha",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.03,24.5034,108.07,24.5434",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u52a0\u67e5"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.05,24.5234,108.05,24.5234",
+    "geom:latitude": 24.5234,
+    "geom:longitude": 108.05,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Jiacha",
+    "gn:country_code": "CN",
+    "gn:dem": 237,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9925470,
+    "gn:latitude": 24.5234,
+    "gn:longitude": 108.05,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Jiacha",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.03,24.5034,108.07,24.5434",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "加查"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        1108732453
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      1108732453,
+      1127451228
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9925470
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9925470
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f6a7a5aa3386419a36b89cf6a2161fc2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732453,
-            "empire_id":136253041,
-            "locality_id":1343234415,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f6a7a5aa3386419a36b89cf6a2161fc2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732453,
+        "empire_id": 136253041,
+        "locality_id": 1343234415,
+        "region_id": 85669717,
+        "localadmin_id": 1127451228
+      }
     ],
-    "wof:id":1343234415,
-    "wof:lastmodified":1566659760,
-    "wof:name":"Jiacha",
-    "wof:parent_id":1108732453,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343234415,
+    "wof:lastmodified": 1768665535,
+    "wof:name": "Jiacha",
+    "wof:parent_id": 1127451228,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.05,
     24.5234,
     108.05,
     24.5234
-],
-  "geometry": {"coordinates":[108.05,24.5234],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.05,
+      24.5234
+    ],
+    "type": "Point"
+  }
 }

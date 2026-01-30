@@ -2,75 +2,83 @@
   "id": 1310676335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.066,28.169,107.066,28.169",
-    "geom:latitude":28.169,
-    "geom:longitude":107.066,
-    "gn:admin1_code":"18",
-    "gn:asciiname":"Sancengmiao",
-    "gn:country_code":"CN",
-    "gn:dem":854,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10028789,
-    "gn:latitude":28.169,
-    "gn:longitude":107.066,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Sancengmiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.046,28.149,107.086,28.189",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u5c42\u5e99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.066,28.169,107.066,28.169",
+    "geom:latitude": 28.169,
+    "geom:longitude": 107.066,
+    "gn:admin1_code": "18",
+    "gn:asciiname": "Sancengmiao",
+    "gn:country_code": "CN",
+    "gn:dem": 854,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10028789,
+    "gn:latitude": 28.169,
+    "gn:longitude": 107.066,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Sancengmiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.046,28.149,107.086,28.189",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三层庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669721,
-        102191569,
-        85632695,
-        136253041,
-        890516473
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669721,
+      102191569,
+      136253041,
+      890516473,
+      1127520323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10028789
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10028789
     },
-    "wof:country":"CN",
-    "wof:geomhash":"46d398f550548635562ef99ccc5c738f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516473,
-            "empire_id":136253041,
-            "locality_id":1310676335,
-            "region_id":85669721
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "46d398f550548635562ef99ccc5c738f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516473,
+        "empire_id": 136253041,
+        "locality_id": 1310676335,
+        "region_id": 85669721,
+        "localadmin_id": 1127520323
+      }
     ],
-    "wof:id":1310676335,
-    "wof:lastmodified":1566690905,
-    "wof:name":"Sancengmiao",
-    "wof:parent_id":890516473,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310676335,
+    "wof:lastmodified": 1768664928,
+    "wof:name": "Sancengmiao",
+    "wof:parent_id": 1127520323,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.066,
     28.169,
     107.066,
     28.169
-],
-  "geometry": {"coordinates":[107.066,28.169],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.066,
+      28.169
+    ],
+    "type": "Point"
+  }
 }

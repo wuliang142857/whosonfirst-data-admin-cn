@@ -2,75 +2,83 @@
   "id": 1226815819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.91601,33.92765,107.91601,33.92765",
-    "geom:latitude":33.92765,
-    "geom:longitude":107.91601,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Lingshang",
-    "gn:country_code":"CN",
-    "gn:dem":1406,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7446073,
-    "gn:latitude":33.92765,
-    "gn:longitude":107.91601,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Lingshang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.89601,33.90765,107.93601,33.94765",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5cad\u4e0a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.91601,33.92765,107.91601,33.92765",
+    "geom:latitude": 33.92765,
+    "geom:longitude": 107.91601,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Lingshang",
+    "gn:country_code": "CN",
+    "gn:dem": 1406,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7446073,
+    "gn:latitude": 33.92765,
+    "gn:longitude": 107.91601,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Lingshang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.89601,33.90765,107.93601,33.94765",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "岭上"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515687
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890512197,
+      890515687
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7446073
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7446073
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9e85ee9ebb502087df8329f7ea5b48a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515687,
-            "empire_id":136253041,
-            "locality_id":1226815819,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9e85ee9ebb502087df8329f7ea5b48a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515687,
+        "empire_id": 136253041,
+        "locality_id": 1226815819,
+        "region_id": 85669769,
+        "localadmin_id": 890512197
+      }
     ],
-    "wof:id":1226815819,
-    "wof:lastmodified":1566701019,
-    "wof:name":"Lingshang",
-    "wof:parent_id":890515687,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226815819,
+    "wof:lastmodified": 1768668692,
+    "wof:name": "Lingshang",
+    "wof:parent_id": 890512197,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.91601,
     33.92765,
     107.91601,
     33.92765
-],
-  "geometry": {"coordinates":[107.91601,33.92765],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.91601,
+      33.92765
+    ],
+    "type": "Point"
+  }
 }

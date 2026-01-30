@@ -2,77 +2,85 @@
   "id": 1344235781,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.13667,39.61583,119.13667,39.61583",
-    "geom:latitude":39.61583,
-    "geom:longitude":119.13667,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Nijing",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1799400,
-    "gn:latitude":39.61583,
-    "gn:longitude":119.13667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Nijing",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.11667,39.59583,119.15667,39.63583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ni-ching",
-        "Nijing"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.13667,39.61583,119.13667,39.61583",
+    "geom:latitude": 39.61583,
+    "geom:longitude": 119.13667,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Nijing",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1799400,
+    "gn:latitude": 39.61583,
+    "gn:longitude": 119.13667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Nijing",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.11667,39.59583,119.15667,39.63583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ni-ching",
+      "Nijing"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513075
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513075,
+      890513995
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1799400
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1799400
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3fa4e3058b0e7087f094a7f0e376a838",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513075,
-            "empire_id":136253041,
-            "locality_id":1344235781,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3fa4e3058b0e7087f094a7f0e376a838",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513075,
+        "empire_id": 136253041,
+        "locality_id": 1344235781,
+        "region_id": 85669797,
+        "localadmin_id": 890513995
+      }
     ],
-    "wof:id":1344235781,
-    "wof:lastmodified":1566658564,
-    "wof:name":"Nijing",
-    "wof:parent_id":890513075,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344235781,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Nijing",
+    "wof:parent_id": 890513995,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.13667,
     39.61583,
     119.13667,
     39.61583
-],
-  "geometry": {"coordinates":[119.13667,39.61583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.13667,
+      39.61583
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310461367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.173,29.4114,105.173,29.4114",
-    "geom:latitude":29.4114,
-    "geom:longitude":105.173,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Jiaotong",
-    "gn:country_code":"CN",
-    "gn:dem":383,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183705,
-    "gn:latitude":29.4114,
-    "gn:longitude":105.173,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Jiaotong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.153,29.3914,105.193,29.4314",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4ea4\u901a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.173,29.4114,105.173,29.4114",
+    "geom:latitude": 29.4114,
+    "geom:longitude": 105.173,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Jiaotong",
+    "gn:country_code": "CN",
+    "gn:dem": 383,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183705,
+    "gn:latitude": 29.4114,
+    "gn:longitude": 105.173,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Jiaotong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.153,29.3914,105.193,29.4314",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "交通"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183705
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183705
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8ce81d44735ddf2cf25bfa03489529d2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1310461367,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8ce81d44735ddf2cf25bfa03489529d2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1310461367,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1310461367,
-    "wof:lastmodified":1566688151,
-    "wof:name":"Jiaotong",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310461367,
+    "wof:lastmodified": 1768668255,
+    "wof:name": "Jiaotong",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.173,
     29.4114,
     105.173,
     29.4114
-],
-  "geometry": {"coordinates":[105.173,29.4114],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.173,
+      29.4114
+    ],
+    "type": "Point"
+  }
 }

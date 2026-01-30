@@ -2,79 +2,87 @@
   "id": 1276349155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.68333,33.775,116.68333,33.775",
-    "geom:latitude":33.775,
-    "geom:longitude":116.68333,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Cha'ancun",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1558232,
-    "gn:latitude":33.775,
-    "gn:longitude":116.68333,
-    "gn:modification_date":"2015-07-02",
-    "gn:name":"Cha\u2019ancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.66333,33.755,116.70333,33.795",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Cha\u2019ancun",
-        "Cha\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.68333,33.775,116.68333,33.775",
+    "geom:latitude": 33.775,
+    "geom:longitude": 116.68333,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Cha'ancun",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1558232,
+    "gn:latitude": 33.775,
+    "gn:longitude": 116.68333,
+    "gn:modification_date": "2015-07-02",
+    "gn:name": "Cha’ancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.66333,33.755,116.70333,33.795",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Cha’ancun",
+      "Cha’an"
     ],
-    "name:zho_x_preferred":[
-        "\u8336\u5eb5\u6751"
+    "name:zho_x_preferred": [
+      "茶庵村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        1108732463
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890516351,
+      1108732463
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1558232
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1558232
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4aec22c4e2658106f52f0eadc18090d5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732463,
-            "empire_id":136253041,
-            "locality_id":1276349155,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4aec22c4e2658106f52f0eadc18090d5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732463,
+        "empire_id": 136253041,
+        "locality_id": 1276349155,
+        "region_id": 85669739,
+        "localadmin_id": 890516351
+      }
     ],
-    "wof:id":1276349155,
-    "wof:lastmodified":1566674139,
-    "wof:name":"Cha'ancun",
-    "wof:parent_id":1108732463,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276349155,
+    "wof:lastmodified": 1768670021,
+    "wof:name": "Cha'ancun",
+    "wof:parent_id": 890516351,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.68333,
     33.775,
     116.68333,
     33.775
-],
-  "geometry": {"coordinates":[116.68333,33.775],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.68333,
+      33.775
+    ],
+    "type": "Point"
+  }
 }

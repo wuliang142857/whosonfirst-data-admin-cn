@@ -2,77 +2,85 @@
   "id": 1343645849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.70111,35.78,113.70111,35.78",
-    "geom:latitude":35.78,
-    "geom:longitude":113.70111,
-    "gn:admin1_code":"09",
-    "gn:asciiname":"Nanzhai",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":464,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1799576,
-    "gn:latitude":35.78,
-    "gn:longitude":113.70111,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Nanzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.68111,35.76,113.72111,35.8",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Nan-chai",
-        "Nanzhai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.70111,35.78,113.70111,35.78",
+    "geom:latitude": 35.78,
+    "geom:longitude": 113.70111,
+    "gn:admin1_code": "09",
+    "gn:asciiname": "Nanzhai",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 464,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1799576,
+    "gn:latitude": 35.78,
+    "gn:longitude": 113.70111,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Nanzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.68111,35.76,113.72111,35.8",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Nan-chai",
+      "Nanzhai"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890515625
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890515625,
+      1127410782
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1799576
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1799576
     },
-    "wof:country":"CN",
-    "wof:geomhash":"76caf640b2c2f8db5008852d1584bc14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515625,
-            "empire_id":136253041,
-            "locality_id":1343645849,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "76caf640b2c2f8db5008852d1584bc14",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515625,
+        "empire_id": 136253041,
+        "locality_id": 1343645849,
+        "region_id": 85669801,
+        "localadmin_id": 1127410782
+      }
     ],
-    "wof:id":1343645849,
-    "wof:lastmodified":1566657611,
-    "wof:name":"Nanzhai",
-    "wof:parent_id":890515625,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343645849,
+    "wof:lastmodified": 1768669050,
+    "wof:name": "Nanzhai",
+    "wof:parent_id": 1127410782,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.70111,
     35.78,
     113.70111,
     35.78
-],
-  "geometry": {"coordinates":[113.70111,35.78],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.70111,
+      35.78
+    ],
+    "type": "Point"
+  }
 }

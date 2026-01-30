@@ -2,75 +2,83 @@
   "id": 1309871201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.68895,42.89525,123.68895,42.89525",
-    "geom:latitude":42.89525,
-    "geom:longitude":123.68895,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wubaitiandi",
-    "gn:country_code":"CN",
-    "gn:dem":88,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7005546,
-    "gn:latitude":42.89525,
-    "gn:longitude":123.68895,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Wubaitiandi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.66895,42.87525,123.70895,42.91525",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e94\u767e\u5929\u5730"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.68895,42.89525,123.68895,42.89525",
+    "geom:latitude": 42.89525,
+    "geom:longitude": 123.68895,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wubaitiandi",
+    "gn:country_code": "CN",
+    "gn:dem": 88,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7005546,
+    "gn:latitude": 42.89525,
+    "gn:longitude": 123.68895,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Wubaitiandi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.66895,42.87525,123.70895,42.91525",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "五百天地"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514741
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890512563,
+      890514741
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7005546
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7005546
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f38634902dfa60d918ce907cdc372dd5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514741,
-            "empire_id":136253041,
-            "locality_id":1309871201,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f38634902dfa60d918ce907cdc372dd5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514741,
+        "empire_id": 136253041,
+        "locality_id": 1309871201,
+        "region_id": 85669807,
+        "localadmin_id": 890512563
+      }
     ],
-    "wof:id":1309871201,
-    "wof:lastmodified":1566693230,
-    "wof:name":"Wubaitiandi",
-    "wof:parent_id":890514741,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309871201,
+    "wof:lastmodified": 1768666117,
+    "wof:name": "Wubaitiandi",
+    "wof:parent_id": 890512563,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.68895,
     42.89525,
     123.68895,
     42.89525
-],
-  "geometry": {"coordinates":[123.68895000000001,42.89525],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.68895,
+      42.89525
+    ],
+    "type": "Point"
+  }
 }

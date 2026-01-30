@@ -2,75 +2,83 @@
   "id": 1259763037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.16515,30.15125,113.16515,30.15125",
-    "geom:latitude":30.15125,
-    "geom:longitude":113.16515,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Guokou",
-    "gn:country_code":"CN",
-    "gn:dem":31,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8514148,
-    "gn:latitude":30.15125,
-    "gn:longitude":113.16515,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Guokou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.14515,30.13125,113.18515,30.17125",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90ed\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.16515,30.15125,113.16515,30.15125",
+    "geom:latitude": 30.15125,
+    "geom:longitude": 113.16515,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Guokou",
+    "gn:country_code": "CN",
+    "gn:dem": 31,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8514148,
+    "gn:latitude": 30.15125,
+    "gn:longitude": 113.16515,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Guokou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.14515,30.13125,113.18515,30.17125",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "郭口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732353
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514091,
+      1108732353
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8514148
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8514148
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3655bdab65cd7f7521d1887108da4dfc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732353,
-            "empire_id":136253041,
-            "locality_id":1259763037,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3655bdab65cd7f7521d1887108da4dfc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732353,
+        "empire_id": 136253041,
+        "locality_id": 1259763037,
+        "region_id": 85669777,
+        "localadmin_id": 890514091
+      }
     ],
-    "wof:id":1259763037,
-    "wof:lastmodified":1566699277,
-    "wof:name":"Guokou",
-    "wof:parent_id":1108732353,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259763037,
+    "wof:lastmodified": 1768667525,
+    "wof:name": "Guokou",
+    "wof:parent_id": 890514091,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.16515,
     30.15125,
     113.16515,
     30.15125
-],
-  "geometry": {"coordinates":[113.16515,30.15125],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.16515,
+      30.15125
+    ],
+    "type": "Point"
+  }
 }

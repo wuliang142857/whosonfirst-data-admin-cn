@@ -2,81 +2,89 @@
   "id": 1309766665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.35911,21.2676,110.35911,21.2676",
-    "geom:latitude":21.2676,
-    "geom:longitude":110.35911,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Nanqiao",
-    "gn:country_code":"CN",
-    "gn:dem":17,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8333981,
-    "gn:latitude":21.2676,
-    "gn:longitude":110.35911,
-    "gn:modification_date":"2012-06-07",
-    "gn:name":"Nanqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"110.33911,21.2476,110.37911,21.2876",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Nanqiao Jiedao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.35911,21.2676,110.35911,21.2676",
+    "geom:latitude": 21.2676,
+    "geom:longitude": 110.35911,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Nanqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 17,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8333981,
+    "gn:latitude": 21.2676,
+    "gn:longitude": 110.35911,
+    "gn:modification_date": "2012-06-07",
+    "gn:name": "Nanqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "110.33911,21.2476,110.37911,21.2876",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Nanqiao Jiedao"
     ],
-    "name:zho_x_preferred":[
-        "\u5357\u6865"
+    "name:zho_x_preferred": [
+      "南桥"
     ],
-    "name:zho_x_variant":[
-        "\u5357\u6865\u8857\u9053"
+    "name:zho_x_variant": [
+      "南桥街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514753
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514753,
+      1127440802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8333981
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8333981
     },
-    "wof:country":"CN",
-    "wof:geomhash":"465add15cb692a08b1bebfffa4ad1b72",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514753,
-            "empire_id":136253041,
-            "locality_id":1309766665,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "465add15cb692a08b1bebfffa4ad1b72",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514753,
+        "empire_id": 136253041,
+        "locality_id": 1309766665,
+        "region_id": 85669743,
+        "localadmin_id": 1127440802
+      }
     ],
-    "wof:id":1309766665,
-    "wof:lastmodified":1566692920,
-    "wof:name":"Nanqiao",
-    "wof:parent_id":890514753,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309766665,
+    "wof:lastmodified": 1768668825,
+    "wof:name": "Nanqiao",
+    "wof:parent_id": 1127440802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.35911000000002,
     21.2676,
     110.35911000000002,
     21.2676
-],
-  "geometry": {"coordinates":[110.35911000000002,21.2676],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.35911000000002,
+      21.2676
+    ],
+    "type": "Point"
+  }
 }

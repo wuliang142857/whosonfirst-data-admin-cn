@@ -2,75 +2,83 @@
   "id": 1260363197,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"87.0914,29.1357,87.0914,29.1357",
-    "geom:latitude":29.1357,
-    "geom:longitude":87.0914,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Payan",
-    "gn:country_code":"CN",
-    "gn:dem":4359,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9088448,
-    "gn:latitude":29.1357,
-    "gn:longitude":87.0914,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Payan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"87.0714,29.1157,87.1114,29.1557",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e15\u70df"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "87.0914,29.1357,87.0914,29.1357",
+    "geom:latitude": 29.1357,
+    "geom:longitude": 87.0914,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Payan",
+    "gn:country_code": "CN",
+    "gn:dem": 4359,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9088448,
+    "gn:latitude": 29.1357,
+    "gn:longitude": 87.0914,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Payan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "87.0714,29.1157,87.1114,29.1557",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "帕烟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890514987,
+      890516395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9088448
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9088448
     },
-    "wof:country":"CN",
-    "wof:geomhash":"58a1074fffcaeecc4cf89aa23f3b5d7f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1260363197,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "58a1074fffcaeecc4cf89aa23f3b5d7f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1260363197,
+        "region_id": 85669747,
+        "localadmin_id": 890514987
+      }
     ],
-    "wof:id":1260363197,
-    "wof:lastmodified":1566686790,
-    "wof:name":"Payan",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260363197,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Payan",
+    "wof:parent_id": 890514987,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     87.0914,
     29.1357,
     87.0914,
     29.1357
-],
-  "geometry": {"coordinates":[87.09139999999999,29.1357],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      87.0914,
+      29.1357
+    ],
+    "type": "Point"
+  }
 }

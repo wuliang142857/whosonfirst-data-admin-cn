@@ -2,80 +2,88 @@
   "id": 1226302729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.67342,23.15717,112.67342,23.15717",
-    "geom:latitude":23.15717,
-    "geom:longitude":112.67342,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Shapu",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1795746,
-    "gn:latitude":23.15717,
-    "gn:longitude":112.67342,
-    "gn:modification_date":"2012-06-05",
-    "gn:name":"Shapu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.65342,23.13717,112.69342,23.17717",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sha-yung",
-        "\u6c99\u6d66",
-        "Shayong",
-        "Shapu",
-        "Shapu Zhen",
-        "\u6c99\u6d66\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.67342,23.15717,112.67342,23.15717",
+    "geom:latitude": 23.15717,
+    "geom:longitude": 112.67342,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Shapu",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1795746,
+    "gn:latitude": 23.15717,
+    "gn:longitude": 112.67342,
+    "gn:modification_date": "2012-06-05",
+    "gn:name": "Shapu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.65342,23.13717,112.69342,23.17717",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sha-yung",
+      "沙浦",
+      "Shayong",
+      "Shapu",
+      "Shapu Zhen",
+      "沙浦镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514727
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514727,
+      1127441203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795746
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795746
     },
-    "wof:country":"CN",
-    "wof:geomhash":"44349e616a7ecc29dc2032328f79b476",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514727,
-            "empire_id":136253041,
-            "locality_id":1226302729,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "44349e616a7ecc29dc2032328f79b476",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514727,
+        "empire_id": 136253041,
+        "locality_id": 1226302729,
+        "region_id": 85669743,
+        "localadmin_id": 1127441203
+      }
     ],
-    "wof:id":1226302729,
-    "wof:lastmodified":1566705041,
-    "wof:name":"Shapu",
-    "wof:parent_id":890514727,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226302729,
+    "wof:lastmodified": 1768667907,
+    "wof:name": "Shapu",
+    "wof:parent_id": 1127441203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.67342,
     23.15717,
     112.67342,
     23.15717
-],
-  "geometry": {"coordinates":[112.67341999999999,23.15717],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.67342,
+      23.15717
+    ],
+    "type": "Point"
+  }
 }

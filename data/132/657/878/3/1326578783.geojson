@@ -2,78 +2,86 @@
   "id": 1326578783,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.53333,30.5,99.53333,30.5",
-    "geom:latitude":30.5,
-    "geom:longitude":99.53333,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Copu Si",
-    "gn:country_code":"CN",
-    "gn:dem":4262,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1281479,
-    "gn:latitude":30.5,
-    "gn:longitude":99.53333,
-    "gn:modification_date":"2001-03-22",
-    "gn:name":"Copu Si",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"99.51333,30.48,99.55333,30.52",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Copu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.53333,30.5,99.53333,30.5",
+    "geom:latitude": 30.5,
+    "geom:longitude": 99.53333,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Copu Si",
+    "gn:country_code": "CN",
+    "gn:dem": 4262,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1281479,
+    "gn:latitude": 30.5,
+    "gn:longitude": 99.53333,
+    "gn:modification_date": "2001-03-22",
+    "gn:name": "Copu Si",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "99.51333,30.48,99.55333,30.52",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Copu"
     ],
-    "name:eng_x_variant":[
-        "Copu Si"
+    "name:eng_x_variant": [
+      "Copu Si"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        890514703,
-        136253041,
-        85669787
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514703,
+      1127513335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1281479
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1281479
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ef42f7726ddecdb2f1a940f38277bf1b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1326578783,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ef42f7726ddecdb2f1a940f38277bf1b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1326578783,
+        "region_id": 85669787,
+        "localadmin_id": 1127513335
+      }
     ],
-    "wof:id":1326578783,
-    "wof:lastmodified":1730271566,
-    "wof:name":"Copu",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326578783,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Copu",
+    "wof:parent_id": 1127513335,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.53333,
     30.5,
     99.53333,
     30.5
-],
-  "geometry": {"coordinates":[99.53333000000001,30.5],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.53333,
+      30.5
+    ],
+    "type": "Point"
+  }
 }

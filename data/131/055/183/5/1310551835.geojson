@@ -2,79 +2,87 @@
   "id": 1310551835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.006,25.1597,103.006,25.1597",
-    "geom:latitude":25.1597,
-    "geom:longitude":103.006,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Xiaoshao",
-    "gn:country_code":"CN",
-    "gn:dem":2054,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1789991,
-    "gn:latitude":25.1597,
-    "gn:longitude":103.006,
-    "gn:modification_date":"2015-03-08",
-    "gn:name":"Xiaoshao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.986,25.1397,103.026,25.1797",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsiao-shao",
-        "Xiaoshao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.006,25.1597,103.006,25.1597",
+    "geom:latitude": 25.1597,
+    "geom:longitude": 103.006,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Xiaoshao",
+    "gn:country_code": "CN",
+    "gn:dem": 2054,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1789991,
+    "gn:latitude": 25.1597,
+    "gn:longitude": 103.006,
+    "gn:modification_date": "2015-03-08",
+    "gn:name": "Xiaoshao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.986,25.1397,103.026,25.1797",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsiao-shao",
+      "Xiaoshao"
     ],
-    "name:zho_x_preferred":[
-        "\u5c0f\u54e8"
+    "name:zho_x_preferred": [
+      "小哨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530111
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1789991
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1789991
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bdee02c79675b16ef070b114eb347acf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1310551835,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bdee02c79675b16ef070b114eb347acf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1310551835,
+        "region_id": 85669791,
+        "localadmin_id": 1127530111
+      }
     ],
-    "wof:id":1310551835,
-    "wof:lastmodified":1566689179,
-    "wof:name":"Xiaoshao",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310551835,
+    "wof:lastmodified": 1768668379,
+    "wof:name": "Xiaoshao",
+    "wof:parent_id": 1127530111,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.006,
     25.1597,
     103.006,
     25.1597
-],
-  "geometry": {"coordinates":[103.006,25.1597],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.006,
+      25.1597
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1276290737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.201,31.0942,105.201,31.0942",
-    "geom:latitude":31.0942,
-    "geom:longitude":105.201,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Baiyang",
-    "gn:country_code":"CN",
-    "gn:dem":387,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10163387,
-    "gn:latitude":31.0942,
-    "gn:longitude":105.201,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Baiyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.181,31.0742,105.221,31.1142",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Baiyang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.201,31.0942,105.201,31.0942",
+    "geom:latitude": 31.0942,
+    "geom:longitude": 105.201,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Baiyang",
+    "gn:country_code": "CN",
+    "gn:dem": 387,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10163387,
+    "gn:latitude": 31.0942,
+    "gn:longitude": 105.201,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Baiyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.181,31.0742,105.221,31.1142",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Baiyang"
     ],
-    "name:deu_x_preferred":[
-        "Baiyang"
+    "name:deu_x_preferred": [
+      "Baiyang"
     ],
-    "name:swe_x_preferred":[
-        "Baiyang"
+    "name:swe_x_preferred": [
+      "Baiyang"
     ],
-    "name:zho_x_preferred":[
-        "\u767d\u6768"
+    "name:zho_x_preferred": [
+      "白杨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514641
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514641,
+      1127510981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10163387
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10163387
     },
-    "wof:country":"CN",
-    "wof:geomhash":"44a3d4f1e6cfdcd8c61d6f1ac1548814",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514641,
-            "empire_id":136253041,
-            "locality_id":1276290737,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "44a3d4f1e6cfdcd8c61d6f1ac1548814",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514641,
+        "empire_id": 136253041,
+        "locality_id": 1276290737,
+        "region_id": 85669787,
+        "localadmin_id": 1127510981
+      }
     ],
-    "wof:id":1276290737,
-    "wof:lastmodified":1566673975,
-    "wof:name":"Baiyang",
-    "wof:parent_id":890514641,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276290737,
+    "wof:lastmodified": 1768668066,
+    "wof:name": "Baiyang",
+    "wof:parent_id": 1127510981,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.201,
     31.0942,
     105.201,
     31.0942
-],
-  "geometry": {"coordinates":[105.20099999999999,31.0942],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.201,
+      31.0942
+    ],
+    "type": "Point"
+  }
 }

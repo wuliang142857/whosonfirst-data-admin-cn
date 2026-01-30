@@ -2,78 +2,86 @@
   "id": 1226041647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.16522,45.39007,125.16522,45.39007",
-    "geom:latitude":45.39007,
-    "geom:longitude":125.16522,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Ga'erqicun",
-    "gn:country_code":"CN",
-    "gn:dem":132,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10907542,
-    "gn:latitude":45.39007,
-    "gn:longitude":125.16522,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Ga\u2019erqicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.14522,45.37007,125.18522,45.41007",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ga\u2019erqicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.16522,45.39007,125.16522,45.39007",
+    "geom:latitude": 45.39007,
+    "geom:longitude": 125.16522,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Ga'erqicun",
+    "gn:country_code": "CN",
+    "gn:dem": 132,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10907542,
+    "gn:latitude": 45.39007,
+    "gn:longitude": 125.16522,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Ga’erqicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.14522,45.37007,125.18522,45.41007",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ga’erqicun"
     ],
-    "name:zho_x_preferred":[
-        "\u560e\u5c14\u5947\u6751"
+    "name:zho_x_preferred": [
+      "嘎尔奇村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890512763
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890512763,
+      1127220781
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10907542
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10907542
     },
-    "wof:country":"CN",
-    "wof:geomhash":"82e4c5438fcc9221934ee6c81d220c85",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512763,
-            "empire_id":136253041,
-            "locality_id":1226041647,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "82e4c5438fcc9221934ee6c81d220c85",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512763,
+        "empire_id": 136253041,
+        "locality_id": 1226041647,
+        "region_id": 85669843,
+        "localadmin_id": 1127220781
+      }
     ],
-    "wof:id":1226041647,
-    "wof:lastmodified":1566702277,
-    "wof:name":"Ga'erqicun",
-    "wof:parent_id":890512763,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226041647,
+    "wof:lastmodified": 1768671034,
+    "wof:name": "Ga'erqicun",
+    "wof:parent_id": 1127220781,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.16522,
     45.39007,
     125.16522,
     45.39007
-],
-  "geometry": {"coordinates":[125.16522000000001,45.39007],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.16522,
+      45.39007
+    ],
+    "type": "Point"
+  }
 }

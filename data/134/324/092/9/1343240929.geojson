@@ -2,77 +2,85 @@
   "id": 1343240929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.13487,40.63383,118.13487,40.63383",
-    "geom:latitude":40.63383,
-    "geom:longitude":118.13487,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Chehekou",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":236,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2038093,
-    "gn:latitude":40.63383,
-    "gn:longitude":118.13487,
-    "gn:modification_date":"2013-06-06",
-    "gn:name":"Chehekou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.11487,40.61383,118.15487,40.65383",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019e-ho-k\u2019ou",
-        "Chehekou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.13487,40.63383,118.13487,40.63383",
+    "geom:latitude": 40.63383,
+    "geom:longitude": 118.13487,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Chehekou",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 236,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2038093,
+    "gn:latitude": 40.63383,
+    "gn:longitude": 118.13487,
+    "gn:modification_date": "2013-06-06",
+    "gn:name": "Chehekou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.11487,40.61383,118.15487,40.65383",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’e-ho-k’ou",
+      "Chehekou"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513327
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513327,
+      1127130822
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2038093
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2038093
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5d224700dd62e19d57d05335f6450979",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513327,
-            "empire_id":136253041,
-            "locality_id":1343240929,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5d224700dd62e19d57d05335f6450979",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513327,
+        "empire_id": 136253041,
+        "locality_id": 1343240929,
+        "region_id": 85669797,
+        "localadmin_id": 1127130822
+      }
     ],
-    "wof:id":1343240929,
-    "wof:lastmodified":1566659701,
-    "wof:name":"Chehekou",
-    "wof:parent_id":890513327,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343240929,
+    "wof:lastmodified": 1768668998,
+    "wof:name": "Chehekou",
+    "wof:parent_id": 1127130822,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.13487,
     40.63383,
     118.13487,
     40.63383
-],
-  "geometry": {"coordinates":[118.13487000000001,40.63383],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.13487,
+      40.63383
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1293754485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"91.1,29.9,91.1,29.9",
-    "geom:latitude":29.9,
-    "geom:longitude":91.1,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Chonggar",
-    "gn:country_code":"CN",
-    "gn:dem":3875,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7928895,
-    "gn:latitude":29.9,
-    "gn:longitude":91.1,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Chonggar",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"91.08,29.88,91.12,29.92",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Chonggar"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "91.1,29.9,91.1,29.9",
+    "geom:latitude": 29.9,
+    "geom:longitude": 91.1,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Chonggar",
+    "gn:country_code": "CN",
+    "gn:dem": 3875,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7928895,
+    "gn:latitude": 29.9,
+    "gn:longitude": 91.1,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Chonggar",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "91.08,29.88,91.12,29.92",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Chonggar"
     ],
-    "name:zho_x_preferred":[
-        "Chongga"
+    "name:zho_x_preferred": [
+      "Chongga"
     ],
-    "name:zho_x_variant":[
-        "\u51b2\u560e"
+    "name:zho_x_variant": [
+      "冲嘎"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890515877
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890515877,
+      1127540121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7928895
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7928895
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1e3933e79a25a4ffe24880fc1eb7ecf9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515877,
-            "empire_id":136253041,
-            "locality_id":1293754485,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1e3933e79a25a4ffe24880fc1eb7ecf9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515877,
+        "empire_id": 136253041,
+        "locality_id": 1293754485,
+        "region_id": 85669747,
+        "localadmin_id": 1127540121
+      }
     ],
-    "wof:id":1293754485,
-    "wof:lastmodified":1566671822,
-    "wof:name":"Chonggar",
-    "wof:parent_id":890515877,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293754485,
+    "wof:lastmodified": 1768666999,
+    "wof:name": "Chonggar",
+    "wof:parent_id": 1127540121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     91.1,
     29.9,
     91.1,
     29.9
-],
-  "geometry": {"coordinates":[91.09999999999999,29.9],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      91.1,
+      29.9
+    ],
+    "type": "Point"
+  }
 }

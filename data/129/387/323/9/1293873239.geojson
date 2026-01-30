@@ -2,75 +2,83 @@
   "id": 1293873239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.73234,33.77516,114.73234,33.77516",
-    "geom:latitude":33.77516,
-    "geom:longitude":114.73234,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Weilaozhuang",
-    "gn:country_code":"CN",
-    "gn:dem":53,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10634130,
-    "gn:latitude":33.77516,
-    "gn:longitude":114.73234,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Weilaozhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.71234,33.75516,114.75234,33.79516",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9b4f\u8001\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.73234,33.77516,114.73234,33.77516",
+    "geom:latitude": 33.77516,
+    "geom:longitude": 114.73234,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Weilaozhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 53,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10634130,
+    "gn:latitude": 33.77516,
+    "gn:longitude": 114.73234,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Weilaozhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.71234,33.75516,114.75234,33.79516",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "魏老庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890513843
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890513843,
+      1127411603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10634130
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10634130
     },
-    "wof:country":"CN",
-    "wof:geomhash":"592aaf6bf2479837c28a050c73c2d5e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513843,
-            "empire_id":136253041,
-            "locality_id":1293873239,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "592aaf6bf2479837c28a050c73c2d5e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513843,
+        "empire_id": 136253041,
+        "locality_id": 1293873239,
+        "region_id": 85669801,
+        "localadmin_id": 1127411603
+      }
     ],
-    "wof:id":1293873239,
-    "wof:lastmodified":1566671203,
-    "wof:name":"Weilaozhuang",
-    "wof:parent_id":890513843,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293873239,
+    "wof:lastmodified": 1768669420,
+    "wof:name": "Weilaozhuang",
+    "wof:parent_id": 1127411603,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.73234,
     33.77516,
     114.73234,
     33.77516
-],
-  "geometry": {"coordinates":[114.73233999999999,33.77516],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.73234,
+      33.77516
+    ],
+    "type": "Point"
+  }
 }

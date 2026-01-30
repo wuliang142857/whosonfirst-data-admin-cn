@@ -2,75 +2,83 @@
   "id": 1243050601,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.266,36.4689,103.266,36.4689",
-    "geom:latitude":36.4689,
-    "geom:longitude":103.266,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Majiagou",
-    "gn:country_code":"CN",
-    "gn:dem":2085,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10680417,
-    "gn:latitude":36.4689,
-    "gn:longitude":103.266,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Majiagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.246,36.4489,103.286,36.4889",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u5bb6\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.266,36.4689,103.266,36.4689",
+    "geom:latitude": 36.4689,
+    "geom:longitude": 103.266,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Majiagou",
+    "gn:country_code": "CN",
+    "gn:dem": 2085,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10680417,
+    "gn:latitude": 36.4689,
+    "gn:longitude": 103.266,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Majiagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.246,36.4489,103.286,36.4889",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马家沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890513013
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890513013,
+      890513203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10680417
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10680417
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c4964508816c124b76aa500c6dc210b4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513013,
-            "empire_id":136253041,
-            "locality_id":1243050601,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c4964508816c124b76aa500c6dc210b4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513013,
+        "empire_id": 136253041,
+        "locality_id": 1243050601,
+        "region_id": 85669711,
+        "localadmin_id": 890513203
+      }
     ],
-    "wof:id":1243050601,
-    "wof:lastmodified":1566696457,
-    "wof:name":"Majiagou",
-    "wof:parent_id":890513013,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243050601,
+    "wof:lastmodified": 1768667404,
+    "wof:name": "Majiagou",
+    "wof:parent_id": 890513203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.266,
     36.4689,
     103.266,
     36.4689
-],
-  "geometry": {"coordinates":[103.26600000000001,36.4689],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.266,
+      36.4689
+    ],
+    "type": "Point"
+  }
 }

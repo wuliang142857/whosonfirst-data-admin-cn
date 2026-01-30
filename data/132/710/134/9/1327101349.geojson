@@ -2,75 +2,83 @@
   "id": 1327101349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.127,34.64486,108.127,34.64486",
-    "geom:latitude":34.64486,
-    "geom:longitude":108.127,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Qinancun",
-    "gn:country_code":"CN",
-    "gn:dem":950,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11343789,
-    "gn:latitude":34.64486,
-    "gn:longitude":108.127,
-    "gn:modification_date":"2016-11-24",
-    "gn:name":"Qinancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.107,34.62486,108.147,34.66486",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9f50\u5357\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.127,34.64486,108.127,34.64486",
+    "geom:latitude": 34.64486,
+    "geom:longitude": 108.127,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Qinancun",
+    "gn:country_code": "CN",
+    "gn:dem": 950,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11343789,
+    "gn:latitude": 34.64486,
+    "gn:longitude": 108.127,
+    "gn:modification_date": "2016-11-24",
+    "gn:name": "Qinancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.107,34.62486,108.147,34.66486",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "齐南村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513227,
+      890515689
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11343789
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11343789
     },
-    "wof:country":"CN",
-    "wof:geomhash":"873a071289ef819f22a1e4600eddd881",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1327101349,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "873a071289ef819f22a1e4600eddd881",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1327101349,
+        "region_id": 85669769,
+        "localadmin_id": 890513227
+      }
     ],
-    "wof:id":1327101349,
-    "wof:lastmodified":1566654550,
-    "wof:name":"Qinancun",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327101349,
+    "wof:lastmodified": 1768667723,
+    "wof:name": "Qinancun",
+    "wof:parent_id": 890513227,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.127,
     34.64485999999999,
     108.127,
     34.64485999999999
-],
-  "geometry": {"coordinates":[108.127,34.64485999999999],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.127,
+      34.64485999999999
+    ],
+    "type": "Point"
+  }
 }

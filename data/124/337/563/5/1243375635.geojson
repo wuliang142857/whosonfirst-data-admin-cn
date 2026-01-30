@@ -2,81 +2,89 @@
   "id": 1243375635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.33571,29.41884,118.33571,29.41884",
-    "geom:latitude":29.41884,
-    "geom:longitude":118.33571,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Qixitian",
-    "gn:country_code":"CN",
-    "gn:dem":364,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1797420,
-    "gn:latitude":29.41884,
-    "gn:longitude":118.33571,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Qixitian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.31571,29.39884,118.35571,29.43884",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ch\u2019i-hsi-t\u2019ien",
-        "Qixi",
-        "Ch\u2019i-ch\u2019i",
-        "Qixitian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.33571,29.41884,118.33571,29.41884",
+    "geom:latitude": 29.41884,
+    "geom:longitude": 118.33571,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Qixitian",
+    "gn:country_code": "CN",
+    "gn:dem": 364,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1797420,
+    "gn:latitude": 29.41884,
+    "gn:longitude": 118.33571,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Qixitian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.31571,29.39884,118.35571,29.43884",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ch’i-hsi-t’ien",
+      "Qixi",
+      "Ch’i-ch’i",
+      "Qixitian"
     ],
-    "name:zho_x_preferred":[
-        "\u9f50\u6eaa\u7530"
+    "name:zho_x_preferred": [
+      "齐溪田"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890514633
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890514633,
+      1127330824
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1797420
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1797420
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5b0848fe14521c5d9305d3c270ab3695",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514633,
-            "empire_id":136253041,
-            "locality_id":1243375635,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5b0848fe14521c5d9305d3c270ab3695",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514633,
+        "empire_id": 136253041,
+        "locality_id": 1243375635,
+        "region_id": 85669835,
+        "localadmin_id": 1127330824
+      }
     ],
-    "wof:id":1243375635,
-    "wof:lastmodified":1566694111,
-    "wof:name":"Qixitian",
-    "wof:parent_id":890514633,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243375635,
+    "wof:lastmodified": 1768670250,
+    "wof:name": "Qixitian",
+    "wof:parent_id": 1127330824,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.33571,
     29.41884000000001,
     118.33571,
     29.41884000000001
-],
-  "geometry": {"coordinates":[118.33571000000001,29.41884000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.33571,
+      29.41884000000001
+    ],
+    "type": "Point"
+  }
 }

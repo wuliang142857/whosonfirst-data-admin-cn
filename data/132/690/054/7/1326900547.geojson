@@ -2,75 +2,83 @@
   "id": 1326900547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.59028,34.75,105.59028,34.75",
-    "geom:latitude":34.75,
-    "geom:longitude":105.59028,
-    "gn:admin1_code":"15",
-    "gn:asciiname":"Xishanping",
-    "gn:country_code":"CN",
-    "gn:dem":1577,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1908013,
-    "gn:latitude":34.75,
-    "gn:longitude":105.59028,
-    "gn:modification_date":"2000-09-14",
-    "gn:name":"Xishanping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.57028,34.73,105.61028,34.77",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u5c71\u576a\u9057\u5740"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.59028,34.75,105.59028,34.75",
+    "geom:latitude": 34.75,
+    "geom:longitude": 105.59028,
+    "gn:admin1_code": "15",
+    "gn:asciiname": "Xishanping",
+    "gn:country_code": "CN",
+    "gn:dem": 1577,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1908013,
+    "gn:latitude": 34.75,
+    "gn:longitude": 105.59028,
+    "gn:modification_date": "2000-09-14",
+    "gn:name": "Xishanping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.57028,34.73,105.61028,34.77",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西山坪遗址"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1908013
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1908013
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c89a0108449fb6ec956a319f0732ee52",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1326900547,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c89a0108449fb6ec956a319f0732ee52",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1326900547,
+        "region_id": 85669711,
+        "localadmin_id": 1127620503
+      }
     ],
-    "wof:id":1326900547,
-    "wof:lastmodified":1566653181,
-    "wof:name":"Xishanping",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326900547,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Xishanping",
+    "wof:parent_id": 1127620503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.59028,
     34.75,
     105.59028,
     34.75
-],
-  "geometry": {"coordinates":[105.59028000000001,34.75],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.59028,
+      34.75
+    ],
+    "type": "Point"
+  }
 }

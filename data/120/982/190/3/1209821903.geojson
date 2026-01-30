@@ -2,75 +2,83 @@
   "id": 1209821903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.82104,27.1117,114.82104,27.1117",
-    "geom:latitude":27.1117,
-    "geom:longitude":114.82104,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Nanchi",
-    "gn:country_code":"CN",
-    "gn:dem":62,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7656791,
-    "gn:latitude":27.1117,
-    "gn:longitude":114.82104,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Nanchi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.80104,27.0917,114.84104,27.1317",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5357\u6c60"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.82104,27.1117,114.82104,27.1117",
+    "geom:latitude": 27.1117,
+    "geom:longitude": 114.82104,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Nanchi",
+    "gn:country_code": "CN",
+    "gn:dem": 62,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7656791,
+    "gn:latitude": 27.1117,
+    "gn:longitude": 114.82104,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Nanchi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.80104,27.0917,114.84104,27.1317",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "南池"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514607
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514607,
+      1127360802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7656791
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7656791
     },
-    "wof:country":"CN",
-    "wof:geomhash":"18412fa3cc52373f7100351f826a9810",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514607,
-            "empire_id":136253041,
-            "locality_id":1209821903,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "18412fa3cc52373f7100351f826a9810",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514607,
+        "empire_id": 136253041,
+        "locality_id": 1209821903,
+        "region_id": 85669823,
+        "localadmin_id": 1127360802
+      }
     ],
-    "wof:id":1209821903,
-    "wof:lastmodified":1566681268,
-    "wof:name":"Nanchi",
-    "wof:parent_id":890514607,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209821903,
+    "wof:lastmodified": 1768669672,
+    "wof:name": "Nanchi",
+    "wof:parent_id": 1127360802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.82104,
     27.1117,
     114.82104,
     27.1117
-],
-  "geometry": {"coordinates":[114.82104,27.1117],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.82104,
+      27.1117
+    ],
+    "type": "Point"
+  }
 }

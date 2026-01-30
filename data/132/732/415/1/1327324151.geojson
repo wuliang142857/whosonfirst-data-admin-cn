@@ -2,81 +2,89 @@
   "id": 1327324151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.84128,46.64326,126.84128,46.64326",
-    "geom:latitude":46.64326,
-    "geom:longitude":126.84128,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Xinhua",
-    "gn:country_code":"CN",
-    "gn:dem":158,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8512145,
-    "gn:latitude":46.64326,
-    "gn:longitude":126.84128,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Xinhua",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.82128,46.62326,126.86128,46.66326",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Xinhua Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.84128,46.64326,126.84128,46.64326",
+    "geom:latitude": 46.64326,
+    "geom:longitude": 126.84128,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Xinhua",
+    "gn:country_code": "CN",
+    "gn:dem": 158,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8512145,
+    "gn:latitude": 46.64326,
+    "gn:longitude": 126.84128,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Xinhua",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.82128,46.62326,126.86128,46.66326",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Xinhua Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u65b0\u534e"
+    "name:zho_x_preferred": [
+      "新华"
     ],
-    "name:zho_x_variant":[
-        "\u65b0\u534e\u4e61"
+    "name:zho_x_variant": [
+      "新华乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8512145
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8512145
     },
-    "wof:country":"CN",
-    "wof:geomhash":"84aaadbb06c6f6ee126603ee51cab396",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1327324151,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "84aaadbb06c6f6ee126603ee51cab396",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1327324151,
+        "region_id": 85669849,
+        "localadmin_id": 1127231202
+      }
     ],
-    "wof:id":1327324151,
-    "wof:lastmodified":1566651362,
-    "wof:name":"Xinhua",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327324151,
+    "wof:lastmodified": 1768668895,
+    "wof:name": "Xinhua",
+    "wof:parent_id": 1127231202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.84128,
     46.64326,
     126.84128,
     46.64326
-],
-  "geometry": {"coordinates":[126.84128,46.64326],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.84128,
+      46.64326
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1259765611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.178,39.156,100.178,39.156",
-    "geom:latitude":39.156,
-    "geom:longitude":100.178,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Xingjiazhuang",
-    "gn:country_code":"CN",
-    "gn:dem":1445,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10644217,
-    "gn:latitude":39.156,
-    "gn:longitude":100.178,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Xingjiazhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.158,39.136,100.198,39.176",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a2\u5bb6\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.178,39.156,100.178,39.156",
+    "geom:latitude": 39.156,
+    "geom:longitude": 100.178,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Xingjiazhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 1445,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10644217,
+    "gn:latitude": 39.156,
+    "gn:longitude": 100.178,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Xingjiazhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.158,39.136,100.198,39.176",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "邢家庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890515163
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515163,
+      1127620723
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10644217
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10644217
     },
-    "wof:country":"CN",
-    "wof:geomhash":"01b9a7a1e31bd56be8ee84011318cf61",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515163,
-            "empire_id":136253041,
-            "locality_id":1259765611,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "01b9a7a1e31bd56be8ee84011318cf61",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515163,
+        "empire_id": 136253041,
+        "locality_id": 1259765611,
+        "region_id": 85669711,
+        "localadmin_id": 1127620723
+      }
     ],
-    "wof:id":1259765611,
-    "wof:lastmodified":1566699245,
-    "wof:name":"Xingjiazhuang",
-    "wof:parent_id":890515163,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259765611,
+    "wof:lastmodified": 1768666543,
+    "wof:name": "Xingjiazhuang",
+    "wof:parent_id": 1127620723,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.178,
     39.156,
     100.178,
     39.156
-],
-  "geometry": {"coordinates":[100.178,39.156],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.178,
+      39.156
+    ],
+    "type": "Point"
+  }
 }

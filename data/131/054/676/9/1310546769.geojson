@@ -2,75 +2,83 @@
   "id": 1310546769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.567,29.928,105.567,29.928",
-    "geom:latitude":29.928,
-    "geom:longitude":105.567,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Baofeng",
-    "gn:country_code":"CN",
-    "gn:dem":322,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10162743,
-    "gn:latitude":29.928,
-    "gn:longitude":105.567,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Baofeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.547,29.908,105.587,29.948",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b9d\u5cf0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.567,29.928,105.567,29.928",
+    "geom:latitude": 29.928,
+    "geom:longitude": 105.567,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Baofeng",
+    "gn:country_code": "CN",
+    "gn:dem": 322,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10162743,
+    "gn:latitude": 29.928,
+    "gn:longitude": 105.567,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Baofeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.547,29.908,105.587,29.948",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宝峰"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10162743
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10162743
     },
-    "wof:country":"CN",
-    "wof:geomhash":"45b764a7588e983c87d9b4c806987f6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1310546769,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "45b764a7588e983c87d9b4c806987f6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1310546769,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1310546769,
-    "wof:lastmodified":1566688740,
-    "wof:name":"Baofeng",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310546769,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Baofeng",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.567,
     29.928,
     105.567,
     29.928
-],
-  "geometry": {"coordinates":[105.56699999999999,29.928],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.567,
+      29.928
+    ],
+    "type": "Point"
+  }
 }

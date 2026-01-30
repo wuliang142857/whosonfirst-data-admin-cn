@@ -2,81 +2,89 @@
   "id": 1259886485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.56476,24.73537,115.56476,24.73537",
-    "geom:latitude":24.73537,
-    "geom:longitude":115.56476,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Luwu",
-    "gn:country_code":"CN",
-    "gn:dem":286,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7644773,
-    "gn:latitude":24.73537,
-    "gn:longitude":115.56476,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Luwu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.54476,24.71537,115.58476,24.75537",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ind_x_preferred":[
-        "Kedatuan Luwu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.56476,24.73537,115.56476,24.73537",
+    "geom:latitude": 24.73537,
+    "geom:longitude": 115.56476,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Luwu",
+    "gn:country_code": "CN",
+    "gn:dem": 286,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7644773,
+    "gn:latitude": 24.73537,
+    "gn:longitude": 115.56476,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Luwu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.54476,24.71537,115.58476,24.75537",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ind_x_preferred": [
+      "Kedatuan Luwu"
     ],
-    "name:msa_x_preferred":[
-        "Kerajaan Luwuk"
+    "name:msa_x_preferred": [
+      "Kerajaan Luwuk"
     ],
-    "name:und_x_variant":[
-        "\u5362\u5c4b"
+    "name:und_x_variant": [
+      "卢屋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890511835
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890511835,
+      1127360734
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7644773
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7644773
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6feddba3c339785c67b43732a908076f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511835,
-            "empire_id":136253041,
-            "locality_id":1259886485,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6feddba3c339785c67b43732a908076f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511835,
+        "empire_id": 136253041,
+        "locality_id": 1259886485,
+        "region_id": 85669823,
+        "localadmin_id": 1127360734
+      }
     ],
-    "wof:id":1259886485,
-    "wof:lastmodified":1566700488,
-    "wof:name":"Luwu",
-    "wof:parent_id":890511835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259886485,
+    "wof:lastmodified": 1768669691,
+    "wof:name": "Luwu",
+    "wof:parent_id": 1127360734,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.56476,
     24.73537,
     115.56476,
     24.73537
-],
-  "geometry": {"coordinates":[115.56476000000001,24.73537],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.56476,
+      24.73537
+    ],
+    "type": "Point"
+  }
 }

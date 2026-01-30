@@ -2,78 +2,86 @@
   "id": 1242686227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.78366,30.24649,119.78366,30.24649",
-    "geom:latitude":30.24649,
-    "geom:longitude":119.78366,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Taiyangwan",
-    "gn:country_code":"CN",
-    "gn:dem":52,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7679762,
-    "gn:latitude":30.24649,
-    "gn:longitude":119.78366,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Taiyangwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.76366,30.22649,119.80366,30.26649",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u592a\u9633\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.78366,30.24649,119.78366,30.24649",
+    "geom:latitude": 30.24649,
+    "geom:longitude": 119.78366,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Taiyangwan",
+    "gn:country_code": "CN",
+    "gn:dem": 52,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7679762,
+    "gn:latitude": 30.24649,
+    "gn:longitude": 119.78366,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Taiyangwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.76366,30.22649,119.80366,30.26649",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "太阳湾"
     ],
-    "name:zho_x_preferred":[
-        "Taiyangwan"
+    "name:zho_x_preferred": [
+      "Taiyangwan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516555
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516555,
+      1125273243
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7679762
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7679762
     },
-    "wof:country":"CN",
-    "wof:geomhash":"909fea2e11e54709071eaf250dcfe147",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516555,
-            "empire_id":136253041,
-            "locality_id":1242686227,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "909fea2e11e54709071eaf250dcfe147",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516555,
+        "empire_id": 136253041,
+        "locality_id": 1242686227,
+        "region_id": 85669835,
+        "localadmin_id": 1125273243
+      }
     ],
-    "wof:id":1242686227,
-    "wof:lastmodified":1566694780,
-    "wof:name":"Taiyangwan",
-    "wof:parent_id":890516555,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242686227,
+    "wof:lastmodified": 1768663108,
+    "wof:name": "Taiyangwan",
+    "wof:parent_id": 1125273243,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.78366,
     30.24649,
     119.78366,
     30.24649
-],
-  "geometry": {"coordinates":[119.78366,30.24649],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.78366,
+      30.24649
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310672917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.492,24.158,109.492,24.158",
-    "geom:latitude":24.158,
-    "geom:longitude":109.492,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Dachang",
-    "gn:country_code":"CN",
-    "gn:dem":250,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9932668,
-    "gn:latitude":24.158,
-    "gn:longitude":109.492,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Dachang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.472,24.138,109.512,24.178",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5382"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.492,24.158,109.492,24.158",
+    "geom:latitude": 24.158,
+    "geom:longitude": 109.492,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Dachang",
+    "gn:country_code": "CN",
+    "gn:dem": 250,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9932668,
+    "gn:latitude": 24.158,
+    "gn:longitude": 109.492,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Dachang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.472,24.138,109.512,24.178",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大厂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515127,
+      1127450203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9932668
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9932668
     },
-    "wof:country":"CN",
-    "wof:geomhash":"13f4eebd728d374c3ea1a51fb96d9175",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515127,
-            "empire_id":136253041,
-            "locality_id":1310672917,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "13f4eebd728d374c3ea1a51fb96d9175",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515127,
+        "empire_id": 136253041,
+        "locality_id": 1310672917,
+        "region_id": 85669717,
+        "localadmin_id": 1127450203
+      }
     ],
-    "wof:id":1310672917,
-    "wof:lastmodified":1566690941,
-    "wof:name":"Dachang",
-    "wof:parent_id":890515127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310672917,
+    "wof:lastmodified": 1768665481,
+    "wof:name": "Dachang",
+    "wof:parent_id": 1127450203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.492,
     24.158,
     109.492,
     24.158
-],
-  "geometry": {"coordinates":[109.492,24.158],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.492,
+      24.158
+    ],
+    "type": "Point"
+  }
 }

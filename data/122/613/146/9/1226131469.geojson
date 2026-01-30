@@ -2,81 +2,89 @@
   "id": 1226131469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.36114,36.14008,115.36114,36.14008",
-    "geom:latitude":36.14008,
-    "geom:longitude":115.36114,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Shanyue",
-    "gn:country_code":"CN",
-    "gn:dem":47,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9116381,
-    "gn:latitude":36.14008,
-    "gn:longitude":115.36114,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Shanyue",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.34114,36.12008,115.38114,36.16008",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ind_x_preferred":[
-        "Shanyue"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.36114,36.14008,115.36114,36.14008",
+    "geom:latitude": 36.14008,
+    "geom:longitude": 115.36114,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Shanyue",
+    "gn:country_code": "CN",
+    "gn:dem": 47,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9116381,
+    "gn:latitude": 36.14008,
+    "gn:longitude": 115.36114,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Shanyue",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.34114,36.12008,115.38114,36.16008",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ind_x_preferred": [
+      "Shanyue"
     ],
-    "name:vie_x_preferred":[
-        "S\u01a1n Vi\u1ec7t"
+    "name:vie_x_preferred": [
+      "Sơn Việt"
     ],
-    "name:zho_x_preferred":[
-        "\u5c71\u5cb3"
+    "name:zho_x_preferred": [
+      "山岳"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890511887
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890511887,
+      1127130425
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9116381
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9116381
     },
-    "wof:country":"CN",
-    "wof:geomhash":"473eb60d26ac5ac2389ac93d4ffad968",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511887,
-            "empire_id":136253041,
-            "locality_id":1226131469,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "473eb60d26ac5ac2389ac93d4ffad968",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511887,
+        "empire_id": 136253041,
+        "locality_id": 1226131469,
+        "region_id": 85669797,
+        "localadmin_id": 1127130425
+      }
     ],
-    "wof:id":1226131469,
-    "wof:lastmodified":1566703729,
-    "wof:name":"Shanyue",
-    "wof:parent_id":890511887,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226131469,
+    "wof:lastmodified": 1768669464,
+    "wof:name": "Shanyue",
+    "wof:parent_id": 1127130425,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.36114,
     36.14008,
     115.36114,
     36.14008
-],
-  "geometry": {"coordinates":[115.36114000000001,36.14008],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.36114,
+      36.14008
+    ],
+    "type": "Point"
+  }
 }

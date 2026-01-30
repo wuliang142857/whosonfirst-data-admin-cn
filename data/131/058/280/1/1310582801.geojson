@@ -2,75 +2,83 @@
   "id": 1310582801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.76,23.2537,110.76,23.2537",
-    "geom:latitude":23.2537,
-    "geom:longitude":110.76,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Raogu",
-    "gn:country_code":"CN",
-    "gn:dem":66,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9894165,
-    "gn:latitude":23.2537,
-    "gn:longitude":110.76,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Raogu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.74,23.2337,110.78,23.2737",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9976\u53e4"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.76,23.2537,110.76,23.2537",
+    "geom:latitude": 23.2537,
+    "geom:longitude": 110.76,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Raogu",
+    "gn:country_code": "CN",
+    "gn:dem": 66,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9894165,
+    "gn:latitude": 23.2537,
+    "gn:longitude": 110.76,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Raogu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.74,23.2337,110.78,23.2737",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "饶古"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9894165
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9894165
     },
-    "wof:country":"CN",
-    "wof:geomhash":"45a777bd73893c4a528e11fa199f3421",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1310582801,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "45a777bd73893c4a528e11fa199f3421",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1310582801,
+        "region_id": 85669717,
+        "localadmin_id": 1127450422
+      }
     ],
-    "wof:id":1310582801,
-    "wof:lastmodified":1566690959,
-    "wof:name":"Raogu",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310582801,
+    "wof:lastmodified": 1768665954,
+    "wof:name": "Raogu",
+    "wof:parent_id": 1127450422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.76,
     23.2537,
     110.76,
     23.2537
-],
-  "geometry": {"coordinates":[110.76000000000001,23.2537],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.76,
+      23.2537
+    ],
+    "type": "Point"
+  }
 }

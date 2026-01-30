@@ -2,75 +2,83 @@
   "id": 1243455953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.885,28.4872,114.885,28.4872",
-    "geom:latitude":28.4872,
-    "geom:longitude":114.885,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Pengyuan",
-    "gn:country_code":"CN",
-    "gn:dem":193,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9876774,
-    "gn:latitude":28.4872,
-    "gn:longitude":114.885,
-    "gn:modification_date":"2014-12-05",
-    "gn:name":"Pengyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.865,28.4672,114.905,28.5072",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f6d\u6e90"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.885,28.4872,114.885,28.4872",
+    "geom:latitude": 28.4872,
+    "geom:longitude": 114.885,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Pengyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 193,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9876774,
+    "gn:latitude": 28.4872,
+    "gn:longitude": 114.885,
+    "gn:modification_date": "2014-12-05",
+    "gn:name": "Pengyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.865,28.4672,114.905,28.5072",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "彭源"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514553,
+      1127360924
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9876774
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9876774
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3c9744c7df5d99eb8c24f94d6693915e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514553,
-            "empire_id":136253041,
-            "locality_id":1243455953,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3c9744c7df5d99eb8c24f94d6693915e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514553,
+        "empire_id": 136253041,
+        "locality_id": 1243455953,
+        "region_id": 85669823,
+        "localadmin_id": 1127360924
+      }
     ],
-    "wof:id":1243455953,
-    "wof:lastmodified":1566697520,
-    "wof:name":"Pengyuan",
-    "wof:parent_id":890514553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243455953,
+    "wof:lastmodified": 1768669928,
+    "wof:name": "Pengyuan",
+    "wof:parent_id": 1127360924,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.885,
     28.4872,
     114.885,
     28.4872
-],
-  "geometry": {"coordinates":[114.88500000000001,28.4872],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.885,
+      28.4872
+    ],
+    "type": "Point"
+  }
 }

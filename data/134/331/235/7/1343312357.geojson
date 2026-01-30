@@ -2,75 +2,83 @@
   "id": 1343312357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"103.749,24.224,103.749,24.224",
-    "geom:latitude":24.224,
-    "geom:longitude":103.749,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Jiazu",
-    "gn:country_code":"CN",
-    "gn:dem":1868,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10039790,
-    "gn:latitude":24.224,
-    "gn:longitude":103.749,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Jiazu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"103.729,24.204,103.769,24.244",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u52a0\u79df"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "103.749,24.224,103.749,24.224",
+    "geom:latitude": 24.224,
+    "geom:longitude": 103.749,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Jiazu",
+    "gn:country_code": "CN",
+    "gn:dem": 1868,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10039790,
+    "gn:latitude": 24.224,
+    "gn:longitude": 103.749,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Jiazu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "103.729,24.204,103.769,24.244",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "加租"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        1108794063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      1108794063,
+      1127532504
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10039790
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10039790
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4c4beb1cc2e37999bca12a5a4d987a2a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794063,
-            "empire_id":136253041,
-            "locality_id":1343312357,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4c4beb1cc2e37999bca12a5a4d987a2a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794063,
+        "empire_id": 136253041,
+        "locality_id": 1343312357,
+        "region_id": 85669791,
+        "localadmin_id": 1127532504
+      }
     ],
-    "wof:id":1343312357,
-    "wof:lastmodified":1566655956,
-    "wof:name":"Jiazu",
-    "wof:parent_id":1108794063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343312357,
+    "wof:lastmodified": 1768668217,
+    "wof:name": "Jiazu",
+    "wof:parent_id": 1127532504,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     103.749,
     24.224,
     103.749,
     24.224
-],
-  "geometry": {"coordinates":[103.749,24.224],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      103.749,
+      24.224
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1293693965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.445,27.159,115.445,27.159",
-    "geom:latitude":27.159,
-    "geom:longitude":115.445,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Kuzhuxiang",
-    "gn:country_code":"CN",
-    "gn:dem":102,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11047898,
-    "gn:latitude":27.159,
-    "gn:longitude":115.445,
-    "gn:modification_date":"2016-01-09",
-    "gn:name":"Kuzhuxiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.425,27.139,115.465,27.179",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u82e6\u73e0\u5df7"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.445,27.159,115.445,27.159",
+    "geom:latitude": 27.159,
+    "geom:longitude": 115.445,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Kuzhuxiang",
+    "gn:country_code": "CN",
+    "gn:dem": 102,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11047898,
+    "gn:latitude": 27.159,
+    "gn:longitude": 115.445,
+    "gn:modification_date": "2016-01-09",
+    "gn:name": "Kuzhuxiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.425,27.139,115.465,27.179",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "苦珠巷"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514607
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514607,
+      1127360825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11047898
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11047898
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a5552d2b9bc2446ca419a7bf83acfe43",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514607,
-            "empire_id":136253041,
-            "locality_id":1293693965,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a5552d2b9bc2446ca419a7bf83acfe43",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514607,
+        "empire_id": 136253041,
+        "locality_id": 1293693965,
+        "region_id": 85669823,
+        "localadmin_id": 1127360825
+      }
     ],
-    "wof:id":1293693965,
-    "wof:lastmodified":1566669236,
-    "wof:name":"Kuzhuxiang",
-    "wof:parent_id":890514607,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293693965,
+    "wof:lastmodified": 1768669673,
+    "wof:name": "Kuzhuxiang",
+    "wof:parent_id": 1127360825,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.445,
     27.159,
     115.445,
     27.159
-],
-  "geometry": {"coordinates":[115.44499999999999,27.159],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.445,
+      27.159
+    ],
+    "type": "Point"
+  }
 }

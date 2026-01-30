@@ -2,75 +2,83 @@
   "id": 1276931231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.805,34.67111,108.805,34.67111",
-    "geom:latitude":34.67111,
-    "geom:longitude":108.805,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Jianglu",
-    "gn:country_code":"CN",
-    "gn:dem":462,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1910264,
-    "gn:latitude":34.67111,
-    "gn:longitude":108.805,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Jianglu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.785,34.65111,108.825,34.69111",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u848b\u8def"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.805,34.67111,108.805,34.67111",
+    "geom:latitude": 34.67111,
+    "geom:longitude": 108.805,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Jianglu",
+    "gn:country_code": "CN",
+    "gn:dem": 462,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1910264,
+    "gn:latitude": 34.67111,
+    "gn:longitude": 108.805,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Jianglu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.785,34.65111,108.825,34.69111",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "蒋路"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515689
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890513225,
+      890515689
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1910264
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1910264
     },
-    "wof:country":"CN",
-    "wof:geomhash":"71e9f62ab63f39e8855d13bc2b296969",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515689,
-            "empire_id":136253041,
-            "locality_id":1276931231,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "71e9f62ab63f39e8855d13bc2b296969",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515689,
+        "empire_id": 136253041,
+        "locality_id": 1276931231,
+        "region_id": 85669769,
+        "localadmin_id": 890513225
+      }
     ],
-    "wof:id":1276931231,
-    "wof:lastmodified":1566674592,
-    "wof:name":"Jianglu",
-    "wof:parent_id":890515689,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276931231,
+    "wof:lastmodified": 1768667723,
+    "wof:name": "Jianglu",
+    "wof:parent_id": 890513225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.805,
     34.67111,
     108.805,
     34.67111
-],
-  "geometry": {"coordinates":[108.80500000000001,34.67111],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.805,
+      34.67111
+    ],
+    "type": "Point"
+  }
 }

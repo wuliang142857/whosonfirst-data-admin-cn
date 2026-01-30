@@ -2,87 +2,95 @@
   "id": 1343423257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.212,40.9632,123.212,40.9632",
-    "geom:latitude":40.9632,
-    "geom:longitude":123.212,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Zhonghua",
-    "gn:country_code":"CN",
-    "gn:dem":180,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7919423,
-    "gn:latitude":40.9632,
-    "gn:longitude":123.212,
-    "gn:modification_date":"2017-04-07",
-    "gn:name":"Zhonghua",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.192,40.9432,123.232,40.9832",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:cdo_x_preferred":[
-        "D\u1e73\u0306ng-hu\u00e0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.212,40.9632,123.212,40.9632",
+    "geom:latitude": 40.9632,
+    "geom:longitude": 123.212,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Zhonghua",
+    "gn:country_code": "CN",
+    "gn:dem": 180,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7919423,
+    "gn:latitude": 40.9632,
+    "gn:longitude": 123.212,
+    "gn:modification_date": "2017-04-07",
+    "gn:name": "Zhonghua",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.192,40.9432,123.232,40.9832",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:cdo_x_preferred": [
+      "Dṳ̆ng-huà"
     ],
-    "name:deu_x_preferred":[
-        "Zhonghua"
+    "name:deu_x_preferred": [
+      "Zhonghua"
     ],
-    "name:hak_x_preferred":[
-        "Ch\u00fbng-f\u00e0"
+    "name:hak_x_preferred": [
+      "Chûng-fà"
     ],
-    "name:und_x_variant":[
-        "\u4e2d\u534e"
+    "name:und_x_variant": [
+      "中华"
     ],
-    "name:zho_x_preferred":[
-        "\u4e2d\u83ef"
+    "name:zho_x_preferred": [
+      "中華"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514643
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514643,
+      1127211021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7919423
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7919423
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cf9ed4d923618d1ea3cf1b017245ef37",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514643,
-            "empire_id":136253041,
-            "locality_id":1343423257,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cf9ed4d923618d1ea3cf1b017245ef37",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514643,
+        "empire_id": 136253041,
+        "locality_id": 1343423257,
+        "region_id": 85669807,
+        "localadmin_id": 1127211021
+      }
     ],
-    "wof:id":1343423257,
-    "wof:lastmodified":1566663577,
-    "wof:name":"Zhonghua",
-    "wof:parent_id":890514643,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343423257,
+    "wof:lastmodified": 1768666776,
+    "wof:name": "Zhonghua",
+    "wof:parent_id": 1127211021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.212,
     40.9632,
     123.212,
     40.9632
-],
-  "geometry": {"coordinates":[123.212,40.9632],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.212,
+      40.9632
+    ],
+    "type": "Point"
+  }
 }

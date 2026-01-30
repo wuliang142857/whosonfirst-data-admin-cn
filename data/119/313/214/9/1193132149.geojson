@@ -2,75 +2,83 @@
   "id": 1193132149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.774,38.5662,116.774,38.5662",
-    "geom:latitude":38.5662,
-    "geom:longitude":116.774,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Dongmaqiao",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630126,
-    "gn:latitude":38.5662,
-    "gn:longitude":116.774,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Dongmaqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.754,38.5462,116.794,38.5862",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u9a6c\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.774,38.5662,116.774,38.5662",
+    "geom:latitude": 38.5662,
+    "geom:longitude": 116.774,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Dongmaqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630126,
+    "gn:latitude": 38.5662,
+    "gn:longitude": 116.774,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Dongmaqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.754,38.5462,116.794,38.5862",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东马桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630126
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630126
     },
-    "wof:country":"CN",
-    "wof:geomhash":"00464e2227973572220e9d4ae79ee546",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1193132149,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "00464e2227973572220e9d4ae79ee546",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1193132149,
+        "region_id": 85669797,
+        "localadmin_id": 1127130922
+      }
     ],
-    "wof:id":1193132149,
-    "wof:lastmodified":1566685197,
-    "wof:name":"Dongmaqiao",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193132149,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Dongmaqiao",
+    "wof:parent_id": 1127130922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.774,
     38.5662,
     116.774,
     38.5662
-],
-  "geometry": {"coordinates":[116.774,38.5662],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.774,
+      38.5662
+    ],
+    "type": "Point"
+  }
 }

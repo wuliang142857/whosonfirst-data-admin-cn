@@ -2,78 +2,86 @@
   "id": 1360285423,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.875,34.2673,117.875,34.2673",
-    "geom:latitude":34.2673,
-    "geom:longitude":117.875,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Lujia",
-    "gn:country_code":"CN",
-    "gn:dem":26,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11089676,
-    "gn:latitude":34.2673,
-    "gn:longitude":117.875,
-    "gn:modification_date":"2016-03-12",
-    "gn:name":"L\u00fcjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.855,34.2473,117.895,34.2873",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "L\u00fcjia"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.875,34.2673,117.875,34.2673",
+    "geom:latitude": 34.2673,
+    "geom:longitude": 117.875,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Lujia",
+    "gn:country_code": "CN",
+    "gn:dem": 26,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11089676,
+    "gn:latitude": 34.2673,
+    "gn:longitude": 117.875,
+    "gn:modification_date": "2016-03-12",
+    "gn:name": "Lüjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.855,34.2473,117.895,34.2873",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Lüjia"
     ],
-    "name:zho_x_preferred":[
-        "\u5415\u5bb6"
+    "name:zho_x_preferred": [
+      "吕家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516333
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890512647,
+      890516333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11089676
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11089676
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0d9000ee3413493e186ad1cefa5a58b4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516333,
-            "empire_id":136253041,
-            "locality_id":1360285423,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0d9000ee3413493e186ad1cefa5a58b4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516333,
+        "empire_id": 136253041,
+        "locality_id": 1360285423,
+        "region_id": 85669827,
+        "localadmin_id": 890512647
+      }
     ],
-    "wof:id":1360285423,
-    "wof:lastmodified":1566691924,
-    "wof:name":"Lujia",
-    "wof:parent_id":890516333,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360285423,
+    "wof:lastmodified": 1768670915,
+    "wof:name": "Lujia",
+    "wof:parent_id": 890512647,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.875,
     34.2673,
     117.875,
     34.2673
-],
-  "geometry": {"coordinates":[117.875,34.2673],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.875,
+      34.2673
+    ],
+    "type": "Point"
+  }
 }

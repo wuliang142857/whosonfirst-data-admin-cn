@@ -2,75 +2,83 @@
   "id": 1259966465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.59324,30.41427,113.59324,30.41427",
-    "geom:latitude":30.41427,
-    "geom:longitude":113.59324,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Wumaoyuan",
-    "gn:country_code":"CN",
-    "gn:dem":28,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8514544,
-    "gn:latitude":30.41427,
-    "gn:longitude":113.59324,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Wumaoyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.57324,30.39427,113.61324,30.43427",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e4c\u5e3d\u57b8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.59324,30.41427,113.59324,30.41427",
+    "geom:latitude": 30.41427,
+    "geom:longitude": 113.59324,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Wumaoyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 28,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8514544,
+    "gn:latitude": 30.41427,
+    "gn:longitude": 113.59324,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Wumaoyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.57324,30.39427,113.61324,30.43427",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "乌帽垸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732353
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514091,
+      1108732353
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8514544
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8514544
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1cd2dc92e4f4d348bd336dbaac1d2bbc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732353,
-            "empire_id":136253041,
-            "locality_id":1259966465,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1cd2dc92e4f4d348bd336dbaac1d2bbc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732353,
+        "empire_id": 136253041,
+        "locality_id": 1259966465,
+        "region_id": 85669777,
+        "localadmin_id": 890514091
+      }
     ],
-    "wof:id":1259966465,
-    "wof:lastmodified":1566698273,
-    "wof:name":"Wumaoyuan",
-    "wof:parent_id":1108732353,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259966465,
+    "wof:lastmodified": 1768667525,
+    "wof:name": "Wumaoyuan",
+    "wof:parent_id": 890514091,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.59324,
     30.41427,
     113.59324,
     30.41427
-],
-  "geometry": {"coordinates":[113.59323999999999,30.41427],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.59324,
+      30.41427
+    ],
+    "type": "Point"
+  }
 }

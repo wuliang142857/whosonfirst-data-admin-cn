@@ -2,83 +2,91 @@
   "id": 1327345817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.42389,29.57751,121.42389,29.57751",
-    "geom:latitude":29.57751,
-    "geom:longitude":121.42389,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Fangmencun",
-    "gn:country_code":"CN",
-    "gn:dem":47,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1897518,
-    "gn:latitude":29.57751,
-    "gn:longitude":121.42389,
-    "gn:modification_date":"2018-01-10",
-    "gn:name":"Fangmencun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.40389,29.55751,121.44389,29.59751",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Fang-men-shih",
-        "Fangmen",
-        "Fangmencun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.42389,29.57751,121.42389,29.57751",
+    "geom:latitude": 29.57751,
+    "geom:longitude": 121.42389,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Fangmencun",
+    "gn:country_code": "CN",
+    "gn:dem": 47,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1897518,
+    "gn:latitude": 29.57751,
+    "gn:longitude": 121.42389,
+    "gn:modification_date": "2018-01-10",
+    "gn:name": "Fangmencun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.40389,29.55751,121.44389,29.59751",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Fang-men-shih",
+      "Fangmen",
+      "Fangmencun"
     ],
-    "name:zho_x_preferred":[
-        "\u65b9\u95e8"
+    "name:zho_x_preferred": [
+      "方门"
     ],
-    "name:zho_x_variant":[
-        "\u65b9\u95e8\u6751"
+    "name:zho_x_variant": [
+      "方门村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516553
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516553,
+      1127330213
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1897518
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1897518
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8bda8e879c547cc5ccceca5e8bbe3971",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516553,
-            "empire_id":136253041,
-            "locality_id":1327345817,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8bda8e879c547cc5ccceca5e8bbe3971",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516553,
+        "empire_id": 136253041,
+        "locality_id": 1327345817,
+        "region_id": 85669835,
+        "localadmin_id": 1127330213
+      }
     ],
-    "wof:id":1327345817,
-    "wof:lastmodified":1566651225,
-    "wof:name":"Fangmencun",
-    "wof:parent_id":890516553,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327345817,
+    "wof:lastmodified": 1768669614,
+    "wof:name": "Fangmencun",
+    "wof:parent_id": 1127330213,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.42389,
     29.57751,
     121.42389,
     29.57751
-],
-  "geometry": {"coordinates":[121.42389,29.57751],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.42389,
+      29.57751
+    ],
+    "type": "Point"
+  }
 }

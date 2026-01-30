@@ -2,78 +2,86 @@
   "id": 1326687729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.8525,35.46722,112.8525,35.46722",
-    "geom:latitude":35.46722,
-    "geom:longitude":112.8525,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Jinchengzhan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":686,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1805737,
-    "gn:latitude":35.46722,
-    "gn:longitude":112.8525,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Jinchengzhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.8325,35.44722,112.8725,35.48722",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chin-ch\u2019eng-chan",
-        "Hui-ch\u00fcn",
-        "Jinchengzhan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.8525,35.46722,112.8525,35.46722",
+    "geom:latitude": 35.46722,
+    "geom:longitude": 112.8525,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Jinchengzhan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 686,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1805737,
+    "gn:latitude": 35.46722,
+    "gn:longitude": 112.8525,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Jinchengzhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.8325,35.44722,112.8725,35.48722",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chin-ch’eng-chan",
+      "Hui-chün",
+      "Jinchengzhan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890514749
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890514749,
+      1127140525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1805737
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1805737
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f9bc3c92e8fe9ac2b912712779a6e9c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514749,
-            "empire_id":136253041,
-            "locality_id":1326687729,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f9bc3c92e8fe9ac2b912712779a6e9c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514749,
+        "empire_id": 136253041,
+        "locality_id": 1326687729,
+        "region_id": 85669773,
+        "localadmin_id": 1127140525
+      }
     ],
-    "wof:id":1326687729,
-    "wof:lastmodified":1566649682,
-    "wof:name":"Jinchengzhan",
-    "wof:parent_id":890514749,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326687729,
+    "wof:lastmodified": 1768666652,
+    "wof:name": "Jinchengzhan",
+    "wof:parent_id": 1127140525,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.8525,
     35.46722000000001,
     112.8525,
     35.46722000000001
-],
-  "geometry": {"coordinates":[112.85250000000001,35.46722000000001],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.8525,
+      35.46722000000001
+    ],
+    "type": "Point"
+  }
 }

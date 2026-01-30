@@ -2,73 +2,81 @@
   "id": 1260324215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.12544,19.61874,109.12544,19.61874",
-    "geom:latitude":19.61874,
-    "geom:longitude":109.12544,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Shagou",
-    "gn:country_code":"CN",
-    "gn:dem":22,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7639903,
-    "gn:latitude":19.61874,
-    "gn:longitude":109.12544,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Shagou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.10544,19.59874,109.14544,19.63874",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c99\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.12544,19.61874,109.12544,19.61874",
+    "geom:latitude": 19.61874,
+    "geom:longitude": 109.12544,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Shagou",
+    "gn:country_code": "CN",
+    "gn:dem": 22,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7639903,
+    "gn:latitude": 19.61874,
+    "gn:longitude": 109.12544,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Shagou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.10544,19.59874,109.14544,19.63874",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沙沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732359
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      1108732359,
+      1127460400
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7639903
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7639903
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b27c796ccf2c1dfa010bacd3853bbbcf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732359,
-            "locality_id":1260324215,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b27c796ccf2c1dfa010bacd3853bbbcf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732359,
+        "locality_id": 1260324215,
+        "region_id": 85669759,
+        "localadmin_id": 1127460400
+      }
     ],
-    "wof:id":1260324215,
-    "wof:lastmodified":1566687651,
-    "wof:name":"Shagou",
-    "wof:parent_id":1108732359,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260324215,
+    "wof:lastmodified": 1768671226,
+    "wof:name": "Shagou",
+    "wof:parent_id": 1127460400,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.12544,
     19.61874,
     109.12544,
     19.61874
-],
-  "geometry": {"coordinates":[109.12544,19.61874],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.12544,
+      19.61874
+    ],
+    "type": "Point"
+  }
 }

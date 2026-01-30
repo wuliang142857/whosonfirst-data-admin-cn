@@ -2,86 +2,94 @@
   "id": 1260187555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.12906,32.71703,120.12906,32.71703",
-    "geom:latitude":32.71703,
-    "geom:longitude":120.12906,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Dainan",
-    "gn:country_code":"CN",
-    "gn:dem":5,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1814236,
-    "gn:latitude":32.71703,
-    "gn:longitude":120.12906,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Dainan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.10906,32.69703,120.14906,32.73703",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u062f\u0627\u06cc\u0646\u0627\u0646"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.12906,32.71703,120.12906,32.71703",
+    "geom:latitude": 32.71703,
+    "geom:longitude": 120.12906,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Dainan",
+    "gn:country_code": "CN",
+    "gn:dem": 5,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1814236,
+    "gn:latitude": 32.71703,
+    "gn:longitude": 120.12906,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Dainan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.10906,32.69703,120.14906,32.73703",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "داینان"
     ],
-    "name:und_x_variant":[
-        "Tai-chia-tse",
-        "Tai-nan",
-        "Dainan",
-        "\u6234\u5357",
-        "Dainan Zhen"
+    "name:und_x_variant": [
+      "Tai-chia-tse",
+      "Tai-nan",
+      "Dainan",
+      "戴南",
+      "Dainan Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u6234\u5357\u9547"
+    "name:zho_x_preferred": [
+      "戴南镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514283,
+      890516237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1814236,
-        "wk:page":"Dainan"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1814236,
+      "wk:page": "Dainan"
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9ff93f851eae9e2fcf8ecaa05cfb66e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1260187555,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9ff93f851eae9e2fcf8ecaa05cfb66e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1260187555,
+        "region_id": 85669827,
+        "localadmin_id": 890514283
+      }
     ],
-    "wof:id":1260187555,
-    "wof:lastmodified":1566687113,
-    "wof:name":"Dainan",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260187555,
+    "wof:lastmodified": 1768670649,
+    "wof:name": "Dainan",
+    "wof:parent_id": 890514283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.12906,
     32.71703,
     120.12906,
     32.71703
-],
-  "geometry": {"coordinates":[120.12906,32.71703],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.12906,
+      32.71703
+    ],
+    "type": "Point"
+  }
 }

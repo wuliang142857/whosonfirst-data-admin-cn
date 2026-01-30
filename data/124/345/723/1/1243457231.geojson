@@ -2,82 +2,90 @@
   "id": 1243457231,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.17749,30.92572,120.17749,30.92572",
-    "geom:latitude":30.92572,
-    "geom:longitude":120.17749,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Daqiancun",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1813677,
-    "gn:latitude":30.92572,
-    "gn:longitude":120.17749,
-    "gn:modification_date":"2017-10-04",
-    "gn:name":"Daqiancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.15749,30.90572,120.19749,30.94572",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Ta-ch\u2019ien",
-        "Ta-ch\u2019ien-chen",
-        "Daqian",
-        "\u5927\u94b1",
-        "Daqiancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.17749,30.92572,120.17749,30.92572",
+    "geom:latitude": 30.92572,
+    "geom:longitude": 120.17749,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Daqiancun",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1813677,
+    "gn:latitude": 30.92572,
+    "gn:longitude": 120.17749,
+    "gn:modification_date": "2017-10-04",
+    "gn:name": "Daqiancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.15749,30.90572,120.19749,30.94572",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Ta-ch’ien",
+      "Ta-ch’ien-chen",
+      "Daqian",
+      "大钱",
+      "Daqiancun"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u94b1\u6751"
+    "name:zho_x_preferred": [
+      "大钱村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516975
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890516975,
+      1127330502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1813677
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1813677
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d3d0eddceb8adc29be0ec3a95b23fd56",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516975,
-            "empire_id":136253041,
-            "locality_id":1243457231,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d3d0eddceb8adc29be0ec3a95b23fd56",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516975,
+        "empire_id": 136253041,
+        "locality_id": 1243457231,
+        "region_id": 85669835,
+        "localadmin_id": 1127330502
+      }
     ],
-    "wof:id":1243457231,
-    "wof:lastmodified":1566697538,
-    "wof:name":"Daqiancun",
-    "wof:parent_id":890516975,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243457231,
+    "wof:lastmodified": 1768670229,
+    "wof:name": "Daqiancun",
+    "wof:parent_id": 1127330502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.17749,
     30.92572,
     120.17749,
     30.92572
-],
-  "geometry": {"coordinates":[120.17749000000001,30.92572],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.17749,
+      30.92572
+    ],
+    "type": "Point"
+  }
 }

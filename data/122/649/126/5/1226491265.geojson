@@ -2,75 +2,83 @@
   "id": 1226491265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.346,29.6935,104.346,29.6935",
-    "geom:latitude":29.6935,
-    "geom:longitude":104.346,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Bijiazhai",
-    "gn:country_code":"CN",
-    "gn:dem":523,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10184818,
-    "gn:latitude":29.6935,
-    "gn:longitude":104.346,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Bijiazhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.326,29.6735,104.366,29.7135",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7b14\u67b6\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.346,29.6935,104.346,29.6935",
+    "geom:latitude": 29.6935,
+    "geom:longitude": 104.346,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Bijiazhai",
+    "gn:country_code": "CN",
+    "gn:dem": 523,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10184818,
+    "gn:latitude": 29.6935,
+    "gn:longitude": 104.346,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Bijiazhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.326,29.6735,104.366,29.7135",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "笔架寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890512843,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10184818
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10184818
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7e10aa30a5629affb68f73ac7606bceb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1226491265,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7e10aa30a5629affb68f73ac7606bceb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1226491265,
+        "region_id": 85669787,
+        "localadmin_id": 890512843
+      }
     ],
-    "wof:id":1226491265,
-    "wof:lastmodified":1566704079,
-    "wof:name":"Bijiazhai",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226491265,
+    "wof:lastmodified": 1768668256,
+    "wof:name": "Bijiazhai",
+    "wof:parent_id": 890512843,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.346,
     29.6935,
     104.346,
     29.6935
-],
-  "geometry": {"coordinates":[104.346,29.6935],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.346,
+      29.6935
+    ],
+    "type": "Point"
+  }
 }

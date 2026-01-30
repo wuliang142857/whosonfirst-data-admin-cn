@@ -2,78 +2,86 @@
   "id": 1259728885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.403,28.5822,104.403,28.5822",
-    "geom:latitude":28.5822,
-    "geom:longitude":104.403,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Fulong",
-    "gn:country_code":"CN",
-    "gn:dem":550,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6921769,
-    "gn:latitude":28.5822,
-    "gn:longitude":104.403,
-    "gn:modification_date":"2015-04-09",
-    "gn:name":"Fulong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.383,28.5622,104.423,28.6022",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u590d\u9f99"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.403,28.5822,104.403,28.5822",
+    "geom:latitude": 28.5822,
+    "geom:longitude": 104.403,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Fulong",
+    "gn:country_code": "CN",
+    "gn:dem": 550,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6921769,
+    "gn:latitude": 28.5822,
+    "gn:longitude": 104.403,
+    "gn:modification_date": "2015-04-09",
+    "gn:name": "Fulong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.383,28.5622,104.423,28.6022",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "复龙"
     ],
-    "name:zho_x_variant":[
-        "\u4f0f\u9f99"
+    "name:zho_x_variant": [
+      "伏龙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890516537
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890516537,
+      1127511504
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6921769
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6921769
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9a22a45500164b16bff5f0f639397ebb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516537,
-            "empire_id":136253041,
-            "locality_id":1259728885,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9a22a45500164b16bff5f0f639397ebb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516537,
+        "empire_id": 136253041,
+        "locality_id": 1259728885,
+        "region_id": 85669787,
+        "localadmin_id": 1127511504
+      }
     ],
-    "wof:id":1259728885,
-    "wof:lastmodified":1566700627,
-    "wof:name":"Fulong",
-    "wof:parent_id":890516537,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259728885,
+    "wof:lastmodified": 1768668111,
+    "wof:name": "Fulong",
+    "wof:parent_id": 1127511504,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.403,
     28.5822,
     104.403,
     28.5822
-],
-  "geometry": {"coordinates":[104.40300000000001,28.5822],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.403,
+      28.5822
+    ],
+    "type": "Point"
+  }
 }

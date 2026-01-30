@@ -2,75 +2,83 @@
   "id": 1276554309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.01087,28.42389,116.01087,28.42389",
-    "geom:latitude":28.42389,
-    "geom:longitude":116.01087,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Nangou",
-    "gn:country_code":"CN",
-    "gn:dem":22,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7327990,
-    "gn:latitude":28.42389,
-    "gn:longitude":116.01087,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Nangou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.99087,28.40389,116.03087,28.44389",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5357\u6c9f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.01087,28.42389,116.01087,28.42389",
+    "geom:latitude": 28.42389,
+    "geom:longitude": 116.01087,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Nangou",
+    "gn:country_code": "CN",
+    "gn:dem": 22,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7327990,
+    "gn:latitude": 28.42389,
+    "gn:longitude": 116.01087,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Nangou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.99087,28.40389,116.03087,28.44389",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "南沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516469
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516469,
+      1127360121
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7327990
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7327990
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9304dac4df227e9a08bb4e8b873a645f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516469,
-            "empire_id":136253041,
-            "locality_id":1276554309,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9304dac4df227e9a08bb4e8b873a645f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516469,
+        "empire_id": 136253041,
+        "locality_id": 1276554309,
+        "region_id": 85669823,
+        "localadmin_id": 1127360121
+      }
     ],
-    "wof:id":1276554309,
-    "wof:lastmodified":1566677210,
-    "wof:name":"Nangou",
-    "wof:parent_id":890516469,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276554309,
+    "wof:lastmodified": 1768670158,
+    "wof:name": "Nangou",
+    "wof:parent_id": 1127360121,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.01087,
     28.42389,
     116.01087,
     28.42389
-],
-  "geometry": {"coordinates":[116.01087,28.42389],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.01087,
+      28.42389
+    ],
+    "type": "Point"
+  }
 }

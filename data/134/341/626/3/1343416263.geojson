@@ -2,75 +2,83 @@
   "id": 1343416263,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.271,34.6138,118.271,34.6138",
-    "geom:latitude":34.6138,
-    "geom:longitude":118.271,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Zhugaoce",
-    "gn:country_code":"CN",
-    "gn:dem":37,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9121772,
-    "gn:latitude":34.6138,
-    "gn:longitude":118.271,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Zhugaoce",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.251,34.5938,118.291,34.6338",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e3b\u9ad8\u518c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.271,34.6138,118.271,34.6138",
+    "geom:latitude": 34.6138,
+    "geom:longitude": 118.271,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Zhugaoce",
+    "gn:country_code": "CN",
+    "gn:dem": 37,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9121772,
+    "gn:latitude": 34.6138,
+    "gn:longitude": 118.271,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Zhugaoce",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.251,34.5938,118.291,34.6338",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "主高册"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890513439,
+      1108732339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9121772
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9121772
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a459fe7fc9c42bc360d42e476bee1b6e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1343416263,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a459fe7fc9c42bc360d42e476bee1b6e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1343416263,
+        "region_id": 85669813,
+        "localadmin_id": 890513439
+      }
     ],
-    "wof:id":1343416263,
-    "wof:lastmodified":1566659114,
-    "wof:name":"Zhugaoce",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343416263,
+    "wof:lastmodified": 1768668425,
+    "wof:name": "Zhugaoce",
+    "wof:parent_id": 890513439,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.271,
     34.6138,
     118.271,
     34.6138
-],
-  "geometry": {"coordinates":[118.271,34.6138],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.271,
+      34.6138
+    ],
+    "type": "Point"
+  }
 }

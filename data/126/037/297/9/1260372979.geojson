@@ -2,75 +2,83 @@
   "id": 1260372979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.285,32.7289,105.285,32.7289",
-    "geom:latitude":32.7289,
-    "geom:longitude":105.285,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Banshanli",
-    "gn:country_code":"CN",
-    "gn:dem":758,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10452453,
-    "gn:latitude":32.7289,
-    "gn:longitude":105.285,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Banshanli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.265,32.7089,105.305,32.7489",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u534a\u5c71\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.285,32.7289,105.285,32.7289",
+    "geom:latitude": 32.7289,
+    "geom:longitude": 105.285,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Banshanli",
+    "gn:country_code": "CN",
+    "gn:dem": 758,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10452453,
+    "gn:latitude": 32.7289,
+    "gn:longitude": 105.285,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Banshanli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.265,32.7089,105.305,32.7489",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "半山里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10452453
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10452453
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8113ba8329dc91ddd4b37c3ba1052542",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1260372979,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8113ba8329dc91ddd4b37c3ba1052542",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1260372979,
+        "region_id": 85669711,
+        "localadmin_id": 1127621222
+      }
     ],
-    "wof:id":1260372979,
-    "wof:lastmodified":1566686944,
-    "wof:name":"Banshanli",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260372979,
+    "wof:lastmodified": 1768665903,
+    "wof:name": "Banshanli",
+    "wof:parent_id": 1127621222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.285,
     32.7289,
     105.285,
     32.7289
-],
-  "geometry": {"coordinates":[105.285,32.7289],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.285,
+      32.7289
+    ],
+    "type": "Point"
+  }
 }

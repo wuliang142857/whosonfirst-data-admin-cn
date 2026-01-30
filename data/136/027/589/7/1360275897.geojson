@@ -2,75 +2,83 @@
   "id": 1360275897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.26269,48.06391,124.26269,48.06391",
-    "geom:latitude":48.06391,
-    "geom:longitude":124.26269,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Minli",
-    "gn:country_code":"CN",
-    "gn:dem":170,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8475532,
-    "gn:latitude":48.06391,
-    "gn:longitude":124.26269,
-    "gn:modification_date":"2013-03-06",
-    "gn:name":"Minli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.24269,48.04391,124.28269,48.08391",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c11\u5229"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.26269,48.06391,124.26269,48.06391",
+    "geom:latitude": 48.06391,
+    "geom:longitude": 124.26269,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Minli",
+    "gn:country_code": "CN",
+    "gn:dem": 170,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8475532,
+    "gn:latitude": 48.06391,
+    "gn:longitude": 124.26269,
+    "gn:modification_date": "2013-03-06",
+    "gn:name": "Minli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.24269,48.04391,124.28269,48.08391",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "民利"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890516483,
+      1127230225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8475532
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8475532
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eca63904db7efbd0ac20fae1b0ac2b55",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1360275897,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eca63904db7efbd0ac20fae1b0ac2b55",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1360275897,
+        "region_id": 85669849,
+        "localadmin_id": 1127230225
+      }
     ],
-    "wof:id":1360275897,
-    "wof:lastmodified":1566691686,
-    "wof:name":"Minli",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360275897,
+    "wof:lastmodified": 1768669391,
+    "wof:name": "Minli",
+    "wof:parent_id": 1127230225,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.26269,
     48.06391,
     124.26269,
     48.06391
-],
-  "geometry": {"coordinates":[124.26269000000001,48.06391],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.26269,
+      48.06391
+    ],
+    "type": "Point"
+  }
 }

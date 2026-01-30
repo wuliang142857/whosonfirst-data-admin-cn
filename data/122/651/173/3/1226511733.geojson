@@ -2,75 +2,83 @@
   "id": 1226511733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.081,24.5843,105.081,24.5843",
-    "geom:latitude":24.5843,
-    "geom:longitude":105.081,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Wangzi",
-    "gn:country_code":"CN",
-    "gn:dem":1381,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9911969,
-    "gn:latitude":24.5843,
-    "gn:longitude":105.081,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Wangzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.061,24.5643,105.101,24.6043",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65fa\u5b50"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.081,24.5843,105.081,24.5843",
+    "geom:latitude": 24.5843,
+    "geom:longitude": 105.081,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Wangzi",
+    "gn:country_code": "CN",
+    "gn:dem": 1381,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9911969,
+    "gn:latitude": 24.5843,
+    "gn:longitude": 105.081,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Wangzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.061,24.5643,105.101,24.6043",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "旺子"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451030
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9911969
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9911969
     },
-    "wof:country":"CN",
-    "wof:geomhash":"4197c69eebcfe014ff65c71141c9b86c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226511733,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "4197c69eebcfe014ff65c71141c9b86c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226511733,
+        "region_id": 85669717,
+        "localadmin_id": 1127451030
+      }
     ],
-    "wof:id":1226511733,
-    "wof:lastmodified":1566702072,
-    "wof:name":"Wangzi",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226511733,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Wangzi",
+    "wof:parent_id": 1127451030,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.081,
     24.5843,
     105.081,
     24.5843
-],
-  "geometry": {"coordinates":[105.081,24.5843],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.081,
+      24.5843
+    ],
+    "type": "Point"
+  }
 }

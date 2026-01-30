@@ -2,75 +2,83 @@
   "id": 1293273001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.18573,28.7919,112.18573,28.7919",
-    "geom:latitude":28.7919,
-    "geom:longitude":112.18573,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Zhiliaozhou",
-    "gn:country_code":"CN",
-    "gn:dem":39,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10324203,
-    "gn:latitude":28.7919,
-    "gn:longitude":112.18573,
-    "gn:modification_date":"2015-06-10",
-    "gn:name":"Zhiliaozhou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.16573,28.7719,112.20573,28.8119",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7eb8\u6599\u6d32"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.18573,28.7919,112.18573,28.7919",
+    "geom:latitude": 28.7919,
+    "geom:longitude": 112.18573,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Zhiliaozhou",
+    "gn:country_code": "CN",
+    "gn:dem": 39,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10324203,
+    "gn:latitude": 28.7919,
+    "gn:longitude": 112.18573,
+    "gn:modification_date": "2015-06-10",
+    "gn:name": "Zhiliaozhou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.16573,28.7719,112.20573,28.8119",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "纸料洲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890515867
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890515867,
+      1127430722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10324203
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10324203
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e90ca29727906399f1ac5b4b412f15f7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515867,
-            "empire_id":136253041,
-            "locality_id":1293273001,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e90ca29727906399f1ac5b4b412f15f7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515867,
+        "empire_id": 136253041,
+        "locality_id": 1293273001,
+        "region_id": 85669781,
+        "localadmin_id": 1127430722
+      }
     ],
-    "wof:id":1293273001,
-    "wof:lastmodified":1566670586,
-    "wof:name":"Zhiliaozhou",
-    "wof:parent_id":890515867,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293273001,
+    "wof:lastmodified": 1768670429,
+    "wof:name": "Zhiliaozhou",
+    "wof:parent_id": 1127430722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.18573,
     28.7919,
     112.18573,
     28.7919
-],
-  "geometry": {"coordinates":[112.18573000000001,28.7919],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.18573,
+      28.7919
+    ],
+    "type": "Point"
+  }
 }

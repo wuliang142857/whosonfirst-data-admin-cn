@@ -2,75 +2,83 @@
   "id": 1226014207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.169,21.423,109.169,21.423",
-    "geom:latitude":21.423,
-    "geom:longitude":109.169,
-    "gn:admin1_code":"16",
-    "gn:asciiname":"Guchengling",
-    "gn:country_code":"CN",
-    "gn:dem":9,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1809579,
-    "gn:latitude":21.423,
-    "gn:longitude":109.169,
-    "gn:modification_date":"2015-01-07",
-    "gn:name":"Guchengling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.149,21.403,109.189,21.443",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53e4\u57ce\u5cad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.169,21.423,109.169,21.423",
+    "geom:latitude": 21.423,
+    "geom:longitude": 109.169,
+    "gn:admin1_code": "16",
+    "gn:asciiname": "Guchengling",
+    "gn:country_code": "CN",
+    "gn:dem": 9,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1809579,
+    "gn:latitude": 21.423,
+    "gn:longitude": 109.169,
+    "gn:modification_date": "2015-01-07",
+    "gn:name": "Guchengling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.149,21.403,109.189,21.443",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "古城岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516487
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516487,
+      1127450503
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1809579
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1809579
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6f559e3fec3310ff4d39b6ffb07c886a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516487,
-            "empire_id":136253041,
-            "locality_id":1226014207,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6f559e3fec3310ff4d39b6ffb07c886a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516487,
+        "empire_id": 136253041,
+        "locality_id": 1226014207,
+        "region_id": 85669717,
+        "localadmin_id": 1127450503
+      }
     ],
-    "wof:id":1226014207,
-    "wof:lastmodified":1566705242,
-    "wof:name":"Guchengling",
-    "wof:parent_id":890516487,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226014207,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Guchengling",
+    "wof:parent_id": 1127450503,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.169,
     21.423,
     109.169,
     21.423
-],
-  "geometry": {"coordinates":[109.169,21.423],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.169,
+      21.423
+    ],
+    "type": "Point"
+  }
 }

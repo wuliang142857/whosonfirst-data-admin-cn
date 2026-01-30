@@ -2,79 +2,87 @@
   "id": 1310448007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.74039,23.05988,112.74039,23.05988",
-    "geom:latitude":23.05988,
-    "geom:longitude":112.74039,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Maogang",
-    "gn:country_code":"CN",
-    "gn:dem":21,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1893208,
-    "gn:latitude":23.05988,
-    "gn:longitude":112.74039,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Maogang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.72039,23.03988,112.76039,23.07988",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Mao-kang",
-        "Maogang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.74039,23.05988,112.74039,23.05988",
+    "geom:latitude": 23.05988,
+    "geom:longitude": 112.74039,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Maogang",
+    "gn:country_code": "CN",
+    "gn:dem": 21,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1893208,
+    "gn:latitude": 23.05988,
+    "gn:longitude": 112.74039,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Maogang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.72039,23.03988,112.76039,23.07988",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Mao-kang",
+      "Maogang"
     ],
-    "name:zho_x_preferred":[
-        "\u8305\u5c97"
+    "name:zho_x_preferred": [
+      "茅岗"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514727
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514187,
+      890514727
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1893208
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1893208
     },
-    "wof:country":"CN",
-    "wof:geomhash":"0e18e8d891288beabfd6c5f76ff27748",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514727,
-            "empire_id":136253041,
-            "locality_id":1310448007,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "0e18e8d891288beabfd6c5f76ff27748",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514727,
+        "empire_id": 136253041,
+        "locality_id": 1310448007,
+        "region_id": 85669743,
+        "localadmin_id": 890514187
+      }
     ],
-    "wof:id":1310448007,
-    "wof:lastmodified":1566690012,
-    "wof:name":"Maogang",
-    "wof:parent_id":890514727,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310448007,
+    "wof:lastmodified": 1768667907,
+    "wof:name": "Maogang",
+    "wof:parent_id": 890514187,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.74039,
     23.05988,
     112.74039,
     23.05988
-],
-  "geometry": {"coordinates":[112.74039,23.05988],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.74039,
+      23.05988
+    ],
+    "type": "Point"
+  }
 }

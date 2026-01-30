@@ -2,75 +2,83 @@
   "id": 1226017267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.629,23.3249,105.629,23.3249",
-    "geom:latitude":23.3249,
-    "geom:longitude":105.629,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Nade",
-    "gn:country_code":"CN",
-    "gn:dem":877,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9907871,
-    "gn:latitude":23.3249,
-    "gn:longitude":105.629,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Nade",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.609,23.3049,105.649,23.3449",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u90a3\u5fb7"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.629,23.3249,105.629,23.3249",
+    "geom:latitude": 23.3249,
+    "geom:longitude": 105.629,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Nade",
+    "gn:country_code": "CN",
+    "gn:dem": 877,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9907871,
+    "gn:latitude": 23.3249,
+    "gn:longitude": 105.629,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Nade",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.609,23.3049,105.649,23.3449",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "那德"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516485
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516485,
+      1127451026
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9907871
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9907871
     },
-    "wof:country":"CN",
-    "wof:geomhash":"425e694fae97381ad4c1e48e5520addf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516485,
-            "empire_id":136253041,
-            "locality_id":1226017267,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "425e694fae97381ad4c1e48e5520addf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516485,
+        "empire_id": 136253041,
+        "locality_id": 1226017267,
+        "region_id": 85669717,
+        "localadmin_id": 1127451026
+      }
     ],
-    "wof:id":1226017267,
-    "wof:lastmodified":1566705255,
-    "wof:name":"Nade",
-    "wof:parent_id":890516485,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226017267,
+    "wof:lastmodified": 1768665071,
+    "wof:name": "Nade",
+    "wof:parent_id": 1127451026,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.629,
     23.3249,
     105.629,
     23.3249
-],
-  "geometry": {"coordinates":[105.629,23.3249],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.629,
+      23.3249
+    ],
+    "type": "Point"
+  }
 }

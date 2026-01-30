@@ -2,84 +2,92 @@
   "id": 1225846473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.5526,29.7851,116.5526,29.7851",
-    "geom:latitude":29.7851,
-    "geom:longitude":116.5526,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Baima",
-    "gn:country_code":"CN",
-    "gn:dem":30,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7636107,
-    "gn:latitude":29.7851,
-    "gn:longitude":116.5526,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Baima",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.5326,29.7651,116.5726,29.8051",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Baima"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.5526,29.7851,116.5526,29.7851",
+    "geom:latitude": 29.7851,
+    "geom:longitude": 116.5526,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Baima",
+    "gn:country_code": "CN",
+    "gn:dem": 30,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7636107,
+    "gn:latitude": 29.7851,
+    "gn:longitude": 116.5526,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Baima",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.5326,29.7651,116.5726,29.8051",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Baima"
     ],
-    "name:deu_x_preferred":[
-        "Baima"
+    "name:deu_x_preferred": [
+      "Baima"
     ],
-    "name:nor_x_preferred":[
-        "Baima"
+    "name:nor_x_preferred": [
+      "Baima"
     ],
-    "name:und_x_variant":[
-        "\u767d\u9a6c"
+    "name:und_x_variant": [
+      "白马"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516935
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516935,
+      1127360430
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7636107
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7636107
     },
-    "wof:country":"CN",
-    "wof:geomhash":"72fd12eb5bfb159a7d7a55ba35d90b91",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516935,
-            "empire_id":136253041,
-            "locality_id":1225846473,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "72fd12eb5bfb159a7d7a55ba35d90b91",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516935,
+        "empire_id": 136253041,
+        "locality_id": 1225846473,
+        "region_id": 85669823,
+        "localadmin_id": 1127360430
+      }
     ],
-    "wof:id":1225846473,
-    "wof:lastmodified":1566705965,
-    "wof:name":"Baima",
-    "wof:parent_id":890516935,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225846473,
+    "wof:lastmodified": 1768669674,
+    "wof:name": "Baima",
+    "wof:parent_id": 1127360430,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.5526,
     29.7851,
     116.5526,
     29.7851
-],
-  "geometry": {"coordinates":[116.5526,29.7851],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.5526,
+      29.7851
+    ],
+    "type": "Point"
+  }
 }

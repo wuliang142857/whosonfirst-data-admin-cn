@@ -2,81 +2,89 @@
   "id": 1343420899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.47549,23.05068,112.47549,23.05068",
-    "geom:latitude":23.05068,
-    "geom:longitude":112.47549,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Gongnong",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8366917,
-    "gn:latitude":23.05068,
-    "gn:longitude":112.47549,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Gongnong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.45549,23.03068,112.49549,23.07068",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Gongnong"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.47549,23.05068,112.47549,23.05068",
+    "geom:latitude": 23.05068,
+    "geom:longitude": 112.47549,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Gongnong",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8366917,
+    "gn:latitude": 23.05068,
+    "gn:longitude": 112.47549,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Gongnong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.45549,23.03068,112.49549,23.07068",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Gongnong"
     ],
-    "name:deu_x_preferred":[
-        "Gongnong"
+    "name:deu_x_preferred": [
+      "Gongnong"
     ],
-    "name:zho_x_preferred":[
-        "\u5de5\u8fb2"
+    "name:zho_x_preferred": [
+      "工農"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514727
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514727,
+      1127441202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8366917
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8366917
     },
-    "wof:country":"CN",
-    "wof:geomhash":"430d4a4a0e7d575db0dfe2cf51006627",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514727,
-            "empire_id":136253041,
-            "locality_id":1343420899,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "430d4a4a0e7d575db0dfe2cf51006627",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514727,
+        "empire_id": 136253041,
+        "locality_id": 1343420899,
+        "region_id": 85669743,
+        "localadmin_id": 1127441202
+      }
     ],
-    "wof:id":1343420899,
-    "wof:lastmodified":1566663587,
-    "wof:name":"Gongnong",
-    "wof:parent_id":890514727,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343420899,
+    "wof:lastmodified": 1768667907,
+    "wof:name": "Gongnong",
+    "wof:parent_id": 1127441202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.47549,
     23.05068,
     112.47549,
     23.05068
-],
-  "geometry": {"coordinates":[112.47548999999999,23.05068],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.47549,
+      23.05068
+    ],
+    "type": "Point"
+  }
 }

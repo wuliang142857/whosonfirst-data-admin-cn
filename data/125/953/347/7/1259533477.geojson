@@ -2,75 +2,83 @@
   "id": 1259533477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.67351,22.34041,112.67351,22.34041",
-    "geom:latitude":22.34041,
-    "geom:longitude":112.67351,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Renqin",
-    "gn:country_code":"CN",
-    "gn:dem":1,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8366190,
-    "gn:latitude":22.34041,
-    "gn:longitude":112.67351,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Renqin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.65351,22.32041,112.69351,22.36041",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4ec1\u89aa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.67351,22.34041,112.67351,22.34041",
+    "geom:latitude": 22.34041,
+    "geom:longitude": 112.67351,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Renqin",
+    "gn:country_code": "CN",
+    "gn:dem": 1,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8366190,
+    "gn:latitude": 22.34041,
+    "gn:longitude": 112.67351,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Renqin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.65351,22.32041,112.69351,22.36041",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "仁親"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514541,
+      890514609
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8366190
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8366190
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fcfa5eebe7689746243d1401de21dafe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1259533477,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fcfa5eebe7689746243d1401de21dafe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1259533477,
+        "region_id": 85669743,
+        "localadmin_id": 890514541
+      }
     ],
-    "wof:id":1259533477,
-    "wof:lastmodified":1566698092,
-    "wof:name":"Renqin",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259533477,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Renqin",
+    "wof:parent_id": 890514541,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.67351,
     22.34041,
     112.67351,
     22.34041
-],
-  "geometry": {"coordinates":[112.67350999999999,22.34041],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.67351,
+      22.34041
+    ],
+    "type": "Point"
+  }
 }

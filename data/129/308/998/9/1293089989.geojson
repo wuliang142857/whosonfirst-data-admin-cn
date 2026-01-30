@@ -2,81 +2,89 @@
   "id": 1293089989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.298,38.841,115.298,38.841",
-    "geom:latitude":38.841,
-    "geom:longitude":115.298,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Xiyuan",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1788130,
-    "gn:latitude":38.841,
-    "gn:longitude":115.298,
-    "gn:modification_date":"2014-10-01",
-    "gn:name":"Xiyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.278,38.821,115.318,38.861",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Xiyuan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.298,38.841,115.298,38.841",
+    "geom:latitude": 38.841,
+    "geom:longitude": 115.298,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Xiyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1788130,
+    "gn:latitude": 38.841,
+    "gn:longitude": 115.298,
+    "gn:modification_date": "2014-10-01",
+    "gn:name": "Xiyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.278,38.821,115.318,38.861",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Xiyuan"
     ],
-    "name:und_x_variant":[
-        "Hsi-y\u00fcan"
+    "name:und_x_variant": [
+      "Hsi-yüan"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u539f"
+    "name:zho_x_preferred": [
+      "西原"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513095
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513095,
+      1127130607
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1788130
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1788130
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d5ff93cdcf7ec27afdef3cb037f55595",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513095,
-            "empire_id":136253041,
-            "locality_id":1293089989,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d5ff93cdcf7ec27afdef3cb037f55595",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513095,
+        "empire_id": 136253041,
+        "locality_id": 1293089989,
+        "region_id": 85669797,
+        "localadmin_id": 1127130607
+      }
     ],
-    "wof:id":1293089989,
-    "wof:lastmodified":1566666211,
-    "wof:name":"Xiyuan",
-    "wof:parent_id":890513095,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293089989,
+    "wof:lastmodified": 1768669443,
+    "wof:name": "Xiyuan",
+    "wof:parent_id": 1127130607,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.298,
     38.841,
     115.298,
     38.841
-],
-  "geometry": {"coordinates":[115.298,38.841],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.298,
+      38.841
+    ],
+    "type": "Point"
+  }
 }

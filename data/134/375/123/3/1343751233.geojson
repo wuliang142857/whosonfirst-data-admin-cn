@@ -2,75 +2,83 @@
   "id": 1343751233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.039,35.8962,115.039,35.8962",
-    "geom:latitude":35.8962,
-    "geom:longitude":115.039,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Lishawo",
-    "gn:country_code":"CN",
-    "gn:dem":55,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9132528,
-    "gn:latitude":35.8962,
-    "gn:longitude":115.039,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Lishawo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.019,35.8762,115.059,35.9162",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u674e\u6c99\u7a9d"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.039,35.8962,115.039,35.8962",
+    "geom:latitude": 35.8962,
+    "geom:longitude": 115.039,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Lishawo",
+    "gn:country_code": "CN",
+    "gn:dem": 55,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9132528,
+    "gn:latitude": 35.8962,
+    "gn:longitude": 115.039,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Lishawo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.019,35.8762,115.059,35.9162",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "李沙窝"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514079
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514079,
+      1127410922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9132528
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9132528
     },
-    "wof:country":"CN",
-    "wof:geomhash":"abb3fb976a87182f4883d2ca74ed7075",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514079,
-            "empire_id":136253041,
-            "locality_id":1343751233,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "abb3fb976a87182f4883d2ca74ed7075",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514079,
+        "empire_id": 136253041,
+        "locality_id": 1343751233,
+        "region_id": 85669801,
+        "localadmin_id": 1127410922
+      }
     ],
-    "wof:id":1343751233,
-    "wof:lastmodified":1566664361,
-    "wof:name":"Lishawo",
-    "wof:parent_id":890514079,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343751233,
+    "wof:lastmodified": 1768669057,
+    "wof:name": "Lishawo",
+    "wof:parent_id": 1127410922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.039,
     35.8962,
     115.039,
     35.8962
-],
-  "geometry": {"coordinates":[115.039,35.8962],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.039,
+      35.8962
+    ],
+    "type": "Point"
+  }
 }

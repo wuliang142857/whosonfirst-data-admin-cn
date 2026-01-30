@@ -2,75 +2,83 @@
   "id": 1226007775,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.594,25.4651,108.594,25.4651",
-    "geom:latitude":25.4651,
-    "geom:longitude":108.594,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Guiyan",
-    "gn:country_code":"CN",
-    "gn:dem":806,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10051800,
-    "gn:latitude":25.4651,
-    "gn:longitude":108.594,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Guiyan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.574,25.4451,108.614,25.4851",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f52\u773c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.594,25.4651,108.594,25.4651",
+    "geom:latitude": 25.4651,
+    "geom:longitude": 108.594,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Guiyan",
+    "gn:country_code": "CN",
+    "gn:dem": 806,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10051800,
+    "gn:latitude": 25.4651,
+    "gn:longitude": 108.594,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Guiyan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.574,25.4451,108.614,25.4851",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "归眼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794067
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516015,
+      1108794067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10051800
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10051800
     },
-    "wof:country":"CN",
-    "wof:geomhash":"74c79e8418ff5e17a4c5ffb3ace3911f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794067,
-            "empire_id":136253041,
-            "locality_id":1226007775,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "74c79e8418ff5e17a4c5ffb3ace3911f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794067,
+        "empire_id": 136253041,
+        "locality_id": 1226007775,
+        "region_id": 85669781,
+        "localadmin_id": 890516015
+      }
     ],
-    "wof:id":1226007775,
-    "wof:lastmodified":1566705506,
-    "wof:name":"Guiyan",
-    "wof:parent_id":1108794067,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226007775,
+    "wof:lastmodified": 1768664982,
+    "wof:name": "Guiyan",
+    "wof:parent_id": 890516015,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.594,
     25.4651,
     108.594,
     25.4651
-],
-  "geometry": {"coordinates":[108.59399999999999,25.4651],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.594,
+      25.4651
+    ],
+    "type": "Point"
+  }
 }

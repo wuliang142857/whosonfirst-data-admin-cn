@@ -2,84 +2,92 @@
   "id": 1343258849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.46667,45.8,124.46667,45.8",
-    "geom:latitude":45.8,
-    "geom:longitude":124.46667,
-    "gn:admin1_code":"08",
-    "gn:asciiname":"Yishun",
-    "gn:country_code":"CN",
-    "gn:dem":127,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2033348,
-    "gn:latitude":45.8,
-    "gn:longitude":124.46667,
-    "gn:modification_date":"1994-02-05",
-    "gn:name":"Yishun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.44667,45.78,124.48667,45.82",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u0627\u06cc\u0634\u0648\u0646"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.46667,45.8,124.46667,45.8",
+    "geom:latitude": 45.8,
+    "geom:longitude": 124.46667,
+    "gn:admin1_code": "08",
+    "gn:asciiname": "Yishun",
+    "gn:country_code": "CN",
+    "gn:dem": 127,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2033348,
+    "gn:latitude": 45.8,
+    "gn:longitude": 124.46667,
+    "gn:modification_date": "1994-02-05",
+    "gn:name": "Yishun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.44667,45.78,124.48667,45.82",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "ایشون"
     ],
-    "name:hin_x_preferred":[
-        "\u092f\u093f\u0936\u0941\u0928"
+    "name:hin_x_preferred": [
+      "यिशुन"
     ],
-    "name:mar_x_preferred":[
-        "\u092f\u0940\u0936\u0941\u0928"
+    "name:mar_x_preferred": [
+      "यीशुन"
     ],
-    "name:urd_x_preferred":[
-        "\u06cc\u0634\u0646"
+    "name:urd_x_preferred": [
+      "یشن"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890513007
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890512579,
+      890513007
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2033348
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2033348
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cdec1522982e6557973fa915448360df",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513007,
-            "empire_id":136253041,
-            "locality_id":1343258849,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cdec1522982e6557973fa915448360df",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513007,
+        "empire_id": 136253041,
+        "locality_id": 1343258849,
+        "region_id": 85669849,
+        "localadmin_id": 890512579
+      }
     ],
-    "wof:id":1343258849,
-    "wof:lastmodified":1566660571,
-    "wof:name":"Yishun",
-    "wof:parent_id":890513007,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343258849,
+    "wof:lastmodified": 1768669535,
+    "wof:name": "Yishun",
+    "wof:parent_id": 890512579,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.46667,
     45.8,
     124.46667,
     45.8
-],
-  "geometry": {"coordinates":[124.46666999999999,45.8],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.46667,
+      45.8
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243152105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.78226,31.67299,113.78226,31.67299",
-    "geom:latitude":31.67299,
-    "geom:longitude":113.78226,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhujiawan",
-    "gn:country_code":"CN",
-    "gn:dem":90,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7653708,
-    "gn:latitude":31.67299,
-    "gn:longitude":113.78226,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhujiawan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.76226,31.65299,113.80226,31.69299",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6731\u5bb6\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.78226,31.67299,113.78226,31.67299",
+    "geom:latitude": 31.67299,
+    "geom:longitude": 113.78226,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhujiawan",
+    "gn:country_code": "CN",
+    "gn:dem": 90,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7653708,
+    "gn:latitude": 31.67299,
+    "gn:longitude": 113.78226,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhujiawan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.76226,31.65299,113.80226,31.69299",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "朱家湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512727,
+      890514467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7653708
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7653708
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c069e01647b9dfaa407085d2ad8754a7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514467,
-            "empire_id":136253041,
-            "locality_id":1243152105,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c069e01647b9dfaa407085d2ad8754a7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514467,
+        "empire_id": 136253041,
+        "locality_id": 1243152105,
+        "region_id": 85669777,
+        "localadmin_id": 890512727
+      }
     ],
-    "wof:id":1243152105,
-    "wof:lastmodified":1566695450,
-    "wof:name":"Zhujiawan",
-    "wof:parent_id":890514467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243152105,
+    "wof:lastmodified": 1768665647,
+    "wof:name": "Zhujiawan",
+    "wof:parent_id": 890512727,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.78226,
     31.67299,
     113.78226,
     31.67299
-],
-  "geometry": {"coordinates":[113.78225999999999,31.67299],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.78226,
+      31.67299
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310095941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"125.11956,46.11925,125.11956,46.11925",
-    "geom:latitude":46.11925,
-    "geom:longitude":125.11956,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Yicun",
-    "gn:country_code":"CN",
-    "gn:dem":140,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11580667,
-    "gn:latitude":46.11925,
-    "gn:longitude":125.11956,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Yicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"125.09956,46.09925,125.13956,46.13925",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e00\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "125.11956,46.11925,125.11956,46.11925",
+    "geom:latitude": 46.11925,
+    "geom:longitude": 125.11956,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Yicun",
+    "gn:country_code": "CN",
+    "gn:dem": 140,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11580667,
+    "gn:latitude": 46.11925,
+    "gn:longitude": 125.11956,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Yicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "125.09956,46.09925,125.13956,46.13925",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "一村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231281
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11580667
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11580667
     },
-    "wof:country":"CN",
-    "wof:geomhash":"408504c7414d6ac9db8bf9d2cb70f02c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1310095941,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "408504c7414d6ac9db8bf9d2cb70f02c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1310095941,
+        "region_id": 85669849,
+        "localadmin_id": 1127231281
+      }
     ],
-    "wof:id":1310095941,
-    "wof:lastmodified":1566688949,
-    "wof:name":"Yicun",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310095941,
+    "wof:lastmodified": 1768668894,
+    "wof:name": "Yicun",
+    "wof:parent_id": 1127231281,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     125.11956,
     46.11925,
     125.11956,
     46.11925
-],
-  "geometry": {"coordinates":[125.11956000000001,46.11925],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      125.11956,
+      46.11925
+    ],
+    "type": "Point"
+  }
 }

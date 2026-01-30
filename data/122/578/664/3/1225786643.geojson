@@ -2,84 +2,92 @@
   "id": 1225786643,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.283,29.2775,105.283,29.2775",
-    "geom:latitude":29.2775,
-    "geom:longitude":105.283,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Datian",
-    "gn:country_code":"CN",
-    "gn:dem":331,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10183967,
-    "gn:latitude":29.2775,
-    "gn:longitude":105.283,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Datian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.263,29.2575,105.303,29.2975",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Datian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.283,29.2775,105.283,29.2775",
+    "geom:latitude": 29.2775,
+    "geom:longitude": 105.283,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Datian",
+    "gn:country_code": "CN",
+    "gn:dem": 331,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10183967,
+    "gn:latitude": 29.2775,
+    "gn:longitude": 105.283,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Datian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.263,29.2575,105.303,29.2975",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Datian"
     ],
-    "name:deu_x_preferred":[
-        "Datian"
+    "name:deu_x_preferred": [
+      "Datian"
     ],
-    "name:vie_x_preferred":[
-        "\u0110\u1ea1i \u0110i\u1ec1n"
+    "name:vie_x_preferred": [
+      "Đại Điền"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u7530"
+    "name:zho_x_preferred": [
+      "大田"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        1108732369
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514161,
+      1108732369
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10183967
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10183967
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eeb8bb53423ee6e685fce96cfa7129d5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732369,
-            "empire_id":136253041,
-            "locality_id":1225786643,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eeb8bb53423ee6e685fce96cfa7129d5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732369,
+        "empire_id": 136253041,
+        "locality_id": 1225786643,
+        "region_id": 85669787,
+        "localadmin_id": 890514161
+      }
     ],
-    "wof:id":1225786643,
-    "wof:lastmodified":1566705863,
-    "wof:name":"Datian",
-    "wof:parent_id":1108732369,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225786643,
+    "wof:lastmodified": 1768668256,
+    "wof:name": "Datian",
+    "wof:parent_id": 890514161,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.283,
     29.2775,
     105.283,
     29.2775
-],
-  "geometry": {"coordinates":[105.283,29.2775],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.283,
+      29.2775
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1225825265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.72109,29.98382,108.72109,29.98382",
-    "geom:latitude":29.98382,
-    "geom:longitude":108.72109,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Heilin",
-    "gn:country_code":"CN",
-    "gn:dem":1041,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8516580,
-    "gn:latitude":29.98382,
-    "gn:longitude":108.72109,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Heilin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.70109,29.96382,108.74109,30.00382",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ed1\u6797"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.72109,29.98382,108.72109,29.98382",
+    "geom:latitude": 29.98382,
+    "geom:longitude": 108.72109,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Heilin",
+    "gn:country_code": "CN",
+    "gn:dem": 1041,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8516580,
+    "gn:latitude": 29.98382,
+    "gn:longitude": 108.72109,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Heilin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.70109,29.96382,108.74109,30.00382",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "黑林"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890512637,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8516580
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8516580
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d826e676dad2d96a0e44bb9c0ff1ca65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1225825265,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d826e676dad2d96a0e44bb9c0ff1ca65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1225825265,
+        "region_id": 85669777,
+        "localadmin_id": 890512637
+      }
     ],
-    "wof:id":1225825265,
-    "wof:lastmodified":1566705775,
-    "wof:name":"Heilin",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1225825265,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Heilin",
+    "wof:parent_id": 890512637,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.72109,
     29.98382,
     108.72109,
     29.98382
-],
-  "geometry": {"coordinates":[108.72109,29.98382],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.72109,
+      29.98382
+    ],
+    "type": "Point"
+  }
 }

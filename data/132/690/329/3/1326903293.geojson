@@ -2,75 +2,83 @@
   "id": 1326903293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.066,36.0275,107.066,36.0275",
-    "geom:latitude":36.0275,
-    "geom:longitude":107.066,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Baijiashan",
-    "gn:country_code":"CN",
-    "gn:dem":1410,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7517856,
-    "gn:latitude":36.0275,
-    "gn:longitude":107.066,
-    "gn:modification_date":"2015-09-07",
-    "gn:name":"Baijiashan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.046,36.0075,107.086,36.0475",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u767d\u5bb6\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.066,36.0275,107.066,36.0275",
+    "geom:latitude": 36.0275,
+    "geom:longitude": 107.066,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Baijiashan",
+    "gn:country_code": "CN",
+    "gn:dem": 1410,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7517856,
+    "gn:latitude": 36.0275,
+    "gn:longitude": 107.066,
+    "gn:modification_date": "2015-09-07",
+    "gn:name": "Baijiashan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.046,36.0075,107.086,36.0475",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "白家山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621027
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7517856
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7517856
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6e1ad4c7a8c6bf341822e5e9f79b3f6d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1326903293,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6e1ad4c7a8c6bf341822e5e9f79b3f6d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1326903293,
+        "region_id": 85669711,
+        "localadmin_id": 1127621027
+      }
     ],
-    "wof:id":1326903293,
-    "wof:lastmodified":1566653268,
-    "wof:name":"Baijiashan",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326903293,
+    "wof:lastmodified": 1768666481,
+    "wof:name": "Baijiashan",
+    "wof:parent_id": 1127621027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.066,
     36.0275,
     107.066,
     36.0275
-],
-  "geometry": {"coordinates":[107.066,36.0275],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.066,
+      36.0275
+    ],
+    "type": "Point"
+  }
 }

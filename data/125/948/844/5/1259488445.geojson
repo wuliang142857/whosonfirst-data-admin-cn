@@ -2,75 +2,83 @@
   "id": 1259488445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.75985,32.01843,119.75985,32.01843",
-    "geom:latitude":32.01843,
-    "geom:longitude":119.75985,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Tangli",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8265870,
-    "gn:latitude":32.01843,
-    "gn:longitude":119.75985,
-    "gn:modification_date":"2012-05-07",
-    "gn:name":"Tangli",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.73985,31.99843,119.77985,32.03843",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5858\u91cc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.75985,32.01843,119.75985,32.01843",
+    "geom:latitude": 32.01843,
+    "geom:longitude": 119.75985,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Tangli",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8265870,
+    "gn:latitude": 32.01843,
+    "gn:longitude": 119.75985,
+    "gn:modification_date": "2012-05-07",
+    "gn:name": "Tangli",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.73985,31.99843,119.77985,32.03843",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "塘里"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        1108732521
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514827,
+      1108732521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8265870
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8265870
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c9f91a67bc01e57cbd0203286593619f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732521,
-            "empire_id":136253041,
-            "locality_id":1259488445,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c9f91a67bc01e57cbd0203286593619f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732521,
+        "empire_id": 136253041,
+        "locality_id": 1259488445,
+        "region_id": 85669827,
+        "localadmin_id": 890514827
+      }
     ],
-    "wof:id":1259488445,
-    "wof:lastmodified":1566698677,
-    "wof:name":"Tangli",
-    "wof:parent_id":1108732521,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259488445,
+    "wof:lastmodified": 1768670986,
+    "wof:name": "Tangli",
+    "wof:parent_id": 890514827,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.75985,
     32.01843,
     119.75985,
     32.01843
-],
-  "geometry": {"coordinates":[119.75985,32.01843],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.75985,
+      32.01843
+    ],
+    "type": "Point"
+  }
 }

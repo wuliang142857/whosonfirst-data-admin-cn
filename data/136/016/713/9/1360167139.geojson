@@ -2,81 +2,89 @@
   "id": 1360167139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.992,37.5701,102.992,37.5701",
-    "geom:latitude":37.5701,
-    "geom:longitude":102.992,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Shuangmiao",
-    "gn:country_code":"CN",
-    "gn:dem":1875,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10647734,
-    "gn:latitude":37.5701,
-    "gn:longitude":102.992,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Shuangmiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.972,37.5501,103.012,37.5901",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Shuangmiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.992,37.5701,102.992,37.5701",
+    "geom:latitude": 37.5701,
+    "geom:longitude": 102.992,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Shuangmiao",
+    "gn:country_code": "CN",
+    "gn:dem": 1875,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10647734,
+    "gn:latitude": 37.5701,
+    "gn:longitude": 102.992,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Shuangmiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.972,37.5501,103.012,37.5901",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Shuangmiao"
     ],
-    "name:swe_x_preferred":[
-        "Shuangmiao"
+    "name:swe_x_preferred": [
+      "Shuangmiao"
     ],
-    "name:zho_x_preferred":[
-        "\u53cc\u5e99"
+    "name:zho_x_preferred": [
+      "双庙"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516467
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890515301,
+      890516467
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10647734
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10647734
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6ffc6b1de35a0b450fa52b7886471f61",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516467,
-            "empire_id":136253041,
-            "locality_id":1360167139,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6ffc6b1de35a0b450fa52b7886471f61",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516467,
+        "empire_id": 136253041,
+        "locality_id": 1360167139,
+        "region_id": 85669711,
+        "localadmin_id": 890515301
+      }
     ],
-    "wof:id":1360167139,
-    "wof:lastmodified":1566691787,
-    "wof:name":"Shuangmiao",
-    "wof:parent_id":890516467,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360167139,
+    "wof:lastmodified": 1768665873,
+    "wof:name": "Shuangmiao",
+    "wof:parent_id": 890515301,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.992,
     37.5701,
     102.992,
     37.5701
-],
-  "geometry": {"coordinates":[102.992,37.5701],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.992,
+      37.5701
+    ],
+    "type": "Point"
+  }
 }

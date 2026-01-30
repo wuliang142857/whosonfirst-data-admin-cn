@@ -2,78 +2,86 @@
   "id": 1343730045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.84001,36.8715,112.84001,36.8715",
-    "geom:latitude":36.8715,
-    "geom:longitude":112.84001,
-    "gn:admin1_code":"24.0",
-    "gn:asciiname":"Wanglu",
-    "gn:country_code":"CN",
-    "gn:dem":973,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11457655,
-    "gn:latitude":36.8715,
-    "gn:longitude":112.84001,
-    "gn:modification_date":"2017-02-06",
-    "gn:name":"Wanglu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.82001,36.8515,112.86001,36.8915",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u738b\u8def"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.84001,36.8715,112.84001,36.8715",
+    "geom:latitude": 36.8715,
+    "geom:longitude": 112.84001,
+    "gn:admin1_code": "24.0",
+    "gn:asciiname": "Wanglu",
+    "gn:country_code": "CN",
+    "gn:dem": 973,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11457655,
+    "gn:latitude": 36.8715,
+    "gn:longitude": 112.84001,
+    "gn:modification_date": "2017-02-06",
+    "gn:name": "Wanglu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.82001,36.8515,112.86001,36.8915",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "王路"
     ],
-    "name:zho_x_variant":[
-        "\u738b\u9c81\u9547"
+    "name:zho_x_variant": [
+      "王鲁镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        1108732523
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      1108732523,
+      1127140429
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11457655
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11457655
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3e1e0cf1fcb16afc454e2fd12641a4ce",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732523,
-            "empire_id":136253041,
-            "locality_id":1343730045,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3e1e0cf1fcb16afc454e2fd12641a4ce",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732523,
+        "empire_id": 136253041,
+        "locality_id": 1343730045,
+        "region_id": 85669773,
+        "localadmin_id": 1127140429
+      }
     ],
-    "wof:id":1343730045,
-    "wof:lastmodified":1566663818,
-    "wof:name":"Wanglu",
-    "wof:parent_id":1108732523,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343730045,
+    "wof:lastmodified": 1768666425,
+    "wof:name": "Wanglu",
+    "wof:parent_id": 1127140429,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.84001,
     36.8715,
     112.84001,
     36.8715
-],
-  "geometry": {"coordinates":[112.84001000000001,36.8715],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.84001,
+      36.8715
+    ],
+    "type": "Point"
+  }
 }

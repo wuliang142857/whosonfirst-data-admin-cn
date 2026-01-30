@@ -2,78 +2,86 @@
   "id": 1343312625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.56,25.0643,104.56,25.0643",
-    "geom:latitude":25.0643,
-    "geom:longitude":104.56,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Buyang",
-    "gn:country_code":"CN",
-    "gn:dem":1636,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10156477,
-    "gn:latitude":25.0643,
-    "gn:longitude":104.56,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Buyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.54,25.0443,104.58,25.0843",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fin_x_preferred":[
-        "Buyang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.56,25.0643,104.56,25.0643",
+    "geom:latitude": 25.0643,
+    "geom:longitude": 104.56,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Buyang",
+    "gn:country_code": "CN",
+    "gn:dem": 1636,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10156477,
+    "gn:latitude": 25.0643,
+    "gn:longitude": 104.56,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Buyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.54,25.0443,104.58,25.0843",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fin_x_preferred": [
+      "Buyang"
     ],
-    "name:zho_x_preferred":[
-        "\u8865\u7f8a"
+    "name:zho_x_preferred": [
+      "补羊"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890515167
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890515167,
+      1127530325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10156477
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10156477
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7ab2a2e79bb5693e1a4ba92895a9e148",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515167,
-            "empire_id":136253041,
-            "locality_id":1343312625,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7ab2a2e79bb5693e1a4ba92895a9e148",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515167,
+        "empire_id": 136253041,
+        "locality_id": 1343312625,
+        "region_id": 85669791,
+        "localadmin_id": 1127530325
+      }
     ],
-    "wof:id":1343312625,
-    "wof:lastmodified":1566656047,
-    "wof:name":"Buyang",
-    "wof:parent_id":890515167,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343312625,
+    "wof:lastmodified": 1768668181,
+    "wof:name": "Buyang",
+    "wof:parent_id": 1127530325,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.56,
     25.0643,
     104.56,
     25.0643
-],
-  "geometry": {"coordinates":[104.56,25.0643],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.56,
+      25.0643
+    ],
+    "type": "Point"
+  }
 }

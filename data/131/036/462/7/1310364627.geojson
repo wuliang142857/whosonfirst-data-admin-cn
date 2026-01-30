@@ -2,75 +2,83 @@
   "id": 1310364627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.058,30.5527,105.058,30.5527",
-    "geom:latitude":30.5527,
-    "geom:longitude":105.058,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Xinggong",
-    "gn:country_code":"CN",
-    "gn:dem":352,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10197662,
-    "gn:latitude":30.5527,
-    "gn:longitude":105.058,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Xinggong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.038,30.5327,105.078,30.5727",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5174\u5171"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.058,30.5527,105.058,30.5527",
+    "geom:latitude": 30.5527,
+    "geom:longitude": 105.058,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Xinggong",
+    "gn:country_code": "CN",
+    "gn:dem": 352,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10197662,
+    "gn:latitude": 30.5527,
+    "gn:longitude": 105.058,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Xinggong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.038,30.5327,105.078,30.5727",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "兴共"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890515169
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890515169,
+      1127510623
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10197662
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10197662
     },
-    "wof:country":"CN",
-    "wof:geomhash":"806f0445b2bd8cd3b83d4e39edeb29a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515169,
-            "empire_id":136253041,
-            "locality_id":1310364627,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "806f0445b2bd8cd3b83d4e39edeb29a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515169,
+        "empire_id": 136253041,
+        "locality_id": 1310364627,
+        "region_id": 85669787,
+        "localadmin_id": 1127510623
+      }
     ],
-    "wof:id":1310364627,
-    "wof:lastmodified":1566689003,
-    "wof:name":"Xinggong",
-    "wof:parent_id":890515169,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310364627,
+    "wof:lastmodified": 1768668804,
+    "wof:name": "Xinggong",
+    "wof:parent_id": 1127510623,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.058,
     30.5527,
     105.058,
     30.5527
-],
-  "geometry": {"coordinates":[105.05800000000001,30.5527],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.058,
+      30.5527
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1344235773,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.409,37.2477,114.409,37.2477",
-    "geom:latitude":37.2477,
-    "geom:longitude":114.409,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Xipang",
-    "gn:country_code":"CN",
-    "gn:dem":125,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9527724,
-    "gn:latitude":37.2477,
-    "gn:longitude":114.409,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Xipang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.389,37.2277,114.429,37.2677",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u5e9e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.409,37.2477,114.409,37.2477",
+    "geom:latitude": 37.2477,
+    "geom:longitude": 114.409,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Xipang",
+    "gn:country_code": "CN",
+    "gn:dem": 125,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9527724,
+    "gn:latitude": 37.2477,
+    "gn:longitude": 114.409,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Xipang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.389,37.2277,114.429,37.2677",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西庞"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513015
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513015,
+      1127130523
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9527724
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9527724
     },
-    "wof:country":"CN",
-    "wof:geomhash":"40c1462ef24c8e67c3c5301b45b278b8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513015,
-            "empire_id":136253041,
-            "locality_id":1344235773,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "40c1462ef24c8e67c3c5301b45b278b8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513015,
+        "empire_id": 136253041,
+        "locality_id": 1344235773,
+        "region_id": 85669797,
+        "localadmin_id": 1127130523
+      }
     ],
-    "wof:id":1344235773,
-    "wof:lastmodified":1566658577,
-    "wof:name":"Xipang",
-    "wof:parent_id":890513015,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344235773,
+    "wof:lastmodified": 1768669463,
+    "wof:name": "Xipang",
+    "wof:parent_id": 1127130523,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.409,
     37.2477,
     114.409,
     37.2477
-],
-  "geometry": {"coordinates":[114.40900000000001,37.2477],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.409,
+      37.2477
+    ],
+    "type": "Point"
+  }
 }

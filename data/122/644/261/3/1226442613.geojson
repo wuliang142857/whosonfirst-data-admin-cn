@@ -2,75 +2,83 @@
   "id": 1226442613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.95581,31.97501,120.95581,31.97501",
-    "geom:latitude":31.97501,
-    "geom:longitude":120.95581,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Dinghai",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8315560,
-    "gn:latitude":31.97501,
-    "gn:longitude":120.95581,
-    "gn:modification_date":"2012-06-07",
-    "gn:name":"Dinghai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.93581,31.95501,120.97581,31.99501",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u5b9a\u6d77"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.95581,31.97501,120.95581,31.97501",
+    "geom:latitude": 31.97501,
+    "geom:longitude": 120.95581,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Dinghai",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8315560,
+    "gn:latitude": 31.97501,
+    "gn:longitude": 120.95581,
+    "gn:modification_date": "2012-06-07",
+    "gn:name": "Dinghai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.93581,31.95501,120.97581,31.99501",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "定海"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890515155,
+      1127320613
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8315560
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8315560
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6709b7f45ceb2625e242c237e1d868bb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515155,
-            "empire_id":136253041,
-            "locality_id":1226442613,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6709b7f45ceb2625e242c237e1d868bb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515155,
+        "empire_id": 136253041,
+        "locality_id": 1226442613,
+        "region_id": 85669827,
+        "localadmin_id": 1127320613
+      }
     ],
-    "wof:id":1226442613,
-    "wof:lastmodified":1566701120,
-    "wof:name":"Dinghai",
-    "wof:parent_id":890515155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226442613,
+    "wof:lastmodified": 1768670803,
+    "wof:name": "Dinghai",
+    "wof:parent_id": 1127320613,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.95581,
     31.97501,
     120.95581,
     31.97501
-],
-  "geometry": {"coordinates":[120.95581,31.97501],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.95581,
+      31.97501
+    ],
+    "type": "Point"
+  }
 }

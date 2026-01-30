@@ -2,75 +2,83 @@
   "id": 1226412467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.467,35.7256,107.467,35.7256",
-    "geom:latitude":35.7256,
-    "geom:longitude":107.467,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Jianggouquan",
-    "gn:country_code":"CN",
-    "gn:dem":1307,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10738345,
-    "gn:latitude":35.7256,
-    "gn:longitude":107.467,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Jianggouquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.447,35.7056,107.487,35.7456",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u59dc\u6c9f\u5708"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.467,35.7256,107.467,35.7256",
+    "geom:latitude": 35.7256,
+    "geom:longitude": 107.467,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Jianggouquan",
+    "gn:country_code": "CN",
+    "gn:dem": 1307,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10738345,
+    "gn:latitude": 35.7256,
+    "gn:longitude": 107.467,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Jianggouquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.447,35.7056,107.487,35.7456",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "姜沟圈"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890512845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890512845,
+      1127621027
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10738345
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10738345
     },
-    "wof:country":"CN",
-    "wof:geomhash":"cda5e3308471d17ee2ae8fdcd82e22f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512845,
-            "empire_id":136253041,
-            "locality_id":1226412467,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "cda5e3308471d17ee2ae8fdcd82e22f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512845,
+        "empire_id": 136253041,
+        "locality_id": 1226412467,
+        "region_id": 85669711,
+        "localadmin_id": 1127621027
+      }
     ],
-    "wof:id":1226412467,
-    "wof:lastmodified":1566704528,
-    "wof:name":"Jianggouquan",
-    "wof:parent_id":890512845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226412467,
+    "wof:lastmodified": 1768666481,
+    "wof:name": "Jianggouquan",
+    "wof:parent_id": 1127621027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.467,
     35.7256,
     107.467,
     35.7256
-],
-  "geometry": {"coordinates":[107.467,35.7256],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.467,
+      35.7256
+    ],
+    "type": "Point"
+  }
 }

@@ -2,78 +2,86 @@
   "id": 1243258199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.99811,35.99617,115.99811,35.99617",
-    "geom:latitude":35.99617,
-    "geom:longitude":115.99811,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Zhangshu'an",
-    "gn:country_code":"CN",
-    "gn:dem":48,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9133276,
-    "gn:latitude":35.99617,
-    "gn:longitude":115.99811,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Zhangshu\u2019an",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.97811,35.97617,116.01811,36.01617",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhangshu\u2019an"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.99811,35.99617,115.99811,35.99617",
+    "geom:latitude": 35.99617,
+    "geom:longitude": 115.99811,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Zhangshu'an",
+    "gn:country_code": "CN",
+    "gn:dem": 48,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9133276,
+    "gn:latitude": 35.99617,
+    "gn:longitude": 115.99811,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Zhangshu’an",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.97811,35.97617,116.01811,36.01617",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhangshu’an"
     ],
-    "name:zho_x_preferred":[
-        "\u5f20\u4e66\u5b89"
+    "name:zho_x_preferred": [
+      "张书安"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514079
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514079,
+      890514291
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9133276
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9133276
     },
-    "wof:country":"CN",
-    "wof:geomhash":"064a8efe870ece632c093ed162597f24",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514079,
-            "empire_id":136253041,
-            "locality_id":1243258199,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "064a8efe870ece632c093ed162597f24",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514079,
+        "empire_id": 136253041,
+        "locality_id": 1243258199,
+        "region_id": 85669801,
+        "localadmin_id": 890514291
+      }
     ],
-    "wof:id":1243258199,
-    "wof:lastmodified":1566695816,
-    "wof:name":"Zhangshu'an",
-    "wof:parent_id":890514079,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243258199,
+    "wof:lastmodified": 1768669057,
+    "wof:name": "Zhangshu'an",
+    "wof:parent_id": 890514291,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.99811,
     35.99617,
     115.99811,
     35.99617
-],
-  "geometry": {"coordinates":[115.99811,35.99617],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.99811,
+      35.99617
+    ],
+    "type": "Point"
+  }
 }

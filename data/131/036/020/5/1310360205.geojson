@@ -2,77 +2,85 @@
   "id": 1310360205,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.79327,32.90111,105.79327,32.90111",
-    "geom:latitude":32.90111,
-    "geom:longitude":105.79327,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Bahaihe",
-    "gn:country_code":"CN",
-    "gn:dem":1004,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1817805,
-    "gn:latitude":32.90111,
-    "gn:longitude":105.79327,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Bahaihe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.77327,32.88111,105.81327,32.92111",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pa-hai-ho",
-        "Bahaihe",
-        "\u516b\u6d77\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.79327,32.90111,105.79327,32.90111",
+    "geom:latitude": 32.90111,
+    "geom:longitude": 105.79327,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Bahaihe",
+    "gn:country_code": "CN",
+    "gn:dem": 1004,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1817805,
+    "gn:latitude": 32.90111,
+    "gn:longitude": 105.79327,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Bahaihe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.77327,32.88111,105.81327,32.92111",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pa-hai-ho",
+      "Bahaihe",
+      "八海河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890514327,
+      890515099
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1817805
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1817805
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1de68b6dc87a85d11ca9b8742ccd757c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1310360205,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1de68b6dc87a85d11ca9b8742ccd757c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1310360205,
+        "region_id": 85669769,
+        "localadmin_id": 890514327
+      }
     ],
-    "wof:id":1310360205,
-    "wof:lastmodified":1566689023,
-    "wof:name":"Bahaihe",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310360205,
+    "wof:lastmodified": 1768667985,
+    "wof:name": "Bahaihe",
+    "wof:parent_id": 890514327,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.79327,
     32.90111,
     105.79327,
     32.90111
-],
-  "geometry": {"coordinates":[105.79327000000001,32.90111],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.79327,
+      32.90111
+    ],
+    "type": "Point"
+  }
 }

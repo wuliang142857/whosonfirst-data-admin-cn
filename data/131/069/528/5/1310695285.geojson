@@ -2,75 +2,83 @@
   "id": 1310695285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.759,38.4402,116.759,38.4402",
-    "geom:latitude":38.4402,
-    "geom:longitude":116.759,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Hulimu",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9630431,
-    "gn:latitude":38.4402,
-    "gn:longitude":116.759,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Hulimu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.739,38.4202,116.779,38.4602",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u72d0\u72f8\u5893"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.759,38.4402,116.759,38.4402",
+    "geom:latitude": 38.4402,
+    "geom:longitude": 116.759,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Hulimu",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9630431,
+    "gn:latitude": 38.4402,
+    "gn:longitude": 116.759,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Hulimu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.739,38.4202,116.779,38.4602",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "狐狸墓"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513789
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513789,
+      1127130922
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9630431
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9630431
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9f555f54efdca56ba47e13cd0f5d0ec1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513789,
-            "empire_id":136253041,
-            "locality_id":1310695285,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9f555f54efdca56ba47e13cd0f5d0ec1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513789,
+        "empire_id": 136253041,
+        "locality_id": 1310695285,
+        "region_id": 85669797,
+        "localadmin_id": 1127130922
+      }
     ],
-    "wof:id":1310695285,
-    "wof:lastmodified":1566690844,
-    "wof:name":"Hulimu",
-    "wof:parent_id":890513789,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310695285,
+    "wof:lastmodified": 1768669314,
+    "wof:name": "Hulimu",
+    "wof:parent_id": 1127130922,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.759,
     38.4402,
     116.759,
     38.4402
-],
-  "geometry": {"coordinates":[116.759,38.4402],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.759,
+      38.4402
+    ],
+    "type": "Point"
+  }
 }

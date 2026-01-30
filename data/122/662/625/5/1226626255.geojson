@@ -2,75 +2,83 @@
   "id": 1226626255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.2724,30.96099,110.2724,30.96099",
-    "geom:latitude":30.96099,
-    "geom:longitude":110.2724,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Shangping",
-    "gn:country_code":"CN",
-    "gn:dem":1379,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8518084,
-    "gn:latitude":30.96099,
-    "gn:longitude":110.2724,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Shangping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.2524,30.94099,110.2924,30.98099",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.2724,30.96099,110.2724,30.96099",
+    "geom:latitude": 30.96099,
+    "geom:longitude": 110.2724,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Shangping",
+    "gn:country_code": "CN",
+    "gn:dem": 1379,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8518084,
+    "gn:latitude": 30.96099,
+    "gn:longitude": 110.2724,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Shangping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.2524,30.94099,110.2924,30.98099",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890516771,
+      1108732427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8518084
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8518084
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ca3728ba5fd4a5a1f82c74167279166d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1226626255,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ca3728ba5fd4a5a1f82c74167279166d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1226626255,
+        "region_id": 85669777,
+        "localadmin_id": 890516771
+      }
     ],
-    "wof:id":1226626255,
-    "wof:lastmodified":1566705309,
-    "wof:name":"Shangping",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226626255,
+    "wof:lastmodified": 1768665686,
+    "wof:name": "Shangping",
+    "wof:parent_id": 890516771,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.2724,
     30.96099,
     110.2724,
     30.96099
-],
-  "geometry": {"coordinates":[110.2724,30.96099],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.2724,
+      30.96099
+    ],
+    "type": "Point"
+  }
 }

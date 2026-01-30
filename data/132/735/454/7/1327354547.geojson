@@ -2,75 +2,83 @@
   "id": 1327354547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.4888,25.65767,118.4888,25.65767",
-    "geom:latitude":25.65767,
-    "geom:longitude":118.4888,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Kunban",
-    "gn:country_code":"CN",
-    "gn:dem":876,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8574747,
-    "gn:latitude":25.65767,
-    "gn:longitude":118.4888,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Kunban",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.4688,25.63767,118.5088,25.67767",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6606\u5742"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.4888,25.65767,118.4888,25.65767",
+    "geom:latitude": 25.65767,
+    "geom:longitude": 118.4888,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Kunban",
+    "gn:country_code": "CN",
+    "gn:dem": 876,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8574747,
+    "gn:latitude": 25.65767,
+    "gn:longitude": 118.4888,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Kunban",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.4688,25.63767,118.5088,25.67767",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "昆坂"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513979,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8574747
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8574747
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fa5a567866c6d626f3ab238933d2c78d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1327354547,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fa5a567866c6d626f3ab238933d2c78d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1327354547,
+        "region_id": 85669735,
+        "localadmin_id": 890513979
+      }
     ],
-    "wof:id":1327354547,
-    "wof:lastmodified":1566651460,
-    "wof:name":"Kunban",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327354547,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Kunban",
+    "wof:parent_id": 890513979,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.4888,
     25.65767,
     118.4888,
     25.65767
-],
-  "geometry": {"coordinates":[118.4888,25.65767],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.4888,
+      25.65767
+    ],
+    "type": "Point"
+  }
 }

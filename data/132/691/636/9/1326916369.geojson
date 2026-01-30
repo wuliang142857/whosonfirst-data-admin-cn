@@ -2,81 +2,89 @@
   "id": 1326916369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"87.42018,43.87141,87.42018,43.87141",
-    "geom:latitude":43.87141,
-    "geom:longitude":87.42018,
-    "gn:admin1_code":"13",
-    "gn:asciiname":"Huoche Xizhan",
-    "gn:country_code":"CN",
-    "gn:dem":744,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA3",
-    "gn:geonameid":9275276,
-    "gn:latitude":43.87141,
-    "gn:longitude":87.42018,
-    "gn:modification_date":"2014-08-07",
-    "gn:name":"Huoche Xizhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"87.40018,43.85141,87.44018,43.89141",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Toutunhe",
-        "Toutunhe Qu",
-        "\u5934\u5c6f\u6cb3",
-        "\u5934\u5c6f\u6cb3\u533a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "87.42018,43.87141,87.42018,43.87141",
+    "geom:latitude": 43.87141,
+    "geom:longitude": 87.42018,
+    "gn:admin1_code": "13",
+    "gn:asciiname": "Huoche Xizhan",
+    "gn:country_code": "CN",
+    "gn:dem": 744,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA3",
+    "gn:geonameid": 9275276,
+    "gn:latitude": 43.87141,
+    "gn:longitude": 87.42018,
+    "gn:modification_date": "2014-08-07",
+    "gn:name": "Huoche Xizhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "87.40018,43.85141,87.44018,43.89141",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Toutunhe",
+      "Toutunhe Qu",
+      "头屯河",
+      "头屯河区"
     ],
-    "name:zho_x_preferred":[
-        "\u706b\u8f66\u897f\u7ad9"
+    "name:zho_x_preferred": [
+      "火车西站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669753,
-        102191569,
-        85632695,
-        136253041,
-        890516251
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669753,
+      102191569,
+      136253041,
+      890516251,
+      1127650106
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9275276
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9275276
     },
-    "wof:country":"CN",
-    "wof:geomhash":"951636454ef531bd0cb016795241586f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516251,
-            "empire_id":136253041,
-            "locality_id":1326916369,
-            "region_id":85669753
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "951636454ef531bd0cb016795241586f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516251,
+        "empire_id": 136253041,
+        "locality_id": 1326916369,
+        "region_id": 85669753,
+        "localadmin_id": 1127650106
+      }
     ],
-    "wof:id":1326916369,
-    "wof:lastmodified":1566653683,
-    "wof:name":"Huoche Xizhan",
-    "wof:parent_id":890516251,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326916369,
+    "wof:lastmodified": 1768667619,
+    "wof:name": "Huoche Xizhan",
+    "wof:parent_id": 1127650106,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     87.42018,
     43.87141,
     87.42018,
     43.87141
-],
-  "geometry": {"coordinates":[87.42018,43.87141],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      87.42018,
+      43.87141
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1243151987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.90168,29.62066,113.90168,29.62066",
-    "geom:latitude":29.62066,
-    "geom:longitude":113.90168,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Dawuping",
-    "gn:country_code":"CN",
-    "gn:dem":380,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8512845,
-    "gn:latitude":29.62066,
-    "gn:longitude":113.90168,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Dawuping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.88168,29.60066,113.92168,29.64066",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5927\u5c4b\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.90168,29.62066,113.90168,29.62066",
+    "geom:latitude": 29.62066,
+    "geom:longitude": 113.90168,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Dawuping",
+    "gn:country_code": "CN",
+    "gn:dem": 380,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8512845,
+    "gn:latitude": 29.62066,
+    "gn:longitude": 113.90168,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Dawuping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.88168,29.60066,113.92168,29.64066",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "大屋坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514637
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890513925,
+      890514637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8512845
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8512845
     },
-    "wof:country":"CN",
-    "wof:geomhash":"46bde23cc6ae6e5f75fac02a27f163b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514637,
-            "empire_id":136253041,
-            "locality_id":1243151987,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "46bde23cc6ae6e5f75fac02a27f163b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514637,
+        "empire_id": 136253041,
+        "locality_id": 1243151987,
+        "region_id": 85669777,
+        "localadmin_id": 890513925
+      }
     ],
-    "wof:id":1243151987,
-    "wof:lastmodified":1566695466,
-    "wof:name":"Dawuping",
-    "wof:parent_id":890514637,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243151987,
+    "wof:lastmodified": 1768667452,
+    "wof:name": "Dawuping",
+    "wof:parent_id": 890513925,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.90168,
     29.62066,
     113.90168,
     29.62066
-],
-  "geometry": {"coordinates":[113.90168,29.62066],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.90168,
+      29.62066
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1259666309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.205,33.6729,106.205,33.6729",
-    "geom:latitude":33.6729,
-    "geom:longitude":106.205,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Gaoyacun",
-    "gn:country_code":"CN",
-    "gn:dem":1107,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10452250,
-    "gn:latitude":33.6729,
-    "gn:longitude":106.205,
-    "gn:modification_date":"2015-10-06",
-    "gn:name":"Gaoyacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.185,33.6529,106.225,33.6929",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Gaojiaya"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.205,33.6729,106.205,33.6729",
+    "geom:latitude": 33.6729,
+    "geom:longitude": 106.205,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Gaoyacun",
+    "gn:country_code": "CN",
+    "gn:dem": 1107,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10452250,
+    "gn:latitude": 33.6729,
+    "gn:longitude": 106.205,
+    "gn:modification_date": "2015-10-06",
+    "gn:name": "Gaoyacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.185,33.6529,106.225,33.6929",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Gaojiaya"
     ],
-    "name:zho_x_preferred":[
-        "\u9ad8\u5d16\u6751"
+    "name:zho_x_preferred": [
+      "高崖村"
     ],
-    "name:zho_x_variant":[
-        "\u9ad8\u5bb6\u5d16"
+    "name:zho_x_variant": [
+      "高家崖"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621227
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10452250
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10452250
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e2f727555d80cd1b5f2abe190d6730cf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1259666309,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e2f727555d80cd1b5f2abe190d6730cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1259666309,
+        "region_id": 85669711,
+        "localadmin_id": 1127621227
+      }
     ],
-    "wof:id":1259666309,
-    "wof:lastmodified":1566699527,
-    "wof:name":"Gaoyacun",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259666309,
+    "wof:lastmodified": 1768665903,
+    "wof:name": "Gaoyacun",
+    "wof:parent_id": 1127621227,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.205,
     33.6729,
     106.205,
     33.6729
-],
-  "geometry": {"coordinates":[106.205,33.6729],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.205,
+      33.6729
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1343326475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.59404,49.29051,118.59404,49.29051",
-    "geom:latitude":49.29051,
-    "geom:longitude":118.59404,
-    "gn:admin1_code":"20.0",
-    "gn:asciiname":"Huletu",
-    "gn:country_code":"CN",
-    "gn:dem":570,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8440044,
-    "gn:latitude":49.29051,
-    "gn:longitude":118.59404,
-    "gn:modification_date":"2013-01-12",
-    "gn:name":"Huletu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.57404,49.27051,118.61404,49.31051",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u547c\u52d2\u56fe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.59404,49.29051,118.59404,49.29051",
+    "geom:latitude": 49.29051,
+    "geom:longitude": 118.59404,
+    "gn:admin1_code": "20.0",
+    "gn:asciiname": "Huletu",
+    "gn:country_code": "CN",
+    "gn:dem": 570,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8440044,
+    "gn:latitude": 49.29051,
+    "gn:longitude": 118.59404,
+    "gn:modification_date": "2013-01-12",
+    "gn:name": "Huletu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.57404,49.27051,118.61404,49.31051",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "呼勒图"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669847,
-        102191569,
-        85632695,
-        136253041,
-        1108732385
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669847,
+      102191569,
+      136253041,
+      890514227,
+      1108732385
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8440044
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8440044
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fd44658a76da4bf73a57ff6679f93d00",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732385,
-            "empire_id":136253041,
-            "locality_id":1343326475,
-            "region_id":85669847
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fd44658a76da4bf73a57ff6679f93d00",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732385,
+        "empire_id": 136253041,
+        "locality_id": 1343326475,
+        "region_id": 85669847,
+        "localadmin_id": 890514227
+      }
     ],
-    "wof:id":1343326475,
-    "wof:lastmodified":1566661265,
-    "wof:name":"Huletu",
-    "wof:parent_id":1108732385,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343326475,
+    "wof:lastmodified": 1768666531,
+    "wof:name": "Huletu",
+    "wof:parent_id": 890514227,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.59404,
     49.29051,
     118.59404,
     49.29051
-],
-  "geometry": {"coordinates":[118.59404000000001,49.29051],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.59404,
+      49.29051
+    ],
+    "type": "Point"
+  }
 }

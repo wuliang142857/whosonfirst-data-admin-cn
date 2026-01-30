@@ -2,75 +2,83 @@
   "id": 1226331187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.44836,40.24314,115.44836,40.24314",
-    "geom:latitude":40.24314,
-    "geom:longitude":115.44836,
-    "gn:admin1_code":"10.0",
-    "gn:asciiname":"Guoyuan",
-    "gn:country_code":"CN",
-    "gn:dem":662,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10133052,
-    "gn:latitude":40.24314,
-    "gn:longitude":115.44836,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Guoyuan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.42836,40.22314,115.46836,40.26314",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u679c\u56ed"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.44836,40.24314,115.44836,40.24314",
+    "geom:latitude": 40.24314,
+    "geom:longitude": 115.44836,
+    "gn:admin1_code": "10.0",
+    "gn:asciiname": "Guoyuan",
+    "gn:country_code": "CN",
+    "gn:dem": 662,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10133052,
+    "gn:latitude": 40.24314,
+    "gn:longitude": 115.44836,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Guoyuan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.42836,40.22314,115.46836,40.26314",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "果园"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890516481
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890514049,
+      890516481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10133052
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10133052
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2c240672baa143aeb6ae1ce1e4733d18",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516481,
-            "empire_id":136253041,
-            "locality_id":1226331187,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2c240672baa143aeb6ae1ce1e4733d18",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516481,
+        "empire_id": 136253041,
+        "locality_id": 1226331187,
+        "region_id": 85669797,
+        "localadmin_id": 890514049
+      }
     ],
-    "wof:id":1226331187,
-    "wof:lastmodified":1566701879,
-    "wof:name":"Guoyuan",
-    "wof:parent_id":890516481,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226331187,
+    "wof:lastmodified": 1768669000,
+    "wof:name": "Guoyuan",
+    "wof:parent_id": 890514049,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.44836,
     40.24314,
     115.44836,
     40.24314
-],
-  "geometry": {"coordinates":[115.44835999999999,40.24314],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.44836,
+      40.24314
+    ],
+    "type": "Point"
+  }
 }

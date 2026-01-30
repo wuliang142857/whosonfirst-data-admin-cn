@@ -2,82 +2,90 @@
   "id": 1259340851,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.84704,35.68557,111.84704,35.68557",
-    "geom:latitude":35.68557,
-    "geom:longitude":111.84704,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Shangganquan",
-    "gn:country_code":"CN",
-    "gn:dem":1060,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1810682,
-    "gn:latitude":35.68557,
-    "gn:longitude":111.84704,
-    "gn:modification_date":"2017-02-04",
-    "gn:name":"Shangganquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.82704,35.66557,111.86704,35.70557",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shang-kan-ch\u2019\u00fcan",
-        "Kan-ch\u2019\u00fcan",
-        "Shangganquan",
-        "Hsia-kan-ch\u2019\u00fcan",
-        "Ganquan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.84704,35.68557,111.84704,35.68557",
+    "geom:latitude": 35.68557,
+    "geom:longitude": 111.84704,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Shangganquan",
+    "gn:country_code": "CN",
+    "gn:dem": 1060,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1810682,
+    "gn:latitude": 35.68557,
+    "gn:longitude": 111.84704,
+    "gn:modification_date": "2017-02-04",
+    "gn:name": "Shangganquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.82704,35.66557,111.86704,35.70557",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shang-kan-ch’üan",
+      "Kan-ch’üan",
+      "Shangganquan",
+      "Hsia-kan-ch’üan",
+      "Ganquan"
     ],
-    "name:zho_x_preferred":[
-        "\u4e0a\u7518\u6cc9"
+    "name:zho_x_preferred": [
+      "上甘泉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        1108732337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      1108732337,
+      1127141022
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1810682
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1810682
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d979da5f429dfdf407b8f4a0ca2abe70",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732337,
-            "empire_id":136253041,
-            "locality_id":1259340851,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d979da5f429dfdf407b8f4a0ca2abe70",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732337,
+        "empire_id": 136253041,
+        "locality_id": 1259340851,
+        "region_id": 85669773,
+        "localadmin_id": 1127141022
+      }
     ],
-    "wof:id":1259340851,
-    "wof:lastmodified":1566700065,
-    "wof:name":"Shangganquan",
-    "wof:parent_id":1108732337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259340851,
+    "wof:lastmodified": 1768666368,
+    "wof:name": "Shangganquan",
+    "wof:parent_id": 1127141022,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.84704,
     35.68557,
     111.84704,
     35.68557
-],
-  "geometry": {"coordinates":[111.84704000000001,35.68557],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.84704,
+      35.68557
+    ],
+    "type": "Point"
+  }
 }

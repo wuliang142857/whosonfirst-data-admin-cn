@@ -2,75 +2,83 @@
   "id": 1259637443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.00941,29.82186,108.00941,29.82186",
-    "geom:latitude":29.82186,
-    "geom:longitude":108.00941,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Houshanping",
-    "gn:country_code":"CN",
-    "gn:dem":734,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8406273,
-    "gn:latitude":29.82186,
-    "gn:longitude":108.00941,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Houshanping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.98941,29.80186,108.02941,29.84186",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u540e\u5c71\u576a"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.00941,29.82186,108.00941,29.82186",
+    "geom:latitude": 29.82186,
+    "geom:longitude": 108.00941,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Houshanping",
+    "gn:country_code": "CN",
+    "gn:dem": 734,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8406273,
+    "gn:latitude": 29.82186,
+    "gn:longitude": 108.00941,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Houshanping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.98941,29.80186,108.02941,29.84186",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "后山坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513027,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8406273
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8406273
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7bba1cd0bdc2c4a0fcb90d90e339318c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1259637443,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7bba1cd0bdc2c4a0fcb90d90e339318c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1259637443,
+        "region_id": 85669725,
+        "localadmin_id": 890513027
+      }
     ],
-    "wof:id":1259637443,
-    "wof:lastmodified":1566698432,
-    "wof:name":"Houshanping",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259637443,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Houshanping",
+    "wof:parent_id": 890513027,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.00941,
     29.82186,
     108.00941,
     29.82186
-],
-  "geometry": {"coordinates":[108.00941,29.82186],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.00941,
+      29.82186
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1209974009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.92425,35.89992,115.92425,35.89992",
-    "geom:latitude":35.89992,
-    "geom:longitude":115.92425,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Fangjia",
-    "gn:country_code":"CN",
-    "gn:dem":45,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9180606,
-    "gn:latitude":35.89992,
-    "gn:longitude":115.92425,
-    "gn:modification_date":"2014-07-10",
-    "gn:name":"Fangjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.90425,35.87992,115.94425,35.91992",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u623f\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.92425,35.89992,115.92425,35.89992",
+    "geom:latitude": 35.89992,
+    "geom:longitude": 115.92425,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Fangjia",
+    "gn:country_code": "CN",
+    "gn:dem": 45,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9180606,
+    "gn:latitude": 35.89992,
+    "gn:longitude": 115.92425,
+    "gn:modification_date": "2014-07-10",
+    "gn:name": "Fangjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.90425,35.87992,115.94425,35.91992",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "房家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890515875
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512693,
+      890515875
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9180606
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9180606
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8a11f0fbc8195bbaf5c162bf59cf572a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515875,
-            "empire_id":136253041,
-            "locality_id":1209974009,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8a11f0fbc8195bbaf5c162bf59cf572a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515875,
+        "empire_id": 136253041,
+        "locality_id": 1209974009,
+        "region_id": 85669813,
+        "localadmin_id": 890512693
+      }
     ],
-    "wof:id":1209974009,
-    "wof:lastmodified":1566679857,
-    "wof:name":"Fangjia",
-    "wof:parent_id":890515875,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209974009,
+    "wof:lastmodified": 1768668048,
+    "wof:name": "Fangjia",
+    "wof:parent_id": 890512693,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.92425,
     35.89992,
     115.92425,
     35.89992
-],
-  "geometry": {"coordinates":[115.92425,35.89992],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.92425,
+      35.89992
+    ],
+    "type": "Point"
+  }
 }

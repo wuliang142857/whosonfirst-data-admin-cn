@@ -2,80 +2,88 @@
   "id": 1343718053,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.51639,31.18722,121.51639,31.18722",
-    "geom:latitude":31.18722,
-    "geom:longitude":121.51639,
-    "gn:admin1_code":"23",
-    "gn:asciiname":"Liuliqiao",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1802975,
-    "gn:latitude":31.18722,
-    "gn:longitude":121.51639,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Liuliqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.49639,31.16722,121.53639,31.20722",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "liu-li-ch\u2019iao-chen",
-        "Liuliqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.51639,31.18722,121.51639,31.18722",
+    "geom:latitude": 31.18722,
+    "geom:longitude": 121.51639,
+    "gn:admin1_code": "23",
+    "gn:asciiname": "Liuliqiao",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1802975,
+    "gn:latitude": 31.18722,
+    "gn:longitude": 121.51639,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Liuliqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.49639,31.16722,121.53639,31.20722",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "liu-li-ch’iao-chen",
+      "Liuliqiao"
     ],
-    "name:zho_x_preferred":[
-        "\u516d\u91cc\u6865"
+    "name:zho_x_preferred": [
+      "六里桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514195,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1802975
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1802975
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8e7bf732a27e16afc7ae3fe3f95598c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1343718053,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8e7bf732a27e16afc7ae3fe3f95598c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1343718053,
+        "region_id": 85669831,
+        "localadmin_id": 890514195
+      }
     ],
-    "wof:id":1343718053,
-    "wof:lastmodified":1566659979,
-    "wof:name":"Liuliqiao",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343718053,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Liuliqiao",
+    "wof:parent_id": 890514195,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.51639,
     31.18722,
     121.51639,
     31.18722
-],
-  "geometry": {"coordinates":[121.51639,31.18722],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.51639,
+      31.18722
+    ],
+    "type": "Point"
+  }
 }

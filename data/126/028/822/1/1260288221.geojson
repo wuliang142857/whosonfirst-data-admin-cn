@@ -2,75 +2,83 @@
   "id": 1260288221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.97995,33.534,115.97995,33.534",
-    "geom:latitude":33.534,
-    "geom:longitude":115.97995,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Biaolicun",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11440619,
-    "gn:latitude":33.534,
-    "gn:longitude":115.97995,
-    "gn:modification_date":"2017-02-05",
-    "gn:name":"Biaolicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.95995,33.514,115.99995,33.554",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6807\u91cc\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.97995,33.534,115.97995,33.534",
+    "geom:latitude": 33.534,
+    "geom:longitude": 115.97995,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Biaolicun",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11440619,
+    "gn:latitude": 33.534,
+    "gn:longitude": 115.97995,
+    "gn:modification_date": "2017-02-05",
+    "gn:name": "Biaolicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.95995,33.514,115.99995,33.554",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "标里村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890515239
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890513461,
+      890515239
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11440619
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11440619
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5af476466fe3dbe83b263dd6fa80da13",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515239,
-            "empire_id":136253041,
-            "locality_id":1260288221,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5af476466fe3dbe83b263dd6fa80da13",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515239,
+        "empire_id": 136253041,
+        "locality_id": 1260288221,
+        "region_id": 85669739,
+        "localadmin_id": 890513461
+      }
     ],
-    "wof:id":1260288221,
-    "wof:lastmodified":1566687367,
-    "wof:name":"Biaolicun",
-    "wof:parent_id":890515239,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260288221,
+    "wof:lastmodified": 1768669756,
+    "wof:name": "Biaolicun",
+    "wof:parent_id": 890513461,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.97995,
     33.534,
     115.97995,
     33.534
-],
-  "geometry": {"coordinates":[115.97995,33.534],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.97995,
+      33.534
+    ],
+    "type": "Point"
+  }
 }

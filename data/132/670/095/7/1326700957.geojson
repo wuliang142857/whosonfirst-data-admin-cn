@@ -2,83 +2,91 @@
   "id": 1326700957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"85.002,29.402,85.002,29.402",
-    "geom:latitude":29.402,
-    "geom:longitude":85.002,
-    "gn:admin1_code":"14.0",
-    "gn:asciiname":"Lunggar",
-    "gn:country_code":"CN",
-    "gn:dem":4665,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8044558,
-    "gn:latitude":29.402,
-    "gn:longitude":85.002,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Lunggar",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"84.982,29.382,85.022,29.422",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:bod_x_preferred":[
-        "Lunggar"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "85.002,29.402,85.002,29.402",
+    "geom:latitude": 29.402,
+    "geom:longitude": 85.002,
+    "gn:admin1_code": "14.0",
+    "gn:asciiname": "Lunggar",
+    "gn:country_code": "CN",
+    "gn:dem": 4665,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8044558,
+    "gn:latitude": 29.402,
+    "gn:longitude": 85.002,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Lunggar",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "84.982,29.382,85.022,29.422",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:bod_x_preferred": [
+      "Lunggar"
     ],
-    "name:zho_x_preferred":[
-        "Luga"
+    "name:zho_x_preferred": [
+      "Luga"
     ],
-    "name:zho_x_variant":[
-        "\u9c81\u560e",
-        "Dajiling Gongshe",
-        "\u8fbe\u5409\u5cad\u516c\u793e"
+    "name:zho_x_variant": [
+      "鲁嘎",
+      "Dajiling Gongshe",
+      "达吉岭公社"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669747,
-        102191569,
-        85632695,
-        136253041,
-        890516395
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669747,
+      102191569,
+      136253041,
+      890516395,
+      1127540236
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8044558
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8044558
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b2582ed97ee1cad373eb05870900c9f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516395,
-            "empire_id":136253041,
-            "locality_id":1326700957,
-            "region_id":85669747
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b2582ed97ee1cad373eb05870900c9f3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516395,
+        "empire_id": 136253041,
+        "locality_id": 1326700957,
+        "region_id": 85669747,
+        "localadmin_id": 1127540236
+      }
     ],
-    "wof:id":1326700957,
-    "wof:lastmodified":1566652461,
-    "wof:name":"Lunggar",
-    "wof:parent_id":890516395,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326700957,
+    "wof:lastmodified": 1768665595,
+    "wof:name": "Lunggar",
+    "wof:parent_id": 1127540236,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     85.00200000000002,
     29.402,
     85.00200000000002,
     29.402
-],
-  "geometry": {"coordinates":[85.00200000000002,29.402],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      85.00200000000002,
+      29.402
+    ],
+    "type": "Point"
+  }
 }

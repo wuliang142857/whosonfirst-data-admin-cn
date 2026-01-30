@@ -2,81 +2,89 @@
   "id": 1192982911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.255,37.5434,106.255,37.5434",
-    "geom:latitude":37.5434,
-    "geom:longitude":106.255,
-    "gn:admin1_code":"21",
-    "gn:asciiname":"Sunjiatan",
-    "gn:country_code":"CN",
-    "gn:dem":1268,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1793821,
-    "gn:latitude":37.5434,
-    "gn:longitude":106.255,
-    "gn:modification_date":"2015-04-08",
-    "gn:name":"Sunjiatan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.235,37.5234,106.275,37.5634",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Sun\u2019baotszyatan\u2019",
-        "Sun-pao-chia-t\u2019an",
-        "Sun-chia-t\u2019an",
-        "Sunjiatan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.255,37.5434,106.255,37.5434",
+    "geom:latitude": 37.5434,
+    "geom:longitude": 106.255,
+    "gn:admin1_code": "21",
+    "gn:asciiname": "Sunjiatan",
+    "gn:country_code": "CN",
+    "gn:dem": 1268,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1793821,
+    "gn:latitude": 37.5434,
+    "gn:longitude": 106.255,
+    "gn:modification_date": "2015-04-08",
+    "gn:name": "Sunjiatan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.235,37.5234,106.275,37.5634",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Sun’baotszyatan’",
+      "Sun-pao-chia-t’an",
+      "Sun-chia-t’an",
+      "Sunjiatan"
     ],
-    "name:zho_x_preferred":[
-        "\u5b59\u5bb6\u6ee9"
+    "name:zho_x_preferred": [
+      "孙家滩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        1108732381
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      1108732381,
+      1127640303
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1793821
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1793821
     },
-    "wof:country":"CN",
-    "wof:geomhash":"38ea910f6d0148b9734e27a806e32b42",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732381,
-            "empire_id":136253041,
-            "locality_id":1192982911,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "38ea910f6d0148b9734e27a806e32b42",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732381,
+        "empire_id": 136253041,
+        "locality_id": 1192982911,
+        "region_id": 85669763,
+        "localadmin_id": 1127640303
+      }
     ],
-    "wof:id":1192982911,
-    "wof:lastmodified":1566685555,
-    "wof:name":"Sunjiatan",
-    "wof:parent_id":1108732381,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1192982911,
+    "wof:lastmodified": 1768667273,
+    "wof:name": "Sunjiatan",
+    "wof:parent_id": 1127640303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.255,
     37.5434,
     106.255,
     37.5434
-],
-  "geometry": {"coordinates":[106.255,37.5434],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.255,
+      37.5434
+    ],
+    "type": "Point"
+  }
 }

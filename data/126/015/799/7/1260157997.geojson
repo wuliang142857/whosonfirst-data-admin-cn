@@ -2,84 +2,92 @@
   "id": 1260157997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.38491,30.77619,113.38491,30.77619",
-    "geom:latitude":30.77619,
-    "geom:longitude":113.38491,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Hushi",
-    "gn:country_code":"CN",
-    "gn:dem":30,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8515093,
-    "gn:latitude":30.77619,
-    "gn:longitude":113.38491,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Hushi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.36491,30.75619,113.40491,30.79619",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:heb_x_preferred":[
-        "\u05d7\u05d5\u05e9\u05d9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.38491,30.77619,113.38491,30.77619",
+    "geom:latitude": 30.77619,
+    "geom:longitude": 113.38491,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Hushi",
+    "gn:country_code": "CN",
+    "gn:dem": 30,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8515093,
+    "gn:latitude": 30.77619,
+    "gn:longitude": 113.38491,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Hushi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.36491,30.75619,113.40491,30.79619",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:heb_x_preferred": [
+      "חושי"
     ],
-    "name:und_x_variant":[
-        "Hushi Zhen"
+    "name:und_x_variant": [
+      "Hushi Zhen"
     ],
-    "name:zho_x_preferred":[
-        "\u80e1\u5e02"
+    "name:zho_x_preferred": [
+      "胡市"
     ],
-    "name:zho_x_variant":[
-        "\u80e1\u5e02\u9547"
+    "name:zho_x_variant": [
+      "胡市镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732405
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890517005,
+      1108732405
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8515093
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8515093
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8add14c3b744cc2f1cd7beafe4dd131b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732405,
-            "empire_id":136253041,
-            "locality_id":1260157997,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8add14c3b744cc2f1cd7beafe4dd131b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732405,
+        "empire_id": 136253041,
+        "locality_id": 1260157997,
+        "region_id": 85669777,
+        "localadmin_id": 890517005
+      }
     ],
-    "wof:id":1260157997,
-    "wof:lastmodified":1566686245,
-    "wof:name":"Hushi",
-    "wof:parent_id":1108732405,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260157997,
+    "wof:lastmodified": 1768667212,
+    "wof:name": "Hushi",
+    "wof:parent_id": 890517005,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.38491,
     30.77619,
     113.38491,
     30.77619
-],
-  "geometry": {"coordinates":[113.38491,30.77619],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.38491,
+      30.77619
+    ],
+    "type": "Point"
+  }
 }

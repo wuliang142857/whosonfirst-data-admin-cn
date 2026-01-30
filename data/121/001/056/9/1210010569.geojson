@@ -2,75 +2,83 @@
   "id": 1210010569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.67153,32.66374,114.67153,32.66374",
-    "geom:latitude":32.66374,
-    "geom:longitude":114.67153,
-    "gn:admin1_code":"9.0",
-    "gn:asciiname":"Chenchong",
-    "gn:country_code":"CN",
-    "gn:dem":58,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10424138,
-    "gn:latitude":32.66374,
-    "gn:longitude":114.67153,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Chenchong",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.65153,32.64374,114.69153,32.68374",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u51b2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.67153,32.66374,114.67153,32.66374",
+    "geom:latitude": 32.66374,
+    "geom:longitude": 114.67153,
+    "gn:admin1_code": "9.0",
+    "gn:asciiname": "Chenchong",
+    "gn:country_code": "CN",
+    "gn:dem": 58,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10424138,
+    "gn:latitude": 32.66374,
+    "gn:longitude": 114.67153,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Chenchong",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.65153,32.64374,114.69153,32.68374",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈冲"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514843
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514843,
+      1127411724
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10424138
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10424138
     },
-    "wof:country":"CN",
-    "wof:geomhash":"beee436db06dabd23409d87c0184d080",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514843,
-            "empire_id":136253041,
-            "locality_id":1210010569,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "beee436db06dabd23409d87c0184d080",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514843,
+        "empire_id": 136253041,
+        "locality_id": 1210010569,
+        "region_id": 85669801,
+        "localadmin_id": 1127411724
+      }
     ],
-    "wof:id":1210010569,
-    "wof:lastmodified":1566684547,
-    "wof:name":"Chenchong",
-    "wof:parent_id":890514843,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1210010569,
+    "wof:lastmodified": 1768669304,
+    "wof:name": "Chenchong",
+    "wof:parent_id": 1127411724,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.67153,
     32.66374,
     114.67153,
     32.66374
-],
-  "geometry": {"coordinates":[114.67153,32.66374],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.67153,
+      32.66374
+    ],
+    "type": "Point"
+  }
 }

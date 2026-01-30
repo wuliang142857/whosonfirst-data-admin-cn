@@ -2,75 +2,83 @@
   "id": 1243387193,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.18553,32.26344,120.18553,32.26344",
-    "geom:latitude":32.26344,
-    "geom:longitude":120.18553,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Donggu",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8361345,
-    "gn:latitude":32.26344,
-    "gn:longitude":120.18553,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Donggu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.16553,32.24344,120.20553,32.28344",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e1c\u987e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.18553,32.26344,120.18553,32.26344",
+    "geom:latitude": 32.26344,
+    "geom:longitude": 120.18553,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Donggu",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8361345,
+    "gn:latitude": 32.26344,
+    "gn:longitude": 120.18553,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Donggu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.16553,32.24344,120.20553,32.28344",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "东顾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516237,
+      890516991
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8361345
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8361345
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1c41f2b9af92439fe7169285269b2a63",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1243387193,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1c41f2b9af92439fe7169285269b2a63",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1243387193,
+        "region_id": 85669827,
+        "localadmin_id": 890516991
+      }
     ],
-    "wof:id":1243387193,
-    "wof:lastmodified":1566693867,
-    "wof:name":"Donggu",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243387193,
+    "wof:lastmodified": 1768670650,
+    "wof:name": "Donggu",
+    "wof:parent_id": 890516991,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.18553,
     32.26344,
     120.18553,
     32.26344
-],
-  "geometry": {"coordinates":[120.18553,32.26344],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.18553,
+      32.26344
+    ],
+    "type": "Point"
+  }
 }

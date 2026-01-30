@@ -2,75 +2,83 @@
   "id": 1243404789,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.666,24.1257,102.666,24.1257",
-    "geom:latitude":24.1257,
-    "geom:longitude":102.666,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Luoji",
-    "gn:country_code":"CN",
-    "gn:dem":1799,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6824269,
-    "gn:latitude":24.1257,
-    "gn:longitude":102.666,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Luoji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.646,24.1057,102.686,24.1457",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u87ba\u9afb"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.666,24.1257,102.666,24.1257",
+    "geom:latitude": 24.1257,
+    "geom:longitude": 102.666,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Luoji",
+    "gn:country_code": "CN",
+    "gn:dem": 1799,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6824269,
+    "gn:latitude": 24.1257,
+    "gn:longitude": 102.666,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Luoji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.646,24.1057,102.686,24.1457",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "螺髻"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890512033
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890512033,
+      1127530423
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6824269
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6824269
     },
-    "wof:country":"CN",
-    "wof:geomhash":"be0b00fa5c9f44d46586e9ef6bb00baf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512033,
-            "empire_id":136253041,
-            "locality_id":1243404789,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "be0b00fa5c9f44d46586e9ef6bb00baf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512033,
+        "empire_id": 136253041,
+        "locality_id": 1243404789,
+        "region_id": 85669791,
+        "localadmin_id": 1127530423
+      }
     ],
-    "wof:id":1243404789,
-    "wof:lastmodified":1566695564,
-    "wof:name":"Luoji",
-    "wof:parent_id":890512033,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243404789,
+    "wof:lastmodified": 1768668616,
+    "wof:name": "Luoji",
+    "wof:parent_id": 1127530423,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.666,
     24.1257,
     102.666,
     24.1257
-],
-  "geometry": {"coordinates":[102.666,24.1257],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.666,
+      24.1257
+    ],
+    "type": "Point"
+  }
 }

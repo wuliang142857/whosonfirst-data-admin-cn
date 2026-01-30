@@ -2,78 +2,86 @@
   "id": 1343804379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.5701,23.19219,112.5701,23.19219",
-    "geom:latitude":23.19219,
-    "geom:longitude":112.5701,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Guicheng",
-    "gn:country_code":"CN",
-    "gn:dem":13,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":6926908,
-    "gn:latitude":23.19219,
-    "gn:longitude":112.5701,
-    "gn:modification_date":"2012-06-06",
-    "gn:name":"Guicheng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.5501,23.17219,112.5901,23.21219",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6842\u57ce",
-        "Guicheng",
-        "Guicheng Jiedao",
-        "\u6842\u57ce\u8857\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.5701,23.19219,112.5701,23.19219",
+    "geom:latitude": 23.19219,
+    "geom:longitude": 112.5701,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Guicheng",
+    "gn:country_code": "CN",
+    "gn:dem": 13,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 6926908,
+    "gn:latitude": 23.19219,
+    "gn:longitude": 112.5701,
+    "gn:modification_date": "2012-06-06",
+    "gn:name": "Guicheng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.5501,23.17219,112.5901,23.21219",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "桂城",
+      "Guicheng",
+      "Guicheng Jiedao",
+      "桂城街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514727
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514727,
+      1127441203
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6926908
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6926908
     },
-    "wof:country":"CN",
-    "wof:geomhash":"32704af73e478e68d4214004a3db46ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514727,
-            "empire_id":136253041,
-            "locality_id":1343804379,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "32704af73e478e68d4214004a3db46ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514727,
+        "empire_id": 136253041,
+        "locality_id": 1343804379,
+        "region_id": 85669743,
+        "localadmin_id": 1127441203
+      }
     ],
-    "wof:id":1343804379,
-    "wof:lastmodified":1566663931,
-    "wof:name":"Guicheng",
-    "wof:parent_id":890514727,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343804379,
+    "wof:lastmodified": 1768667907,
+    "wof:name": "Guicheng",
+    "wof:parent_id": 1127441203,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.5701,
     23.19219,
     112.5701,
     23.19219
-],
-  "geometry": {"coordinates":[112.5701,23.19219],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.5701,
+      23.19219
+    ],
+    "type": "Point"
+  }
 }

@@ -2,81 +2,89 @@
   "id": 1242754905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.77992,30.84335,110.77992,30.84335",
-    "geom:latitude":30.84335,
-    "geom:longitude":110.77992,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhouping",
-    "gn:country_code":"CN",
-    "gn:dem":517,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":8518917,
-    "gn:latitude":30.84335,
-    "gn:longitude":110.77992,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Zhouping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.75992,30.82335,110.79992,30.86335",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhouping Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.77992,30.84335,110.77992,30.84335",
+    "geom:latitude": 30.84335,
+    "geom:longitude": 110.77992,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhouping",
+    "gn:country_code": "CN",
+    "gn:dem": 517,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 8518917,
+    "gn:latitude": 30.84335,
+    "gn:longitude": 110.77992,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Zhouping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.75992,30.82335,110.79992,30.86335",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhouping Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u5468\u576a"
+    "name:zho_x_preferred": [
+      "周坪"
     ],
-    "name:zho_x_variant":[
-        "\u5468\u576a\u4e61"
+    "name:zho_x_variant": [
+      "周坪乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890513331
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890513331,
+      890516303
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8518917
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8518917
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b47807db436ed485f0ebf0ea797413fe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513331,
-            "empire_id":136253041,
-            "locality_id":1242754905,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b47807db436ed485f0ebf0ea797413fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513331,
+        "empire_id": 136253041,
+        "locality_id": 1242754905,
+        "region_id": 85669777,
+        "localadmin_id": 890516303
+      }
     ],
-    "wof:id":1242754905,
-    "wof:lastmodified":1566694658,
-    "wof:name":"Zhouping",
-    "wof:parent_id":890513331,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242754905,
+    "wof:lastmodified": 1768665620,
+    "wof:name": "Zhouping",
+    "wof:parent_id": 890516303,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.77992,
     30.84335,
     110.77992,
     30.84335
-],
-  "geometry": {"coordinates":[110.77992,30.84335],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.77992,
+      30.84335
+    ],
+    "type": "Point"
+  }
 }

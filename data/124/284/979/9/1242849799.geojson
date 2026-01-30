@@ -2,75 +2,83 @@
   "id": 1242849799,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.488,26.3475,108.488,26.3475",
-    "geom:latitude":26.3475,
-    "geom:longitude":108.488,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Yuangu",
-    "gn:country_code":"CN",
-    "gn:dem":854,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10050758,
-    "gn:latitude":26.3475,
-    "gn:longitude":108.488,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Yuangu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.468,26.3275,108.508,26.3675",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5143\u59d1"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.488,26.3475,108.488,26.3475",
+    "geom:latitude": 26.3475,
+    "geom:longitude": 108.488,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Yuangu",
+    "gn:country_code": "CN",
+    "gn:dem": 854,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10050758,
+    "gn:latitude": 26.3475,
+    "gn:longitude": 108.488,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Yuangu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.468,26.3275,108.508,26.3675",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "元姑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794067
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890516701,
+      1108794067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10050758
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10050758
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fddea810044f08cedbef96d3ddd90c08",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794067,
-            "empire_id":136253041,
-            "locality_id":1242849799,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fddea810044f08cedbef96d3ddd90c08",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794067,
+        "empire_id": 136253041,
+        "locality_id": 1242849799,
+        "region_id": 85669781,
+        "localadmin_id": 890516701
+      }
     ],
-    "wof:id":1242849799,
-    "wof:lastmodified":1566696552,
-    "wof:name":"Yuangu",
-    "wof:parent_id":1108794067,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242849799,
+    "wof:lastmodified": 1768664982,
+    "wof:name": "Yuangu",
+    "wof:parent_id": 890516701,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.488,
     26.3475,
     108.488,
     26.3475
-],
-  "geometry": {"coordinates":[108.488,26.3475],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.488,
+      26.3475
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1226001989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.00693,36.36525,120.00693,36.36525",
-    "geom:latitude":36.36525,
-    "geom:longitude":120.00693,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Songjiabozicun",
-    "gn:country_code":"CN",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11244352,
-    "gn:latitude":36.36525,
-    "gn:longitude":120.00693,
-    "gn:modification_date":"2016-09-10",
-    "gn:name":"Songjiabozicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.98693,36.34525,120.02693,36.38525",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b8b\u5bb6\u6cca\u5b50\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.00693,36.36525,120.00693,36.36525",
+    "geom:latitude": 36.36525,
+    "geom:longitude": 120.00693,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Songjiabozicun",
+    "gn:country_code": "CN",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11244352,
+    "gn:latitude": 36.36525,
+    "gn:longitude": 120.00693,
+    "gn:modification_date": "2016-09-10",
+    "gn:name": "Songjiabozicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.98693,36.34525,120.02693,36.38525",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "宋家泊子村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514775
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890513453,
+      890514775
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11244352
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11244352
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1bd279210bcb4fcecd439809abb6e921",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514775,
-            "empire_id":136253041,
-            "locality_id":1226001989,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1bd279210bcb4fcecd439809abb6e921",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514775,
+        "empire_id": 136253041,
+        "locality_id": 1226001989,
+        "region_id": 85669813,
+        "localadmin_id": 890513453
+      }
     ],
-    "wof:id":1226001989,
-    "wof:lastmodified":1566705507,
-    "wof:name":"Songjiabozicun",
-    "wof:parent_id":890514775,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226001989,
+    "wof:lastmodified": 1768668016,
+    "wof:name": "Songjiabozicun",
+    "wof:parent_id": 890513453,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.00693,
     36.36525,
     120.00693,
     36.36525
-],
-  "geometry": {"coordinates":[120.00693,36.36525],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.00693,
+      36.36525
+    ],
+    "type": "Point"
+  }
 }

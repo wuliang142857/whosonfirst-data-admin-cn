@@ -2,91 +2,99 @@
   "id": 1209848791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.79204,18.60528,109.79204,18.60528",
-    "geom:latitude":18.60528,
-    "geom:longitude":109.79204,
-    "gn:admin1_code":"31",
-    "gn:asciiname":"Hekou",
-    "gn:country_code":"CN",
-    "gn:dem":47,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1917713,
-    "gn:latitude":18.60528,
-    "gn:longitude":109.79204,
-    "gn:modification_date":"2012-01-19",
-    "gn:name":"Hekou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.77204,18.58528,109.81204,18.62528",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Hekou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.79204,18.60528,109.79204,18.60528",
+    "geom:latitude": 18.60528,
+    "geom:longitude": 109.79204,
+    "gn:admin1_code": "31",
+    "gn:asciiname": "Hekou",
+    "gn:country_code": "CN",
+    "gn:dem": 47,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1917713,
+    "gn:latitude": 18.60528,
+    "gn:longitude": 109.79204,
+    "gn:modification_date": "2012-01-19",
+    "gn:name": "Hekou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.77204,18.58528,109.81204,18.62528",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Hekou"
     ],
-    "name:deu_x_preferred":[
-        "Hekou"
+    "name:deu_x_preferred": [
+      "Hekou"
     ],
-    "name:fra_x_preferred":[
-        "Hekou"
+    "name:fra_x_preferred": [
+      "Hekou"
     ],
-    "name:nor_x_preferred":[
-        "Hekou"
+    "name:nor_x_preferred": [
+      "Hekou"
     ],
-    "name:rus_x_preferred":[
-        "\u0425\u044d\u043a\u043e\u0443"
+    "name:rus_x_preferred": [
+      "Хэкоу"
     ],
-    "name:swe_x_preferred":[
-        "Hekou"
+    "name:swe_x_preferred": [
+      "Hekou"
     ],
-    "name:und_x_variant":[
-        "\u5408\u53e3"
+    "name:und_x_variant": [
+      "合口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732357
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515211,
+      1108732357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1917713
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1917713
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d0f19bc299f41a480eb8cf605103b381",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732357,
-            "locality_id":1209848791,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d0f19bc299f41a480eb8cf605103b381",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732357,
+        "locality_id": 1209848791,
+        "region_id": 85669759,
+        "localadmin_id": 890515211
+      }
     ],
-    "wof:id":1209848791,
-    "wof:lastmodified":1566680406,
-    "wof:name":"Hekou",
-    "wof:parent_id":1108732357,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209848791,
+    "wof:lastmodified": 1768671214,
+    "wof:name": "Hekou",
+    "wof:parent_id": 890515211,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.79204,
     18.60528,
     109.79204,
     18.60528
-],
-  "geometry": {"coordinates":[109.79204,18.60528],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.79204,
+      18.60528
+    ],
+    "type": "Point"
+  }
 }

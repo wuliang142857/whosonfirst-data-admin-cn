@@ -2,75 +2,83 @@
   "id": 1327384093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.6576,22.69414,112.6576,22.69414",
-    "geom:latitude":22.69414,
-    "geom:longitude":112.6576,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Shuyun",
-    "gn:country_code":"CN",
-    "gn:dem":66,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8366539,
-    "gn:latitude":22.69414,
-    "gn:longitude":112.6576,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Shuyun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.6376,22.67414,112.6776,22.71414",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6f31\u4e91"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.6576,22.69414,112.6576,22.69414",
+    "geom:latitude": 22.69414,
+    "geom:longitude": 112.6576,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Shuyun",
+    "gn:country_code": "CN",
+    "gn:dem": 66,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8366539,
+    "gn:latitude": 22.69414,
+    "gn:longitude": 112.6576,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Shuyun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.6376,22.67414,112.6776,22.71414",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "漱云"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514181,
+      890514609
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8366539
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8366539
     },
-    "wof:country":"CN",
-    "wof:geomhash":"dd43f041a07ae7aef8ba4824c890e62e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1327384093,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "dd43f041a07ae7aef8ba4824c890e62e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1327384093,
+        "region_id": 85669743,
+        "localadmin_id": 890514181
+      }
     ],
-    "wof:id":1327384093,
-    "wof:lastmodified":1566647356,
-    "wof:name":"Shuyun",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327384093,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Shuyun",
+    "wof:parent_id": 890514181,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.6576,
     22.69414,
     112.6576,
     22.69414
-],
-  "geometry": {"coordinates":[112.6576,22.69414],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.6576,
+      22.69414
+    ],
+    "type": "Point"
+  }
 }

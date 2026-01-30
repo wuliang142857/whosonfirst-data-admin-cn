@@ -2,81 +2,89 @@
   "id": 1243557317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.75314,29.86212,120.75314,29.86212",
-    "geom:latitude":29.86212,
-    "geom:longitude":120.75314,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Daguo",
-    "gn:country_code":"CN",
-    "gn:dem":78,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7071887,
-    "gn:latitude":29.86212,
-    "gn:longitude":120.75314,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Daguo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.73314,29.84212,120.77314,29.88212",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:fas_x_preferred":[
-        "\u062f\u0627\u06af\u0626\u0648"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.75314,29.86212,120.75314,29.86212",
+    "geom:latitude": 29.86212,
+    "geom:longitude": 120.75314,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Daguo",
+    "gn:country_code": "CN",
+    "gn:dem": 78,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7071887,
+    "gn:latitude": 29.86212,
+    "gn:longitude": 120.75314,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Daguo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.73314,29.84212,120.77314,29.88212",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:fas_x_preferred": [
+      "داگئو"
     ],
-    "name:zho_x_preferred":[
-        "\u8fbe\u90ed"
+    "name:zho_x_preferred": [
+      "达郭"
     ],
-    "name:zho_x_variant":[
-        "\u5927\u90ed\u8857\u9053"
+    "name:zho_x_variant": [
+      "大郭街道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513785
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513785,
+      1127330604
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7071887
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7071887
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2b158572f34faf1f28b7afb441876378",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "locality_id":1243557317,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2b158572f34faf1f28b7afb441876378",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "locality_id": 1243557317,
+        "region_id": 85669835,
+        "localadmin_id": 1127330604
+      }
     ],
-    "wof:id":1243557317,
-    "wof:lastmodified":1566694299,
-    "wof:name":"Daguo",
-    "wof:parent_id":890513785,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243557317,
+    "wof:lastmodified": 1768669996,
+    "wof:name": "Daguo",
+    "wof:parent_id": 1127330604,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.75314,
     29.86212,
     120.75314,
     29.86212
-],
-  "geometry": {"coordinates":[120.75314,29.86212],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.75314,
+      29.86212
+    ],
+    "type": "Point"
+  }
 }

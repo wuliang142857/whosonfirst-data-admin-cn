@@ -2,75 +2,83 @@
   "id": 1260229561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.95074,30.82099,107.95074,30.82099",
-    "geom:latitude":30.82099,
-    "geom:longitude":107.95074,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Raojia",
-    "gn:country_code":"CN",
-    "gn:dem":398,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8404099,
-    "gn:latitude":30.82099,
-    "gn:longitude":107.95074,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Raojia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.93074,30.80099,107.97074,30.84099",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9976\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.95074,30.82099,107.95074,30.82099",
+    "geom:latitude": 30.82099,
+    "geom:longitude": 107.95074,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Raojia",
+    "gn:country_code": "CN",
+    "gn:dem": 398,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8404099,
+    "gn:latitude": 30.82099,
+    "gn:longitude": 107.95074,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Raojia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.93074,30.80099,107.97074,30.84099",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "饶家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890511941,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8404099
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8404099
     },
-    "wof:country":"CN",
-    "wof:geomhash":"8ef5244c6a45154a9012a09aa2a513c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1260229561,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "8ef5244c6a45154a9012a09aa2a513c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1260229561,
+        "region_id": 85669725,
+        "localadmin_id": 890511941
+      }
     ],
-    "wof:id":1260229561,
-    "wof:lastmodified":1566686529,
-    "wof:name":"Raojia",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260229561,
+    "wof:lastmodified": 1768668365,
+    "wof:name": "Raojia",
+    "wof:parent_id": 890511941,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.95074,
     30.82099,
     107.95074,
     30.82099
-],
-  "geometry": {"coordinates":[107.95074,30.82099],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.95074,
+      30.82099
+    ],
+    "type": "Point"
+  }
 }

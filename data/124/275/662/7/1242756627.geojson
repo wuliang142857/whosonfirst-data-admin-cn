@@ -2,75 +2,83 @@
   "id": 1242756627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.904,37.1849,114.904,37.1849",
-    "geom:latitude":37.1849,
-    "geom:longitude":114.904,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Tianzhai",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9527807,
-    "gn:latitude":37.1849,
-    "gn:longitude":114.904,
-    "gn:modification_date":"2014-09-08",
-    "gn:name":"Tianzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.884,37.1649,114.924,37.2049",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7530\u5be8"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.904,37.1849,114.904,37.1849",
+    "geom:latitude": 37.1849,
+    "geom:longitude": 114.904,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Tianzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9527807,
+    "gn:latitude": 37.1849,
+    "gn:longitude": 114.904,
+    "gn:modification_date": "2014-09-08",
+    "gn:name": "Tianzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.884,37.1649,114.924,37.2049",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "田寨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890513015
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890513015,
+      1127130529
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9527807
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9527807
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5aaf91371a0f3dc873e871bb7f5d44bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513015,
-            "empire_id":136253041,
-            "locality_id":1242756627,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5aaf91371a0f3dc873e871bb7f5d44bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513015,
+        "empire_id": 136253041,
+        "locality_id": 1242756627,
+        "region_id": 85669797,
+        "localadmin_id": 1127130529
+      }
     ],
-    "wof:id":1242756627,
-    "wof:lastmodified":1566694690,
-    "wof:name":"Tianzhai",
-    "wof:parent_id":890513015,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242756627,
+    "wof:lastmodified": 1768669463,
+    "wof:name": "Tianzhai",
+    "wof:parent_id": 1127130529,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.904,
     37.1849,
     114.904,
     37.1849
-],
-  "geometry": {"coordinates":[114.904,37.1849],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.904,
+      37.1849
+    ],
+    "type": "Point"
+  }
 }

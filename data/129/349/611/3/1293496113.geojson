@@ -2,84 +2,92 @@
   "id": 1293496113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.35147,28.2963,120.35147,28.2963",
-    "geom:latitude":28.2963,
-    "geom:longitude":120.35147,
-    "gn:admin1_code":"02",
-    "gn:asciiname":"Huangyang",
-    "gn:country_code":"CN",
-    "gn:dem":404,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1883093,
-    "gn:latitude":28.2963,
-    "gn:longitude":120.35147,
-    "gn:modification_date":"2012-11-09",
-    "gn:name":"Huangyang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.33147,28.2763,120.37147,28.3163",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Shipingchuan",
-        "Huangyang",
-        "Huangyang Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.35147,28.2963,120.35147,28.2963",
+    "geom:latitude": 28.2963,
+    "geom:longitude": 120.35147,
+    "gn:admin1_code": "02",
+    "gn:asciiname": "Huangyang",
+    "gn:country_code": "CN",
+    "gn:dem": 404,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1883093,
+    "gn:latitude": 28.2963,
+    "gn:longitude": 120.35147,
+    "gn:modification_date": "2012-11-09",
+    "gn:name": "Huangyang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.33147,28.2763,120.37147,28.3163",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Shipingchuan",
+      "Huangyang",
+      "Huangyang Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u9ec4\u579f"
+    "name:zho_x_preferred": [
+      "黄垟"
     ],
-    "name:zho_x_variant":[
-        "\u9ec4\u579f\u4e61",
-        "\u77f3\u5e73\u5ddd"
+    "name:zho_x_variant": [
+      "黄垟乡",
+      "石平川"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890516399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890515713,
+      890516399
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1883093
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1883093
     },
-    "wof:country":"CN",
-    "wof:geomhash":"28c8311a2c9d81ab7c2e4ccb14e56afe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516399,
-            "empire_id":136253041,
-            "locality_id":1293496113,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "28c8311a2c9d81ab7c2e4ccb14e56afe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516399,
+        "empire_id": 136253041,
+        "locality_id": 1293496113,
+        "region_id": 85669835,
+        "localadmin_id": 890515713
+      }
     ],
-    "wof:id":1293496113,
-    "wof:lastmodified":1566668234,
-    "wof:name":"Huangyang",
-    "wof:parent_id":890516399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293496113,
+    "wof:lastmodified": 1768669967,
+    "wof:name": "Huangyang",
+    "wof:parent_id": 890515713,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.35147,
     28.2963,
     120.35147,
     28.2963
-],
-  "geometry": {"coordinates":[120.35147000000001,28.2963],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.35147,
+      28.2963
+    ],
+    "type": "Point"
+  }
 }

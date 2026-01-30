@@ -2,75 +2,83 @@
   "id": 1226575867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.42028,31.90334,118.42028,31.90334",
-    "geom:latitude":31.90334,
-    "geom:longitude":118.42028,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Jinjia Zhaiji",
-    "gn:country_code":"CN",
-    "gn:dem":18,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8375595,
-    "gn:latitude":31.90334,
-    "gn:longitude":118.42028,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Jinjia Zhaiji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.40028,31.88334,118.44028,31.92334",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u91d1\u5bb6\u5b85\u57fa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.42028,31.90334,118.42028,31.90334",
+    "geom:latitude": 31.90334,
+    "geom:longitude": 118.42028,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Jinjia Zhaiji",
+    "gn:country_code": "CN",
+    "gn:dem": 18,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8375595,
+    "gn:latitude": 31.90334,
+    "gn:longitude": 118.42028,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Jinjia Zhaiji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.40028,31.88334,118.44028,31.92334",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "金家宅基"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516425
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890516425,
+      1127320111
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8375595
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8375595
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6408a4e5f3f213412223a60ebd9e74c9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516425,
-            "empire_id":136253041,
-            "locality_id":1226575867,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6408a4e5f3f213412223a60ebd9e74c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516425,
+        "empire_id": 136253041,
+        "locality_id": 1226575867,
+        "region_id": 85669827,
+        "localadmin_id": 1127320111
+      }
     ],
-    "wof:id":1226575867,
-    "wof:lastmodified":1566702589,
-    "wof:name":"Jinjia Zhaiji",
-    "wof:parent_id":890516425,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226575867,
+    "wof:lastmodified": 1768670271,
+    "wof:name": "Jinjia Zhaiji",
+    "wof:parent_id": 1127320111,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.42028,
     31.90334,
     118.42028,
     31.90334
-],
-  "geometry": {"coordinates":[118.42028000000001,31.90334],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.42028,
+      31.90334
+    ],
+    "type": "Point"
+  }
 }

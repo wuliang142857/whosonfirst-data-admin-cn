@@ -2,77 +2,85 @@
   "id": 1293863711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.85,30.3,114.85,30.3",
-    "geom:latitude":30.3,
-    "geom:longitude":114.85,
-    "gn:admin1_code":"12",
-    "gn:asciiname":"Bishidu",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1816325,
-    "gn:latitude":30.3,
-    "gn:longitude":114.85,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Bishidu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.83,30.28,114.87,30.32",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pi-shih-tu",
-        "Bishidu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.85,30.3,114.85,30.3",
+    "geom:latitude": 30.3,
+    "geom:longitude": 114.85,
+    "gn:admin1_code": "12",
+    "gn:asciiname": "Bishidu",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1816325,
+    "gn:latitude": 30.3,
+    "gn:longitude": 114.85,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Bishidu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.83,30.28,114.87,30.32",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pi-shih-tu",
+      "Bishidu"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        890514515
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890514515,
+      1127420704
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1816325
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1816325
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bce37b1a89a1c70961195b2c6e7afca1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514515,
-            "empire_id":136253041,
-            "locality_id":1293863711,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bce37b1a89a1c70961195b2c6e7afca1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514515,
+        "empire_id": 136253041,
+        "locality_id": 1293863711,
+        "region_id": 85669777,
+        "localadmin_id": 1127420704
+      }
     ],
-    "wof:id":1293863711,
-    "wof:lastmodified":1566671943,
-    "wof:name":"Bishidu",
-    "wof:parent_id":890514515,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293863711,
+    "wof:lastmodified": 1768667325,
+    "wof:name": "Bishidu",
+    "wof:parent_id": 1127420704,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.85,
     30.3,
     114.85,
     30.3
-],
-  "geometry": {"coordinates":[114.84999999999999,30.3],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.85,
+      30.3
+    ],
+    "type": "Point"
+  }
 }

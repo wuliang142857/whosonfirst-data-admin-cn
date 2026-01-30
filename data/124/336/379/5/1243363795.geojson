@@ -2,81 +2,89 @@
   "id": 1243363795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.74573,31.82269,121.74573,31.82269",
-    "geom:latitude":31.82269,
-    "geom:longitude":121.74573,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Beiqinghecun",
-    "gn:country_code":"CN",
-    "gn:dem":2,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1816602,
-    "gn:latitude":31.82269,
-    "gn:longitude":121.74573,
-    "gn:modification_date":"2017-08-02",
-    "gn:name":"Beiqinghecun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.72573,31.80269,121.76573,31.84269",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Pei-ch\u2019ing-ho",
-        "Beiqinghe",
-        "\u5317\u6e05\u6cb3",
-        "Beiqinghecun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.74573,31.82269,121.74573,31.82269",
+    "geom:latitude": 31.82269,
+    "geom:longitude": 121.74573,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Beiqinghecun",
+    "gn:country_code": "CN",
+    "gn:dem": 2,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1816602,
+    "gn:latitude": 31.82269,
+    "gn:longitude": 121.74573,
+    "gn:modification_date": "2017-08-02",
+    "gn:name": "Beiqinghecun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.72573,31.80269,121.76573,31.84269",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Pei-ch’ing-ho",
+      "Beiqinghe",
+      "北清河",
+      "Beiqinghecun"
     ],
-    "name:zho_x_preferred":[
-        "\u5317\u6e05\u6cb3\u6751"
+    "name:zho_x_preferred": [
+      "北清河村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890515155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513915,
+      890515155
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1816602
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1816602
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5fc1f34494fa8c03349c21334be3931a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515155,
-            "empire_id":136253041,
-            "locality_id":1243363795,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5fc1f34494fa8c03349c21334be3931a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515155,
+        "empire_id": 136253041,
+        "locality_id": 1243363795,
+        "region_id": 85669827,
+        "localadmin_id": 890513915
+      }
     ],
-    "wof:id":1243363795,
-    "wof:lastmodified":1566693891,
-    "wof:name":"Beiqinghecun",
-    "wof:parent_id":890515155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243363795,
+    "wof:lastmodified": 1768670803,
+    "wof:name": "Beiqinghecun",
+    "wof:parent_id": 890513915,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.74573,
     31.82269,
     121.74573,
     31.82269
-],
-  "geometry": {"coordinates":[121.74572999999999,31.82269],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.74573,
+      31.82269
+    ],
+    "type": "Point"
+  }
 }

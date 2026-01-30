@@ -2,75 +2,83 @@
   "id": 1243423383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.447,38.7444,106.447,38.7444",
-    "geom:latitude":38.7444,
-    "geom:longitude":106.447,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Yaoqu",
-    "gn:country_code":"CN",
-    "gn:dem":1104,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10188680,
-    "gn:latitude":38.7444,
-    "gn:longitude":106.447,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Yaoqu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.427,38.7244,106.467,38.7644",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u59da\u6e20"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.447,38.7444,106.447,38.7444",
+    "geom:latitude": 38.7444,
+    "geom:longitude": 106.447,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Yaoqu",
+    "gn:country_code": "CN",
+    "gn:dem": 1104,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10188680,
+    "gn:latitude": 38.7444,
+    "gn:longitude": 106.447,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Yaoqu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.427,38.7244,106.467,38.7644",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "姚渠"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890514111
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890514111,
+      1127640221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10188680
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10188680
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1cea910bb522c263e7ec3fcd3684d360",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514111,
-            "empire_id":136253041,
-            "locality_id":1243423383,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1cea910bb522c263e7ec3fcd3684d360",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514111,
+        "empire_id": 136253041,
+        "locality_id": 1243423383,
+        "region_id": 85669763,
+        "localadmin_id": 1127640221
+      }
     ],
-    "wof:id":1243423383,
-    "wof:lastmodified":1566697442,
-    "wof:name":"Yaoqu",
-    "wof:parent_id":890514111,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243423383,
+    "wof:lastmodified": 1768666787,
+    "wof:name": "Yaoqu",
+    "wof:parent_id": 1127640221,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.447,
     38.7444,
     106.447,
     38.7444
-],
-  "geometry": {"coordinates":[106.447,38.7444],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.447,
+      38.7444
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310311525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.16633,26.97059,116.16633,26.97059",
-    "geom:latitude":26.97059,
-    "geom:longitude":116.16633,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Huanglongkeng",
-    "gn:country_code":"CN",
-    "gn:dem":570,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7461901,
-    "gn:latitude":26.97059,
-    "gn:longitude":116.16633,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Huanglongkeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.14633,26.95059,116.18633,26.99059",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u9ec4\u9f99\u5751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.16633,26.97059,116.16633,26.97059",
+    "geom:latitude": 26.97059,
+    "geom:longitude": 116.16633,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Huanglongkeng",
+    "gn:country_code": "CN",
+    "gn:dem": 570,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7461901,
+    "gn:latitude": 26.97059,
+    "gn:longitude": 116.16633,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Huanglongkeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.14633,26.95059,116.18633,26.99059",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "黄龙坑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890516617
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890516617,
+      1127361023
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7461901
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7461901
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c3f7dc6cd80c33e6ececbcfe119b8627",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516617,
-            "empire_id":136253041,
-            "locality_id":1310311525,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c3f7dc6cd80c33e6ececbcfe119b8627",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516617,
+        "empire_id": 136253041,
+        "locality_id": 1310311525,
+        "region_id": 85669823,
+        "localadmin_id": 1127361023
+      }
     ],
-    "wof:id":1310311525,
-    "wof:lastmodified":1566689080,
-    "wof:name":"Huanglongkeng",
-    "wof:parent_id":890516617,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310311525,
+    "wof:lastmodified": 1768669902,
+    "wof:name": "Huanglongkeng",
+    "wof:parent_id": 1127361023,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.16633,
     26.97059,
     116.16633,
     26.97059
-],
-  "geometry": {"coordinates":[116.16633,26.97059],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.16633,
+      26.97059
+    ],
+    "type": "Point"
+  }
 }

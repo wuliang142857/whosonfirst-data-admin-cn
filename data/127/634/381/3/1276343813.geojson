@@ -2,78 +2,86 @@
   "id": 1276343813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.64338,29.26155,120.64338,29.26155",
-    "geom:latitude":29.26155,
-    "geom:longitude":120.64338,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Lujiashan",
-    "gn:country_code":"CN",
-    "gn:dem":736,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7072786,
-    "gn:latitude":29.26155,
-    "gn:longitude":120.64338,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"L\u00fcjiashan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.62338,29.24155,120.66338,29.28155",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5415\u5bb6\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.64338,29.26155,120.64338,29.26155",
+    "geom:latitude": 29.26155,
+    "geom:longitude": 120.64338,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Lujiashan",
+    "gn:country_code": "CN",
+    "gn:dem": 736,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7072786,
+    "gn:latitude": 29.26155,
+    "gn:longitude": 120.64338,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Lüjiashan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.62338,29.24155,120.66338,29.28155",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "吕家山"
     ],
-    "name:zho_x_variant":[
-        "L\u00fcjiashan"
+    "name:zho_x_variant": [
+      "Lüjiashan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513337
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513337,
+      1125354461
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7072786
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7072786
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5965898d8112991e665f0a2876920238",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513337,
-            "empire_id":136253041,
-            "locality_id":1276343813,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5965898d8112991e665f0a2876920238",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513337,
+        "empire_id": 136253041,
+        "locality_id": 1276343813,
+        "region_id": 85669835,
+        "localadmin_id": 1125354461
+      }
     ],
-    "wof:id":1276343813,
-    "wof:lastmodified":1566674179,
-    "wof:name":"Lujiashan",
-    "wof:parent_id":890513337,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276343813,
+    "wof:lastmodified": 1768669670,
+    "wof:name": "Lujiashan",
+    "wof:parent_id": 1125354461,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.64338,
     29.26155,
     120.64338,
     29.26155
-],
-  "geometry": {"coordinates":[120.64337999999999,29.26155],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.64338,
+      29.26155
+    ],
+    "type": "Point"
+  }
 }

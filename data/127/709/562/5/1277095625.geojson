@@ -2,75 +2,83 @@
   "id": 1277095625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.38343,47.99289,124.38343,47.99289",
-    "geom:latitude":47.99289,
-    "geom:longitude":124.38343,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Bailucun",
-    "gn:country_code":"CN",
-    "gn:dem":168,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11572660,
-    "gn:latitude":47.99289,
-    "gn:longitude":124.38343,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Bailucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.36343,47.97289,124.40343,48.01289",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u767e\u8def\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.38343,47.99289,124.38343,47.99289",
+    "geom:latitude": 47.99289,
+    "geom:longitude": 124.38343,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Bailucun",
+    "gn:country_code": "CN",
+    "gn:dem": 168,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11572660,
+    "gn:latitude": 47.99289,
+    "gn:longitude": 124.38343,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Bailucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.36343,47.97289,124.40343,48.01289",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "百路村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514037,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11572660
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11572660
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fd03414f070b09085c37361d924ca927",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1277095625,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fd03414f070b09085c37361d924ca927",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1277095625,
+        "region_id": 85669849,
+        "localadmin_id": 890514037
+      }
     ],
-    "wof:id":1277095625,
-    "wof:lastmodified":1566672332,
-    "wof:name":"Bailucun",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1277095625,
+    "wof:lastmodified": 1768669391,
+    "wof:name": "Bailucun",
+    "wof:parent_id": 890514037,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.38343,
     47.99289,
     124.38343,
     47.99289
-],
-  "geometry": {"coordinates":[124.38343,47.99289],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.38343,
+      47.99289
+    ],
+    "type": "Point"
+  }
 }

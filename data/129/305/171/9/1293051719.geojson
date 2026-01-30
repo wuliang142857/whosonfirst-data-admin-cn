@@ -2,75 +2,83 @@
   "id": 1293051719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"102.605,24.6014,102.605,24.6014",
-    "geom:latitude":24.6014,
-    "geom:longitude":102.605,
-    "gn:admin1_code":"29",
-    "gn:asciiname":"Zhonghepu",
-    "gn:country_code":"CN",
-    "gn:dem":1949,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":6824515,
-    "gn:latitude":24.6014,
-    "gn:longitude":102.605,
-    "gn:modification_date":"2015-02-07",
-    "gn:name":"Zhonghepu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"102.585,24.5814,102.625,24.6214",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e2d\u548c\u94fa"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "102.605,24.6014,102.605,24.6014",
+    "geom:latitude": 24.6014,
+    "geom:longitude": 102.605,
+    "gn:admin1_code": "29",
+    "gn:asciiname": "Zhonghepu",
+    "gn:country_code": "CN",
+    "gn:dem": 1949,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 6824515,
+    "gn:latitude": 24.6014,
+    "gn:longitude": 102.605,
+    "gn:modification_date": "2015-02-07",
+    "gn:name": "Zhonghepu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "102.585,24.5814,102.625,24.6214",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "中和铺"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890513777
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890513777,
+      1127530115
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":6824515
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 6824515
     },
-    "wof:country":"CN",
-    "wof:geomhash":"86633953eb296289a21d6981816a7d33",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513777,
-            "empire_id":136253041,
-            "locality_id":1293051719,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "86633953eb296289a21d6981816a7d33",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513777,
+        "empire_id": 136253041,
+        "locality_id": 1293051719,
+        "region_id": 85669791,
+        "localadmin_id": 1127530115
+      }
     ],
-    "wof:id":1293051719,
-    "wof:lastmodified":1566669907,
-    "wof:name":"Zhonghepu",
-    "wof:parent_id":890513777,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293051719,
+    "wof:lastmodified": 1768668380,
+    "wof:name": "Zhonghepu",
+    "wof:parent_id": 1127530115,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     102.605,
     24.6014,
     102.605,
     24.6014
-],
-  "geometry": {"coordinates":[102.605,24.6014],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      102.605,
+      24.6014
+    ],
+    "type": "Point"
+  }
 }

@@ -2,85 +2,93 @@
   "id": 1327216265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.1725,34.19,105.1725,34.19",
-    "geom:latitude":34.19,
-    "geom:longitude":105.1725,
-    "gn:admin1_code":"15",
-    "gn:asciiname":"Lixian",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":1418,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1802811,
-    "gn:latitude":34.19,
-    "gn:longitude":105.1725,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Lixian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.1525,34.17,105.1925,34.21",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsi-li",
-        "Li-hsien",
-        "Li",
-        "Lixian"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.1725,34.19,105.1725,34.19",
+    "geom:latitude": 34.19,
+    "geom:longitude": 105.1725,
+    "gn:admin1_code": "15",
+    "gn:asciiname": "Lixian",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 1418,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1802811,
+    "gn:latitude": 34.19,
+    "gn:longitude": 105.1725,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Lixian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.1525,34.17,105.1925,34.21",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsi-li",
+      "Li-hsien",
+      "Li",
+      "Lixian"
     ],
-    "name:zho_x_preferred":[
-        "Li-hsien-ch\u2019eng"
+    "name:zho_x_preferred": [
+      "Li-hsien-ch’eng"
     ],
-    "name:zho_x_variant":[
-        "Lisyan\u2019"
+    "name:zho_x_variant": [
+      "Lisyan’"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      1127621226
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1802811
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1802811
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e422b0a84a39ddbab7bc6fedaa1f0ec2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1327216265,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e422b0a84a39ddbab7bc6fedaa1f0ec2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1327216265,
+        "region_id": 85669711,
+        "localadmin_id": 1127621226
+      }
     ],
-    "wof:id":1327216265,
-    "wof:lastmodified":1566654320,
-    "wof:name":"Lixian",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327216265,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Lixian",
+    "wof:parent_id": 1127621226,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.1725,
     34.19,
     105.1725,
     34.19
-],
-  "geometry": {"coordinates":[105.1725,34.19],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.1725,
+      34.19
+    ],
+    "type": "Point"
+  }
 }

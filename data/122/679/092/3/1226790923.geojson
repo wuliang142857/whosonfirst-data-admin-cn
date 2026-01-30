@@ -2,75 +2,83 @@
   "id": 1226790923,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.416,31.0527,107.416,31.0527",
-    "geom:latitude":31.0527,
-    "geom:longitude":107.416,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Jinyu",
-    "gn:country_code":"CN",
-    "gn:dem":354,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10155828,
-    "gn:latitude":31.0527,
-    "gn:longitude":107.416,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Jinyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.396,31.0327,107.436,31.0727",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u91d1\u9c7c"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.416,31.0527,107.416,31.0527",
+    "geom:latitude": 31.0527,
+    "geom:longitude": 107.416,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Jinyu",
+    "gn:country_code": "CN",
+    "gn:dem": 354,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10155828,
+    "gn:latitude": 31.0527,
+    "gn:longitude": 107.416,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Jinyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.396,31.0327,107.436,31.0727",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "金鱼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513987
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513987,
+      1127511703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10155828
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10155828
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e543905eb09f4fbc31c82040849b7d19",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513987,
-            "empire_id":136253041,
-            "locality_id":1226790923,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e543905eb09f4fbc31c82040849b7d19",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513987,
+        "empire_id": 136253041,
+        "locality_id": 1226790923,
+        "region_id": 85669787,
+        "localadmin_id": 1127511703
+      }
     ],
-    "wof:id":1226790923,
-    "wof:lastmodified":1566704628,
-    "wof:name":"Jinyu",
-    "wof:parent_id":890513987,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226790923,
+    "wof:lastmodified": 1768668150,
+    "wof:name": "Jinyu",
+    "wof:parent_id": 1127511703,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.416,
     31.0527,
     107.416,
     31.0527
-],
-  "geometry": {"coordinates":[107.416,31.0527],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.416,
+      31.0527
+    ],
+    "type": "Point"
+  }
 }

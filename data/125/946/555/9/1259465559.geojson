@@ -2,75 +2,83 @@
   "id": 1259465559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.542,34.3259,105.542,34.3259",
-    "geom:latitude":34.3259,
-    "geom:longitude":105.542,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Yangji",
-    "gn:country_code":"CN",
-    "gn:dem":1736,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429612,
-    "gn:latitude":34.3259,
-    "gn:longitude":105.542,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Yangji",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.522,34.3059,105.562,34.3459",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6768\u96c6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.542,34.3259,105.542,34.3259",
+    "geom:latitude": 34.3259,
+    "geom:longitude": 105.542,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Yangji",
+    "gn:country_code": "CN",
+    "gn:dem": 1736,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429612,
+    "gn:latitude": 34.3259,
+    "gn:longitude": 105.542,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Yangji",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.522,34.3059,105.562,34.3459",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "杨集"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429612
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429612
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e275a0c0fc8b8ef945e36abd782c1eb2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1259465559,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e275a0c0fc8b8ef945e36abd782c1eb2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1259465559,
+        "region_id": 85669711,
+        "localadmin_id": 1127620502
+      }
     ],
-    "wof:id":1259465559,
-    "wof:lastmodified":1566698969,
-    "wof:name":"Yangji",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259465559,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Yangji",
+    "wof:parent_id": 1127620502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.542,
     34.3259,
     105.542,
     34.3259
-],
-  "geometry": {"coordinates":[105.542,34.3259],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.542,
+      34.3259
+    ],
+    "type": "Point"
+  }
 }

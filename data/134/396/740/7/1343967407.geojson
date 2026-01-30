@@ -2,81 +2,89 @@
   "id": 1343967407,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.58917,34.34917,116.58917,34.34917",
-    "geom:latitude":34.34917,
-    "geom:longitude":116.58917,
-    "gn:admin1_code":"1.0",
-    "gn:asciiname":"Zhoujicun",
-    "gn:country_code":"CN",
-    "gn:dem":46,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1784159,
-    "gn:latitude":34.34917,
-    "gn:longitude":116.58917,
-    "gn:modification_date":"2015-07-03",
-    "gn:name":"Zhoujicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.56917,34.32917,116.60917,34.36917",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chou-chi",
-        "Chou-chai",
-        "Zhouji",
-        "Zhoujicun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.58917,34.34917,116.58917,34.34917",
+    "geom:latitude": 34.34917,
+    "geom:longitude": 116.58917,
+    "gn:admin1_code": "1.0",
+    "gn:asciiname": "Zhoujicun",
+    "gn:country_code": "CN",
+    "gn:dem": 46,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1784159,
+    "gn:latitude": 34.34917,
+    "gn:longitude": 116.58917,
+    "gn:modification_date": "2015-07-03",
+    "gn:name": "Zhoujicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.56917,34.32917,116.60917,34.36917",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chou-chi",
+      "Chou-chai",
+      "Zhouji",
+      "Zhoujicun"
     ],
-    "name:zho_x_preferred":[
-        "\u5468\u96c6\u6751"
+    "name:zho_x_preferred": [
+      "周集村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669739,
-        102191569,
-        85632695,
-        136253041,
-        890514507
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669739,
+      102191569,
+      136253041,
+      890514507,
+      1127341321
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784159
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784159
     },
-    "wof:country":"CN",
-    "wof:geomhash":"767afe65f8ddbfd4a175bd84b151e0ba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514507,
-            "empire_id":136253041,
-            "locality_id":1343967407,
-            "region_id":85669739
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "767afe65f8ddbfd4a175bd84b151e0ba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514507,
+        "empire_id": 136253041,
+        "locality_id": 1343967407,
+        "region_id": 85669739,
+        "localadmin_id": 1127341321
+      }
     ],
-    "wof:id":1343967407,
-    "wof:lastmodified":1566656568,
-    "wof:name":"Zhoujicun",
-    "wof:parent_id":890514507,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343967407,
+    "wof:lastmodified": 1768670097,
+    "wof:name": "Zhoujicun",
+    "wof:parent_id": 1127341321,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.58917,
     34.34917,
     116.58917,
     34.34917
-],
-  "geometry": {"coordinates":[116.58917,34.34917],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.58917,
+      34.34917
+    ],
+    "type": "Point"
+  }
 }

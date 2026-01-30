@@ -2,75 +2,83 @@
   "id": 1326802735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.534,23.8977,110.534,23.8977",
-    "geom:latitude":23.8977,
-    "geom:longitude":110.534,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Guzhi",
-    "gn:country_code":"CN",
-    "gn:dem":142,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9918397,
-    "gn:latitude":23.8977,
-    "gn:longitude":110.534,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Guzhi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.514,23.8777,110.554,23.9177",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53e4\u5236"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.534,23.8977,110.534,23.8977",
+    "geom:latitude": 23.8977,
+    "geom:longitude": 110.534,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Guzhi",
+    "gn:country_code": "CN",
+    "gn:dem": 142,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9918397,
+    "gn:latitude": 23.8977,
+    "gn:longitude": 110.534,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Guzhi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.514,23.8777,110.554,23.9177",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "古制"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9918397
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9918397
     },
-    "wof:country":"CN",
-    "wof:geomhash":"2851f85b0cb3908bc72802ffc604d723",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1326802735,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "2851f85b0cb3908bc72802ffc604d723",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1326802735,
+        "region_id": 85669717,
+        "localadmin_id": 1127450422
+      }
     ],
-    "wof:id":1326802735,
-    "wof:lastmodified":1566648142,
-    "wof:name":"Guzhi",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326802735,
+    "wof:lastmodified": 1768665954,
+    "wof:name": "Guzhi",
+    "wof:parent_id": 1127450422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.534,
     23.8977,
     110.534,
     23.8977
-],
-  "geometry": {"coordinates":[110.53400000000001,23.8977],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.534,
+      23.8977
+    ],
+    "type": "Point"
+  }
 }

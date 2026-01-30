@@ -2,83 +2,91 @@
   "id": 1209796409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.35732,28.42259,109.35732,28.42259",
-    "geom:latitude":28.42259,
-    "geom:longitude":109.35732,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Mao'er",
-    "gn:country_code":"CN",
-    "gn:dem":521,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1928247,
-    "gn:latitude":28.42259,
-    "gn:longitude":109.35732,
-    "gn:modification_date":"2013-05-09",
-    "gn:name":"Mao\u2019er",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.33732,28.40259,109.37732,28.44259",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Mao\u2019er",
-        "Mao\u2019erzhai",
-        "Mao\u2019er Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.35732,28.42259,109.35732,28.42259",
+    "geom:latitude": 28.42259,
+    "geom:longitude": 109.35732,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Mao'er",
+    "gn:country_code": "CN",
+    "gn:dem": 521,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1928247,
+    "gn:latitude": 28.42259,
+    "gn:longitude": 109.35732,
+    "gn:modification_date": "2013-05-09",
+    "gn:name": "Mao’er",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.33732,28.40259,109.37732,28.44259",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Mao’er",
+      "Mao’erzhai",
+      "Mao’er Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u732b\u513f"
+    "name:zho_x_preferred": [
+      "猫儿"
     ],
-    "name:zho_x_variant":[
-        "\u732b\u513f\u4e61"
+    "name:zho_x_variant": [
+      "猫儿乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794059
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890513531,
+      1108794059
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1928247
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1928247
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9eb85711112af5ec85a2e6b5bd5a91c1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794059,
-            "empire_id":136253041,
-            "locality_id":1209796409,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9eb85711112af5ec85a2e6b5bd5a91c1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794059,
+        "empire_id": 136253041,
+        "locality_id": 1209796409,
+        "region_id": 85669781,
+        "localadmin_id": 890513531
+      }
     ],
-    "wof:id":1209796409,
-    "wof:lastmodified":1566680556,
-    "wof:name":"Mao'er",
-    "wof:parent_id":1108794059,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1209796409,
+    "wof:lastmodified": 1768668877,
+    "wof:name": "Mao'er",
+    "wof:parent_id": 890513531,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.35732,
     28.42259,
     109.35732,
     28.42259
-],
-  "geometry": {"coordinates":[109.35732,28.42259],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.35732,
+      28.42259
+    ],
+    "type": "Point"
+  }
 }

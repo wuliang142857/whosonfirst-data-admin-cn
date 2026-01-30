@@ -2,81 +2,89 @@
   "id": 1292955505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.24816,34.98847,109.24816,34.98847",
-    "geom:latitude":34.98847,
-    "geom:longitude":109.24816,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Dapocun",
-    "gn:country_code":"CN",
-    "gn:dem":792,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":2000877,
-    "gn:latitude":34.98847,
-    "gn:longitude":109.24816,
-    "gn:modification_date":"2016-12-03",
-    "gn:name":"Dapocun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.22816,34.96847,109.26816,35.00847",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Dajiapo",
-        "Daopcun",
-        "\u8fbe\u5761\u6751",
-        "Dapocun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.24816,34.98847,109.24816,34.98847",
+    "geom:latitude": 34.98847,
+    "geom:longitude": 109.24816,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Dapocun",
+    "gn:country_code": "CN",
+    "gn:dem": 792,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 2000877,
+    "gn:latitude": 34.98847,
+    "gn:longitude": 109.24816,
+    "gn:modification_date": "2016-12-03",
+    "gn:name": "Dapocun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.22816,34.96847,109.26816,35.00847",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Dajiapo",
+      "Daopcun",
+      "达坡村",
+      "Dapocun"
     ],
-    "name:zho_x_preferred":[
-        "\u8fbe\u5bb6\u5761"
+    "name:zho_x_preferred": [
+      "达家坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890511937
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890511937,
+      890513969
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":2000877
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 2000877
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ad8da098a7eee06f05d168d811e7420e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511937,
-            "empire_id":136253041,
-            "locality_id":1292955505,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ad8da098a7eee06f05d168d811e7420e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511937,
+        "empire_id": 136253041,
+        "locality_id": 1292955505,
+        "region_id": 85669769,
+        "localadmin_id": 890513969
+      }
     ],
-    "wof:id":1292955505,
-    "wof:lastmodified":1566667084,
-    "wof:name":"Dapocun",
-    "wof:parent_id":890511937,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1292955505,
+    "wof:lastmodified": 1768667664,
+    "wof:name": "Dapocun",
+    "wof:parent_id": 890513969,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.24816,
     34.98847,
     109.24816,
     34.98847
-],
-  "geometry": {"coordinates":[109.24816,34.98847],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.24816,
+      34.98847
+    ],
+    "type": "Point"
+  }
 }

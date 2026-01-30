@@ -2,84 +2,92 @@
   "id": 890515703,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.73932,31.77819,104.73932,31.77819",
-    "geom:latitude":31.77819,
-    "geom:longitude":104.73932,
-    "gn:country":"CN",
-    "gn:fcode":"PPLA3",
-    "gn:population":0,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"104.63932,31.67819,104.83932,31.87819",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chiang-yu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.73932,31.77819,104.73932,31.77819",
+    "geom:latitude": 31.77819,
+    "geom:longitude": 104.73932,
+    "gn:country": "CN",
+    "gn:fcode": "PPLA3",
+    "gn:population": 0,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "104.63932,31.67819,104.83932,31.87819",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chiang-yu"
     ],
-    "name:zho_x_preferred":[
-        "\u4e2d\u575d"
+    "name:zho_x_preferred": [
+      "中坝"
     ],
-    "qs:name":"\u6c5f\u6cb9\u5e02",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u56db\u5ddd\u7701",
-    "qs:photos":93,
-    "qs:photos_1k":19,
-    "qs:photos_9k":1,
-    "qs:photos_9r":3,
-    "qs:photos_all":93,
-    "qs:photos_sr":3,
-    "qs:placetype":"LocalAdmin",
-    "qs:pop_sr":"0",
-    "src:population":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "qs:name": "江油市",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "四川省",
+    "qs:photos": 93,
+    "qs:photos_1k": 19,
+    "qs:photos_9k": 1,
+    "qs:photos_9r": 3,
+    "qs:photos_all": 93,
+    "qs:photos_sr": 3,
+    "qs:placetype": "LocalAdmin",
+    "qs:pop_sr": "0",
+    "src:population": "geonames",
+    "wof:belongsto": [
+      85669787,
+      102191569,
+      85632695,
+      136253041,
+      890514157
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784469,
-        "gp:id":12687319,
-        "qs_pg:id":1163610
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784469,
+      "gp:id": 12687319,
+      "qs_pg:id": 1163610
     },
-    "wof:country":"CN",
-    "wof:created":1469055927,
-    "wof:geomhash":"c61e742486c4d705f5d9ebacc4a29d31",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "localadmin_id":890515703,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055927,
+    "wof:geomhash": "c61e742486c4d705f5d9ebacc4a29d31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "localadmin_id": 890515703,
+        "region_id": 85669787
+      }
     ],
-    "wof:id":890515703,
-    "wof:lastmodified":1566693784,
-    "wof:name":"\u6c5f\u6cb9\u5e02",
-    "wof:parent_id":890514157,
-    "wof:placetype":"localadmin",
-    "wof:population":0,
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890515703,
+    "wof:lastmodified": 1566693784,
+    "wof:name": "江油市",
+    "wof:parent_id": 890514157,
+    "wof:placetype": "localadmin",
+    "wof:population": 0,
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [],
+    "edtf:deprecated": "2010-01-01",
+    "wof:note": "重复记录"
+  },
   "bbox": [
     104.73932,
     31.77819,
     104.73932,
     31.77819
-],
-  "geometry": {"coordinates":[104.73932000000001,31.77819],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.73932,
+      31.77819
+    ],
+    "type": "Point"
+  }
 }

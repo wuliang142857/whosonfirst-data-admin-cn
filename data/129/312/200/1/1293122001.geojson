@@ -2,75 +2,83 @@
   "id": 1293122001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.56111,25.52731,118.56111,25.52731",
-    "geom:latitude":25.52731,
-    "geom:longitude":118.56111,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Guangqiao",
-    "gn:country_code":"CN",
-    "gn:dem":675,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8574538,
-    "gn:latitude":25.52731,
-    "gn:longitude":118.56111,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Guangqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.54111,25.50731,118.58111,25.54731",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e7f\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.56111,25.52731,118.56111,25.52731",
+    "geom:latitude": 25.52731,
+    "geom:longitude": 118.56111,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Guangqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 675,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8574538,
+    "gn:latitude": 25.52731,
+    "gn:longitude": 118.56111,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Guangqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.54111,25.50731,118.58111,25.54731",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "广桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516865
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513173,
+      890516865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8574538
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8574538
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a711059e60f970dd45c0e4ed57799873",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516865,
-            "empire_id":136253041,
-            "locality_id":1293122001,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a711059e60f970dd45c0e4ed57799873",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516865,
+        "empire_id": 136253041,
+        "locality_id": 1293122001,
+        "region_id": 85669735,
+        "localadmin_id": 890513173
+      }
     ],
-    "wof:id":1293122001,
-    "wof:lastmodified":1566667997,
-    "wof:name":"Guangqiao",
-    "wof:parent_id":890516865,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293122001,
+    "wof:lastmodified": 1768669538,
+    "wof:name": "Guangqiao",
+    "wof:parent_id": 890513173,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.56111,
     25.52731,
     118.56111,
     25.52731
-],
-  "geometry": {"coordinates":[118.56111,25.52731],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.56111,
+      25.52731
+    ],
+    "type": "Point"
+  }
 }

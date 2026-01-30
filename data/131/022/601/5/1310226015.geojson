@@ -2,75 +2,83 @@
   "id": 1310226015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.70161,26.89705,116.70161,26.89705",
-    "geom:latitude":26.89705,
-    "geom:longitude":116.70161,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Shangyi",
-    "gn:country_code":"CN",
-    "gn:dem":468,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7440635,
-    "gn:latitude":26.89705,
-    "gn:longitude":116.70161,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Shangyi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.68161,26.87705,116.72161,26.91705",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e0a\u6ea2"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.70161,26.89705,116.70161,26.89705",
+    "geom:latitude": 26.89705,
+    "geom:longitude": 116.70161,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Shangyi",
+    "gn:country_code": "CN",
+    "gn:dem": 468,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7440635,
+    "gn:latitude": 26.89705,
+    "gn:longitude": 116.70161,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Shangyi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.68161,26.87705,116.72161,26.91705",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "上溢"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516573
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516573,
+      1127350430
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7440635
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7440635
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1ff4d431c7ea60a2730d6b29f786ad75",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516573,
-            "empire_id":136253041,
-            "locality_id":1310226015,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1ff4d431c7ea60a2730d6b29f786ad75",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516573,
+        "empire_id": 136253041,
+        "locality_id": 1310226015,
+        "region_id": 85669735,
+        "localadmin_id": 1127350430
+      }
     ],
-    "wof:id":1310226015,
-    "wof:lastmodified":1566688397,
-    "wof:name":"Shangyi",
-    "wof:parent_id":890516573,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310226015,
+    "wof:lastmodified": 1768669088,
+    "wof:name": "Shangyi",
+    "wof:parent_id": 1127350430,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.70161,
     26.89705,
     116.70161,
     26.89705
-],
-  "geometry": {"coordinates":[116.70161,26.89705],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.70161,
+      26.89705
+    ],
+    "type": "Point"
+  }
 }

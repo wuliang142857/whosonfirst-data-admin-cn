@@ -2,85 +2,93 @@
   "id": 1243604147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.85,21.2,109.85,21.2",
-    "geom:latitude":21.2,
-    "geom:longitude":109.85,
-    "gn:admin1_code":"30",
-    "gn:asciiname":"Sanhe",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":20,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1796833,
-    "gn:latitude":21.2,
-    "gn:longitude":109.85,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Sanhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Urumqi",
-    "iso:country":"CN",
-    "lbl:bbox":"109.83,21.18,109.87,21.22",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Sanhe"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.85,21.2,109.85,21.2",
+    "geom:latitude": 21.2,
+    "geom:longitude": 109.85,
+    "gn:admin1_code": "30",
+    "gn:asciiname": "Sanhe",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 20,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1796833,
+    "gn:latitude": 21.2,
+    "gn:longitude": 109.85,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Sanhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Urumqi",
+    "iso:country": "CN",
+    "lbl:bbox": "109.83,21.18,109.87,21.22",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Sanhe"
     ],
-    "name:deu_x_preferred":[
-        "Sanhe"
+    "name:deu_x_preferred": [
+      "Sanhe"
     ],
-    "name:nor_x_preferred":[
-        "Sanhe"
+    "name:nor_x_preferred": [
+      "Sanhe"
     ],
-    "name:und_x_variant":[
-        "San-ho"
+    "name:und_x_variant": [
+      "San-ho"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514753
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514753,
+      1127440823
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1796833
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1796833
     },
-    "wof:country":"CN",
-    "wof:geomhash":"1ab362850edd2fa9e963f7a64e16a813",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514753,
-            "empire_id":136253041,
-            "locality_id":1243604147,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "1ab362850edd2fa9e963f7a64e16a813",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514753,
+        "empire_id": 136253041,
+        "locality_id": 1243604147,
+        "region_id": 85669743,
+        "localadmin_id": 1127440823
+      }
     ],
-    "wof:id":1243604147,
-    "wof:lastmodified":1566696262,
-    "wof:name":"Sanhe",
-    "wof:parent_id":890514753,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243604147,
+    "wof:lastmodified": 1768668825,
+    "wof:name": "Sanhe",
+    "wof:parent_id": 1127440823,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.85,
     21.2,
     109.85,
     21.2
-],
-  "geometry": {"coordinates":[109.84999999999999,21.2],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.85,
+      21.2
+    ],
+    "type": "Point"
+  }
 }

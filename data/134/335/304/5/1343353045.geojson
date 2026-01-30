@@ -2,75 +2,83 @@
   "id": 1343353045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"116.98919,25.475,116.98919,25.475",
-    "geom:latitude":25.475,
-    "geom:longitude":116.98919,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Huankeng",
-    "gn:country_code":"CN",
-    "gn:dem":759,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7639973,
-    "gn:latitude":25.475,
-    "gn:longitude":116.98919,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Huankeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"116.96919,25.455,117.00919,25.495",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u73af\u5751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "116.98919,25.475,116.98919,25.475",
+    "geom:latitude": 25.475,
+    "geom:longitude": 116.98919,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Huankeng",
+    "gn:country_code": "CN",
+    "gn:dem": 759,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7639973,
+    "gn:latitude": 25.475,
+    "gn:longitude": 116.98919,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Huankeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "116.96919,25.455,117.00919,25.495",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "环坑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516203
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516203,
+      1127350802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7639973
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7639973
     },
-    "wof:country":"CN",
-    "wof:geomhash":"29501c7b8b2e4b69b248917ca20712dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516203,
-            "empire_id":136253041,
-            "locality_id":1343353045,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "29501c7b8b2e4b69b248917ca20712dc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516203,
+        "empire_id": 136253041,
+        "locality_id": 1343353045,
+        "region_id": 85669735,
+        "localadmin_id": 1127350802
+      }
     ],
-    "wof:id":1343353045,
-    "wof:lastmodified":1566661356,
-    "wof:name":"Huankeng",
-    "wof:parent_id":890516203,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343353045,
+    "wof:lastmodified": 1768669418,
+    "wof:name": "Huankeng",
+    "wof:parent_id": 1127350802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     116.98919,
     25.475,
     116.98919,
     25.475
-],
-  "geometry": {"coordinates":[116.98918999999999,25.475],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      116.98919,
+      25.475
+    ],
+    "type": "Point"
+  }
 }

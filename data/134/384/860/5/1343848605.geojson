@@ -2,75 +2,83 @@
   "id": 1343848605,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"126.58401,46.55125,126.58401,46.55125",
-    "geom:latitude":46.55125,
-    "geom:longitude":126.58401,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Zhenghuang Wucun",
-    "gn:country_code":"CN",
-    "gn:dem":139,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11581097,
-    "gn:latitude":46.55125,
-    "gn:longitude":126.58401,
-    "gn:modification_date":"2017-06-08",
-    "gn:name":"Zhenghuang Wucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"126.56401,46.53125,126.60401,46.57125",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6b63\u9ec4\u4e94\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "126.58401,46.55125,126.58401,46.55125",
+    "geom:latitude": 46.55125,
+    "geom:longitude": 126.58401,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Zhenghuang Wucun",
+    "gn:country_code": "CN",
+    "gn:dem": 139,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11581097,
+    "gn:latitude": 46.55125,
+    "gn:longitude": 126.58401,
+    "gn:modification_date": "2017-06-08",
+    "gn:name": "Zhenghuang Wucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "126.56401,46.53125,126.60401,46.57125",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "正黄五村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890514509
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890514509,
+      1127231202
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11581097
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11581097
     },
-    "wof:country":"CN",
-    "wof:geomhash":"83ff3ebd2198ac20df380a2d93ffe73a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514509,
-            "empire_id":136253041,
-            "locality_id":1343848605,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "83ff3ebd2198ac20df380a2d93ffe73a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514509,
+        "empire_id": 136253041,
+        "locality_id": 1343848605,
+        "region_id": 85669849,
+        "localadmin_id": 1127231202
+      }
     ],
-    "wof:id":1343848605,
-    "wof:lastmodified":1566659533,
-    "wof:name":"Zhenghuang Wucun",
-    "wof:parent_id":890514509,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343848605,
+    "wof:lastmodified": 1768668895,
+    "wof:name": "Zhenghuang Wucun",
+    "wof:parent_id": 1127231202,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     126.58401,
     46.55125,
     126.58401,
     46.55125
-],
-  "geometry": {"coordinates":[126.58401000000001,46.55125],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      126.58401,
+      46.55125
+    ],
+    "type": "Point"
+  }
 }

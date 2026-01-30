@@ -2,75 +2,83 @@
   "id": 1242743927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.45,26.4761,108.45,26.4761",
-    "geom:latitude":26.4761,
-    "geom:longitude":108.45,
-    "gn:admin1_code":"18.0",
-    "gn:asciiname":"Wulian",
-    "gn:country_code":"CN",
-    "gn:dem":854,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10050568,
-    "gn:latitude":26.4761,
-    "gn:longitude":108.45,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Wulian",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.43,26.4561,108.47,26.4961",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5deb\u8138"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.45,26.4761,108.45,26.4761",
+    "geom:latitude": 26.4761,
+    "geom:longitude": 108.45,
+    "gn:admin1_code": "18.0",
+    "gn:asciiname": "Wulian",
+    "gn:country_code": "CN",
+    "gn:dem": 854,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10050568,
+    "gn:latitude": 26.4761,
+    "gn:longitude": 108.45,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Wulian",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.43,26.4561,108.47,26.4961",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "巫脸"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        1108794067
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      1108794067,
+      1127522629
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10050568
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10050568
     },
-    "wof:country":"CN",
-    "wof:geomhash":"57546688b6fdd10e564e6658251a406d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108794067,
-            "empire_id":136253041,
-            "locality_id":1242743927,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "57546688b6fdd10e564e6658251a406d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108794067,
+        "empire_id": 136253041,
+        "locality_id": 1242743927,
+        "region_id": 85669781,
+        "localadmin_id": 1127522629
+      }
     ],
-    "wof:id":1242743927,
-    "wof:lastmodified":1566694382,
-    "wof:name":"Wulian",
-    "wof:parent_id":1108794067,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242743927,
+    "wof:lastmodified": 1768664982,
+    "wof:name": "Wulian",
+    "wof:parent_id": 1127522629,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.45,
     26.4761,
     108.45,
     26.4761
-],
-  "geometry": {"coordinates":[108.45,26.4761],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.45,
+      26.4761
+    ],
+    "type": "Point"
+  }
 }

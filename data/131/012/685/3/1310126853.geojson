@@ -2,75 +2,83 @@
   "id": 1310126853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.59452,26.66583,119.59452,26.66583",
-    "geom:latitude":26.66583,
-    "geom:longitude":119.59452,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Tangwan",
-    "gn:country_code":"CN",
-    "gn:dem":50,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8580316,
-    "gn:latitude":26.66583,
-    "gn:longitude":119.59452,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Tangwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.57452,26.64583,119.61452,26.68583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c64\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.59452,26.66583,119.59452,26.66583",
+    "geom:latitude": 26.66583,
+    "geom:longitude": 119.59452,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Tangwan",
+    "gn:country_code": "CN",
+    "gn:dem": 50,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8580316,
+    "gn:latitude": 26.66583,
+    "gn:longitude": 119.59452,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Tangwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.57452,26.64583,119.61452,26.68583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "汤湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516577
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890516577,
+      1127350902
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8580316
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8580316
     },
-    "wof:country":"CN",
-    "wof:geomhash":"92825e95680e827d85611ba24e9c5280",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516577,
-            "empire_id":136253041,
-            "locality_id":1310126853,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "92825e95680e827d85611ba24e9c5280",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516577,
+        "empire_id": 136253041,
+        "locality_id": 1310126853,
+        "region_id": 85669735,
+        "localadmin_id": 1127350902
+      }
     ],
-    "wof:id":1310126853,
-    "wof:lastmodified":1566688104,
-    "wof:name":"Tangwan",
-    "wof:parent_id":890516577,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310126853,
+    "wof:lastmodified": 1768669104,
+    "wof:name": "Tangwan",
+    "wof:parent_id": 1127350902,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.59452,
     26.66583,
     119.59452,
     26.66583
-],
-  "geometry": {"coordinates":[119.59452,26.66583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.59452,
+      26.66583
+    ],
+    "type": "Point"
+  }
 }

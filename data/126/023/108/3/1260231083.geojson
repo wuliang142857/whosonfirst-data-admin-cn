@@ -2,75 +2,83 @@
   "id": 1260231083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.83496,25.10805,113.83496,25.10805",
-    "geom:latitude":25.10805,
-    "geom:longitude":113.83496,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Goutoushan",
-    "gn:country_code":"CN",
-    "gn:dem":243,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8201151,
-    "gn:latitude":25.10805,
-    "gn:longitude":113.83496,
-    "gn:modification_date":"2012-02-29",
-    "gn:name":"Goutoushan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.81496,25.08805,113.85496,25.12805",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u72d7\u5934\u5c71"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.83496,25.10805,113.83496,25.10805",
+    "geom:latitude": 25.10805,
+    "geom:longitude": 113.83496,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Goutoushan",
+    "gn:country_code": "CN",
+    "gn:dem": 243,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8201151,
+    "gn:latitude": 25.10805,
+    "gn:longitude": 113.83496,
+    "gn:modification_date": "2012-02-29",
+    "gn:name": "Goutoushan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.81496,25.08805,113.85496,25.12805",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "狗头山"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516559
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890516171,
+      890516559
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8201151
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8201151
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b94d7aebae0e28d06785a2da90238e5f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516559,
-            "empire_id":136253041,
-            "locality_id":1260231083,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b94d7aebae0e28d06785a2da90238e5f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516559,
+        "empire_id": 136253041,
+        "locality_id": 1260231083,
+        "region_id": 85669743,
+        "localadmin_id": 890516171
+      }
     ],
-    "wof:id":1260231083,
-    "wof:lastmodified":1566686220,
-    "wof:name":"Goutoushan",
-    "wof:parent_id":890516559,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260231083,
+    "wof:lastmodified": 1768667808,
+    "wof:name": "Goutoushan",
+    "wof:parent_id": 890516171,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.83496,
     25.10805,
     113.83496,
     25.10805
-],
-  "geometry": {"coordinates":[113.83496,25.10805],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.83496,
+      25.10805
+    ],
+    "type": "Point"
+  }
 }

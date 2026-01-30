@@ -2,75 +2,83 @@
   "id": 1242752717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.037,40.2721,120.037,40.2721",
-    "geom:latitude":40.2721,
-    "geom:longitude":120.037,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Lintun",
-    "gn:country_code":"CN",
-    "gn:dem":95,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11512391,
-    "gn:latitude":40.2721,
-    "gn:longitude":120.037,
-    "gn:modification_date":"2017-04-09",
-    "gn:name":"Lintun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.017,40.2521,120.057,40.2921",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6797\u5c6f"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.037,40.2721,120.037,40.2721",
+    "geom:latitude": 40.2721,
+    "geom:longitude": 120.037,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Lintun",
+    "gn:country_code": "CN",
+    "gn:dem": 95,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11512391,
+    "gn:latitude": 40.2721,
+    "gn:longitude": 120.037,
+    "gn:modification_date": "2017-04-09",
+    "gn:name": "Lintun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.017,40.2521,120.057,40.2921",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "林屯"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890514399
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890514399,
+      1127211421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11512391
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11512391
     },
-    "wof:country":"CN",
-    "wof:geomhash":"16f0a2c7a95c5379c3322c6f2cc11ebf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514399,
-            "empire_id":136253041,
-            "locality_id":1242752717,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "16f0a2c7a95c5379c3322c6f2cc11ebf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514399,
+        "empire_id": 136253041,
+        "locality_id": 1242752717,
+        "region_id": 85669807,
+        "localadmin_id": 1127211421
+      }
     ],
-    "wof:id":1242752717,
-    "wof:lastmodified":1566694683,
-    "wof:name":"Lintun",
-    "wof:parent_id":890514399,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242752717,
+    "wof:lastmodified": 1768666815,
+    "wof:name": "Lintun",
+    "wof:parent_id": 1127211421,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.037,
     40.2721,
     120.037,
     40.2721
-],
-  "geometry": {"coordinates":[120.03700000000001,40.2721],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.037,
+      40.2721
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1310457173,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.67833,36.88705,119.67833,36.88705",
-    "geom:latitude":36.88705,
-    "geom:longitude":119.67833,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Yubucun",
-    "gn:country_code":"CN",
-    "gn:dem":23,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11246716,
-    "gn:latitude":36.88705,
-    "gn:longitude":119.67833,
-    "gn:modification_date":"2016-09-10",
-    "gn:name":"Yubucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.65833,36.86705,119.69833,36.90705",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e8e\u57e0\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.67833,36.88705,119.67833,36.88705",
+    "geom:latitude": 36.88705,
+    "geom:longitude": 119.67833,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Yubucun",
+    "gn:country_code": "CN",
+    "gn:dem": 23,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11246716,
+    "gn:latitude": 36.88705,
+    "gn:longitude": 119.67833,
+    "gn:modification_date": "2016-09-10",
+    "gn:name": "Yubucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.65833,36.86705,119.69833,36.90705",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "于埠村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890514775
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890512675,
+      890514775
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11246716
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11246716
     },
-    "wof:country":"CN",
-    "wof:geomhash":"872c4e0a1548015364027785941869b5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514775,
-            "empire_id":136253041,
-            "locality_id":1310457173,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "872c4e0a1548015364027785941869b5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514775,
+        "empire_id": 136253041,
+        "locality_id": 1310457173,
+        "region_id": 85669813,
+        "localadmin_id": 890512675
+      }
     ],
-    "wof:id":1310457173,
-    "wof:lastmodified":1566689659,
-    "wof:name":"Yubucun",
-    "wof:parent_id":890514775,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310457173,
+    "wof:lastmodified": 1768668015,
+    "wof:name": "Yubucun",
+    "wof:parent_id": 890512675,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.67833,
     36.88705,
     119.67833,
     36.88705
-],
-  "geometry": {"coordinates":[119.67833,36.88705],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.67833,
+      36.88705
+    ],
+    "type": "Point"
+  }
 }

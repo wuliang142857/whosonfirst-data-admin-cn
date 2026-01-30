@@ -2,75 +2,83 @@
   "id": 1276223221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.49194,25.71079,119.49194,25.71079",
-    "geom:latitude":25.71079,
-    "geom:longitude":119.49194,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Xingqiao",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8574826,
-    "gn:latitude":25.71079,
-    "gn:longitude":119.49194,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Xingqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.47194,25.69079,119.51194,25.73079",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u661f\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.49194,25.71079,119.49194,25.71079",
+    "geom:latitude": 25.71079,
+    "geom:longitude": 119.49194,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Xingqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8574826,
+    "gn:latitude": 25.71079,
+    "gn:longitude": 119.49194,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Xingqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.47194,25.69079,119.51194,25.73079",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "星桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513967,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8574826
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8574826
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eb858289e25ca6dac584d912c440ea53",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1276223221,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eb858289e25ca6dac584d912c440ea53",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1276223221,
+        "region_id": 85669735,
+        "localadmin_id": 890513967
+      }
     ],
-    "wof:id":1276223221,
-    "wof:lastmodified":1566676038,
-    "wof:name":"Xingqiao",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276223221,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Xingqiao",
+    "wof:parent_id": 890513967,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.49194,
     25.71079,
     119.49194,
     25.71079
-],
-  "geometry": {"coordinates":[119.49194,25.71079],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.49194,
+      25.71079
+    ],
+    "type": "Point"
+  }
 }

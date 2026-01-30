@@ -2,75 +2,83 @@
   "id": 1310277113,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.892,23.4429,107.892,23.4429",
-    "geom:latitude":23.4429,
-    "geom:longitude":107.892,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Sanmin",
-    "gn:country_code":"CN",
-    "gn:dem":246,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9929898,
-    "gn:latitude":23.4429,
-    "gn:longitude":107.892,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Sanmin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.872,23.4229,107.912,23.4629",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e09\u6c11"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.892,23.4429,107.892,23.4429",
+    "geom:latitude": 23.4429,
+    "geom:longitude": 107.892,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Sanmin",
+    "gn:country_code": "CN",
+    "gn:dem": 246,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9929898,
+    "gn:latitude": 23.4429,
+    "gn:longitude": 107.892,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Sanmin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.872,23.4229,107.912,23.4629",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "三民"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890515419
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890515419,
+      1127450110
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9929898
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9929898
     },
-    "wof:country":"CN",
-    "wof:geomhash":"76d190c3838d968760719b55d81f1a25",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515419,
-            "empire_id":136253041,
-            "locality_id":1310277113,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "76d190c3838d968760719b55d81f1a25",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515419,
+        "empire_id": 136253041,
+        "locality_id": 1310277113,
+        "region_id": 85669717,
+        "localadmin_id": 1127450110
+      }
     ],
-    "wof:id":1310277113,
-    "wof:lastmodified":1566689777,
-    "wof:name":"Sanmin",
-    "wof:parent_id":890515419,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310277113,
+    "wof:lastmodified": 1768666366,
+    "wof:name": "Sanmin",
+    "wof:parent_id": 1127450110,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.892,
     23.4429,
     107.892,
     23.4429
-],
-  "geometry": {"coordinates":[107.892,23.4429],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.892,
+      23.4429
+    ],
+    "type": "Point"
+  }
 }

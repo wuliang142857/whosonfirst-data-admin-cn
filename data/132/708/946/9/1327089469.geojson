@@ -2,75 +2,83 @@
   "id": 1327089469,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.38537,37.55454,120.38537,37.55454",
-    "geom:latitude":37.55454,
-    "geom:longitude":120.38537,
-    "gn:admin1_code":"25.0",
-    "gn:asciiname":"Xianrenqiao",
-    "gn:country_code":"CN",
-    "gn:dem":77,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8630423,
-    "gn:latitude":37.55454,
-    "gn:longitude":120.38537,
-    "gn:modification_date":"2013-11-14",
-    "gn:name":"Xianrenqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.36537,37.53454,120.40537,37.57454",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4ed9\u4eba\u6865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.38537,37.55454,120.38537,37.55454",
+    "geom:latitude": 37.55454,
+    "geom:longitude": 120.38537,
+    "gn:admin1_code": "25.0",
+    "gn:asciiname": "Xianrenqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 77,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8630423,
+    "gn:latitude": 37.55454,
+    "gn:longitude": 120.38537,
+    "gn:modification_date": "2013-11-14",
+    "gn:name": "Xianrenqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.36537,37.53454,120.40537,37.57454",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "仙人桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        890516301
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890515663,
+      890516301
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8630423
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8630423
     },
-    "wof:country":"CN",
-    "wof:geomhash":"99f523f01419a01a6e46d6a770db09e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516301,
-            "empire_id":136253041,
-            "locality_id":1327089469,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "99f523f01419a01a6e46d6a770db09e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516301,
+        "empire_id": 136253041,
+        "locality_id": 1327089469,
+        "region_id": 85669813,
+        "localadmin_id": 890515663
+      }
     ],
-    "wof:id":1327089469,
-    "wof:lastmodified":1566646945,
-    "wof:name":"Xianrenqiao",
-    "wof:parent_id":890516301,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327089469,
+    "wof:lastmodified": 1768668015,
+    "wof:name": "Xianrenqiao",
+    "wof:parent_id": 890515663,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.38537,
     37.55454,
     120.38537,
     37.55454
-],
-  "geometry": {"coordinates":[120.38536999999999,37.55454],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.38537,
+      37.55454
+    ],
+    "type": "Point"
+  }
 }

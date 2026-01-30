@@ -2,72 +2,80 @@
   "id": 1293570221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.99306,27.2525,111.99306,27.2525",
-    "geom:latitude":27.2525,
-    "geom:longitude":111.99306,
-    "gn:admin1_code":"11",
-    "gn:asciiname":"Yangfu",
-    "gn:country_code":"CN",
-    "gn:dem":251,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1986180,
-    "gn:latitude":27.2525,
-    "gn:longitude":111.99306,
-    "gn:modification_date":"2004-11-17",
-    "gn:name":"Yangfu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.97306,27.2325,112.01306,27.2725",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514309
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.99306,27.2525,111.99306,27.2525",
+    "geom:latitude": 27.2525,
+    "geom:longitude": 111.99306,
+    "gn:admin1_code": "11",
+    "gn:asciiname": "Yangfu",
+    "gn:country_code": "CN",
+    "gn:dem": 251,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1986180,
+    "gn:latitude": 27.2525,
+    "gn:longitude": 111.99306,
+    "gn:modification_date": "2004-11-17",
+    "gn:name": "Yangfu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.97306,27.2325,112.01306,27.2725",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514309,
+      1127430582
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1986180
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1986180
     },
-    "wof:country":"CN",
-    "wof:geomhash":"18a441ede4355b6aa37034e8ebb8e2bf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514309,
-            "empire_id":136253041,
-            "locality_id":1293570221,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "18a441ede4355b6aa37034e8ebb8e2bf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514309,
+        "empire_id": 136253041,
+        "locality_id": 1293570221,
+        "region_id": 85669781,
+        "localadmin_id": 1127430582
+      }
     ],
-    "wof:id":1293570221,
-    "wof:lastmodified":1566668993,
-    "wof:name":"Yangfu",
-    "wof:parent_id":890514309,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293570221,
+    "wof:lastmodified": 1768670390,
+    "wof:name": "Yangfu",
+    "wof:parent_id": 1127430582,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.99306,
     27.2525,
     111.99306,
     27.2525
-],
-  "geometry": {"coordinates":[111.99306,27.2525],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.99306,
+      27.2525
+    ],
+    "type": "Point"
+  }
 }

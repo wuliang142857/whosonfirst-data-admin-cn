@@ -2,75 +2,83 @@
   "id": 1259854213,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.523,39.7069,121.523,39.7069",
-    "geom:latitude":39.7069,
-    "geom:longitude":121.523,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Wanghaicun",
-    "gn:country_code":"CN",
-    "gn:dem":7,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11480927,
-    "gn:latitude":39.7069,
-    "gn:longitude":121.523,
-    "gn:modification_date":"2017-03-06",
-    "gn:name":"Wanghaicun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.503,39.6869,121.543,39.7269",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u671b\u6d77\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.523,39.7069,121.523,39.7069",
+    "geom:latitude": 39.7069,
+    "geom:longitude": 121.523,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Wanghaicun",
+    "gn:country_code": "CN",
+    "gn:dem": 7,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11480927,
+    "gn:latitude": 39.7069,
+    "gn:longitude": 121.523,
+    "gn:modification_date": "2017-03-06",
+    "gn:name": "Wanghaicun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.503,39.6869,121.543,39.7269",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "望海村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11480927
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11480927
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f5ab34c4cfd2cc811d939d29831e09b8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1259854213,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f5ab34c4cfd2cc811d939d29831e09b8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1259854213,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1259854213,
-    "wof:lastmodified":1566699139,
-    "wof:name":"Wanghaicun",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259854213,
+    "wof:lastmodified": 1768665991,
+    "wof:name": "Wanghaicun",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.523,
     39.7069,
     121.523,
     39.7069
-],
-  "geometry": {"coordinates":[121.523,39.7069],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.523,
+      39.7069
+    ],
+    "type": "Point"
+  }
 }

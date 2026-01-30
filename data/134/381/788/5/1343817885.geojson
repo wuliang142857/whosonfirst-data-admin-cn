@@ -2,75 +2,83 @@
   "id": 1343817885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.93421,22.80059,112.93421,22.80059",
-    "geom:latitude":22.80059,
-    "geom:longitude":112.93421,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Lianbei",
-    "gn:country_code":"CN",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8366627,
-    "gn:latitude":22.80059,
-    "gn:longitude":112.93421,
-    "gn:modification_date":"2012-08-06",
-    "gn:name":"Lianbei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.91421,22.78059,112.95421,22.82059",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9023\u5317"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.93421,22.80059,112.93421,22.80059",
+    "geom:latitude": 22.80059,
+    "geom:longitude": 112.93421,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Lianbei",
+    "gn:country_code": "CN",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8366627,
+    "gn:latitude": 22.80059,
+    "gn:longitude": 112.93421,
+    "gn:modification_date": "2012-08-06",
+    "gn:name": "Lianbei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.91421,22.78059,112.95421,22.82059",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "連北"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890514609
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514181,
+      890514609
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8366627
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8366627
     },
-    "wof:country":"CN",
-    "wof:geomhash":"11923e94ae63798405ba2b3904c4f896",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514609,
-            "empire_id":136253041,
-            "locality_id":1343817885,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "11923e94ae63798405ba2b3904c4f896",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514609,
+        "empire_id": 136253041,
+        "locality_id": 1343817885,
+        "region_id": 85669743,
+        "localadmin_id": 890514181
+      }
     ],
-    "wof:id":1343817885,
-    "wof:lastmodified":1566664477,
-    "wof:name":"Lianbei",
-    "wof:parent_id":890514609,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343817885,
+    "wof:lastmodified": 1768667873,
+    "wof:name": "Lianbei",
+    "wof:parent_id": 890514181,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.93421,
     22.80059,
     112.93421,
     22.80059
-],
-  "geometry": {"coordinates":[112.93420999999999,22.80059],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.93421,
+      22.80059
+    ],
+    "type": "Point"
+  }
 }

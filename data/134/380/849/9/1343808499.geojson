@@ -2,81 +2,89 @@
   "id": 1343808499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.2372,25.087,99.2372,25.087",
-    "geom:latitude":25.087,
-    "geom:longitude":99.2372,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Dabuzi",
-    "gn:country_code":"CN",
-    "gn:dem":1703,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9988423,
-    "gn:latitude":25.087,
-    "gn:longitude":99.2372,
-    "gn:modification_date":"2015-02-08",
-    "gn:name":"Dabuzi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"99.2172,25.067,99.2572,25.107",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Dabaozishan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.2372,25.087,99.2372,25.087",
+    "geom:latitude": 25.087,
+    "geom:longitude": 99.2372,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Dabuzi",
+    "gn:country_code": "CN",
+    "gn:dem": 1703,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9988423,
+    "gn:latitude": 25.087,
+    "gn:longitude": 99.2372,
+    "gn:modification_date": "2015-02-08",
+    "gn:name": "Dabuzi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "99.2172,25.067,99.2572,25.107",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Dabaozishan"
     ],
-    "name:zho_x_preferred":[
-        "\u5927\u5821\u5b50"
+    "name:zho_x_preferred": [
+      "大堡子"
     ],
-    "name:zho_x_variant":[
-        "\u5927\u5821\u5b50\u5c71\u9057\u5740\u53ca\u5893\u7fa4"
+    "name:zho_x_variant": [
+      "大堡子山遗址及墓群"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514251
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514251,
+      1127530502
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9988423
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9988423
     },
-    "wof:country":"CN",
-    "wof:geomhash":"33893869e9b86f05d5394094b5ee58d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514251,
-            "empire_id":136253041,
-            "locality_id":1343808499,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "33893869e9b86f05d5394094b5ee58d1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514251,
+        "empire_id": 136253041,
+        "locality_id": 1343808499,
+        "region_id": 85669791,
+        "localadmin_id": 1127530502
+      }
     ],
-    "wof:id":1343808499,
-    "wof:lastmodified":1566663972,
-    "wof:name":"Dabuzi",
-    "wof:parent_id":890514251,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343808499,
+    "wof:lastmodified": 1768668311,
+    "wof:name": "Dabuzi",
+    "wof:parent_id": 1127530502,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.2372,
     25.087,
     99.2372,
     25.087
-],
-  "geometry": {"coordinates":[99.2372,25.087],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.2372,
+      25.087
+    ],
+    "type": "Point"
+  }
 }

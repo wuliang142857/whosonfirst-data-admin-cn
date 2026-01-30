@@ -2,75 +2,83 @@
   "id": 1260044273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.955,36.1754,105.955,36.1754",
-    "geom:latitude":36.1754,
-    "geom:longitude":105.955,
-    "gn:admin1_code":"21.0",
-    "gn:asciiname":"Nantai",
-    "gn:country_code":"CN",
-    "gn:dem":1851,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10204551,
-    "gn:latitude":36.1754,
-    "gn:longitude":105.955,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Nantai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.935,36.1554,105.975,36.1954",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u53f0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.955,36.1754,105.955,36.1754",
+    "geom:latitude": 36.1754,
+    "geom:longitude": 105.955,
+    "gn:admin1_code": "21.0",
+    "gn:asciiname": "Nantai",
+    "gn:country_code": "CN",
+    "gn:dem": 1851,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10204551,
+    "gn:latitude": 36.1754,
+    "gn:longitude": 105.955,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Nantai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.935,36.1554,105.975,36.1954",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南台"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669763,
-        102191569,
-        85632695,
-        136253041,
-        890515165
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669763,
+      102191569,
+      136253041,
+      890515165,
+      1127640422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10204551
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10204551
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5b69e706464f712df907ae962c45e69b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515165,
-            "empire_id":136253041,
-            "locality_id":1260044273,
-            "region_id":85669763
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5b69e706464f712df907ae962c45e69b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515165,
+        "empire_id": 136253041,
+        "locality_id": 1260044273,
+        "region_id": 85669763,
+        "localadmin_id": 1127640422
+      }
     ],
-    "wof:id":1260044273,
-    "wof:lastmodified":1566687624,
-    "wof:name":"Nantai",
-    "wof:parent_id":890515165,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260044273,
+    "wof:lastmodified": 1768667192,
+    "wof:name": "Nantai",
+    "wof:parent_id": 1127640422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.955,
     36.1754,
     105.955,
     36.1754
-],
-  "geometry": {"coordinates":[105.955,36.1754],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.955,
+      36.1754
+    ],
+    "type": "Point"
+  }
 }

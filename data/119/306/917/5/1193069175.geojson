@@ -2,75 +2,83 @@
   "id": 1193069175,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.45082,29.71377,107.45082,29.71377",
-    "geom:latitude":29.71377,
-    "geom:longitude":107.45082,
-    "gn:admin1_code":"33.0",
-    "gn:asciiname":"Daozhuang",
-    "gn:country_code":"CN",
-    "gn:dem":800,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8416587,
-    "gn:latitude":29.71377,
-    "gn:longitude":107.45082,
-    "gn:modification_date":"2012-11-10",
-    "gn:name":"Daozhuang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.43082,29.69377,107.47082,29.73377",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u7a3b\u5e84"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.45082,29.71377,107.45082,29.71377",
+    "geom:latitude": 29.71377,
+    "geom:longitude": 107.45082,
+    "gn:admin1_code": "33.0",
+    "gn:asciiname": "Daozhuang",
+    "gn:country_code": "CN",
+    "gn:dem": 800,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8416587,
+    "gn:latitude": 29.71377,
+    "gn:longitude": 107.45082,
+    "gn:modification_date": "2012-11-10",
+    "gn:name": "Daozhuang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.43082,29.69377,107.47082,29.73377",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "稻庄"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669725,
-        102191569,
-        85632695,
-        136253041,
-        890513063
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669725,
+      102191569,
+      136253041,
+      890513029,
+      890513063
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8416587
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8416587
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5183b61cc42808be6252165b8033f8fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513063,
-            "empire_id":136253041,
-            "locality_id":1193069175,
-            "region_id":85669725
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5183b61cc42808be6252165b8033f8fa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513063,
+        "empire_id": 136253041,
+        "locality_id": 1193069175,
+        "region_id": 85669725,
+        "localadmin_id": 890513029
+      }
     ],
-    "wof:id":1193069175,
-    "wof:lastmodified":1566684914,
-    "wof:name":"Daozhuang",
-    "wof:parent_id":890513063,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193069175,
+    "wof:lastmodified": 1768668366,
+    "wof:name": "Daozhuang",
+    "wof:parent_id": 890513029,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.45082,
     29.71377,
     107.45082,
     29.71377
-],
-  "geometry": {"coordinates":[107.45081999999999,29.71377],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.45082,
+      29.71377
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1327383163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.143,32.1103,105.143,32.1103",
-    "geom:latitude":32.1103,
-    "geom:longitude":105.143,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Chenjiacao",
-    "gn:country_code":"CN",
-    "gn:dem":795,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10149359,
-    "gn:latitude":32.1103,
-    "gn:longitude":105.143,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Chenjiacao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.123,32.0903,105.163,32.1303",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9648\u5bb6\u69fd"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.143,32.1103,105.143,32.1103",
+    "geom:latitude": 32.1103,
+    "geom:longitude": 105.143,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Chenjiacao",
+    "gn:country_code": "CN",
+    "gn:dem": 795,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10149359,
+    "gn:latitude": 32.1103,
+    "gn:longitude": 105.143,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Chenjiacao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.123,32.0903,105.163,32.1303",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "陈家槽"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514157
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514157,
+      890514341
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10149359
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10149359
     },
-    "wof:country":"CN",
-    "wof:geomhash":"eeb0b9a9d3fb1dce3bb8e5cac70089d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514157,
-            "empire_id":136253041,
-            "locality_id":1327383163,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "eeb0b9a9d3fb1dce3bb8e5cac70089d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514157,
+        "empire_id": 136253041,
+        "locality_id": 1327383163,
+        "region_id": 85669787,
+        "localadmin_id": 890514341
+      }
     ],
-    "wof:id":1327383163,
-    "wof:lastmodified":1566647431,
-    "wof:name":"Chenjiacao",
-    "wof:parent_id":890514157,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327383163,
+    "wof:lastmodified": 1768668242,
+    "wof:name": "Chenjiacao",
+    "wof:parent_id": 890514341,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.143,
     32.1103,
     105.143,
     32.1103
-],
-  "geometry": {"coordinates":[105.143,32.1103],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.143,
+      32.1103
+    ],
+    "type": "Point"
+  }
 }

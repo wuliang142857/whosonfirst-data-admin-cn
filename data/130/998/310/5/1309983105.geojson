@@ -2,79 +2,87 @@
   "id": 1309983105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"112.29608,30.16463,112.29608,30.16463",
-    "geom:latitude":30.16463,
-    "geom:longitude":112.29608,
-    "gn:admin1_code":"12",
-    "gn:asciiname":"Tanqiao",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1793246,
-    "gn:latitude":30.16463,
-    "gn:longitude":112.29608,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Tanqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"112.27608,30.14463,112.31608,30.18463",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019an-ch\u2019iao",
-        "Tanqiao",
-        "\u6ee9\u6865",
-        "Tanqiao Zhen",
-        "\u6ee9\u6865\u9547"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "112.29608,30.16463,112.29608,30.16463",
+    "geom:latitude": 30.16463,
+    "geom:longitude": 112.29608,
+    "gn:admin1_code": "12",
+    "gn:asciiname": "Tanqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1793246,
+    "gn:latitude": 30.16463,
+    "gn:longitude": 112.29608,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Tanqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "112.27608,30.14463,112.31608,30.18463",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’an-ch’iao",
+      "Tanqiao",
+      "滩桥",
+      "Tanqiao Zhen",
+      "滩桥镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732489
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      890515231,
+      1108732489
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1793246
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1793246
     },
-    "wof:country":"CN",
-    "wof:geomhash":"60d79ecda3a3179f2d5adcc742bdce52",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732489,
-            "empire_id":136253041,
-            "locality_id":1309983105,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "60d79ecda3a3179f2d5adcc742bdce52",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732489,
+        "empire_id": 136253041,
+        "locality_id": 1309983105,
+        "region_id": 85669777,
+        "localadmin_id": 890515231
+      }
     ],
-    "wof:id":1309983105,
-    "wof:lastmodified":1566692304,
-    "wof:name":"Tanqiao",
-    "wof:parent_id":1108732489,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309983105,
+    "wof:lastmodified": 1768665666,
+    "wof:name": "Tanqiao",
+    "wof:parent_id": 890515231,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     112.29608,
     30.16463,
     112.29608,
     30.16463
-],
-  "geometry": {"coordinates":[112.29608,30.16463],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      112.29608,
+      30.16463
+    ],
+    "type": "Point"
+  }
 }

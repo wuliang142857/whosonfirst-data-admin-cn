@@ -2,75 +2,83 @@
   "id": 1193144331,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.305,25.5854,114.305,25.5854",
-    "geom:latitude":25.5854,
-    "geom:longitude":114.305,
-    "gn:admin1_code":"3",
-    "gn:asciiname":"Xiaowokeng",
-    "gn:country_code":"CN",
-    "gn:dem":808,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9614474,
-    "gn:latitude":25.5854,
-    "gn:longitude":114.305,
-    "gn:modification_date":"2014-10-04",
-    "gn:name":"Xiaowokeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.285,25.5654,114.325,25.6054",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c0f\u7a9d\u5751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.305,25.5854,114.305,25.5854",
+    "geom:latitude": 25.5854,
+    "geom:longitude": 114.305,
+    "gn:admin1_code": "3",
+    "gn:asciiname": "Xiaowokeng",
+    "gn:country_code": "CN",
+    "gn:dem": 808,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9614474,
+    "gn:latitude": 25.5854,
+    "gn:longitude": 114.305,
+    "gn:modification_date": "2014-10-04",
+    "gn:name": "Xiaowokeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.285,25.5654,114.325,25.6054",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "小窝坑"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890511835
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890511835,
+      1127360725
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9614474
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9614474
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c36a984eaca4dd8ef9681d2d01528023",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511835,
-            "empire_id":136253041,
-            "locality_id":1193144331,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c36a984eaca4dd8ef9681d2d01528023",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511835,
+        "empire_id": 136253041,
+        "locality_id": 1193144331,
+        "region_id": 85669823,
+        "localadmin_id": 1127360725
+      }
     ],
-    "wof:id":1193144331,
-    "wof:lastmodified":1566685253,
-    "wof:name":"Xiaowokeng",
-    "wof:parent_id":890511835,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1193144331,
+    "wof:lastmodified": 1768669694,
+    "wof:name": "Xiaowokeng",
+    "wof:parent_id": 1127360725,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.305,
     25.5854,
     114.305,
     25.5854
-],
-  "geometry": {"coordinates":[114.30500000000001,25.5854],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.305,
+      25.5854
+    ],
+    "type": "Point"
+  }
 }

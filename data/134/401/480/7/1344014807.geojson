@@ -2,81 +2,89 @@
   "id": 1344014807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.36526,32.79583,107.36526,32.79583",
-    "geom:latitude":32.79583,
-    "geom:longitude":107.36526,
-    "gn:admin1_code":"26.0",
-    "gn:asciiname":"Wulibacun",
-    "gn:country_code":"CN",
-    "gn:dem":790,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1791134,
-    "gn:latitude":32.79583,
-    "gn:longitude":107.36526,
-    "gn:modification_date":"2016-11-22",
-    "gn:name":"Wulibacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.34526,32.77583,107.38526,32.81583",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wu-li-pa",
-        "Wu-lang-pa",
-        "Wuliba",
-        "Wulibacun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.36526,32.79583,107.36526,32.79583",
+    "geom:latitude": 32.79583,
+    "geom:longitude": 107.36526,
+    "gn:admin1_code": "26.0",
+    "gn:asciiname": "Wulibacun",
+    "gn:country_code": "CN",
+    "gn:dem": 790,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1791134,
+    "gn:latitude": 32.79583,
+    "gn:longitude": 107.36526,
+    "gn:modification_date": "2016-11-22",
+    "gn:name": "Wulibacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.34526,32.77583,107.38526,32.81583",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wu-li-pa",
+      "Wu-lang-pa",
+      "Wuliba",
+      "Wulibacun"
     ],
-    "name:zho_x_preferred":[
-        "\u4e94\u91cc\u575d\u6751"
+    "name:zho_x_preferred": [
+      "五里坝村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890515099
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890515099,
+      1127610722
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1791134
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1791134
     },
-    "wof:country":"CN",
-    "wof:geomhash":"ceea074808b820c21933ac42b40a3e7f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515099,
-            "empire_id":136253041,
-            "locality_id":1344014807,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "ceea074808b820c21933ac42b40a3e7f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515099,
+        "empire_id": 136253041,
+        "locality_id": 1344014807,
+        "region_id": 85669769,
+        "localadmin_id": 1127610722
+      }
     ],
-    "wof:id":1344014807,
-    "wof:lastmodified":1566658676,
-    "wof:name":"Wulibacun",
-    "wof:parent_id":890515099,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1344014807,
+    "wof:lastmodified": 1768667985,
+    "wof:name": "Wulibacun",
+    "wof:parent_id": 1127610722,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.36526,
     32.79583,
     107.36526,
     32.79583
-],
-  "geometry": {"coordinates":[107.36526000000001,32.79583],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.36526,
+      32.79583
+    ],
+    "type": "Point"
+  }
 }

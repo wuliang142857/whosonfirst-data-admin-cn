@@ -2,75 +2,83 @@
   "id": 1293483539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.15125,26.08752,119.15125,26.08752",
-    "geom:latitude":26.08752,
-    "geom:longitude":119.15125,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Zhuangnan",
-    "gn:country_code":"CN",
-    "gn:dem":46,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8575506,
-    "gn:latitude":26.08752,
-    "gn:longitude":119.15125,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Zhuangnan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.13125,26.06752,119.17125,26.10752",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5e84\u5357"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.15125,26.08752,119.15125,26.08752",
+    "geom:latitude": 26.08752,
+    "geom:longitude": 119.15125,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Zhuangnan",
+    "gn:country_code": "CN",
+    "gn:dem": 46,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8575506,
+    "gn:latitude": 26.08752,
+    "gn:longitude": 119.15125,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Zhuangnan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.13125,26.06752,119.17125,26.10752",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "庄南"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890516575
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890514145,
+      890516575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8575506
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8575506
     },
-    "wof:country":"CN",
-    "wof:geomhash":"aceb2f8495469fddb2c9a056b182f158",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516575,
-            "empire_id":136253041,
-            "locality_id":1293483539,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "aceb2f8495469fddb2c9a056b182f158",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516575,
+        "empire_id": 136253041,
+        "locality_id": 1293483539,
+        "region_id": 85669735,
+        "localadmin_id": 890514145
+      }
     ],
-    "wof:id":1293483539,
-    "wof:lastmodified":1566667597,
-    "wof:name":"Zhuangnan",
-    "wof:parent_id":890516575,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293483539,
+    "wof:lastmodified": 1768669419,
+    "wof:name": "Zhuangnan",
+    "wof:parent_id": 890514145,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.15125,
     26.08752,
     119.15125,
     26.08752
-],
-  "geometry": {"coordinates":[119.15125,26.08752],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.15125,
+      26.08752
+    ],
+    "type": "Point"
+  }
 }

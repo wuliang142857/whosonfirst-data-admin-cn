@@ -2,82 +2,90 @@
   "id": 1343963401,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.57821,31.24509,119.57821,31.24509",
-    "geom:latitude":31.24509,
-    "geom:longitude":119.57821,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Hengshancun",
-    "gn:country_code":"CN",
-    "gn:dem":40,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1548198,
-    "gn:latitude":31.24509,
-    "gn:longitude":119.57821,
-    "gn:modification_date":"2017-08-01",
-    "gn:name":"Hengshancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.55821,31.22509,119.59821,31.26509",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hengshan",
-        "Hengshancun"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.57821,31.24509,119.57821,31.24509",
+    "geom:latitude": 31.24509,
+    "geom:longitude": 119.57821,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Hengshancun",
+    "gn:country_code": "CN",
+    "gn:dem": 40,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1548198,
+    "gn:latitude": 31.24509,
+    "gn:longitude": 119.57821,
+    "gn:modification_date": "2017-08-01",
+    "gn:name": "Hengshancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.55821,31.22509,119.59821,31.26509",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hengshan",
+      "Hengshancun"
     ],
-    "name:zho_x_preferred":[
-        "\u6a2a\u5c71"
+    "name:zho_x_preferred": [
+      "横山"
     ],
-    "name:zho_x_variant":[
-        "\u6a2a\u5c71\u6751"
+    "name:zho_x_variant": [
+      "横山村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514733
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513135,
+      890514733
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1548198
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1548198
     },
-    "wof:country":"CN",
-    "wof:geomhash":"366c5c211304234010c6b8053f335352",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514733,
-            "empire_id":136253041,
-            "locality_id":1343963401,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "366c5c211304234010c6b8053f335352",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514733,
+        "empire_id": 136253041,
+        "locality_id": 1343963401,
+        "region_id": 85669827,
+        "localadmin_id": 890513135
+      }
     ],
-    "wof:id":1343963401,
-    "wof:lastmodified":1566656575,
-    "wof:name":"Hengshancun",
-    "wof:parent_id":890514733,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343963401,
+    "wof:lastmodified": 1768670836,
+    "wof:name": "Hengshancun",
+    "wof:parent_id": 890513135,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.57821,
     31.24509,
     119.57821,
     31.24509
-],
-  "geometry": {"coordinates":[119.57821,31.24509],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.57821,
+      31.24509
+    ],
+    "type": "Point"
+  }
 }

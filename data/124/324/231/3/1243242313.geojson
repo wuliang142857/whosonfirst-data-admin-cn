@@ -2,80 +2,88 @@
   "id": 1243242313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.11056,36.57556,114.11056,36.57556",
-    "geom:latitude":36.57556,
-    "geom:longitude":114.11056,
-    "gn:admin1_code":"10",
-    "gn:asciiname":"Cishan",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":254,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1814728,
-    "gn:latitude":36.57556,
-    "gn:longitude":114.11056,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Cishan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.09056,36.55556,114.13056,36.59556",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:nld_x_preferred":[
-        "Cishan"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.11056,36.57556,114.11056,36.57556",
+    "geom:latitude": 36.57556,
+    "geom:longitude": 114.11056,
+    "gn:admin1_code": "10",
+    "gn:asciiname": "Cishan",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 254,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1814728,
+    "gn:latitude": 36.57556,
+    "gn:longitude": 114.11056,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Cishan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.09056,36.55556,114.13056,36.59556",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:nld_x_preferred": [
+      "Cishan"
     ],
-    "name:und_x_variant":[
-        "Tz\u2019u-shan-ts\u2019un",
-        "Tz\u2019u-shan"
+    "name:und_x_variant": [
+      "Tz’u-shan-ts’un",
+      "Tz’u-shan"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669797,
-        102191569,
-        85632695,
-        136253041,
-        890511887
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669797,
+      102191569,
+      136253041,
+      890511887,
+      1127130481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1814728
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1814728
     },
-    "wof:country":"CN",
-    "wof:geomhash":"6eba302fa1831ba597b1f7dbbbca9f24",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511887,
-            "empire_id":136253041,
-            "locality_id":1243242313,
-            "region_id":85669797
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "6eba302fa1831ba597b1f7dbbbca9f24",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511887,
+        "empire_id": 136253041,
+        "locality_id": 1243242313,
+        "region_id": 85669797,
+        "localadmin_id": 1127130481
+      }
     ],
-    "wof:id":1243242313,
-    "wof:lastmodified":1566695362,
-    "wof:name":"Cishan",
-    "wof:parent_id":890511887,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243242313,
+    "wof:lastmodified": 1768669464,
+    "wof:name": "Cishan",
+    "wof:parent_id": 1127130481,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.11056,
     36.57556,
     114.11056,
     36.57556
-],
-  "geometry": {"coordinates":[114.11056000000001,36.57556],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.11056,
+      36.57556
+    ],
+    "type": "Point"
+  }
 }

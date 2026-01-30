@@ -2,80 +2,88 @@
   "id": 1260036743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.81844,34.87256,109.81844,34.87256",
-    "geom:latitude":34.87256,
-    "geom:longitude":109.81844,
-    "gn:admin1_code":"26",
-    "gn:asciiname":"Duanjia",
-    "gn:country_code":"CN",
-    "gn:dem":480,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1811956,
-    "gn:latitude":34.87256,
-    "gn:longitude":109.81844,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Duanjia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.79844,34.85256,109.83844,34.89256",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Tuan-chia",
-        "Tuan-chia-chai",
-        "Duanjia"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.81844,34.87256,109.81844,34.87256",
+    "geom:latitude": 34.87256,
+    "geom:longitude": 109.81844,
+    "gn:admin1_code": "26",
+    "gn:asciiname": "Duanjia",
+    "gn:country_code": "CN",
+    "gn:dem": 480,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1811956,
+    "gn:latitude": 34.87256,
+    "gn:longitude": 109.81844,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Duanjia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.79844,34.85256,109.83844,34.89256",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Tuan-chia",
+      "Tuan-chia-chai",
+      "Duanjia"
     ],
-    "name:zho_x_preferred":[
-        "\u6bb5\u5bb6"
+    "name:zho_x_preferred": [
+      "段家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669769,
-        102191569,
-        85632695,
-        136253041,
-        890511937
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669769,
+      102191569,
+      136253041,
+      890511937,
+      1127610523
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1811956
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1811956
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f8795a39b07a1c1a65c2f1f4a851ac8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890511937,
-            "empire_id":136253041,
-            "locality_id":1260036743,
-            "region_id":85669769
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f8795a39b07a1c1a65c2f1f4a851ac8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890511937,
+        "empire_id": 136253041,
+        "locality_id": 1260036743,
+        "region_id": 85669769,
+        "localadmin_id": 1127610523
+      }
     ],
-    "wof:id":1260036743,
-    "wof:lastmodified":1566687507,
-    "wof:name":"Duanjia",
-    "wof:parent_id":890511937,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260036743,
+    "wof:lastmodified": 1768667663,
+    "wof:name": "Duanjia",
+    "wof:parent_id": 1127610523,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.81844,
     34.87256,
     109.81844,
     34.87256
-],
-  "geometry": {"coordinates":[109.81844,34.87256],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.81844,
+      34.87256
+    ],
+    "type": "Point"
+  }
 }

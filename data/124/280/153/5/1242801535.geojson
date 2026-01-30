@@ -2,82 +2,90 @@
   "id": 1242801535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.41667,31.25,119.41667,31.25",
-    "geom:latitude":31.25,
-    "geom:longitude":119.41667,
-    "gn:admin1_code":"04",
-    "gn:asciiname":"Shanyaqiao",
-    "gn:cc2":"CN",
-    "gn:country_code":"CN",
-    "gn:dem":33,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1795901,
-    "gn:latitude":31.25,
-    "gn:longitude":119.41667,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Shanyaqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.39667,31.23,119.43667,31.27",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "San-ya-ch\u2019iao",
-        "Shan-ya-ch\u2019iao-chen",
-        "Shan-ya-ch\u2019iao",
-        "Shan-liao-ch\u2019iao-chen",
-        "Shan-ya-pu",
-        "Shan-liao-ch\u2019iao",
-        "Shanyaqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.41667,31.25,119.41667,31.25",
+    "geom:latitude": 31.25,
+    "geom:longitude": 119.41667,
+    "gn:admin1_code": "04",
+    "gn:asciiname": "Shanyaqiao",
+    "gn:cc2": "CN",
+    "gn:country_code": "CN",
+    "gn:dem": 33,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1795901,
+    "gn:latitude": 31.25,
+    "gn:longitude": 119.41667,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Shanyaqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.39667,31.23,119.43667,31.27",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "San-ya-ch’iao",
+      "Shan-ya-ch’iao-chen",
+      "Shan-ya-ch’iao",
+      "Shan-liao-ch’iao-chen",
+      "Shan-ya-pu",
+      "Shan-liao-ch’iao",
+      "Shanyaqiao"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514735,
+      1127320481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1795901
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1795901
     },
-    "wof:country":"CN",
-    "wof:geomhash":"35ddf5f964a78103f0a45afc54b65ba3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514735,
-            "empire_id":136253041,
-            "locality_id":1242801535,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "35ddf5f964a78103f0a45afc54b65ba3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514735,
+        "empire_id": 136253041,
+        "locality_id": 1242801535,
+        "region_id": 85669827,
+        "localadmin_id": 1127320481
+      }
     ],
-    "wof:id":1242801535,
-    "wof:lastmodified":1566694345,
-    "wof:name":"Shanyaqiao",
-    "wof:parent_id":890514735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242801535,
+    "wof:lastmodified": 1768671038,
+    "wof:name": "Shanyaqiao",
+    "wof:parent_id": 1127320481,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.41667,
     31.25,
     119.41667,
     31.25
-],
-  "geometry": {"coordinates":[119.41667,31.25],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.41667,
+      31.25
+    ],
+    "type": "Point"
+  }
 }

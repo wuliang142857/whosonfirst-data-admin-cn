@@ -2,75 +2,83 @@
   "id": 1276301627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"108.912,21.6399,108.912,21.6399",
-    "geom:latitude":21.6399,
-    "geom:longitude":108.912,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Houwu",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9902819,
-    "gn:latitude":21.6399,
-    "gn:longitude":108.912,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Houwu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"108.892,21.6199,108.932,21.6599",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4faf\u5c4b"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "108.912,21.6399,108.912,21.6399",
+    "geom:latitude": 21.6399,
+    "geom:longitude": 108.912,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Houwu",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9902819,
+    "gn:latitude": 21.6399,
+    "gn:longitude": 108.912,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Houwu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "108.892,21.6199,108.932,21.6599",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "侯屋"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890516487
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890516487,
+      1127450521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9902819
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9902819
     },
-    "wof:country":"CN",
-    "wof:geomhash":"bc2d9ab555d56d86ddd8151391ae04f8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516487,
-            "empire_id":136253041,
-            "locality_id":1276301627,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "bc2d9ab555d56d86ddd8151391ae04f8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516487,
+        "empire_id": 136253041,
+        "locality_id": 1276301627,
+        "region_id": 85669717,
+        "localadmin_id": 1127450521
+      }
     ],
-    "wof:id":1276301627,
-    "wof:lastmodified":1566677666,
-    "wof:name":"Houwu",
-    "wof:parent_id":890516487,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276301627,
+    "wof:lastmodified": 1768665768,
+    "wof:name": "Houwu",
+    "wof:parent_id": 1127450521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     108.912,
     21.6399,
     108.912,
     21.6399
-],
-  "geometry": {"coordinates":[108.91200000000001,21.6399],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      108.912,
+      21.6399
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1309712379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.962,33.6127,118.962,33.6127",
-    "geom:latitude":33.6127,
-    "geom:longitude":118.962,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Shendukou",
-    "gn:country_code":"CN",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11094139,
-    "gn:latitude":33.6127,
-    "gn:longitude":118.962,
-    "gn:modification_date":"2016-03-12",
-    "gn:name":"Shendukou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.942,33.5927,118.982,33.6327",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6c88\u6e21\u53e3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.962,33.6127,118.962,33.6127",
+    "geom:latitude": 33.6127,
+    "geom:longitude": 118.962,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Shendukou",
+    "gn:country_code": "CN",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11094139,
+    "gn:latitude": 33.6127,
+    "gn:longitude": 118.962,
+    "gn:modification_date": "2016-03-12",
+    "gn:name": "Shendukou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.942,33.5927,118.982,33.6327",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "沈渡口"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        1108732465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890517071,
+      1108732465
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11094139
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11094139
     },
-    "wof:country":"CN",
-    "wof:geomhash":"61cdd835674645df8ed525ca23b164d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732465,
-            "empire_id":136253041,
-            "locality_id":1309712379,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "61cdd835674645df8ed525ca23b164d1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732465,
+        "empire_id": 136253041,
+        "locality_id": 1309712379,
+        "region_id": 85669827,
+        "localadmin_id": 890517071
+      }
     ],
-    "wof:id":1309712379,
-    "wof:lastmodified":1566692821,
-    "wof:name":"Shendukou",
-    "wof:parent_id":1108732465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1309712379,
+    "wof:lastmodified": 1768670871,
+    "wof:name": "Shendukou",
+    "wof:parent_id": 890517071,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.962,
     33.6127,
     118.962,
     33.6127
-],
-  "geometry": {"coordinates":[118.962,33.6127],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.962,
+      33.6127
+    ],
+    "type": "Point"
+  }
 }

@@ -2,87 +2,95 @@
   "id": 1293531005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"99.0775,32.4832,99.0775,32.4832",
-    "geom:latitude":32.4832,
-    "geom:longitude":99.0775,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Genda",
-    "gn:country_code":"CN",
-    "gn:dem":3761,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10207758,
-    "gn:latitude":32.4832,
-    "gn:longitude":99.0775,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Genda",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"99.0575,32.4632,99.0975,32.5032",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Genda"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "99.0775,32.4832,99.0775,32.4832",
+    "geom:latitude": 32.4832,
+    "geom:longitude": 99.0775,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Genda",
+    "gn:country_code": "CN",
+    "gn:dem": 3761,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10207758,
+    "gn:latitude": 32.4832,
+    "gn:longitude": 99.0775,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Genda",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "99.0575,32.4632,99.0975,32.5032",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Genda"
     ],
-    "name:deu_x_preferred":[
-        "Genda"
+    "name:deu_x_preferred": [
+      "Genda"
     ],
-    "name:rus_x_preferred":[
-        "\u0413\u044d\u043d\u0434\u0430"
+    "name:rus_x_preferred": [
+      "Гэнда"
     ],
-    "name:swe_x_preferred":[
-        "Genda"
+    "name:swe_x_preferred": [
+      "Genda"
     ],
-    "name:zho_x_preferred":[
-        "\u6839\u8fbe"
+    "name:zho_x_preferred": [
+      "根达"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514703
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513283,
+      890514703
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10207758
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10207758
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e359df7ae43f96b0ffdd4cc6450c03f9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514703,
-            "empire_id":136253041,
-            "locality_id":1293531005,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e359df7ae43f96b0ffdd4cc6450c03f9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514703,
+        "empire_id": 136253041,
+        "locality_id": 1293531005,
+        "region_id": 85669787,
+        "localadmin_id": 890513283
+      }
     ],
-    "wof:id":1293531005,
-    "wof:lastmodified":1566665990,
-    "wof:name":"Genda",
-    "wof:parent_id":890514703,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293531005,
+    "wof:lastmodified": 1768668579,
+    "wof:name": "Genda",
+    "wof:parent_id": 890513283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     99.0775,
     32.4832,
     99.0775,
     32.4832
-],
-  "geometry": {"coordinates":[99.0775,32.4832],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      99.0775,
+      32.4832
+    ],
+    "type": "Point"
+  }
 }

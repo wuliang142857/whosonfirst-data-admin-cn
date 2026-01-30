@@ -2,75 +2,83 @@
   "id": 1259767499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.142,35.4714,115.142,35.4714",
-    "geom:latitude":35.4714,
-    "geom:longitude":115.142,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Mahai",
-    "gn:country_code":"CN",
-    "gn:dem":57,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9131506,
-    "gn:latitude":35.4714,
-    "gn:longitude":115.142,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Mahai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.122,35.4514,115.162,35.4914",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9a6c\u6d77"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.142,35.4714,115.142,35.4714",
+    "geom:latitude": 35.4714,
+    "geom:longitude": 115.142,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Mahai",
+    "gn:country_code": "CN",
+    "gn:dem": 57,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9131506,
+    "gn:latitude": 35.4714,
+    "gn:longitude": 115.142,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Mahai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.122,35.4514,115.162,35.4914",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "马海"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514079
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514079,
+      1127410928
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9131506
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9131506
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a4bda952a7fbe6c89b83631b0922277a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514079,
-            "empire_id":136253041,
-            "locality_id":1259767499,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a4bda952a7fbe6c89b83631b0922277a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514079,
+        "empire_id": 136253041,
+        "locality_id": 1259767499,
+        "region_id": 85669801,
+        "localadmin_id": 1127410928
+      }
     ],
-    "wof:id":1259767499,
-    "wof:lastmodified":1566699270,
-    "wof:name":"Mahai",
-    "wof:parent_id":890514079,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259767499,
+    "wof:lastmodified": 1768669057,
+    "wof:name": "Mahai",
+    "wof:parent_id": 1127410928,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.142,
     35.4714,
     115.142,
     35.4714
-],
-  "geometry": {"coordinates":[115.142,35.4714],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.142,
+      35.4714
+    ],
+    "type": "Point"
+  }
 }

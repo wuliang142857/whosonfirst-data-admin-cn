@@ -2,81 +2,89 @@
   "id": 1310105953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.76269,32.95471,119.76269,32.95471",
-    "geom:latitude":32.95471,
-    "geom:longitude":119.76269,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Yangjiacun",
-    "gn:country_code":"CN",
-    "gn:dem":4,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8262114,
-    "gn:latitude":32.95471,
-    "gn:longitude":119.76269,
-    "gn:modification_date":"2017-05-08",
-    "gn:name":"Yangjiacun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.74269,32.93471,119.78269,32.97471",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Chenyang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.76269,32.95471,119.76269,32.95471",
+    "geom:latitude": 32.95471,
+    "geom:longitude": 119.76269,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Yangjiacun",
+    "gn:country_code": "CN",
+    "gn:dem": 4,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8262114,
+    "gn:latitude": 32.95471,
+    "gn:longitude": 119.76269,
+    "gn:modification_date": "2017-05-08",
+    "gn:name": "Yangjiacun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.74269,32.93471,119.78269,32.97471",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Chenyang"
     ],
-    "name:zho_x_preferred":[
-        "\u6768\u5bb6\u6751"
+    "name:zho_x_preferred": [
+      "杨家村"
     ],
-    "name:zho_x_variant":[
-        "\u9648\u6768"
+    "name:zho_x_variant": [
+      "陈杨"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516237
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514283,
+      890516237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8262114
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8262114
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5a7d95ba21e728028006cd66046c6413",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516237,
-            "empire_id":136253041,
-            "locality_id":1310105953,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5a7d95ba21e728028006cd66046c6413",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516237,
+        "empire_id": 136253041,
+        "locality_id": 1310105953,
+        "region_id": 85669827,
+        "localadmin_id": 890514283
+      }
     ],
-    "wof:id":1310105953,
-    "wof:lastmodified":1566690149,
-    "wof:name":"Yangjiacun",
-    "wof:parent_id":890516237,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310105953,
+    "wof:lastmodified": 1768670649,
+    "wof:name": "Yangjiacun",
+    "wof:parent_id": 890514283,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.76269,
     32.95471,
     119.76269,
     32.95471
-],
-  "geometry": {"coordinates":[119.76269000000001,32.95471],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.76269,
+      32.95471
+    ],
+    "type": "Point"
+  }
 }

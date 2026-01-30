@@ -2,75 +2,83 @@
   "id": 1310560967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.303,29.8485,105.303,29.8485",
-    "geom:latitude":29.8485,
-    "geom:longitude":105.303,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Longdang",
-    "gn:country_code":"CN",
-    "gn:dem":407,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10186103,
-    "gn:latitude":29.8485,
-    "gn:longitude":105.303,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Longdang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.283,29.8285,105.323,29.8685",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9f99\u51fc"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.303,29.8485,105.303,29.8485",
+    "geom:latitude": 29.8485,
+    "geom:longitude": 105.303,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Longdang",
+    "gn:country_code": "CN",
+    "gn:dem": 407,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10186103,
+    "gn:latitude": 29.8485,
+    "gn:longitude": 105.303,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Longdang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.283,29.8285,105.323,29.8685",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "龙凼"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890513805
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890513805,
+      1127512021
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10186103
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10186103
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d6ab43b46b2245b3f22f56aa34211be0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513805,
-            "empire_id":136253041,
-            "locality_id":1310560967,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d6ab43b46b2245b3f22f56aa34211be0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513805,
+        "empire_id": 136253041,
+        "locality_id": 1310560967,
+        "region_id": 85669787,
+        "localadmin_id": 1127512021
+      }
     ],
-    "wof:id":1310560967,
-    "wof:lastmodified":1566690786,
-    "wof:name":"Longdang",
-    "wof:parent_id":890513805,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310560967,
+    "wof:lastmodified": 1768668312,
+    "wof:name": "Longdang",
+    "wof:parent_id": 1127512021,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.303,
     29.8485,
     105.303,
     29.8485
-],
-  "geometry": {"coordinates":[105.303,29.8485],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.303,
+      29.8485
+    ],
+    "type": "Point"
+  }
 }

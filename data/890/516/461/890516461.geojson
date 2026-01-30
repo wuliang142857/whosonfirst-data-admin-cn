@@ -2,84 +2,92 @@
   "id": 890516461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.315879,23.479936,111.315879,23.479936",
-    "geom:latitude":23.479936,
-    "geom:longitude":111.315879,
-    "gp:adm0":23424781,
-    "iso:country":"CN",
-    "lbl:bbox":"111.295879,23.459936,111.335879,23.499936",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:eng_x_preferred":[
-        "Wuzhou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.315879,23.479936,111.315879,23.479936",
+    "geom:latitude": 23.479936,
+    "geom:longitude": 111.315879,
+    "gp:adm0": 23424781,
+    "iso:country": "CN",
+    "lbl:bbox": "111.295879,23.459936,111.335879,23.499936",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:eng_x_preferred": [
+      "Wuzhou"
     ],
-    "name:heb_x_preferred":[
-        "\u05d5\u05d5\u05d6\u05d5\u05d0\u05d5"
+    "name:heb_x_preferred": [
+      "ווזואו"
     ],
-    "name:hun_x_preferred":[
-        "Wuzhou"
+    "name:hun_x_preferred": [
+      "Wuzhou"
     ],
-    "name:zho_x_preferred":[
-        "\u68a7\u5dde"
+    "name:zho_x_preferred": [
+      "梧州"
     ],
-    "qs:name":"\u68a7\u5dde",
-    "qs:name_adm0":"\u4e2d\u570b",
-    "qs:name_adm1":"\u5e7f\u897f\u7701",
-    "qs:photos":407,
-    "qs:photos_1k":82,
-    "qs:photos_9k":2,
-    "qs:photos_9r":5,
-    "qs:photos_all":407,
-    "qs:photos_sr":6,
-    "qs:placetype":"Town",
-    "qs:pop_sr":"0",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "qs:name": "梧州",
+    "qs:name_adm0": "中國",
+    "qs:name_adm1": "广西省",
+    "qs:photos": 407,
+    "qs:photos_1k": 82,
+    "qs:photos_9k": 2,
+    "qs:photos_9r": 5,
+    "qs:photos_all": 407,
+    "qs:photos_sr": 6,
+    "qs:placetype": "Town",
+    "qs:pop_sr": "0",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":2166475,
-        "qs_pg:id":210350
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 2166475,
+      "qs_pg:id": 210350
     },
-    "wof:country":"CN",
-    "wof:created":1469055959,
-    "wof:geomhash":"fe1802b803e96e7734ab88c9aec1a78f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":890516461,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:created": 1469055959,
+    "wof:geomhash": "fe1802b803e96e7734ab88c9aec1a78f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 890516461,
+        "region_id": 85669717,
+        "localadmin_id": 1127450403
+      }
     ],
-    "wof:id":890516461,
-    "wof:lastmodified":1636504295,
-    "wof:name":"Wuzhou",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 890516461,
+    "wof:lastmodified": 1768665955,
+    "wof:name": "Wuzhou",
+    "wof:parent_id": 1127450403,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.315879,
     23.479936,
     111.315879,
     23.479936
-],
-  "geometry": {"coordinates":[111.315879,23.479936],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.315879,
+      23.479936
+    ],
+    "type": "Point"
+  }
 }

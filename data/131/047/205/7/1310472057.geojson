@@ -2,75 +2,83 @@
   "id": 1310472057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"104.699,36.2254,104.699,36.2254",
-    "geom:latitude":36.2254,
-    "geom:longitude":104.699,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Mazitan",
-    "gn:country_code":"CN",
-    "gn:dem":1706,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10753703,
-    "gn:latitude":36.2254,
-    "gn:longitude":104.699,
-    "gn:modification_date":"2015-09-08",
-    "gn:name":"Mazitan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"104.679,36.2054,104.719,36.2454",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ebb\u5b50\u6ee9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "104.699,36.2254,104.699,36.2254",
+    "geom:latitude": 36.2254,
+    "geom:longitude": 104.699,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Mazitan",
+    "gn:country_code": "CN",
+    "gn:dem": 1706,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10753703,
+    "gn:latitude": 36.2254,
+    "gn:longitude": 104.699,
+    "gn:modification_date": "2015-09-08",
+    "gn:name": "Mazitan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "104.679,36.2054,104.719,36.2454",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "麻子滩"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516465
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516465,
+      1127620422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10753703
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10753703
     },
-    "wof:country":"CN",
-    "wof:geomhash":"58baef31719919624b2bb0ca86156b6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516465,
-            "empire_id":136253041,
-            "locality_id":1310472057,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "58baef31719919624b2bb0ca86156b6b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516465,
+        "empire_id": 136253041,
+        "locality_id": 1310472057,
+        "region_id": 85669711,
+        "localadmin_id": 1127620422
+      }
     ],
-    "wof:id":1310472057,
-    "wof:lastmodified":1566688619,
-    "wof:name":"Mazitan",
-    "wof:parent_id":890516465,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310472057,
+    "wof:lastmodified": 1768666457,
+    "wof:name": "Mazitan",
+    "wof:parent_id": 1127620422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     104.699,
     36.2254,
     104.699,
     36.2254
-],
-  "geometry": {"coordinates":[104.699,36.2254],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      104.699,
+      36.2254
+    ],
+    "type": "Point"
+  }
 }

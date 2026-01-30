@@ -2,80 +2,88 @@
   "id": 1343230005,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.9579,39.79559,113.9579,39.79559",
-    "geom:latitude":39.79559,
-    "geom:longitude":113.9579,
-    "gn:admin1_code":"24",
-    "gn:asciiname":"Wanghu",
-    "gn:country_code":"CN",
-    "gn:dem":1448,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1792068,
-    "gn:latitude":39.79559,
-    "gn:longitude":113.9579,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Wanghu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.9379,39.77559,113.9779,39.81559",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Wang-ku",
-        "Wang-hu-ts\u2019un",
-        "Wanghu",
-        "\u671b\u72d0",
-        "Wanghu Xiang",
-        "\u671b\u72d0\u4e61"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.9579,39.79559,113.9579,39.79559",
+    "geom:latitude": 39.79559,
+    "geom:longitude": 113.9579,
+    "gn:admin1_code": "24",
+    "gn:asciiname": "Wanghu",
+    "gn:country_code": "CN",
+    "gn:dem": 1448,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1792068,
+    "gn:latitude": 39.79559,
+    "gn:longitude": 113.9579,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Wanghu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.9379,39.77559,113.9779,39.81559",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Wang-ku",
+      "Wang-hu-ts’un",
+      "Wanghu",
+      "望狐",
+      "Wanghu Xiang",
+      "望狐乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890516415
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890516415,
+      1127140223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1792068
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1792068
     },
-    "wof:country":"CN",
-    "wof:geomhash":"34d2093922acf67bb97e2ed97ee13ff1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516415,
-            "empire_id":136253041,
-            "locality_id":1343230005,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "34d2093922acf67bb97e2ed97ee13ff1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516415,
+        "empire_id": 136253041,
+        "locality_id": 1343230005,
+        "region_id": 85669773,
+        "localadmin_id": 1127140223
+      }
     ],
-    "wof:id":1343230005,
-    "wof:lastmodified":1566659770,
-    "wof:name":"Wanghu",
-    "wof:parent_id":890516415,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343230005,
+    "wof:lastmodified": 1768668675,
+    "wof:name": "Wanghu",
+    "wof:parent_id": 1127140223,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.9579,
     39.79559,
     113.9579,
     39.79559
-],
-  "geometry": {"coordinates":[113.9579,39.79559],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.9579,
+      39.79559
+    ],
+    "type": "Point"
+  }
 }

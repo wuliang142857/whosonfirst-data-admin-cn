@@ -2,75 +2,83 @@
   "id": 1226732303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.72267,33.81101,105.72267,33.81101",
-    "geom:latitude":33.81101,
-    "geom:longitude":105.72267,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Shuiquan",
-    "gn:country_code":"CN",
-    "gn:dem":1006,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":7373438,
-    "gn:latitude":33.81101,
-    "gn:longitude":105.72267,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Shuiquan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.70267,33.79101,105.74267,33.83101",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6c34\u6cc9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.72267,33.81101,105.72267,33.81101",
+    "geom:latitude": 33.81101,
+    "geom:longitude": 105.72267,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Shuiquan",
+    "gn:country_code": "CN",
+    "gn:dem": 1006,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 7373438,
+    "gn:latitude": 33.81101,
+    "gn:longitude": 105.72267,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Shuiquan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.70267,33.79101,105.74267,33.83101",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "水泉"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516335
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516335,
+      890516543
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7373438
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7373438
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5e346dc58c85ccfaf69fa5122fb0207b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516335,
-            "empire_id":136253041,
-            "locality_id":1226732303,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5e346dc58c85ccfaf69fa5122fb0207b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516335,
+        "empire_id": 136253041,
+        "locality_id": 1226732303,
+        "region_id": 85669711,
+        "localadmin_id": 890516543
+      }
     ],
-    "wof:id":1226732303,
-    "wof:lastmodified":1566701625,
-    "wof:name":"Shuiquan",
-    "wof:parent_id":890516335,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226732303,
+    "wof:lastmodified": 1768665904,
+    "wof:name": "Shuiquan",
+    "wof:parent_id": 890516543,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.72267,
     33.81101,
     105.72267,
     33.81101
-],
-  "geometry": {"coordinates":[105.72266999999999,33.81101],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.72267,
+      33.81101
+    ],
+    "type": "Point"
+  }
 }

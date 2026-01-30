@@ -2,75 +2,83 @@
   "id": 1326811953,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.786,23.7256,110.786,23.7256",
-    "geom:latitude":23.7256,
-    "geom:longitude":110.786,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Gudao",
-    "gn:country_code":"CN",
-    "gn:dem":263,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9918809,
-    "gn:latitude":23.7256,
-    "gn:longitude":110.786,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Gudao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.766,23.7056,110.806,23.7456",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u53e4\u9053"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.786,23.7256,110.786,23.7256",
+    "geom:latitude": 23.7256,
+    "geom:longitude": 110.786,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Gudao",
+    "gn:country_code": "CN",
+    "gn:dem": 263,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9918809,
+    "gn:latitude": 23.7256,
+    "gn:longitude": 110.786,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Gudao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.766,23.7056,110.806,23.7456",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "古道"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9918809
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9918809
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c95a6c47d2563cf65010829827872c63",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1326811953,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c95a6c47d2563cf65010829827872c63",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1326811953,
+        "region_id": 85669717,
+        "localadmin_id": 1127450422
+      }
     ],
-    "wof:id":1326811953,
-    "wof:lastmodified":1566647727,
-    "wof:name":"Gudao",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326811953,
+    "wof:lastmodified": 1768665954,
+    "wof:name": "Gudao",
+    "wof:parent_id": 1127450422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.786,
     23.7256,
     110.786,
     23.7256
-],
-  "geometry": {"coordinates":[110.786,23.7256],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.786,
+      23.7256
+    ],
+    "type": "Point"
+  }
 }

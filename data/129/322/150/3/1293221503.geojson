@@ -2,75 +2,83 @@
   "id": 1293221503,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.43222,23.68278,117.43222,23.68278",
-    "geom:latitude":23.68278,
-    "geom:longitude":117.43222,
-    "gn:admin1_code":"7",
-    "gn:asciiname":"Guanluwei",
-    "gn:country_code":"CN",
-    "gn:dem":11,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1980709,
-    "gn:latitude":23.68278,
-    "gn:longitude":117.43222,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Guanluwei",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.41222,23.66278,117.45222,23.70278",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5b98\u8def\u5c3e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.43222,23.68278,117.43222,23.68278",
+    "geom:latitude": 23.68278,
+    "geom:longitude": 117.43222,
+    "gn:admin1_code": "7",
+    "gn:asciiname": "Guanluwei",
+    "gn:country_code": "CN",
+    "gn:dem": 11,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1980709,
+    "gn:latitude": 23.68278,
+    "gn:longitude": 117.43222,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Guanluwei",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.41222,23.66278,117.45222,23.70278",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "官路尾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890513339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890513149,
+      890513339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1980709
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1980709
     },
-    "wof:country":"CN",
-    "wof:geomhash":"06030e7af620cc42e7164d6e881af1b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513339,
-            "empire_id":136253041,
-            "locality_id":1293221503,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "06030e7af620cc42e7164d6e881af1b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513339,
+        "empire_id": 136253041,
+        "locality_id": 1293221503,
+        "region_id": 85669735,
+        "localadmin_id": 890513149
+      }
     ],
-    "wof:id":1293221503,
-    "wof:lastmodified":1566668545,
-    "wof:name":"Guanluwei",
-    "wof:parent_id":890513339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293221503,
+    "wof:lastmodified": 1768669261,
+    "wof:name": "Guanluwei",
+    "wof:parent_id": 890513149,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.43222,
     23.68278,
     117.43222,
     23.68278
-],
-  "geometry": {"coordinates":[117.43222,23.68278],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.43222,
+      23.68278
+    ],
+    "type": "Point"
+  }
 }

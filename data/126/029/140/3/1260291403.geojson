@@ -2,75 +2,83 @@
   "id": 1260291403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"117.39488,29.65168,117.39488,29.65168",
-    "geom:latitude":29.65168,
-    "geom:longitude":117.39488,
-    "gn:admin1_code":"3.0",
-    "gn:asciiname":"Zhujia",
-    "gn:country_code":"CN",
-    "gn:dem":85,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7651676,
-    "gn:latitude":29.65168,
-    "gn:longitude":117.39488,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhujia",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"117.37488,29.63168,117.41488,29.67168",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u6731\u5bb6"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "117.39488,29.65168,117.39488,29.65168",
+    "geom:latitude": 29.65168,
+    "geom:longitude": 117.39488,
+    "gn:admin1_code": "3.0",
+    "gn:asciiname": "Zhujia",
+    "gn:country_code": "CN",
+    "gn:dem": 85,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7651676,
+    "gn:latitude": 29.65168,
+    "gn:longitude": 117.39488,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhujia",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "117.37488,29.63168,117.41488,29.67168",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "朱家"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669823,
-        102191569,
-        85632695,
-        136253041,
-        890514599
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669823,
+      102191569,
+      136253041,
+      890514599,
+      1127360222
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7651676
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7651676
     },
-    "wof:country":"CN",
-    "wof:geomhash":"fd5481098156956de3812098c5f18637",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514599,
-            "empire_id":136253041,
-            "locality_id":1260291403,
-            "region_id":85669823
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "fd5481098156956de3812098c5f18637",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514599,
+        "empire_id": 136253041,
+        "locality_id": 1260291403,
+        "region_id": 85669823,
+        "localadmin_id": 1127360222
+      }
     ],
-    "wof:id":1260291403,
-    "wof:lastmodified":1566687281,
-    "wof:name":"Zhujia",
-    "wof:parent_id":890514599,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260291403,
+    "wof:lastmodified": 1768670179,
+    "wof:name": "Zhujia",
+    "wof:parent_id": 1127360222,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     117.39488,
     29.65168,
     117.39488,
     29.65168
-],
-  "geometry": {"coordinates":[117.39488,29.65168],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      117.39488,
+      29.65168
+    ],
+    "type": "Point"
+  }
 }

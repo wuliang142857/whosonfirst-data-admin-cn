@@ -2,75 +2,83 @@
   "id": 1326503203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.219,34.653,105.219,34.653",
-    "geom:latitude":34.653,
-    "geom:longitude":105.219,
-    "gn:admin1_code":"15.0",
-    "gn:asciiname":"Gebanyu",
-    "gn:country_code":"CN",
-    "gn:dem":1918,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10429008,
-    "gn:latitude":34.653,
-    "gn:longitude":105.219,
-    "gn:modification_date":"2015-08-09",
-    "gn:name":"Gebanyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.199,34.633,105.239,34.673",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u683c\u677f\u5cea"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.219,34.653,105.219,34.653",
+    "geom:latitude": 34.653,
+    "geom:longitude": 105.219,
+    "gn:admin1_code": "15.0",
+    "gn:asciiname": "Gebanyu",
+    "gn:country_code": "CN",
+    "gn:dem": 1918,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10429008,
+    "gn:latitude": 34.653,
+    "gn:longitude": 105.219,
+    "gn:modification_date": "2015-08-09",
+    "gn:name": "Gebanyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.199,34.633,105.239,34.673",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "格板峪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669711,
-        102191569,
-        85632695,
-        136253041,
-        890516551
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669711,
+      102191569,
+      136253041,
+      890516551,
+      1127620523
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10429008
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10429008
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a66c0a5c8e8ba227bd8c1b853c3aa369",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516551,
-            "empire_id":136253041,
-            "locality_id":1326503203,
-            "region_id":85669711
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a66c0a5c8e8ba227bd8c1b853c3aa369",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516551,
+        "empire_id": 136253041,
+        "locality_id": 1326503203,
+        "region_id": 85669711,
+        "localadmin_id": 1127620523
+      }
     ],
-    "wof:id":1326503203,
-    "wof:lastmodified":1566649905,
-    "wof:name":"Gebanyu",
-    "wof:parent_id":890516551,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1326503203,
+    "wof:lastmodified": 1768665838,
+    "wof:name": "Gebanyu",
+    "wof:parent_id": 1127620523,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.219,
     34.653,
     105.219,
     34.653
-],
-  "geometry": {"coordinates":[105.21899999999999,34.653],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.219,
+      34.653
+    ],
+    "type": "Point"
+  }
 }

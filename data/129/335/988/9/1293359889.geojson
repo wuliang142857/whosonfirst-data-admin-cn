@@ -2,75 +2,83 @@
   "id": 1293359889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"110.635,23.5874,110.635,23.5874",
-    "geom:latitude":23.5874,
-    "geom:longitude":110.635,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Ximenling",
-    "gn:country_code":"CN",
-    "gn:dem":42,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9919128,
-    "gn:latitude":23.5874,
-    "gn:longitude":110.635,
-    "gn:modification_date":"2015-01-09",
-    "gn:name":"Ximenling",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"110.615,23.5674,110.655,23.6074",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u897f\u95e8\u5cad"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "110.635,23.5874,110.635,23.5874",
+    "geom:latitude": 23.5874,
+    "geom:longitude": 110.635,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Ximenling",
+    "gn:country_code": "CN",
+    "gn:dem": 42,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9919128,
+    "gn:latitude": 23.5874,
+    "gn:longitude": 110.635,
+    "gn:modification_date": "2015-01-09",
+    "gn:name": "Ximenling",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "110.615,23.5674,110.655,23.6074",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "西门岭"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890512833
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890512833,
+      1127450422
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9919128
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9919128
     },
-    "wof:country":"CN",
-    "wof:geomhash":"7e897db11191f14ffcb6236a9a8ff81e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512833,
-            "empire_id":136253041,
-            "locality_id":1293359889,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "7e897db11191f14ffcb6236a9a8ff81e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512833,
+        "empire_id": 136253041,
+        "locality_id": 1293359889,
+        "region_id": 85669717,
+        "localadmin_id": 1127450422
+      }
     ],
-    "wof:id":1293359889,
-    "wof:lastmodified":1566669227,
-    "wof:name":"Ximenling",
-    "wof:parent_id":890512833,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293359889,
+    "wof:lastmodified": 1768665955,
+    "wof:name": "Ximenling",
+    "wof:parent_id": 1127450422,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     110.635,
     23.5874,
     110.635,
     23.5874
-],
-  "geometry": {"coordinates":[110.63500000000001,23.5874],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      110.635,
+      23.5874
+    ],
+    "type": "Point"
+  }
 }

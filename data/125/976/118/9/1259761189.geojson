@@ -2,82 +2,90 @@
   "id": 1259761189,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.77979,26.68133,113.77979,26.68133",
-    "geom:latitude":26.68133,
-    "geom:longitude":113.77979,
-    "gn:admin1_code":"11.0",
-    "gn:asciiname":"Huaixiping",
-    "gn:country_code":"CN",
-    "gn:dem":216,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8202202,
-    "gn:latitude":26.68133,
-    "gn:longitude":113.77979,
-    "gn:modification_date":"2015-06-08",
-    "gn:name":"Huaixiping",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.75979,26.66133,113.79979,26.70133",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Zhunxiping"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.77979,26.68133,113.77979,26.68133",
+    "geom:latitude": 26.68133,
+    "geom:longitude": 113.77979,
+    "gn:admin1_code": "11.0",
+    "gn:asciiname": "Huaixiping",
+    "gn:country_code": "CN",
+    "gn:dem": 216,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8202202,
+    "gn:latitude": 26.68133,
+    "gn:longitude": 113.77979,
+    "gn:modification_date": "2015-06-08",
+    "gn:name": "Huaixiping",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.75979,26.66133,113.79979,26.70133",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Zhunxiping"
     ],
-    "name:zho_x_preferred":[
-        "\u69d0\u6eaa\u576a"
+    "name:zho_x_preferred": [
+      "槐溪坪"
     ],
-    "name:zho_x_variant":[
-        "\u51c6\u897f\u576a",
-        "\u6dee\u897f\u576a"
+    "name:zho_x_variant": [
+      "准西坪",
+      "淮西坪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669781,
-        102191569,
-        85632695,
-        136253041,
-        890514759
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669781,
+      102191569,
+      136253041,
+      890514759,
+      1127430224
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8202202
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8202202
     },
-    "wof:country":"CN",
-    "wof:geomhash":"890c92f28292c8a237d3e35ea0705c6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514759,
-            "empire_id":136253041,
-            "locality_id":1259761189,
-            "region_id":85669781
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "890c92f28292c8a237d3e35ea0705c6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514759,
+        "empire_id": 136253041,
+        "locality_id": 1259761189,
+        "region_id": 85669781,
+        "localadmin_id": 1127430224
+      }
     ],
-    "wof:id":1259761189,
-    "wof:lastmodified":1566699269,
-    "wof:name":"Huaixiping",
-    "wof:parent_id":890514759,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259761189,
+    "wof:lastmodified": 1768670455,
+    "wof:name": "Huaixiping",
+    "wof:parent_id": 1127430224,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.77979,
     26.68133,
     113.77979,
     26.68133
-],
-  "geometry": {"coordinates":[113.77979000000001,26.68133],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.77979,
+      26.68133
+    ],
+    "type": "Point"
+  }
 }

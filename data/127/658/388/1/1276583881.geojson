@@ -2,75 +2,83 @@
   "id": 1276583881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"123.0875,45.76603,123.0875,45.76603",
-    "geom:latitude":45.76603,
-    "geom:longitude":123.0875,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Zhennanzhancun",
-    "gn:country_code":"CN",
-    "gn:dem":145,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10874298,
-    "gn:latitude":45.76603,
-    "gn:longitude":123.0875,
-    "gn:modification_date":"2015-11-10",
-    "gn:name":"Zhennanzhancun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"123.0675,45.74603,123.1075,45.78603",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9547\u5357\u7ad9\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "123.0875,45.76603,123.0875,45.76603",
+    "geom:latitude": 45.76603,
+    "geom:longitude": 123.0875,
+    "gn:admin1_code": "5.0",
+    "gn:asciiname": "Zhennanzhancun",
+    "gn:country_code": "CN",
+    "gn:dem": 145,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10874298,
+    "gn:latitude": 45.76603,
+    "gn:longitude": 123.0875,
+    "gn:modification_date": "2015-11-10",
+    "gn:name": "Zhennanzhancun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "123.0675,45.74603,123.1075,45.78603",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "镇南站村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669843,
-        102191569,
-        85632695,
-        136253041,
-        890512869
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669843,
+      102191569,
+      136253041,
+      890512869,
+      1127220802
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10874298
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10874298
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e147fdcc794500c75d4a256d73427db4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890512869,
-            "empire_id":136253041,
-            "locality_id":1276583881,
-            "region_id":85669843
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e147fdcc794500c75d4a256d73427db4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890512869,
+        "empire_id": 136253041,
+        "locality_id": 1276583881,
+        "region_id": 85669843,
+        "localadmin_id": 1127220802
+      }
     ],
-    "wof:id":1276583881,
-    "wof:lastmodified":1566674478,
-    "wof:name":"Zhennanzhancun",
-    "wof:parent_id":890512869,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276583881,
+    "wof:lastmodified": 1768670803,
+    "wof:name": "Zhennanzhancun",
+    "wof:parent_id": 1127220802,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     123.0875,
     45.76603,
     123.0875,
     45.76603
-],
-  "geometry": {"coordinates":[123.08750000000001,45.76603],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      123.0875,
+      45.76603
+    ],
+    "type": "Point"
+  }
 }

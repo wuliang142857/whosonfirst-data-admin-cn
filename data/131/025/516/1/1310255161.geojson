@@ -2,75 +2,83 @@
   "id": 1310255161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.17919,27.8724,105.17919,27.8724",
-    "geom:latitude":27.8724,
-    "geom:longitude":105.17919,
-    "gn:admin1_code":"29.0",
-    "gn:asciiname":"Banhe",
-    "gn:country_code":"CN",
-    "gn:dem":1400,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9006604,
-    "gn:latitude":27.8724,
-    "gn:longitude":105.17919,
-    "gn:modification_date":"2014-05-02",
-    "gn:name":"Banhe",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.15919,27.8524,105.19919,27.8924",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u534a\u6cb3"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.17919,27.8724,105.17919,27.8724",
+    "geom:latitude": 27.8724,
+    "geom:longitude": 105.17919,
+    "gn:admin1_code": "29.0",
+    "gn:asciiname": "Banhe",
+    "gn:country_code": "CN",
+    "gn:dem": 1400,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9006604,
+    "gn:latitude": 27.8724,
+    "gn:longitude": 105.17919,
+    "gn:modification_date": "2014-05-02",
+    "gn:name": "Banhe",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.15919,27.8524,105.19919,27.8924",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "半河"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669791,
-        102191569,
-        85632695,
-        136253041,
-        890514257
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669791,
+      102191569,
+      136253041,
+      890514257,
+      1127530629
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9006604
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9006604
     },
-    "wof:country":"CN",
-    "wof:geomhash":"006da0538ee2fb3b880e84942a3817b1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514257,
-            "empire_id":136253041,
-            "locality_id":1310255161,
-            "region_id":85669791
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "006da0538ee2fb3b880e84942a3817b1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514257,
+        "empire_id": 136253041,
+        "locality_id": 1310255161,
+        "region_id": 85669791,
+        "localadmin_id": 1127530629
+      }
     ],
-    "wof:id":1310255161,
-    "wof:lastmodified":1566688432,
-    "wof:name":"Banhe",
-    "wof:parent_id":890514257,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310255161,
+    "wof:lastmodified": 1768668496,
+    "wof:name": "Banhe",
+    "wof:parent_id": 1127530629,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.17919,
     27.8724,
     105.17919,
     27.8724
-],
-  "geometry": {"coordinates":[105.17919000000001,27.8724],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.17919,
+      27.8724
+    ],
+    "type": "Point"
+  }
 }

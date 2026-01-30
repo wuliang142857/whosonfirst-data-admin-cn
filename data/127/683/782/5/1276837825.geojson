@@ -2,80 +2,88 @@
   "id": 1276837825,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"113.25629,39.81493,113.25629,39.81493",
-    "geom:latitude":39.81493,
-    "geom:longitude":113.25629,
-    "gn:admin1_code":"24.0",
-    "gn:asciiname":"Xi'anbu",
-    "gn:country_code":"CN",
-    "gn:dem":996,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1789252,
-    "gn:latitude":39.81493,
-    "gn:longitude":113.25629,
-    "gn:modification_date":"2017-02-04",
-    "gn:name":"Xi\u2019anbu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"113.23629,39.79493,113.27629,39.83493",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Hsi-nan-pao",
-        "Xinanbu",
-        "Xi\u2019anbu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "113.25629,39.81493,113.25629,39.81493",
+    "geom:latitude": 39.81493,
+    "geom:longitude": 113.25629,
+    "gn:admin1_code": "24.0",
+    "gn:asciiname": "Xi'anbu",
+    "gn:country_code": "CN",
+    "gn:dem": 996,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1789252,
+    "gn:latitude": 39.81493,
+    "gn:longitude": 113.25629,
+    "gn:modification_date": "2017-02-04",
+    "gn:name": "Xi’anbu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "113.23629,39.79493,113.27629,39.83493",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "Hsi-nan-pao",
+      "Xinanbu",
+      "Xi’anbu"
     ],
-    "name:zho_x_preferred":[
-        "\u897f\u5b89\u5821"
+    "name:zho_x_preferred": [
+      "西安堡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669773,
-        102191569,
-        85632695,
-        136253041,
-        890513491
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669773,
+      102191569,
+      136253041,
+      890513491,
+      1127140681
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1789252
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1789252
     },
-    "wof:country":"CN",
-    "wof:geomhash":"faec141087f23e61be34e597d459216b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513491,
-            "empire_id":136253041,
-            "locality_id":1276837825,
-            "region_id":85669773
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "faec141087f23e61be34e597d459216b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513491,
+        "empire_id": 136253041,
+        "locality_id": 1276837825,
+        "region_id": 85669773,
+        "localadmin_id": 1127140681
+      }
     ],
-    "wof:id":1276837825,
-    "wof:lastmodified":1566677084,
-    "wof:name":"Xi'anbu",
-    "wof:parent_id":890513491,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276837825,
+    "wof:lastmodified": 1768666425,
+    "wof:name": "Xi'anbu",
+    "wof:parent_id": 1127140681,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     113.25629,
     39.81493,
     113.25629,
     39.81493
-],
-  "geometry": {"coordinates":[113.25629000000001,39.81493],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      113.25629,
+      39.81493
+    ],
+    "type": "Point"
+  }
 }

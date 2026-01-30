@@ -2,75 +2,83 @@
   "id": 1310050983,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.505,29.2569,105.505,29.2569",
-    "geom:latitude":29.2569,
-    "geom:longitude":105.505,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Shanfeng",
-    "gn:country_code":"CN",
-    "gn:dem":382,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10185966,
-    "gn:latitude":29.2569,
-    "gn:longitude":105.505,
-    "gn:modification_date":"2015-04-10",
-    "gn:name":"Shanfeng",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.485,29.2369,105.525,29.2769",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5c71\u5cf0"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.505,29.2569,105.505,29.2569",
+    "geom:latitude": 29.2569,
+    "geom:longitude": 105.505,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Shanfeng",
+    "gn:country_code": "CN",
+    "gn:dem": 382,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10185966,
+    "gn:latitude": 29.2569,
+    "gn:longitude": 105.505,
+    "gn:modification_date": "2015-04-10",
+    "gn:name": "Shanfeng",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.485,29.2369,105.525,29.2769",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "山峰"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514155
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514155,
+      1127510521
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10185966
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10185966
     },
-    "wof:country":"CN",
-    "wof:geomhash":"f0155427042326581a7777fdc86fcdcf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514155,
-            "empire_id":136253041,
-            "locality_id":1310050983,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "f0155427042326581a7777fdc86fcdcf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514155,
+        "empire_id": 136253041,
+        "locality_id": 1310050983,
+        "region_id": 85669787,
+        "localadmin_id": 1127510521
+      }
     ],
-    "wof:id":1310050983,
-    "wof:lastmodified":1566690718,
-    "wof:name":"Shanfeng",
-    "wof:parent_id":890514155,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310050983,
+    "wof:lastmodified": 1768668748,
+    "wof:name": "Shanfeng",
+    "wof:parent_id": 1127510521,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.505,
     29.2569,
     105.505,
     29.2569
-],
-  "geometry": {"coordinates":[105.505,29.2569],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.505,
+      29.2569
+    ],
+    "type": "Point"
+  }
 }

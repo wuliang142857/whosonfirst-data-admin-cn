@@ -2,75 +2,83 @@
   "id": 1276433741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"100.3542,35.70203,100.3542,35.70203",
-    "geom:latitude":35.70203,
-    "geom:longitude":100.3542,
-    "gn:admin1_code":"6.0",
-    "gn:asciiname":"Sanzhan",
-    "gn:country_code":"CN",
-    "gn:dem":3194,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7384111,
-    "gn:latitude":35.70203,
-    "gn:longitude":100.3542,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Sanzhan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"100.3342,35.68203,100.3742,35.72203",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e09\u7ad9"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "100.3542,35.70203,100.3542,35.70203",
+    "geom:latitude": 35.70203,
+    "geom:longitude": 100.3542,
+    "gn:admin1_code": "6.0",
+    "gn:asciiname": "Sanzhan",
+    "gn:country_code": "CN",
+    "gn:dem": 3194,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7384111,
+    "gn:latitude": 35.70203,
+    "gn:longitude": 100.3542,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Sanzhan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "100.3342,35.68203,100.3742,35.72203",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "三站"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669715,
-        102191569,
-        85632695,
-        136253041,
-        890515871
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669715,
+      102191569,
+      136253041,
+      890515871,
+      1127632525
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7384111
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7384111
     },
-    "wof:country":"CN",
-    "wof:geomhash":"34940469ef6f3445cb38871ffc151950",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515871,
-            "empire_id":136253041,
-            "locality_id":1276433741,
-            "region_id":85669715
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "34940469ef6f3445cb38871ffc151950",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515871,
+        "empire_id": 136253041,
+        "locality_id": 1276433741,
+        "region_id": 85669715,
+        "localadmin_id": 1127632525
+      }
     ],
-    "wof:id":1276433741,
-    "wof:lastmodified":1566672769,
-    "wof:name":"Sanzhan",
-    "wof:parent_id":890515871,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1276433741,
+    "wof:lastmodified": 1768669339,
+    "wof:name": "Sanzhan",
+    "wof:parent_id": 1127632525,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     100.3542,
     35.70203,
     100.3542,
     35.70203
-],
-  "geometry": {"coordinates":[100.35420000000001,35.70203],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      100.3542,
+      35.70203
+    ],
+    "type": "Point"
+  }
 }

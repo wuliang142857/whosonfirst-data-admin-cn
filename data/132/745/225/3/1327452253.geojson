@@ -2,78 +2,86 @@
   "id": 1327452253,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.391,34.2497,115.391,34.2497",
-    "geom:latitude":34.2497,
-    "geom:longitude":115.391,
-    "gn:admin1_code":"9",
-    "gn:asciiname":"Zhuwu",
-    "gn:country_code":"CN",
-    "gn:dem":55,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9131242,
-    "gn:latitude":34.2497,
-    "gn:longitude":115.391,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Zhuwu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.371,34.2297,115.411,34.2697",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u6731\u5434"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.391,34.2497,115.391,34.2497",
+    "geom:latitude": 34.2497,
+    "geom:longitude": 115.391,
+    "gn:admin1_code": "9",
+    "gn:asciiname": "Zhuwu",
+    "gn:country_code": "CN",
+    "gn:dem": 55,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9131242,
+    "gn:latitude": 34.2497,
+    "gn:longitude": 115.391,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Zhuwu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.371,34.2297,115.411,34.2697",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "朱吴"
     ],
-    "name:zho_x_variant":[
-        "\u6731\u5434\u9547"
+    "name:zho_x_variant": [
+      "朱吴镇"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669801,
-        102191569,
-        85632695,
-        136253041,
-        890514845
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669801,
+      102191569,
+      136253041,
+      890514845,
+      1127411403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9131242
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9131242
     },
-    "wof:country":"CN",
-    "wof:geomhash":"b8a32939a88e2f3e5efea35f78d86243",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514845,
-            "empire_id":136253041,
-            "locality_id":1327452253,
-            "region_id":85669801
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "b8a32939a88e2f3e5efea35f78d86243",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514845,
+        "empire_id": 136253041,
+        "locality_id": 1327452253,
+        "region_id": 85669801,
+        "localadmin_id": 1127411403
+      }
     ],
-    "wof:id":1327452253,
-    "wof:lastmodified":1566654893,
-    "wof:name":"Zhuwu",
-    "wof:parent_id":890514845,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327452253,
+    "wof:lastmodified": 1768669080,
+    "wof:name": "Zhuwu",
+    "wof:parent_id": 1127411403,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.391,
     34.2497,
     115.391,
     34.2497
-],
-  "geometry": {"coordinates":[115.39100000000001,34.2497],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.391,
+      34.2497
+    ],
+    "type": "Point"
+  }
 }

@@ -2,75 +2,83 @@
   "id": 1293080919,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"111.78563,32.33656,111.78563,32.33656",
-    "geom:latitude":32.33656,
-    "geom:longitude":111.78563,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Gaowan",
-    "gn:country_code":"CN",
-    "gn:dem":143,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8511428,
-    "gn:latitude":32.33656,
-    "gn:longitude":111.78563,
-    "gn:modification_date":"2013-04-06",
-    "gn:name":"Gaowan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"111.76563,32.31656,111.80563,32.35656",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9ad8\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "111.78563,32.33656,111.78563,32.33656",
+    "geom:latitude": 32.33656,
+    "geom:longitude": 111.78563,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Gaowan",
+    "gn:country_code": "CN",
+    "gn:dem": 143,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8511428,
+    "gn:latitude": 32.33656,
+    "gn:longitude": 111.78563,
+    "gn:modification_date": "2013-04-06",
+    "gn:name": "Gaowan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "111.76563,32.31656,111.80563,32.35656",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "高湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732497
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      1108732497,
+      1127420682
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8511428
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8511428
     },
-    "wof:country":"CN",
-    "wof:geomhash":"de1216aaf835a8b49202efc4a028ccd0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732497,
-            "empire_id":136253041,
-            "locality_id":1293080919,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "de1216aaf835a8b49202efc4a028ccd0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732497,
+        "empire_id": 136253041,
+        "locality_id": 1293080919,
+        "region_id": 85669777,
+        "localadmin_id": 1127420682
+      }
     ],
-    "wof:id":1293080919,
-    "wof:lastmodified":1566666232,
-    "wof:name":"Gaowan",
-    "wof:parent_id":1108732497,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293080919,
+    "wof:lastmodified": 1768665620,
+    "wof:name": "Gaowan",
+    "wof:parent_id": 1127420682,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     111.78563,
     32.33656,
     111.78563,
     32.33656
-],
-  "geometry": {"coordinates":[111.78563,32.33656],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      111.78563,
+      32.33656
+    ],
+    "type": "Point"
+  }
 }

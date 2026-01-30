@@ -2,75 +2,83 @@
   "id": 1243193419,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.38321,25.05948,118.38321,25.05948",
-    "geom:latitude":25.05948,
-    "geom:longitude":118.38321,
-    "gn:admin1_code":"7.0",
-    "gn:asciiname":"Xinting",
-    "gn:country_code":"CN",
-    "gn:dem":66,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8573825,
-    "gn:latitude":25.05948,
-    "gn:longitude":118.38321,
-    "gn:modification_date":"2013-07-08",
-    "gn:name":"Xinting",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.36321,25.03948,118.40321,25.07948",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u65b0\u5385"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.38321,25.05948,118.38321,25.05948",
+    "geom:latitude": 25.05948,
+    "geom:longitude": 118.38321,
+    "gn:admin1_code": "7.0",
+    "gn:asciiname": "Xinting",
+    "gn:country_code": "CN",
+    "gn:dem": 66,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8573825,
+    "gn:latitude": 25.05948,
+    "gn:longitude": 118.38321,
+    "gn:modification_date": "2013-07-08",
+    "gn:name": "Xinting",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.36321,25.03948,118.40321,25.07948",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "新厅"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669735,
-        102191569,
-        85632695,
-        136253041,
-        890514127
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669735,
+      102191569,
+      136253041,
+      890512829,
+      890514127
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8573825
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8573825
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5483e9836dac8853e06f0dbc83258170",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514127,
-            "empire_id":136253041,
-            "locality_id":1243193419,
-            "region_id":85669735
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5483e9836dac8853e06f0dbc83258170",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514127,
+        "empire_id": 136253041,
+        "locality_id": 1243193419,
+        "region_id": 85669735,
+        "localadmin_id": 890512829
+      }
     ],
-    "wof:id":1243193419,
-    "wof:lastmodified":1566697644,
-    "wof:name":"Xinting",
-    "wof:parent_id":890514127,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243193419,
+    "wof:lastmodified": 1768669194,
+    "wof:name": "Xinting",
+    "wof:parent_id": 890512829,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.38321,
     25.05948,
     118.38321,
     25.05948
-],
-  "geometry": {"coordinates":[118.38321000000001,25.05948],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.38321,
+      25.05948
+    ],
+    "type": "Point"
+  }
 }

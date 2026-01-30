@@ -2,78 +2,86 @@
   "id": 1293654633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.53758,39.51846,121.53758,39.51846",
-    "geom:latitude":39.51846,
-    "geom:longitude":121.53758,
-    "gn:admin1_code":"19.0",
-    "gn:asciiname":"Lugou",
-    "gn:country_code":"CN",
-    "gn:dem":12,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7396549,
-    "gn:latitude":39.51846,
-    "gn:longitude":121.53758,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"L\u00fcgou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.51758,39.49846,121.55758,39.53846",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "L\u00fcgou"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.53758,39.51846,121.53758,39.51846",
+    "geom:latitude": 39.51846,
+    "geom:longitude": 121.53758,
+    "gn:admin1_code": "19.0",
+    "gn:asciiname": "Lugou",
+    "gn:country_code": "CN",
+    "gn:dem": 12,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7396549,
+    "gn:latitude": 39.51846,
+    "gn:longitude": 121.53758,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Lügou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.51758,39.49846,121.55758,39.53846",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Lügou"
     ],
-    "name:zho_x_variant":[
-        "\u5415\u6c9f"
+    "name:zho_x_variant": [
+      "吕沟"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669807,
-        102191569,
-        85632695,
-        136253041,
-        890515891
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669807,
+      102191569,
+      136253041,
+      890515065,
+      890515891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7396549
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7396549
     },
-    "wof:country":"CN",
-    "wof:geomhash":"caac5a8709e8f8ac34ac84f3967b9566",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515891,
-            "empire_id":136253041,
-            "locality_id":1293654633,
-            "region_id":85669807
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "caac5a8709e8f8ac34ac84f3967b9566",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515891,
+        "empire_id": 136253041,
+        "locality_id": 1293654633,
+        "region_id": 85669807,
+        "localadmin_id": 890515065
+      }
     ],
-    "wof:id":1293654633,
-    "wof:lastmodified":1566665716,
-    "wof:name":"Lugou",
-    "wof:parent_id":890515891,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293654633,
+    "wof:lastmodified": 1768665992,
+    "wof:name": "Lugou",
+    "wof:parent_id": 890515065,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.53758,
     39.51846,
     121.53758,
     39.51846
-],
-  "geometry": {"coordinates":[121.53758000000001,39.51846],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.53758,
+      39.51846
+    ],
+    "type": "Point"
+  }
 }

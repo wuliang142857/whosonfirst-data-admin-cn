@@ -2,78 +2,86 @@
   "id": 1293939575,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.61219,31.3418,121.61219,31.3418",
-    "geom:latitude":31.3418,
-    "geom:longitude":121.61219,
-    "gn:admin1_code":"23.0",
-    "gn:asciiname":"Zhuyuanzhai",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7843193,
-    "gn:latitude":31.3418,
-    "gn:longitude":121.61219,
-    "gn:modification_date":"2012-01-21",
-    "gn:name":"Zhuyuanzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.59219,31.3218,121.63219,31.3618",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "Zhuyuanzhai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.61219,31.3418,121.61219,31.3418",
+    "geom:latitude": 31.3418,
+    "geom:longitude": 121.61219,
+    "gn:admin1_code": "23.0",
+    "gn:asciiname": "Zhuyuanzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7843193,
+    "gn:latitude": 31.3418,
+    "gn:longitude": 121.61219,
+    "gn:modification_date": "2012-01-21",
+    "gn:name": "Zhuyuanzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.59219,31.3218,121.63219,31.3618",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "Zhuyuanzhai"
     ],
-    "name:zho_x_variant":[
-        "\u7af9\u56ed\u5b85"
+    "name:zho_x_variant": [
+      "竹园宅"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514195,
+      890514815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7843193
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7843193
     },
-    "wof:country":"CN",
-    "wof:geomhash":"c5d7f4ac44e3e90082b433a8ffd59a27",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1293939575,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "c5d7f4ac44e3e90082b433a8ffd59a27",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1293939575,
+        "region_id": 85669831,
+        "localadmin_id": 890514195
+      }
     ],
-    "wof:id":1293939575,
-    "wof:lastmodified":1566669572,
-    "wof:name":"Zhuyuanzhai",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293939575,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Zhuyuanzhai",
+    "wof:parent_id": 890514195,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.61218999999998,
     31.3418,
     121.61218999999998,
     31.3418
-],
-  "geometry": {"coordinates":[121.61218999999998,31.3418],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.61218999999998,
+      31.3418
+    ],
+    "type": "Point"
+  }
 }

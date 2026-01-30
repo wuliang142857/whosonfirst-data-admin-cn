@@ -2,75 +2,83 @@
   "id": 1260052067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"106.935,23.0412,106.935,23.0412",
-    "geom:latitude":23.0412,
-    "geom:longitude":106.935,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Zhuxiang",
-    "gn:country_code":"CN",
-    "gn:dem":638,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9904580,
-    "gn:latitude":23.0412,
-    "gn:longitude":106.935,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Zhuxiang",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"106.915,23.0212,106.955,23.0612",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u9010\u5411"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "106.935,23.0412,106.935,23.0412",
+    "geom:latitude": 23.0412,
+    "geom:longitude": 106.935,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Zhuxiang",
+    "gn:country_code": "CN",
+    "gn:dem": 638,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9904580,
+    "gn:latitude": 23.0412,
+    "gn:longitude": 106.935,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Zhuxiang",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "106.915,23.0212,106.955,23.0612",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "逐向"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890513103
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513103,
+      1127451425
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9904580
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9904580
     },
-    "wof:country":"CN",
-    "wof:geomhash":"d73fdadf626afe5bb30621136b9d3162",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513103,
-            "empire_id":136253041,
-            "locality_id":1260052067,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "d73fdadf626afe5bb30621136b9d3162",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513103,
+        "empire_id": 136253041,
+        "locality_id": 1260052067,
+        "region_id": 85669717,
+        "localadmin_id": 1127451425
+      }
     ],
-    "wof:id":1260052067,
-    "wof:lastmodified":1566687912,
-    "wof:name":"Zhuxiang",
-    "wof:parent_id":890513103,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1260052067,
+    "wof:lastmodified": 1768665573,
+    "wof:name": "Zhuxiang",
+    "wof:parent_id": 1127451425,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     106.935,
     23.0412,
     106.935,
     23.0412
-],
-  "geometry": {"coordinates":[106.935,23.0412],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      106.935,
+      23.0412
+    ],
+    "type": "Point"
+  }
 }

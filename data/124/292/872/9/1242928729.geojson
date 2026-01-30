@@ -2,75 +2,83 @@
   "id": 1242928729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"118.304,35.9405,118.304,35.9405",
-    "geom:latitude":35.9405,
-    "geom:longitude":118.304,
-    "gn:admin1_code":"25",
-    "gn:asciiname":"Zhaogaoyu",
-    "gn:country_code":"CN",
-    "gn:dem":317,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9121187,
-    "gn:latitude":35.9405,
-    "gn:longitude":118.304,
-    "gn:modification_date":"2014-06-07",
-    "gn:name":"Zhaogaoyu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"118.284,35.9205,118.324,35.9605",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u8d75\u9ad8\u5cea"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "118.304,35.9405,118.304,35.9405",
+    "geom:latitude": 35.9405,
+    "geom:longitude": 118.304,
+    "gn:admin1_code": "25",
+    "gn:asciiname": "Zhaogaoyu",
+    "gn:country_code": "CN",
+    "gn:dem": 317,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9121187,
+    "gn:latitude": 35.9405,
+    "gn:longitude": 118.304,
+    "gn:modification_date": "2014-06-07",
+    "gn:name": "Zhaogaoyu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "118.284,35.9205,118.324,35.9605",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "赵高峪"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669813,
-        102191569,
-        85632695,
-        136253041,
-        1108732339
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669813,
+      102191569,
+      136253041,
+      890514267,
+      1108732339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9121187
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9121187
     },
-    "wof:country":"CN",
-    "wof:geomhash":"191b3260c53d1cd7a214bd852efa79fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732339,
-            "empire_id":136253041,
-            "locality_id":1242928729,
-            "region_id":85669813
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "191b3260c53d1cd7a214bd852efa79fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732339,
+        "empire_id": 136253041,
+        "locality_id": 1242928729,
+        "region_id": 85669813,
+        "localadmin_id": 890514267
+      }
     ],
-    "wof:id":1242928729,
-    "wof:lastmodified":1566694803,
-    "wof:name":"Zhaogaoyu",
-    "wof:parent_id":1108732339,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242928729,
+    "wof:lastmodified": 1768668426,
+    "wof:name": "Zhaogaoyu",
+    "wof:parent_id": 890514267,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     118.304,
     35.9405,
     118.304,
     35.9405
-],
-  "geometry": {"coordinates":[118.304,35.9405],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      118.304,
+      35.9405
+    ],
+    "type": "Point"
+  }
 }

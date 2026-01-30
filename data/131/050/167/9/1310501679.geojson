@@ -2,84 +2,92 @@
   "id": 1310501679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.50593,31.70595,119.50593,31.70595",
-    "geom:latitude":31.70595,
-    "geom:longitude":119.50593,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Yangqiao",
-    "gn:country_code":"CN",
-    "gn:dem":3,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8394803,
-    "gn:latitude":31.70595,
-    "gn:longitude":119.50593,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Yangqiao",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.48593,31.68595,119.52593,31.72595",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Yangqiao"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.50593,31.70595,119.50593,31.70595",
+    "geom:latitude": 31.70595,
+    "geom:longitude": 119.50593,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Yangqiao",
+    "gn:country_code": "CN",
+    "gn:dem": 3,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8394803,
+    "gn:latitude": 31.70595,
+    "gn:longitude": 119.50593,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Yangqiao",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.48593,31.68595,119.52593,31.72595",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Yangqiao"
     ],
-    "name:deu_x_preferred":[
-        "Yangqiao"
+    "name:deu_x_preferred": [
+      "Yangqiao"
     ],
-    "name:swe_x_preferred":[
-        "Yangqiao"
+    "name:swe_x_preferred": [
+      "Yangqiao"
     ],
-    "name:zho_x_preferred":[
-        "\u6768\u6865"
+    "name:zho_x_preferred": [
+      "杨桥"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890514735
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890513141,
+      890514735
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8394803
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8394803
     },
-    "wof:country":"CN",
-    "wof:geomhash":"9c17140bd0d905cb196dac14809aadf0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514735,
-            "empire_id":136253041,
-            "locality_id":1310501679,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "9c17140bd0d905cb196dac14809aadf0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514735,
+        "empire_id": 136253041,
+        "locality_id": 1310501679,
+        "region_id": 85669827,
+        "localadmin_id": 890513141
+      }
     ],
-    "wof:id":1310501679,
-    "wof:lastmodified":1566690522,
-    "wof:name":"Yangqiao",
-    "wof:parent_id":890514735,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310501679,
+    "wof:lastmodified": 1768671038,
+    "wof:name": "Yangqiao",
+    "wof:parent_id": 890513141,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.50593,
     31.70595,
     119.50593,
     31.70595
-],
-  "geometry": {"coordinates":[119.50593000000001,31.70595],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.50593,
+      31.70595
+    ],
+    "type": "Point"
+  }
 }

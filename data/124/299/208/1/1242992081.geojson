@@ -2,81 +2,89 @@
   "id": 1242992081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"124.79725,47.8933,124.79725,47.8933",
-    "geom:latitude":47.8933,
-    "geom:longitude":124.79725,
-    "gn:admin1_code":"8.0",
-    "gn:asciiname":"Fumin",
-    "gn:country_code":"CN",
-    "gn:dem":188,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8470382,
-    "gn:latitude":47.8933,
-    "gn:longitude":124.79725,
-    "gn:modification_date":"2013-03-06",
-    "gn:name":"Fumin",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"124.77725,47.8733,124.81725,47.9133",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Fumin"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "124.79725,47.8933,124.79725,47.8933",
+    "geom:latitude": 47.8933,
+    "geom:longitude": 124.79725,
+    "gn:admin1_code": "8.0",
+    "gn:asciiname": "Fumin",
+    "gn:country_code": "CN",
+    "gn:dem": 188,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8470382,
+    "gn:latitude": 47.8933,
+    "gn:longitude": 124.79725,
+    "gn:modification_date": "2013-03-06",
+    "gn:name": "Fumin",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "124.77725,47.8733,124.81725,47.9133",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Fumin"
     ],
-    "name:fra_x_preferred":[
-        "Fumin"
+    "name:fra_x_preferred": [
+      "Fumin"
     ],
-    "name:zho_x_preferred":[
-        "\u5bcc\u6c11"
+    "name:zho_x_preferred": [
+      "富民"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669849,
-        102191569,
-        85632695,
-        136253041,
-        890516483
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669849,
+      102191569,
+      136253041,
+      890512583,
+      890516483
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8470382
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8470382
     },
-    "wof:country":"CN",
-    "wof:geomhash":"e46a3ab1f5046cab018e2e1b85066daa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516483,
-            "empire_id":136253041,
-            "locality_id":1242992081,
-            "region_id":85669849
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "e46a3ab1f5046cab018e2e1b85066daa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516483,
+        "empire_id": 136253041,
+        "locality_id": 1242992081,
+        "region_id": 85669849,
+        "localadmin_id": 890512583
+      }
     ],
-    "wof:id":1242992081,
-    "wof:lastmodified":1566697281,
-    "wof:name":"Fumin",
-    "wof:parent_id":890516483,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1242992081,
+    "wof:lastmodified": 1768669391,
+    "wof:name": "Fumin",
+    "wof:parent_id": 890512583,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     124.79725,
     47.8933,
     124.79725,
     47.8933
-],
-  "geometry": {"coordinates":[124.79725000000001,47.8933],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      124.79725,
+      47.8933
+    ],
+    "type": "Point"
+  }
 }

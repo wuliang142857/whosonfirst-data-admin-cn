@@ -2,80 +2,88 @@
   "id": 1343814311,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"121.55726,30.98546,121.55726,30.98546",
-    "geom:latitude":30.98546,
-    "geom:longitude":121.55726,
-    "gn:admin1_code":"23",
-    "gn:asciiname":"Tairi",
-    "gn:country_code":"CN",
-    "gn:dem":8,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":1793554,
-    "gn:latitude":30.98546,
-    "gn:longitude":121.55726,
-    "gn:modification_date":"2012-01-18",
-    "gn:name":"Tairi",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"121.53726,30.96546,121.57726,31.00546",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "T\u2019ia-jih-ch\u2019iao",
-        "T\u2019ai-jih",
-        "Tairiqiao",
-        "T\u2019ai-jih-ch\u2019iao",
-        "Tairi",
-        "\u6cf0\u65e5"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "121.55726,30.98546,121.55726,30.98546",
+    "geom:latitude": 30.98546,
+    "geom:longitude": 121.55726,
+    "gn:admin1_code": "23",
+    "gn:asciiname": "Tairi",
+    "gn:country_code": "CN",
+    "gn:dem": 8,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 1793554,
+    "gn:latitude": 30.98546,
+    "gn:longitude": 121.55726,
+    "gn:modification_date": "2012-01-18",
+    "gn:name": "Tairi",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "121.53726,30.96546,121.57726,31.00546",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "T’ia-jih-ch’iao",
+      "T’ai-jih",
+      "Tairiqiao",
+      "T’ai-jih-ch’iao",
+      "Tairi",
+      "泰日"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669831,
-        102191569,
-        85632695,
-        136253041,
-        890514815
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669831,
+      102191569,
+      136253041,
+      890514815,
+      890517095
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1793554
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1793554
     },
-    "wof:country":"CN",
-    "wof:geomhash":"29a5eb5edc0cf5c67f449c7b69a343f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514815,
-            "empire_id":136253041,
-            "locality_id":1343814311,
-            "region_id":85669831
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "29a5eb5edc0cf5c67f449c7b69a343f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514815,
+        "empire_id": 136253041,
+        "locality_id": 1343814311,
+        "region_id": 85669831,
+        "localadmin_id": 890517095
+      }
     ],
-    "wof:id":1343814311,
-    "wof:lastmodified":1566664412,
-    "wof:name":"Tairi",
-    "wof:parent_id":890514815,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1343814311,
+    "wof:lastmodified": 1768667465,
+    "wof:name": "Tairi",
+    "wof:parent_id": 890517095,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     121.55726,
     30.98546,
     121.55726,
     30.98546
-],
-  "geometry": {"coordinates":[121.55726,30.98546],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      121.55726,
+      30.98546
+    ],
+    "type": "Point"
+  }
 }

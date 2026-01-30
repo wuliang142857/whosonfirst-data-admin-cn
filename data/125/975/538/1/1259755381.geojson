@@ -2,75 +2,83 @@
   "id": 1259755381,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"107.827,22.8678,107.827,22.8678",
-    "geom:latitude":22.8678,
-    "geom:longitude":107.827,
-    "gn:admin1_code":"16.0",
-    "gn:asciiname":"Fengpo",
-    "gn:country_code":"CN",
-    "gn:dem":124,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":9906178,
-    "gn:latitude":22.8678,
-    "gn:longitude":107.827,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Fengpo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"107.807,22.8478,107.847,22.8878",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u4e30\u5761"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "107.827,22.8678,107.827,22.8678",
+    "geom:latitude": 22.8678,
+    "geom:longitude": 107.827,
+    "gn:admin1_code": "16.0",
+    "gn:asciiname": "Fengpo",
+    "gn:country_code": "CN",
+    "gn:dem": 124,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 9906178,
+    "gn:latitude": 22.8678,
+    "gn:longitude": 107.827,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Fengpo",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "107.807,22.8478,107.847,22.8878",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "丰坡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669717,
-        102191569,
-        85632695,
-        136253041,
-        890513103
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669717,
+      102191569,
+      136253041,
+      890513103,
+      1127451421
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":9906178
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 9906178
     },
-    "wof:country":"CN",
-    "wof:geomhash":"397bb30bed80ba2ec38ff7849f0d34ba",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513103,
-            "empire_id":136253041,
-            "locality_id":1259755381,
-            "region_id":85669717
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "397bb30bed80ba2ec38ff7849f0d34ba",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513103,
+        "empire_id": 136253041,
+        "locality_id": 1259755381,
+        "region_id": 85669717,
+        "localadmin_id": 1127451421
+      }
     ],
-    "wof:id":1259755381,
-    "wof:lastmodified":1566700591,
-    "wof:name":"Fengpo",
-    "wof:parent_id":890513103,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1259755381,
+    "wof:lastmodified": 1768665574,
+    "wof:name": "Fengpo",
+    "wof:parent_id": 1127451421,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     107.827,
     22.8678,
     107.827,
     22.8678
-],
-  "geometry": {"coordinates":[107.827,22.8678],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      107.827,
+      22.8678
+    ],
+    "type": "Point"
+  }
 }

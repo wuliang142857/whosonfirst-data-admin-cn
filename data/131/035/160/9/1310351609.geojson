@@ -2,84 +2,92 @@
   "id": 1310351609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"115.57312,22.89058,115.57312,22.89058",
-    "geom:latitude":22.89058,
-    "geom:longitude":115.57312,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Banpu",
-    "gn:country_code":"CN",
-    "gn:dem":6,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7012900,
-    "gn:latitude":22.89058,
-    "gn:longitude":115.57312,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Banpu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"115.55312,22.87058,115.59312,22.91058",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:deu_x_preferred":[
-        "Banpu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "115.57312,22.89058,115.57312,22.89058",
+    "geom:latitude": 22.89058,
+    "geom:longitude": 115.57312,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Banpu",
+    "gn:country_code": "CN",
+    "gn:dem": 6,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7012900,
+    "gn:latitude": 22.89058,
+    "gn:longitude": 115.57312,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Banpu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "115.55312,22.87058,115.59312,22.91058",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:deu_x_preferred": [
+      "Banpu"
     ],
-    "name:jpn_x_preferred":[
-        "\u30d0\u30f3\u30d7\u30fc"
+    "name:jpn_x_preferred": [
+      "バンプー"
     ],
-    "name:tha_x_preferred":[
-        "\u0e1a\u0e49\u0e32\u0e19\u0e1b\u0e39"
+    "name:tha_x_preferred": [
+      "บ้านปู"
     ],
-    "name:zho_x_preferred":[
-        "\u534a\u57d4"
+    "name:zho_x_preferred": [
+      "半埔"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890515843
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890513765,
+      890515843
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7012900
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7012900
     },
-    "wof:country":"CN",
-    "wof:geomhash":"a93eca70f0516fdc00abdbd8b9889d53",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890515843,
-            "empire_id":136253041,
-            "locality_id":1310351609,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "a93eca70f0516fdc00abdbd8b9889d53",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890515843,
+        "empire_id": 136253041,
+        "locality_id": 1310351609,
+        "region_id": 85669743,
+        "localadmin_id": 890513765
+      }
     ],
-    "wof:id":1310351609,
-    "wof:lastmodified":1566690346,
-    "wof:name":"Banpu",
-    "wof:parent_id":890515843,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1310351609,
+    "wof:lastmodified": 1768667914,
+    "wof:name": "Banpu",
+    "wof:parent_id": 890513765,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     115.57312,
     22.89058,
     115.57312,
     22.89058
-],
-  "geometry": {"coordinates":[115.57312,22.89058],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      115.57312,
+      22.89058
+    ],
+    "type": "Point"
+  }
 }

@@ -2,84 +2,92 @@
   "id": 1243132095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"114.94215,22.9614,114.94215,22.9614",
-    "geom:latitude":22.9614,
-    "geom:longitude":114.94215,
-    "gn:admin1_code":"30.0",
-    "gn:asciiname":"Lahu",
-    "gn:country_code":"CN",
-    "gn:dem":118,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7029824,
-    "gn:latitude":22.9614,
-    "gn:longitude":114.94215,
-    "gn:modification_date":"2012-01-20",
-    "gn:name":"Lahu",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"114.92215,22.9414,114.96215,22.9814",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:ceb_x_preferred":[
-        "Lahu"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "114.94215,22.9614,114.94215,22.9614",
+    "geom:latitude": 22.9614,
+    "geom:longitude": 114.94215,
+    "gn:admin1_code": "30.0",
+    "gn:asciiname": "Lahu",
+    "gn:country_code": "CN",
+    "gn:dem": 118,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7029824,
+    "gn:latitude": 22.9614,
+    "gn:longitude": 114.94215,
+    "gn:modification_date": "2012-01-20",
+    "gn:name": "Lahu",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "114.92215,22.9414,114.96215,22.9814",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:ceb_x_preferred": [
+      "Lahu"
     ],
-    "name:fra_x_preferred":[
-        "Lahu"
+    "name:fra_x_preferred": [
+      "Lahu"
     ],
-    "name:swe_x_preferred":[
-        "Lahu"
+    "name:swe_x_preferred": [
+      "Lahu"
     ],
-    "name:zho_x_preferred":[
-        "\u62c9\u80e1"
+    "name:zho_x_preferred": [
+      "拉胡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669743,
-        102191569,
-        85632695,
-        136253041,
-        890516563
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669743,
+      102191569,
+      136253041,
+      890514611,
+      890516563
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7029824
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7029824
     },
-    "wof:country":"CN",
-    "wof:geomhash":"690eed47c3460207738ffa2f78f3fc56",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516563,
-            "empire_id":136253041,
-            "locality_id":1243132095,
-            "region_id":85669743
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "690eed47c3460207738ffa2f78f3fc56",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516563,
+        "empire_id": 136253041,
+        "locality_id": 1243132095,
+        "region_id": 85669743,
+        "localadmin_id": 890514611
+      }
     ],
-    "wof:id":1243132095,
-    "wof:lastmodified":1566695670,
-    "wof:name":"Lahu",
-    "wof:parent_id":890516563,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1243132095,
+    "wof:lastmodified": 1768668261,
+    "wof:name": "Lahu",
+    "wof:parent_id": 890514611,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     114.94215,
     22.9614,
     114.94215,
     22.9614
-],
-  "geometry": {"coordinates":[114.94215,22.9614],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      114.94215,
+      22.9614
+    ],
+    "type": "Point"
+  }
 }

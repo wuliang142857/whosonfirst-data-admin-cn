@@ -2,79 +2,87 @@
   "id": 1360272047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.97126,29.98303,109.97126,29.98303",
-    "geom:latitude":29.98303,
-    "geom:longitude":109.97126,
-    "gn:admin1_code":"12.0",
-    "gn:asciiname":"Zhongying",
-    "gn:country_code":"CN",
-    "gn:dem":912,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPLA4",
-    "gn:geonameid":1784228,
-    "gn:latitude":29.98303,
-    "gn:longitude":109.97126,
-    "gn:modification_date":"2013-06-04",
-    "gn:name":"Zhongying",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.95126,29.96303,109.99126,30.00303",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "\u4e2d\u8425",
-        "Zhongying Xiang"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.97126,29.98303,109.97126,29.98303",
+    "geom:latitude": 29.98303,
+    "geom:longitude": 109.97126,
+    "gn:admin1_code": "12.0",
+    "gn:asciiname": "Zhongying",
+    "gn:country_code": "CN",
+    "gn:dem": 912,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPLA4",
+    "gn:geonameid": 1784228,
+    "gn:latitude": 29.98303,
+    "gn:longitude": 109.97126,
+    "gn:modification_date": "2013-06-04",
+    "gn:name": "Zhongying",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.95126,29.96303,109.99126,30.00303",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:und_x_variant": [
+      "中营",
+      "Zhongying Xiang"
     ],
-    "name:zho_x_preferred":[
-        "\u4e2d\u8425\u4e61"
+    "name:zho_x_preferred": [
+      "中营乡"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669777,
-        102191569,
-        85632695,
-        136253041,
-        1108732427
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669777,
+      102191569,
+      136253041,
+      1108732427,
+      1127422828
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":1784228
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 1784228
     },
-    "wof:country":"CN",
-    "wof:geomhash":"5d9576e95b27668d0e096e1c3db38cbc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732427,
-            "empire_id":136253041,
-            "locality_id":1360272047,
-            "region_id":85669777
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "5d9576e95b27668d0e096e1c3db38cbc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732427,
+        "empire_id": 136253041,
+        "locality_id": 1360272047,
+        "region_id": 85669777,
+        "localadmin_id": 1127422828
+      }
     ],
-    "wof:id":1360272047,
-    "wof:lastmodified":1566691681,
-    "wof:name":"Zhongying",
-    "wof:parent_id":1108732427,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1360272047,
+    "wof:lastmodified": 1768665687,
+    "wof:name": "Zhongying",
+    "wof:parent_id": 1127422828,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.97126000000002,
     29.98303,
     109.97126000000002,
     29.98303
-],
-  "geometry": {"coordinates":[109.97126000000002,29.98303],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.97126000000002,
+      29.98303
+    ],
+    "type": "Point"
+  }
 }

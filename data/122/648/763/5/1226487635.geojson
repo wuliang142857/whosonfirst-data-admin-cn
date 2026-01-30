@@ -2,75 +2,83 @@
   "id": 1226487635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"105.684,30.7414,105.684,30.7414",
-    "geom:latitude":30.7414,
-    "geom:longitude":105.684,
-    "gn:admin1_code":"32.0",
-    "gn:asciiname":"Huilongwan",
-    "gn:country_code":"CN",
-    "gn:dem":380,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":10162346,
-    "gn:latitude":30.7414,
-    "gn:longitude":105.684,
-    "gn:modification_date":"2015-03-10",
-    "gn:name":"Huilongwan",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"105.664,30.7214,105.704,30.7614",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u56de\u9f99\u6e7e"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "105.684,30.7414,105.684,30.7414",
+    "geom:latitude": 30.7414,
+    "geom:longitude": 105.684,
+    "gn:admin1_code": "32.0",
+    "gn:asciiname": "Huilongwan",
+    "gn:country_code": "CN",
+    "gn:dem": 380,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 10162346,
+    "gn:latitude": 30.7414,
+    "gn:longitude": 105.684,
+    "gn:modification_date": "2015-03-10",
+    "gn:name": "Huilongwan",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "105.664,30.7214,105.704,30.7614",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "回龙湾"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669787,
-        102191569,
-        85632695,
-        136253041,
-        890514641
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669787,
+      102191569,
+      136253041,
+      890514641,
+      1127510921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":10162346
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 10162346
     },
-    "wof:country":"CN",
-    "wof:geomhash":"3161e551f6034861fda168e80367a144",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890514641,
-            "empire_id":136253041,
-            "locality_id":1226487635,
-            "region_id":85669787
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "3161e551f6034861fda168e80367a144",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890514641,
+        "empire_id": 136253041,
+        "locality_id": 1226487635,
+        "region_id": 85669787,
+        "localadmin_id": 1127510921
+      }
     ],
-    "wof:id":1226487635,
-    "wof:lastmodified":1566704749,
-    "wof:name":"Huilongwan",
-    "wof:parent_id":890514641,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1226487635,
+    "wof:lastmodified": 1768668066,
+    "wof:name": "Huilongwan",
+    "wof:parent_id": 1127510921,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     105.684,
     30.7414,
     105.684,
     30.7414
-],
-  "geometry": {"coordinates":[105.684,30.7414],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      105.684,
+      30.7414
+    ],
+    "type": "Point"
+  }
 }

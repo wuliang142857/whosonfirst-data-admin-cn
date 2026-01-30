@@ -2,75 +2,83 @@
   "id": 1327134491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"119.09661,31.30248,119.09661,31.30248",
-    "geom:latitude":31.30248,
-    "geom:longitude":119.09661,
-    "gn:admin1_code":"4.0",
-    "gn:asciiname":"Kaitou",
-    "gn:country_code":"CN",
-    "gn:dem":16,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":8396115,
-    "gn:latitude":31.30248,
-    "gn:longitude":119.09661,
-    "gn:modification_date":"2012-10-08",
-    "gn:name":"Kaitou",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"119.07661,31.28248,119.11661,31.32248",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5f00\u5934"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "119.09661,31.30248,119.09661,31.30248",
+    "geom:latitude": 31.30248,
+    "geom:longitude": 119.09661,
+    "gn:admin1_code": "4.0",
+    "gn:asciiname": "Kaitou",
+    "gn:country_code": "CN",
+    "gn:dem": 16,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 8396115,
+    "gn:latitude": 31.30248,
+    "gn:longitude": 119.09661,
+    "gn:modification_date": "2012-10-08",
+    "gn:name": "Kaitou",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "119.07661,31.28248,119.11661,31.32248",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "开头"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669827,
-        102191569,
-        85632695,
-        136253041,
-        890516425
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669827,
+      102191569,
+      136253041,
+      890514191,
+      890516425
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":8396115
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 8396115
     },
-    "wof:country":"CN",
-    "wof:geomhash":"22cc4fc9986c07276a80061f73117d82",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890516425,
-            "empire_id":136253041,
-            "locality_id":1327134491,
-            "region_id":85669827
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "22cc4fc9986c07276a80061f73117d82",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890516425,
+        "empire_id": 136253041,
+        "locality_id": 1327134491,
+        "region_id": 85669827,
+        "localadmin_id": 890514191
+      }
     ],
-    "wof:id":1327134491,
-    "wof:lastmodified":1566650061,
-    "wof:name":"Kaitou",
-    "wof:parent_id":890516425,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327134491,
+    "wof:lastmodified": 1768670271,
+    "wof:name": "Kaitou",
+    "wof:parent_id": 890514191,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     119.09661,
     31.30248,
     119.09661,
     31.30248
-],
-  "geometry": {"coordinates":[119.09661,31.30248],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      119.09661,
+      31.30248
+    ],
+    "type": "Point"
+  }
 }

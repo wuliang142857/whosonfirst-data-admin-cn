@@ -2,78 +2,86 @@
   "id": 1327443531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"120.67845,29.76076,120.67845,29.76076",
-    "geom:latitude":29.76076,
-    "geom:longitude":120.67845,
-    "gn:admin1_code":"2.0",
-    "gn:asciiname":"Yuzhai",
-    "gn:country_code":"CN",
-    "gn:dem":64,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11198606,
-    "gn:latitude":29.76076,
-    "gn:longitude":120.67845,
-    "gn:modification_date":"2016-07-06",
-    "gn:name":"Yuzhai",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"120.65845,29.74076,120.69845,29.78076",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:swe_x_preferred":[
-        "Yuzhai"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "120.67845,29.76076,120.67845,29.76076",
+    "geom:latitude": 29.76076,
+    "geom:longitude": 120.67845,
+    "gn:admin1_code": "2.0",
+    "gn:asciiname": "Yuzhai",
+    "gn:country_code": "CN",
+    "gn:dem": 64,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 11198606,
+    "gn:latitude": 29.76076,
+    "gn:longitude": 120.67845,
+    "gn:modification_date": "2016-07-06",
+    "gn:name": "Yuzhai",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "120.65845,29.74076,120.69845,29.78076",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:swe_x_preferred": [
+      "Yuzhai"
     ],
-    "name:zho_x_preferred":[
-        "\u55bb\u5b85"
+    "name:zho_x_preferred": [
+      "喻宅"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        85669835,
-        102191569,
-        85632695,
-        136253041,
-        890513785
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669835,
+      102191569,
+      136253041,
+      890513785,
+      1127330603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11198606
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 11198606
     },
-    "wof:country":"CN",
-    "wof:geomhash":"486898d281f7f23aea8d3b472cc59808",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":890513785,
-            "empire_id":136253041,
-            "locality_id":1327443531,
-            "region_id":85669835
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "486898d281f7f23aea8d3b472cc59808",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 890513785,
+        "empire_id": 136253041,
+        "locality_id": 1327443531,
+        "region_id": 85669835,
+        "localadmin_id": 1127330603
+      }
     ],
-    "wof:id":1327443531,
-    "wof:lastmodified":1566653994,
-    "wof:name":"Yuzhai",
-    "wof:parent_id":890513785,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1327443531,
+    "wof:lastmodified": 1768669996,
+    "wof:name": "Yuzhai",
+    "wof:parent_id": 1127330603,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     120.67845,
     29.76076,
     120.67845,
     29.76076
-],
-  "geometry": {"coordinates":[120.67845,29.76076],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      120.67845,
+      29.76076
+    ],
+    "type": "Point"
+  }
 }

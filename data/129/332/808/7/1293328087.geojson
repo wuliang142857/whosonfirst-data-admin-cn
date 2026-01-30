@@ -2,73 +2,81 @@
   "id": 1293328087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"109.51977,18.55093,109.51977,18.55093",
-    "geom:latitude":18.55093,
-    "geom:longitude":109.51977,
-    "gn:admin1_code":"31.0",
-    "gn:asciiname":"Nangai Wucun",
-    "gn:country_code":"CN",
-    "gn:dem":362,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7635142,
-    "gn:latitude":18.55093,
-    "gn:longitude":109.51977,
-    "gn:modification_date":"2015-01-08",
-    "gn:name":"Nangai Wucun",
-    "gn:population":0,
-    "gn:timezone":"Asia/Shanghai",
-    "iso:country":"CN",
-    "lbl:bbox":"109.49977,18.53093,109.53977,18.57093",
-    "lbl:max_zoom":18.0,
-    "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":12.0,
-    "name:zho_x_preferred":[
-        "\u5357\u6539\u4e94\u6751"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "uuuu",
+    "geom:area": 0.0,
+    "geom:area_square_m": 0.0,
+    "geom:bbox": "109.51977,18.55093,109.51977,18.55093",
+    "geom:latitude": 18.55093,
+    "geom:longitude": 109.51977,
+    "gn:admin1_code": "31.0",
+    "gn:asciiname": "Nangai Wucun",
+    "gn:country_code": "CN",
+    "gn:dem": 362,
+    "gn:feature_class": "P",
+    "gn:feature_code": "PPL",
+    "gn:geonameid": 7635142,
+    "gn:latitude": 18.55093,
+    "gn:longitude": 109.51977,
+    "gn:modification_date": "2015-01-08",
+    "gn:name": "Nangai Wucun",
+    "gn:population": 0,
+    "gn:timezone": "Asia/Shanghai",
+    "iso:country": "CN",
+    "lbl:bbox": "109.49977,18.53093,109.53977,18.57093",
+    "lbl:max_zoom": 18.0,
+    "lbl:min_zoom": 13.5,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:min_zoom": 12.0,
+    "name:zho_x_preferred": [
+      "南改五村"
     ],
-    "src:geom":"geonames",
-    "wof:belongsto":[
-        102191569,
-        85632695,
-        85669759,
-        1108732357
+    "src:geom": "geonames",
+    "wof:belongsto": [
+      85632695,
+      85669759,
+      102191569,
+      890515211,
+      1108732357
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":7635142
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gn:id": 7635142
     },
-    "wof:country":"CN",
-    "wof:geomhash":"547ee9d6a175521b8d8098e97072773d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191569,
-            "country_id":85632695,
-            "county_id":1108732357,
-            "locality_id":1293328087,
-            "region_id":85669759
-        }
+    "wof:country": "CN",
+    "wof:geomhash": "547ee9d6a175521b8d8098e97072773d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191569,
+        "country_id": 85632695,
+        "county_id": 1108732357,
+        "locality_id": 1293328087,
+        "region_id": 85669759,
+        "localadmin_id": 890515211
+      }
     ],
-    "wof:id":1293328087,
-    "wof:lastmodified":1566669125,
-    "wof:name":"Nangai Wucun",
-    "wof:parent_id":1108732357,
-    "wof:placetype":"locality",
-    "wof:repo":"whosonfirst-data-admin-cn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 1293328087,
+    "wof:lastmodified": 1768671214,
+    "wof:name": "Nangai Wucun",
+    "wof:parent_id": 890515211,
+    "wof:placetype": "locality",
+    "wof:repo": "whosonfirst-data-admin-cn",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     109.51977,
     18.55093,
     109.51977,
     18.55093
-],
-  "geometry": {"coordinates":[109.51976999999999,18.55093],"type":"Point"}
+  ],
+  "geometry": {
+    "coordinates": [
+      109.51977,
+      18.55093
+    ],
+    "type": "Point"
+  }
 }
